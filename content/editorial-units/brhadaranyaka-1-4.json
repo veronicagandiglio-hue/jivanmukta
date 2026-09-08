@@ -1,0 +1,21 @@
+{
+  "id": "brhadaranyaka-1-4",
+  "work_id": "brhadaranyaka-upanishad",
+  "unit_locus": "I.4",
+  "unit_title": "Il racconto di Ātman in principio",
+  "sections": [
+    {
+      "section_locus": "I.4.1",
+      "section_title": "Ātman prima di ogni distinzione",
+      "passages": [
+        {
+          "id": "brhad-1-4-1",
+          "original": "ātmaivedam agre āsīt puruṣavidhaḥ",
+          "translation": "In principio, questo mondo era solo Ātman, sotto forma di persona. Guardando attorno a sé, non vide nulla se non se stesso. Disse per primo: \"Io sono\" — e da questo nacque il nome \"Io\".",
+          "source": "Bṛhadāraṇyaka Upaniṣad, I.4.1",
+          "editorial_status": "Contenuto già presente negli artefatti del progetto; il presente record ne rende esplicita la provenienza nel modello dati."
+        }
+      ]
+    }
+  ]
+}

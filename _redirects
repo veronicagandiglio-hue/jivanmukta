@@ -1,0 +1,46 @@
+# _redirects — routing URL pubblici di Jivanmukta
+# =====================================================================
+# Sintassi Cloudflare Pages / Netlify. Ogni riga è:
+#   <path richiesto>   <destinazione>   <status>
+#
+# Status 200 = rewrite: il browser mantiene il path leggibile nella
+#   barra dell'indirizzo, ma il server serve il file di destinazione.
+#   Le pagine leggono poi l'id dal path stesso (js/url-router.js),
+#   non da questa destinazione.
+# Status 301 = redirect vero e proprio: il browser viene mandato
+#   sul nuovo URL canonico (usato solo per i vecchi file statici
+#   del Vertical Slice, non per il routing dei template dinamici).
+#
+# L'ordine conta: le regole più specifiche vanno PRIMA di quelle
+# generiche con lo splat (*), altrimenti non vengono mai raggiunte.
+# =====================================================================
+
+# --- Testi (Work): deep link a capitolo/sezione ---------------------
+# Template dinamico dell'unità editoriale (unita.html): legge opera,
+# unità e passaggi esclusivamente dal Content Engine. Il capitolo
+# (":cap", es. "i") individua l'unità; ":sez", se presente, resta
+# nel path per leggibilità ma la posizione esatta nel flusso di
+# lettura è raggiunta via anchor (#<id-passaggio>), non da un
+# template a sé per la sezione — coerente con la lettura continua
+# richiesta (nessuna pagina-per-passaggio).
+/testi/:slug/:cap/:sez        /unita.html   200
+/testi/:slug/:cap             /unita.html   200
+
+# --- I 5 template dinamici, un prefisso per tipo di entità ----------
+/domande/*     /domanda.html     200
+/concetti/*    /concetto.html    200
+/testi/*       /opera.html       200
+/autori/*      /autore.html      200
+/confronti/*   /confronto.html   200
+
+# --- Compatibilità con i vecchi URL statici del Vertical Slice ------
+# Le pagine originali restano sul server (nessun file è stato
+# cancellato): questi redirect indirizzano i vecchi indirizzi verso
+# l'equivalente canonico con il nuovo template dinamico.
+/che-cose-brahman.html              /domande/che-cose-brahman              301
+/che-cose-reale.html                /domande/che-cose-reale                301
+/domanda-brahman.html               /domande/che-cose-brahman              301
+/concetto-brahman.html              /concetti/brahman                      301
+/autore-shankara.html               /autori/shankara                       301
+/opera-brhadaranyaka.html           /testi/brhadaranyaka-upanishad         301
+/confronto-advaita-buddhismo.html   /confronti/confronto-advaita-buddhismo 301

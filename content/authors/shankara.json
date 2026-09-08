@@ -1,0 +1,39 @@
+{
+  "id": "shankara",
+  "name": "Śaṅkara",
+  "transliteration": "शङ्कर",
+  "role": "bhāṣyakāra",
+  "role_description": "autore tradizionale — commentatore (bhāṣyakāra)",
+  "context": "Riconosciuto dalla tradizione come il sistematizzatore dell'Advaita Vedānta attraverso i suoi commentari (bhāṣya) alle Upaniṣad principali, al Brahma Sūtra e alla Bhagavad Gītā. È collocato nella linea che risale a Gauḍapāda, attraverso il maestro Govindapāda. La cronologia resta oggetto di discussione filologica; qui conta meno della posizione che il suo commento occupa nella struttura dei testi.",
+  "works": [
+    "brhadaranyaka-upanishad"
+  ],
+  "concepts": [
+    "brahman",
+    "atman"
+  ],
+  "pending_works": [
+    { "title": "Brahma Sūtra Bhāṣya", "note": "commento; non ancora presente nel sito" },
+    { "title": "Bhagavad Gītā Bhāṣya", "note": "commento; non ancora presente nel sito" },
+    { "title": "Upadeśasāhasrī", "note": "opera autonoma; non ancora presente nel sito" }
+  ],
+  "pending_concepts": [
+    { "name": "Māyā" },
+    { "name": "Avidyā" }
+  ],
+  "related_authors": [],
+  "pending_related_authors": [
+    {
+      "name": "Gauḍapāda",
+      "why": "Suo paramaguru nella linea di trasmissione: la Māṇḍūkya Kārikā anticipa argomenti che Śaṅkara sistematizza nei bhāṣya."
+    },
+    {
+      "name": "Sureśvara",
+      "why": "Discepolo diretto; autore delle vārttika ai principali commentari di Śaṅkara, che ne prolungano e discutono l'argomentazione."
+    },
+    {
+      "name": "René Guénon",
+      "why": "Assume il commentario di Śaṅkara come riferimento dottrinale principale nella propria esposizione occidentale della metafisica advaita, pur non appartenendo alla linea dei commentatori."
+    }
+  ]
+}

@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<base href="/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Domanda — Advaita Vedānta</title>
+
+<!--
+  ============================================================
+  TEMPLATE — Pagina di Domanda (tipo QUESTION)
+  ============================================================
+  Sostituisce le pagine statiche che-cose-reale.html (domanda
+  "great") e che-cose-brahman.html (domanda "specific"): non
+  esiste più una pagina HTML distinta per singola domanda,
+  esiste questa unica pagina-template.
+
+  Il contenuto è determinato dallo slug in query string:
+      domanda.html?rif=<id-domanda>
+  (stessa convenzione già presente, non usata, nei link interni
+  agli artefatti precedenti — es. "domanda.html?rif=...").
+
+  Il markup qui sotto contiene, UNA SOLA VOLTA, ogni blocco
+  possibile di una domanda (fonti, passaggi, commento, domande
+  più specifiche, domande correlate). Nessun blocco è scritto
+  due volte per i due "livelli" di domanda: lo script in fondo
+  alla pagina popola e mostra solo i blocchi per cui la domanda
+  richiesta ha dati reali, recuperati sempre attraverso
+  js/content-engine.js — mai dati scritti qui nel markup.
+
+  Le uniche differenze visive tra una domanda "great" (es. "Che
+  cos'è reale?") e una "specific" (es. "Che cos'è Brahman?")
+  restano quelle già presenti nei due artefatti originali:
+    - "great": può avere un elenco di domande più specifiche
+      (.directions) e, se ha domande correlate, le presenta come
+      "salto di livello" (.crossings, con motivazione visibile).
+    - "specific": può avere fonti, passaggi, commento; se ha
+      domande correlate, le presenta come "nuove domande che si
+      aprono" (.opening__list, senza motivazione visibile — la
+      stessa relazione dati, resa diversamente).
+  Questa distinzione è pilotata dal campo "type" della domanda,
+  non da due pagine diverse.
+
+  Ordine dei blocchi (fisso, indipendente dal contenuto):
+    1. masthead (+ breadcrumb, se la domanda ha un genitore)
+    2. DOMANDA
+    3. PROBLEMA
+    4. FONTI FONDAMENTALI (se ci sono passaggi/commentari)
+    5. PASSAGGI + concetti collegati a margine (se presenti)
+    6. COMMENTO (se ci sono commentari collegati)
+    7. DOMANDE PIÙ SPECIFICHE (se presenti)
+    8. DOMANDE CORRELATE (se presenti)
+  ============================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+<style>
+
+/* ============================================================
+   1. TOKEN — identici al sistema (unione dei token usati dai
+   due artefatti QUESTION originali: nessun valore cambiato)
+   ============================================================ */
+:root{
+  --color-bg:        #F5F3EE;
+  --color-bg-raised: #EFECE3;
+  --color-ink:        #201F1C;
+  --color-ink-muted:  #5B584E;
+  --color-ink-faint:  #8B8778;
+  --color-accent:     #45516C;
+  --color-rule:       #D9D4C6;
+
+  --font-text: 'Gentium Plus', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+
+  --fs-question:  clamp(2rem, 4.5vw + 1rem, 3.4rem);
+  --fs-direction: clamp(1.375rem, 1.4vw + 1rem, 1.75rem);
+  --fs-title:     1.375rem;
+  --fs-body:      1.125rem;
+  --fs-passage:   1.25rem;
+  --fs-note:      0.95rem;
+  --fs-caption:   0.85rem;
+
+  --lh-tight:  1.25;
+  --lh-body:   1.7;
+  --lh-passage: 1.85;
+
+  --sp-1: 0.375rem;
+  --sp-2: 0.75rem;
+  --sp-3: 1.25rem;
+  --sp-4: 2rem;
+  --sp-5: 3.25rem;
+  --sp-6: 5rem;
+  --sp-7: 7.5rem;
+
+  --measure:   38rem;
+  --page-max:  60rem;
+}
+
+/* ============================================================
+   2. RESET MINIMO
+   ============================================================ */
+*, *::before, *::after{ box-sizing: border-box; }
+html{ -webkit-text-size-adjust: 100%; }
+body{ margin: 0; }
+ul,ol{ margin: 0; padding: 0; list-style: none; }
+a{ color: inherit; }
+h1,h2,h3,p,dl,dd{ margin: 0; }
+button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; text-align: left; }
+
+/* ============================================================
+   3. TIPOGRAFIA DI BASE
+   ============================================================ */
+body{
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-text);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  font-feature-settings: "onum" 1, "liga" 1;
+}
+
+.eyebrow{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+/* ============================================================
+   4. GRIGLIA DI PAGINA — invisibile, identica al sistema
+   ============================================================ */
+.page{
+  display: grid;
+  grid-template-columns: minmax(var(--sp-3), 1fr) minmax(0, var(--page-max)) minmax(var(--sp-3), 1fr);
+  padding-block: var(--sp-5) var(--sp-7);
+}
+.page > *{ grid-column: 2; }
+
+.measure{ max-width: var(--measure); margin-inline: auto; }
+
+.unit{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--sp-3);
+  max-width: var(--page-max);
+  margin-inline: auto;
+}
+.unit__main{ max-width: var(--measure); }
+.unit__aside{ max-width: var(--measure); }
+
+@media (min-width: 1100px){
+  .unit--aside{
+    grid-template-columns: minmax(0, var(--measure)) minmax(11rem, 14rem);
+    column-gap: var(--sp-5);
+    align-items: start;
+  }
+  .unit--aside .unit__aside{ max-width: none; }
+}
+
+.block + .block{ margin-top: var(--sp-6); }
+.block--tight + .block{ margin-top: var(--sp-4); }
+.block[hidden]{ display: none; }
+
+/* ============================================================
+   5. TESTATA — identica al sistema
+   ============================================================ */
+.masthead{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--sp-3);
+  padding-bottom: var(--sp-5);
+  border-bottom: 1px solid var(--color-rule);
+}
+.masthead__mark{ font-size: var(--fs-note); color: var(--color-ink-muted); }
+.masthead__index{ font-size: var(--fs-note); }
+
+.breadcrumb{
+  margin-top: var(--sp-3);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+}
+.breadcrumb[hidden]{ display: none; }
+.breadcrumb a{
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-underline-offset: 0.15em;
+}
+.breadcrumb a:hover{ color: var(--color-accent); text-decoration-color: currentColor; }
+
+/* ============================================================
+   6. LA DOMANDA
+   ============================================================ */
+.question{
+  font-size: var(--fs-question);
+  line-height: var(--lh-tight);
+  font-weight: 400;
+  max-width: 20ch;
+}
+
+/* ============================================================
+   7. IL PROBLEMA
+   ============================================================ */
+.problem{
+  color: var(--color-ink-muted);
+  max-width: 42ch;
+}
+
+/* ============================================================
+   8. FONTI FONDAMENTALI — elenco tipografico, non card
+   ============================================================ */
+.sources__lead{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+.sources{
+  margin-top: var(--sp-3);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+}
+.source{
+  font-size: var(--fs-title);
+}
+.source__title{
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  font-weight: 700;
+}
+.source__title:hover,
+.source__title:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+.source__ref{
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  font-weight: 400;
+}
+.source__why{
+  display: block;
+  margin-top: var(--sp-1);
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+}
+
+/* ============================================================
+   9. PASSAGGI
+   ============================================================
+   Un passaggio aperto per default; gli altri richiamati come
+   voci selezionabili, non distesi. Selezionarne un altro sposta
+   quale sia "aperto" — non accumula testo sulla pagina. */
+.passages__lead{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+.passage-switch{
+  margin-top: var(--sp-3);
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--sp-4);
+  row-gap: var(--sp-1);
+}
+.passage-switch[hidden]{ display: none; }
+.passage-switch button{
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 0.15em;
+  cursor: pointer;
+}
+.passage-switch button[aria-current="true"]{
+  color: var(--color-ink);
+  text-decoration-color: var(--color-rule);
+}
+.passage-switch button:hover,
+.passage-switch button:focus-visible{
+  color: var(--color-accent);
+}
+.passage-switch button:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
+
+.passage-view{ margin-top: var(--sp-4); }
+.passage-view[hidden]{ display: none; }
+
+.passage{
+  font-size: var(--fs-passage);
+  line-height: var(--lh-passage);
+  padding-left: var(--sp-3);
+  border-left: 1px solid var(--color-rule);
+}
+.passage__original{ color: var(--color-ink-muted); font-size: var(--fs-note); }
+.passage__original + .passage__text{ margin-top: var(--sp-2); }
+.passage__source{
+  display: block;
+  margin-top: var(--sp-2);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+.context-access{
+  margin-top: var(--sp-3);
+  padding-left: var(--sp-3);
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--sp-4);
+  row-gap: var(--sp-1);
+  font-size: var(--fs-note);
+}
+.context-access a{
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-underline-offset: 0.15em;
+}
+.context-access a:hover,
+.context-access a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+
+.notes{ margin-top: var(--sp-3); padding-left: var(--sp-3); font-size: var(--fs-note); color: var(--color-ink-muted); }
+.notes li + li{ margin-top: var(--sp-1); }
+.notes__num{ color: var(--color-ink-faint); margin-right: var(--sp-1); }
+
+/* ============================================================
+   10. COMMENTO — distinto dal testo tradotto
+   ============================================================ */
+.expandable{ border-top: 1px solid var(--color-rule); padding-top: var(--sp-3); }
+.expandable summary{
+  cursor: pointer;
+  list-style: none;
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+}
+.expandable summary::-webkit-details-marker{ display: none; }
+.expandable summary::before{ content: "+ "; color: var(--color-ink-faint); }
+.expandable[open] summary::before{ content: "– "; }
+.expandable__body{ margin-top: var(--sp-3); overflow: hidden; }
+.expandable__body p + p{ margin-top: var(--sp-2); }
+
+.citation{
+  margin: var(--sp-3) 0;
+  padding-left: var(--sp-3);
+  border-left: 1px solid var(--color-rule);
+  color: var(--color-ink-muted);
+  font-size: var(--fs-note);
+}
+.citation__source{
+  display: block;
+  margin-top: var(--sp-1);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+/* ============================================================
+   11. DOMANDE PIÙ SPECIFICHE ("direzioni" — proprie del livello
+   "great") — un unico elenco tipografico
+   ============================================================ */
+.directions{
+  display: flex;
+  flex-direction: column;
+}
+.directions a{
+  display: block;
+  font-size: var(--fs-direction);
+  line-height: var(--lh-tight);
+  padding-block: var(--sp-2);
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  max-width: 30ch;
+}
+.directions a:hover,
+.directions a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+.directions a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 4px; }
+.directions li + li{ margin-top: var(--sp-1); }
+.directions li[data-proximity="lateral"]{
+  margin-left: 1.75rem;
+  margin-top: var(--sp-2);
+}
+.directions li[data-proximity="lateral"] a{
+  font-size: calc(var(--fs-direction) * 0.86);
+  color: var(--color-ink-muted);
+}
+
+/* ============================================================
+   12. DOMANDE CORRELATE
+   ------------------------------------------------------------
+   Due rese diverse della STESSA relazione dati (related_questions),
+   scelte in base al livello della domanda — non due pagine:
+     .crossings      → livello "great": salto di livello, con
+                        motivazione visibile
+     .opening__list  → livello "specific": nuove domande che si
+                        aprono, senza motivazione visibile
+   ============================================================ */
+.crossings{
+  padding-top: var(--sp-4);
+  border-top: 1px solid var(--color-rule);
+}
+.crossings__lead{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+.crossings__list{
+  margin-top: var(--sp-3);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+}
+.crossing__link{
+  font-size: var(--fs-title);
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+.crossing__link:hover,
+.crossing__link:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+.crossing__link:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
+.crossing__why{
+  display: block;
+  margin-top: var(--sp-1);
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  max-width: 46ch;
+}
+
+.opening__list{ display: flex; flex-direction: column; }
+.opening__list a{
+  display: block;
+  font-size: var(--fs-title);
+  padding-block: var(--sp-2);
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+.opening__list a:hover,
+.opening__list a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+.opening__list a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 4px; }
+.opening__list li + li{ border-top: 1px solid var(--color-rule); }
+
+/* ============================================================
+   13. ASIDE — concetti nel margine
+   ============================================================ */
+.aside-block__label{ font-size: var(--fs-caption); color: var(--color-ink-faint); font-style: italic; }
+.aside-block__items{ margin-top: var(--sp-2); display: flex; flex-direction: column; gap: var(--sp-1); }
+.aside-block__items a{
+  text-decoration-style: dotted;
+  text-decoration-color: var(--color-ink-faint);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+.aside-block__items a:hover,
+.aside-block__items a:focus-visible{ text-decoration-style: solid; color: var(--color-accent); }
+
+/* ============================================================
+   14. FOOTER
+   ============================================================ */
+.footer{
+  margin-top: var(--sp-7);
+  padding-top: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+  display: flex;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+}
+
+/* ============================================================
+   15. MOVIMENTO — minimo, mai continuo
+   ============================================================ */
+@media (prefers-reduced-motion: no-preference){
+  a{ transition: color 150ms ease, text-decoration-color 150ms ease; }
+  button{ transition: color 150ms ease, text-decoration-color 150ms ease; }
+  .expandable__body{ transition: max-height 260ms ease; }
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 640px){
+  :root{ --fs-body: 1.0625rem; --fs-passage: 1.1875rem; }
+  .page{ padding-inline: var(--sp-3); padding-block: var(--sp-4) var(--sp-6); }
+  .page > *{ grid-column: 1 / -1; }
+  .block + .block{ margin-top: var(--sp-5); }
+  .masthead{ flex-direction: column; align-items: flex-start; gap: var(--sp-1); }
+  .footer{ flex-direction: column; gap: var(--sp-1); }
+  .directions li[data-proximity="lateral"]{ margin-left: 1.1rem; }
+}
+
+</style>
+</head>
+<body data-slice="question">
+
+<div class="page" id="page">
+
+  <header>
+    <div class="masthead">
+      <a class="masthead__mark" href="index.html">Advaita Vedānta — uno studio delle fonti</a>
+      <a class="masthead__index" href="index.html">tutte le domande</a>
+    </div>
+    <p class="breadcrumb" id="breadcrumb" hidden></p>
+  </header>
+
+  <!-- 1. LA DOMANDA -->
+  <section class="block measure">
+    <h1 class="question" id="question-text"></h1>
+  </section>
+
+  <!-- 2. IL PROBLEMA -->
+  <section class="block block--tight measure">
+    <p class="problem" id="problem-text"></p>
+  </section>
+
+  <!-- 3. FONTI FONDAMENTALI (mostrata solo se emergono fonti da passaggi/commentari) -->
+  <section class="block measure" id="section-sources" hidden>
+    <p class="sources__lead">testi fondamentali per affrontare questa questione</p>
+    <ul class="sources" id="sources-list"></ul>
+  </section>
+
+  <!-- 4. PASSAGGI + concetti collegati a margine (mostrata solo se ci sono passaggi) -->
+  <section class="block unit unit--aside" id="section-passages" hidden>
+    <div class="unit__main">
+      <p class="passages__lead" id="passages-lead"></p>
+
+      <div class="passage-switch" role="tablist" aria-label="Passaggi disponibili" id="passage-switch" hidden></div>
+
+      <div id="passage-views"></div>
+
+      <p class="eyebrow" id="cited-not-yet-available" style="margin-top: var(--sp-4);" hidden></p>
+    </div>
+
+    <aside class="unit__aside" id="passage-aside" hidden>
+      <p class="aside-block__label">concetti in questo passaggio</p>
+      <ul class="aside-block__items" id="passage-concepts-list"></ul>
+    </aside>
+  </section>
+
+  <!-- 5. COMMENTO (mostrata solo se ci sono commentari collegati) -->
+  <section class="block measure" id="section-commentary" hidden>
+    <details class="expandable">
+      <summary>commento</summary>
+      <div class="expandable__body" id="commentary-body"></div>
+    </details>
+  </section>
+
+  <!-- 6. DOMANDE PIÙ SPECIFICHE (mostrata solo se la domanda le elenca) -->
+  <section class="block measure" id="section-directions" hidden>
+    <ul class="directions" id="directions-list"></ul>
+  </section>
+
+  <!-- 7. DOMANDE CORRELATE (mostrata solo se ce ne sono; markup interno
+       generato dallo script, in una delle due rese — vedi CSS §12) -->
+  <section class="block measure" id="section-related" hidden></section>
+
+</div>
+
+<footer class="footer measure">
+  <span>Advaita Vedānta</span>
+  <span>uno studio delle fonti</span>
+</footer>
+
+<script src="js/url-router.js"></script>
+<script src="js/content-engine.js"></script>
+<script>
+/**
+ * Rendering della pagina QUESTION attraverso il Content Engine.
+ * =====================================================================
+ * Nessun dato di dominio (testi, id, titoli) è scritto qui: tutto
+ * arriva da ContentEngine, che a sua volta legge /content/_index.
+ * Questo script si occupa solo di leggere lo slug dalla query string,
+ * chiedere i dati e popolare il markup già presente in pagina.
+ *
+ * NOTA — pagine non ancora trasformate in template (CONCEPT, WORK,
+ * AUTHOR): questa mappa è un ponte temporaneo verso gli artefatti
+ * statici che le rappresentano oggi. Quando anche quei tipi
+ * diventeranno template dinamici, questi link andranno sostituiti
+ * con le loro URL basate su id (es. opera.html?rif=..., come già
+ * accade qui per le domande con domanda.html?rif=...).
+ * =====================================================================
+ */
+(function () {
+  'use strict';
+
+  function staticLink(kind, id) {
+    if (!id) return '#';
+    if (kind === 'works') return UrlRouter.buildContentUrl('testi', id);
+    if (kind === 'authors') return UrlRouter.buildContentUrl('autori', id);
+    if (kind === 'concepts') return UrlRouter.buildContentUrl('concetti', id);
+    return '#';
+  }
+
+  /**
+   * Link al passaggio dentro il flusso di lettura della sua unità
+   * editoriale: non una pagina isolata per il solo passaggio, ma il
+   * contesto completo dell'unità con quel passaggio evidenziato
+   * (anchor #<id-passaggio>) e con la possibilità di tornare alla
+   * domanda corrente (?from=<id-domanda>).
+   */
+  function passageContextLink(passage, currentQuestionId) {
+    if (!passage || !passage.work_id) return '#';
+    let url = UrlRouter.buildContentUrl('testi', passage.work_id, localeToPathSegments(passage.unit_locus));
+    const params = new URLSearchParams();
+    if (passage.unit_id) params.set('unit', passage.unit_id);
+    if (currentQuestionId) params.set('from', currentQuestionId);
+    const qs = params.toString();
+    if (qs) url += '?' + qs;
+    url += '#' + encodeURIComponent(passage.id);
+    return url;
+  }
+
+  /**
+   * Converte un unit_locus editoriale (es. "I.4") nei segmenti
+   * [capitolo, sezione] dell'URL pubblico — stessa convenzione usata
+   * in opera.html e unita.html.
+   */
+  function localeToPathSegments(locus) {
+    if (!locus) return [];
+    const match = /^([IVXLCDM]+)\.(\d+)$/i.exec(locus.trim());
+    if (!match) return [];
+    return [match[1].toLowerCase(), match[2]];
+  }
+
+  function questionUrl(id) {
+    return UrlRouter.buildContentUrl('domande', id);
+  }
+
+  function createEl(tag, opts) {
+    opts = opts || {};
+    const el = document.createElement(tag);
+    if (opts.class) el.className = opts.class;
+    if (opts.text !== undefined) el.textContent = opts.text;
+    if (opts.href !== undefined) el.href = opts.href;
+    return el;
+  }
+
+  function byId(id) { return document.getElementById(id); }
+
+  // ==========================================================
+  // Recupero e composizione dei dati (solo ContentEngine)
+  // ==========================================================
+
+  async function buildSources(question) {
+    const sources = [];
+    const seenWorks = new Set();
+    const seenAuthors = new Set();
+
+    for (const passageId of (question.passages || [])) {
+      const passageResult = await ContentEngine.getPassage(passageId);
+      if (passageResult.status !== 'ok') continue;
+      const passage = passageResult.data;
+      if (passage.work_id && !seenWorks.has(passage.work_id)) {
+        seenWorks.add(passage.work_id);
+        sources.push({
+          title: passage.source,
+          href: staticLink('works', passage.work_id),
+          why: passage.unit_title || ''
+        });
+      }
+    }
+
+    for (const commentaryId of (question.commentaries || [])) {
+      const commentaryResult = await ContentEngine.getCommentary(commentaryId);
+      if (commentaryResult.status !== 'ok') continue;
+      const commentary = commentaryResult.data;
+      if (commentary.author_id && !seenAuthors.has(commentary.author_id)) {
+        seenAuthors.add(commentary.author_id);
+        const authorResult = await ContentEngine.getAuthor(commentary.author_id);
+        const authorName = authorResult.status === 'ok' ? authorResult.data.name : commentary.author_id;
+        sources.push({
+          title: authorName,
+          href: staticLink('authors', commentary.author_id),
+          why: 'commento collegato al passaggio'
+        });
+      }
+    }
+
+    return sources;
+  }
+
+  async function buildPassageViews(question) {
+    const views = [];
+    const conceptIds = [];
+
+    for (const passageId of (question.passages || [])) {
+      const passageResult = await ContentEngine.getPassage(passageId);
+      if (passageResult.status !== 'ok') continue;
+      const passage = passageResult.data;
+
+      const notesResult = await ContentEngine.getPassageNotes(passageId);
+      const noteIds = notesResult.status === 'ok' ? notesResult.data : [];
+      const notes = [];
+      for (const noteId of noteIds) {
+        const noteResult = await ContentEngine.getNote(noteId);
+        if (noteResult.status === 'ok') notes.push(noteResult.data);
+      }
+
+      const conceptsResult = await ContentEngine.getPassageConcepts(passageId);
+      if (conceptsResult.status === 'ok') {
+        conceptsResult.data.forEach((id) => { if (!conceptIds.includes(id)) conceptIds.push(id); });
+      }
+
+      views.push({ passage, notes });
+    }
+
+    const concepts = [];
+    for (const id of conceptIds) {
+      const conceptResult = await ContentEngine.getConcept(id);
+      if (conceptResult.status === 'ok') concepts.push(conceptResult.data);
+    }
+
+    return { views, concepts };
+  }
+
+  async function buildCommentaries(question) {
+    const items = [];
+    for (const id of (question.commentaries || [])) {
+      const result = await ContentEngine.getCommentary(id);
+      if (result.status === 'ok') items.push(result.data);
+    }
+    return items;
+  }
+
+  async function buildDirections(question) {
+    const items = [];
+    for (const id of (question.specific_questions || [])) {
+      const result = await ContentEngine.getQuestion(id);
+      if (result.status === 'ok') items.push({ id, text: result.data.text });
+    }
+    return items;
+  }
+
+  async function buildRelatedQuestions(question) {
+    const result = await ContentEngine.getRelatedQuestions(question.id);
+    if (result.status !== 'ok') return [];
+    return result.data
+      .filter((r) => r.question.status === 'ok')
+      .map((r) => ({ id: r.id, why: r.why, text: r.question.data.text }));
+  }
+
+  // ==========================================================
+  // Rendering (solo DOM, a partire dai dati già risolti sopra)
+  // ==========================================================
+
+  function renderBreadcrumb(el, parentQuestionResult, parentId) {
+    if (parentQuestionResult && parentQuestionResult.status === 'ok') {
+      el.replaceChildren(createEl('a', { href: questionUrl(parentId), text: parentQuestionResult.data.text }));
+      el.hidden = false;
+    } else {
+      el.hidden = true;
+    }
+  }
+
+  function renderSources(sectionEl, listEl, sources) {
+    listEl.replaceChildren();
+    if (!sources.length) { sectionEl.hidden = true; return; }
+    sectionEl.hidden = false;
+    sources.forEach((s) => {
+      const li = document.createElement('li');
+      li.className = 'source';
+      li.append(createEl('a', { class: 'source__title', href: s.href, text: s.title }));
+      if (s.why) li.append(createEl('span', { class: 'source__why', text: s.why }));
+      listEl.append(li);
+    });
+  }
+
+  function renderPassages(sectionEl, data, question) {
+    const leadEl = byId('passages-lead');
+    const switchEl = byId('passage-switch');
+    const viewsHost = byId('passage-views');
+    const citedEl = byId('cited-not-yet-available');
+    const asideEl = byId('passage-aside');
+    const conceptsListEl = byId('passage-concepts-list');
+
+    switchEl.replaceChildren();
+    viewsHost.replaceChildren();
+    conceptsListEl.replaceChildren();
+
+    if (!data.views.length) { sectionEl.hidden = true; return; }
+    sectionEl.hidden = false;
+
+    leadEl.textContent = data.views.length > 1
+      ? 'passaggi in cui la questione viene affrontata direttamente'
+      : 'passaggio in cui la questione viene affrontata direttamente';
+
+    switchEl.hidden = data.views.length <= 1;
+
+    data.views.forEach((entry, index) => {
+      const passage = entry.passage;
+      const notes = entry.notes;
+      const viewId = 'p-' + passage.id;
+
+      if (data.views.length > 1) {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.setAttribute('role', 'tab');
+        btn.setAttribute('aria-current', index === 0 ? 'true' : 'false');
+        btn.dataset.target = viewId;
+        btn.textContent = passage.source;
+        switchEl.append(btn);
+      }
+
+      const view = document.createElement('div');
+      view.className = 'passage-view';
+      view.id = viewId;
+      if (index !== 0) view.hidden = true;
+
+      const bq = document.createElement('blockquote');
+      bq.className = 'passage';
+      bq.append(createEl('p', { class: 'passage__original', text: passage.original }));
+
+      const textEl = document.createElement('p');
+      textEl.className = 'passage__text';
+      textEl.append(document.createTextNode(passage.translation));
+      notes.forEach((note, i) => {
+        const sup = document.createElement('sup');
+        sup.className = 'notes__num';
+        sup.append(createEl('a', { href: '#nota-' + passage.id + '-' + (i + 1), text: String(i + 1) }));
+        textEl.append(sup);
+      });
+      bq.append(textEl);
+      bq.append(createEl('span', { class: 'passage__source', text: passage.source }));
+
+      const ctx = document.createElement('div');
+      ctx.className = 'context-access';
+      ctx.append(createEl('a', { href: passageContextLink(passage, question.id), text: 'apri la sezione completa' }));
+      ctx.append(createEl('a', { href: staticLink('works', passage.work_id), text: 'indice dell’opera' }));
+
+      view.append(bq, ctx);
+
+      if (notes.length) {
+        const ol = document.createElement('ol');
+        ol.className = 'notes';
+        notes.forEach((note, i) => {
+          const li = document.createElement('li');
+          li.id = 'nota-' + passage.id + '-' + (i + 1);
+          li.append(createEl('span', { class: 'notes__num', text: (i + 1) + '.' }));
+          li.append(document.createTextNode(note.text));
+          ol.append(li);
+        });
+        view.append(ol);
+      }
+
+      viewsHost.append(view);
+    });
+
+    const cited = question.cited_not_yet_available || [];
+    if (cited.length) {
+      citedEl.hidden = false;
+      citedEl.textContent = cited.map((c) => c.locus ? (c.locus + ' — ' + c.note) : c.note).join(' ');
+    } else {
+      citedEl.hidden = true;
+    }
+
+    if (!data.concepts.length) {
+      asideEl.hidden = true;
+    } else {
+      asideEl.hidden = false;
+      data.concepts.forEach((c) => {
+        const li = document.createElement('li');
+        li.append(createEl('a', { href: staticLink('concepts', c.id), text: c.name }));
+        conceptsListEl.append(li);
+      });
+    }
+  }
+
+  function setupExpandable(el) {
+    if (!el) return;
+    const body = el.querySelector('.expandable__body');
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce) return;
+
+    body.style.maxHeight = el.open ? 'none' : '0px';
+
+    el.addEventListener('toggle', () => {
+      if (el.open) {
+        body.style.maxHeight = body.scrollHeight + 'px';
+        body.addEventListener('transitionend', function done(e) {
+          if (e.propertyName === 'max-height') {
+            body.style.maxHeight = 'none';
+            body.removeEventListener('transitionend', done);
+          }
+        });
+      } else {
+        body.style.maxHeight = '0px';
+      }
+    });
+  }
+
+  function renderCommentary(sectionEl, commentaries) {
+    const body = byId('commentary-body');
+    body.replaceChildren();
+    if (!commentaries.length) { sectionEl.hidden = true; return; }
+    sectionEl.hidden = false;
+    commentaries.forEach((c) => {
+      body.append(createEl('p', { text: c.text }));
+      if (c.editorial_status) body.append(createEl('p', { class: 'eyebrow', text: c.editorial_status }));
+    });
+    setupExpandable(sectionEl.querySelector('.expandable'));
+  }
+
+  function renderDirections(sectionEl, listEl, items) {
+    listEl.replaceChildren();
+    if (!items.length) { sectionEl.hidden = true; return; }
+    sectionEl.hidden = false;
+    items.forEach((item) => {
+      const li = document.createElement('li');
+      li.dataset.proximity = 'near';
+      li.append(createEl('a', { href: questionUrl(item.id), text: item.text }));
+      listEl.append(li);
+    });
+  }
+
+  function renderRelated(sectionEl, question, related) {
+    sectionEl.replaceChildren();
+    sectionEl.classList.remove('crossings');
+    if (!related.length) { sectionEl.hidden = true; return; }
+    sectionEl.hidden = false;
+
+    if (question.type === 'great') {
+      sectionEl.classList.add('crossings');
+      sectionEl.append(createEl('p', { class: 'crossings__lead', text: 'questa domanda ne apre altre, a un livello diverso' }));
+      const list = document.createElement('ul');
+      list.className = 'crossings__list';
+      related.forEach((r) => {
+        const li = document.createElement('li');
+        li.append(createEl('a', { class: 'crossing__link', href: questionUrl(r.id), text: r.text }));
+        if (r.why) li.append(createEl('span', { class: 'crossing__why', text: r.why }));
+        list.append(li);
+      });
+      sectionEl.append(list);
+    } else {
+      sectionEl.append(createEl('p', { class: 'eyebrow', text: 'da qui emergono altre domande' }));
+      const list = document.createElement('ul');
+      list.className = 'opening__list';
+      list.style.marginTop = 'var(--sp-3)';
+      related.forEach((r) => {
+        const li = document.createElement('li');
+        li.append(createEl('a', { href: questionUrl(r.id), text: r.text }));
+        list.append(li);
+      });
+      sectionEl.append(list);
+    }
+  }
+
+  function renderError(kind, info) {
+    const messages = {
+      missing: {
+        q: 'Nessuna domanda specificata',
+        p: 'Aggiungi "?rif=<id>" all’indirizzo per aprire una domanda specifica — per esempio domanda.html?rif=che-cose-reale.'
+      },
+      'not-found': {
+        q: 'Domanda non trovata',
+        p: 'Non esiste, in questo studio delle fonti, una domanda con identificativo "' + (info && info.id) + '".'
+      },
+      unavailable: {
+        q: 'Contenuto momentaneamente non disponibile',
+        p: (info && info.message) || 'Impossibile caricare i dati dal Content Engine.'
+      }
+    };
+    const m = messages[kind] || messages.unavailable;
+    document.title = m.q + ' — Advaita Vedānta';
+    byId('question-text').textContent = m.q;
+    byId('problem-text').textContent = m.p;
+    byId('breadcrumb').hidden = true;
+    ['section-sources', 'section-passages', 'section-commentary', 'section-directions', 'section-related'].forEach((id) => {
+      byId(id).hidden = true;
+    });
+  }
+
+  async function renderQuestion(question) {
+    document.title = question.text + ' — Advaita Vedānta';
+    document.body.dataset.questionType = question.type || '';
+
+    byId('question-text').textContent = question.text;
+    byId('problem-text').textContent = question.problem || '';
+
+    if (question.parent_question) {
+      const parentResult = await ContentEngine.getQuestion(question.parent_question);
+      renderBreadcrumb(byId('breadcrumb'), parentResult, question.parent_question);
+    } else {
+      renderBreadcrumb(byId('breadcrumb'), null, null);
+    }
+
+    const sources = await buildSources(question);
+    renderSources(byId('section-sources'), byId('sources-list'), sources);
+
+    const passageData = await buildPassageViews(question);
+    renderPassages(byId('section-passages'), passageData, question);
+
+    const commentaries = await buildCommentaries(question);
+    renderCommentary(byId('section-commentary'), commentaries);
+
+    const directions = await buildDirections(question);
+    renderDirections(byId('section-directions'), byId('directions-list'), directions);
+
+    const related = await buildRelatedQuestions(question);
+    renderRelated(byId('section-related'), question, related);
+  }
+
+  // ==========================================================
+  // Interazioni generiche (delegate: il markup è generato a runtime)
+  // ==========================================================
+
+  document.addEventListener('click', (event) => {
+    const btn = event.target.closest('.passage-switch button');
+    if (!btn) return;
+    const switchEl = btn.closest('.passage-switch');
+    switchEl.querySelectorAll('button').forEach((b) => b.setAttribute('aria-current', String(b === btn)));
+    byId('passage-views').querySelectorAll('.passage-view').forEach((v) => {
+      v.hidden = (v.id !== btn.dataset.target);
+    });
+  });
+
+  // ==========================================================
+  // Bootstrap: legge lo slug dall'URL e chiede i dati al Content Engine
+  // ==========================================================
+
+  (async function init() {
+    const resolved = UrlRouter.resolveContentId('domande');
+    if (!resolved) { renderError('missing'); return; }
+
+    const result = await ContentEngine.getQuestion(resolved.id);
+    if (result.status !== 'ok') { renderError(result.status, result); return; }
+
+    try {
+      await renderQuestion(result.data);
+    } catch (error) {
+      console.error('Errore nel rendering della domanda:', error);
+      renderError('unavailable', { message: 'Errore imprevisto nel rendering della pagina.' });
+    }
+  }());
+}());
+</script>
+
+</body>
+</html>

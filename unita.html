@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<base href="/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Unità editoriale — Advaita Vedānta</title>
+
+<!--
+  ============================================================
+  TEMPLATE DINAMICO — Pagina di lettura (tipo UNIT)
+  ============================================================
+  Sostituisce, come template dinamico, il prototipo statico
+  opera-brhadaranyaka-cap1.html: stesso design, stesse classi,
+  stesso CSS — qui il contenuto proviene esclusivamente dal
+  Content Engine, non è più hardcoded nel markup.
+
+  Il contenuto è determinato dallo slug dell'opera e dal locus
+  dell'unità in query string (retrocompatibilità con la stessa
+  convenzione già in uso negli altri template dinamici) oppure,
+  per uso ordinario, dal path pubblico risolto da url-router.js:
+
+      /testi/<id-opera>/<capitolo>[/<sezione>]
+      unita.html?rif=<id-opera>&unit=<id-unità>[#<id-passaggio>]
+
+  MODELLO DI LETTURA
+  ------------------
+  Il lettore non deve percepire i passaggi come pagine separate.
+  La pagina mostra quindi:
+
+      OPERA → UNITÀ EDITORIALE → PASSAGGI IN SEQUENZA
+
+  con TUTTI i passaggi dell'unità in un unico flusso continuo.
+  Ogni passaggio resta però un'unità individuale e indirizzabile:
+  ha un proprio id DOM (#passage-<id>), un proprio locus, e può
+  essere raggiunto ed evidenziato via deep link — senza mai essere
+  isolato in una pagina a sé. Prima e dopo quel passaggio, il
+  lettore trova il resto del flusso di lettura, con la possibilità
+  di continuare avanti o indietro anche oltre i confini dell'unità
+  (navigazione sull'intera sequenza dell'opera, non solo sulla
+  sezione corrente).
+
+  Nessuna nuova UI: il design, i componenti (.verse, .context-bar,
+  .depth, .relevance-*, .section-nav, masthead/footer) sono lo
+  stesso sistema già presente nel Vertical Slice statico. Qui si
+  aggiunge solo il layer di dati dinamici sopra a quel design.
+  ============================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+<style>
+
+/* ============================================================
+   1. TOKEN — identici al sistema
+   ============================================================ */
+:root{
+  --color-bg:        #F5F3EE;
+  --color-bg-raised: #EFECE3;
+  --color-ink:        #201F1C;
+  --color-ink-muted:  #5B584E;
+  --color-ink-faint:  #8B8778;
+  --color-accent:     #45516C;
+  --color-rule:       #D9D4C6;
+  --color-highlight:  #E7DFC2;
+
+  --font-text: 'Gentium Plus', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+
+  --fs-question:  clamp(2rem, 4.5vw + 1rem, 3.4rem);
+  --fs-title:     1.375rem;
+  --fs-body:      1.125rem;
+  --fs-passage:   1.25rem;
+  --fs-note:      0.95rem;
+  --fs-caption:   0.85rem;
+
+  --lh-tight:  1.25;
+  --lh-body:   1.7;
+  --lh-passage: 1.9;
+
+  --sp-1: 0.375rem;
+  --sp-2: 0.75rem;
+  --sp-3: 1.25rem;
+  --sp-4: 2rem;
+  --sp-5: 3.25rem;
+  --sp-6: 5rem;
+  --sp-7: 7.5rem;
+
+  --measure:   38rem;
+  --page-max:  60rem;
+}
+
+*, *::before, *::after{ box-sizing: border-box; }
+html{ -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+body{ margin: 0; }
+ul, ol{ margin: 0; padding: 0; list-style: none; }
+a{ color: inherit; }
+h1,h2,h3,p{ margin: 0; }
+button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; }
+
+body{
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-text);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  font-feature-settings: "onum" 1, "liga" 1;
+}
+
+.eyebrow{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+.page{
+  display: grid;
+  grid-template-columns: minmax(var(--sp-3), 1fr) minmax(0, var(--page-max)) minmax(var(--sp-3), 1fr);
+  padding-block: var(--sp-5) var(--sp-7);
+}
+.page > *{ grid-column: 2; }
+.measure{ max-width: var(--measure); margin-inline: auto; }
+.block + .block{ margin-top: var(--sp-6); }
+.block[hidden]{ display: none; }
+
+a{
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+a:hover, a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
+
+a.concept{
+  text-decoration-style: dotted;
+  text-decoration-color: var(--color-ink-faint);
+}
+a.concept:hover, a.concept:focus-visible{ text-decoration-style: solid; }
+
+a.related{ text-decoration-color: var(--color-rule); }
+
+/* ============================================================
+   MASTHEAD
+   ============================================================ */
+.masthead{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--sp-3);
+  font-size: var(--fs-note);
+}
+.masthead__mark{ color: var(--color-ink-muted); }
+
+/* ============================================================
+   BARRA DI CONTESTO
+   ============================================================
+   Dove sono, rispetto all'opera intera. Include, quando presente,
+   il ritorno alla domanda da cui si è arrivati. */
+.context-bar{
+  margin-top: var(--sp-2);
+  padding-bottom: var(--sp-4);
+  border-bottom: 1px solid var(--color-rule);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--sp-3);
+  flex-wrap: wrap;
+}
+.context-bar__path{
+  font-size: var(--fs-note);
+  color: var(--color-ink-faint);
+}
+.context-bar__path a{ text-decoration-color: var(--color-ink-faint); }
+.context-bar__adjacent{
+  display: flex;
+  gap: var(--sp-3);
+  font-size: var(--fs-note);
+  flex-wrap: wrap;
+}
+.context-bar__from-question{
+  font-size: var(--fs-note);
+}
+
+/* ============================================================
+   TITOLO DEL CAPITOLO / UNITÀ
+   ============================================================ */
+.chapter-title{
+  margin-top: var(--sp-5);
+  font-size: var(--fs-question);
+  line-height: var(--lh-tight);
+  font-weight: 400;
+  max-width: 20ch;
+}
+.chapter-title__num{
+  display: block;
+  font-size: var(--fs-note);
+  color: var(--color-ink-faint);
+  font-weight: 400;
+  margin-bottom: var(--sp-1);
+}
+
+/* ============================================================
+   SELETTORE DI PROFONDITÀ DI LETTURA
+   ============================================================ */
+.depth{
+  margin-top: var(--sp-4);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-3);
+  align-items: baseline;
+}
+.depth__label{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+.depth__option{
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 0.15em;
+}
+.depth__option:hover{ color: var(--color-accent); }
+.depth__option[aria-pressed="true"]{
+  color: var(--color-ink);
+  text-decoration-color: var(--color-accent);
+}
+.depth__option:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
+
+/* ============================================================
+   IL TESTO — flusso continuo dei passaggi
+   ============================================================
+   Ogni sezione editoriale introduce il proprio gruppo di
+   passaggi; ogni passaggio (.verse) è un'unità autonoma e
+   indirizzabile (id="passage-<id>"), ma nessuna di queste unità
+   vive in una pagina a sé: si susseguono nello stesso flusso di
+   lettura, dalla prima all'ultima, senza interruzioni. */
+.reading{
+  margin-top: var(--sp-6);
+}
+.section-group + .section-group{
+  margin-top: var(--sp-5);
+}
+.section-group__title{
+  font-size: var(--fs-title);
+  font-weight: 400;
+  padding-top: var(--sp-4);
+}
+.verse{
+  position: relative;
+  padding-block: var(--sp-4);
+  border-top: 1px solid var(--color-rule);
+  scroll-margin-top: var(--sp-4);
+}
+.verse:last-child{ border-bottom: 1px solid var(--color-rule); }
+
+/* Evidenziazione quando il passaggio è raggiunto da un deep link
+   (es. da una Question) o è il target dell'ancora corrente. */
+.verse[data-highlighted="true"]{
+  background: var(--color-highlight);
+  margin-inline: calc(-1 * var(--sp-3));
+  padding-inline: var(--sp-3);
+}
+
+.verse__num{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+}
+.verse__num a{
+  text-decoration-color: transparent;
+}
+.verse__num a:hover, .verse__num a:focus-visible{
+  text-decoration-color: currentColor;
+}
+
+.verse__original{
+  margin-top: var(--sp-2);
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  font-style: italic;
+  max-width: 34ch;
+}
+[data-depth-original="off"] .verse__original{ display: none; }
+
+.verse__text{
+  margin-top: var(--sp-2);
+  font-size: var(--fs-passage);
+  line-height: var(--lh-passage);
+  max-width: 32ch;
+}
+
+.verse__note{
+  margin-top: var(--sp-2);
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  max-width: 40ch;
+  padding-left: var(--sp-3);
+  border-left: 1px solid var(--color-rule);
+}
+[data-depth-notes="off"] .verse__note{ display: none; }
+
+.verse__comment{
+  margin-top: var(--sp-3);
+}
+[data-depth-comment="off"] .verse__comment{ display: none; }
+.verse__comment summary{
+  cursor: pointer;
+  list-style: none;
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+}
+.verse__comment summary::-webkit-details-marker{ display: none; }
+.verse__comment summary::before{ content: "+ "; color: var(--color-ink-faint); }
+.verse__comment[open] summary::before{ content: "– "; }
+.verse__comment__body{ margin-top: var(--sp-2); max-width: 40ch; color: var(--color-ink-muted); }
+
+/* ============================================================
+   MARCATORE DI RILEVANZA (domande collegate al passaggio)
+   ============================================================ */
+.verse__relevance{
+  position: absolute;
+  right: calc(-1 * var(--sp-4));
+  top: var(--sp-4);
+  transform: translateX(100%);
+}
+.relevance-toggle{
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--color-ink-faint);
+  cursor: pointer;
+  display: block;
+}
+.relevance-toggle:hover,
+.relevance-toggle[aria-expanded="true"]{ background: var(--color-accent); }
+.relevance-toggle:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 4px; }
+
+.relevance-panel{
+  margin-top: var(--sp-2);
+  max-width: 34ch;
+  overflow: hidden;
+  max-height: 0px;
+}
+.relevance-panel__inner{ padding-top: var(--sp-1); }
+.relevance-panel__label{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+.relevance-panel__list{
+  margin-top: var(--sp-1);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-1);
+}
+.relevance-panel__list a{ font-size: var(--fs-note); }
+
+@media (min-width: 900px){
+  .verse__relevance{ right: calc(-1 * var(--sp-5)); }
+}
+@media (max-width: 899px){
+  .verse__relevance{
+    position: static;
+    transform: none;
+    margin-top: var(--sp-2);
+  }
+}
+
+/* ============================================================
+   NAVIGAZIONE DI FINE UNITÀ (precedente / successivo / indice)
+   ============================================================ */
+.section-nav{
+  margin-top: var(--sp-6);
+  padding-top: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+  display: flex;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  flex-wrap: wrap;
+  font-size: var(--fs-note);
+}
+.section-nav a[aria-disabled="true"]{
+  color: var(--color-ink-faint);
+  text-decoration-color: transparent;
+  pointer-events: none;
+}
+
+/* ============================================================
+   DOMANDE CHE NASCONO DA QUESTA UNITÀ
+   ============================================================ */
+.related__list{ display: flex; flex-direction: column; gap: var(--sp-2); }
+.related__list a{ font-size: var(--fs-title); }
+
+.footer{
+  margin-top: var(--sp-7);
+  padding-top: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+  display: flex;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+}
+
+@media (prefers-reduced-motion: no-preference){
+  a, .depth__option{ transition: color 150ms ease, text-decoration-color 150ms ease; }
+  .relevance-panel, .verse__comment__body{ transition: max-height 240ms ease; }
+  .verse{ transition: background 400ms ease; }
+}
+
+@media (max-width: 640px){
+  :root{
+    --fs-body: 1.0625rem;
+    --fs-passage: 1.1875rem;
+  }
+  .page{ padding-inline: var(--sp-3); padding-block: var(--sp-4) var(--sp-6); }
+  .page > *{ grid-column: 1 / -1; }
+  .block + .block{ margin-top: var(--sp-5); }
+  .masthead{ flex-direction: column; align-items: flex-start; gap: var(--sp-1); }
+  .context-bar{ flex-direction: column; align-items: flex-start; gap: var(--sp-2); }
+  .footer{ flex-direction: column; gap: var(--sp-1); }
+}
+
+</style>
+</head>
+<body data-slice="unit">
+
+<div class="page" id="page" data-depth-original="off" data-depth-notes="on" data-depth-comment="off">
+
+  <header>
+    <div class="masthead">
+      <a class="masthead__mark" href="index.html">Advaita Vedānta — uno studio delle fonti</a>
+      <a href="index.html">tutti i testi</a>
+    </div>
+    <div class="context-bar">
+      <p class="context-bar__path" id="context-path"></p>
+      <div class="context-bar__adjacent" id="context-adjacent"></div>
+    </div>
+    <p class="context-bar__from-question measure" id="from-question" hidden></p>
+  </header>
+
+  <!-- TITOLO DELL'UNITÀ -->
+  <section class="measure">
+    <h1 class="chapter-title" id="unit-title">
+      <span class="chapter-title__num" id="unit-title-num"></span>
+      <span id="unit-title-text"></span>
+    </h1>
+  </section>
+
+  <!-- SELETTORE DI PROFONDITÀ -->
+  <div class="measure depth" role="group" aria-label="Livelli di lettura" id="depth-controls" hidden>
+    <span class="depth__label">lettura</span>
+    <button class="depth__option" data-toggle="original" aria-pressed="false" type="button">testo originale</button>
+    <button class="depth__option" data-toggle="notes" aria-pressed="true" type="button">note</button>
+    <button class="depth__option" data-toggle="comment" aria-pressed="false" type="button">commento</button>
+  </div>
+
+  <!-- IL TESTO: sezioni editoriali, ciascuna con i propri passaggi in sequenza -->
+  <section class="reading measure" id="reading"></section>
+
+  <!-- NAVIGAZIONE DI FINE UNITÀ -->
+  <nav class="section-nav measure" id="section-nav" hidden></nav>
+
+  <!-- DOMANDE CHE NASCONO DA QUESTA UNITÀ -->
+  <section class="block measure" id="section-related" hidden>
+    <p class="eyebrow">domande che nascono da questa unità</p>
+    <ul class="related__list" id="related-list" style="margin-top: var(--sp-3);"></ul>
+  </section>
+
+</div>
+
+<footer class="footer measure">
+  <span id="footer-name">Advaita Vedānta</span>
+  <span>testo tradotto</span>
+</footer>
+
+<script src="js/url-router.js"></script>
+<script src="js/content-engine.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  function byId(id) { return document.getElementById(id); }
+
+  function createEl(tag, opts) {
+    opts = opts || {};
+    const el = document.createElement(tag);
+    if (opts.class) el.className = opts.class;
+    if (opts.text !== undefined) el.textContent = opts.text;
+    if (opts.href !== undefined) el.href = opts.href;
+    return el;
+  }
+
+  /**
+   * Converte un unit_locus editoriale (es. "I.4") nei segmenti
+   * [capitolo, sezione] dell'URL pubblico (es. ["i", "4"]) — stessa
+   * convenzione già usata in opera.html, riusata qui senza modifiche.
+   */
+  function localeToPathSegments(locus) {
+    if (!locus) return [];
+    const match = /^([IVXLCDM]+)\.(\d+)$/i.exec(locus.trim());
+    if (!match) return [];
+    return [match[1].toLowerCase(), match[2]];
+  }
+
+  function unitUrl(workId, unitLocus, passageId) {
+    let url = UrlRouter.buildContentUrl('testi', workId, localeToPathSegments(unitLocus));
+    if (passageId) url += '#' + encodeURIComponent(passageId);
+    return url;
+  }
+
+  function workUrl(workId) {
+    return UrlRouter.buildContentUrl('testi', workId);
+  }
+
+  function questionUrl(id) {
+    return UrlRouter.buildContentUrl('domande', id);
+  }
+
+  // ============================================================
+  // Errori (stessa forma degli altri template dinamici)
+  // ============================================================
+  function renderError(kind, info) {
+    const messages = {
+      missing: {
+        title: 'Nessuna unità specificata',
+        text: 'Aggiungi l\'identificativo dell\'opera e dell\'unità all\'indirizzo — per esempio /testi/brhadaranyaka-upanishad/i/4.'
+      },
+      'not-found': {
+        title: 'Contenuto non trovato',
+        text: 'Non esiste, in questo studio delle fonti, il contenuto con identificativo "' + (info && info.id) + '".'
+      },
+      unavailable: {
+        title: 'Contenuto momentaneamente non disponibile',
+        text: (info && info.message) || 'Impossibile caricare i dati dal Content Engine.'
+      }
+    };
+    const m = messages[kind] || messages.unavailable;
+    document.title = m.title + ' — Advaita Vedānta';
+    byId('unit-title-num').textContent = '';
+    byId('unit-title-text').textContent = m.title;
+    byId('reading').replaceChildren(createEl('p', { class: 'eyebrow', text: m.text }));
+    byId('context-path').replaceChildren();
+    byId('context-adjacent').replaceChildren();
+    byId('depth-controls').hidden = true;
+    byId('section-nav').hidden = true;
+    byId('section-related').hidden = true;
+    byId('footer-name').textContent = m.title;
+  }
+
+  // ============================================================
+  // Recupero dati (solo Content Engine — nessun contenuto hardcoded)
+  // ============================================================
+
+  /** Risolve un'unità a partire dal locus di capitolo[/sezione] nel path. */
+  async function resolveUnitFromWork(work, extraSegments) {
+    const unitIds = work.editorial_units || [];
+    if (!unitIds.length) return null;
+
+    if (!extraSegments.length) {
+      // Nessun capitolo indicato: apri la prima unità disponibile.
+      const first = await ContentEngine.getUnit(unitIds[0]);
+      return first.status === 'ok' ? first.data : null;
+    }
+
+    const wantedChapter = extraSegments[0].toUpperCase();
+    for (const unitId of unitIds) {
+      const result = await ContentEngine.getUnit(unitId);
+      if (result.status !== 'ok') continue;
+      const segs = localeToPathSegments(result.data.unit_locus);
+      if (segs.length && segs[0].toUpperCase() === wantedChapter) {
+        return result.data;
+      }
+    }
+    return null;
+  }
+
+  async function resolveByUnitParam(unitId) {
+    const result = await ContentEngine.getUnit(unitId);
+    return result.status === 'ok' ? result.data : null;
+  }
+
+  /** Raccoglie, per ogni passaggio di un'unità, note/commenti/domande. */
+  async function buildPassageDetails(passageId) {
+    const [notesRes, commRes, qRes] = await Promise.all([
+      ContentEngine.getPassageNotes(passageId),
+      ContentEngine.getPassageCommentaries(passageId),
+      ContentEngine.getPassageQuestions(passageId)
+    ]);
+
+    const notes = [];
+    if (notesRes.status === 'ok') {
+      for (const id of notesRes.data) {
+        const r = await ContentEngine.getNote(id);
+        if (r.status === 'ok') notes.push(r.data);
+      }
+    }
+
+    const commentaries = [];
+    if (commRes.status === 'ok') {
+      for (const id of commRes.data) {
+        const r = await ContentEngine.getCommentary(id);
+        if (r.status === 'ok') commentaries.push(r.data);
+      }
+    }
+
+    const questions = [];
+    if (qRes.status === 'ok') {
+      for (const id of qRes.data) {
+        const r = await ContentEngine.getQuestion(id);
+        if (r.status === 'ok') questions.push({ id, text: r.data.text });
+      }
+    }
+
+    return { notes, commentaries, questions };
+  }
+
+  // ============================================================
+  // Rendering
+  // ============================================================
+
+  function renderContextBar(work, unit) {
+    const pathEl = byId('context-path');
+    pathEl.replaceChildren(
+      createEl('a', { href: workUrl(work.id), text: work.short_title || work.title }),
+      document.createTextNode(' › ' + (unit.unit_locus || '') + ' ')
+    );
+    pathEl.append(document.createTextNode(unit.unit_title || ''));
+  }
+
+  function renderAdjacentUnits(el, work, currentUnitLocus, prevUnit, nextUnit) {
+    el.replaceChildren();
+    if (prevUnit) {
+      el.append(createEl('a', { href: unitUrl(work.id, prevUnit.unit_locus), text: '← ' + prevUnit.unit_locus }));
+    }
+    if (nextUnit) {
+      el.append(createEl('a', { href: unitUrl(work.id, nextUnit.unit_locus), text: nextUnit.unit_locus + ' →' }));
+    }
+  }
+
+  function renderFromQuestion(fromQuestionResult, fromQuestionId) {
+    const el = byId('from-question');
+    if (fromQuestionResult && fromQuestionResult.status === 'ok') {
+      el.replaceChildren(
+        document.createTextNode('arrivato/a da: '),
+        createEl('a', { href: questionUrl(fromQuestionId), text: '← torna a "' + fromQuestionResult.data.text + '"' })
+      );
+      el.hidden = false;
+    } else {
+      el.hidden = true;
+    }
+  }
+
+  function renderVerse(passage, details, index) {
+    const article = createEl('article', { class: 'verse' });
+    article.id = 'passage-' + passage.id;
+    article.dataset.passageId = passage.id;
+
+    const num = createEl('p', { class: 'verse__num' });
+    num.id = passage.id;
+    num.append(createEl('a', { href: '#' + passage.id, text: passage.locus || passage.section_locus || String(index + 1) }));
+    article.append(num);
+
+    if (passage.original) {
+      article.append(createEl('p', { class: 'verse__original', text: passage.original }));
+    }
+
+    const textEl = createEl('p', { class: 'verse__text' });
+    textEl.append(document.createTextNode(passage.translation || ''));
+    details.notes.forEach((note, i) => {
+      const sup = document.createElement('sup');
+      sup.append(createEl('a', {
+        href: '#nota-' + passage.id + '-' + (i + 1),
+        text: String(i + 1)
+      }));
+      sup.style.fontSize = 'var(--fs-caption)';
+      textEl.append(sup);
+    });
+    article.append(textEl);
+
+    // Note editoriali collegate al passaggio (restano accessibili
+    // anche quando il livello "note" è disattivato: il CSS le
+    // nasconde visivamente ma il DOM le mantiene raggiungibili
+    // via anchor #nota-<passaggio>-<n>).
+    details.notes.forEach((note, i) => {
+      const noteEl = createEl('p', { class: 'verse__note' });
+      noteEl.id = 'nota-' + passage.id + '-' + (i + 1);
+      const strong = document.createElement('strong');
+      strong.textContent = (i + 1) + '. ';
+      noteEl.append(strong);
+      const label = note.term ? ('"' + note.term + '" — ') : '';
+      noteEl.append(document.createTextNode(label + note.text));
+      article.append(noteEl);
+    });
+
+    // Commento (Śaṅkara e altri commentari collegati)
+    details.commentaries.forEach((c) => {
+      const details_ = document.createElement('details');
+      details_.className = 'verse__comment';
+      const summary = document.createElement('summary');
+      summary.textContent = 'commento';
+      const body = createEl('div', { class: 'verse__comment__body' });
+      body.append(createEl('p', { text: c.text }));
+      details_.append(summary, body);
+      article.append(details_);
+    });
+
+    // Marcatore di rilevanza: domande collegate a questo passaggio
+    if (details.questions.length) {
+      const relevance = createEl('span', { class: 'verse__relevance' });
+      const toggle = document.createElement('button');
+      toggle.type = 'button';
+      toggle.className = 'relevance-toggle';
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.setAttribute('aria-label', 'Domande collegate a questo passaggio');
+      const panel = createEl('div', { class: 'relevance-panel' });
+      const inner = createEl('div', { class: 'relevance-panel__inner' });
+      inner.append(createEl('p', { class: 'relevance-panel__label', text: 'rilevante per' }));
+      const list = createEl('ul', { class: 'relevance-panel__list' });
+      details.questions.forEach((q) => {
+        const li = document.createElement('li');
+        li.append(createEl('a', { class: 'related', href: questionUrl(q.id), text: q.text }));
+        list.append(li);
+      });
+      inner.append(list);
+      panel.append(inner);
+      relevance.append(toggle, panel);
+      article.append(relevance);
+    }
+
+    return article;
+  }
+
+  function renderReading(unit, sectionsWithPassages) {
+    const readingEl = byId('reading');
+    readingEl.replaceChildren();
+
+    sectionsWithPassages.forEach((section) => {
+      const group = createEl('div', { class: 'section-group' });
+      if (section.section_title && sectionsWithPassages.length > 1) {
+        group.append(createEl('h2', { class: 'section-group__title', text: section.section_locus + ' — ' + section.section_title }));
+      }
+      section.passages.forEach((entry, i) => {
+        group.append(renderVerse(entry.passage, entry.details, i));
+      });
+      readingEl.append(group);
+    });
+  }
+
+  function renderRelated(questionEntries) {
+    const sectionEl = byId('section-related');
+    const listEl = byId('related-list');
+    listEl.replaceChildren();
+    if (!questionEntries.length) { sectionEl.hidden = true; return; }
+    sectionEl.hidden = false;
+    questionEntries.forEach((q) => {
+      const li = document.createElement('li');
+      li.append(createEl('a', { class: 'related', href: questionUrl(q.id), text: q.text }));
+      listEl.append(li);
+    });
+  }
+
+  function renderSectionNav(work, unit, prevUnit, nextUnit) {
+    const nav = byId('section-nav');
+    nav.replaceChildren();
+    nav.hidden = false;
+
+    if (prevUnit) {
+      nav.append(createEl('a', { href: unitUrl(work.id, prevUnit.unit_locus), text: '← ' + prevUnit.unit_locus + ' — ' + prevUnit.unit_title }));
+    } else {
+      const span = createEl('a', { text: '← inizio dell\'opera' });
+      span.setAttribute('aria-disabled', 'true');
+      nav.append(span);
+    }
+
+    nav.append(createEl('a', { href: workUrl(work.id), text: 'indice dell\'opera' }));
+
+    if (nextUnit) {
+      nav.append(createEl('a', { href: unitUrl(work.id, nextUnit.unit_locus), text: nextUnit.unit_locus + ' — ' + nextUnit.unit_title + ' →' }));
+    } else {
+      const span = createEl('a', { text: 'fine del contenuto disponibile →' });
+      span.setAttribute('aria-disabled', 'true');
+      nav.append(span);
+    }
+  }
+
+  // ============================================================
+  // Evidenziazione del passaggio raggiunto da un deep link
+  // ============================================================
+  function highlightTargetPassage() {
+    const hash = decodeURIComponent((window.location.hash || '').replace(/^#/, ''));
+    if (!hash) return;
+    const cleanId = hash.startsWith('passage-') ? hash.slice(8) : hash;
+    let el = byId('passage-' + cleanId) || byId(cleanId);
+    if (!el) return;
+    if (el.closest) el = el.closest('.verse') || el;
+    el.dataset.highlighted = 'true';
+    // Lo scroll nativo dell'anchor porta già l'elemento in vista;
+    // qui si assicura solo che resti centrato comodamente.
+    requestAnimationFrame(() => {
+      el.scrollIntoView({ block: 'center', behavior: 'auto' });
+    });
+  }
+
+  // ============================================================
+  // Interazioni (identiche, per comportamento, al prototipo statico)
+  // ============================================================
+  function setupInteractions() {
+    const page = byId('page');
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    document.querySelectorAll('.depth__option').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const key = btn.dataset.toggle;
+        const isOn = btn.getAttribute('aria-pressed') === 'true';
+        btn.setAttribute('aria-pressed', String(!isOn));
+        page.setAttribute('data-depth-' + key, isOn ? 'off' : 'on');
+      });
+    });
+
+    document.querySelectorAll('.relevance-toggle').forEach((toggle) => {
+      const panel = toggle.nextElementSibling;
+      toggle.addEventListener('click', () => {
+        const isOpen = toggle.getAttribute('aria-expanded') === 'true';
+        toggle.setAttribute('aria-expanded', String(!isOpen));
+        if (reduce) { panel.style.maxHeight = isOpen ? '0px' : 'none'; return; }
+        panel.style.maxHeight = isOpen ? '0px' : panel.scrollHeight + 'px';
+      });
+    });
+
+    document.querySelectorAll('.verse__comment').forEach((el) => {
+      const body = el.querySelector('.verse__comment__body');
+      if (reduce) return;
+      body.style.maxHeight = el.open ? 'none' : '0px';
+      el.addEventListener('toggle', () => {
+        body.style.maxHeight = el.open ? body.scrollHeight + 'px' : '0px';
+      });
+    });
+  }
+
+  // ============================================================
+  // Init
+  // ============================================================
+  (async function init() {
+    const resolved = UrlRouter.resolveContentId('testi');
+    if (!resolved) { renderError('missing'); return; }
+
+    const workResult = await ContentEngine.getWork(resolved.id);
+    if (workResult.status !== 'ok') { renderError(workResult.status, workResult); return; }
+    const work = workResult.data;
+
+    // Parametro esplicito ?unit=<id> (usato anche dai link generati
+    // da domanda.html) ha priorità; altrimenti si risolve dal path.
+    const params = new URLSearchParams(window.location.search);
+    const explicitUnitId = params.get('unit');
+
+    let unit = null;
+    try {
+      if (explicitUnitId) {
+        unit = await resolveByUnitParam(explicitUnitId);
+      } else {
+        unit = await resolveUnitFromWork(work, resolved.extra || []);
+      }
+    } catch (error) {
+      console.error('Errore nella risoluzione dell\'unità:', error);
+    }
+
+    if (!unit) { renderError('not-found', { id: explicitUnitId || (resolved.extra || []).join('/') || resolved.id }); return; }
+
+    try {
+      document.title = unit.unit_locus + ' — ' + work.short_title || work.title;
+      document.title = (unit.unit_locus ? unit.unit_locus + ' ' : '') + unit.unit_title + ' — ' + (work.short_title || work.title) + ' — Advaita Vedānta';
+      byId('unit-title-num').textContent = (work.short_title || work.title) + (unit.unit_locus ? (', ' + unit.unit_locus) : '');
+      byId('unit-title-text').textContent = unit.unit_title || '';
+      byId('footer-name').textContent = work.title;
+
+      renderContextBar(work, unit);
+
+      // Trova unità precedente/successiva nell'elenco editoriale
+      // dell'opera (stesso ordine di work.editorial_units).
+      const unitIds = work.editorial_units || [];
+      const currentIndex = unitIds.indexOf(unit.id);
+      let prevUnit = null, nextUnit = null;
+      if (currentIndex > 0) {
+        const r = await ContentEngine.getUnit(unitIds[currentIndex - 1]);
+        if (r.status === 'ok') prevUnit = r.data;
+      }
+      if (currentIndex !== -1 && currentIndex < unitIds.length - 1) {
+        const r = await ContentEngine.getUnit(unitIds[currentIndex + 1]);
+        if (r.status === 'ok') nextUnit = r.data;
+      }
+      renderAdjacentUnits(byId('context-adjacent'), work, unit.unit_locus, prevUnit, nextUnit);
+      renderSectionNav(work, unit, prevUnit, nextUnit);
+
+      // Ritorno alla domanda da cui si è arrivati (?from=<id-domanda>)
+      const fromId = params.get('from');
+      if (fromId) {
+        const fromResult = await ContentEngine.getQuestion(fromId);
+        renderFromQuestion(fromResult, fromId);
+      } else {
+        renderFromQuestion(null, null);
+      }
+
+      // Passaggi in sequenza, raggruppati per sezione editoriale,
+      // ciascuno risolto con le proprie relazioni (note, commenti,
+      // domande) — tutto attraverso il Content Engine.
+      const sections = unit.sections || [];
+      const sectionsWithPassages = [];
+      const allQuestionIds = new Set();
+      const relatedQuestionEntries = [];
+
+      for (const section of sections) {
+        const passagesEntries = [];
+        for (const p of (section.passages || [])) {
+          const passageResult = await ContentEngine.getPassage(p.id);
+          const passage = passageResult.status === 'ok' ? passageResult.data : p;
+          const details = await buildPassageDetails(p.id);
+          passagesEntries.push({ passage, details });
+          details.questions.forEach((q) => {
+            if (!allQuestionIds.has(q.id)) {
+              allQuestionIds.add(q.id);
+              relatedQuestionEntries.push(q);
+            }
+          });
+        }
+        sectionsWithPassages.push({
+          section_locus: section.section_locus,
+          section_title: section.section_title,
+          passages: passagesEntries
+        });
+      }
+
+      byId('depth-controls').hidden = false;
+      renderReading(unit, sectionsWithPassages);
+      renderRelated(relatedQuestionEntries);
+      setupInteractions();
+      highlightTargetPassage();
+    } catch (error) {
+      console.error('Errore nel rendering dell\'unità:', error);
+      renderError('unavailable', { message: 'Errore imprevisto nel rendering della pagina.' });
+    }
+  }());
+}());
+</script>
+
+</body>
+</html>

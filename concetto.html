@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<base href="/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Concetto — Advaita Vedānta</title>
+
+<!--
+  ============================================================
+  TEMPLATE DINAMICO — Pagina di Concetto (tipo CONCEPT)
+  ============================================================
+  Sostituisce le pagine statiche individuali per singolo concetto
+  (es. concetto-brahman.html, atman.html): non esiste più una
+  pagina HTML distinta per ogni concetto, esiste questo unico
+  template dinamico.
+
+  Il contenuto è determinato dallo slug in query string:
+      concetto.html?rif=<id-concetto>
+
+  Il markup non contiene contenuti hardcoded. I dati provengono
+  esclusivamente da js/content-engine.js.
+  ============================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --color-bg:        #F5F3EE;
+  --color-bg-raised: #EFECE3;
+  --color-ink:        #201F1C;
+  --color-ink-muted:  #5B584E;
+  --color-ink-faint:  #8B8778;
+  --color-accent:     #45516C;
+  --color-rule:       #D9D4C6;
+
+  --font-text: 'Gentium Plus', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+
+  --fs-question:  clamp(2rem, 4.5vw + 1rem, 3.4rem);
+  --fs-concept:   clamp(2.25rem, 5vw + 1rem, 3.8rem);
+  --fs-title:     1.375rem;
+  --fs-body:      1.125rem;
+  --fs-note:      0.95rem;
+  --fs-caption:   0.85rem;
+
+  --lh-tight:  1.25;
+  --lh-body:   1.7;
+
+  --sp-1: 0.375rem;
+  --sp-2: 0.75rem;
+  --sp-3: 1.25rem;
+  --sp-4: 2rem;
+  --sp-5: 3.25rem;
+  --sp-6: 5rem;
+  --sp-7: 7.5rem;
+
+  --measure:   38rem;
+  --page-max:  60rem;
+}
+
+*, *::before, *::after{ box-sizing: border-box; }
+html{ -webkit-text-size-adjust: 100%; }
+body{ margin: 0; }
+ul{ margin: 0; padding: 0; list-style: none; }
+a{ color: inherit; }
+h1,h2,p{ margin: 0; }
+
+body{
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-text);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  font-feature-settings: "onum" 1, "liga" 1;
+}
+
+.eyebrow{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+.page{
+  display: grid;
+  grid-template-columns: minmax(var(--sp-3), 1fr) minmax(0, var(--page-max)) minmax(var(--sp-3), 1fr);
+  padding-block: var(--sp-5) var(--sp-7);
+}
+.page > *{ grid-column: 2; }
+.measure{ max-width: var(--measure); margin-inline: auto; }
+.block + .block{ margin-top: var(--sp-6); }
+.block[hidden]{ display: none; }
+
+a{
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+a:hover, a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
+
+a.concept{
+  text-decoration-style: dotted;
+  text-decoration-color: var(--color-ink-faint);
+}
+a.concept:hover, a.concept:focus-visible{ text-decoration-style: solid; }
+
+a.source__title{ font-weight: 700; text-decoration-color: var(--color-ink-faint); }
+a.related{ text-decoration-color: var(--color-rule); }
+
+.masthead{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--sp-3);
+  padding-bottom: var(--sp-5);
+  border-bottom: 1px solid var(--color-rule);
+  font-size: var(--fs-note);
+}
+.masthead__mark{ color: var(--color-ink-muted); }
+
+.concept-name{
+  font-size: var(--fs-concept);
+  line-height: var(--lh-tight);
+  font-weight: 400;
+}
+.concept-name__transliteration{
+  display: block;
+  font-size: var(--fs-note);
+  color: var(--color-ink-faint);
+  font-style: italic;
+  margin-top: var(--sp-1);
+}
+
+.gloss{
+  margin-top: var(--sp-3);
+  color: var(--color-ink-muted);
+  max-width: 46ch;
+}
+
+.approach__list{ display: flex; flex-direction: column; }
+.approach__list li{ border-top: 1px solid var(--color-rule); }
+.approach__list li:last-child{ border-bottom: 1px solid var(--color-rule); }
+.approach__list a{
+  display: block;
+  padding-block: var(--sp-2);
+  font-size: var(--fs-title);
+  text-decoration: none;
+}
+.approach__list a:hover, .approach__list a:focus-visible{ color: var(--color-accent); }
+
+.periphery{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--sp-4);
+  max-width: var(--page-max);
+  margin-inline: auto;
+}
+@media (min-width: 900px){
+  .periphery{ grid-template-columns: 1fr 1fr 1fr; }
+}
+.aside-block__label{ font-size: var(--fs-caption); color: var(--color-ink-faint); font-style: italic; }
+.aside-block__items{ margin-top: var(--sp-2); display: flex; flex-direction: column; gap: var(--sp-1); }
+.aside-block__items .source__why{
+  display: block;
+  margin-top: var(--sp-1);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+}
+.aside-block__items .unavailable{
+  display: block;
+  color: var(--color-ink);
+}
+
+.footer{
+  margin-top: var(--sp-7);
+  padding-top: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+  display: flex;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+}
+
+@media (prefers-reduced-motion: no-preference){
+  a{ transition: color 150ms ease, text-decoration-color 150ms ease; }
+}
+
+@media (max-width: 640px){
+  :root{ --fs-body: 1.0625rem; }
+  .page{ padding-inline: var(--sp-3); padding-block: var(--sp-4) var(--sp-6); }
+  .page > *{ grid-column: 1 / -1; }
+  .block + .block{ margin-top: var(--sp-5); }
+  .masthead{ flex-direction: column; align-items: flex-start; gap: var(--sp-1); }
+  .footer{ flex-direction: column; gap: var(--sp-1); }
+}
+</style>
+</head>
+<body data-slice="concept">
+
+<div class="page" id="page">
+
+  <header class="masthead">
+    <a class="masthead__mark" href="index.html">Advaita Vedānta — uno studio delle fonti</a>
+    <a href="index.html">tutti i concetti</a>
+  </header>
+
+  <!-- IL CONCETTO -->
+  <section class="block measure">
+    <h1 class="concept-name" id="concept-name">
+      <span id="concept-title"></span>
+      <span class="concept-name__transliteration" id="concept-transliteration" hidden></span>
+    </h1>
+    <p class="gloss" id="concept-gloss"></p>
+  </section>
+
+  <!-- DOMANDE: peso maggiore, ingresso primario -->
+  <section class="block measure" id="section-questions" hidden>
+    <p class="eyebrow">domande attraverso cui questo concetto viene affrontato</p>
+    <ul class="approach__list" id="questions-list" style="margin-top: var(--sp-3);"></ul>
+  </section>
+
+  <!-- TESTI / CONCETTI / AUTORI: tre liste periferiche -->
+  <section class="block periphery" id="section-periphery" hidden>
+
+    <div class="aside-block" id="aside-texts">
+      <p class="aside-block__label">testi</p>
+      <ul class="aside-block__items" id="texts-list"></ul>
+    </div>
+
+    <div class="aside-block" id="aside-concepts">
+      <p class="aside-block__label">concetti</p>
+      <ul class="aside-block__items" id="concepts-list"></ul>
+    </div>
+
+    <div class="aside-block" id="aside-authors">
+      <p class="aside-block__label">autori</p>
+      <ul class="aside-block__items" id="authors-list"></ul>
+    </div>
+
+  </section>
+
+</div>
+
+<footer class="footer measure">
+  <span id="footer-name">Advaita Vedānta</span>
+  <span>concetto</span>
+</footer>
+
+<script src="js/url-router.js"></script>
+<script src="js/content-engine.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  function byId(id) { return document.getElementById(id); }
+
+  function createEl(tag, opts) {
+    opts = opts || {};
+    const el = document.createElement(tag);
+    if (opts.class) el.className = opts.class;
+    if (opts.text !== undefined) el.textContent = opts.text;
+    if (opts.href !== undefined) el.href = opts.href;
+    return el;
+  }
+
+  function questionUrl(id) {
+    return UrlRouter.buildContentUrl('domande', id);
+  }
+
+  function conceptUrl(id) {
+    return UrlRouter.buildContentUrl('concetti', id);
+  }
+
+  function workUrl(id) {
+    return UrlRouter.buildContentUrl('testi', id);
+  }
+
+  function authorUrl(id) {
+    return UrlRouter.buildContentUrl('autori', id);
+  }
+
+  function renderError(kind, info) {
+    const messages = {
+      missing: {
+        title: 'Nessun concetto specificato',
+        gloss: 'Aggiungi "?rif=<id>" all’indirizzo per aprire un concetto specifico — per esempio concetto.html?rif=brahman.'
+      },
+      'not-found': {
+        title: 'Concetto non trovato',
+        gloss: 'Non esiste, in questo studio delle fonti, un concetto con identificativo "' + (info && info.id) + '".'
+      },
+      unavailable: {
+        title: 'Contenuto momentaneamente non disponibile',
+        gloss: (info && info.message) || 'Impossibile caricare i dati dal Content Engine.'
+      }
+    };
+    const m = messages[kind] || messages.unavailable;
+    document.title = m.title + ' — Advaita Vedānta';
+    byId('concept-title').textContent = m.title;
+    byId('concept-transliteration').hidden = true;
+    byId('concept-gloss').textContent = m.gloss;
+    byId('section-questions').hidden = true;
+    byId('section-periphery').hidden = true;
+    byId('footer-name').textContent = m.title;
+  }
+
+  async function renderConcept(concept) {
+    document.title = concept.name + ' — Advaita Vedānta';
+    byId('concept-title').textContent = concept.name;
+    byId('footer-name').textContent = concept.name;
+
+    if (concept.transliteration) {
+      byId('concept-transliteration').textContent = concept.transliteration;
+      byId('concept-transliteration').hidden = false;
+    } else {
+      byId('concept-transliteration').hidden = true;
+    }
+
+    byId('concept-gloss').textContent = concept.gloss || '';
+
+    // Domande collegate al concetto
+    const qResult = await ContentEngine.getConceptQuestions(concept.id);
+    const qList = byId('questions-list');
+    qList.replaceChildren();
+
+    const qIds = (qResult.status === 'ok') ? qResult.data : [];
+    const questions = [];
+    for (const qid of qIds) {
+      const q = await ContentEngine.getQuestion(qid);
+      if (q.status === 'ok') questions.push(q.data);
+    }
+
+    if (questions.length) {
+      byId('section-questions').hidden = false;
+      questions.forEach((q) => {
+        const li = document.createElement('li');
+        li.append(createEl('a', { href: questionUrl(q.id), text: q.text }));
+        qList.append(li);
+      });
+    } else {
+      byId('section-questions').hidden = true;
+    }
+
+    // Periferia: Testi, Concetti, Autori
+    const textsList = byId('texts-list');
+    const conceptsList = byId('concepts-list');
+    const authorsList = byId('authors-list');
+
+    textsList.replaceChildren();
+    conceptsList.replaceChildren();
+    authorsList.replaceChildren();
+
+    let hasPeriphery = false;
+
+    // 1. Testi
+    const passageIds = concept.passages || [];
+    for (const pid of passageIds) {
+      const pResult = await ContentEngine.getPassage(pid);
+      if (pResult.status === 'ok') {
+        const p = pResult.data;
+        const li = document.createElement('li');
+        const href = p.work_id ? workUrl(p.work_id) : '#';
+        li.append(createEl('a', { class: 'source__title', href: href, text: p.source }));
+        if (p.unit_title) {
+          li.append(createEl('span', { class: 'source__why', text: p.unit_title }));
+        }
+        textsList.append(li);
+        hasPeriphery = true;
+      }
+    }
+    // Citazioni non ancora disponibili
+    (concept.cited_not_yet_available || []).forEach((c) => {
+      const li = document.createElement('li');
+      li.append(createEl('span', { class: 'source__title', text: c.locus }));
+      if (c.note) {
+        li.append(createEl('span', { class: 'source__why', text: c.note }));
+      }
+      textsList.append(li);
+      hasPeriphery = true;
+    });
+
+    // 2. Concetti correlati
+    const relResult = await ContentEngine.getRelatedConcepts(concept.id);
+    const relIds = (relResult.status === 'ok') ? relResult.data : [];
+    for (const cid of relIds) {
+      const c = await ContentEngine.getConcept(cid);
+      if (c.status === 'ok') {
+        const li = document.createElement('li');
+        li.append(createEl('a', { class: 'concept', href: conceptUrl(c.data.id), text: c.data.name }));
+        conceptsList.append(li);
+        hasPeriphery = true;
+      }
+    }
+    // Concetti pendenti
+    (concept.pending_concepts || []).forEach((pc) => {
+      const li = document.createElement('li');
+      li.append(createEl('span', { class: 'concept unavailable', text: pc.name }));
+      conceptsList.append(li);
+      hasPeriphery = true;
+    });
+
+    // 3. Autori
+    const authorIds = concept.authors || [];
+    for (const aid of authorIds) {
+      const aResult = await ContentEngine.getAuthor(aid);
+      if (aResult.status === 'ok') {
+        const li = document.createElement('li');
+        li.append(createEl('a', { href: authorUrl(aResult.data.id), text: aResult.data.name }));
+        authorsList.append(li);
+        hasPeriphery = true;
+      }
+    }
+    // Autori pendenti
+    (concept.pending_authors || []).forEach((pa) => {
+      const li = document.createElement('li');
+      li.append(createEl('span', { class: 'unavailable', text: pa.name }));
+      authorsList.append(li);
+      hasPeriphery = true;
+    });
+
+    byId('section-periphery').hidden = !hasPeriphery;
+  }
+
+  (async function init() {
+    const resolved = UrlRouter.resolveContentId('concetti');
+    if (!resolved) { renderError('missing'); return; }
+
+    const result = await ContentEngine.getConcept(resolved.id);
+    if (result.status !== 'ok') { renderError(result.status, result); return; }
+
+    try {
+      await renderConcept(result.data);
+    } catch (error) {
+      console.error('Errore nel rendering del concetto:', error);
+      renderError('unavailable', { message: 'Errore imprevisto nel rendering della pagina.' });
+    }
+  }());
+}());
+</script>
+
+</body>
+</html>

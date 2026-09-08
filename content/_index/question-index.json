@@ -1,0 +1,177 @@
+{
+  "che-cose-brahman": {
+    "id": "che-cose-brahman",
+    "type": "specific",
+    "text": "Che cos'è Brahman?",
+    "problem": "La domanda \"che cos'è Brahman?\" può suggerire che Brahman sia un oggetto definibile come gli altri oggetti dell'esperienza. Le fonti vedāntiche affrontano invece questa questione attraverso differenti formulazioni, la cui comprensione richiede il loro contesto.",
+    "parent_question": "che-cose-reale",
+    "concepts": [
+      "brahman"
+    ],
+    "passages": [
+      "brhad-1-4-1"
+    ],
+    "commentaries": [
+      "shankara-su-brhad-1-4-1"
+    ],
+    "related_questions": [
+      {
+        "id": "che-cose-reale",
+        "why": "Ritornare alla domanda più ampia permette di riprendere il problema dei livelli di realtà."
+      }
+    ],
+    "cited_not_yet_available": [
+      {
+        "locus": "Bṛhadāraṇyaka Upaniṣad, II.3.1 e II.3.6",
+        "note": "PLACEHOLDER EDITORIALE — locus citato nel prototipo, ma senza unità editoriale e senza testo o traduzione disponibili in questo slice."
+      }
+    ],
+    "source_file": "questions/che-cose-brahman.json"
+  },
+  "che-cose-reale": {
+    "id": "che-cose-reale",
+    "type": "great",
+    "text": "Che cos'è reale?",
+    "problem": "La domanda sembra chiedere una proprietà — reale contrapposto a irreale, come si distingue un oggetto vero da uno falso. La tradizione la tratta invece come una domanda sui livelli: non tutto ciò che appare ha lo stesso grado di essere, e riconoscere questi livelli è già l'inizio della risposta.",
+    "concepts": [
+      "brahman"
+    ],
+    "specific_questions": [
+      "che-cose-brahman"
+    ],
+    "related_questions": [],
+    "source_file": "questions/che-cose-reale.json"
+  },
+  "confronto-advaita-buddhismo": {
+    "id": "confronto-advaita-buddhismo",
+    "type": "comparison",
+    "text": "Advaita e Buddhismo affermano la stessa cosa?",
+    "lead": "confronto dottrinale",
+    "problem": "L'accostamento è frequente, spesso a partire da somiglianze reali: entrambe le vie negano la sostanzialità dell'io ordinario e trattano il mondo fenomenico come privo di realtà ultima. Ma le due tradizioni fondano queste affermazioni su strutture dottrinali distinte, e la questione non si chiude osservando che \"dicono cose simili con parole diverse\" — richiede di seguire i concetti fino alle fonti che li definiscono.",
+    "terms": [
+      {
+        "term_a_id": "atman",
+        "term_b": {
+          "name": "Anātman",
+          "available": false
+        },
+        "why": "Il Vedānta afferma un sé ultimo identico a Brahman; il Buddhismo nega ogni sé permanente, incluso nel senso in cui l'Advaita lo intende."
+      },
+      {
+        "term_a_id": "brahman",
+        "term_b": {
+          "name": "Śūnyatā",
+          "available": false
+        },
+        "why": "Principio positivo senza secondo da un lato; vacuità come assenza di natura propria (svabhāva) dall'altro — la questione è se queste due nozioni indichino la stessa realtà per vie diverse, o realtà eterogenee."
+      },
+      {
+        "term_a": {
+          "name": "Mokṣa",
+          "available": false
+        },
+        "term_b": {
+          "name": "Nirvāṇa",
+          "available": false
+        },
+        "why": "Riconoscimento della propria identità con Brahman, già sempre presente, contro estinzione della sete (tṛṣṇā) e del ciclo che essa alimenta."
+      },
+      {
+        "term_a": {
+          "name": "Māyā",
+          "available": false
+        },
+        "term_b": {
+          "name": "Vacuità fenomenica",
+          "available": false
+        },
+        "why": "Il mondo come apparenza fondata su un principio reale, contro il mondo come originazione dipendente priva di fondamento ultimo in qualunque principio."
+      }
+    ],
+    "traditions": [
+      {
+        "label": "fonti — Advaita Vedānta",
+        "sources": [
+          {
+            "work_id": "brhadaranyaka-upanishad",
+            "unit_id": "brhadaranyaka-1-4",
+            "why": "Ātman come unico esistente prima di ogni distinzione"
+          },
+          {
+            "work_id": "mandukya-karika",
+            "unit_id": "mandukya-4",
+            "why": "Gauḍapāda e l'argomento dell'ajāti, esposto in termini che dialogano esplicitamente con categorie buddhiste"
+          },
+          {
+            "title": "Śaṅkara, Brahma Sūtra Bhāṣya, II.1",
+            "author_id": "shankara",
+            "why": "la confutazione della dottrina buddhista del non-sé così come Śaṅkara la presenta",
+            "available": false
+          }
+        ]
+      },
+      {
+        "label": "fonti — Buddhismo",
+        "sources": [
+          {
+            "title": "Anattalakkhaṇa Sutta",
+            "why": "l'esposizione canonica dell'anātman; non ancora presente nel sito",
+            "available": false
+          },
+          {
+            "title": "Nāgārjuna, Mūlamadhyamakakārikā, XXIV",
+            "why": "śūnyatā e originazione dipendente; non ancora presente nel sito",
+            "available": false
+          }
+        ]
+      }
+    ],
+    "related_authors_list": [
+      {
+        "id": "shankara",
+        "available": true
+      },
+      {
+        "name": "Gauḍapāda",
+        "available": false
+      },
+      {
+        "name": "Nāgārjuna",
+        "available": false
+      }
+    ],
+    "passages": [
+      "mandukya-4-99"
+    ],
+    "interpretive_problem": {
+      "summary": "problema interpretativo",
+      "paragraphs": [
+        "La vicinanza tra l'argomento di Gauḍapāda e certi sviluppi madhyamaka ha portato, storicamente, tanto ad accuse di \"buddhismo mascherato\" (pracchanna-bauddha) quanto a letture che assimilano le due dottrine senza residuo. Entrambe le posizioni semplificano: la prima ignora che l'argomento serve in Gauḍapāda a stabilire Brahman come sostrato non-nato, non ad negarlo; la seconda ignora che śūnyatā non gioca, nel sistema madhyamaka, il ruolo positivo che Brahman gioca in quello vedāntico.",
+        "Guénon insiste su questo punto: una somiglianza di metodo argomentativo — la negazione sistematica di ogni determinazione — non implica identità di dottrina, se i due sistemi collocano quella negazione in relazione a principi diversi."
+      ]
+    },
+    "related_questions_list": [
+      {
+        "text": "Gauḍapāda e la questione buddhista",
+        "available": false
+      },
+      {
+        "text": "Che cos'è Ātman?",
+        "available": false
+      },
+      {
+        "text": "Che cos'è la liberazione?",
+        "available": false
+      },
+      {
+        "text": "Advaita e Sāṃkhya",
+        "available": false
+      }
+    ],
+    "concepts": [
+      "atman",
+      "brahman"
+    ],
+    "source_file": "questions/confronto-advaita-buddhismo.json"
+  }
+}

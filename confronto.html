@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<base href="/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Confronto — Advaita Vedānta</title>
+
+<!--
+  ============================================================
+  TEMPLATE DINAMICO — Pagina di Confronto (tipo COMPARISON)
+  ============================================================
+  Sostituisce le pagine statiche individuali per singolo confronto
+  (es. confronto-advaita-buddhismo.html): non esiste più una
+  pagina HTML distinta per ogni confronto, esiste questo unico
+  template dinamico.
+
+  Un confronto è concettualmente una domanda che attraversa due
+  corpus contemporaneamente.
+
+  Il contenuto è determinato dallo slug in query string:
+      confronto.html?rif=<id-confronto>
+
+  Il markup non contiene contenuti hardcoded. I dati provengono
+  esclusivamente da js/content-engine.js.
+  ============================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --color-bg:        #F5F3EE;
+  --color-bg-raised: #EFECE3;
+  --color-ink:        #201F1C;
+  --color-ink-muted:  #5B584E;
+  --color-ink-faint:  #8B8778;
+  --color-accent:     #45516C;
+  --color-rule:       #D9D4C6;
+
+  --font-text: 'Gentium Plus', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+
+  --fs-question:  clamp(2rem, 4.5vw + 1rem, 3.4rem);
+  --fs-title:     1.375rem;
+  --fs-body:      1.125rem;
+  --fs-passage:   1.25rem;
+  --fs-note:      0.95rem;
+  --fs-caption:   0.85rem;
+
+  --lh-tight:  1.25;
+  --lh-body:   1.7;
+  --lh-passage: 1.85;
+
+  --sp-1: 0.375rem;
+  --sp-2: 0.75rem;
+  --sp-3: 1.25rem;
+  --sp-4: 2rem;
+  --sp-5: 3.25rem;
+  --sp-6: 5rem;
+  --sp-7: 7.5rem;
+
+  --measure:   38rem;
+  --page-max:  60rem;
+}
+
+*, *::before, *::after{ box-sizing: border-box; }
+html{ -webkit-text-size-adjust: 100%; }
+body{ margin: 0; }
+ul{ margin: 0; padding: 0; list-style: none; }
+a{ color: inherit; }
+h1,h2,h3,p,dl,dd{ margin: 0; }
+
+body{
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-text);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  font-feature-settings: "onum" 1, "liga" 1;
+}
+
+.eyebrow{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+.page{
+  display: grid;
+  grid-template-columns: minmax(var(--sp-3), 1fr) minmax(0, var(--page-max)) minmax(var(--sp-3), 1fr);
+  padding-block: var(--sp-5) var(--sp-7);
+}
+.page > *{ grid-column: 2; }
+.measure{ max-width: var(--measure); margin-inline: auto; }
+.block + .block{ margin-top: var(--sp-6); }
+.block[hidden]{ display: none; }
+
+.unit{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--sp-3);
+  max-width: var(--page-max);
+  margin-inline: auto;
+}
+.unit__main{ max-width: var(--measure); }
+.unit__aside{ max-width: var(--measure); }
+@media (min-width: 1100px){
+  .unit--aside{
+    grid-template-columns: minmax(0, var(--measure)) minmax(11rem, 14rem);
+    column-gap: var(--sp-5);
+    align-items: start;
+  }
+  .unit--aside .unit__aside{ max-width: none; }
+}
+
+a{
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+a:hover, a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
+
+a.concept{
+  text-decoration-style: dotted;
+  text-decoration-color: var(--color-ink-faint);
+}
+a.concept:hover, a.concept:focus-visible{ text-decoration-style: solid; }
+
+.concept.unavailable{
+  text-decoration-style: dotted;
+  text-decoration-color: transparent;
+  color: var(--color-ink);
+}
+
+a.source__title{ font-weight: 700; text-decoration-color: var(--color-ink-faint); }
+span.source__title{ font-weight: 700; color: var(--color-ink); }
+a.related{ text-decoration-color: var(--color-rule); }
+span.related.unavailable{ text-decoration: none; color: var(--color-ink); }
+
+.masthead{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--sp-3);
+  padding-bottom: var(--sp-5);
+  border-bottom: 1px solid var(--color-rule);
+  font-size: var(--fs-note);
+}
+.masthead__mark{ color: var(--color-ink-muted); }
+
+.question{
+  font-size: var(--fs-question);
+  line-height: var(--lh-tight);
+  font-weight: 400;
+  max-width: 22ch;
+}
+.problem{
+  margin-top: var(--sp-3);
+  color: var(--color-ink-muted);
+  max-width: 44ch;
+}
+
+.terms{ display: flex; flex-direction: column; }
+.terms li{ border-top: 1px solid var(--color-rule); }
+.terms li:last-child{ border-bottom: 1px solid var(--color-rule); }
+.terms__row{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--sp-2);
+  padding-block: var(--sp-3);
+}
+.terms__a, .terms__b{
+  font-size: var(--fs-title);
+}
+.terms__sep{
+  color: var(--color-ink-faint);
+  font-size: var(--fs-note);
+}
+.terms__why{
+  flex-basis: 100%;
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  max-width: 46ch;
+}
+
+.tradition-label{
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+.sources{ display: flex; flex-direction: column; gap: var(--sp-3); margin-top: var(--sp-2); }
+.source__why{
+  display: block;
+  margin-top: var(--sp-1);
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+}
+.tradition-block + .tradition-block{ margin-top: var(--sp-5); }
+
+.aside-block__label{ font-size: var(--fs-caption); color: var(--color-ink-faint); font-style: italic; }
+.aside-block__items{ margin-top: var(--sp-2); display: flex; flex-direction: column; gap: var(--sp-1); }
+.aside-block__items .unavailable{ text-decoration: none; color: var(--color-ink); }
+
+.passage{
+  font-size: var(--fs-passage);
+  line-height: var(--lh-passage);
+  padding-left: var(--sp-3);
+  border-left: 1px solid var(--color-rule);
+}
+.passage__text{ color: var(--color-ink); }
+.passage__source{
+  display: block;
+  margin-top: var(--sp-2);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+.expandable{ border-top: 1px solid var(--color-rule); padding-top: var(--sp-3); }
+.expandable summary{
+  cursor: pointer;
+  list-style: none;
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+}
+.expandable summary::-webkit-details-marker{ display: none; }
+.expandable summary::before{ content: "+ "; color: var(--color-ink-faint); }
+.expandable[open] summary::before{ content: "– "; }
+.expandable__body{ margin-top: var(--sp-3); overflow: hidden; }
+.expandable__body p + p{ margin-top: var(--sp-3); }
+
+.related__list{ display: flex; flex-direction: column; gap: var(--sp-2); }
+.related__list a, .related__list .related{ font-size: var(--fs-title); }
+
+.footer{
+  margin-top: var(--sp-7);
+  padding-top: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+  display: flex;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+}
+
+@media (prefers-reduced-motion: no-preference){
+  a{ transition: color 150ms ease, text-decoration-color 150ms ease; }
+  .expandable__body{ transition: max-height 260ms ease; }
+}
+
+@media (max-width: 640px){
+  :root{ --fs-body: 1.0625rem; --fs-passage: 1.1875rem; }
+  .page{ padding-inline: var(--sp-3); padding-block: var(--sp-4) var(--sp-6); }
+  .page > *{ grid-column: 1 / -1; }
+  .block + .block{ margin-top: var(--sp-5); }
+  .masthead{ flex-direction: column; align-items: flex-start; gap: var(--sp-1); }
+  .footer{ flex-direction: column; gap: var(--sp-1); }
+  .terms__row{ flex-direction: column; gap: var(--sp-1); }
+}
+</style>
+</head>
+<body data-slice="comparison">
+
+<div class="page" id="page">
+
+  <header class="masthead">
+    <a class="masthead__mark" href="index.html">Advaita Vedānta — uno studio delle fonti</a>
+    <a href="index.html">tutti i confronti</a>
+  </header>
+
+  <!-- LA QUESTIONE -->
+  <section class="block measure">
+    <p class="eyebrow" id="comparison-lead"></p>
+    <h1 class="question" id="comparison-question" style="margin-top: var(--sp-2);"></h1>
+    <p class="problem" id="comparison-problem"></p>
+  </section>
+
+  <!-- CONCETTI IN GIOCO -->
+  <section class="block measure" id="section-terms" hidden>
+    <p class="eyebrow">concetti in gioco</p>
+    <ul class="terms" id="terms-list" style="margin-top: var(--sp-3);"></ul>
+  </section>
+
+  <!-- FONTI DELLE DUE TRADIZIONI -->
+  <section class="block unit unit--aside" id="section-traditions" hidden>
+    <div class="unit__main">
+      <p id="traditions-intro">
+        Il confronto non può essere condotto in astratto: ciascuna tradizione affronta la questione in luoghi precisi, che è necessario leggere prima di qualunque giudizio comparativo.
+      </p>
+      <div id="traditions-blocks"></div>
+    </div>
+
+    <aside class="unit__aside" id="traditions-aside" hidden>
+      <p class="aside-block__label">autori collegati</p>
+      <ul class="aside-block__items" id="authors-list"></ul>
+    </aside>
+  </section>
+
+  <!-- IL PASSAGGIO CENTRALE -->
+  <section class="block measure" id="section-passage" hidden>
+    <p class="eyebrow">un luogo in cui il problema si mostra direttamente</p>
+    <blockquote class="passage" style="margin-top: var(--sp-3);">
+      <p class="passage__text" id="passage-text"></p>
+      <span class="passage__source" id="passage-source"></span>
+    </blockquote>
+  </section>
+
+  <!-- PROBLEMA INTERPRETATIVO -->
+  <section class="block measure" id="section-interpretive" hidden>
+    <details class="expandable" id="interpretive-details">
+      <summary id="interpretive-summary">problema interpretativo</summary>
+      <div class="expandable__body" id="interpretive-body"></div>
+    </details>
+  </section>
+
+  <!-- APPROFONDIMENTI -->
+  <section class="block measure" id="section-related" hidden>
+    <p class="eyebrow">approfondimenti</p>
+    <ul class="related__list" id="related-list" style="margin-top: var(--sp-3);"></ul>
+  </section>
+
+</div>
+
+<footer class="footer measure">
+  <span id="footer-name">Advaita Vedānta</span>
+  <span>confronto</span>
+</footer>
+
+<script src="js/url-router.js"></script>
+<script src="js/content-engine.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  function byId(id) { return document.getElementById(id); }
+
+  function createEl(tag, opts) {
+    opts = opts || {};
+    const el = document.createElement(tag);
+    if (opts.class) el.className = opts.class;
+    if (opts.text !== undefined) el.textContent = opts.text;
+    if (opts.href !== undefined) el.href = opts.href;
+    return el;
+  }
+
+  function questionUrl(id) {
+    return UrlRouter.buildContentUrl('domande', id);
+  }
+
+  function conceptUrl(id) {
+    return UrlRouter.buildContentUrl('concetti', id);
+  }
+
+  function workUrl(id) {
+    return UrlRouter.buildContentUrl('testi', id);
+  }
+
+  function authorUrl(id) {
+    return UrlRouter.buildContentUrl('autori', id);
+  }
+
+  function renderError(kind, info) {
+    const messages = {
+      missing: {
+        title: 'Nessun confronto specificato',
+        problem: 'Aggiungi "?rif=<id>" all’indirizzo per aprire un confronto specifico — per esempio confronto.html?rif=confronto-advaita-buddhismo.'
+      },
+      'not-found': {
+        title: 'Confronto non trovato',
+        problem: 'Non esiste, in questo studio delle fonti, un confronto con identificativo "' + (info && info.id) + '".'
+      },
+      unavailable: {
+        title: 'Contenuto momentaneamente non disponibile',
+        problem: (info && info.message) || 'Impossibile caricare i dati dal Content Engine.'
+      }
+    };
+    const m = messages[kind] || messages.unavailable;
+    document.title = m.title + ' — Advaita Vedānta';
+    byId('comparison-lead').textContent = '';
+    byId('comparison-question').textContent = m.title;
+    byId('comparison-problem').textContent = m.problem;
+    byId('section-terms').hidden = true;
+    byId('section-traditions').hidden = true;
+    byId('section-passage').hidden = true;
+    byId('section-interpretive').hidden = true;
+    byId('section-related').hidden = true;
+    byId('footer-name').textContent = m.title;
+  }
+
+  function setupExpandable(el) {
+    if (!el) return;
+    const body = el.querySelector('.expandable__body');
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce) return;
+
+    body.style.maxHeight = el.open ? 'none' : '0px';
+
+    el.addEventListener('toggle', () => {
+      if (el.open) {
+        body.style.maxHeight = body.scrollHeight + 'px';
+        body.addEventListener('transitionend', function done(e) {
+          if (e.propertyName === 'max-height') {
+            body.style.maxHeight = 'none';
+            body.removeEventListener('transitionend', done);
+          }
+        });
+      } else {
+        body.style.maxHeight = '0px';
+      }
+    });
+  }
+
+  async function renderComparison(comparison) {
+    document.title = comparison.text + ' — Advaita Vedānta';
+    byId('comparison-lead').textContent = comparison.lead || 'confronto dottrinale';
+    byId('comparison-question').textContent = comparison.text;
+    byId('comparison-problem').textContent = comparison.problem || '';
+    byId('footer-name').textContent = comparison.text;
+
+    // 1. Concetti in gioco (terms)
+    const termsList = byId('terms-list');
+    termsList.replaceChildren();
+
+    const terms = comparison.terms || [];
+    if (terms.length) {
+      byId('section-terms').hidden = false;
+      for (const t of terms) {
+        const li = document.createElement('li');
+        const row = createEl('div', { class: 'terms__row' });
+
+        // Term A
+        const termAId = t.term_a_id || (t.term_a && t.term_a.id);
+        if (termAId) {
+          const cRes = await ContentEngine.getConcept(termAId);
+          const cName = cRes.status === 'ok' ? cRes.data.name : (t.term_a && t.term_a.name) || termAId;
+          row.append(createEl('a', { class: 'concept terms__a', href: conceptUrl(termAId), text: cName }));
+        } else if (t.term_a && t.term_a.name) {
+          row.append(createEl('span', { class: 'concept terms__a unavailable', text: t.term_a.name }));
+        }
+
+        row.append(createEl('span', { class: 'terms__sep', text: '—' }));
+
+        // Term B
+        const termBId = t.term_b_id || (t.term_b && t.term_b.id);
+        if (termBId) {
+          const cRes = await ContentEngine.getConcept(termBId);
+          const cName = cRes.status === 'ok' ? cRes.data.name : (t.term_b && t.term_b.name) || termBId;
+          row.append(createEl('a', { class: 'concept terms__b', href: conceptUrl(termBId), text: cName }));
+        } else if (t.term_b && t.term_b.name) {
+          row.append(createEl('span', { class: 'concept terms__b unavailable', text: t.term_b.name }));
+        }
+
+        if (t.why) {
+          row.append(createEl('span', { class: 'terms__why', text: t.why }));
+        }
+
+        li.append(row);
+        termsList.append(li);
+      }
+    } else {
+      byId('section-terms').hidden = true;
+    }
+
+    // 2. Fonti per tradizione
+    const traditionsBlocks = byId('traditions-blocks');
+    traditionsBlocks.replaceChildren();
+
+    const traditions = comparison.traditions || [];
+    if (traditions.length) {
+      byId('section-traditions').hidden = false;
+      for (const trad of traditions) {
+        const block = createEl('div', { class: 'tradition-block' });
+        block.style.marginTop = 'var(--sp-5)';
+        block.append(createEl('p', { class: 'tradition-label', text: trad.label }));
+
+        const ul = createEl('ul', { class: 'sources' });
+        for (const s of (trad.sources || [])) {
+          const li = document.createElement('li');
+          if (s.work_id) {
+            let title = s.title;
+            if (!title) {
+              const wRes = await ContentEngine.getWork(s.work_id);
+              title = wRes.status === 'ok' ? wRes.data.title : s.work_id;
+              if (s.unit_id) {
+                const uRes = await ContentEngine.getUnit(s.unit_id);
+                if (uRes.status === 'ok' && uRes.data.unit_locus) title += ', ' + uRes.data.unit_locus;
+              }
+            }
+            li.append(createEl('a', { class: 'source__title', href: workUrl(s.work_id), text: title }));
+          } else if (s.author_id) {
+            let title = s.title;
+            if (!title) {
+              const aRes = await ContentEngine.getAuthor(s.author_id);
+              title = aRes.status === 'ok' ? aRes.data.name : s.author_id;
+            }
+            li.append(createEl('a', { class: 'source__title', href: authorUrl(s.author_id), text: title }));
+          } else {
+            li.append(createEl('span', { class: 'source__title', text: s.title }));
+          }
+
+          if (s.why) {
+            li.append(createEl('span', { class: 'source__why', text: s.why }));
+          }
+          ul.append(li);
+        }
+
+        block.append(ul);
+        traditionsBlocks.append(block);
+      }
+    } else {
+      byId('section-traditions').hidden = true;
+    }
+
+    // Autori collegati
+    const authorsList = byId('authors-list');
+    authorsList.replaceChildren();
+    const authors = comparison.related_authors_list || [];
+    if (authors.length) {
+      byId('traditions-aside').hidden = false;
+      for (const a of authors) {
+        const li = document.createElement('li');
+        if (a.id) {
+          const aRes = await ContentEngine.getAuthor(a.id);
+          const aName = aRes.status === 'ok' ? aRes.data.name : (a.name || a.id);
+          li.append(createEl('a', { href: authorUrl(a.id), text: aName }));
+        } else {
+          li.append(createEl('span', { class: 'unavailable', text: a.name }));
+        }
+        authorsList.append(li);
+      }
+    } else {
+      byId('traditions-aside').hidden = true;
+    }
+
+    // 3. Passaggio centrale
+    const passageId = comparison.central_passage_id || (comparison.passages && comparison.passages[0]);
+    if (passageId) {
+      const pRes = await ContentEngine.getPassage(passageId);
+      if (pRes.status === 'ok') {
+        byId('section-passage').hidden = false;
+        byId('passage-text').textContent = pRes.data.translation || pRes.data.text || '';
+        byId('passage-source').textContent = pRes.data.source || '';
+      } else {
+        byId('section-passage').hidden = true;
+      }
+    } else if (comparison.central_passage && comparison.central_passage.text) {
+      byId('section-passage').hidden = false;
+      byId('passage-text').textContent = comparison.central_passage.text;
+      byId('passage-source').textContent = comparison.central_passage.source || '';
+    } else {
+      byId('section-passage').hidden = true;
+    }
+
+    // 4. Problema interpretativo
+    const ip = comparison.interpretive_problem;
+    if (ip && ip.paragraphs && ip.paragraphs.length) {
+      byId('section-interpretive').hidden = false;
+      byId('interpretive-summary').textContent = ip.summary || 'problema interpretativo';
+      const body = byId('interpretive-body');
+      body.replaceChildren();
+      ip.paragraphs.forEach((p) => {
+        body.append(createEl('p', { text: p }));
+      });
+      setupExpandable(byId('interpretive-details'));
+    } else {
+      byId('section-interpretive').hidden = true;
+    }
+
+    // 5. Approfondimenti (related)
+    const relList = byId('related-list');
+    relList.replaceChildren();
+    const related = comparison.related_questions_list || [];
+    if (related.length) {
+      byId('section-related').hidden = false;
+      related.forEach((r) => {
+        const li = document.createElement('li');
+        if (r.id) {
+          li.append(createEl('a', { class: 'related', href: questionUrl(r.id), text: r.text }));
+        } else {
+          li.append(createEl('span', { class: 'related unavailable', text: r.text }));
+        }
+        relList.append(li);
+      });
+    } else {
+      byId('section-related').hidden = true;
+    }
+  }
+
+  (async function init() {
+    const resolved = UrlRouter.resolveContentId('confronti');
+    if (!resolved) { renderError('missing'); return; }
+
+    const result = await ContentEngine.getQuestion(resolved.id);
+    if (result.status !== 'ok') { renderError(result.status, result); return; }
+
+    try {
+      await renderComparison(result.data);
+    } catch (error) {
+      console.error('Errore nel rendering del confronto:', error);
+      renderError('unavailable', { message: 'Errore imprevisto nel rendering della pagina.' });
+    }
+  }());
+}());
+</script>
+
+</body>
+</html>

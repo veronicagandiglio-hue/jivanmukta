@@ -1,0 +1,64 @@
+{
+  "atman": {
+    "id": "atman",
+    "name": "Ātman",
+    "transliteration": "आत्मन्",
+    "gloss": "Il sé, testimone dell'esperienza — nella dottrina advaita non distinto, nella sua natura ultima, da Brahman.",
+    "passages": [
+      "brhad-1-4-1"
+    ],
+    "related_concepts": [
+      "brahman"
+    ],
+    "authors": [
+      "shankara"
+    ],
+    "source_file": "concepts/atman.json"
+  },
+  "brahman": {
+    "id": "brahman",
+    "name": "Brahman",
+    "transliteration": "ब्रह्मन्",
+    "gloss": "Ciò da cui procedono origine, sussistenza e dissoluzione di tutto ciò che appare — non un ente tra gli altri, ma il principio senza secondo.",
+    "passages": [
+      "brhad-1-4-1"
+    ],
+    "related_concepts": [
+      "atman"
+    ],
+    "authors": [
+      "shankara"
+    ],
+    "cited_not_yet_available": [
+      {
+        "locus": "Bṛhadāraṇyaka Upaniṣad, II.3",
+        "note": "forma percettibile e ciò che la eccede"
+      },
+      {
+        "locus": "Chāndogya Upaniṣad, VI.2",
+        "note": "l'insegnamento dell'unità originaria"
+      },
+      {
+        "locus": "Brahma Sūtra Bhāṣya, I.1.2",
+        "note": "definizione per origine e dissoluzione"
+      }
+    ],
+    "pending_concepts": [
+      {
+        "name": "Māyā"
+      },
+      {
+        "name": "Īśvara"
+      },
+      {
+        "name": "Jīva"
+      }
+    ],
+    "pending_authors": [
+      {
+        "name": "Gauḍapāda"
+      }
+    ],
+    "source_file": "concepts/brahman.json"
+  }
+}

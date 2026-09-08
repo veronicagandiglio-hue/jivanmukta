@@ -1,0 +1,28 @@
+{
+  "id": "che-cose-brahman",
+  "type": "specific",
+  "text": "Che cos'è Brahman?",
+  "problem": "La domanda \"che cos'è Brahman?\" può suggerire che Brahman sia un oggetto definibile come gli altri oggetti dell'esperienza. Le fonti vedāntiche affrontano invece questa questione attraverso differenti formulazioni, la cui comprensione richiede il loro contesto.",
+  "parent_question": "che-cose-reale",
+  "concepts": [
+    "brahman"
+  ],
+  "passages": [
+    "brhad-1-4-1"
+  ],
+  "commentaries": [
+    "shankara-su-brhad-1-4-1"
+  ],
+  "related_questions": [
+    {
+      "id": "che-cose-reale",
+      "why": "Ritornare alla domanda più ampia permette di riprendere il problema dei livelli di realtà."
+    }
+  ],
+  "cited_not_yet_available": [
+    {
+      "locus": "Bṛhadāraṇyaka Upaniṣad, II.3.1 e II.3.6",
+      "note": "PLACEHOLDER EDITORIALE — locus citato nel prototipo, ma senza unità editoriale e senza testo o traduzione disponibili in questo slice."
+    }
+  ]
+}

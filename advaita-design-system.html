@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Che cos'è Brahman? — sistema visivo</title>
+
+<!--
+  ============================================================
+  SISTEMA VISIVO — Advaita Vedānta
+  ============================================================
+  Questo file non è una pagina finale. È il sistema fondamentale
+  (token + componenti) verificato su una sola configurazione
+  dimostrativa: una Domanda con la sua Nota, le sue Fonti, un
+  Passaggio, un Commento e le Domande correlate.
+
+  Struttura del foglio di stile, in ordine:
+    1. Token (colore, tipografia, spazio, soglie)
+    2. Reset minimo
+    3. Tipografia di base
+    4. Griglia di pagina (invisibile)
+    5. Componenti (domanda, unità con margine, fonti, passaggio,
+       note a piè, commento espandibile, domande correlate)
+    6. Interazioni testuali (link, concetti, citazioni)
+    7. Movimento (rispetta prefers-reduced-motion)
+  ============================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+<style>
+
+/* ============================================================
+   1. TOKEN
+   ============================================================ */
+:root{
+  /* colore — palette quasi monocromatica, un solo accento */
+  --color-bg:        #F5F3EE;
+  --color-bg-raised: #EFECE3;
+  --color-ink:        #201F1C;
+  --color-ink-muted:  #5B584E;
+  --color-ink-faint:  #8B8778;
+  --color-accent:     #45516C;
+  --color-rule:       #D9D4C6;
+
+  /* tipografia — un'unica famiglia per titoli, corpo, note */
+  --font-text: 'Gentium Plus', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+
+  --fs-question:  clamp(2rem, 4.5vw + 1rem, 3.4rem);
+  --fs-title:     1.375rem;
+  --fs-body:      1.125rem;
+  --fs-passage:   1.25rem;
+  --fs-note:      0.95rem;
+  --fs-caption:   0.85rem;
+
+  --lh-tight:  1.25;
+  --lh-body:   1.7;
+  --lh-passage: 1.85;
+
+  /* spazio — scala verticale, unica fonte di gerarchia */
+  --sp-1: 0.375rem;
+  --sp-2: 0.75rem;
+  --sp-3: 1.25rem;
+  --sp-4: 2rem;
+  --sp-5: 3.25rem;
+  --sp-6: 5rem;
+  --sp-7: 7.5rem;
+
+  /* misura di lettura e larghezza di pagina */
+  --measure:   38rem;   /* colonna di lettura, ~70 caratteri */
+  --page-max:  60rem;   /* larghezza che ospita anche il margine */
+
+  --bp-wide: 1100px;
+}
+
+/* ============================================================
+   2. RESET MINIMO
+   ============================================================ */
+*, *::before, *::after{ box-sizing: border-box; }
+html{ -webkit-text-size-adjust: 100%; }
+body{ margin: 0; }
+ul{ margin: 0; padding: 0; list-style: none; }
+a{ color: inherit; }
+h1,h2,h3,p,dl,dd{ margin: 0; }
+
+/* ============================================================
+   3. TIPOGRAFIA DI BASE
+   ============================================================ */
+body{
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-text);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  font-feature-settings: "onum" 1, "liga" 1; /* cifre testuali, se il font le supporta */
+}
+
+.eyebrow{
+  /* etichetta di sezione: minuscolo, quieta, nessun tracking, nessun maiuscolo */
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+/* ============================================================
+   4. GRIGLIA DI PAGINA — invisibile
+   ============================================================
+   Un'unica colonna centrale di lettura. Il margine esiste solo
+   come spazio elastico (fr), non come binario visibile. */
+.page{
+  display: grid;
+  grid-template-columns: minmax(var(--sp-3), 1fr) minmax(0, var(--page-max)) minmax(var(--sp-3), 1fr);
+  padding-block: var(--sp-5) var(--sp-7);
+}
+.page > *{ grid-column: 2; }
+
+.measure{
+  max-width: var(--measure);
+  margin-inline: auto;
+}
+
+/* Unità con elemento periferico: una colonna sola su schermi
+   stretti, colonna di lettura + margine su schermi larghi.
+   Non è "sidebar | contenuto | sidebar": il margine appare solo
+   accanto all'unità che lo richiede, non lungo tutta la pagina. */
+.unit{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--sp-3);
+  max-width: var(--page-max);
+  margin-inline: auto;
+}
+.unit__main{ max-width: var(--measure); }
+.unit__aside{ max-width: var(--measure); }
+
+@media (min-width: 1100px){
+  .unit--aside{
+    grid-template-columns: minmax(0, var(--measure)) minmax(11rem, 14rem);
+    column-gap: var(--sp-5);
+    align-items: start;
+  }
+  .unit--aside .unit__aside{ max-width: none; }
+}
+
+/* ritmo verticale tra i blocchi principali della pagina */
+.block + .block{ margin-top: var(--sp-6); }
+.block--tight + .block{ margin-top: var(--sp-4); }
+
+/* ============================================================
+   5. COMPONENTI
+   ============================================================ */
+
+/* -- intestazione quieta, funge da rientro alla mappa delle domande -- */
+.masthead{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--sp-3);
+  padding-bottom: var(--sp-5);
+  border-bottom: 1px solid var(--color-rule);
+}
+.masthead__mark{ font-size: var(--fs-note); color: var(--color-ink-muted); }
+.masthead__index{ font-size: var(--fs-note); }
+
+/* -- la domanda: parola isolata nello spazio, non un titolo di pagina -- */
+.question{
+  font-size: var(--fs-question);
+  line-height: var(--lh-tight);
+  font-weight: 400;
+  max-width: 20ch;
+}
+
+.problem{
+  margin-top: var(--sp-3);
+  color: var(--color-ink-muted);
+  font-style: italic;
+  max-width: 34ch;
+}
+
+/* -- fonti: lista tipografica, non card -- */
+.sources{ display: flex; flex-direction: column; gap: var(--sp-3); }
+.source__title{ display: inline; }
+.source__why{
+  display: block;
+  margin-top: var(--sp-1);
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+}
+
+/* -- il passaggio: l'unità testuale al centro dell'attenzione -- */
+.passage{
+  font-size: var(--fs-passage);
+  line-height: var(--lh-passage);
+  padding-left: var(--sp-3);
+  border-left: 1px solid var(--color-rule);
+}
+.passage__original{ color: var(--color-ink-muted); font-size: var(--fs-note); }
+.passage__original + .passage__text{ margin-top: var(--sp-2); }
+.passage__source{
+  display: block;
+  margin-top: var(--sp-2);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+
+/* -- nota a piè: riferimento numerato, breve glossa -- */
+.notes{ margin-top: var(--sp-3); font-size: var(--fs-note); color: var(--color-ink-muted); }
+.notes li + li{ margin-top: var(--sp-1); }
+.notes__num{ color: var(--color-ink-faint); margin-right: var(--sp-1); }
+
+/* -- commento: profondità opzionale, mai imposta -- */
+.expandable{ border-top: 1px solid var(--color-rule); padding-top: var(--sp-3); }
+.expandable summary{
+  cursor: pointer;
+  list-style: none;
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+}
+.expandable summary::-webkit-details-marker{ display: none; }
+.expandable summary::before{
+  content: "+ ";
+  color: var(--color-ink-faint);
+}
+.expandable[open] summary::before{ content: "– "; }
+.expandable__body{
+  margin-top: var(--sp-3);
+  overflow: hidden;
+}
+.expandable__body p + p{ margin-top: var(--sp-2); }
+
+.citation{
+  margin: var(--sp-3) 0;
+  padding-left: var(--sp-3);
+  border-left: 1px solid var(--color-rule);
+  color: var(--color-ink-muted);
+  font-size: var(--fs-note);
+}
+
+/* -- domande correlate: continuazione, non appendice -- */
+.related__list{ display: flex; flex-direction: column; gap: var(--sp-2); }
+.related__list a{ font-size: var(--fs-title); }
+
+/* -- concetti nel margine -- */
+.aside-block__label{ font-size: var(--fs-caption); color: var(--color-ink-faint); font-style: italic; }
+.aside-block__items{ margin-top: var(--sp-2); display: flex; flex-direction: column; gap: var(--sp-1); }
+
+/* ============================================================
+   6. INTERAZIONI TESTUALI
+   ============================================================
+   Nessun pulsante. Il testo stesso porta l'affordance,
+   differenziata per ruolo tramite il solo trattamento della
+   sottolineatura e, in stato attivo, dell'unico colore d'accento. */
+
+a{
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+a:hover, a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
+
+/* concetto: rimanda a una definizione, non a un percorso di lettura */
+a.concept{
+  text-decoration-style: dotted;
+  text-decoration-color: var(--color-ink-faint);
+}
+a.concept:hover, a.concept:focus-visible{
+  text-decoration-style: solid;
+}
+
+/* fonte: il titolo dell'opera porta il peso del riferimento */
+a.source__title{ font-weight: 700; text-decoration-color: var(--color-ink-faint); }
+
+/* domanda correlata: nessun trattamento diverso dal link — è testo
+   che conduce a un'altra configurazione dello stesso spazio */
+a.related{ text-decoration-color: var(--color-rule); }
+
+/* ============================================================
+   7. MOVIMENTO — minimo, mai continuo
+   ============================================================ */
+@media (prefers-reduced-motion: no-preference){
+  a{ transition: color 150ms ease, text-decoration-color 150ms ease; }
+  .expandable__body{ transition: max-height 260ms ease; }
+}
+
+/* ============================================================
+   RESPONSIVE — il mobile non è il desktop compresso
+   ============================================================ */
+@media (max-width: 640px){
+  :root{
+    --fs-body: 1.0625rem;
+    --fs-passage: 1.1875rem;
+  }
+  .page{ padding-inline: var(--sp-3); padding-block: var(--sp-4) var(--sp-6); }
+  .page > *{ grid-column: 1 / -1; }
+  .block + .block{ margin-top: var(--sp-5); }
+  .masthead{ flex-direction: column; align-items: flex-start; gap: var(--sp-1); }
+}
+
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <header class="masthead">
+    <span class="masthead__mark">Advaita Vedānta — uno studio delle fonti</span>
+    <a class="masthead__index" href="#">indice delle domande</a>
+  </header>
+
+  <!-- DOMANDA -->
+  <section class="block measure">
+    <h1 class="question">Che cos'è Brahman?</h1>
+    <p class="problem">
+      Chi pone questa domanda si aspetta spesso una definizione — un
+      oggetto da aggiungere a ciò che già conosce. Le fonti procedono
+      diversamente: non descrivono un contenuto ulteriore
+      dell'esperienza, ma indicano ciò che rende l'esperienza stessa
+      possibile.
+    </p>
+  </section>
+
+  <!-- FONTI, come elemento periferico rispetto alla nota -->
+  <section class="block unit unit--aside">
+    <div class="unit__main">
+      <p>
+        Tre luoghi, tra i molti possibili, in cui la questione viene
+        affrontata direttamente. Ciascuno la tratta da un'angolazione
+        diversa: la distinzione tra forma e ciò che la trascende,
+        l'insegnamento dell'unità originaria, la definizione per
+        origine e dissoluzione del mondo.
+      </p>
+    </div>
+    <aside class="unit__aside">
+      <p class="aside-block__label">fonti</p>
+      <ul class="sources aside-block__items">
+        <li>
+          <a class="source__title" href="#">Bṛhadāraṇyaka Upaniṣad, II.3</a>
+          <span class="source__why">la forma percettibile e ciò che la eccede</span>
+        </li>
+        <li>
+          <a class="source__title" href="#">Chāndogya Upaniṣad, VI.2</a>
+          <span class="source__why">l'insegnamento dell'unità originaria, sat</span>
+        </li>
+        <li>
+          <a class="source__title" href="#">Brahma Sūtra Bhāṣya, I.1.2</a>
+          <span class="source__why">la definizione per origine e dissoluzione del mondo</span>
+        </li>
+      </ul>
+    </aside>
+  </section>
+
+  <!-- PASSAGGIO, con concetti correlati nel margine -->
+  <section class="block unit unit--aside">
+    <div class="unit__main">
+      <blockquote class="passage">
+        <p class="passage__original">janmādyasya yataḥ</p>
+        <p class="passage__text">
+          [Brahman è] ciò da cui procedono l'origine, la sussistenza
+          e la dissoluzione di questo mondo<sup class="notes__num"><a href="#nota-1">1</a></sup>.
+        </p>
+        <span class="passage__source">Brahma Sūtra, I.1.2 — testo dimostrativo, non una traduzione definitiva</span>
+      </blockquote>
+      <ol class="notes">
+        <li id="nota-1"><span class="notes__num">1.</span> "Mondo" (<em>jagat</em>) qui non indica un luogo, ma l'insieme di ciò che appare come molteplice.</li>
+      </ol>
+    </div>
+    <aside class="unit__aside">
+      <p class="aside-block__label">concetti in questo passaggio</p>
+      <ul class="aside-block__items">
+        <li><a class="concept" href="#">Brahman</a></li>
+        <li><a class="concept" href="#">Kāraṇa — la causa</a></li>
+        <li><a class="concept" href="#">Jagat — il mondo</a></li>
+      </ul>
+    </aside>
+  </section>
+
+  <!-- COMMENTO, profondità opzionale -->
+  <section class="block measure">
+    <details class="expandable">
+      <summary>commento</summary>
+      <div class="expandable__body">
+        <p>
+          Il sūtra non procede per enumerazione di attributi, ma per
+          indicazione indiretta: si riconosce Brahman non descrivendo
+          che cosa esso sia, ma osservando che ogni cosa ha in esso la
+          propria origine, la propria sussistenza e il proprio
+          ritorno. È un metodo di definizione per relazione, non per
+          contenuto.
+        </p>
+        <blockquote class="citation">
+          Un commentatore tradizionale osserva che questa via evita
+          tanto l'errore di ridurre Brahman a un oggetto, quanto
+          quello di trattarlo come una semplice assenza.
+        </blockquote>
+        <p>
+          Guénon insiste su un punto affine: il principio non si
+          aggiunge alle cose che ne derivano, come farebbe una causa
+          tra le altre cause del mondo fenomenico.
+        </p>
+      </div>
+    </details>
+  </section>
+
+  <!-- DOMANDE CORRELATE -->
+  <section class="block measure">
+    <p class="eyebrow">altre domande</p>
+    <ul class="related__list" style="margin-top: var(--sp-3);">
+      <li><a class="related" href="#">Che cos'è Ātman?</a></li>
+      <li><a class="related" href="#">Il mondo è distinto da Brahman?</a></li>
+      <li><a class="related" href="#">Che cos'è la liberazione?</a></li>
+    </ul>
+  </section>
+
+</div>
+
+<script>
+// Movimento minimo: quando il commento si apre, l'altezza si rivela
+// gradualmente — mostra una relazione (testo → approfondimento),
+// non un effetto. La chiusura resta immediata, per discrezione.
+document.querySelectorAll('.expandable').forEach((el) => {
+  const body = el.querySelector('.expandable__body');
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (reduce) return;
+
+  body.style.maxHeight = el.open ? 'none' : '0px';
+
+  el.addEventListener('toggle', () => {
+    if (el.open) {
+      body.style.maxHeight = body.scrollHeight + 'px';
+      body.addEventListener('transitionend', function done(e){
+        if (e.propertyName === 'max-height') {
+          body.style.maxHeight = 'none';
+          body.removeEventListener('transitionend', done);
+        }
+      });
+    } else {
+      body.style.maxHeight = '0px';
+    }
+  });
+});
+</script>
+
+</body>
+</html>
