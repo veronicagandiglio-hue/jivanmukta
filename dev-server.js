@@ -220,8 +220,8 @@ server.listen(PORT, () => {
   console.log(`Cartella servita: ${ROOT}`);
   console.log('');
   console.log('Ora puoi usare gli URL "puliti" del sito, es.:');
-  console.log(`  http://localhost:${PORT}/testi/brhadaranyaka-upanishad`);
-  console.log(`  http://localhost:${PORT}/domande/che-cose-brahman`);
-  console.log(`  http://localhost:${PORT}/concetti/brahman`);
-  console.log(`  http://localhost:${PORT}/autori/shankara`);
+  console.log(`  http://localhost:${PORT}/testi/isha-upanishad`);
+  console.log(`  http://localhost:${PORT}/domande/q-natura-brahman-purna`);
+  console.log(`  http://localhost:${PORT}/concetti/purna`);
+  console.log(`  http://localhost:${PORT}/autori/adi-shankara`);
 });

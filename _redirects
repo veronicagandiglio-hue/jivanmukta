@@ -37,10 +37,11 @@
 # Le pagine originali restano sul server (nessun file è stato
 # cancellato): questi redirect indirizzano i vecchi indirizzi verso
 # l'equivalente canonico con il nuovo template dinamico.
-/che-cose-brahman.html              /domande/che-cose-brahman              301
-/che-cose-reale.html                /domande/che-cose-reale                301
-/domanda-brahman.html               /domande/che-cose-brahman              301
-/concetto-brahman.html              /concetti/brahman                      301
-/autore-shankara.html               /autori/shankara                       301
-/opera-brhadaranyaka.html           /testi/brhadaranyaka-upanishad         301
-/confronto-advaita-buddhismo.html   /confronti/confronto-advaita-buddhismo 301
+/che-cose-brahman.html              /domande/q-natura-brahman-purna        301
+/che-cose-reale.html                /domande/q-natura-brahman-purna        301
+/domanda-brahman.html               /domande/q-natura-brahman-purna        301
+/concetto-brahman.html              /concetti/purna                        301
+/autore-shankara.html               /autori/adi-shankara                   301
+/opera-brhadaranyaka.html           /testi/isha-upanishad                  301
+/opera-brhadaranyaka-cap1.html      /testi/isha-upanishad/1-18             301
+/confronto-advaita-buddhismo.html   /                                  301

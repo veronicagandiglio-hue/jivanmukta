@@ -229,7 +229,7 @@ body{
 
   <header class="masthead">
     <span class="masthead__mark">Advaita Vedānta — uno studio delle fonti</span>
-    <a class="masthead__index" href="domanda.html?rif=che-cose-reale">indice delle domande</a>
+    <a class="masthead__index" href="/domande/q-natura-brahman-purna">indice delle domande</a>
   </header>
 
   <!-- PRIMO SCHERMO -->
@@ -248,10 +248,9 @@ body{
   <section class="secondary measure">
     <p class="secondary__label">altri percorsi</p>
     <ul class="secondary__list">
-      <li><a href="opera.html?rif=brhadaranyaka-upanishad">Leggere i testi</a></li>
-      <li><a href="autore.html?rif=shankara">Esplorare gli autori</a></li>
-      <li><a href="concetto.html?rif=brahman">Seguire un concetto</a></li>
-      <li><a href="confronto.html?rif=confronto-advaita-buddhismo">Confrontare le dottrine</a></li>
+      <li><a href="/testi/isha-upanishad">Leggere i testi</a></li>
+      <li><a href="/autori/vedic-rishis">Esplorare gli autori</a></li>
+      <li><a href="/concetti/atman">Seguire un concetto</a></li>
     </ul>
   </section>
 
@@ -285,14 +284,14 @@ body{
   }
 
   async function loadHomeQuestions() {
-    // Recupera la domanda fondamentale principale (great question)
-    const greatIds = ['che-cose-reale'];
+    // L'homepage si popola dall'indice: l'importazione di nuovi testi
+    // non richiede di aggiornare qui alcun ID editoriale.
+    const questionsResult = await ContentEngine.getEntities('question');
+    if (questionsResult.status !== 'ok') return;
+    const greatQuestions = questionsResult.data.filter((question) => question.type === 'great');
     container.replaceChildren();
 
-    for (const qid of greatIds) {
-      const qRes = await ContentEngine.getQuestion(qid);
-      if (qRes.status !== 'ok') continue;
-      const question = qRes.data;
+    for (const question of greatQuestions) {
 
       const entry = createEl('div', { class: 'entry' });
       const trigger = createEl('button', { class: 'entry__trigger', text: question.text });
@@ -304,8 +303,9 @@ body{
 
       const list = createEl('ul', { class: 'entry__list' });
 
-      // Sottodomande specifiche
-      for (const sqId of (question.specific_questions || [])) {
+      // Domande collegate, espresse nel pacchetto editoriale come ID.
+      for (const ref of (question.related_questions || [])) {
+        const sqId = typeof ref === 'string' ? ref : ref.id;
         const sqRes = await ContentEngine.getQuestion(sqId);
         if (sqRes.status === 'ok') {
           const li = document.createElement('li');

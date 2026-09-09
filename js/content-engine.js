@@ -157,6 +157,16 @@
     return ok(index[id]);
   }
 
+  /** Restituisce tutte le entità di un tipo nell'ordine dell'indice. */
+  async function getEntities(kind) {
+    const fileName = ENTITY_INDEX_FILES[kind];
+    const index = await loadIndexFile(fileName);
+    if (index === null) {
+      return unavailable(`Indice "${kind}" non caricabile (${fileName}).`);
+    }
+    return ok(Object.values(index));
+  }
+
   function getQuestion(id) {
     return getEntity('question', id);
   }
@@ -319,6 +329,7 @@
     getNote,
     getPassage,
     getUnit,
+    getEntities,
 
     // Relazioni
     getPassageQuestions,
