@@ -206,8 +206,8 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
 <div class="page" id="page">
 
   <header class="masthead">
-    <a class="masthead__mark" href="index.html">Advaita Vedānta — uno studio delle fonti</a>
-    <a class="masthead__index" href="index.html">tutti i testi</a>
+    <a class="masthead__mark" href="/">Advaita Vedānta — uno studio delle fonti</a>
+    <a class="masthead__index" href="/">tutti i testi</a>
   </header>
 
   <!-- TITOLO -->
@@ -235,8 +235,8 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
   <span>testo tradotto</span>
 </footer>
 
-<script src="js/url-router.js"></script>
-<script src="js/content-engine.js"></script>
+<script src="/js/url-router.js"></script>
+<script src="/js/content-engine.js"></script>
 <script>
 (function () {
   'use strict';
@@ -262,6 +262,32 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
     if (opts.text !== undefined) el.textContent = opts.text;
     if (opts.href !== undefined) el.href = opts.href;
     return el;
+  }
+
+  /**
+   * Fallback per gli host che servono opera.html anche per un URL di
+   * unità. Risolve il locus nel path all'unità editoriale corrispondente.
+   */
+  async function resolveUnitFromPath(work, extraSegments) {
+    if (!extraSegments || !extraSegments.length) return null;
+    const wantedPath = extraSegments.join('/').toLowerCase();
+    const wantedChapter = extraSegments[0].toUpperCase();
+
+    for (const unitId of (work.editorial_units || [])) {
+      const result = await ContentEngine.getUnit(unitId);
+      if (result.status !== 'ok') continue;
+      const segments = localeToPathSegments(result.data.unit_locus);
+      if (segments.join('/').toLowerCase() === wantedPath ||
+          (segments.length > 1 && segments[0].toUpperCase() === wantedChapter)) {
+        return result.data;
+      }
+    }
+    return null;
+  }
+
+  function openUnit(workId, unitId) {
+    const params = new URLSearchParams({ rif: workId, unit: unitId });
+    window.location.replace('/unita.html?' + params.toString() + window.location.hash);
   }
 
   function renderError(kind, info) {
@@ -376,6 +402,13 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
 
     const result = await ContentEngine.getWork(resolved.id);
     if (result.status !== 'ok') { renderError(result.status, result); return; }
+
+    // Cloudflare Workers con asset statici può far ricadere un URL
+    // /testi/<opera>/<locus> nel rewrite generico verso opera.html.
+    // In quel caso si raggiunge comunque la lettura continua usando
+    // l'unità risolta dall'indice, senza dipendere dal rewrite host.
+    const unit = await resolveUnitFromPath(result.data, resolved.extra || []);
+    if (unit) { openUnit(result.data.id, unit.id); return; }
 
     try {
       await renderWork(result.data);
