@@ -1,10 +1,46 @@
 {
-  "brahman": [
-    "che-cose-brahman",
-    "che-cose-reale",
-    "confronto-advaita-buddhismo"
+  "isha": [
+    "q-azione-senza-vincolo"
+  ],
+  "tyaga": [
+    "q-azione-senza-vincolo",
+    "q-frutto-realizzazione-unita"
+  ],
+  "karman": [
+    "q-azione-senza-vincolo",
+    "q-dialettica-vidya-avidya"
+  ],
+  "sambhuti-asambhuti": [
+    "q-dialettica-sambhuti-asambhuti"
+  ],
+  "purna": [
+    "q-dialettica-sambhuti-asambhuti",
+    "q-natura-atman-paradossi",
+    "q-natura-brahman-purna"
+  ],
+  "vidya": [
+    "q-dialettica-vidya-avidya"
+  ],
+  "avidya": [
+    "q-dialettica-vidya-avidya",
+    "q-uccisori-del-se"
+  ],
+  "ekatva": [
+    "q-frutto-realizzazione-unita"
   ],
   "atman": [
-    "confronto-advaita-buddhismo"
+    "q-frutto-realizzazione-unita",
+    "q-identita-soham",
+    "q-natura-atman-paradossi",
+    "q-natura-brahman-purna"
+  ],
+  "satya": [
+    "q-identita-soham"
+  ],
+  "soham": [
+    "q-identita-soham"
+  ],
+  "atma-han": [
+    "q-uccisori-del-se"
   ]
 }

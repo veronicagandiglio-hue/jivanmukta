@@ -1,55 +1,38 @@
 {
-  "shankara": {
-    "id": "shankara",
-    "name": "Śaṅkara",
-    "transliteration": "शङ्कर",
-    "role": "bhāṣyakāra",
-    "role_description": "autore tradizionale — commentatore (bhāṣyakāra)",
-    "context": "Riconosciuto dalla tradizione come il sistematizzatore dell'Advaita Vedānta attraverso i suoi commentari (bhāṣya) alle Upaniṣad principali, al Brahma Sūtra e alla Bhagavad Gītā. È collocato nella linea che risale a Gauḍapāda, attraverso il maestro Govindapāda. La cronologia resta oggetto di discussione filologica; qui conta meno della posizione che il suo commento occupa nella struttura dei testi.",
-    "works": [
-      "brhadaranyaka-upanishad"
-    ],
+  "adi-shankara": {
+    "id": "adi-shankara",
+    "name": "Ādi Śaṅkarācārya",
+    "transliteration": "Ādi Śaṅkarācārya",
+    "role": "commentator",
+    "role_description": "Maestro fondatore e codificatore dell'Advaita Vedānta ortodosso",
+    "context": "VIII secolo d.C., autore del celebre Īśāvāsyopaniṣad-bhāṣya",
     "concepts": [
-      "brahman",
-      "atman"
+      "atman",
+      "purna",
+      "tyaga",
+      "avidya",
+      "vidya"
     ],
-    "pending_works": [
-      {
-        "title": "Brahma Sūtra Bhāṣya",
-        "note": "commento; non ancora presente nel sito"
-      },
-      {
-        "title": "Bhagavad Gītā Bhāṣya",
-        "note": "commento; non ancora presente nel sito"
-      },
-      {
-        "title": "Upadeśasāhasrī",
-        "note": "opera autonoma; non ancora presente nel sito"
-      }
+    "related_authors": [
+      "vedic-rishis"
     ],
-    "pending_concepts": [
-      {
-        "name": "Māyā"
-      },
-      {
-        "name": "Avidyā"
-      }
+    "source_file": "authors/adi-shankara.json"
+  },
+  "vedic-rishis": {
+    "id": "vedic-rishis",
+    "name": "Vedic Rishis",
+    "transliteration": "Vedic Rishis",
+    "role": "author",
+    "role_description": "Veggenti vedici ispirati primordiali a cui fu rivelata la Śruti",
+    "context": "Periodo vedico primordiale, Śukla Yajurveda",
+    "concepts": [
+      "purna",
+      "isha",
+      "atman",
+      "ekatva",
+      "soham"
     ],
     "related_authors": [],
-    "pending_related_authors": [
-      {
-        "name": "Gauḍapāda",
-        "why": "Suo paramaguru nella linea di trasmissione: la Māṇḍūkya Kārikā anticipa argomenti che Śaṅkara sistematizza nei bhāṣya."
-      },
-      {
-        "name": "Sureśvara",
-        "why": "Discepolo diretto; autore delle vārttika ai principali commentari di Śaṅkara, che ne prolungano e discutono l'argomentazione."
-      },
-      {
-        "name": "René Guénon",
-        "why": "Assume il commentario di Śaṅkara come riferimento dottrinale principale nella propria esposizione occidentale della metafisica advaita, pur non appartenendo alla linea dei commentatori."
-      }
-    ],
-    "source_file": "authors/shankara.json"
+    "source_file": "authors/vedic-rishis.json"
   }
 }

@@ -1,6 +1,28 @@
 {
-  "shankara": [
+  "vedic-rishis": [
+    "atma-han",
     "atman",
-    "brahman"
+    "avidya",
+    "ekatva",
+    "isha",
+    "karman",
+    "purna",
+    "sambhuti-asambhuti",
+    "satya",
+    "soham",
+    "tyaga",
+    "vidya"
+  ],
+  "adi-shankara": [
+    "atma-han",
+    "atman",
+    "avidya",
+    "ekatva",
+    "isha",
+    "karman",
+    "purna",
+    "sambhuti-asambhuti",
+    "tyaga",
+    "vidya"
   ]
 }

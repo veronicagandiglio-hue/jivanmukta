@@ -1,12 +1,87 @@
 {
-  "nota-purushavidhah": {
-    "id": "nota-purushavidhah",
-    "term": "puruṣavidhaḥ",
+  "note-atmahan": {
+    "id": "note-atmahan",
+    "term": "ātma-han",
     "passages": [
-      "brhad-1-4-1"
+      "isha-1-3"
     ],
-    "text": "\"Sotto forma di persona\" (puruṣavidhaḥ) non attribuisce ad Ātman una forma corporea: indica piuttosto che, in questo stadio del racconto, Ātman non è ancora distinto dal soggetto che dice \"Io\" — non vi è ancora nulla di oggettivo a cui contrapporlo.",
-    "editorial_status": "Nota editoriale già presente negli artefatti del progetto.",
-    "source_file": "notes/nota-purushavidhah.json"
+    "text": "Letteralmente «uccisore del Sé». Poiché l'Ātman è incorruttibile e non può subire morte, l'espressione designa l'individuo che, respingendo o ignorando la natura divina del proprio essere essenziale per attaccarsi al corpo mortale, subisce l'effetto degradante di tale disconoscimento nei mondi di tenebra.",
+    "editorial_status": "established",
+    "source_file": "notes/note-atmahan.json"
+  },
+  "note-isa-vasyam": {
+    "id": "note-isa-vasyam",
+    "term": "īśā vāsyam",
+    "passages": [
+      "isha-1-1"
+    ],
+    "text": "Dal verbo vas (avvolgere, coprire). Nell'Advaita non indica la semplice immanenza di Dio nelle cose creabili, ma l'occultamento e la sovrimposizione del Principio sulla molteplicità fenomenica, in modo che l'universo venga riconosciuto come privo di realtà autonoma se separato da Īśvara.",
+    "editorial_status": "established",
+    "source_file": "notes/note-isa-vasyam.json"
+  },
+  "note-kratu": {
+    "id": "note-kratu",
+    "term": "kratu",
+    "passages": [
+      "isha-1-17"
+    ],
+    "text": "L'intelletto volitivo o determinazione cosciente legata alla facoltà di deliberazione interiore e di sacrificio nell'essere umano, determinante per la condizione post-mortem.",
+    "editorial_status": "established",
+    "source_file": "notes/note-kratu.json"
+  },
+  "note-matarisvan": {
+    "id": "note-matarisvan",
+    "term": "mātariśvan",
+    "passages": [
+      "isha-1-4"
+    ],
+    "text": "Il principio dell'Aria cosmica o Soffio universale (Prāṇa / Sūtrātman) che, poggiando sulla stabilità incorporea del Brahman immobile, organizza le attività vitali e gli atti causali di tutti gli esseri.",
+    "editorial_status": "established",
+    "source_file": "notes/note-matarisvan.json"
+  },
+  "note-purna": {
+    "id": "note-purna",
+    "term": "pūrṇa",
+    "passages": [
+      "isha-1-shanti",
+      "isha-1-18"
+    ],
+    "text": "La Pienezza metafisica increata. Non designa un aggregato cosmico di parti finite, ma l'Infinito indivisibile che non subisce variazione quantitativa o qualitativa né all'atto della manifestazione esteriore né alla sua reintegrazione nella Causa.",
+    "editorial_status": "established",
+    "source_file": "notes/note-purna.json"
+  },
+  "note-sambhuti-vinasa": {
+    "id": "note-sambhuti-vinasa",
+    "term": "sambhūti / vināśa",
+    "passages": [
+      "isha-1-12",
+      "isha-1-13",
+      "isha-1-14"
+    ],
+    "text": "Sambhūti indica l'effetto generato cosmo-formale (Hiraṇyagarbha); Asambhūti la matrice causale indifferenziata (avyākṛta-prakṛti). Vināśa qualifica l'effetto transitorio e perituro che deve essere superato.",
+    "editorial_status": "established",
+    "source_file": "notes/note-sambhuti-vinasa.json"
+  },
+  "note-soham": {
+    "id": "note-soham",
+    "term": "so'ham asmi",
+    "passages": [
+      "isha-1-16"
+    ],
+    "text": "«Egli io sono»: affermazione solenne della non-dualità tra il Puruṣa trascendente solare e il Principio cosciente immanente, vertice dottrinale dell'opera equivalente al mahāvākya tat tvam asi.",
+    "editorial_status": "established",
+    "source_file": "notes/note-soham.json"
+  },
+  "note-vidya-avidya": {
+    "id": "note-vidya-avidya",
+    "term": "vidyā / avidyā",
+    "passages": [
+      "isha-1-9",
+      "isha-1-10",
+      "isha-1-11"
+    ],
+    "text": "Nel contesto specifico dei versi 9-11, non indicano Conoscenza liberatrice e Illusione primordiale cosmica, bensì meditazione sulle forme divine (upāsanā) e azione rituale sacrificale (karman).",
+    "editorial_status": "established",
+    "source_file": "notes/note-vidya-avidya.json"
   }
 }

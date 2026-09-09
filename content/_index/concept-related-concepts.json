@@ -1,8 +1,68 @@
 {
-  "atman": [
-    "brahman"
+  "atma-han": [
+    "atman",
+    "avidya",
+    "karman"
   ],
-  "brahman": [
-    "atman"
+  "atman": [
+    "atma-han",
+    "purna",
+    "isha",
+    "ekatva",
+    "soham",
+    "satya"
+  ],
+  "avidya": [
+    "atma-han",
+    "vidya",
+    "karman",
+    "sambhuti-asambhuti"
+  ],
+  "karman": [
+    "atma-han",
+    "avidya",
+    "tyaga"
+  ],
+  "purna": [
+    "atman",
+    "ekatva",
+    "isha",
+    "sambhuti-asambhuti",
+    "soham"
+  ],
+  "isha": [
+    "atman",
+    "tyaga",
+    "purna"
+  ],
+  "ekatva": [
+    "atman",
+    "purna",
+    "tyaga",
+    "soham"
+  ],
+  "soham": [
+    "atman",
+    "satya",
+    "ekatva",
+    "purna"
+  ],
+  "vidya": [
+    "avidya",
+    "sambhuti-asambhuti"
+  ],
+  "tyaga": [
+    "ekatva",
+    "isha",
+    "karman"
+  ],
+  "sambhuti-asambhuti": [
+    "vidya",
+    "avidya",
+    "purna"
+  ],
+  "satya": [
+    "atman",
+    "soham"
   ]
 }
