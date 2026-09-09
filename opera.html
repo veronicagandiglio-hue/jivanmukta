@@ -244,15 +244,15 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
   function byId(id) { return document.getElementById(id); }
 
   /**
-   * Converte un unit_locus editoriale (es. "I.4") nei segmenti
-   * [capitolo, sezione] dell'URL pubblico (es. ["i", "4"]).
-   * Ritorna [] se il formato non è quello atteso "<romano>.<numero>".
+   * Converte un unit_locus editoriale nei segmenti dell'URL pubblico.
+   * Mantiene il formato storico I.4 -> /i/4 e accetta anche locus
+   * importati, per esempio 1-18 -> /1-18.
    */
   function localeToPathSegments(locus) {
     if (!locus) return [];
-    const match = /^([IVXLCDM]+)\.(\d+)$/i.exec(locus.trim());
-    if (!match) return [];
-    return [match[1].toLowerCase(), match[2]];
+    const normalized = locus.trim();
+    const match = /^([IVXLCDM]+)\.(\d+)$/i.exec(normalized);
+    return match ? [match[1].toLowerCase(), match[2]] : [normalized.toLowerCase()];
   }
 
   function createEl(tag, opts) {

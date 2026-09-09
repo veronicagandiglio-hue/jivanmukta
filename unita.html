@@ -500,15 +500,14 @@ a.related{ text-decoration-color: var(--color-rule); }
   }
 
   /**
-   * Converte un unit_locus editoriale (es. "I.4") nei segmenti
-   * [capitolo, sezione] dell'URL pubblico (es. ["i", "4"]) — stessa
-   * convenzione già usata in opera.html, riusata qui senza modifiche.
+   * Converte un unit_locus editoriale in segmenti di URL. Oltre a I.4,
+   * supporta locus importati come 1-18.
    */
   function localeToPathSegments(locus) {
     if (!locus) return [];
-    const match = /^([IVXLCDM]+)\.(\d+)$/i.exec(locus.trim());
-    if (!match) return [];
-    return [match[1].toLowerCase(), match[2]];
+    const normalized = locus.trim();
+    const match = /^([IVXLCDM]+)\.(\d+)$/i.exec(normalized);
+    return match ? [match[1].toLowerCase(), match[2]] : [normalized.toLowerCase()];
   }
 
   function unitUrl(workId, unitLocus, passageId) {
@@ -571,12 +570,14 @@ a.related{ text-decoration-color: var(--color-rule); }
       return first.status === 'ok' ? first.data : null;
     }
 
+    const wantedPath = extraSegments.join('/').toLowerCase();
     const wantedChapter = extraSegments[0].toUpperCase();
     for (const unitId of unitIds) {
       const result = await ContentEngine.getUnit(unitId);
       if (result.status !== 'ok') continue;
       const segs = localeToPathSegments(result.data.unit_locus);
-      if (segs.length && segs[0].toUpperCase() === wantedChapter) {
+      if (segs.join('/').toLowerCase() === wantedPath ||
+          (segs.length > 1 && segs[0].toUpperCase() === wantedChapter)) {
         return result.data;
       }
     }

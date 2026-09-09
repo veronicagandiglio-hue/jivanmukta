@@ -632,15 +632,14 @@ body{
   }
 
   /**
-   * Converte un unit_locus editoriale (es. "I.4") nei segmenti
-   * [capitolo, sezione] dell'URL pubblico — stessa convenzione usata
-   * in opera.html e unita.html.
+   * Converte un unit_locus editoriale in segmenti di URL, inclusi i
+   * locus importati come "1-18" oltre al formato storico "I.4".
    */
   function localeToPathSegments(locus) {
     if (!locus) return [];
-    const match = /^([IVXLCDM]+)\.(\d+)$/i.exec(locus.trim());
-    if (!match) return [];
-    return [match[1].toLowerCase(), match[2]];
+    const normalized = locus.trim();
+    const match = /^([IVXLCDM]+)\.(\d+)$/i.exec(normalized);
+    return match ? [match[1].toLowerCase(), match[2]] : [normalized.toLowerCase()];
   }
 
   function questionUrl(id) {
