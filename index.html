@@ -229,7 +229,7 @@ body{
 
   <header class="masthead">
     <span class="masthead__mark">Advaita Vedānta — uno studio delle fonti</span>
-    <a class="masthead__index" href="/domande/q-natura-brahman-purna">indice delle domande</a>
+    <a class="masthead__index" href="#entries-container">indice delle domande</a>
   </header>
 
   <!-- PRIMO SCHERMO -->
@@ -248,9 +248,9 @@ body{
   <section class="secondary measure">
     <p class="secondary__label">altri percorsi</p>
     <ul class="secondary__list">
-      <li><a href="/testi/isha-upanishad">Leggere i testi</a></li>
-      <li><a href="/autori/vedic-rishis">Esplorare gli autori</a></li>
-      <li><a href="/concetti/atman">Seguire un concetto</a></li>
+      <li data-home-link="work"><a href="#">Leggere i testi</a></li>
+      <li data-home-link="author"><a href="#">Esplorare gli autori</a></li>
+      <li data-home-link="concept"><a href="#">Seguire un concetto</a></li>
     </ul>
   </section>
 
@@ -281,6 +281,24 @@ body{
 
   function questionUrl(id) {
     return UrlRouter.buildContentUrl('domande', id);
+  }
+
+  const HOME_LINKS = {
+    work: 'testi',
+    author: 'autori',
+    concept: 'concetti'
+  };
+
+  async function loadHomeLinks() {
+    await Promise.all(Object.entries(HOME_LINKS).map(async ([kind, prefix]) => {
+      const item = document.querySelector('[data-home-link="' + kind + '"]');
+      const result = await ContentEngine.getEntities(kind);
+      if (!item || result.status !== 'ok' || !result.data.length) {
+        if (item) item.hidden = true;
+        return;
+      }
+      item.querySelector('a').href = UrlRouter.buildContentUrl(prefix, result.data[0].id);
+    }));
   }
 
   async function loadHomeQuestions() {
@@ -334,7 +352,8 @@ body{
     }
   }
 
-  loadHomeQuestions().catch((err) => console.error('Errore nel caricamento della homepage:', err));
+  Promise.all([loadHomeQuestions(), loadHomeLinks()])
+    .catch((err) => console.error('Errore nel caricamento della homepage:', err));
 }());
 </script>
 
