@@ -107,6 +107,197 @@
     "related_questions": [],
     "source_file": "questions/q-identita-soham.json"
   },
+  "q-kena-allegoria-yaksha": {
+    "id": "q-kena-allegoria-yaksha",
+    "type": "great",
+    "text": "Qual è il significato dottrinale dell'apparizione dello Yakṣa e dell'impotenza di Agni e Vāyu?",
+    "problem": "Illustrare come le potenze del cosmo oggettivo e le facoltà umane derivino ogni loro efficacia unicamente dall'Assoluto sottostante.",
+    "parent_question": null,
+    "concepts": [
+      "deva-abhimana",
+      "brahman",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "kena-3-1",
+      "kena-3-2",
+      "kena-3-6",
+      "kena-3-10",
+      "kena-3-11",
+      "kena-4-1"
+    ],
+    "commentaries": [
+      "comm-kena-allegoria-deva"
+    ],
+    "related_questions": [
+      "q-kena-funzione-uma"
+    ],
+    "source_file": "questions/q-kena-allegoria-yaksha.json"
+  },
+  "q-kena-analogie-adhidaivata-adhyatma": {
+    "id": "q-kena-analogie-adhidaivata-adhyatma",
+    "type": "comparison",
+    "text": "In che modo l'illuminazione di Brahman viene descritta sotto l'aspetto cosmico (adhidaivatam) e microcosmico (adhyātmam)?",
+    "problem": "Spiegare la corrispondenza analogica tra la folgore esteriore istantanea e il moto fulmineo del ricordo meditativo nell'ordine interiore.",
+    "parent_question": null,
+    "concepts": [
+      "brahman",
+      "sakshin"
+    ],
+    "passages": [
+      "kena-4-4",
+      "kena-4-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-kena-analogie-adhidaivata-adhyatma.json"
+  },
+  "q-kena-funzione-uma": {
+    "id": "q-kena-funzione-uma",
+    "type": "specific",
+    "text": "Quale funzione metafisica svolge Umā Haimavatī nell'istruzione impartita a Indra?",
+    "problem": "Chiarire il ruolo necessario di mediazione della Brahma-vidyā affinché l'intelletto sovrano possa identificare l'Assoluto dopo la ritirata dei fenomeni.",
+    "parent_question": "q-kena-allegoria-yaksha",
+    "concepts": [
+      "brahma-vidya",
+      "brahman"
+    ],
+    "passages": [
+      "kena-3-12",
+      "kena-4-1",
+      "kena-4-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-kena-funzione-uma.json"
+  },
+  "q-kena-non-oggettivabilita-brahman": {
+    "id": "q-kena-non-oggettivabilita-brahman",
+    "type": "great",
+    "text": "Perché il Brahman non può essere conosciuto come un oggetto di pensiero, parola o percezione sensoriale?",
+    "problem": "Fondare l'impossibilità epistemica di convertire in oggetto conosciuto il Principio soggettivo assoluto che rende possibile la conoscenza medesima.",
+    "parent_question": null,
+    "concepts": [
+      "brahman",
+      "vidita-avidita",
+      "upadhi-upasana"
+    ],
+    "passages": [
+      "kena-1-3",
+      "kena-1-4",
+      "kena-1-5",
+      "kena-1-6",
+      "kena-1-7",
+      "kena-1-8",
+      "kena-1-9"
+    ],
+    "commentaries": [
+      "comm-kena-soggetto-trascendente"
+    ],
+    "related_questions": [
+      "q-kena-paradosso-gnoseologico"
+    ],
+    "source_file": "questions/q-kena-non-oggettivabilita-brahman.json"
+  },
+  "q-kena-paradosso-gnoseologico": {
+    "id": "q-kena-paradosso-gnoseologico",
+    "type": "great",
+    "text": "Perché colui che afferma di «conoscere bene» il Brahman in realtà non Lo conosce affatto?",
+    "problem": "Risolvere il paradosso gnoseologico dell'Advaita per cui la pretesa di comprensione concettuale degrada l'Infinito a frammento oggettivo finito.",
+    "parent_question": null,
+    "concepts": [
+      "brahman",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "kena-2-1",
+      "kena-2-2",
+      "kena-2-3"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-kena-pratibodha-viditam",
+      "q-kena-urgenza-realizzazione"
+    ],
+    "source_file": "questions/q-kena-paradosso-gnoseologico.json"
+  },
+  "q-kena-pratibodha-viditam": {
+    "id": "q-kena-pratibodha-viditam",
+    "type": "specific",
+    "text": "Che cosa significa che il Brahman è conosciuto come Testimone immanente in ogni moto di coscienza (pratibodha-viditam)?",
+    "problem": "Dimostrare che la Conoscenza reale non è un pensiero temporaneo ma l'intuizione della Coscienza costante che illumina ogni singola percezione.",
+    "parent_question": "q-kena-paradosso-gnoseologico",
+    "concepts": [
+      "sakshin",
+      "brahman"
+    ],
+    "passages": [
+      "kena-2-4"
+    ],
+    "commentaries": [
+      "comm-kena-pratibodha"
+    ],
+    "related_questions": [],
+    "source_file": "questions/q-kena-pratibodha-viditam.json"
+  },
+  "q-kena-principio-animatore": {
+    "id": "q-kena-principio-animatore",
+    "type": "great",
+    "text": "Qual è il Principio trascendente che muove e illumina la mente, il soffio vitale e le facoltà sensoriali?",
+    "problem": "Spiegare la scaturigine non-empirica delle funzioni cognitive e biologiche che operano nell'individuo non per dinamismo autonomo ma per impulso dell'Ātman.",
+    "parent_question": null,
+    "concepts": [
+      "brahman",
+      "sakshin"
+    ],
+    "passages": [
+      "kena-1-1",
+      "kena-1-2"
+    ],
+    "commentaries": [
+      "comm-kena-soggetto-trascendente"
+    ],
+    "related_questions": [
+      "q-kena-non-oggettivabilita-brahman"
+    ],
+    "source_file": "questions/q-kena-principio-animatore.json"
+  },
+  "q-kena-supporti-pratistha": {
+    "id": "q-kena-supporti-pratistha",
+    "type": "specific",
+    "text": "Quali sono i supporti preparatori (pratiṣṭhā) e la dimora eterna della dottrina dell'Upaniṣad?",
+    "problem": "Definire l'articolazione gerarchica tra ascesi (tapas), padronanza dei sensi (dama), dovere rituale (karman) e la conquista della Verità inalterabile (satya).",
+    "parent_question": null,
+    "concepts": [
+      "pratistha",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "kena-4-7",
+      "kena-4-8",
+      "kena-4-9"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-kena-supporti-pratistha.json"
+  },
+  "q-kena-urgenza-realizzazione": {
+    "id": "q-kena-urgenza-realizzazione",
+    "type": "specific",
+    "text": "Qual è il valore decisivo della realizzazione della Verità nell'esistenza terrena attuale?",
+    "problem": "Comprendere la gravità della perdita spirituale (mahatī vinaṣṭiḥ) nel caso di mancata realizzazione metafisica nel corso della vita presente.",
+    "parent_question": "q-kena-paradosso-gnoseologico",
+    "concepts": [
+      "brahman",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "kena-2-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-kena-urgenza-realizzazione.json"
+  },
   "q-natura-atman-paradossi": {
     "id": "q-natura-atman-paradossi",
     "type": "great",

@@ -16,12 +16,14 @@ un file JSON prodotto da Gemini e il modello dati già in uso.
 import/gemini/
   FORMATO-PACCHETTO.md     ← specifica del formato (da dare a Gemini)
   README.md                ← questo file (uso operativo)
-  incoming/                ← dove depositare il pacchetto approvato
-  processed/                ← archivio dei pacchetti importati con successo
-  rejected/                  ← archivio dei pacchetti che hanno generato conflitti
+  _scratch/                ← dove incollare le risposte grezze di Gemini (.txt)
+  incoming/                ← dove depositare il pacchetto JSON estratto e approvato
+  processed/               ← archivio dei pacchetti importati con successo
+  rejected/                ← archivio dei pacchetti che hanno generato conflitti
   _tooling/
-    validate-package.js     ← validazione formale, non scrive nulla
-    import-gemini.js         ← importazione vera, scrive in /content
+    estrai-json-gemini.js  ← estrae il blocco JSON dalla risposta grezza di Gemini
+    validate-package.js    ← validazione formale, non scrive nulla
+    import-gemini.js       ← importazione vera, scrive in /content
 ```
 
 `incoming/`, `processed/`, `rejected/` sono separate da `/content`:
@@ -35,20 +37,29 @@ nessun file qui dentro viene letto dal sito o dal build.
    descritta lì.
 
 2. **Gemini produce** un pacchetto per una singola opera, come unico
-   file JSON.
-
-3. **Tu (revisione umana)** leggi e correggi il pacchetto quanto
-   necessario, poi lo salvi in:
+   file JSON. La risposta completa di Gemini (report + blocco JSON)
+   va incollata in un file `.txt` dentro `_scratch/`, ad esempio:
    ```
-   import/gemini/incoming/<slug-opera>.json
+   _scratch/<slug-opera>.txt
    ```
 
-4. **Valida** (nessuna scrittura, solo controllo):
+3. **Estrai il JSON** dalla risposta grezza:
+   ```bash
+   node import/gemini/_tooling/estrai-json-gemini.js import/gemini/_scratch/<slug-opera>.txt import/gemini/incoming/<slug-opera>.json
+   ```
+   Lo script isola il blocco JSON (Parte B) e lo salva in `incoming/`.
+   Se la risposta è già un JSON puro (senza report in prosa), puoi
+   copiarlo direttamente in `incoming/` saltando questo passo.
+
+4. **Tu (revisione umana)** leggi e correggi il file JSON in
+   `import/gemini/incoming/<slug-opera>.json` quanto necessario.
+
+5. **Valida** (nessuna scrittura, solo controllo):
    ```bash
    node import/gemini/_tooling/validate-package.js import/gemini/incoming/<slug-opera>.json
    ```
 
-5. **Importa** (dry-run consigliato prima):
+6. **Importa** (dry-run consigliato prima):
    ```bash
    node import/gemini/_tooling/import-gemini.js import/gemini/incoming/<slug-opera>.json --dry-run
    node import/gemini/_tooling/import-gemini.js import/gemini/incoming/<slug-opera>.json
@@ -59,7 +70,7 @@ nessun file qui dentro viene letto dal sito o dal build.
    conflitto e il pacchetto viene copiato in `import/gemini/rejected/`
    per archivio (l'originale in `incoming/` resta per la correzione).
 
-6. **Ricostruisci gli indici** con lo strumento già esistente del
+7. **Ricostruisci gli indici** con lo strumento già esistente del
    progetto (non modificato):
    ```bash
    node build-index.js
@@ -68,7 +79,7 @@ nessun file qui dentro viene letto dal sito o dal build.
    su tutto `/content` (non solo sul pacchetto appena importato) e
    rigenera tutti i file in `/content/_index/`.
 
-7. **Verifica visivamente** che il sito mostri il nuovo contenuto
+8. **Verifica visivamente** che il sito mostri il nuovo contenuto
    (le pagine leggono `/content` tramite `content-engine.js`, che non
    è stato toccato).
 

@@ -1,15 +1,45 @@
 {
+  "kena-4-4": [
+    "note-adhidaivata-adhyatma"
+  ],
+  "kena-4-5": [
+    "note-adhidaivata-adhyatma"
+  ],
   "isha-1-3": [
     "note-atmahan"
   ],
   "isha-1-1": [
     "note-isa-vasyam"
   ],
+  "kena-1-1": [
+    "note-kenesitam"
+  ],
   "isha-1-17": [
     "note-kratu"
   ],
   "isha-1-4": [
     "note-matarisvan"
+  ],
+  "kena-1-5": [
+    "note-nedam-upasate"
+  ],
+  "kena-1-6": [
+    "note-nedam-upasate"
+  ],
+  "kena-1-7": [
+    "note-nedam-upasate"
+  ],
+  "kena-1-8": [
+    "note-nedam-upasate"
+  ],
+  "kena-1-9": [
+    "note-nedam-upasate"
+  ],
+  "kena-2-4": [
+    "note-pratibodha"
+  ],
+  "kena-4-8": [
+    "note-pratistha"
   ],
   "isha-1-shanti": [
     "note-purna"
@@ -29,6 +59,22 @@
   "isha-1-16": [
     "note-soham"
   ],
+  "kena-1-2": [
+    "note-srotrasya-srotram"
+  ],
+  "kena-4-6": [
+    "note-tadvana"
+  ],
+  "kena-3-12": [
+    "note-uma-haimavati",
+    "note-yaksa"
+  ],
+  "kena-4-1": [
+    "note-uma-haimavati"
+  ],
+  "kena-1-4": [
+    "note-vidita-avidita"
+  ],
   "isha-1-9": [
     "note-vidya-avidya"
   ],
@@ -37,5 +83,14 @@
   ],
   "isha-1-11": [
     "note-vidya-avidya"
+  ],
+  "kena-3-2": [
+    "note-yaksa"
+  ],
+  "kena-3-6": [
+    "note-yaksa"
+  ],
+  "kena-3-10": [
+    "note-yaksa"
   ]
 }

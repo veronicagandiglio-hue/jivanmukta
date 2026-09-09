@@ -40,6 +40,40 @@
   "soham": [
     "q-identita-soham"
   ],
+  "deva-abhimana": [
+    "q-kena-allegoria-yaksha"
+  ],
+  "brahman": [
+    "q-kena-allegoria-yaksha",
+    "q-kena-analogie-adhidaivata-adhyatma",
+    "q-kena-funzione-uma",
+    "q-kena-non-oggettivabilita-brahman",
+    "q-kena-paradosso-gnoseologico",
+    "q-kena-pratibodha-viditam",
+    "q-kena-principio-animatore",
+    "q-kena-urgenza-realizzazione"
+  ],
+  "brahma-vidya": [
+    "q-kena-allegoria-yaksha",
+    "q-kena-funzione-uma",
+    "q-kena-paradosso-gnoseologico",
+    "q-kena-supporti-pratistha",
+    "q-kena-urgenza-realizzazione"
+  ],
+  "sakshin": [
+    "q-kena-analogie-adhidaivata-adhyatma",
+    "q-kena-pratibodha-viditam",
+    "q-kena-principio-animatore"
+  ],
+  "vidita-avidita": [
+    "q-kena-non-oggettivabilita-brahman"
+  ],
+  "upadhi-upasana": [
+    "q-kena-non-oggettivabilita-brahman"
+  ],
+  "pratistha": [
+    "q-kena-supporti-pratistha"
+  ],
   "atma-han": [
     "q-uccisori-del-se"
   ]

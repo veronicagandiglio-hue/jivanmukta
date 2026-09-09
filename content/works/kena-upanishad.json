@@ -1,0 +1,17 @@
+{
+  "id": "kena-upanishad",
+  "title": "Kenopaniṣad",
+  "short_title": "Kena",
+  "language": "sa",
+  "attribution": "Sāmaveda (Jaiminīya-Upaniṣad-Brāhmaṇa, adhyāya IX)",
+  "editorial_note": [
+    "La Kenopaniṣad, appartenente al Sāmaveda, trae il nome dalla sua parola iniziale (kena, 'da chi?').",
+    "Si articola in due parti speculativo-metriche iniziali, dedicate alla natura inconcepibile e testimoniale dell'Ātman-Brahman, e in due parti in prosa incentrate sull'allegoria dell'impotenza delle divinità dinnanzi allo Yakṣa e sulla mediazione dottrinale di Umā Haimavatī."
+  ],
+  "editorial_units": [
+    "kena-1",
+    "kena-2",
+    "kena-3",
+    "kena-4"
+  ]
+}

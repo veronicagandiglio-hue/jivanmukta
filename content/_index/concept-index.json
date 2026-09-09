@@ -64,6 +64,78 @@
     ],
     "source_file": "concepts/avidya.json"
   },
+  "brahma-vidya": {
+    "id": "brahma-vidya",
+    "name": "Brahma-vidyā",
+    "transliteration": "brahma-vidyā",
+    "gloss": "La Conoscenza liberatrice non-duale personificata da Umā Haimavatī, che estingue la presunzione delle facoltà individuali e dischiude l'immortalità.",
+    "passages": [
+      "kena-2-4",
+      "kena-3-12",
+      "kena-4-1",
+      "kena-4-7"
+    ],
+    "related_concepts": [
+      "brahman",
+      "sakshin",
+      "deva-abhimana"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/brahma-vidya.json"
+  },
+  "brahman": {
+    "id": "brahman",
+    "name": "Brahman",
+    "transliteration": "brahman",
+    "gloss": "La Realtà suprema non-duale, Principio animatore e trascendente di mente, parola e sensi, radicalmente Altro sia dal noto (manifesto) sia dall'ignoto (non-manifesto).",
+    "passages": [
+      "kena-1-2",
+      "kena-1-4",
+      "kena-1-5",
+      "kena-1-6",
+      "kena-1-7",
+      "kena-1-8",
+      "kena-1-9",
+      "kena-2-1",
+      "kena-3-1",
+      "kena-4-1"
+    ],
+    "related_concepts": [
+      "sakshin",
+      "vidita-avidita",
+      "upadhi-upasana",
+      "tadvana"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/brahman.json"
+  },
+  "deva-abhimana": {
+    "id": "deva-abhimana",
+    "name": "Devābhimāna",
+    "transliteration": "devābhimāna",
+    "gloss": "La presunzione egoica delle potenze cosmiche che attribuiscono a se stesse il potere operativo e la vittoria, ignorando la loro totale dipendenza da Brahman.",
+    "passages": [
+      "kena-3-1",
+      "kena-3-2",
+      "kena-3-6",
+      "kena-3-10"
+    ],
+    "related_concepts": [
+      "brahman",
+      "brahma-vidya"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/deva-abhimana.json"
+  },
   "ekatva": {
     "id": "ekatva",
     "name": "Ekatva",
@@ -124,6 +196,23 @@
     ],
     "source_file": "concepts/karman.json"
   },
+  "pratistha": {
+    "id": "pratistha",
+    "name": "Pratiṣṭhā",
+    "transliteration": "pratiṣṭhā",
+    "gloss": "Il fondamento preparatorio della dottrina costituito da fervore ascetico (tapas), controllo dei sensi (dama) e azione pura (karman), avente la Verità (satya) per dimora.",
+    "passages": [
+      "kena-4-8",
+      "kena-4-9"
+    ],
+    "related_concepts": [
+      "brahma-vidya"
+    ],
+    "authors": [
+      "vedic-rishis"
+    ],
+    "source_file": "concepts/pratistha.json"
+  },
   "purna": {
     "id": "purna",
     "name": "Pūrṇa",
@@ -143,6 +232,25 @@
       "adi-shankara"
     ],
     "source_file": "concepts/purna.json"
+  },
+  "sakshin": {
+    "id": "sakshin",
+    "name": "Sākṣin / Pratibodha",
+    "transliteration": "sākṣin / pratibodha",
+    "gloss": "Il Testimone cosciente immanente che illumina ogni singolo moto di coscienza (pratibodha-viditam) senza mai divenire oggetto o subire modificazione.",
+    "passages": [
+      "kena-1-2",
+      "kena-2-4"
+    ],
+    "related_concepts": [
+      "brahman",
+      "brahma-vidya"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/sakshin.json"
   },
   "sambhuti-asambhuti": {
     "id": "sambhuti-asambhuti",
@@ -200,6 +308,22 @@
     ],
     "source_file": "concepts/soham.json"
   },
+  "tadvana": {
+    "id": "tadvana",
+    "name": "Tadvana",
+    "transliteration": "tadvana",
+    "gloss": "Nome meditativo di Brahman quale Essenza Suprema Desiderabile in Sé e Somma Bellezza essenziale, verso cui converge l'anelito di tutti gli esseri.",
+    "passages": [
+      "kena-4-6"
+    ],
+    "related_concepts": [
+      "brahman"
+    ],
+    "authors": [
+      "vedic-rishis"
+    ],
+    "source_file": "concepts/tadvana.json"
+  },
   "tyaga": {
     "id": "tyaga",
     "name": "Tyāga",
@@ -218,6 +342,46 @@
       "adi-shankara"
     ],
     "source_file": "concepts/tyaga.json"
+  },
+  "upadhi-upasana": {
+    "id": "upadhi-upasana",
+    "name": "Upādhi-upāsanā",
+    "transliteration": "upādhi-upāsanā",
+    "gloss": "La venerazione devozionale o teurgica rivolta a enti formali o divinità intese come esteriori al Sé (nedam yad idam upāsate), categoricamente distinta dalla gnosi di Brahman.",
+    "passages": [
+      "kena-1-5",
+      "kena-1-6",
+      "kena-1-7",
+      "kena-1-8",
+      "kena-1-9"
+    ],
+    "related_concepts": [
+      "brahman",
+      "vidita-avidita"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/upadhi-upasana.json"
+  },
+  "vidita-avidita": {
+    "id": "vidita-avidita",
+    "name": "Vidita e Avidita",
+    "transliteration": "vidita / avidita",
+    "gloss": "La duplice partizione cosmica: il manifesto oggettivabile (conosciuto) e la matrice causale indifferenziata (inconosciuto), entrambi trascesi dal Brahman.",
+    "passages": [
+      "kena-1-4"
+    ],
+    "related_concepts": [
+      "brahman",
+      "upadhi-upasana"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/vidita-avidita.json"
   },
   "vidya": {
     "id": "vidya",
