@@ -39,6 +39,10 @@
  *   --dry-run   Esegue tutti i controlli e mostra cosa verrebbe scritto,
  *               senza scrivere nulla né spostare il file del pacchetto.
  *
+ * Durante un'importazione reale, le candidate_questions vengono mostrate
+ * una alla volta: l'utente può approvarle come domande globali della
+ * homepage oppure lasciarle nell'archivio delle candidate.
+ *
  * Dopo un'importazione riuscita (non dry-run), eseguire:
  *   node build-index.js
  * per rigenerare gli indici e validare l'integrità complessiva del sito.
@@ -47,6 +51,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const readline = require('readline');
 const { validatePackage } = require('./validate-package');
 
 const ROOT = path.join(__dirname, '..', '..', '..');
@@ -219,7 +224,18 @@ function buildQuestionEntity(q, existingQuestionFile) {
  * secco dei conflitti sia per l'effettiva scrittura, così le due fasi
  * vedono esattamente le stesse entità.
  */
-function buildEntityPlan(pkg) {
+function approvedQuestionEntity(question, approval) {
+  const entity = {
+    ...question,
+    scope: 'global',
+    homepage_priority: approval.homepage_priority
+  };
+  delete entity.candidate;
+  delete entity.status;
+  return entity;
+}
+
+function buildEntityPlan(pkg, { approvedCandidates = {} } = {}) {
   const workFile = path.join(CONTENT_DIR, 'works', `${pkg.work.id}.json`);
   const newUnitIds = (pkg.editorial_units || []).map((u) => u.id);
   const workEntity = buildWorkEntity(pkg.work, newUnitIds, workFile);
@@ -248,7 +264,16 @@ function buildEntityPlan(pkg) {
   for (const c of (pkg.concepts || [])) plan.push({ dirName: 'concepts', kind: 'concept', entity: c });
   for (const q of (pkg.questions || [])) {
     if (q.candidate === true || q.status === 'candidate') {
-      plan.push({ dirName: 'candidate-questions', kind: 'candidate-question', entity: q });
+      if (approvedCandidates[q.id]) {
+        plan.push({
+          dirName: 'questions',
+          kind: 'question',
+          entity: approvedQuestionEntity(q, approvedCandidates[q]),
+          opts: { isAdditiveUpdate: isQuestionAdditiveUpdate }
+        });
+      } else {
+        plan.push({ dirName: 'candidate-questions', kind: 'candidate-question', entity: q });
+      }
     } else {
       const qFile = path.join(CONTENT_DIR, 'questions', `${q.id}.json`);
       const qEntity = buildQuestionEntity(q, qFile);
@@ -261,7 +286,16 @@ function buildEntityPlan(pkg) {
     }
   }
   for (const cq of (pkg.candidate_questions || [])) {
-    plan.push({ dirName: 'candidate-questions', kind: 'candidate-question', entity: cq });
+    if (approvedCandidates[cq.id]) {
+      plan.push({
+        dirName: 'questions',
+        kind: 'question',
+        entity: approvedQuestionEntity(cq, approvedCandidates[cq]),
+        opts: { isAdditiveUpdate: isQuestionAdditiveUpdate }
+      });
+    } else {
+      plan.push({ dirName: 'candidate-questions', kind: 'candidate-question', entity: cq });
+    }
   }
   for (const exp of (pkg.explanations || [])) {
     plan.push({ dirName: 'explanations', kind: 'explanation', entity: exp });
@@ -272,7 +306,7 @@ function buildEntityPlan(pkg) {
   return plan;
 }
 
-function importPackage(pkgPath, { dryRun = false } = {}) {
+function importPackage(pkgPath, { dryRun = false, approvedCandidates = {} } = {}) {
   const report = new ImportReport();
   const pkgLabel = path.basename(pkgPath);
 
@@ -286,7 +320,7 @@ function importPackage(pkgPath, { dryRun = false } = {}) {
     return { report, pkg, validationErrors, validationWarnings };
   }
 
-  const plan = buildEntityPlan(pkg);
+  const plan = buildEntityPlan(pkg, { approvedCandidates });
 
   // --- Fase 1: scansione a secco di TUTTI i conflitti, senza scrivere
   //     nulla. L'importazione è atomica rispetto ai conflitti: se anche
@@ -331,7 +365,69 @@ function importPackage(pkgPath, { dryRun = false } = {}) {
 // ============================================================
 // CLI
 // ============================================================
-if (require.main === module) {
+function nextHomepagePriority() {
+  const questionsDir = path.join(CONTENT_DIR, 'questions');
+  let highestPriority = 0;
+  if (!fs.existsSync(questionsDir)) return 1;
+
+  for (const fileName of fs.readdirSync(questionsDir)) {
+    if (!fileName.endsWith('.json')) continue;
+    const question = JSON.parse(fs.readFileSync(path.join(questionsDir, fileName), 'utf8'));
+    if (Number.isInteger(question.homepage_priority)) {
+      highestPriority = Math.max(highestPriority, question.homepage_priority);
+    }
+  }
+  return highestPriority + 1;
+}
+
+function ask(rl, prompt) {
+  return new Promise((resolve) => rl.question(prompt, resolve));
+}
+
+async function requestCandidateApprovals(pkg) {
+  const candidates = [
+    ...(pkg.candidate_questions || []),
+    ...(pkg.questions || []).filter((question) => (
+      question.candidate === true || question.status === 'candidate'
+    ))
+  ];
+
+  if (!candidates.length) return {};
+
+  console.log(`Sono state proposte ${candidates.length} nuova/e domanda/e principale/i per la homepage.`);
+  console.log('Per ogni proposta scegli se approvarla come domanda globale.');
+  console.log('');
+
+  const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+  const approvedCandidates = {};
+  let homepagePriority = nextHomepagePriority();
+
+  try {
+    for (const candidate of candidates) {
+      console.log(`ID: ${candidate.id}`);
+      console.log(`Domanda: ${candidate.text || '(testo mancante)'}`);
+      console.log(`Problema: ${candidate.problem || '(non specificato)'}`);
+      const answer = (await ask(rl, 'Approvare come domanda principale in homepage? [s/N] '))
+        .trim()
+        .toLowerCase();
+
+      if (answer === 's' || answer === 'si' || answer === 'sì') {
+        approvedCandidates[candidate.id] = { homepage_priority: homepagePriority };
+        console.log(`Approvata con priorità homepage ${homepagePriority}.`);
+        homepagePriority++;
+      } else {
+        console.log('Lasciata come candidata.');
+      }
+      console.log('');
+    }
+  } finally {
+    rl.close();
+  }
+
+  return approvedCandidates;
+}
+
+async function runCli() {
   const args = process.argv.slice(2);
   const dryRun = args.includes('--dry-run');
   const pkgPath = args.find((a) => !a.startsWith('--'));
@@ -347,7 +443,14 @@ if (require.main === module) {
   console.log(dryRun ? '(modalità --dry-run: nessuna scrittura verrà eseguita)' : '');
   console.log('');
 
-  const { report, validationErrors, validationWarnings } = importPackage(resolvedPath, { dryRun });
+  const preflight = validatePackage(resolvedPath, CONTENT_DIR);
+  const approvedCandidates = !dryRun && preflight.errors.length === 0
+    ? await requestCandidateApprovals(preflight.pkg)
+    : {};
+  const { report, validationErrors, validationWarnings } = importPackage(
+    resolvedPath,
+    { dryRun, approvedCandidates }
+  );
 
   if (validationWarnings && validationWarnings.length) {
     console.log(`Warnings di validazione: ${validationWarnings.length}`);
@@ -419,6 +522,13 @@ if (require.main === module) {
     console.log('Prossimo passo: eseguire "node build-index.js" per rigenerare gli indici.');
   }
   console.log('');
+}
+
+if (require.main === module) {
+  runCli().catch((error) => {
+    console.error('Errore imprevisto durante l’importazione:', error);
+    process.exit(1);
+  });
 }
 
 module.exports = { importPackage };

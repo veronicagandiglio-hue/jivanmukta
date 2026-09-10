@@ -64,6 +64,11 @@ nessun file qui dentro viene letto dal sito o dal build.
    node import/gemini/_tooling/import-gemini.js import/gemini/incoming/<slug-opera>.json --dry-run
    node import/gemini/_tooling/import-gemini.js import/gemini/incoming/<slug-opera>.json
    ```
+   Durante l'importazione reale, se il pacchetto contiene `candidate_questions`,
+   lo script mostra ogni proposta e chiede se approvarla come nuova domanda
+   principale della homepage. Rispondendo `s` la domanda viene importata con
+   `scope: "global"` e una `homepage_priority` successiva; rispondendo `N`
+   resta una proposta in `content/candidate-questions/` e non appare sul sito.
    Se non ci sono conflitti, i file vengono scritti in `/content/...`
    e il pacchetto viene copiato in `import/gemini/processed/`.
    Se ci sono conflitti, nulla viene scritto per le entità in
