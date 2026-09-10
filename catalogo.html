@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Indice — Advaita Vedanta</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --color-bg:#F5F3EE;
+  --color-ink:#201F1C;
+  --color-ink-muted:#5B584E;
+  --color-ink-faint:#8B8778;
+  --color-accent:#45516C;
+  --color-rule:#D9D4C6;
+  --font-text:'Gentium Plus','Iowan Old Style','Palatino Linotype',Georgia,serif;
+  --measure:38rem;
+  --page-max:60rem;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--color-bg);color:var(--color-ink);font-family:var(--font-text);font-size:1.125rem;line-height:1.7}
+a{color:inherit}
+h1,p{margin:0}
+.page{display:grid;grid-template-columns:minmax(1.25rem,1fr) minmax(0,var(--page-max)) minmax(1.25rem,1fr);padding-block:3.25rem 7.5rem;min-height:100svh}
+.page>*{grid-column:2}
+.measure{max-width:var(--measure);margin-inline:auto;width:100%}
+.masthead{display:flex;justify-content:space-between;align-items:baseline;gap:1.25rem;font-size:.95rem;color:var(--color-ink-muted)}
+.masthead a{text-decoration-color:var(--color-rule);text-underline-offset:.15em}
+.intro{margin-top:7.5rem}
+.intro h1{font-size:clamp(2.5rem,5vw,4rem);font-weight:400;line-height:1.2}
+.intro p{margin-top:1.25rem;color:var(--color-ink-muted);max-width:35ch}
+.catalog{margin-top:5rem;border-top:1px solid var(--color-rule)}
+.catalog__item{display:block;padding:1.25rem 0;border-bottom:1px solid var(--color-rule);text-decoration:none}
+.catalog__item:hover,.catalog__item:focus-visible{color:var(--color-accent)}
+.catalog__name{font-size:2rem;line-height:1.25}
+.catalog__meta{margin-top:.25rem;color:var(--color-ink-faint);font-size:.95rem}
+.status{padding-block:1.25rem;color:var(--color-ink-muted);font-style:italic}
+@media(max-width:640px){
+  .page{padding:2rem 1.25rem 5rem}
+  .masthead{align-items:flex-start;flex-direction:column;gap:.25rem}
+  .intro{margin-top:5rem}
+  .catalog{margin-top:3.25rem}
+  .catalog__name{font-size:1.5rem}
+}
+</style>
+</head>
+<body>
+<main class="page">
+  <header class="masthead measure">
+    <a href="/">Advaita Vedanta — uno studio delle fonti</a>
+    <a href="/">torna all'inizio</a>
+  </header>
+  <section class="intro measure">
+    <h1 id="catalog-title">Indice</h1>
+    <p id="catalog-description"></p>
+  </section>
+  <nav class="catalog measure" id="catalog" aria-label="Indice dei contenuti"></nav>
+</main>
+<script src="/js/url-router.js"></script>
+<script src="/js/content-engine.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  const config = {
+    testi: {
+      kind: 'work',
+      title: 'I testi',
+      description: 'Le opere attraverso cui si articola lo studio delle fonti.',
+      label: function (item) { return item.title; },
+      url: function (item) { return UrlRouter.buildContentUrl('testi', item.id); }
+    },
+    autori: {
+      kind: 'author',
+      title: 'Gli autori',
+      description: 'Gli autori e le figure della tradizione presenti nel corpus.',
+      label: function (item) { return item.name; },
+      url: function (item) { return UrlRouter.buildContentUrl('autori', item.id); }
+    },
+    concetti: {
+      kind: 'concept',
+      title: 'I concetti',
+      description: 'I concetti dottrinali che orientano la lettura delle fonti.',
+      label: function (item) { return item.name; },
+      url: function (item) { return UrlRouter.buildContentUrl('concetti', item.id); }
+    }
+  };
+
+  const type = new URLSearchParams(window.location.search).get('tipo') || 'testi';
+  const current = config[type] || config.testi;
+  const title = document.getElementById('catalog-title');
+  const description = document.getElementById('catalog-description');
+  const catalog = document.getElementById('catalog');
+
+  document.title = current.title + ' — Advaita Vedanta';
+  title.textContent = current.title;
+  description.textContent = current.description;
+
+  ContentEngine.getEntities(current.kind).then(function (result) {
+    if (result.status !== 'ok') {
+      catalog.textContent = 'Il catalogo non e momentaneamente disponibile.';
+      return;
+    }
+
+    const items = result.data.slice().sort(function (left, right) {
+      return current.label(left).localeCompare(current.label(right), 'it');
+    });
+
+    if (!items.length) {
+      catalog.textContent = 'Non ci sono ancora elementi in questo catalogo.';
+      return;
+    }
+
+    items.forEach(function (item) {
+      const link = document.createElement('a');
+      link.className = 'catalog__item';
+      link.href = current.url(item);
+
+      const name = document.createElement('span');
+      name.className = 'catalog__name';
+      name.textContent = current.label(item);
+      link.append(name);
+
+      const meta = document.createElement('span');
+      meta.className = 'catalog__meta';
+      meta.textContent = item.short_title || item.transliteration || item.id;
+      link.append(meta);
+      catalog.append(link);
+    });
+  }).catch(function () {
+    catalog.textContent = 'Il catalogo non e momentaneamente disponibile.';
+  });
+}());
+</script>
+</body>
+</html>

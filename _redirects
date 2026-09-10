@@ -16,6 +16,12 @@
 # =====================================================================
 
 /                              /index.html                       200
+/testi                       /catalogo.html?tipo=testi          200
+/testi/                      /catalogo.html?tipo=testi          200
+/autori                      /catalogo.html?tipo=autori          200
+/autori/                     /catalogo.html?tipo=autori          200
+/concetti                    /catalogo.html?tipo=concetti        200
+/concetti/                   /catalogo.html?tipo=concetti        200
 
 # --- Testi (Work): deep link a capitolo/sezione ---------------------
 # Template dinamico dell'unità editoriale (unita.html): legge opera,

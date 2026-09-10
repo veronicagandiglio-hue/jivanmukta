@@ -297,7 +297,7 @@ body{
         if (item) item.hidden = true;
         return;
       }
-      item.querySelector('a').href = UrlRouter.buildContentUrl(prefix, result.data[0].id);
+      item.querySelector('a').href = '/' + prefix;
     }));
   }
 
