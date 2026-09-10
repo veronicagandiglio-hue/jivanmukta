@@ -15,6 +15,8 @@
 # generiche con lo splat (*), altrimenti non vengono mai raggiunte.
 # =====================================================================
 
+/                              /index.html                       200
+
 # --- Testi (Work): deep link a capitolo/sezione ---------------------
 # Template dinamico dell'unità editoriale (unita.html): legge opera,
 # unità e passaggi esclusivamente dal Content Engine. Il capitolo
@@ -27,11 +29,11 @@
 /testi/:slug/:cap             /unita.html   200
 
 # --- I 5 template dinamici, un prefisso per tipo di entità ----------
-/domande/*     /domanda.html     200
-/concetti/*    /concetto.html    200
-/testi/*       /opera.html       200
-/autori/*      /autore.html      200
-/confronti/*   /confronto.html   200
+/domande/*     /domanda.html?rif=:splat     200
+/concetti/*    /concetto.html?rif=:splat    200
+/testi/*       /opera.html?rif=:splat       200
+/autori/*      /autore.html?rif=:splat      200
+/confronti/*   /confronto.html?rif=:splat   200
 
 # --- Compatibilità con i vecchi URL statici del Vertical Slice ------
 # Le pagine originali restano sul server (nessun file è stato
