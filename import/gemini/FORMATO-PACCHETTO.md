@@ -199,8 +199,7 @@ Un pacchetto è un oggetto JSON con questa forma:
   disponibile, come già accade nel sito per `mandukya-4-99`)
 - **authors[]**: `id`, `name`
 - **concepts[]**: `id`, `name`
-- **questions[]**: `id` (e se nuova domanda: `type`, `text`)
-- **explanations[]**: `id`, `target_type`, `target_id`, `sections[]`
+- **explanations[]**: `id`, `target_type`, `target_id`, `sections[]` (obbligatorio: deve esserci una spiegazione per **ciascun versetto/passaggio** dell'opera, formulata in modo chiaro e accessibile)
 - **commentaries[]**: `id`, `author_id`, `text`
 - **notes[]**: `id`, `term`, `text`
 

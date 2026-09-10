@@ -42,15 +42,14 @@
   Questa distinzione è pilotata dal campo "type" della domanda,
   non da due pagine diverse.
 
-  Ordine dei blocchi (fisso, indipendente dal contenuto):
-    1. masthead (+ breadcrumb, se la domanda ha un genitore)
-    2. DOMANDA
-    3. PROBLEMA
-    4. FONTI FONDAMENTALI (se ci sono passaggi/commentari)
-    5. PASSAGGI + concetti collegati a margine (se presenti)
-    6. COMMENTO (se ci sono commentari collegati)
-    7. DOMANDE PIÙ SPECIFICHE (se presenti)
-    8. DOMANDE CORRELATE (se presenti)
+   Ordine dei blocchi (fisso, indipendente dal contenuto):
+     1. masthead (+ breadcrumb, se la domanda ha un genitore)
+     2. DOMANDA
+     3. PROBLEMA
+     4. PASSAGGI + concetti collegati a margine (se presenti)
+     5. COMMENTO (se ci sono commentari collegati)
+     6. DOMANDE PIÙ SPECIFICHE (se presenti)
+     7. DOMANDE CORRELATE (se presenti)
   ============================================================
 -->
 
@@ -286,46 +285,6 @@ body{
   gap: var(--sp-5);
 }
 
-/* ============================================================
-   8. FONTI FONDAMENTALI — elenco tipografico, non card
-   ============================================================ */
-.sources__lead{
-  font-size: var(--fs-caption);
-  color: var(--color-ink-faint);
-  font-style: italic;
-}
-.sources{
-  margin-top: var(--sp-3);
-  display: flex;
-  flex-direction: column;
-  gap: var(--sp-2);
-}
-.source{
-  font-size: var(--fs-title);
-}
-.source__title{
-  text-decoration: underline;
-  text-decoration-color: var(--color-rule);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.15em;
-  font-weight: 700;
-}
-.source__title:hover,
-.source__title:focus-visible{
-  color: var(--color-accent);
-  text-decoration-color: currentColor;
-}
-.source__ref{
-  font-size: var(--fs-note);
-  color: var(--color-ink-muted);
-  font-weight: 400;
-}
-.source__why{
-  display: block;
-  margin-top: var(--sp-1);
-  font-size: var(--fs-note);
-  color: var(--color-ink-muted);
-}
 
 /* ============================================================
    9. PASSAGGI
@@ -617,11 +576,6 @@ body{
     <p class="problem" id="problem-text"></p>
   </section>
 
-  <!-- 3. FONTI FONDAMENTALI (mostrata solo se emergono fonti da passaggi/commentari) -->
-  <section class="block measure" id="section-sources" hidden>
-    <p class="sources__lead">testi fondamentali per affrontare questa questione</p>
-    <ul class="sources" id="sources-list"></ul>
-  </section>
 
   <!-- 4. PASSAGGI + concetti collegati a margine (mostrata solo se ci sono passaggi) -->
   <section class="block unit unit--aside" id="section-passages" hidden>
@@ -744,43 +698,6 @@ body{
   // Recupero e composizione dei dati (solo ContentEngine)
   // ==========================================================
 
-  async function buildSources(question) {
-    const sources = [];
-    const seenWorks = new Set();
-    const seenAuthors = new Set();
-
-    for (const passageId of (question.passages || [])) {
-      const passageResult = await ContentEngine.getPassage(passageId);
-      if (passageResult.status !== 'ok') continue;
-      const passage = passageResult.data;
-      if (passage.work_id && !seenWorks.has(passage.work_id)) {
-        seenWorks.add(passage.work_id);
-        sources.push({
-          title: passage.source,
-          href: staticLink('works', passage.work_id),
-          why: passage.unit_title || ''
-        });
-      }
-    }
-
-    for (const commentaryId of (question.commentaries || [])) {
-      const commentaryResult = await ContentEngine.getCommentary(commentaryId);
-      if (commentaryResult.status !== 'ok') continue;
-      const commentary = commentaryResult.data;
-      if (commentary.author_id && !seenAuthors.has(commentary.author_id)) {
-        seenAuthors.add(commentary.author_id);
-        const authorResult = await ContentEngine.getAuthor(commentary.author_id);
-        const authorName = authorResult.status === 'ok' ? authorResult.data.name : commentary.author_id;
-        sources.push({
-          title: authorName,
-          href: staticLink('authors', commentary.author_id),
-          why: 'commento collegato al passaggio'
-        });
-      }
-    }
-
-    return sources;
-  }
 
   async function buildPassageViews(question) {
     const views = [];
@@ -880,18 +797,6 @@ body{
     }
   }
 
-  function renderSources(sectionEl, listEl, sources) {
-    listEl.replaceChildren();
-    if (!sources.length) { sectionEl.hidden = true; return; }
-    sectionEl.hidden = false;
-    sources.forEach((s) => {
-      const li = document.createElement('li');
-      li.className = 'source';
-      li.append(createEl('a', { class: 'source__title', href: s.href, text: s.title }));
-      if (s.why) li.append(createEl('span', { class: 'source__why', text: s.why }));
-      listEl.append(li);
-    });
-  }
 
   function renderPassages(sectionEl, data, question) {
     const leadEl = byId('passages-lead');
@@ -1163,7 +1068,7 @@ body{
     byId('question-text').textContent = m.q;
     byId('problem-text').textContent = m.p;
     byId('breadcrumb').hidden = true;
-    ['section-introduction', 'section-sources', 'section-passages', 'section-commentary', 'section-directions', 'section-related'].forEach((id) => {
+    ['section-introduction', 'section-passages', 'section-commentary', 'section-directions', 'section-related'].forEach((id) => {
       byId(id).hidden = true;
     });
   }
@@ -1188,9 +1093,6 @@ body{
     } else {
       renderBreadcrumb(byId('breadcrumb'), null, null);
     }
-
-    const sources = await buildSources(question);
-    renderSources(byId('section-sources'), byId('sources-list'), sources);
 
     const passageData = await buildPassageViews(question);
     renderPassages(byId('section-passages'), passageData, question);

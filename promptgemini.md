@@ -322,13 +322,21 @@ C. Nota terminologica: chiarimento di un singolo termine sanscrito.
 D. Spiegazione Jivanmukta: spiegazione editoriale strutturata destinata a far
    comprendere il testo al lettore comune senza conoscenze preliminari.
 
-La Spiegazione Jivanmukta:
-* deve essere rigorosa, metafisica e tradizionale, ma formulata con assoluta chiarezza;
-* NON deve essere un riassunto, una parafrasi o una banalizzazione;
-* NON deve contenere psicologizzazioni, sentimentalizzazioni o terminologia New Age;
-* è strutturata in sezioni libere (es. contesto del passo, che cosa afferma, il problema
-  metafisico, equivoci da evitare, conseguenze dottrinali) utilizzate quando servono;
-* non deve sembrare una citazione dell'autore o di Śaṅkara, ma l'ausilio editoriale di Jivanmukta.
+REQUISITO FONDAMENTALE SULLE SPIEGAZIONI:
+* OGNI SINGOLO VERSETTO / PASSAGGIO DELL'OPERA DEVE AVERE LA PROPRIA SPIEGAZIONE JIVANMUKTA.
+  Non limitarti a una spiegazione generale dell'opera o a pochi passaggi selezionati: nessun versetto
+  deve rimanere privo di spiegazione.
+* La Spiegazione Jivanmukta deve essere SEMPLICE, CHIARA E ALLA PORTATA DI TUTTI. Il suo scopo primario
+  è rendere il senso dottrinale e metafisico del versetto accessibile e limpido a chiunque, senza dare
+  nulla per scontato e senza tecnicismi oscuri o non spiegati.
+* Semplicità non significa banalizzazione: la spiegazione deve rimanere rigorosa, metafisica e fedele
+  all'Advaita Vedānta tradizionale (nello spirito metafisico di René Guénon), escludendo categoricamente
+  psicologizzazioni, derive New Age o sentimentalismo.
+* Ogni spiegazione deve avere:
+  - un titolo sintetico e chiaro (`title`);
+  - due o più sezioni (`sections[]`) con intestazione (`heading`, es. "Il senso del verso",
+    "Spiegazione accessibile", "Equivoci da evitare", "Conseguenze dottrinali") e testo limpido (`text`).
+* Non deve sembrare una citazione dell'autore o di Śaṅkara, ma l'ausilio pedagogico ed editoriale di Jivanmukta.
 
 # 7. COLLEGAMENTI CON ALTRE OPERE
 
@@ -365,8 +373,9 @@ D. elenco dei concetti, con tutti i campi richiesti al punto 2;
 E. elenco delle domande, con tutti i campi richiesti al punto 3;
 F. elenco delle relazioni, con motivazione e passaggi di supporto;
 G. elenco delle note terminologiche;
-H. elenco dei commenti/elaborazioni, con la distinzione A/B/C/D sempre
-   esplicita;
+H. elenco delle Spiegazioni Jivanmukta per OGNI versetto/passaggio dell'opera (nessun versetto
+   escluso, formulate in modo semplice e accessibile) e degli eventuali commentari tradizionali,
+   con la distinzione A/B/C/D sempre esplicita;
 I. elenco dei collegamenti con altre opere (se presenti), con la loro
    categoria;
 J. elenco di tutte le questioni da verificare — ogni punto di incertezza,
@@ -503,6 +512,10 @@ Regole per questo JSON:
 
 * usa esattamente gli ID stabiliti nella prima fase per opera, unità
   editoriali e passaggi — non rinominare nulla;
+* "explanations": DEVE contenere obbligatoriamente un oggetto per OGNI versetto/passaggio
+  dell'opera (id: "expl-<id-passaggio>", target_type: "passage", target_id: "<id-passaggio>",
+  editorial_status: "established"). Ogni versetto deve avere la propria spiegazione semplice,
+  chiara e accessibile;
 * "type" delle domande deve essere uno tra: "specific", "great", "comparison";
 * se un campo non è pertinente per un'entità, omettilo o lascialo come array
   vuoto — non inventare valori per riempirlo;

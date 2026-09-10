@@ -21,6 +21,402 @@
     "editorial_status": "established",
     "source_file": "explanations/expl-isha-1-1.json"
   },
+  "expl-isha-1-10": {
+    "id": "expl-isha-1-10",
+    "target_type": "passage",
+    "target_id": "isha-1-10",
+    "title": "I frutti distinti dell'azione e della meditazione: la saggezza che distingue",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il verso riporta l'insegnamento dei «saggi saldi» (dhīrāḥ): i frutti dell'azione rituale (avidyā) e quelli della meditazione sulle divinità cosmiche (vidyā) sono distinti. Non sono la stessa cosa, non si sostituiscono l'uno con l'altro. Questa distinzione è fondamentale: non è indifferente quale via si scelga — ogni via ha il suo risultato proprio."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "L'insegnamento tradizionale — trasmesso dai «saggi saldi», i dhīrāḥ — non è un'invenzione speculativa ma un patrimonio di comprensione verificata. L'azione rituale purifica la mente e supera i legami grossolani del mondo fenomenico (supera la morte, nel senso di sfuggire ai condizionamenti del piano corporeo). La meditazione sulle divinità cosmiche conduce verso stati di esistenza più sottili e luminosi (immortalità relativa, stati sovraindividuali del Sé condizionato). Ma nessuna delle due, da sola, dà la liberazione finale."
+      },
+      {
+        "heading": "Il significato della distinzione",
+        "text": "Questo verso è pedagogicamente cruciale: insegna a non confondere i livelli. Chi pratica riti pensando che bastino a liberarlo si sbaglia. Chi medita sulle divinità pensando di aver già raggiunto la conoscenza del Sé non-duale si sbaglia ancora di più. La tradizione (śruti) trasmessa dai dhīrāḥ distingue con precisione ciò che ogni via può e non può fare."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-10.json"
+  },
+  "expl-isha-1-11": {
+    "id": "expl-isha-1-11",
+    "target_type": "passage",
+    "target_id": "isha-1-11",
+    "title": "La via integrata: superare la morte con l'azione e raggiungere l'immortalità con la conoscenza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questo verso risolve la tensione dei versetti 9-10: la risposta non è scegliere l'una o l'altra via, ma praticarle entrambe, ciascuna per il risultato che le è proprio. L'azione rituale purificata (avidyā in senso tecnico) supera la «morte» — i condizionamenti del piano fisico e del ciclo di rinascita grossolano. La meditazione sulle potenze cosmiche (vidyā) conduce poi a uno stato di «immortalità» relativa — un piano di esistenza sottile e luminoso oltre il condizionamento ordinario."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "La tradizione vedāntica non oppone azione e conoscenza in modo assoluto. Le oppone solo quando si afferma che una basta da sola. L'azione senza comprensione incatena; la comprensione senza preparazione attraverso l'azione resta sterile o superficiale. La via integrata usa l'azione per purificare il campo interiore, e la meditazione per orientarsi verso il Sé. Questo è il metodo pratico descritto dalla Īśā."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "L'«immortalità» di cui parla questo verso è relativa, non assoluta. Non è la liberazione finale (mokṣa) — quella viene solo dalla conoscenza diretta del Sé non-duale (ātma-jñāna). È uno stato di esistenza sovraindividuale temporaneo, molto più luminoso di quello ordinario, ma ancora nell'ambito del condizionato. La liberazione definitiva richiede qualcosa di più: la realizzazione che il Sé e Brahman sono una cosa sola."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-11.json"
+  },
+  "expl-isha-1-12": {
+    "id": "expl-isha-1-12",
+    "target_type": "passage",
+    "target_id": "isha-1-12",
+    "title": "Asambhūti e sambhūti: i due opposti errori davanti al non-manifesto e al manifesto",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questo verso rispecchia la struttura del verso 9, ma applica la stessa dialettica a un piano più sottile: non più rito e meditazione, ma non-manifestazione (asambhūti, il principio impersonale assoluto separato dal cosmo) e manifestazione (sambhūti, il mondo fenomenico considerato come realtà ultima). Chi si dedica esclusivamente alla non-manifestazione — intesa come vuoto assoluto privo di ogni relazione con il cosmo — cade in una cieca tenebra. Chi si dedica esclusivamente alla manifestazione — accettando il mondo fenomenico come la Realtà definitiva — cade in una tenebra ancora più densa."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "L'errore speculare è doppio: da un lato il nichilismo trascendente che nega ogni valore alla manifestazione cosmica; dall'altro il materialismo o l'idolatria cosmica che eleva il fenomenico a Realtà assoluta. L'Advaita Vedānta insegna una via di mezzo non compromissoria: il cosmo manifesto è reale come espressione del Principio, ma non è la Realtà nel senso pieno. Ignorare il Principio dietro la manifestazione è errore; ignorare la manifestazione come espressione del Principio è ugualmente errore."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non si deve confondere asambhūti con il Brahman nirguna (senza attributi). Il Brahman nirguna della tradizione non è un vuoto: è la pienezza priva di limitazioni. L'asambhūti di cui si parla qui è piuttosto il tentativo di afferrare il Principio astraendo completamente dalla manifestazione, in modo unilaterale e privo di sintesi."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-12.json"
+  },
+  "expl-isha-1-13": {
+    "id": "expl-isha-1-13",
+    "target_type": "passage",
+    "target_id": "isha-1-13",
+    "title": "I frutti distinti del manifesto e del non-manifesto: la saggezza che non confonde",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come il verso 10 dichiarava la distinzione tra i frutti di vidyā e avidyā, così questo verso afferma la distinzione tra i frutti della meditazione sulla manifestazione (sambhava) e quelli della meditazione sulla non-manifestazione (asambhava). I saggi saldi (dhīrāḥ) che hanno trasmesso questo insegnamento lo hanno esposto con precisione, distinguendo i livelli senza mescolarli."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "La meditazione sulla manifestazione — sul principio creativo, sull'Īśvara cosmico che presiede alla creazione — conduce verso stati di esistenza sottili e luminosi, ricchi di potenza e comprensione. La meditazione sulla non-manifestazione — sul Principio assoluto al di là di ogni forma — conduce verso la dissoluzione dei condizionamenti legati alla forma. Entrambe hanno il loro posto nella gerarchia della realizzazione, ma nessuna delle due è l'ultima parola."
+      },
+      {
+        "heading": "Il ruolo della tradizione",
+        "text": "Il verso insiste sul fatto che questi insegnamenti vengono dai «saggi saldi»: non sono deduzioni speculative, ma un sapere trasmesso (śruti) da chi ha percorso queste vie. Questo richiamo alla tradizione non è autoritarismo cieco: è il riconoscimento che alcune distinzioni non si ricavano dall'esperienza ordinaria e richiedono la guida di chi ha già realizzato."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-13.json"
+  },
+  "expl-isha-1-14": {
+    "id": "expl-isha-1-14",
+    "target_type": "passage",
+    "target_id": "isha-1-14",
+    "title": "Conoscere insieme dissoluzione e manifestazione: la via che non esclude nulla",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come il verso 11 risolveva la tensione tra vidyā e avidyā indicando la via integrata, così questo verso risolve la tensione tra sambhūti e vināśa (dissoluzione, non-manifestazione): chi conosce entrambe congiuntamente supera la morte grazie alla dissoluzione e raggiunge l'immortalità grazie alla meditazione sulla manifestazione. Non è un compromesso tra due errori: è la comprensione che i due aspetti — il manifesto e il non-manifesto, il condizionato e il trascendente — sono entrambi necessari."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Il termine vināśa (dissoluzione) non significa annientamento. Indica la reintegrazione nell'aspetto non-manifesto del Principio: il riconoscimento che il mondo fenomenico non ha sostanza indipendente, che si dissolve nel Principio da cui è emerso. Saper «morire» a ciò che è temporaneo — non attaccandosi al mondo come a una realtà assoluta — è la condizione per ricevere la pienezza dell'esistenza che la manifestazione offre come dono del Principio."
+      },
+      {
+        "heading": "La sintesi della Īśā Upaniṣad",
+        "text": "I versetti 9-14 formano un blocco dottrinale coerente che anticipa la dialettica tra trascendenza e immanenza, tra il Sé non-duale e il cosmo manifesto. La risposta della Īśā non è mai di tipo esclusivo — «scegli solo questo» — ma sempre integrativo: comprendi entrambe le dimensioni nella loro distinzione e nella loro unità più profonda."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-14.json"
+  },
+  "expl-isha-1-15": {
+    "id": "expl-isha-1-15",
+    "target_type": "passage",
+    "target_id": "isha-1-15",
+    "title": "Il disco d'oro che vela il Vero: la preghiera per rimuovere l'illusione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il praticante in meditazione si rivolge al Sole (Pūṣan) — simbolo della luce cosmica e della conoscenza — e chiede che il suo disco aureo, abbagliante ma opaco alla Verità, venga rimosso. Il Sole fisico illumina il mondo fenomenico; ma c'è una luce più intensa, la Realtà stessa (satya), che il brillore del mondo manifesto tende a oscurare. Così come non si può guardare direttamente il Sole senza restare abbagliati, l'intelletto ordinario non può vedere la Realtà direttamente finché è abbagliato dalla molteplicità fenomenica."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Questo è un verso di preghiera e di invocazione. Il praticante riconosce di essere ancora velato — l'ignoranza (avidyā) funziona come un disco d'oro che abbaglia senza illuminare la Verità. La preghiera non è passiva: è l'atto di orientare la propria aspirazione verso la rimozione del velo. «Devoto alla Verità come legge suprema» (satyadharma) indica chi vive in modo orientato verso la Realtà, non disperso nelle illusioni del mondo."
+      },
+      {
+        "heading": "Il simbolismo solare",
+        "text": "Il Sole (Āditya, Pūṣan) è uno dei simboli centrali dell'Advaita Vedānta per indicare Brahman nella sua forma luminosa e manifesta. Come il Sole illumina tutto senza essere toccato da ciò che illumina, così Brahman è il Testimone di tutto senza essere condizionato da nulla. La richiesta di svelare il disco aureo è la richiesta di accedere alla Luce che sta dietro la luce manifesta."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-15.json"
+  },
+  "expl-isha-1-16": {
+    "id": "expl-isha-1-16",
+    "target_type": "passage",
+    "target_id": "isha-1-16",
+    "title": "So'ham asmi: «Quello sono io» — il riconoscimento supremo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il praticante invoca il Sole (Pūṣan) affinché dissolva i propri raggi abbaglianti e riveli la forma più luminosa e benefica nascosta dietro di essi. Poi dichiara: «Quel Puruṣa che là risplende — quello sono io (so'ham asmi).» Questa è una delle affermazioni di identità (mahāvākya) più dirette di tutta la tradizione vedāntica: il Sé individuale (jīva) e il Sé cosmico (Brahman/Ātman) non sono due realtà separate — sono un'unica Realtà. La distinzione apparente tra «io» e «Dio» si dissolve nella luce della conoscenza diretta."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "So'ham asmi non è un'affermazione presuntuosa dell'ego che si dichiara dio. È esattamente il contrario: è la dissoluzione dell'ego nella Realtà universale. Chi pronuncia queste parole con comprensione autentica non rivendica per l'ego individuale attributi divini. Riconosce che l'ego individuale era sempre già un'espressione limitata dell'unica Realtà. Il «io» che parla non è più l'io separato, ma l'Ātman che riconosce se stesso."
+      },
+      {
+        "heading": "Il sole come simbolo della realizzazione",
+        "text": "Il Sole richiamato nel verso è Āditya — la luce suprema che sostiene il cosmo. Chiedere che dissolva i propri raggi è chiedere che l'aspetto manifesto, brillante ma opaco alla Realtà, ceda il passo all'aspetto trascendente. La forma «supremamente benefica» (kalyāṇatama) del Sole è il Brahman nirguna — la Coscienza pura senza forma né attributi — che il praticante è ora pronto a riconoscere come il proprio Sé."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-16.json"
+  },
+  "expl-isha-1-17": {
+    "id": "expl-isha-1-17",
+    "target_type": "passage",
+    "target_id": "isha-1-17",
+    "title": "Il respiro si fonde nell'immortale: il corpo torna alla cenere, la mente ricorda",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questo verso è una preghiera pronunciata al momento della morte o meditata come preparazione alla morte. Il soffio vitale individuale (prāṇa) è invitato a fondersi col Soffio cosmico immortale (anila, il vento universale) — ovvero: l'aspetto vitale individuale si reintegra nell'aspetto cosmico da cui proveniva. Il corpo si dissolve negli elementi — «cenere» — come è naturale che accada. E la mente (kratu) è esortata a ricordare le azioni compiute (kṛtaṃ smara): non per rimorso, ma perché la coscienza porti con sé il frutto di ciò che ha realizzato."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Questo verso non è una preghiera alla morte come fine. È il riconoscimento che la morte è una reintegrazione. Il soffio vitale individuale non si annulla: si espande nel soffio cosmico. Il corpo non è perduto: ritorna all'origine che è sempre stata la sua — gli elementi. L'unica cosa che conta è ciò che la mente ha realizzato in vita. «Ricorda le opere compiute» è il promemoria che la vita ha senso solo nella misura in cui è stata orientata verso la Realtà."
+      },
+      {
+        "heading": "Il contesto della preghiera finale",
+        "text": "I versetti 15-18 formano un'unità: sono le preghiere del praticante al momento del trapasso, o la meditazione sul trapasso come esercizio spirituale. Non sono morbosità: sono lucidità. Chi ha contemplato la propria morte con chiarezza e serenità ha già sciolto il nodo più profondo dell'attaccamento all'esistenza individuale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-17.json"
+  },
+  "expl-isha-1-18": {
+    "id": "expl-isha-1-18",
+    "target_type": "passage",
+    "target_id": "isha-1-18",
+    "title": "L'invocazione ad Agni: guidaci per la retta via verso il Bene",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il verso finale della Īśā Upaniṣad è un'invocazione ad Agni — il Fuoco sacro, principio della discriminazione e della purificazione. «Guidaci per la retta via verso il Bene» (supathā rāye): la «via retta» (supathā) non è semplicemente una via morale, ma la via della conoscenza che conduce alla Realtà (rāye, il Bene assoluto). Si chiede anche di allontanare «l'errore sinuoso e obliquo» — la via tortuosa dell'illusione che sembra luminosa ma porta lontano dalla Verità. Il verso si chiude con un atto di omaggio pieno e totale (te namaḥ)."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Agni — il Fuoco — è in tutte le tradizioni il simbolo del discernimento (viveka): il fuoco distingue, brucia ciò che è impuro, rivela ciò che è essenziale. Invocare Agni come guida significa chiedere la capacità di distinguere il Reale dall'illusorio, il permanente dall'impermanente, l'Ātman dal non-Ātman. «L'errore sinuoso» (juhurāṇam) è il pensiero che si aggroviglia nelle proprie costruzioni e non vede più la strada dritta verso la Verità."
+      },
+      {
+        "heading": "La chiusura dell'Upaniṣad",
+        "text": "Il fatto che la Īśā si chiuda con una preghiera — dopo le grandi affermazioni dottrinali dei versetti precedenti — è significativo. La conoscenza metafisica più alta non produce arroganza: produce umiltà e gratitudine. Chi ha riconosciuto il Sé sa che questo riconoscimento è possibile solo grazie alla grazia del Principio stesso che si rivela. L'ultimo gesto è quindi un atto di dedizione totale: «Ti rendiamo il nostro omaggio più abbondante»."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-18.json"
+  },
+  "expl-isha-1-2": {
+    "id": "expl-isha-1-2",
+    "target_type": "passage",
+    "target_id": "isha-1-2",
+    "title": "L'azione purificata che non vincola: come agire senza diventare schiavi dell'azione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il primo verso ha stabilito che tutto è avvolto dal Signore (Īśa) e che il distacco è la via vera. Ma allora: deve l'uomo rinunciare a ogni azione e ritirarsi dal mondo? Questo verso risponde: no. Per colui che non è ancora giunto alla conoscenza non-duale piena — e questa è la condizione della grande maggioranza degli esseri umani — agire nel mondo è non solo lecito, ma necessario. L'azione compiuta secondo il dovere (dharma), senza brama e senza la pretesa di essere l'autore del risultato, non produce legame (karma): scivola via dall'agente come l'acqua scivola via da un petalo di loto."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "L'Advaita Vedānta non è una dottrina del ritiro passivo. Per chi non ha ancora realizzato la propria identità con il Sé immutabile (Ātman), l'azione rituale e morale è la strada obbligata. «Cent'anni» non è un numero letterale: indica l'intera durata della vita. L'invito è a non spezzare artificialmente l'azione prima di aver raggiunto la maturità interiore che rende possibile la conoscenza liberatrice. Chi invece rinuncia all'azione per pigrizia o confusione — senza la vera realizzazione — si inganna."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Questo verso non insegna che l'azione produce la liberazione. Insegna che l'azione purificata — compiuta senza attaccamento al frutto e senza l'illusione di essere agente autonomo — non produce legame. È una purificazione preparatoria, non la meta finale. La meta è la conoscenza del Sé (ātma-jñāna), a cui questo tipo di azione apre la strada."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-2.json"
+  },
+  "expl-isha-1-3": {
+    "id": "expl-isha-1-3",
+    "target_type": "passage",
+    "target_id": "isha-1-3",
+    "title": "Uccidere il Sé: cosa significa ignorare la propria vera natura",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questo verso descrive chi «uccide il proprio Sé» (ātma-han). Non si tratta di suicidio fisico. Chi uccide il Sé è colui che vive come se il proprio Sé profondo (Ātman) non esistesse: si identifica esclusivamente con il corpo, con le passioni, con la mente, agendo come se l'Ātman immutabile e immortale non fosse la sua vera natura. Costoro, dopo la morte, muovono verso «mondi privi di luce spirituale» — stati di esistenza dove il buio dell'ignoranza (avidyā) è ancora più fitto."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Il verso non minaccia: descrive una conseguenza naturale. Chi si identifica interamente con ciò che è temporaneo (il corpo, le sensazioni, le opinioni) continua, anche dopo la morte di questo corpo, in un piano dove questa confusione è ancora più radicata. La vera «morte» non è la dissoluzione del corpo fisico, ma il perpetuarsi dell'ignoranza del Sé. Il contrario — la vita orientata verso la conoscenza del Sé — è la vera vita."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "«Uccidere il Sé» non significa commettere azioni malvagie nel senso ordinario. Significa più radicalmente: vivere come se il Principio immortale in noi non esistesse, trattare il corpo e la mente come l'identità ultima e definitiva. Anche una persona esternamente virtuosa può essere un ātma-han se non ha mai posto la domanda fondamentale: «Chi sono io al di là del corpo e della mente?»."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-3.json"
+  },
+  "expl-isha-1-4": {
+    "id": "expl-isha-1-4",
+    "target_type": "passage",
+    "target_id": "isha-1-4",
+    "title": "Il Sé immobile che precede ogni movimento: la natura paradossale di Brahman",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Brahman — la Realtà assoluta, il Sé di tutto — è descritto con immagini che sembrano contraddirsi: è immobile, eppure più rapido della mente; non può essere raggiunto dai sensi, eppure è già presente dappertutto prima che essi si muovano. «Più rapido della mente» non significa veloce nel senso fisico. Significa che Brahman precede logicamente e ontologicamente ogni movimento mentale: quando la mente pensa di avanzare verso di Lui, Egli è già lì, presente prima ancora che la mente si muova."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Questo verso insegna che Brahman non è un oggetto che si possa raggiungere spostandosi da un punto a un altro. Non è lontano in un luogo che la mente deve raggiungere. È il Principio stesso che rende possibile ogni movimento e ogni pensiero. Il Soffio cosmico (Mātariśvan) — il principio dinamico dell'universo — può agire solo perché è sostenuto dalla presenza immobile di Brahman. Tutto ciò che «va» va solo grazie a ciò che non va da nessuna parte."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non bisogna fraintendere questa immobilità come inerzia o assenza. Brahman è pienamente presente e attivo in ogni cosa, ma non è trascinato dai movimenti che sostiene. Come lo spazio (ākāśa) contiene ogni movimento senza essere mosso da esso, così il Sé contiene tutti i processi cosmici senza essere toccato da essi. La sua «immobilità» è la stabilità assoluta del Principio, non l'assenza di vitalità."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-4.json"
+  },
+  "expl-isha-1-5": {
+    "id": "expl-isha-1-5",
+    "target_type": "passage",
+    "target_id": "isha-1-5",
+    "title": "Dentro e fuori, vicino e lontano: Brahman non è confinabile in nessun luogo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Esso si muove e non si muove; è lontano ed è vicino; è all'interno di tutto e all'esterno di tutto.» Questo verso accumula quattro paradossi. Non sono contraddizioni irrisolte: sono il linguaggio necessario per descrivere una Realtà che trascende ogni categoria che la mente usa per dividere il mondo in «qui» e «là», «dentro» e «fuori», «fermo» e «in moto». Brahman non appartiene a nessuna di queste categorie, e tuttavia le sostiene tutte."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Quando cerchiamo Brahman come se fosse un oggetto nascosto in un luogo determinato, ci allontaniamo dalla comprensione. Brahman è la condizione di possibilità di ogni «dove» e di ogni «quando». Non è lontano come un Dio remoto in un cielo separato, né è vicino nel senso di uno spazio fisico ridotto. È l'unica Realtà che pervade il tutto senza essere limitata dal tutto. Comprendere questo dissolve sia il senso di separazione dal Divino (Esso non è lontano) sia l'idea di poterLo rinchiudere in un'esperienza soggettiva (Esso non è solo «dentro di me»)."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non si tratta di un panteismo che identifica Brahman con la totalità del mondo fenomenico. Il verso dice sia «interno» che «esterno»: Brahman pervade il cosmo ma non è esaurito da esso. È la Realtà di tutto, senza essere ridotta a nessuna parte del tutto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-5.json"
+  },
+  "expl-isha-1-6": {
+    "id": "expl-isha-1-6",
+    "target_type": "passage",
+    "target_id": "isha-1-6",
+    "title": "Vedere il Sé in tutto: la fine della separazione e della ripulsa",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Colui che contempla tutti gli esseri nel Sé, e il Sé in tutti gli esseri, non prova più ripulsa né senso di separazione.» Questo verso descrive la trasformazione della visione operata dalla conoscenza non-duale. Chi vede la Realtà unica (Ātman/Brahman) come sostrato di ogni essere non può più provare ripulsa verso nessuna creatura, perché non c'è più un «altro» completamente separato da sé. Il senso di estraneità — radice di ogni avversione, paura e violenza — svanisce."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "La contemplazione di cui parla il verso non è un esercizio di immaginazione («immagino che tutti siamo uno»). È il frutto della conoscenza discriminante (viveka) che ha compreso che l'Ātman — il Testimone puro, la Coscienza — è identico in tutti gli esseri. Non è che le differenze esteriori scompaiano: il corpo rimane il corpo, la mente rimane la mente. Ma la sostanza profonda di ogni essere è riconosciuta come la stessa Realtà unica. Questo riconoscimento, quando è autentico, dissolve la radice dell'odio e dell'indifferenza."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Questo verso non invita a un sentimentalismo universale del tipo «ama tutti». L'insegnamento è dottrinale e metafisico: la mancanza di ripulsa nasce dalla visione intellettuale precisa dell'Unità, non da un'emozione coltivata. È la conseguenza naturale della conoscenza reale, non uno sforzo morale artificialmente imposto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-6.json"
+  },
+  "expl-isha-1-7": {
+    "id": "expl-isha-1-7",
+    "target_type": "passage",
+    "target_id": "isha-1-7",
+    "title": "Quando tutto è diventato il Sé: la fine dell'illusione e del dolore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Quando, per il conoscitore, tutti gli esseri sono divenuti il Sé stesso, quale inganno, quale dolore può sussistere per colui che scorge l'Unità essenziale?» Questo verso è la naturale conseguenza del verso precedente. Chi ha realizzato che l'unica Realtà è il Sé — che ogni essere è, nella sua natura più profonda, lo stesso Ātman — non ha più chi ingannare né chi far soffrire. L'inganno (moha) nasce dalla confusione che vede il «non-Sé» come il Sé, il transitorio come permanente. Il dolore (śoka) nasce dalla perdita di ciò che si credeva proprio. Chi ha riconosciuto il Sé in ogni essere non ha nulla da perdere, perché tutto è già il Sé."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Questo verso è una delle affermazioni più dirette della Īśā Upaniṣad sulla liberazione (mokṣa). La liberazione non è un evento futuro in un altro mondo: è il risultato immediato del riconoscimento della propria vera natura. Quando la visione è retta — quando si vede l'Unità (ekatva) ovunque — l'illusione di separazione cade, e con essa cadono le sue conseguenze naturali: inganno, dolore, paura."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Questa realizzazione non è indifferenza emotiva o apatia. Non significa diventare insensibili. Significa che la sofferenza causata dall'identificazione con ciò che è impermanente — «ho perso qualcosa che era mio» — non ha più terreno su cui germogliare. Il saggio che vede l'Unità non è un essere spento: è un essere pienamente vivo, ma non trascinato dalla corrente dell'illusione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-7.json"
+  },
+  "expl-isha-1-8": {
+    "id": "expl-isha-1-8",
+    "target_type": "passage",
+    "target_id": "isha-1-8",
+    "title": "L'Ātman puro: luminoso, incorporeo, privo di ogni limite",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questo verso descrive la natura dell'Ātman usando una serie di negazioni (neti neti — «non questo, non questo»): non ha corpo, non ha ferite né debolezze, non è macchiato dal male. È «luminoso» (śukra) — non di luce fisica, ma nel senso di pura Coscienza senza oscurità. È il «Veggente» (kavi): non colui che vede oggetti, ma la Visione stessa che rende possibile ogni vedere. È il «Signore della mente» (manīṣin): non è la mente, ma ciò che illumina e governa la mente senza esserne condizionato. È il «Trascendente» (paribhū) e l'«Autosussistente» (svayambhū): non dipende da nulla per esistere."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Questo verso è essenziale per capire cosa intendiamo con «Sé» (Ātman). Non è l'ego, non è la personalità, non è il complesso di emozioni e ricordi che chiamiamo «io». È la Coscienza pura, senza forma, senza divisioni, senza contaminazioni. Ha «ordinato rettamente» le cose del mondo «per cicli perenni» — non nel senso che interviene nei dettagli come un amministratore, ma nel senso che è il Principio ordinatore della Realtà, immutabile al di là di ogni ciclo cosmico."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "L'Ātman descritto qui non è un'anima individuale separata dalle altre anime. È il Sé universale, identico in ogni essere. Quando si dice che è «privo di ferita» e «puro», non si descrive un'entità spirituale privilegiata riservata ai saggi: si descrive la natura ultima di ogni essere vivente, nascosta sotto gli strati dell'ignoranza (avidyā) e dell'identificazione con il corpo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-8.json"
+  },
+  "expl-isha-1-9": {
+    "id": "expl-isha-1-9",
+    "target_type": "passage",
+    "target_id": "isha-1-9",
+    "title": "La doppia tenebra: il pericolo del rito senza conoscenza e della conoscenza senza azione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questo verso introduce la grande dialettica della Īśā Upaniṣad tra vidyā (conoscenza meditativa) e avidyā (azione rituale). Chi si dedica esclusivamente ai riti esteriori senza coltivare la comprensione interiore cade in una «cieca tenebra». Ma — paradosso sorprendente — chi si dedica esclusivamente alla conoscenza formale delle divinità cosmiche, separata dall'azione purificatrice, cade in una tenebra ancora più densa. Entrambe le vie unilaterali conducono all'errore."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Śaṅkara spiega che il termine avidyā in questo contesto non indica l'ignoranza metafisica fondamentale, ma l'azione rituale (karma) — la via dell'agire secondo il dharma. Il termine vidyā non indica la conoscenza del Sé non-duale, ma la meditazione sulle potenze cosmiche (devāḥ) come entità distinte. Chi si perde nell'azione senza comprensione si incatena al mondo fenomenico. Ma chi si rifugia nella meditazione sulle divinità come se fossero la Realtà ultima, senza passare attraverso la purificazione dell'azione, si inganna in modo ancora più sottile."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Il verso non condanna né il rito né la meditazione in assoluto. Li condanna quando sono praticati in esclusiva, come fini in sé stessi. La soluzione è indicata nei versetti successivi: la combinazione integrata di entrambe le vie, ciascuna usata per il risultato che le è proprio, prepara alla conoscenza liberatrice del Sé."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-9.json"
+  },
+  "expl-isha-1-shanti": {
+    "id": "expl-isha-1-shanti",
+    "target_type": "passage",
+    "target_id": "isha-1-shanti",
+    "title": "La Pienezza che non si riduce: l'Assoluto oltre ogni logica della quantità",
+    "sections": [
+      {
+        "heading": "Il senso della formula",
+        "text": "«Quello è la Pienezza, questo è la Pienezza. Dalla Pienezza scaturisce la Pienezza. Sottratta la Pienezza dalla Pienezza, la Pienezza sola permane.» Questa formula non è un indovinello matematico, ma un'affermazione precisa: l'Assoluto (Brahman, il Principio supremo) è pienezza integra e senza mancanza. Il cosmo manifesto — tutto ciò che vediamo e sperimentiamo — proviene da questa pienezza, ma non la diminuisce, perché la manifestazione non è una sottrazione dall'Infinito. L'Infinito che «produce» un mondo rimane Infinito intatto."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "La mente umana tende a ragionare in termini di quantità: se da qualcosa si toglie una parte, quella cosa si riduce. Questo verso insegna che il Principio supremo non funziona così. Non è un serbatoio finito che si svuota. La creazione del mondo non impoverisce Brahman, né la reintegrazione di tutto nel Principio lo arricchisce: Esso è sempre e solo la Pienezza assoluta. Comprendere questo libera dalla falsa impressione che il mondo fenomenico sia qualcosa di «separato» dall'Assoluto, o che l'Assoluto sia diventato il mondo perdendo la propria natura."
+      },
+      {
+        "heading": "Perché si recita come preghiera di pace",
+        "text": "Questo verso è il Śānti-pāṭha, la preghiera introduttiva alla Īśā Upaniṣad. Si recita tre volte «pace» (śāntiḥ) per purificare le tre fonti di turbamento: il corpo, la mente e le forze esterne. Chi entra nello studio di un testo sacro con questa consapevolezza — che tutto già è la Pienezza — riceve l'insegnamento in una disposizione interiore non perturbata dalla brama o dalla paura."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-shanti.json"
+  },
   "expl-kena-1-1": {
     "id": "expl-kena-1-1",
     "target_type": "passage",
@@ -43,6 +439,28 @@
     "editorial_status": "established",
     "source_file": "explanations/expl-kena-1-1.json"
   },
+  "expl-kena-1-2": {
+    "id": "expl-kena-1-2",
+    "target_type": "passage",
+    "target_id": "kena-1-2",
+    "title": "L'Orecchio dell'orecchio: Brahman è ciò che rende possibili i sensi stessi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il verso 1 della Kena ha posto la domanda: cosa mette in moto la mente, il respiro, la parola, l'occhio, l'orecchio? Questo verso risponde con una serie di formule paradossali: Brahman è «l'Orecchio dell'orecchio, la Mente della mente, il Prāṇa del prāṇa, la Parola della parola, l'Occhio dell'occhio». Significa: Brahman è il Principio che rende possibile ogni funzione sensoriale e mentale, senza essere esso stesso un senso o una mente. I saggi (dhīrāḥ) che comprendono questo, liberandosi dall'identificazione con questi strumenti, diventano immortali."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Normalmente crediamo che i sensi «facciano» da soli: l'occhio vede, l'orecchio ode. Questo verso insegna che ogni atto sensoriale è reso possibile da una Coscienza più profonda che li precede e li illumina. L'orecchio ode i suoni, ma Brahman è ciò per cui l'orecchio stesso può odonarli — è la presenza cosciente che dà vita all'organo sensoriale. Questo Principio non è un'altra facoltà, più sottile: è la Coscienza pura (Sākṣin, il Testimone) che sta dietro ogni esperienza."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "«Orecchio dell'orecchio» non significa un orecchio spirituale che ode cose nascoste. Indica la Coscienza trascendente che rende possibile l'udire in sé — non come funzione ulteriore, ma come condizione assoluta. I saggi diventano «immortali» non per una ricompensa futura, ma perché, riconoscendo il Sé come questa Coscienza, si liberano dall'identificazione con i processi temporanei del corpo e della mente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-2.json"
+  },
   "expl-kena-1-3": {
     "id": "expl-kena-1-3",
     "target_type": "passage",
@@ -64,5 +482,731 @@
     ],
     "editorial_status": "established",
     "source_file": "explanations/expl-kena-1-3.json"
+  },
+  "expl-kena-1-4": {
+    "id": "expl-kena-1-4",
+    "target_type": "passage",
+    "target_id": "kena-1-4",
+    "title": "Ciò che la mente non pensa: Brahman è il Pensante del pensiero",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Ciò che la mente non pensa, ma grazie a cui la mente è pensata — Quello solo è Brahman, non ciò che qui si venerava.» La mente può pensare oggetti, concetti, immagini. Ma ciò che rende possibile il pensiero in sé — la Coscienza che illumina il pensare — non può diventare oggetto del pensiero. Se potesse, sarebbe ancora un pensiero, non il Principio che precede ogni pensiero. Brahman non è un oggetto tra altri oggetti, nemmeno il più grande o il più sottile."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Questo è uno dei cardini dell'Advaita Vedānta: Brahman non può essere conosciuto come si conosce un oggetto. La mente che cerca Brahman come se fosse un oggetto nascosto in qualche luogo si inganna. Brahman è il Soggetto assoluto — ciò che conosce tutto, senza essere mai a sua volta conosciuto come oggetto da qualcuno. «Non ciò che qui si venerava» è l'ammonimento contro ogni idolatria concettuale: qualsiasi idea o immagine di Brahman che la mente produce non è Brahman — è ancora un pensiero."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Questo insegnamento non è agnosticismo o nichilismo. Non dice «Brahman è inconoscibile, quindi è inutile cercarlo». Dice: Brahman non è conoscibile come oggetto, ma è riconoscibile come il Soggetto che sei sempre già stato. Non si raggiunge Brahman andando altrove: si riconosce che Esso è già la propria vera natura, sempre presente, mai assente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-4.json"
+  },
+  "expl-kena-1-5": {
+    "id": "expl-kena-1-5",
+    "target_type": "passage",
+    "target_id": "kena-1-5",
+    "title": "Ciò che l'occhio non vede: Brahman è il Vedere del vedere",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Ciò che non si vede con l'occhio, ma grazie a cui gli occhi vedono — Quello solo è Brahman.» L'occhio vede forme e colori. Ma l'occhio non può vedere la Coscienza che rende possibile il vedere stesso. Non c'è nessun oggetto che, una volta visto, sia Brahman. Brahman è il Vedere assoluto — non una visione tra altre visioni, ma la capacità di vedere in quanto tale, che illumina ogni singolo atto visivo senza mai presentarsi come oggetto visibile."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "I versetti da 4 a 8 della Kena costruiscono la stessa struttura ripetuta per mente, occhio, orecchio, parola e respiro: in tutti i casi, Brahman è il Principio che li rende operanti, non un'altra operazione più sottile. Questa ripetizione non è ridondanza: è un metodo pedagogico. Applicare lo stesso riconoscimento a ogni facoltà — «non questo, non questo» (neti neti) — costruisce gradualmente la comprensione che il Sé non è identificabile con nessuna delle proprie facoltà, pur essendo la radice di tutte."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non si tratta di affermare che Brahman è invisibile nel senso di nascosto o misterioso. Si tratta di affermare che Brahman è la Visibilità stessa — la luce della Coscienza che rende visibile ogni cosa visibile. Come la lampada non si illumina da sé ma illumina tutto ciò che è nella stanza, così Brahman non ha bisogno di essere illuminato: è l'Illuminazione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-5.json"
+  },
+  "expl-kena-1-6": {
+    "id": "expl-kena-1-6",
+    "target_type": "passage",
+    "target_id": "kena-1-6",
+    "title": "Ciò che l'orecchio non ode: Brahman è l'Udire del sentire",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Ciò che non si ode con l'orecchio, ma grazie a cui l'udito ode — Quello solo è Brahman.» Lo stesso principio si applica all'udito: l'orecchio può percepire suoni, voci, silenzi. Ma la Coscienza che rende possibile l'udire in sé — che «ascolta» l'orecchio mentre ode — non può a sua volta essere udita come un suono. Brahman è il silenzio che contiene tutti i suoni senza essere contenuto da nessuno."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Nella meditazione profonda, quando i suoni esteriori si affievoliscono, si può avvertire una presenza silenziosa che «ode» tutto — compresi i propri pensieri. Questo silenzio presente non è assenza di suono: è la Coscienza testimone, il Sākṣin. Riconoscere questo silenzio come la propria vera natura è il primo passo verso la comprensione di Brahman non come oggetto, ma come il Soggetto che si è sempre stati."
+      },
+      {
+        "heading": "Il metodo della via negativa",
+        "text": "I versetti 4-7 applicano sistematicamente la via negativa (neti neti): Brahman non è ciò che la mente pensa, non è ciò che l'occhio vede, non è ciò che l'orecchio ode, non è ciò che il prāṇa anima. Questo metodo non lascia il praticante nel vuoto: a ogni negazione si accompagna l'affermazione positiva — «ma è grazie a Esso che...» — che orienta verso il riconoscimento della Presenza che rende possibile tutto il resto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-6.json"
+  },
+  "expl-kena-1-7": {
+    "id": "expl-kena-1-7",
+    "target_type": "passage",
+    "target_id": "kena-1-7",
+    "title": "Ciò che il respiro non anima: Brahman è la Vita della vita stessa",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Ciò per cui il prāṇa non anima, ma grazie a cui il prāṇa è animato — Quello solo è Brahman.» Il prāṇa è il soffio vitale: il principio di vita che fa battere il cuore, muovere i polmoni, circolare il sangue. Eppure anche il prāṇa non è autonomo: è animato da un Principio che lo precede. Brahman è la Vita della vita — non un'altra forma di energia biologica, più sottile, ma il Principio che rende possibile ogni forma di vitalità."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Tendiamo a identificarci con il corpo vivo — «io sono questo corpo che respira, che sente, che pensa». La serie di negazioni della Kena smonta sistematicamente ogni identificazione: non sono il pensiero (kena-1-4), non sono la visione (1-5), non sono il suono che ascolto (1-6), non sono nemmeno il respiro che mi dà vita (1-7). Cosa rimane quando tutto questo viene negato? Rimane il Testimone puro — la Coscienza senza forma che illumina tutto questo senza essere nessuna di queste cose."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non si tratta di negare il corpo o la vita biologica come illusori nel senso di inesistenti. Il corpo è reale a livello fenomenico. Ciò che viene negato è l'identificazione esclusiva: credere che il corpo, il respiro, la mente siano la mia identità ultima. La Coscienza che li anima e li testimonia è più fondamentale di qualsiasi processo che essa illumina."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-7.json"
+  },
+  "expl-kena-1-8": {
+    "id": "expl-kena-1-8",
+    "target_type": "passage",
+    "target_id": "kena-1-8",
+    "title": "Brahman non è conoscibile come oggetto: il paradosso che libera",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questo versetto conclude il primo movimento del primo capitolo, esprimendo il paradosso centrale: Brahman non è «conosciuto» da chi Lo conosce come un oggetto distinto da sé, ma è «conosciuto» da chi comprende che Esso è il proprio Sé — il Soggetto stesso della conoscenza. Non c'è un oggetto chiamato «Brahman» a cui si possa puntare il dito: se si potesse, non sarebbe Brahman, ma ancora un oggetto tra oggetti."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Il capitolo primo della Kena costruisce passo a passo una comprensione precisa: Brahman non è accessibile attraverso nessuna facoltà ordinaria — mente, sensi, linguaggio, respiro — perché tutte queste facoltà sono strumenti che Brahman stesso rende operanti. La via verso Brahman non è «aggiungere» una nuova facoltà o una nuova esperienza, ma «togliere» l'identificazione errata con ciò che non è il Sé, finché rimane solo la Coscienza pura che è sempre già stata presente."
+      },
+      {
+        "heading": "Il metodo della Kena Upaniṣad",
+        "text": "La Kena procede per via negativa nel primo capitolo, per via della comprensione diretta nel secondo (pratibodha), e per via dell'allegoria nel terzo (lo Yakṣa). Questi tre movimenti sono complementari: la negazione purifica, la comprensione diretta illumina, l'allegoria radica l'insegnamento nella concretezza dell'esperienza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-8.json"
+  },
+  "expl-kena-1-9": {
+    "id": "expl-kena-1-9",
+    "target_type": "passage",
+    "target_id": "kena-1-9",
+    "title": "Brahman non si insegna discorsivamente: il Soggetto che non diventa oggetto",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "La conclusione del primo capitolo afferma che Brahman non può essere trasmesso attraverso il discorso ordinario — mediante generi, differenze, analogie e categorie concettuali. L'insegnamento convenzionale funziona dicendo «questo è simile a quello», «questo appartiene a questa categoria». Ma Brahman è senza genere, senza categoria, senza uguale al di fuori di Sé. Non esiste un termine di paragone esterno con cui definirLo. Il maestro autentico non «trasmette» Brahman come un'informazione: guida il discepolo alla rimozione degli ostacoli che impediscono il riconoscimento diretto."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "L'insegnamento del Sé è diverso da qualsiasi altro insegnamento. In filosofia o in scienze si apprende qualcosa che non si sapeva: nuovi contenuti vengono aggiunti alla mente. L'insegnamento di Brahman opera invece per sottrazione: non aggiunge contenuti nuovi, ma dissolve le identificazioni erronee che oscuravano ciò che era già presente. Per questo il rapporto tra guru e discepolo è fondamentale nella tradizione vedāntica: non è un trasferimento di informazioni, ma un processo di chiarificazione della visione."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Affermare che Brahman non si insegna discorsivamente non significa che le Upaniṣad siano inutili o che la parola del maestro non conti. Le Upaniṣad e l'insegnamento orale servono come fattori causali che preparano il riconoscimento — ma il riconoscimento stesso è immediato, diretto, non mediato da concetti. Le parole indicano la Luna; bisogna guardare la Luna, non il dito."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-9.json"
+  },
+  "expl-kena-2-1": {
+    "id": "expl-kena-2-1",
+    "target_type": "passage",
+    "target_id": "kena-2-1",
+    "title": "Chi crede di conoscere Brahman in realtà non Lo conosce ancora pienamente",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il maestro si rivolge al discepolo: «Se credi di conoscere Brahman bene, allora ne conosci solo una forma minima — quella che si manifesta in te e negli dèi. Brahman rimane ancora da indagare pienamente.» Il verso non scoraggia: avverte. Chi pensa di aver già compreso Brahman come un oggetto di sapere — una dottrina appresa, un concetto acquisito — ha ancora davanti a sé la comprensione autentica. La conoscenza vera non è l'accumulo di dottrina ma il riconoscimento diretto."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Questo verso introduce il secondo capitolo della Kena, che tratta della conoscenza come evento immediato (pratibodha). La forma «minima» di Brahman conosciuta dall'individuo comune è la presenza della Coscienza nella propria esperienza — reale ma parzialmente velata dall'identificazione col corpo-mente. La forma «negli dèi» è la Coscienza cosmica che organizza il mondo fenomenico. Entrambe sono aspetti reali, ma Brahman in senso assoluto li trascende entrambi."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Il verso non intende sminuire il discepolo. Intende purificarlo dalla presunzione di chi ha letto le scritture e crede di aver già «capito tutto». La conoscenza intellettuale delle Upaniṣad è un punto di partenza, non un punto di arrivo. Il riconoscimento diretto del Sé — non come concetto ma come realtà vissuta — è un passo ulteriore che richiede maturità interiore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-2-1.json"
+  },
+  "expl-kena-2-2": {
+    "id": "expl-kena-2-2",
+    "target_type": "passage",
+    "target_id": "kena-2-2",
+    "title": "Il paradosso della conoscenza di Brahman: chi Lo conosce davvero non pensa di conoscerLo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Non penso di conoscerLo bene, ma non dico di non conoscerLo. Chi tra noi Lo conosce davvero — né pensa di non conoscerLo né crede di conoscerLo.» Questo è uno dei passi più incisivi dell'intera tradizione upaniṣadica. Contiene un doppio paradosso: chi pensa di conoscere Brahman (come oggetto di sapere) non Lo conosce ancora veramente; ma chi pensa di non conoscerLo del tutto si sbaglia anch'egli, perché Brahman è la propria natura profonda, sempre già presente."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Il vero conoscitore di Brahman non ha una posizione dottrinale da difendere («io so cosa è Brahman») né un'ignoranza da lamentare («io non so nulla di Brahman»). Sa — ma non in modo oggettivo. Sa perché riconosce Brahman come il Sé, non come un oggetto esterno. Questo riconoscimento è silenzioso, non verbale: non può essere «esibito» come un sapere acquisito. È la certezza del proprio essere — più certa di qualsiasi altro sapere — ma priva di qualsiasi contenuto oggettivo da comunicare."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Questo non è scetticismo né agnosticismo. Non si dice «Brahman non è conoscibile, quindi non sappiamo nulla». Si dice: la conoscenza di Brahman è di tipo radicalmente diverso da ogni altra conoscenza. Non è conoscenza di un oggetto, ma riconoscimento di sé come Soggetto assoluto. Chi ha raggiunto questo riconoscimento sa — ma sa in modo che non si lascia ridurre né a «ho capito» né a «non ho capito»."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-2-2.json"
+  },
+  "expl-kena-2-3": {
+    "id": "expl-kena-2-3",
+    "target_type": "passage",
+    "target_id": "kena-2-3",
+    "title": "Sconosciuto a chi crede di sapere, conosciuto a chi crede di non sapere",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Colui per cui Brahman non è oggetto di pensiero discorsivo — questi Lo conosce; colui per cui è un oggetto di sapere — questi non Lo conosce. È sconosciuto a chi crede di saperLo; è conosciuto a chi crede di non saperLo.» Questo verso capovolge l'aspettativa ordinaria: di solito pensiamo che conoscere significhi avere un contenuto mentale chiaro. Qui si afferma che chi ha un contenuto mentale su Brahman non Lo conosce nel senso profondo; chi rimane umile, riconoscendo l'inadeguatezza di ogni formulazione concettuale, è paradossalmente più vicino alla Realtà."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "L'umiltà epistemica — il riconoscimento che la mente non può contenere Brahman — non è ignoranza: è la forma più alta di apertura alla comprensione. Chi è convinto di aver già capito chiude la mente alla possibilità di un riconoscimento autentico. Chi rimane aperto, sapendo che il pensiero discorsivo non esaurisce la Realtà, mantiene viva la porta attraverso cui il riconoscimento diretto (pratibodha) può avvenire."
+      },
+      {
+        "heading": "Il ruolo della docta ignorantia",
+        "text": "Questo insegnamento è parallelo alla «dotta ignoranza» di cui parlano molte tradizioni metafisiche: non l'ignoranza grezza di chi non ha mai cercato, ma la consapevolezza lucida dei limiti del sapere ordinario, conquistata attraverso la ricerca autentica. È la porta verso la conoscenza di un tipo diverso — non oggettiva, ma identitaria: riconoscimento di sé come Brahman."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-2-3.json"
+  },
+  "expl-kena-2-4": {
+    "id": "expl-kena-2-4",
+    "target_type": "passage",
+    "target_id": "kena-2-4",
+    "title": "Pratibodha: Brahman riconosciuto in ogni atto di conoscenza — la via all'immortalità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Conosciuto in ogni atto di conoscenza (pratibodha-viditam), si giunge all'immortalità; mediante il Sé si trova la potenza; mediante la conoscenza si trova l'immortalità.» Il termine pratibodha è cruciale: significa letteralmente «riconosciuto in ogni atto di risveglio» — ovvero, Brahman si riconosce non come oggetto separato, ma come la luce della Coscienza che illumina ogni singolo atto cognitivo. Non è qualcosa che si trova alla fine di un lungo percorso: è presente in ogni istante di conoscenza consapevole."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Ogni volta che percepisci qualcosa — un suono, un pensiero, una sensazione — c'è qualcosa che percepisce. Quella presenza che percepisce, silenziosa e sempre presente, è Brahman. Pratibodha indica il riconoscimento di questa presenza non come teoria, ma come evidenza diretta in ogni momento di coscienza. Non è necessario attendere un'esperienza mistica straordinaria: la Coscienza è già qui, nell'atto ordinario di conoscere."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "«Immortalità» in questo contesto non si riferisce alla sopravvivenza biologica del corpo. Indica la liberazione dall'identificazione con ciò che è mortale — il corpo, la mente, la personalità transitoria. Riconoscendo il Sé (Ātman) come la propria vera natura — che è identica a Brahman — si trascende il ciclo della nascita e della morte non come evento futuro, ma come riconoscimento presente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-2-4.json"
+  },
+  "expl-kena-2-5": {
+    "id": "expl-kena-2-5",
+    "target_type": "passage",
+    "target_id": "kena-2-5",
+    "title": "Conoscere in questa vita o perdere tutto: l'urgenza della realizzazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Se in questa vita si è raggiunta la conoscenza, allora v'è Verità; se in questa vita non si è raggiunta, grande è la perdita. I saggi, avendo discriminato Brahman in ogni essere, dipartendo da questo mondo divengono immortali.» Il verso pone l'urgenza della realizzazione nella vita presente — non in una vita futura indefinita. Chi ha conosciuto Brahman in questa vita ha trovato la Verità stabile. Chi non l'ha trovata ha «perso» qualcosa di essenziale, anche se esteriormente la vita sembra completa."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "L'Advaita Vedānta non è pessimista riguardo alla condizione umana, ma è urgente. La vita umana — con le sue capacità di riflessione, discriminazione e comprensione — è il veicolo privilegiato per la realizzazione. Non perché altre forme di esistenza siano senza valore, ma perché la facoltà intellettiva matura necessaria per la comprensione del Sé è propria della condizione umana. «Perdere» questa opportunità non significa una punizione: significa continuare nel ciclo dell'esistenza condizionata senza aver visto la via d'uscita."
+      },
+      {
+        "heading": "I saggi che discriminano Brahman in ogni essere",
+        "text": "La frase finale del capitolo 2 riassume il metodo: i dhīrāḥ (saggi saldi) «discriminano» (vicintya) Brahman in ogni essere — ovvero, applicano la discriminazione (viveka) in modo sistematico e continuato finché il riconoscimento diventa stabile. Non è una comprensione improvvisa e fuggevole: è una discriminazione applicata pazientemente a ogni esperienza, finché la presenza di Brahman come Sé diventa la certezza fondamentale dell'esistenza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-2-5.json"
+  },
+  "expl-kena-3-1": {
+    "id": "expl-kena-3-1",
+    "target_type": "passage",
+    "target_id": "kena-3-1",
+    "title": "La vittoria degli dèi e l'orgoglio dell'ignoranza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Gli dèi sconfiggono un grande nemico e si attribuiscono la vittoria come se fosse merito loro. Questo gesto apparentemente naturale — rivendicare ciò che si è fatto — è in realtà la radice dell'ignoranza metafisica. Gli dèi sono le potenze cosmiche (le forze della natura e dell'essere manifestato), e la loro vittoria non è stata ottenuta per virtù propria, ma grazie a Brahman, la Realtà assoluta che sostiene ogni azione."
+      },
+      {
+        "heading": "L'equivoco fondamentale",
+        "text": "Attribuirsi una vittoria che appartiene a Brahman è l'errore primordiale: confondere lo strumento con la causa. Il fuoco brucia, il vento soffia, le potenze agiscono — ma nessuna di esse agisce da sé. Tutte esistono e operano solo in quanto manifestazioni della Realtà unica. Ignorare questo è la forma più sottile di ignoranza (avidyā): non la negazione grossolana di Dio, ma il dimenticare chi davvero è l'unico agente."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "L'inizio di questo capitolo pone la domanda che percorrerà tutta la Kena Upaniṣad: chi è il vero soggetto di ogni azione? La risposta non è gli dèi, non è l'uomo, non è nessuna potenza particolare. È Brahman, l'unico Essere senza secondo. Prima di poter conoscere Brahman, bisogna riconoscere questo errore in noi stessi: l'abitudine a credere di essere gli autori di ciò che facciamo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-1.json"
+  },
+  "expl-kena-3-10": {
+    "id": "expl-kena-3-10",
+    "target_type": "passage",
+    "target_id": "kena-3-10",
+    "title": "Indra chiede a Umā: «Chi era quell'essere misterioso?»",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Indra si rivolge a Umā Haimavatī e le pone la domanda che brucia: chi era quello Yakṣa? Chi era quella presenza luminosa e incomprensibile che né il fuoco né il vento avevano saputo riconoscere? La domanda di Indra è la domanda giusta. Non «cosa posso fare?» — come avevano risposto Agni e Vāyu — ma «chi è Quello?». È il primo passo verso la vera conoscenza: il riconoscere di non sapere e il cercare un maestro."
+      },
+      {
+        "heading": "Il valore della domanda",
+        "text": "In tutta la letteratura upaniṣadica, il porre la domanda corretta è già metà del cammino. Agni e Vāyu erano partiti senza vera domanda: avevano solo il compito di scoprire. Indra, invece, si ferma davanti alla sapienza di Umā e chiede. Questa postura — l'interrogare con umiltà una fonte di conoscenza superiore — è il modello stesso del rapporto guru-śiṣya (maestro-discepolo) che il Vedānta considera il veicolo principale della trasmissione della conoscenza."
+      },
+      {
+        "heading": "Perché è importante",
+        "text": "Indra davanti a Umā rappresenta ogni cercatore genuino: colui che ha esaurito i propri mezzi ordinari di comprensione e si apre alla rivelazione. Non si tratta di debolezza ma di maturità spirituale. Solo quando la mente smette di cercare con le proprie forze e si dispone all'ascolto, la conoscenza autentica può fluire. Il domandare di Indra è dunque un atto di saggezza, non di ignoranza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-10.json"
+  },
+  "expl-kena-3-11": {
+    "id": "expl-kena-3-11",
+    "target_type": "passage",
+    "target_id": "kena-3-11",
+    "title": "Umā rivela: «Era Brahman — per Sua grazia hai vinto»",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Umā risponde ad Indra con chiarezza assoluta: quello Yakṣa era Brahman, l'Essere supremo. E aggiunge la seconda parte essenziale: la vittoria che gli dèi avevano attribuito a se stessi era in realtà gloria di Brahman. Senza Brahman, nessuna vittoria sarebbe stata possibile. La rivelazione di Umā è così la risposta alla domanda aperta dal primo versetto del capitolo: chi aveva davvero vinto?"
+      },
+      {
+        "heading": "La struttura della rivelazione",
+        "text": "Umā non offre una spiegazione filosofica astratta. Enuncia due fatti: l'identità dello Yakṣa (Brahman) e la vera origine della vittoria (anch'essa Brahman). Questi due fatti sono lo stesso fatto visto da due angolazioni: Brahman è sia la Realtà assoluta da conoscere, sia la potenza che opera in ogni azione apparentemente compiuta da altri. Conoscere Brahman e riconoscere Brahman come unico agente sono un'unica realizzazione."
+      },
+      {
+        "heading": "L'insegnamento essenziale",
+        "text": "Questo versetto è il cuore dell'intero terzo capitolo. Concentra in poche parole il messaggio dell'Advaita Vedānta: tutto ciò che esiste, tutto ciò che accade, tutto ciò che sembra essere opera di esseri particolari, è in realtà manifestazione dell'unica Realtà. Brahman non è un dio tra gli dèi, non è una forza tra le forze: è il sostrato di tutto, senza il quale nulla potrebbe né esistere né agire. Riconoscerlo è la liberazione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-11.json"
+  },
+  "expl-kena-3-12": {
+    "id": "expl-kena-3-12",
+    "target_type": "passage",
+    "target_id": "kena-3-12",
+    "title": "Indra supera gli altri dèi: la saggezza come distinzione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il versetto conclusivo del terzo capitolo afferma che Indra fu il primo a riconoscere che lo Yakṣa era Brahman, e per questo motivo supera in dignità gli altri dèi — Agni e Vāyu — che non erano riusciti a comprenderlo. La gerarchia degli dèi non è misurata dalla forza o dalla grandezza cosmica, ma dalla vicinanza alla Conoscenza. Chi conosce Brahman è il più grande, indipendentemente da ogni altra considerazione."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "In Advaita Vedānta, la conoscenza di Brahman (brahmavidyā) è considerata il bene supremo, superiore a ogni altro merito, potere o virtù. Il versetto lo afferma con precisione: Indra non è superiore perché è re degli dèi o perché ha vinto battaglie, ma perché ha ricevuto e compreso la rivelazione di Brahman. Questo principio vale anche per l'essere umano: nessun merito esteriore è paragonabile alla realizzazione di Brahman."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non si deve pensare che Indra abbia «capito da solo» o che la sua superiorità sia un vanto personale. Anche lui aveva bisogno di Umā Haimavatī per comprendere. La sua eccellenza sta nell'aver saputo domandare, ascoltare e ricevere la rivelazione — nel non essersi fermato all'orgoglio come Agni e Vāyu. La superiorità di Indra è dunque la superiorità della disposizione all'ascolto sulla presunzione dell'autosufficienza: una lezione rivolta a ogni cercatore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-12.json"
+  },
+  "expl-kena-3-2": {
+    "id": "expl-kena-3-2",
+    "target_type": "passage",
+    "target_id": "kena-3-2",
+    "title": "Lo Yakṣa appare: Brahman si rivela come mistero",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Brahman si manifesta dinanzi agli dèi sotto la forma di uno Yakṣa — una presenza luminosa, misteriosa, impossibile da classificare. Gli dèi lo vedono ma non lo riconoscono. Questa non-riconoscenza non è banale distrazione: è il simbolo esatto dell'ignoranza metafisica. Brahman è sempre lì, manifesto, eppure le potenze create non riescono a cogliere la sua natura."
+      },
+      {
+        "heading": "Perché uno Yakṣa?",
+        "text": "Nella tradizione indiana uno Yakṣa è un essere soprannaturale indefinito, né deva né demone, che sfugge alle categorie ordinarie. Brahman appare in questa forma proprio per indicare che Esso non rientra in nessuna categoria. Non è un dio tra gli dèi, non è una forza tra le forze: è la Realtà che precede e fonda ogni distinzione. Il fatto che nessuno riesca a identificarlo rivela che Brahman non è oggetto di conoscenza ordinaria."
+      },
+      {
+        "heading": "L'insegnamento essenziale",
+        "text": "Brahman non si sottrae: è presente, visibile, luminoso. Ma la mente che funziona per categorie, confronti e definizioni non può afferrarlo. Gli dèi — che rappresentano le facoltà cognitive e operative della manifestazione — sono strutturalmente incapaci di conoscere il loro stesso fondamento. Solo una conoscenza di natura diversa, non dualistica, può cogliere Brahman. Questo è il cuore dell'Advaita Vedānta."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-2.json"
+  },
+  "expl-kena-3-3": {
+    "id": "expl-kena-3-3",
+    "target_type": "passage",
+    "target_id": "kena-3-3",
+    "title": "Agni è inviato come esploratore: il fuoco affronta il mistero",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Incapaci di capire da soli, gli dèi delegano ad Agni — il dio del fuoco, primo tra le potenze divine — il compito di scoprire chi sia lo Yakṣa. Agni è il mediatore tra il mondo umano e quello divino, colui che trasforma e purifica. La sua scelta come primo esploratore non è casuale: il fuoco è la potenza più evidente, più attiva, quella che sembra capace di tutto."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Il fatto che gli dèi non vadano tutti insieme, ma inviino i loro rappresentanti uno alla volta, rivela la struttura pedagogica dell'episodio. Ogni tentativo fallito insegna qualcosa: nessuna potenza particolare, per quanto grande, è sufficiente a conoscere Brahman. Il racconto è costruito come una serie di lezioni progressive. Agni, Vāyu, Indra — ognuno rappresenta un livello crescente di comprensione, ma anche Agni e Vāyu partono con la medesima illusione di autosufficienza."
+      },
+      {
+        "heading": "Il simbolismo del fuoco",
+        "text": "Agni simboleggia la potenza trasformatrice per eccellenza, ma anche l'intelletto luminoso che distingue e separa. È la facoltà analitica applicata alla realtà. Il fatto che questa facoltà — così potente nell'ambito del mondo manifestato — fallisca davanti a Brahman indica che Brahman non è raggiungibile mediante l'analisi intellettuale, per quanto acuta. L'intelletto è uno strumento di Brahman, non il suo misuratore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-3.json"
+  },
+  "expl-kena-3-4": {
+    "id": "expl-kena-3-4",
+    "target_type": "passage",
+    "target_id": "kena-3-4",
+    "title": "Agni si vanta: «Sono Jātavedas, posso bruciare tutto»",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Lo Yakṣa interroga Agni: «Chi sei? Cosa puoi fare?». Agni risponde con orgoglio: è Jātavedas — nome glorioso che evoca la sua potenza universale — e può bruciare tutto ciò che esiste sulla terra. La risposta di Agni è la risposta di chi si definisce attraverso la propria funzione e il proprio potere. È la voce dell'ego cosmico che si presenta come autonomo e autosufficiente."
+      },
+      {
+        "heading": "L'equivoco da evitare",
+        "text": "Non si tratta di un difetto morale di Agni: egli dice il vero, nel senso che il fuoco ha davvero il potere di bruciare. L'errore è altrove: credere che questo potere gli appartenga in modo assoluto, che esista da sé e per sé. In realtà ogni potere — anche il più grande — è delegato da Brahman e dipende da Brahman per la propria esistenza e il proprio operare. Il vantarsi di Agni è l'errore di ogni potenza manifestata che dimentica il proprio fondamento."
+      },
+      {
+        "heading": "Perché è importante",
+        "text": "Questo versetto tocca una delle domande centrali della filosofia: cosa significa «io posso fare»? In Advaita Vedānta, l'agente apparente (qualsiasi esso sia: uomo, dio, elemento naturale) non è il vero soggetto dell'azione. Il soggetto ultimo è l'unico Ātman-Brahman. La gloriosa autodefinizione di Agni è dunque bella e vera a un livello relativo, ma radicalmente falsa a livello assoluto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-4.json"
+  },
+  "expl-kena-3-5": {
+    "id": "expl-kena-3-5",
+    "target_type": "passage",
+    "target_id": "kena-3-5",
+    "title": "Un filo di paglia e la sconfitta del fuoco",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Lo Yakṣa posa davanti ad Agni un semplice filo di paglia e dice: «Brucialo». Agni si lancia contro di esso con tutta la sua potenza, ma non riesce a bruciarla. Sconfitto e umiliato, torna dagli dèi senza risposta. Il filo di paglia non è un ostacolo magico: è lo strumento attraverso cui Brahman sospende il potere di Agni, mostrando che quel potere non appartiene ad Agni ma a Lui."
+      },
+      {
+        "heading": "Il significato metafisico",
+        "text": "Il paradosso è deliberato e preciso: il fuoco che brucia mondi interi non riesce a bruciare un filo di paglia. Questo non è un gioco miracolistico, ma un insegnamento rigoroso. Ogni potenza manifestata funziona solo perché Brahman, che ne è il sostrato, lo consente. Basta che Brahman non «sostenga» quella funzione, ed essa si arresta. Il fuoco senza il Fuoco dietro di esso non è nulla. L'energia senza la Sorgente è zero."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "La sconfitta di Agni è in realtà una grazia: è la prima correzione dell'orgoglio. Ma Agni non comprende; torna sconfitto, non illuminato. La comprensione vera arriverà solo con Indra, e solo grazie alla rivelazione di Umā. Questo insegna che il fallimento da solo non basta a produrre conoscenza: ci vuole anche la disponibilità a ricevere un insegnamento da una fonte superiore. Il filo di paglia è dunque il più grande guru che Agni abbia mai incontrato — ma Agni non è ancora pronto per capirlo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-5.json"
+  },
+  "expl-kena-3-6": {
+    "id": "expl-kena-3-6",
+    "target_type": "passage",
+    "target_id": "kena-3-6",
+    "title": "Vāyu è inviato: il vento affronta l'inconoscibile",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Dopo il fallimento di Agni, gli dèi inviano Vāyu — il dio del vento, il soffio vitale che permea e muove l'universo. Vāyu è la potenza del prāṇa, del respiro cosmico, della vita che circola in ogni essere. Se il fuoco trasforma, il vento penetra ovunque e muove tutto. Eppure anche questo incarico finirà nello stesso modo del precedente."
+      },
+      {
+        "heading": "La struttura del racconto come pedagogia",
+        "text": "Il ripetersi dello schema — invio, incontro, domanda, fallimento — non è una ripetizione vuota. Ogni tentativo è un passo nella comprensione progressiva. Il lettore, come gli dèi, è condotto attraverso lo stesso errore compiuto da potenze sempre più sottili e pervasive: fuoco, vento, infine il re degli dèi stesso. Questo rivela che il problema non è nella debolezza delle potenze, ma nella natura stessa di Brahman, che trascende ogni capacità di approccio ordinario."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Il vento rappresenta anche il pensiero discorsivo: rapido, pervasivo, capace di raggiungere ogni angolo dell'esistenza. Così come il vento fisico, il pensiero mentale si crede capace di tutto afferrare. Ma anche il pensiero, per quanto acuto e penetrante, non può comprendere ciò che lo trascende. Il prāṇa sostiene la vita, ma non sa chi lo sostiene a sua volta. Vāyu andrà dunque incontro alla medesima umiliazione di Agni."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-6.json"
+  },
+  "expl-kena-3-7": {
+    "id": "expl-kena-3-7",
+    "target_type": "passage",
+    "target_id": "kena-3-7",
+    "title": "Vāyu si vanta: «Posso soffiare via tutto l'universo»",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Interrogato dallo Yakṣa, Vāyu si presenta con orgoglio: è Mātariśvan, il grande vento, e può spostare e spazzare via tutto ciò che esiste nell'universo. Come Agni, la sua risposta è vera a livello relativo: il vento ha davvero questo potere nella manifestazione. Ma la domanda di Brahman non è «cosa puoi fare nel mondo?», bensì «chi sei tu in rapporto a Me?» — ed è a questa domanda che nessuna potenza manifestata sa rispondere."
+      },
+      {
+        "heading": "L'orgoglio come cecità strutturale",
+        "text": "Sia Agni che Vāyu cadono nello stesso errore: si definiscono attraverso le proprie funzioni e i propri poteri, senza neppure sfiorare la domanda sulla loro origine. Non è malvagità: è la cecità naturale di ogni essere che opera nel mondo manifestato senza guardare oltre. L'ego — cosmico o individuale — vive di questa auto-referenzialità. Sa cosa fa, sa cosa può, ma non sa chi è davvero né da dove viene il suo potere."
+      },
+      {
+        "heading": "Perché è importante",
+        "text": "Questo versetto — speculare al versetto 4 con Agni — completa la coppia simbolica fuoco/vento, ovvero trasformazione/movimento, ovvero gli aspetti attivi della manifestazione cosmica. L'Upaniṣad dice: neppure le più grandi forze del cosmo sono in grado di autocomprendersi in rapporto a Brahman. La conoscenza di Brahman non è un'estensione della conoscenza ordinaria: è un salto qualitativo che richiede una rivelazione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-7.json"
+  },
+  "expl-kena-3-8": {
+    "id": "expl-kena-3-8",
+    "target_type": "passage",
+    "target_id": "kena-3-8",
+    "title": "Il vento sconfitto: anche il movimento si arresta davanti a Brahman",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come aveva fatto con Agni, lo Yakṣa pone un filo di paglia davanti a Vāyu e ordina: «Spostalo». Vāyu si lancia con tutta la sua potenza — quella che sposta i mondi — ma il filo di paglia non si muove. Sconfitto, Vāyu torna dagli dèi senza risposta. Il secondo fallimento è identico al primo, eppure non è superfluo: il racconto insiste affinché la lezione sia inequivocabile."
+      },
+      {
+        "heading": "Il significato della ripetizione",
+        "text": "Due prove, due fallimenti identici. L'Upaniṣad non si accontenta di un solo esempio. Questo perché la mente umana tende a pensare: «Forse con una forza diversa sarebbe andata diversamente». Il testo chiude questa via di fuga: sia il fuoco che il vento, le due grandi potenze attive del cosmo, falliscono nel medesimo modo. Non è questione di trovare la forza giusta: nessuna forza, nessuna capacità operativa, può misurare o comprendere la sorgente di ogni forza."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Il filo di paglia — l'oggetto più insignificante, privo di peso, fragile — diventa il simbolo della trascendenza assoluta di Brahman. Ciò che Brahman non vuole far muovere rimane immobile davanti alla potenza più grande dell'universo. Questo rovesciamento è profondo: il grande è impotente, il piccolo è intoccabile. Non perché il piccolo sia importante, ma perché è Brahman a scegliere dove manifestare o sospendere i poteri cosmici. Ogni potere è dono, non possesso."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-8.json"
+  },
+  "expl-kena-3-9": {
+    "id": "expl-kena-3-9",
+    "target_type": "passage",
+    "target_id": "kena-3-9",
+    "title": "Indra si avvicina e lo Yakṣa scompare: appare Umā",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Gli dèi mandano infine Indra, il loro re. Ma quando Indra si avvicina allo Yakṣa, la presenza misteriosa scompare all'istante. Al suo posto appare Umā Haimavatī — la dea della saggezza, figlia dell'Himalaya, splendente di luce. Questo rovesciamento è il momento culminante del capitolo: Brahman non si lascia cogliere neppure da Indra, ma invia in suo luogo la Conoscenza stessa a parlare."
+      },
+      {
+        "heading": "Chi è Umā Haimavatī?",
+        "text": "Umā, figlia dell'Himalaya (Haimavatī), è nella tradizione vedāntica la personificazione della Conoscenza suprema, della Śakti come potere rivelatore. Il suo apparire al posto dello Yakṣa non è sostituzione: è trasformazione del mezzo di rivelazione. Brahman, che non può essere afferrato direttamente da nessuna potenza manifestata, si rivela attraverso la sua Śakti, la potenza di Conoscenza. La sapienza non si conquista con la forza; si riceve quando si è pronti."
+      },
+      {
+        "heading": "Perché Indra ha la grazia dell'incontro?",
+        "text": "Agni e Vāyu erano partiti sicuri di sé e tornavano sconfitti senza capire. Indra parte già con una disposizione diversa: è il re degli dèi, il più vicino alla coscienza, il più capace di comprensione. Non è detto che sia umile — ma è il più ricettivo. E la ricettività, nell'Advaita Vedānta, è la condizione necessaria per la rivelazione. La Conoscenza non si dà a chi vuole impadronirsi di Brahman, ma a chi è pronto a riceverla."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-3-9.json"
+  },
+  "expl-kena-4-1": {
+    "id": "expl-kena-4-1",
+    "target_type": "passage",
+    "target_id": "kena-4-1",
+    "title": "Indra il più vicino: il merito del riconoscimento",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Tra tutti gli dèi, Indra è colui che si è avvicinato maggiormente allo Yakṣa — l'apparizione misteriosa di Brahman. Lo ha toccato prima degli altri e, soprattutto, ha ricevuto per primo la rivelazione da Umā Haimavatī. Questo lo pone in cima alla gerarchia divina."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "La vicinanza a Brahman non è un privilegio arbitrario: dipende dalla disponibilità a ricevere la conoscenza. Agni e Vāyu si erano avvicinati allo Yakṣa, ma avevano fallito per orgoglio. Indra invece si era fermato davanti al mistero, riconoscendo i propri limiti. Questa umiltà lo rese degno di ricevere l'insegnamento diretto."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non si tratta di una graduatoria di potere cosmico tra le divinità vediche. La gerarchia qui espressa è esclusivamente in relazione alla conoscenza di Brahman. Chi riconosce Brahman è il più grande — non per forza propria, ma per la grazia della conoscenza ricevuta."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-1.json"
+  },
+  "expl-kena-4-2": {
+    "id": "expl-kena-4-2",
+    "target_type": "passage",
+    "target_id": "kena-4-2",
+    "title": "Indra il primo tra gli dèi: doppia preminenza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il testo ribadisce e rafforza la posizione di Indra: egli è il primo tra gli dèi non per rango cosmico, ma per un duplice motivo — ha toccato per primo lo Yakṣa e ha appreso per primo, tramite Umā Haimavatī, che quello Yakṣa era Brahman. La doppia priorità (contatto e conoscenza) è sottolineata deliberatamente."
+      },
+      {
+        "heading": "L'insegnamento essenziale",
+        "text": "La conoscenza di Brahman conferisce una preminenza che nessun'altra conquista può dare. Nella prospettiva dell'Advaita Vedānta, la conoscenza di Brahman (brahmavidyā) è il sommo bene. Indra non è il più grande perché è il re degli dèi — è il più grande perché conosce. Questa inversione di priorità è fondamentale nell'insegnamento upaniṣadico."
+      },
+      {
+        "heading": "Perché è importante",
+        "text": "Questo verso chiude il racconto allegorico del terzo capitolo e prepara il passaggio all'insegnamento diretto. L'esempio di Indra mostra che anche le intelligenze cosmiche più elevate hanno bisogno di un maestro (Umā) per riconoscere Brahman. Nessuno giunge alla conoscenza per sola forza propria."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-2.json"
+  },
+  "expl-kena-4-3": {
+    "id": "expl-kena-4-3",
+    "target_type": "passage",
+    "target_id": "kena-4-3",
+    "title": "Il lampo e il batter di ciglio: Brahman nel fuggente",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il testo propone due analogie per descrivere il modo in cui Brahman si manifesta alla coscienza: come un lampo che illumina istantaneamente e poi scompare, oppure come il rapido battito del ciglio. In entrambi i casi si tratta di qualcosa che non si trattiene — è presente e subito non c'è più. Eppure in quell'istante si rivela."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Brahman non è un oggetto che si può fissare e analizzare come una cosa del mondo. La sua conoscenza ha il carattere del lampo: improvvisa, totale, fugace nella forma ma permanente nell'effetto. L'Advaita insegna che Brahman non si conosce progressivamente come si impara una materia scolastica — c'è un momento di riconoscimento diretto, immediato, che tutto illumina. Le due immagini — il lampo nell'occhio e il battito di ciglio — indicano questa natura folgorante e non-prolungabile della realizzazione."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Queste immagini non significano che la conoscenza di Brahman sia effimera o incerta. Al contrario: il lampo illumina la realtà com'è. L'istantaneità riguarda il modo della percezione, non la stabilità di ciò che viene conosciuto. Brahman è eterno — solo il suo riconoscimento da parte della mente individuale avviene in un istante che taglia attraverso l'ignoranza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-3.json"
+  },
+  "expl-kena-4-4": {
+    "id": "expl-kena-4-4",
+    "target_type": "passage",
+    "target_id": "kena-4-4",
+    "title": "Tadvana: Brahman come oggetto d'amore universale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Brahman riceve qui un nome significativo: Tadvana, letteralmente «ciò che tutto venera» o «ciò verso cui tutto si inclina con amore». Non è un nome che descrive la natura intrinseca di Brahman, ma il rapporto che tutta la creazione intrattiene con Esso. Chiunque conosce Brahman come Tadvana — ossia come il fondamento verso cui tutto tende — diventa a sua volta amato dall'intera creazione."
+      },
+      {
+        "heading": "L'insegnamento essenziale",
+        "text": "In questo verso si rivela qualcosa di fondamentale: ogni essere, in ogni suo movimento, in ogni suo desiderio, sta in realtà tendendo verso Brahman senza saperlo. L'amore, l'attrazione, il desiderio di pienezza che ogni creatura sperimenta non sono che la forma velata di questo movimento cosmico verso il principio assoluto. Conoscere Brahman come Tadvana significa vedere questo movimento dappertutto."
+      },
+      {
+        "heading": "Perché è importante",
+        "text": "La promessa del verso — che chi conosce Brahman come Tadvana è amato da tutta la creazione — non è una ricompensa magica. È la conseguenza naturale di una tale conoscenza: chi ha riconosciuto in sé e in ogni cosa l'unico fondamento, ha dissolto ogni separazione. Non è più percepito come «altro» da nulla. Questa è la radice dell'armonia del saggio con il creato."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-4.json"
+  },
+  "expl-kena-4-5": {
+    "id": "expl-kena-4-5",
+    "target_type": "passage",
+    "target_id": "kena-4-5",
+    "title": "L'Upaniṣad già comunicata: la conoscenza non è futura",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il discepolo chiede al maestro di rivelare ulteriormente l'Upaniṣad — la conoscenza segreta. La risposta del maestro è diretta e sorprendente: «L'Upaniṣad ti è già stata comunicata. Ti ho insegnato la conoscenza di Brahman». Non c'è altro da dire. L'insegnamento è già stato dato."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Questa risposta è un elemento essenziale della tradizione vedāntica: la conoscenza di Brahman non è un insieme di ulteriori nozioni accumulate. Se il discepolo cerca ancora qualcosa «in più», è perché non ha compreso che Brahman è già la propria natura. Il maestro non può dare ciò che il discepolo è già. Il suo compito è solo rimuovere l'ignoranza — non aggiungere nuova conoscenza. Una volta rimossa l'ignoranza, non c'è nulla da aggiungere."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non si tratta di un rifiuto da parte del maestro, né di un insegnamento incompleto. La risposta «ti ho già insegnato» è essa stessa l'insegnamento più alto: smetti di cercare fuori ciò che sei. La domanda del discepolo rivela un residuo di ignoranza — la convinzione che Brahman sia ancora qualcosa da raggiungere, mentre è la realtà sempre già presente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-5.json"
+  },
+  "expl-kena-4-6": {
+    "id": "expl-kena-4-6",
+    "target_type": "passage",
+    "target_id": "kena-4-6",
+    "title": "I tre pilastri: tapas, dama, karma",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il testo indica i fondamenti su cui si regge l'insegnamento di Brahman: tapas (ascesi, disciplina interiore), dama (autodominio dei sensi e della mente) e karma (le azioni rituali e il servizio). Questi tre non sono fini in sé, ma le condizioni necessarie affinché la conoscenza di Brahman possa radicarsi nel discepolo."
+      },
+      {
+        "heading": "L'insegnamento essenziale",
+        "text": "Nell'Advaita Vedānta la conoscenza è il mezzo diretto di liberazione, ma richiede un supporto. Tapas forgia la volontà e purifica l'essere dagli attaccamenti grossolani. Dama stabilizza la mente e la rende capace di sostenere la conoscenza sottile. Karma — il compimento dei propri doveri e delle azioni rituali — radica il praticante nell'ordine cosmico, impedendo che l'ego si gonfi. Questi tre lavorano insieme per preparare il terreno alla conoscenza."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Non si tratta di un cammino a tappe in cui prima si fa tapas, poi dama, poi karma, e infine si arriva alla conoscenza. I tre si praticano insieme, come aspetti complementari di una vita orientata alla verità. E non sostituiscono la conoscenza — la preparano e la sostengono. La liberazione viene dalla conoscenza, non dall'ascesi da sola."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-6.json"
+  },
+  "expl-kena-4-7": {
+    "id": "expl-kena-4-7",
+    "target_type": "passage",
+    "target_id": "kena-4-7",
+    "title": "I Veda come membra della conoscenza: la Verità come dimora",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "I quattro Veda e le scienze sacre tradizionali — itihāsa (le grandi epopee), purāṇa (le scritture cosmologiche), mīmāṃsā (l'ermeneutica rituale) e le altre branche del sapere sacro — sono descritti come le «membra» della conoscenza di Brahman. La Verità (satya) è il suo fondamento e la sua dimora."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "L'intera tradizione scritturale vedica non è separata dall'insegnamento di Brahman: ne è il corpo. Come le membra di un corpo servono un unico principio vitale, così tutti i rami del sapere sacro convergono verso un'unica verità. Questo verso esprime la visione organica e gerarchica del sapere tradizionale: nulla è superfluo, tutto ha il suo posto, ma tutto ha senso solo in relazione al principio che lo innerva."
+      },
+      {
+        "heading": "Perché è importante",
+        "text": "La specificazione che la Verità è la «dimora» di questa conoscenza è decisiva. Non si tratta di un sistema intellettuale fondato su opinioni o su accordi umani. La brahmavidyā — la conoscenza di Brahman — abita nella Verità assoluta, che è Brahman stesso. Chi studia queste scritture non accumula nozioni: se lo fa nel modo giusto, si avvicina alla Realtà."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-7.json"
+  },
+  "expl-kena-4-8": {
+    "id": "expl-kena-4-8",
+    "target_type": "passage",
+    "target_id": "kena-4-8",
+    "title": "La promessa finale: vittoria e liberazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il testo conclude con una promessa solenne: chi conosce Brahman in questo modo ottiene vittoria nel mondo terrestre e vittoria nel mondo celeste. È il sigillo dell'insegnamento — non una ricompensa estrinseca, ma la conseguenza intrinseca del riconoscimento di Brahman come il fondamento di tutto."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "Nel linguaggio vedico, «vittoria» (jaya) non indica un trionfo bellicoso, ma il compimento pieno dell'esistenza — l'essere pienamente ciò che si è, senza ostacoli, senza la frattura dell'ignoranza. La vittoria nel mondo terrestre è la capacità di vivere nella verità anche immersi nella molteplicità del manifestato. La vittoria nel mondo celeste è la liberazione dai cicli di rinascita e dall'identificazione con i piani condizionati dell'esistenza. Entrambe fluiscono dalla conoscenza di Brahman."
+      },
+      {
+        "heading": "Perché è importante",
+        "text": "Questo verso mostra che l'Upaniṣad non è un insegnamento per soli asceti o per il mondo «altro». La conoscenza di Brahman trasforma anche la vita ordinaria. Non si tratta di fuggire dal mondo, ma di abitarlo con la consapevolezza di ciò che realmente è. La «vittoria» qui promessa è disponibile a chi conosce — indipendentemente dalla condizione esteriore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-8.json"
+  },
+  "expl-kena-4-9": {
+    "id": "expl-kena-4-9",
+    "target_type": "passage",
+    "target_id": "kena-4-9",
+    "title": "Śānti-pāṭha: la pace come cornice e compimento",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "La Kena Upaniṣad si chiude come si è aperta: con la triplice invocazione alla pace — śāntiḥ śāntiḥ śāntiḥ. Non è una formula di cortesia né un semplice rito conclusivo. Essa incornicia l'intero testo come un'opera sacra, svolta all'interno di uno spazio di pace, e riconsegna il discepolo — trasformato dall'insegnamento — alla pace come sua natura vera."
+      },
+      {
+        "heading": "Il significato della triplice pace",
+        "text": "La triplice ripetizione di śānti corrisponde tradizionalmente all'invocazione della pace rispetto ai tre ordini di ostacoli: quelli provenienti dall'universo fisico (ādhibhautika), quelli provenienti dalle forze cosmiche (ādhidaivika) e quelli provenienti dall'interno dell'essere stesso (ādhyātmika). La pace non è assenza di conflitto — è la condizione originaria della realtà, che precede e supera ogni divisione. Brahman stesso è pace."
+      },
+      {
+        "heading": "Perché è importante",
+        "text": "Che l'Upaniṣad inizi e finisca con la pace non è casuale. Indica che l'insegnamento non è un percorso che porta da uno stato di agitazione a uno stato di pace: la pace è il punto di partenza, il contesto e il punto di arrivo. La conoscenza di Brahman non aggiunge la pace dall'esterno — rivela che la pace era sempre già là, come il fondamento silenzioso di ogni esperienza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-4-9.json"
+  },
+  "expl-kena-shanti": {
+    "id": "expl-kena-shanti",
+    "target_type": "passage",
+    "target_id": "kena-shanti",
+    "title": "La preghiera di pace della Kena: organi vigili e unità con Brahman",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "La Kena Upaniṣad si apre con una preghiera di pace (Śānti-pāṭha) in cui il praticante chiede che i propri organi di conoscenza e di azione — occhi, orecchie, forze vitali — siano sempre svegli e operanti. Poi chiede che non vi sia separazione tra sé e Brahman, e che ciò che viene insegnato nell'Upaniṣad possa risiedere stabilmente in lui. La triplice pace (śāntiḥ śāntiḥ śāntiḥ) purifica le tre fonti di turbamento: il corpo, la mente e le forze esterne."
+      },
+      {
+        "heading": "Cosa ci insegna",
+        "text": "«Non negare Brahman, che Brahman non mi neghi» — questa formula rivela qualcosa di essenziale: la conoscenza di Brahman non è una conquista unilaterale del discepolo. È un incontro, una rivelazione reciproca. Il praticante si dispone ad accogliere, senza resistenza, ciò che l'insegnamento rivelerà. La richiesta che gli organi siano «desti» non è banale: significa che il corpo e la mente devono essere in buona salute e orientati verso la comprensione, non spenti né distratti."
+      },
+      {
+        "heading": "Il significato dell'apertura in pace",
+        "text": "Ogni Upaniṣad si apre e si chiude con la preghiera di pace. Non è un rituale vuoto. È il riconoscimento che la conoscenza del Sé non può essere ricevuta in uno stato di agitazione, paura o avidità. La pace (śānti) è la condizione interiore necessaria per che l'insegnamento possa sedimentarsi e diventare comprensione autentica."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-shanti.json"
   }
 }
