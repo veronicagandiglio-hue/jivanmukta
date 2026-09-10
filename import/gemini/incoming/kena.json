@@ -1,0 +1,861 @@
+{
+  "package_format": "jivanmukta-gemini-editorial-v1",
+  "work": {
+    "id": "kena-upanishad",
+    "title": "Kenopaniṣad",
+    "short_title": "Kena",
+    "language": "sa",
+    "attribution": "Sāmaveda (Jaiminīya-Upaniṣad-Brāhmaṇa, adhyāya IX)",
+    "editorial_note": [
+      "La Kenopaniṣad, appartenente al Sāmaveda, trae il nome dalla sua parola iniziale (kena, 'da chi?').",
+      "Si articola in due parti speculativo-metriche iniziali, dedicate alla natura inconcepibile e testimoniale dell'Ātman-Brahman, e in due parti in prosa incentrate sull'allegoria dell'impotenza delle divinità dinnanzi allo Yakṣa e sulla mediazione dottrinale di Umā Haimavatī."
+    ]
+  },
+  "authors": [
+    {
+      "id": "vedic-rishis",
+      "name": "Vedic Rishis",
+      "transliteration": "Vedic Rishis",
+      "role": "author",
+      "role_description": "Veggenti vedici ispirati primordiali a cui fu rivelata la Śruti",
+      "context": "Periodo vedico primordiale, Śukla Yajurveda",
+      "concepts": [
+        "purna",
+        "isha",
+        "atman",
+        "ekatva",
+        "soham"
+      ],
+      "related_authors": []
+    },
+    {
+      "id": "adi-shankara",
+      "name": "Ādi Śaṅkarācārya",
+      "transliteration": "Ādi Śaṅkarācārya",
+      "role": "commentator",
+      "role_description": "Maestro fondatore e codificatore dell'Advaita Vedānta ortodosso",
+      "context": "VIII secolo d.C., autore del celebre Īśāvāsyopaniṣad-bhāṣya",
+      "concepts": [
+        "atman",
+        "purna",
+        "tyaga",
+        "avidya",
+        "vidya"
+      ],
+      "related_authors": [
+        "vedic-rishis"
+      ]
+    }
+  ],
+  "editorial_units": [
+    {
+      "id": "kena-1",
+      "unit_locus": "I.1-9",
+      "unit_title": "Khaṇḍa I — Il Principio trascendente delle facoltà e la confutazione dell'oggettivazione",
+      "sections": [
+        {
+          "section_locus": "Śānti-pāṭha",
+          "section_title": "Invocazione di Pace",
+          "passages": [
+            {
+              "id": "kena-shanti",
+              "original": "ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि । सर्वं ब्रह्मौपनिषदं माऽहं ब्रह्म निराकुर्यां मा मा ब्रह्म निराकरोदनिराकरणमस्त्वनिराकरणं मेऽस्तु । तदात्मनि निरते य उपनिषत्सु धर्मास्ते मयि सन्तु ते मयि सन्तु । ॐ शान्तिः शान्तिः शान्तिः ॥",
+              "translation": "Om. Possano rinvigorirsi le mie membra, la parola, il soffio vitale (prāṇa), la vista, l'udito, nonché la forza e tutte le facoltà sensoriali. Tutto è il Brahman rivelato dalle Upaniṣad. Possa io non rinnegare mai il Brahman; possa il Brahman non respingere mai me. Non vi sia alcun rifiuto; non vi sia da parte mia alcun ripudio del Principio. Possano tutte le virtù e le verità spirituali (dharmāḥ) proclamate nelle Upaniṣad dimorare in me, dedito interamente al Sé; possano esse dimorare in me! Om. Pace, pace, pace.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            }
+          ]
+        },
+        {
+          "section_locus": "I.1-9",
+          "section_title": "Primo Khaṇḍa",
+          "passages": [
+            {
+              "id": "kena-1-1",
+              "original": "ॐ केनेषितं पतति प्रेषितं मनः केन प्राणः प्रथमः प्रैति युक्तः । केनेषितां वाचमिमां वदन्ति चक्षुः श्रोत्रं क उ देवो युनक्ति ॥ १ ॥",
+              "translation": "Da chi voluto e mosso si lancia il pensiero? Da chi ordinato si muove per primo il soffio vitale (prāṇa)? Da chi voluta gli uomini proferiscono questa parola? Quale Dio indirizza l'occhio e l'orecchio [verso i rispettivi oggetti]?",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-1-2",
+              "original": "श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं स उ प्राणस्य प्राणश्चक्षुषश्चक्षुः । अतिमुच्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ॥ २ ॥",
+              "translation": "Esso è l'Udito dell'udito, la Mente della mente, la Parola della parola; Esso invero è la Vita della vita (prāṇasya prāṇaḥ), la Vista della vista. I saggi (dhīrāḥ), essendosi affrancati da tali facoltà e abbandonato questo mondo corporeo, divengono immortali.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-1-3",
+              "original": "न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः । न विद्मो न विजानीमो यथैतदनुशिष्यात् ॥ ३ ॥",
+              "translation": "Là non giunge la vista, non giunge la parola e neppure la mente. Non Lo conosciamo [come oggetto estrinseco], né comprendiamo come Esso possa essere insegnato per via discorsiva.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-1-4",
+              "original": "अन्यदेव तद्विदितादथो अविदितादधि । इति शुश्रुम पूर्वेषां ये नस्तद्व्याचचक्षिरे ॥ ४ ॥",
+              "translation": "Esso è radicalmente Altro da ciò che è conosciuto [il manifestato, il dominio oggettivo], ed è al di sopra di ciò che non è conosciuto [la causa non-manifestata, l'indifferenziato primordiale]. Così abbiamo udito dagli antichi maestri, che ce lo hanno esposto partitamente.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-1-5",
+              "original": "यद्वाचाऽनभ्युदितं येन वागभ्युद्यते । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ५ ॥",
+              "translation": "Ciò che non è proferito dalla parola, ma mediante cui la parola viene proferita: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato [dalla mente empirica come un oggetto distinto da sé].",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-1-6",
+              "original": "यन्मनसा न मनुते येनाहुर्मनो मतम् । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ६ ॥",
+              "translation": "Ciò che non può essere pensato con la mente, ma mediante cui — come insegnano i saggi — la mente stessa viene pensata: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato come un oggetto.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-1-7",
+              "original": "यच्चक्षुषा न पश्यति येन चक्षूँषि पश्यति । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ७ ॥",
+              "translation": "Ciò che non si può vedere mediante l'occhio, ma per mezzo di cui gli occhi vedono: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato come un oggetto.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-1-8",
+              "original": "यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिदं श्रुतम् । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ८ ॥",
+              "translation": "Ciò che non si ode per mezzo dell'udito, ma mediante cui l'udito stesso è reso capace di udire: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato come un oggetto.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-1-9",
+              "original": "यत्प्राणेन न प्राणिति येन प्राणः प्रणीयते । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ९ ॥",
+              "translation": "Ciò che non è animato dal soffio vitale, ma mediante cui il soffio vitale viene diretto nelle sue funzioni: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato come un oggetto.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kena-2",
+      "unit_locus": "II.1-5",
+      "unit_title": "Khaṇḍa II — Il paradosso gnoseologico dell'Assoluto e la conoscenza testimoniale (Pratibodha)",
+      "sections": [
+        {
+          "section_locus": "II.1-5",
+          "section_title": "Secondo Khaṇḍa",
+          "passages": [
+            {
+              "id": "kena-2-1",
+              "original": "यदि मन्यसे सुवेदेति दहरमेवापि नूनं त्वं वेत्थ ब्रह्मणो रूपम् । यदस्य त्वं यदस्य देवेष्वथ नु मीमांस्यमेव ते मन्ये विदितम् ॥ १ ॥",
+              "translation": "[Il Maestro afferma:] Se ritieni: «Io Lo conosco bene», invero ben poco tu conosci della natura del Brahman — sia per quanto concerne la Sua presenza in te, sia per quanto concerne la Sua presenza tra gli dèi. Pertanto, ciò che ritieni conosciuto esige ancora di essere indagato da parte tua.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-2-2",
+              "original": "नाहं मन्ये सुवेदेति नो न वेदेति वेद च । यो नस्तद्वेद तद्वेद नो न वेदेति वेद च ॥ २ ॥",
+              "translation": "[Il Discepolo risponde:] Io non ritengo di conoscerLo compiutamente [come un oggetto], e tuttavia non posso affermare di non conoscerLo: Lo conosco! Chi tra noi comprende ciò, conosce la Verità; non chi crede che Esso sia un non-conosciuto, ma colui che intende l'assioma: «Non ignoro, e tuttavia non conosco oggettivamente».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-2-3",
+              "original": "यस्यामतं तस्य मतं मतं यस्य न वेद सः । अविज्ञातं विजानतां विज्ञातमविजानताम् ॥ ३ ॥",
+              "translation": "Da colui per il quale Esso è inconcepibile alla mente, Esso è compreso; colui per il quale Esso è concetto mentale, non Lo conosce affatto. Esso non è conosciuto da coloro che presumono di conoscerLo; è conosciuto da coloro che non pretendono di comprenderLo con l'intelletto empirico.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-2-4",
+              "original": "प्रतिबोधविदितं मतममृतत्वं हि विन्दते । आत्मना विन्दते वीर्यं विद्यया विन्दतेऽमृतम् ॥ ४ ॥",
+              "translation": "Quando il Brahman è riconosciuto come il Testimone immanente in ogni moto di coscienza (pratibodha-viditam), allora soltanto Esso è realmente compreso, poiché mediante tale risveglio si consegue l'immortalità. Per mezzo del Sé si attinge la forza invincibile; per mezzo della Conoscenza metafisica (vidyā) si consegue l'immortalità.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-2-5",
+              "original": "इह चेदवेदीदथ सत्यमस्ति न चेदिहावेदीन्महती विनष्टिः । भूतेषु भूतेषु विचित्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ॥ ५ ॥",
+              "translation": "Se un uomo perviene alla Sua Conoscenza qui, in questa vita terrena, vi è per lui la Verità [la realizzazione del Sommo Bene]; ma se non Lo conosce quaggiù, vi è per lui una perdita immensa [il perpetuarsi dell'illusione samsarica]. Avendo scorto il Sé in ciascun essere, i saggi (dhīrāḥ), dipartendosi da questo mondo, divengono immortali.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kena-3",
+      "unit_locus": "III.1-12",
+      "unit_title": "Khaṇḍa III — L'allegoria dello Yakṣa e l'impotenza delle potenze cosmiche",
+      "sections": [
+        {
+          "section_locus": "III.1-12",
+          "section_title": "Terzo Khaṇḍa",
+          "passages": [
+            {
+              "id": "kena-3-1",
+              "original": "ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो विजये देवा अमहीयन्त ॥ १ ॥",
+              "translation": "Il Brahman, invero, ottenne la vittoria in favore degli dèi; e per quella vittoria del Brahman gli dèi si levarono a grande gloria.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-2",
+              "original": "त ऐक्षन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति । तद्धैषां विजज्ञौ तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत किमिदं यक्षमिति ॥ २ ॥",
+              "translation": "Ma essi pensarono: «Nostra soltanto è questa vittoria! Nostra soltanto è questa gloria!». Il Brahman conobbe questo loro pensiero vanaglorioso e si rese manifesto dinnanzi ad essi. Ma gli dèi non riconobbero che cosa fosse quella prodigiosa Presenza (yakṣa).",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-3",
+              "original": "तेऽग्निमब्रुवन् जातवेद एतद्विजानीहि किमिदं यक्षमिति तथेति ॥ ३ ॥",
+              "translation": "Dissero allora ad Agni: «O Jātavedas [tu che possiedi la conoscenza di tutto ciò che è generato], scopri che cosa sia questo Spirito venerando». Egli rispose: «Così sia».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-4",
+              "original": "तदभ्यद्रवत्तमभ्यवदत्कोऽसीत्यग्निर्वा अहमस्मीत्यब्रवीज्जातवेदा वा अहमस्मीति ॥ ४ ॥",
+              "translation": "Agni si precipitò verso di Esso. La Presenza gli domandò: «Chi sei tu?». Egli replicò: «Io sono invero Agni; io sono colui che tutto conosce (Jātavedas)».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-5",
+              "original": "तस्मिँस्त्वयि किं वीर्यमित्यपीदँ सर्वं दहेयं यदिदं पृथिव्यामिति ॥ ५ ॥",
+              "translation": "[La Presenza domandò:] «Quale potere sussiste in te che porti tale nome?». Agni rispose: «Io posso consumare e ridurre in cenere tutto ciò che esiste su questa terra».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-6",
+              "original": "तस्मै तृणं निदधावेतद्दहेति । तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥ ६ ॥",
+              "translation": "Quello pose dinnanzi a lui un filo d'erba, dicendo: «Brucia questo!». Agni si scagliò contro di esso con tutto il suo impeto ardente, ma non fu capace di bruciarlo. Si ritrasse di là e disse agli dèi: «Non sono stato capace di comprendere che cosa sia questa Presenza veneranda».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-7",
+              "original": "अथ वायुमब्रुवन्वायवेतद्विजानीहि किमेतद्यक्षमिति तथेति ॥ ७ ॥",
+              "translation": "Dissero allora a Vāyu: «O Vāyu, scopri che cosa sia questo Spirito venerando». Egli rispose: «Così sia».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-8",
+              "original": "तदभ्यद्रवत्तमभ्यवदत्कोऽसीति वायुर्वा अहमस्मीत्यब्रवीन्मातरिश्वा वा अहमस्मीति ॥ ८ ॥",
+              "translation": "Vāyu si precipitò verso di Esso. La Presenza gli domandò: «Chi sei tu?». Egli replicò: «Io sono invero Vāyu; io sono il Soffio che si muove nello spazio cosmico (Mātariśvan)».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-9",
+              "original": "तस्मिँस्त्वयि किं वीर्यमित्यपीदँ सर्वमाददीय यदिदं पृथिव्यामिति ॥ ९ ॥",
+              "translation": "[La Presenza domandò:] «Quale potere sussiste in te?». Vāyu rispose: «Io posso travolgere e spazzare via tutto ciò che esiste su questa terra».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-10",
+              "original": "तस्मै तृणं निदधावेतदादत्स्वेति तदुपप्रेयाय सर्वजवेन तन्न शशाकादतुम् । स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥ १० ॥",
+              "translation": "Quello pose dinnanzi a lui un filo d'erba, dicendo: «Spazza via questo!». Vāyu si scagliò contro di esso con tutta la violenza del suo turbine, ma non fu capace di rimuoverlo. Si ritrasse di là e disse: «Non sono stato capace di comprendere che cosa sia questa Presenza veneranda».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-11",
+              "original": "अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्रवत्तस्मात्तिरोदधे ॥ ११ ॥",
+              "translation": "Dissero allora a Indra: «O Maghavan [Signore della potenza sovrana], scopri che cosa sia questo Spirito venerando». Egli rispose: «Così sia». Indra si precipitò verso di Esso, ma la Presenza svanì repentinamente dinnanzi al suo sguardo.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-3-12",
+              "original": "स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमाँ हैमवतीं ताँहोवाच किमेतद्यक्षमिति ॥ १२ ॥",
+              "translation": "In quello stesso spazio celeste (ākāśa), egli si imbatté in una donna risplendente di sublime bellezza: Umā Haimavatī [la divina personificazione della Conoscenza Suprema, figlia dell'Himavat]. A lei egli domandò: «Che cosa era questa Presenza veneranda?».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kena-4",
+      "unit_locus": "IV.1-9",
+      "unit_title": "Khaṇḍa IV — La rivelazione di Umā, le analogie dell'insegnamento e il fondamento della dottrina",
+      "sections": [
+        {
+          "section_locus": "IV.1-9",
+          "section_title": "Quarto Khaṇḍa",
+          "passages": [
+            {
+              "id": "kena-4-1",
+              "original": "सा ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदाञ्चकार ब्रह्मेति ॥ १ ॥",
+              "translation": "Ella rispose: «Era il Brahman! Invero, è unicamente per la vittoria del Brahman che voi avete conseguito tale gloria!». Solo da queste parole Indra apprese che si trattava del Brahman.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-4-2",
+              "original": "तस्माद्वा एते देवा अतितरामिवान्यान्देवान्यदग्निर्वायुरिन्द्रस्ते ह्येनन्नेदिष्ठं पस्पर्शुस्ते ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥ २ ॥",
+              "translation": "Per questa ragione queste divinità — Agni, Vāyu e Indra — superano di gran lunga gli altri dèi: poiché essi si accostarono più da vicino ad Esso e per primi riconobbero che Quello era il Brahman.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-4-3",
+              "original": "तस्माद्वा इन्द्रोऽतितरामिवान्यान्देवान् स ह्येनन्नेदिष्ठं पस्पर्श स ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥ ३ ॥",
+              "translation": "E perciò Indra supera per così dire tutti gli altri dèi: poiché egli si accostò più intimamente ad Esso, ed egli per primo conobbe, per rivelazione diretta, che Quello era il Brahman.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-4-4",
+              "original": "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा३ इतीति न्यमीमिषदा३ इत्यधिदैवतम् ॥ ४ ॥",
+              "translation": "Di Questo [Brahman] tale è l'indicazione analogica nell'ordine macrocosmico (adhidaivatam): Esso è come il fulgore subitaneo della folgore che abbaglia, o come l'ammiccare fulmineo dell'occhio. Tale è l'insegnamento per il tramite delle potenze divine.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-4-5",
+              "original": "अथाध्यात्मं यदेतद्गच्छतीव च मनोऽनेन चैतदुपस्मरत्यभीक्ष्णँ सङ्कल्पः ॥ ५ ॥",
+              "translation": "Ora l'indicazione analogica nell'ordine microcosmico interiore (adhyātmam): è ciò verso cui la mente sembra muoversi istantaneamente, e mediante cui il pensiero ricorda costantemente l'Assoluto e ne forma l'intenzione meditativa.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-4-6",
+              "original": "तद्ध तद्वनं नाम तद्वनमित्युपासितव्यं स य एतदेवं वेदाभि हैनँ सर्वाणि भूतानि संवाञ्छन्ति ॥ ६ ॥",
+              "translation": "Esso invero è noto con il nome sacro di Tadvana [«il Desiderabile in Sé», l'Essenza Suprema amata da ogni creatura]; come Tadvana Esso deve essere contemplato. Colui che conosce il Brahman sotto tale aspetto è sommamente desiderato e amato da tutti gli esseri.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-4-7",
+              "original": "उपनिषदं भो ब्रूहीत्युक्ता त उपनिषद्ब्राह्मीं वाव त उपनिषदमब्रूमेति ॥ ७ ॥",
+              "translation": "[Il discepolo chiese:] «Signore, insegnami la dottrina segreta (Upaniṣad)!». [Il maestro rispose:] «Ti è già stata dichiarata l'Upaniṣad. Invero, ti abbiamo esposto la dottrina segreta suprema concernente il Brahman (brāhmī upaniṣad)».",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-4-8",
+              "original": "तस्यै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि सत्यमायतनम् ॥ ८ ॥",
+              "translation": "Di questa dottrina segreta il fervore spirituale (tapas), il controllo interiore dei sensi (dama) e l'azione rituale disinteressata (karman) costituiscono la base e il supporto (pratiṣṭhā); i Veda ne sono tutte le membra organiche; la Verità immutabile (satya) è la sua dimora suprema.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "kena-4-9",
+              "original": "यो वा एतामेवं वेदापहत्य पाप्मानमनन्ते स्वर्गे लोके ज्येये प्रतितिष्ठति प्रतितिष्ठति ॥ ९ ॥ ॥ इति केनोपनिषदि चतुर्थः खण्डः ॥ ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि । सर्वं ब्रह्मौपनिषदं माऽहं ब्रह्म निराकुर्यां मा मा ब्रह्म निराकरोदनिराकरणमस्त्वनिराकरणं मेऽस्तु । तदात्मनि निरते य उपनिषत्सु धर्मास्ते मयि सन्तु ते मयि सन्तु । ॐ शान्तिः शान्तिः शान्तिः ॥ ॥ इति केनोपनिषत् समाप्ता ॥",
+              "translation": "Colui che conosce in tal modo questa dottrina, scosso da sé ogni vincolo di errore e oscuramento (pāpman), si stabilisce stabilmente nell'infinito, supremo e insuperabile Mondo di Luce [lo stato increato del Brahman]; sì, egli vi si stabilisce per sempre! Così si conclude il Quarto Khaṇḍa della Kenopaniṣad. Om. Possano rinvigorirsi le mie membra... Om. Pace, pace, pace. Così termina la Kenopaniṣad.",
+              "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+              "editorial_status": "established"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "brahman",
+      "name": "Brahman",
+      "transliteration": "brahman",
+      "gloss": "La Realtà suprema non-duale, Principio animatore e trascendente di mente, parola e sensi, radicalmente Altro sia dal noto (manifesto) sia dall'ignoto (non-manifesto).",
+      "passages": [
+        "kena-1-2",
+        "kena-1-4",
+        "kena-1-5",
+        "kena-1-6",
+        "kena-1-7",
+        "kena-1-8",
+        "kena-1-9",
+        "kena-2-1",
+        "kena-3-1",
+        "kena-4-1"
+      ],
+      "related_concepts": [
+        "sakshin",
+        "vidita-avidita",
+        "upadhi-upasana",
+        "tadvana"
+      ],
+      "authors": [
+        "vedic-rishis",
+        "adi-shankara"
+      ]
+    },
+    {
+      "id": "sakshin",
+      "name": "Sākṣin / Pratibodha",
+      "transliteration": "sākṣin / pratibodha",
+      "gloss": "Il Testimone cosciente immanente che illumina ogni singolo moto di coscienza (pratibodha-viditam) senza mai divenire oggetto o subire modificazione.",
+      "passages": [
+        "kena-1-2",
+        "kena-2-4"
+      ],
+      "related_concepts": [
+        "brahman",
+        "brahma-vidya"
+      ],
+      "authors": [
+        "vedic-rishis",
+        "adi-shankara"
+      ]
+    },
+    {
+      "id": "vidita-avidita",
+      "name": "Vidita e Avidita",
+      "transliteration": "vidita / avidita",
+      "gloss": "La duplice partizione cosmica: il manifesto oggettivabile (conosciuto) e la matrice causale indifferenziata (inconosciuto), entrambi trascesi dal Brahman.",
+      "passages": [
+        "kena-1-4"
+      ],
+      "related_concepts": [
+        "brahman",
+        "upadhi-upasana"
+      ],
+      "authors": [
+        "vedic-rishis",
+        "adi-shankara"
+      ]
+    },
+    {
+      "id": "upadhi-upasana",
+      "name": "Upādhi-upāsanā",
+      "transliteration": "upādhi-upāsanā",
+      "gloss": "La venerazione devozionale o teurgica rivolta a enti formali o divinità intese come esteriori al Sé (nedam yad idam upāsate), categoricamente distinta dalla gnosi di Brahman.",
+      "passages": [
+        "kena-1-5",
+        "kena-1-6",
+        "kena-1-7",
+        "kena-1-8",
+        "kena-1-9"
+      ],
+      "related_concepts": [
+        "brahman",
+        "vidita-avidita"
+      ],
+      "authors": [
+        "vedic-rishis",
+        "adi-shankara"
+      ]
+    },
+    {
+      "id": "brahma-vidya",
+      "name": "Brahma-vidyā",
+      "transliteration": "brahma-vidyā",
+      "gloss": "La Conoscenza liberatrice non-duale personificata da Umā Haimavatī, che estingue la presunzione delle facoltà individuali e dischiude l'immortalità.",
+      "passages": [
+        "kena-2-4",
+        "kena-3-12",
+        "kena-4-1",
+        "kena-4-7"
+      ],
+      "related_concepts": [
+        "brahman",
+        "sakshin",
+        "deva-abhimana"
+      ],
+      "authors": [
+        "vedic-rishis",
+        "adi-shankara"
+      ]
+    },
+    {
+      "id": "deva-abhimana",
+      "name": "Devābhimāna",
+      "transliteration": "devābhimāna",
+      "gloss": "La presunzione egoica delle potenze cosmiche che attribuiscono a se stesse il potere operativo e la vittoria, ignorando la loro totale dipendenza da Brahman.",
+      "passages": [
+        "kena-3-1",
+        "kena-3-2",
+        "kena-3-6",
+        "kena-3-10"
+      ],
+      "related_concepts": [
+        "brahman",
+        "brahma-vidya"
+      ],
+      "authors": [
+        "vedic-rishis",
+        "adi-shankara"
+      ]
+    },
+    {
+      "id": "tadvana",
+      "name": "Tadvana",
+      "transliteration": "tadvana",
+      "gloss": "Nome meditativo di Brahman quale Essenza Suprema Desiderabile in Sé e Somma Bellezza essenziale, verso cui converge l'anelito di tutti gli esseri.",
+      "passages": [
+        "kena-4-6"
+      ],
+      "related_concepts": [
+        "brahman"
+      ],
+      "authors": [
+        "vedic-rishis"
+      ]
+    },
+    {
+      "id": "pratistha",
+      "name": "Pratiṣṭhā",
+      "transliteration": "pratiṣṭhā",
+      "gloss": "Il fondamento preparatorio della dottrina costituito da fervore ascetico (tapas), controllo dei sensi (dama) e azione pura (karman), avente la Verità (satya) per dimora.",
+      "passages": [
+        "kena-4-8",
+        "kena-4-9"
+      ],
+      "related_concepts": [
+        "brahma-vidya"
+      ],
+      "authors": [
+        "vedic-rishis"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-kena-principio-animatore",
+      "type": "great",
+      "text": "Qual è il Principio trascendente che muove e illumina la mente, il soffio vitale e le facoltà sensoriali?",
+      "problem": "Spiegare la scaturigine non-empirica delle funzioni cognitive e biologiche che operano nell'individuo non per dinamismo autonomo ma per impulso dell'Ātman.",
+      "parent_question": null,
+      "concepts": [
+        "brahman",
+        "sakshin"
+      ],
+      "passages": [
+        "kena-1-1",
+        "kena-1-2"
+      ],
+      "commentaries": [
+        "comm-kena-soggetto-trascendente"
+      ],
+      "related_questions": [
+        "q-kena-non-oggettivabilita-brahman"
+      ]
+    },
+    {
+      "id": "q-kena-non-oggettivabilita-brahman",
+      "type": "great",
+      "text": "Perché il Brahman non può essere conosciuto come un oggetto di pensiero, parola o percezione sensoriale?",
+      "problem": "Fondare l'impossibilità epistemica di convertire in oggetto conosciuto il Principio soggettivo assoluto che rende possibile la conoscenza medesima.",
+      "parent_question": null,
+      "concepts": [
+        "brahman",
+        "vidita-avidita",
+        "upadhi-upasana"
+      ],
+      "passages": [
+        "kena-1-3",
+        "kena-1-4",
+        "kena-1-5",
+        "kena-1-6",
+        "kena-1-7",
+        "kena-1-8",
+        "kena-1-9"
+      ],
+      "commentaries": [
+        "comm-kena-soggetto-trascendente"
+      ],
+      "related_questions": [
+        "q-kena-paradosso-gnoseologico"
+      ]
+    },
+    {
+      "id": "q-kena-paradosso-gnoseologico",
+      "type": "great",
+      "text": "Perché colui che afferma di «conoscere bene» il Brahman in realtà non Lo conosce affatto?",
+      "problem": "Risolvere il paradosso gnoseologico dell'Advaita per cui la pretesa di comprensione concettuale degrada l'Infinito a frammento oggettivo finito.",
+      "parent_question": null,
+      "concepts": [
+        "brahman",
+        "brahma-vidya"
+      ],
+      "passages": [
+        "kena-2-1",
+        "kena-2-2",
+        "kena-2-3"
+      ],
+      "commentaries": [],
+      "related_questions": [
+        "q-kena-pratibodha-viditam",
+        "q-kena-urgenza-realizzazione"
+      ]
+    },
+    {
+      "id": "q-kena-pratibodha-viditam",
+      "type": "specific",
+      "text": "Che cosa significa che il Brahman è conosciuto come Testimone immanente in ogni moto di coscienza (pratibodha-viditam)?",
+      "problem": "Dimostrare che la Conoscenza reale non è un pensiero temporaneo ma l'intuizione della Coscienza costante che illumina ogni singola percezione.",
+      "parent_question": "q-kena-paradosso-gnoseologico",
+      "concepts": [
+        "sakshin",
+        "brahman"
+      ],
+      "passages": [
+        "kena-2-4"
+      ],
+      "commentaries": [
+        "comm-kena-pratibodha"
+      ],
+      "related_questions": []
+    },
+    {
+      "id": "q-kena-urgenza-realizzazione",
+      "type": "specific",
+      "text": "Qual è il valore decisivo della realizzazione della Verità nell'esistenza terrena attuale?",
+      "problem": "Comprendere la gravità della perdita spirituale (mahatī vinaṣṭiḥ) nel caso di mancata realizzazione metafisica nel corso della vita presente.",
+      "parent_question": "q-kena-paradosso-gnoseologico",
+      "concepts": [
+        "brahman",
+        "brahma-vidya"
+      ],
+      "passages": [
+        "kena-2-5"
+      ],
+      "commentaries": [],
+      "related_questions": []
+    },
+    {
+      "id": "q-kena-allegoria-yaksha",
+      "type": "great",
+      "text": "Qual è il significato dottrinale dell'apparizione dello Yakṣa e dell'impotenza di Agni e Vāyu?",
+      "problem": "Illustrare come le potenze del cosmo oggettivo e le facoltà umane derivino ogni loro efficacia unicamente dall'Assoluto sottostante.",
+      "parent_question": null,
+      "concepts": [
+        "deva-abhimana",
+        "brahman",
+        "brahma-vidya"
+      ],
+      "passages": [
+        "kena-3-1",
+        "kena-3-2",
+        "kena-3-6",
+        "kena-3-10",
+        "kena-3-11",
+        "kena-4-1"
+      ],
+      "commentaries": [
+        "comm-kena-allegoria-deva"
+      ],
+      "related_questions": [
+        "q-kena-funzione-uma"
+      ]
+    },
+    {
+      "id": "q-kena-funzione-uma",
+      "type": "specific",
+      "text": "Quale funzione metafisica svolge Umā Haimavatī nell'istruzione impartita a Indra?",
+      "problem": "Chiarire il ruolo necessario di mediazione della Brahma-vidyā affinché l'intelletto sovrano possa identificare l'Assoluto dopo la ritirata dei fenomeni.",
+      "parent_question": "q-kena-allegoria-yaksha",
+      "concepts": [
+        "brahma-vidya",
+        "brahman"
+      ],
+      "passages": [
+        "kena-3-12",
+        "kena-4-1",
+        "kena-4-3"
+      ],
+      "commentaries": [],
+      "related_questions": []
+    },
+    {
+      "id": "q-kena-analogie-adhidaivata-adhyatma",
+      "type": "comparison",
+      "text": "In che modo l'illuminazione di Brahman viene descritta sotto l'aspetto cosmico (adhidaivatam) e microcosmico (adhyātmam)?",
+      "problem": "Spiegare la corrispondenza analogica tra la folgore esteriore istantanea e il moto fulmineo del ricordo meditativo nell'ordine interiore.",
+      "parent_question": null,
+      "concepts": [
+        "brahman",
+        "sakshin"
+      ],
+      "passages": [
+        "kena-4-4",
+        "kena-4-5"
+      ],
+      "commentaries": [],
+      "related_questions": []
+    },
+    {
+      "id": "q-kena-supporti-pratistha",
+      "type": "specific",
+      "text": "Quali sono i supporti preparatori (pratiṣṭhā) e la dimora eterna della dottrina dell'Upaniṣad?",
+      "problem": "Definire l'articolazione gerarchica tra ascesi (tapas), padronanza dei sensi (dama), dovere rituale (karman) e la conquista della Verità inalterabile (satya).",
+      "parent_question": null,
+      "concepts": [
+        "pratistha",
+        "brahma-vidya"
+      ],
+      "passages": [
+        "kena-4-7",
+        "kena-4-8",
+        "kena-4-9"
+      ],
+      "commentaries": [],
+      "related_questions": []
+    }
+  ],
+  "commentaries": [
+    {
+      "id": "comm-kena-soggetto-trascendente",
+      "author_id": "adi-shankara",
+      "passages": [
+        "kena-1-2",
+        "kena-1-3",
+        "kena-1-4"
+      ],
+      "text": "Nel Padabhāṣya ad I.2-4, Śaṅkara stabilisce che il Brahman non può mai essere un oggetto conosciuto (vedya), poiché è il Soggetto perenne (veditṛ). Tutto ciò che è suscettibile di essere oggettivato è contingente e perituro, mentre l'Ātman è la Coscienza immutabile sottesa alla percezione.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "comm-kena-pratibodha",
+      "author_id": "adi-shankara",
+      "passages": [
+        "kena-2-4"
+      ],
+      "text": "Commentando pratibodha-viditam, Śaṅkara confuta sia l'idea che la Conoscenza sia un singolo atto psichico temporaneo, sia la dottrina buddista della coscienza momentanea. Il Brahman è colto come il Testimone incorporeo presente in ogni atto percettivo (sarva-pratyaya-darśī), la cui continuità immutabile è pegno di immortalità.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "comm-kena-allegoria-deva",
+      "author_id": "adi-shankara",
+      "passages": [
+        "kena-3-1",
+        "kena-3-2",
+        "kena-3-6",
+        "kena-4-1"
+      ],
+      "text": "Śaṅkara interpreta la narrazione dello Yakṣa come una confutazione dell'illusione di autonomia (abhimāna) che insidia tanto le potenze celesti quanto l'ego individuale: Agni e Vāyu non possono bruciare o muovere un filo d'erba se privi della potenza di Brahman, a dimostrazione che ogni potere è solo un riflesso del Principio.",
+      "editorial_status": "established"
+    }
+  ],
+  "notes": [
+    {
+      "id": "note-kenesitam",
+      "term": "keneṣitam",
+      "passages": [
+        "kena-1-1"
+      ],
+      "text": "L'interrogativo iniziale sposta l'asse d'indagine dalla concatenazione meccanica o biologica degli organi alla Causa cosciente prima che orienta la vita e l'intelletto.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-srotrasya-srotram",
+      "term": "śrotrasya śrotram",
+      "passages": [
+        "kena-1-2"
+      ],
+      "text": "Locuzione metafisica indicante l'essenza conoscitiva trascendente: non un organo duplicato, ma la Coscienza che rende possibile l'udire dell'udito e il vedere dell'occhio.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-nedam-upasate",
+      "term": "nedam yad idam upāsate",
+      "passages": [
+        "kena-1-5",
+        "kena-1-6",
+        "kena-1-7",
+        "kena-1-8",
+        "kena-1-9"
+      ],
+      "text": "Formula capitale di rottura contro ogni oggettivazione idolatrica o teurgica: il Brahman non è alcun ente fenomenico o divinità separata adorata dalla mente duale.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-vidita-avidita",
+      "term": "vidita / avidita",
+      "passages": [
+        "kena-1-4"
+      ],
+      "text": "Vidita è l'ordine manifesto percepibile; avidita è l'inconosciuto indifferenziato della materia causale (avyākṛta). Il Brahman trascende l'intera coppia polare.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-pratibodha",
+      "term": "pratibodha-viditam",
+      "passages": [
+        "kena-2-4"
+      ],
+      "text": "Significa 'conosciuto in ogni cognizione'. La Conoscenza metafisica è la presa d'atto del Testimone cosciente invariabile sotteso a tutti i moti psichici.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-yaksa",
+      "term": "yakṣa",
+      "passages": [
+        "kena-3-2",
+        "kena-3-6",
+        "kena-3-10",
+        "kena-3-12"
+      ],
+      "text": "Glossato tradizionalmente come pūjyaṃ mahad bhūtam: una Presenza grandiosa e veneranda attraverso cui il Brahman manifesta la propria trascendenza assoluta.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-uma-haimavati",
+      "term": "umā haimavatī",
+      "passages": [
+        "kena-3-12",
+        "kena-4-1"
+      ],
+      "text": "Personificazione della Brahma-vidyā (Sapienza divina). Quale mediatrice necessaria, rivela a Indra l'identità dello Yakṣa dopo la ritirata del fenomeno.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-adhidaivata-adhyatma",
+      "term": "adhidaivatam / adhyātmam",
+      "passages": [
+        "kena-4-4",
+        "kena-4-5"
+      ],
+      "text": "I due piani analogici dell'insegnamento: cosmico-oggettivo (il lampo celato che squarcia il cielo) e interiore-microcosmico (il moto fulmineo del pensiero che anela all'Ātman).",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-tadvana",
+      "term": "tadvana",
+      "passages": [
+        "kena-4-6"
+      ],
+      "text": "Nome sacro che esprime la natura di Brahman come il Sommo Desiderabile in Sé, amato da ogni creatura in virtù della Sua grazia essenziale.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-pratistha",
+      "term": "pratiṣṭhā",
+      "passages": [
+        "kena-4-8"
+      ],
+      "text": "I requisiti propedeutici (tapas, dama, karman) che servono da base e piedistallo alla conservazione immacolata della Conoscenza metafisica.",
+      "editorial_status": "established"
+    }
+  ],
+  "relations": {
+    "related_works": [
+      {
+        "work_id": "isha-upanishad",
+        "why": "Condivide la dottrina dell'inaccessibilità del Sé da parte dei sensi e della mente (Kena I.3 con Īśā 4) e la qualifica del Principio al di là di ogni polarità (Kena I.4 con Īśā 10 e 13)."
+      },
+      {
+        "work_id": "brihadaranyaka-upanishad",
+        "why": "Parallelismo dottrinale identico nella definizione dell'Ātman come Veggente non visto e Udente non udito (Kena I.2 con Bṛhadāraṇyaka III.7.23 e III.8.11)."
+      },
+      {
+        "work_id": "chandogya-upanishad",
+        "why": "Corrispondenza narrativa e simbolica nel discepolato di Indra per l'acquisizione della Conoscenza suprema (Kena III-IV con Chāndogya VIII.7-12)."
+      }
+    ]
+  },
+  "notes_for_reviewer": [
+    "Testo completo ed esaustivo delle 4 sezioni (Khaṇḍa I-IV) più Śānti-pāṭha iniziale e finale.",
+    "Corretti nel testo originale 4 refusi evidenti della fonte Wikisource: mīmāṃsyameva in II.1, vyadyutadā3 itīti nyamīmiṣadā3 in IV.4, yad etad gacchatīva in IV.5 e tasyai in IV.8.",
+    "Conservata la stabilità di tutti gli ID kebab-case stabiliti in fase 1 per opera, unità e singoli passaggi.",
+    "Mantenuta la rigorosa esegesi advaita di Śaṅkara sul concetto di pratibodha-viditam e sulla distinzione tra Liberazione assoluta e mondo transitorio nel verso conclusivo IV.9."
+  ]
+}

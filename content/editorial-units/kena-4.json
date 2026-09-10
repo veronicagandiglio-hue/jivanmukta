@@ -1,0 +1,77 @@
+{
+  "id": "kena-4",
+  "work_id": "kena-upanishad",
+  "unit_locus": "IV.1-9",
+  "unit_title": "Khaṇḍa IV — La rivelazione di Umā, le analogie dell'insegnamento e il fondamento della dottrina",
+  "sections": [
+    {
+      "section_locus": "IV.1-9",
+      "section_title": "Quarto Khaṇḍa",
+      "passages": [
+        {
+          "id": "kena-4-1",
+          "original": "सा ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदाञ्चकार ब्रह्मेति ॥ १ ॥",
+          "translation": "Ella rispose: «Era il Brahman! Invero, è unicamente per la vittoria del Brahman che voi avete conseguito tale gloria!». Solo da queste parole Indra apprese che si trattava del Brahman.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-4-2",
+          "original": "तस्माद्वा एते देवा अतितरामिवान्यान्देवान्यदग्निर्वायुरिन्द्रस्ते ह्येनन्नेदिष्ठं पस्पर्शुस्ते ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥ २ ॥",
+          "translation": "Per questa ragione queste divinità — Agni, Vāyu e Indra — superano di gran lunga gli altri dèi: poiché essi si accostarono più da vicino ad Esso e per primi riconobbero che Quello era il Brahman.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-4-3",
+          "original": "तस्माद्वा इन्द्रोऽतितरामिवान्यान्देवान् स ह्येनन्नेदिष्ठं पस्पर्श स ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥ ३ ॥",
+          "translation": "E perciò Indra supera per così dire tutti gli altri dèi: poiché egli si accostò più intimamente ad Esso, ed egli per primo conobbe, per rivelazione diretta, che Quello era il Brahman.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-4-4",
+          "original": "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा३ इतीति न्यमीमिषदा३ इत्यधिदैवतम् ॥ ४ ॥",
+          "translation": "Di Questo [Brahman] tale è l'indicazione analogica nell'ordine macrocosmico (adhidaivatam): Esso è come il fulgore subitaneo della folgore che abbaglia, o come l'ammiccare fulmineo dell'occhio. Tale è l'insegnamento per il tramite delle potenze divine.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-4-5",
+          "original": "अथाध्यात्मं यदेतद्गच्छतीव च मनोऽनेन चैतदुपस्मरत्यभीक्ष्णँ सङ्कल्पः ॥ ५ ॥",
+          "translation": "Ora l'indicazione analogica nell'ordine microcosmico interiore (adhyātmam): è ciò verso cui la mente sembra muoversi istantaneamente, e mediante cui il pensiero ricorda costantemente l'Assoluto e ne forma l'intenzione meditativa.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-4-6",
+          "original": "तद्ध तद्वनं नाम तद्वनमित्युपासितव्यं स य एतदेवं वेदाभि हैनँ सर्वाणि भूतानि संवाञ्छन्ति ॥ ६ ॥",
+          "translation": "Esso invero è noto con il nome sacro di Tadvana [«il Desiderabile in Sé», l'Essenza Suprema amata da ogni creatura]; come Tadvana Esso deve essere contemplato. Colui che conosce il Brahman sotto tale aspetto è sommamente desiderato e amato da tutti gli esseri.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-4-7",
+          "original": "उपनिषदं भो ब्रूहीत्युक्ता त उपनिषद्ब्राह्मीं वाव त उपनिषदमब्रूमेति ॥ ७ ॥",
+          "translation": "[Il discepolo chiese:] «Signore, insegnami la dottrina segreta (Upaniṣad)!». [Il maestro rispose:] «Ti è già stata dichiarata l'Upaniṣad. Invero, ti abbiamo esposto la dottrina segreta suprema concernente il Brahman (brāhmī upaniṣad)».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-4-8",
+          "original": "तस्यै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि सत्यमायतनम् ॥ ८ ॥",
+          "translation": "Di questa dottrina segreta il fervore spirituale (tapas), il controllo interiore dei sensi (dama) e l'azione rituale disinteressata (karman) costituiscono la base e il supporto (pratiṣṭhā); i Veda ne sono tutte le membra organiche; la Verità immutabile (satya) è la sua dimora suprema.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-4-9",
+          "original": "यो वा एतामेवं वेदापहत्य पाप्मानमनन्ते स्वर्गे लोके ज्येये प्रतितिष्ठति प्रतितिष्ठति ॥ ९ ॥ ॥ इति केनोपनिषदि चतुर्थः खण्डः ॥ ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि । सर्वं ब्रह्मौपनिषदं माऽहं ब्रह्म निराकुर्यां मा मा ब्रह्म निराकरोदनिराकरणमस्त्वनिराकरणं मेऽस्तु । तदात्मनि निरते य उपनिषत्सु धर्मास्ते मयि सन्तु ते मयि सन्तु । ॐ शान्तिः शान्तिः शान्तिः ॥ ॥ इति केनोपनिषत् समाप्ता ॥",
+          "translation": "Colui che conosce in tal modo questa dottrina, scosso da sé ogni vincolo di errore e oscuramento (pāpman), si stabilisce stabilmente nell'infinito, supremo e insuperabile Mondo di Luce [lo stato increato del Brahman]; sì, egli vi si stabilisce per sempre! Così si conclude il Quarto Khaṇḍa della Kenopaniṣad. Om. Possano rinvigorirsi le mie membra... Om. Pace, pace, pace. Così termina la Kenopaniṣad.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "q-kena-non-oggettivabilita-brahman",
+  "type": "specific",
+  "text": "Perché il Brahman non può essere conosciuto come un oggetto di pensiero, parola o percezione sensoriale?",
+  "problem": "Fondare l'impossibilità epistemica di convertire in oggetto conosciuto il Principio soggettivo assoluto che rende possibile la conoscenza medesima.",
+  "parent_question": "q-che-cose-brahman",
+  "concepts": [
+    "brahman",
+    "vidita-avidita",
+    "upadhi-upasana"
+  ],
+  "passages": [
+    "kena-1-3",
+    "kena-1-4",
+    "kena-1-5",
+    "kena-1-6",
+    "kena-1-7",
+    "kena-1-8",
+    "kena-1-9"
+  ],
+  "commentaries": [
+    "comm-kena-soggetto-trascendente"
+  ],
+  "related_questions": [
+    "q-kena-paradosso-gnoseologico"
+  ]
+}

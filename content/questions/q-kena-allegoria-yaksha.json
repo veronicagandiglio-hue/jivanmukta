@@ -1,0 +1,26 @@
+{
+  "id": "q-kena-allegoria-yaksha",
+  "type": "specific",
+  "text": "Qual è il significato dottrinale dell'apparizione dello Yakṣa e dell'impotenza di Agni e Vāyu?",
+  "problem": "Illustrare come le potenze del cosmo oggettivo e le facoltà umane derivino ogni loro efficacia unicamente dall'Assoluto sottostante.",
+  "parent_question": "q-che-cose-brahman",
+  "concepts": [
+    "deva-abhimana",
+    "brahman",
+    "brahma-vidya"
+  ],
+  "passages": [
+    "kena-3-1",
+    "kena-3-2",
+    "kena-3-6",
+    "kena-3-10",
+    "kena-3-11",
+    "kena-4-1"
+  ],
+  "commentaries": [
+    "comm-kena-allegoria-deva"
+  ],
+  "related_questions": [
+    "q-kena-funzione-uma"
+  ]
+}

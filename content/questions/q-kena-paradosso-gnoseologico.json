@@ -1,0 +1,21 @@
+{
+  "id": "q-kena-paradosso-gnoseologico",
+  "type": "specific",
+  "text": "Perché colui che afferma di «conoscere bene» il Brahman in realtà non Lo conosce affatto?",
+  "problem": "Risolvere il paradosso gnoseologico dell'Advaita per cui la pretesa di comprensione concettuale degrada l'Infinito a frammento oggettivo finito.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "brahman",
+    "brahma-vidya"
+  ],
+  "passages": [
+    "kena-2-1",
+    "kena-2-2",
+    "kena-2-3"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-kena-pratibodha-viditam",
+    "q-kena-urgenza-realizzazione"
+  ]
+}

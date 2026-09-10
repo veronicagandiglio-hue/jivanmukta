@@ -1,0 +1,104 @@
+{
+  "atma-han": [
+    "atman",
+    "avidya",
+    "karman"
+  ],
+  "atman": [
+    "atma-han",
+    "purna",
+    "isha",
+    "ekatva",
+    "soham",
+    "satya"
+  ],
+  "avidya": [
+    "atma-han",
+    "vidya",
+    "karman",
+    "sambhuti-asambhuti"
+  ],
+  "karman": [
+    "atma-han",
+    "avidya",
+    "tyaga"
+  ],
+  "purna": [
+    "atman",
+    "ekatva",
+    "isha",
+    "sambhuti-asambhuti",
+    "soham"
+  ],
+  "isha": [
+    "atman",
+    "tyaga",
+    "purna"
+  ],
+  "ekatva": [
+    "atman",
+    "purna",
+    "tyaga",
+    "soham"
+  ],
+  "soham": [
+    "atman",
+    "satya",
+    "ekatva",
+    "purna"
+  ],
+  "vidya": [
+    "avidya",
+    "sambhuti-asambhuti"
+  ],
+  "brahma-vidya": [
+    "brahman",
+    "sakshin",
+    "deva-abhimana",
+    "pratistha"
+  ],
+  "brahman": [
+    "brahma-vidya",
+    "sakshin",
+    "vidita-avidita",
+    "upadhi-upasana",
+    "tadvana",
+    "deva-abhimana"
+  ],
+  "sakshin": [
+    "brahma-vidya",
+    "brahman"
+  ],
+  "deva-abhimana": [
+    "brahma-vidya",
+    "brahman"
+  ],
+  "vidita-avidita": [
+    "brahman",
+    "upadhi-upasana"
+  ],
+  "upadhi-upasana": [
+    "brahman",
+    "vidita-avidita"
+  ],
+  "tadvana": [
+    "brahman"
+  ],
+  "tyaga": [
+    "ekatva",
+    "isha",
+    "karman"
+  ],
+  "pratistha": [
+    "brahma-vidya"
+  ],
+  "sambhuti-asambhuti": [
+    "vidya",
+    "avidya",
+    "purna"
+  ],
+  "satya": [
+    "atman",
+    "soham"
+  ]
+}

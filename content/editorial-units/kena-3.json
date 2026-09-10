@@ -1,0 +1,98 @@
+{
+  "id": "kena-3",
+  "work_id": "kena-upanishad",
+  "unit_locus": "III.1-12",
+  "unit_title": "Khaṇḍa III — L'allegoria dello Yakṣa e l'impotenza delle potenze cosmiche",
+  "sections": [
+    {
+      "section_locus": "III.1-12",
+      "section_title": "Terzo Khaṇḍa",
+      "passages": [
+        {
+          "id": "kena-3-1",
+          "original": "ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो विजये देवा अमहीयन्त ॥ १ ॥",
+          "translation": "Il Brahman, invero, ottenne la vittoria in favore degli dèi; e per quella vittoria del Brahman gli dèi si levarono a grande gloria.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-2",
+          "original": "त ऐक्षन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति । तद्धैषां विजज्ञौ तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत किमिदं यक्षमिति ॥ २ ॥",
+          "translation": "Ma essi pensarono: «Nostra soltanto è questa vittoria! Nostra soltanto è questa gloria!». Il Brahman conobbe questo loro pensiero vanaglorioso e si rese manifesto dinnanzi ad essi. Ma gli dèi non riconobbero che cosa fosse quella prodigiosa Presenza (yakṣa).",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-3",
+          "original": "तेऽग्निमब्रुवन् जातवेद एतद्विजानीहि किमिदं यक्षमिति तथेति ॥ ३ ॥",
+          "translation": "Dissero allora ad Agni: «O Jātavedas [tu che possiedi la conoscenza di tutto ciò che è generato], scopri che cosa sia questo Spirito venerando». Egli rispose: «Così sia».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-4",
+          "original": "तदभ्यद्रवत्तमभ्यवदत्कोऽसीत्यग्निर्वा अहमस्मीत्यब्रवीज्जातवेदा वा अहमस्मीति ॥ ४ ॥",
+          "translation": "Agni si precipitò verso di Esso. La Presenza gli domandò: «Chi sei tu?». Egli replicò: «Io sono invero Agni; io sono colui che tutto conosce (Jātavedas)».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-5",
+          "original": "तस्मिँस्त्वयि किं वीर्यमित्यपीदँ सर्वं दहेयं यदिदं पृथिव्यामिति ॥ ५ ॥",
+          "translation": "[La Presenza domandò:] «Quale potere sussiste in te che porti tale nome?». Agni rispose: «Io posso consumare e ridurre in cenere tutto ciò che esiste su questa terra».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-6",
+          "original": "तस्मै तृणं निदधावेतद्दहेति । तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥ ६ ॥",
+          "translation": "Quello pose dinnanzi a lui un filo d'erba, dicendo: «Brucia questo!». Agni si scagliò contro di esso con tutto il suo impeto ardente, ma non fu capace di bruciarlo. Si ritrasse di là e disse agli dèi: «Non sono stato capace di comprendere che cosa sia questa Presenza veneranda».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-7",
+          "original": "अथ वायुमब्रुवन्वायवेतद्विजानीहि किमेतद्यक्षमिति तथेति ॥ ७ ॥",
+          "translation": "Dissero allora a Vāyu: «O Vāyu, scopri che cosa sia questo Spirito venerando». Egli rispose: «Così sia».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-8",
+          "original": "तदभ्यद्रवत्तमभ्यवदत्कोऽसीति वायुर्वा अहमस्मीत्यब्रवीन्मातरिश्वा वा अहमस्मीति ॥ ८ ॥",
+          "translation": "Vāyu si precipitò verso di Esso. La Presenza gli domandò: «Chi sei tu?». Egli replicò: «Io sono invero Vāyu; io sono il Soffio che si muove nello spazio cosmico (Mātariśvan)».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-9",
+          "original": "तस्मिँस्त्वयि किं वीर्यमित्यपीदँ सर्वमाददीय यदिदं पृथिव्यामिति ॥ ९ ॥",
+          "translation": "[La Presenza domandò:] «Quale potere sussiste in te?». Vāyu rispose: «Io posso travolgere e spazzare via tutto ciò che esiste su questa terra».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-10",
+          "original": "तस्मै तृणं निदधावेतदादत्स्वेति तदुपप्रेयाय सर्वजवेन तन्न शशाकादतुम् । स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥ १० ॥",
+          "translation": "Quello pose dinnanzi a lui un filo d'erba, dicendo: «Spazza via questo!». Vāyu si scagliò contro di esso con tutta la violenza del suo turbine, ma non fu capace di rimuoverlo. Si ritrasse di là e disse: «Non sono stato capace di comprendere che cosa sia questa Presenza veneranda».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-11",
+          "original": "अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्रवत्तस्मात्तिरोदधे ॥ ११ ॥",
+          "translation": "Dissero allora a Indra: «O Maghavan [Signore della potenza sovrana], scopri che cosa sia questo Spirito venerando». Egli rispose: «Così sia». Indra si precipitò verso di Esso, ma la Presenza svanì repentinamente dinnanzi al suo sguardo.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-3-12",
+          "original": "स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमाँ हैमवतीं ताँहोवाच किमेतद्यक्षमिति ॥ १२ ॥",
+          "translation": "In quello stesso spazio celeste (ākāśa), egli si imbatté in una donna risplendente di sublime bellezza: Umā Haimavatī [la divina personificazione della Conoscenza Suprema, figlia dell'Himavat]. A lei egli domandò: «Che cosa era questa Presenza veneranda?».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        }
+      ]
+    }
+  ]
+}

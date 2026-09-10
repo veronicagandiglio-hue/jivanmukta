@@ -1,0 +1,635 @@
+{
+  "q-azione-senza-vincolo": {
+    "id": "q-azione-senza-vincolo",
+    "type": "specific",
+    "text": "Come può l'azione rituale compiersi nel mondo senza che essa vincoli l'agente?",
+    "problem": "Determinare la modalità con cui colui che vive nel dominio della molteplicità può operare conformemente al dovere senza generare aderenza karmica.",
+    "parent_question": "q-lazione-vincola",
+    "concepts": [
+      "isha",
+      "tyaga",
+      "karman"
+    ],
+    "passages": [
+      "isha-1-1",
+      "isha-1-2"
+    ],
+    "commentaries": [
+      "comm-isha-1-intro"
+    ],
+    "related_questions": [],
+    "source_file": "questions/q-azione-senza-vincolo.json"
+  },
+  "q-che-cosa-significa-conoscere": {
+    "id": "q-che-cosa-significa-conoscere",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 4,
+    "text": "Che cosa significa conoscere la realtà?",
+    "introduction": "Nella nostra esperienza ordinaria, conoscere qualcosa significa avere di fronte un oggetto — una cosa, un fatto, un'idea — e rapportarci ad esso come soggetti conoscenti. Conoscere un tavolo, una persona, una legge fisica: in tutti questi casi c'è sempre un io che conosce e un qualcosa che viene conosciuto. Ma che cosa accade quando l'oggetto della conoscenza è la Realtà stessa? Quando ciò che vogliamo conoscere è il Principio che rende possibile ogni conoscenza? La tradizione dell'Advaita Vedānta sostiene che la conoscenza ordinaria — basata sul rapporto soggetto-oggetto — è inadeguata per cogliere Brahman. Questo non significa che Brahman sia inconoscibile, ma che la sua conoscenza è di un tipo radicalmente diverso. La Kena Upaniṣad affronta questo problema con una precisione straordinaria.",
+    "problem": "Chiarire perché la conoscenza ordinaria (basata sulla dualità soggetto-oggetto) non possa cogliere Brahman e in che senso esista una forma di conoscenza non-oggettiva che è invece adeguata alla natura di Brahman.",
+    "parent_question": null,
+    "specific_questions": [
+      "q-kena-paradosso-gnoseologico",
+      "q-kena-pratibodha-viditam",
+      "q-kena-non-oggettivabilita-brahman",
+      "q-kena-urgenza-realizzazione"
+    ],
+    "concepts": [
+      "brahman",
+      "vidita-avidita",
+      "brahma-vidya",
+      "sakshin"
+    ],
+    "passages": [
+      "kena-2-1",
+      "kena-2-2",
+      "kena-2-3",
+      "kena-2-4",
+      "kena-2-5",
+      "kena-1-3",
+      "kena-1-4"
+    ],
+    "commentaries": [
+      "comm-kena-soggetto-trascendente",
+      "comm-kena-pratibodha"
+    ],
+    "related_questions": [
+      "q-che-cose-brahman",
+      "q-rapporto-se-brahman"
+    ],
+    "source_file": "questions/q-che-cosa-significa-conoscere.json"
+  },
+  "q-che-cose-brahman": {
+    "id": "q-che-cose-brahman",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 1,
+    "text": "Che cos'è Brahman?",
+    "introduction": "Brahman è il nome che la tradizione dell'Advaita Vedānta dà alla Realtà ultima, al Principio supremo e non-duale che è la sorgente, il sostegno e la sostanza di ogni cosa. Non è un dio nel senso corrente della parola: non è una divinità tra le altre, non è una potenza del cosmo, non è un essere che si trova «da qualche parte». Brahman è ciò senza di cui nulla potrebbe esistere, nulla potrebbe essere conosciuto, nulla potrebbe muoversi o agire. Le Upaniṣad non lo descrivono come un oggetto della conoscenza, ma come il Principio che rende possibile ogni conoscenza. Questa è già la prima difficoltà: Brahman non è qualcosa che possiamo afferrare con il pensiero, perché è il pensiero stesso che Brahman illumina e muove. Le domande che seguono esplorano questo paradosso attraverso i testi della tradizione.",
+    "problem": "Chiarire che cosa intenda la tradizione dell'Advaita Vedānta con il termine Brahman e perché questo Principio non possa essere compreso come un semplice oggetto di conoscenza.",
+    "parent_question": null,
+    "specific_questions": [
+      "q-kena-principio-animatore",
+      "q-kena-non-oggettivabilita-brahman",
+      "q-kena-paradosso-gnoseologico",
+      "q-natura-brahman-purna"
+    ],
+    "concepts": [
+      "brahman",
+      "vidita-avidita"
+    ],
+    "passages": [
+      "kena-1-1",
+      "kena-1-2",
+      "kena-1-3",
+      "kena-1-4",
+      "kena-1-5",
+      "isha-1-shanti",
+      "isha-1-18"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-che-cose-il-se",
+      "q-rapporto-se-brahman",
+      "q-che-cosa-significa-conoscere"
+    ],
+    "source_file": "questions/q-che-cose-brahman.json"
+  },
+  "q-che-cose-il-mondo": {
+    "id": "q-che-cose-il-mondo",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 7,
+    "text": "Che cos'è il mondo?",
+    "introduction": "Il problema del mondo — della sua realtà, della sua origine, del suo rapporto con il Principio supremo — è al centro di ogni grande metafisica. L'Advaita Vedānta offre una risposta rigorosa e a tratti paradossale: il mondo fenomenico non è una creazione nel senso teologico ordinario del termine (qualcosa che Dio ha fatto dal nulla), né è una pura illusione nel senso della negazione della sua esistenza. È piuttosto una manifestazione che non sottrae nulla alla pienezza dell'Assoluto — come l'immagine riflessa in uno specchio non impoverisce l'oggetto che vi si riflette. La Īśā Upaniṣad apre con un'affermazione che definisce il problema con una precisione straordinaria: «Tutto ciò che esiste nell'universo in movimento è avvolto (o pervaso) dal Signore». Questa non è una dichiarazione di panteismo, ma una tesi metafisica precisa sulla natura della manifestazione.",
+    "problem": "Chiarire il rapporto tra il mondo fenomenico e l'Assoluto nell'Advaita Vedānta: come il mondo possa essere reale senza che la sua realtà sia indipendente da Brahman, e come l'Infinito rimanga integro attraverso ogni manifestazione.",
+    "parent_question": null,
+    "specific_questions": [
+      "q-natura-brahman-purna",
+      "q-dialettica-sambhuti-asambhuti"
+    ],
+    "concepts": [
+      "purna",
+      "brahman",
+      "sambhuti-asambhuti"
+    ],
+    "passages": [
+      "isha-1-shanti",
+      "isha-1-18",
+      "isha-1-12",
+      "isha-1-13",
+      "isha-1-14"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-che-cose-brahman",
+      "q-che-cose-il-se"
+    ],
+    "source_file": "questions/q-che-cose-il-mondo.json"
+  },
+  "q-che-cose-il-se": {
+    "id": "q-che-cose-il-se",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 2,
+    "text": "Che cos'è il Sé?",
+    "introduction": "Nella tradizione dell'Advaita Vedānta, il Sé — in sanscrito Ātman — non è la personalità, non è il carattere individuale, non è la mente né il corpo. È il Principio di coscienza pura che testimonia ogni esperienza senza mai essere modificato da essa. Quando guardiamo qualcosa, vediamo; quando pensiamo, sappiamo; quando dormiamo senza sogni, ignoriamo. Dietro questi tre stati — veglia, sogno, sonno profondo — la tradizione indica un Testimone costante che non dipende da nessuno di essi. Questo Testimone è l'Ātman. La domanda «che cos'è il Sé?» non è quindi una domanda psicologica sull'identità personale: è una domanda metafisica sulla natura di ciò che è più intimo e insieme più universale in ogni essere.",
+    "problem": "Identificare la natura dell'Ātman come Principio di coscienza trascendente che permane immutabile attraverso tutti gli stati di esperienza e che è identico, nella sua essenza, a Brahman.",
+    "parent_question": null,
+    "specific_questions": [
+      "q-natura-atman-paradossi",
+      "q-frutto-realizzazione-unita",
+      "q-uccisori-del-se",
+      "q-identita-soham"
+    ],
+    "concepts": [
+      "atman",
+      "sakshin"
+    ],
+    "passages": [
+      "isha-1-4",
+      "isha-1-5",
+      "isha-1-6",
+      "isha-1-7",
+      "isha-1-8",
+      "isha-1-3"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-che-cose-brahman",
+      "q-rapporto-se-brahman",
+      "q-perche-soffriamo"
+    ],
+    "source_file": "questions/q-che-cose-il-se.json"
+  },
+  "q-dialettica-sambhuti-asambhuti": {
+    "id": "q-dialettica-sambhuti-asambhuti",
+    "type": "comparison",
+    "text": "Perché sia la venerazione esclusiva del Manifesto (sambhūti) sia quella del Non-Manifesto (asambhūti) conducono alla tenebra?",
+    "problem": "Riconoscere l'inadeguatezza dell'identificazione unilaterale con la matrice causale indifferenziata o con i prodotti cosmici individuali ai fini della Liberazione.",
+    "parent_question": "q-che-cose-il-mondo",
+    "concepts": [
+      "sambhuti-asambhuti",
+      "purna"
+    ],
+    "passages": [
+      "isha-1-12",
+      "isha-1-13",
+      "isha-1-14"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-dialettica-vidya-avidya"
+    ],
+    "source_file": "questions/q-dialettica-sambhuti-asambhuti.json"
+  },
+  "q-dialettica-vidya-avidya": {
+    "id": "q-dialettica-vidya-avidya",
+    "type": "comparison",
+    "text": "Qual è la corretta relazione dottrinale tra vidyā (conoscenza formale) e avidyā (azione rituale)?",
+    "problem": "Spiegare la ragione per cui la ricerca isolata di uno solo dei due termini conduce a oscuramento metafisico e come la loro sintesi consenta il superamento della mortalità.",
+    "parent_question": "q-lazione-vincola",
+    "concepts": [
+      "vidya",
+      "avidya",
+      "karman"
+    ],
+    "passages": [
+      "isha-1-9",
+      "isha-1-10",
+      "isha-1-11"
+    ],
+    "commentaries": [
+      "comm-isha-vidya-avidya"
+    ],
+    "related_questions": [
+      "q-dialettica-sambhuti-asambhuti"
+    ],
+    "source_file": "questions/q-dialettica-vidya-avidya.json"
+  },
+  "q-e-possibile-la-liberta": {
+    "id": "q-e-possibile-la-liberta",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 5,
+    "text": "È possibile liberarsi durante questa vita?",
+    "introduction": "Il termine jīvanmukta — da cui prende il nome questo progetto — indica letteralmente «colui che è liberato mentre è ancora in vita». La liberazione (mokṣa) non è quindi necessariamente un evento post-mortem, un premio ultraterreno o un traguardo irraggiungibile: la tradizione dell'Advaita Vedānta afferma che è possibile realizzarla nella vita presente, come trasformazione radicale della comprensione di sé. Ma questa affermazione solleva immediatamente una domanda: se la liberazione è possibile ora, perché così pochi la realizzano? E che cosa si deve intendere per «liberazione» — uno stato psicologico, una condizione metafisica, un modo di agire nel mondo? I testi che seguono affrontano questa domanda con una serietà e una precisione che non ha equivalenti nella spiritualità moderna.",
+    "problem": "Determinare se e in quale senso sia possibile realizzare la liberazione (mokṣa) durante l'esistenza presente e che cosa questo implichi concretamente per la comprensione di sé e per l'azione nel mondo.",
+    "parent_question": null,
+    "specific_questions": [
+      "q-kena-urgenza-realizzazione",
+      "q-frutto-realizzazione-unita",
+      "q-azione-senza-vincolo"
+    ],
+    "concepts": [
+      "brahma-vidya",
+      "atman",
+      "karman"
+    ],
+    "passages": [
+      "kena-2-5",
+      "isha-1-6",
+      "isha-1-7",
+      "isha-1-1",
+      "isha-1-2"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-che-cose-il-se",
+      "q-lazione-vincola",
+      "q-perche-soffriamo"
+    ],
+    "source_file": "questions/q-e-possibile-la-liberta.json"
+  },
+  "q-frutto-realizzazione-unita": {
+    "id": "q-frutto-realizzazione-unita",
+    "type": "specific",
+    "text": "Qual è la condizione metafisica di colui che realizza l'Unità essenziale del Sé in tutti gli esseri?",
+    "problem": "Chiarire come la visione diretta dell'Unità (ekatva) estingua istantaneamente l'inganno primordiale (moha), la sofferenza (śoka) e il sentimento di separazione.",
+    "parent_question": "q-che-cose-il-se",
+    "concepts": [
+      "ekatva",
+      "atman",
+      "tyaga"
+    ],
+    "passages": [
+      "isha-1-6",
+      "isha-1-7"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-uccisori-del-se",
+      "q-azione-senza-vincolo"
+    ],
+    "source_file": "questions/q-frutto-realizzazione-unita.json"
+  },
+  "q-identita-soham": {
+    "id": "q-identita-soham",
+    "type": "specific",
+    "text": "Che cosa esprime la formula di reintegrazione «so'ham asmi» al momento della contemplazione del principio solare?",
+    "problem": "Afferrare il superamento del velo fenomenico-aureo e la realizzazione dell'identità priva di differenziazione tra il Sole cosmico e il Sé cosciente interiore.",
+    "parent_question": "q-natura-brahman-purna",
+    "concepts": [
+      "satya",
+      "soham",
+      "atman"
+    ],
+    "passages": [
+      "isha-1-15",
+      "isha-1-16",
+      "isha-1-17"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-identita-soham.json"
+  },
+  "q-kena-allegoria-yaksha": {
+    "id": "q-kena-allegoria-yaksha",
+    "type": "specific",
+    "text": "Qual è il significato dottrinale dell'apparizione dello Yakṣa e dell'impotenza di Agni e Vāyu?",
+    "problem": "Illustrare come le potenze del cosmo oggettivo e le facoltà umane derivino ogni loro efficacia unicamente dall'Assoluto sottostante.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "deva-abhimana",
+      "brahman",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "kena-3-1",
+      "kena-3-2",
+      "kena-3-6",
+      "kena-3-10",
+      "kena-3-11",
+      "kena-4-1"
+    ],
+    "commentaries": [
+      "comm-kena-allegoria-deva"
+    ],
+    "related_questions": [
+      "q-kena-funzione-uma"
+    ],
+    "source_file": "questions/q-kena-allegoria-yaksha.json"
+  },
+  "q-kena-analogie-adhidaivata-adhyatma": {
+    "id": "q-kena-analogie-adhidaivata-adhyatma",
+    "type": "comparison",
+    "text": "In che modo l'illuminazione di Brahman viene descritta sotto l'aspetto cosmico (adhidaivatam) e microcosmico (adhyātmam)?",
+    "problem": "Spiegare la corrispondenza analogica tra la folgore esteriore istantanea e il moto fulmineo del ricordo meditativo nell'ordine interiore.",
+    "parent_question": "q-rapporto-se-brahman",
+    "concepts": [
+      "brahman",
+      "sakshin"
+    ],
+    "passages": [
+      "kena-4-4",
+      "kena-4-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-kena-analogie-adhidaivata-adhyatma.json"
+  },
+  "q-kena-funzione-uma": {
+    "id": "q-kena-funzione-uma",
+    "type": "specific",
+    "text": "Quale funzione metafisica svolge Umā Haimavatī nell'istruzione impartita a Indra?",
+    "problem": "Chiarire il ruolo necessario di mediazione della Brahma-vidyā affinché l'intelletto sovrano possa identificare l'Assoluto dopo la ritirata dei fenomeni.",
+    "parent_question": "q-kena-allegoria-yaksha",
+    "concepts": [
+      "brahma-vidya",
+      "brahman"
+    ],
+    "passages": [
+      "kena-3-12",
+      "kena-4-1",
+      "kena-4-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-kena-funzione-uma.json"
+  },
+  "q-kena-non-oggettivabilita-brahman": {
+    "id": "q-kena-non-oggettivabilita-brahman",
+    "type": "specific",
+    "text": "Perché il Brahman non può essere conosciuto come un oggetto di pensiero, parola o percezione sensoriale?",
+    "problem": "Fondare l'impossibilità epistemica di convertire in oggetto conosciuto il Principio soggettivo assoluto che rende possibile la conoscenza medesima.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "brahman",
+      "vidita-avidita",
+      "upadhi-upasana"
+    ],
+    "passages": [
+      "kena-1-3",
+      "kena-1-4",
+      "kena-1-5",
+      "kena-1-6",
+      "kena-1-7",
+      "kena-1-8",
+      "kena-1-9"
+    ],
+    "commentaries": [
+      "comm-kena-soggetto-trascendente"
+    ],
+    "related_questions": [
+      "q-kena-paradosso-gnoseologico"
+    ],
+    "source_file": "questions/q-kena-non-oggettivabilita-brahman.json"
+  },
+  "q-kena-paradosso-gnoseologico": {
+    "id": "q-kena-paradosso-gnoseologico",
+    "type": "specific",
+    "text": "Perché colui che afferma di «conoscere bene» il Brahman in realtà non Lo conosce affatto?",
+    "problem": "Risolvere il paradosso gnoseologico dell'Advaita per cui la pretesa di comprensione concettuale degrada l'Infinito a frammento oggettivo finito.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "brahman",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "kena-2-1",
+      "kena-2-2",
+      "kena-2-3"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-kena-pratibodha-viditam",
+      "q-kena-urgenza-realizzazione"
+    ],
+    "source_file": "questions/q-kena-paradosso-gnoseologico.json"
+  },
+  "q-kena-pratibodha-viditam": {
+    "id": "q-kena-pratibodha-viditam",
+    "type": "specific",
+    "text": "Che cosa significa che il Brahman è conosciuto come Testimone immanente in ogni moto di coscienza (pratibodha-viditam)?",
+    "problem": "Dimostrare che la Conoscenza reale non è un pensiero temporaneo ma l'intuizione della Coscienza costante che illumina ogni singola percezione.",
+    "parent_question": "q-kena-paradosso-gnoseologico",
+    "concepts": [
+      "sakshin",
+      "brahman"
+    ],
+    "passages": [
+      "kena-2-4"
+    ],
+    "commentaries": [
+      "comm-kena-pratibodha"
+    ],
+    "related_questions": [],
+    "source_file": "questions/q-kena-pratibodha-viditam.json"
+  },
+  "q-kena-principio-animatore": {
+    "id": "q-kena-principio-animatore",
+    "type": "specific",
+    "text": "Qual è il Principio trascendente che muove e illumina la mente, il soffio vitale e le facoltà sensoriali?",
+    "problem": "Spiegare la scaturigine non-empirica delle funzioni cognitive e biologiche che operano nell'individuo non per dinamismo autonomo ma per impulso dell'Ātman.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "brahman",
+      "sakshin"
+    ],
+    "passages": [
+      "kena-1-1",
+      "kena-1-2"
+    ],
+    "commentaries": [
+      "comm-kena-soggetto-trascendente"
+    ],
+    "related_questions": [
+      "q-kena-non-oggettivabilita-brahman"
+    ],
+    "source_file": "questions/q-kena-principio-animatore.json"
+  },
+  "q-kena-supporti-pratistha": {
+    "id": "q-kena-supporti-pratistha",
+    "type": "specific",
+    "text": "Quali sono i supporti preparatori (pratiṣṭhā) e la dimora eterna della dottrina dell'Upaniṣad?",
+    "problem": "Definire l'articolazione gerarchica tra ascesi (tapas), padronanza dei sensi (dama), dovere rituale (karman) e la conquista della Verità inalterabile (satya).",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "pratistha",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "kena-4-7",
+      "kena-4-8",
+      "kena-4-9"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-kena-supporti-pratistha.json"
+  },
+  "q-kena-urgenza-realizzazione": {
+    "id": "q-kena-urgenza-realizzazione",
+    "type": "specific",
+    "text": "Qual è il valore decisivo della realizzazione della Verità nell'esistenza terrena attuale?",
+    "problem": "Comprendere la gravità della perdita spirituale (mahatī vinaṣṭiḥ) nel caso di mancata realizzazione metafisica nel corso della vita presente.",
+    "parent_question": "q-e-possibile-la-liberta",
+    "concepts": [
+      "brahman",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "kena-2-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-kena-urgenza-realizzazione.json"
+  },
+  "q-lazione-vincola": {
+    "id": "q-lazione-vincola",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 8,
+    "text": "L'azione ci lega necessariamente?",
+    "introduction": "Una delle domande pratiche più urgenti per chi si avvicina alla metafisica tradizionale è questa: se tutto è Brahman, se il Sé è puro e immutabile, se la realtà ultima è non-duale — che senso ha agire? E viceversa: se dobbiamo agire nel mondo — per vivere, per adempiere i nostri doveri, per relazionarci con gli altri — l'azione non ci vincola inevitabilmente, non crea aderenza karmica, non ci tiene legati al ciclo dell'esistenza? La Īśā Upaniṣad affronta questo problema fin dal primo verso. La risposta non è una via di fuga dall'azione né un'esaltazione dell'attivismo: è una comprensione della modalità con cui l'azione può essere compiuta senza che il suo frutto diventi un vincolo. Questa è la dottrina del tyāga — il distacco non dall'azione in sé, ma dall'appropriazione del suo risultato.",
+    "problem": "Determinare se e come l'azione possa essere compiuta senza generare vincolo karmico, e quale sia la condizione interiore che permette di agire nel mondo senza che l'azione si trasformi in catena.",
+    "parent_question": null,
+    "specific_questions": [
+      "q-azione-senza-vincolo",
+      "q-dialettica-vidya-avidya",
+      "q-dialettica-sambhuti-asambhuti"
+    ],
+    "concepts": [
+      "karman",
+      "tyaga",
+      "vidya",
+      "avidya"
+    ],
+    "passages": [
+      "isha-1-1",
+      "isha-1-2",
+      "isha-1-9",
+      "isha-1-10",
+      "isha-1-11"
+    ],
+    "commentaries": [
+      "comm-isha-vidya-avidya"
+    ],
+    "related_questions": [
+      "q-e-possibile-la-liberta",
+      "q-che-cose-il-se"
+    ],
+    "source_file": "questions/q-lazione-vincola.json"
+  },
+  "q-natura-atman-paradossi": {
+    "id": "q-natura-atman-paradossi",
+    "type": "specific",
+    "text": "In che modo l'Ātman concilia in Sé trascendenza, immanenza e assenza di movimento?",
+    "problem": "Risolvere la paradossale descrizione dell'Ātman che, pur rimanendo immobile e incorporeo, precede ed eccede ogni facoltà mentale e percettiva del cosmo.",
+    "parent_question": "q-che-cose-il-se",
+    "concepts": [
+      "atman",
+      "purna"
+    ],
+    "passages": [
+      "isha-1-4",
+      "isha-1-5",
+      "isha-1-8"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-frutto-realizzazione-unita"
+    ],
+    "source_file": "questions/q-natura-atman-paradossi.json"
+  },
+  "q-natura-brahman-purna": {
+    "id": "q-natura-brahman-purna",
+    "type": "specific",
+    "text": "Qual è la natura dell'Assoluto rispetto alla manifestazione cosmica?",
+    "problem": "Definire se la manifestazione dell'universo sottragga o aggiunga realtà all'Assoluto trascendente, e in che termini l'infinità del Principio rimanga inalterata.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "purna",
+      "atman"
+    ],
+    "passages": [
+      "isha-1-shanti",
+      "isha-1-18"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-natura-atman-paradossi"
+    ],
+    "source_file": "questions/q-natura-brahman-purna.json"
+  },
+  "q-perche-soffriamo": {
+    "id": "q-perche-soffriamo",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 6,
+    "text": "Perché soffriamo?",
+    "introduction": "La sofferenza, nella prospettiva dell'Advaita Vedānta, non è il risultato del caso, della sfortuna o della malvagità altrui: è la conseguenza di uno scambio fondamentale di identità. Quando ci identifichiamo con il corpo, con la mente, con la personalità — con tutto ciò che cambia, declina e muore — ci separiamo interiormente dalla nostra vera natura, che è Coscienza pura e immutabile. Questa ignoranza primordiale (avidyā) è la radice di ogni sofferenza. Non si tratta di una spiegazione moralistica del dolore, né di un invito a negare la sofferenza o a ignorarla: la tradizione riconosce la realtà dell'esperienza dolorosa e al tempo stesso indica la sua causa profonda. I testi delle Upaniṣad affrontano questa questione con una durezza che può sorprendere, ma che è al servizio di una comprensione autentica.",
+    "problem": "Identificare la causa metafisica della sofferenza nell'ignoranza della propria vera natura (avidyā) e nella conseguente identificazione con ciò che è impermanente.",
+    "parent_question": null,
+    "specific_questions": [
+      "q-uccisori-del-se",
+      "q-natura-atman-paradossi"
+    ],
+    "concepts": [
+      "avidya",
+      "atman",
+      "atma-han"
+    ],
+    "passages": [
+      "isha-1-3",
+      "isha-1-4",
+      "isha-1-5"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-che-cose-il-se",
+      "q-e-possibile-la-liberta"
+    ],
+    "source_file": "questions/q-perche-soffriamo.json"
+  },
+  "q-rapporto-se-brahman": {
+    "id": "q-rapporto-se-brahman",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 3,
+    "text": "Che rapporto c'è tra il Sé e Brahman?",
+    "introduction": "Una delle affermazioni più radicali dell'Advaita Vedānta è contenuta in quattro grandi sentenze (mahāvākya) della tradizione upaniṣadica, la più nota delle quali è «Tat tvam asi» — «Tu sei Quello». Il Sé individuale (Ātman) e la Realtà suprema (Brahman) non sono due realtà distinte che si incontrano o si avvicinano: sono, nella loro natura più profonda, un'unica e identica realtà. Questa non è un'affermazione poetica né mistica nel senso vago del termine: è una tesi metafisica precisa, con una struttura argomentativa rigorosa. Capire come sia possibile che l'infinito e il finito siano identici — senza che questa identità collassi in un panteismo o in un nichilismo — è uno degli obiettivi principali dello studio dell'Advaita.",
+    "problem": "Comprendere il fondamento dottrinale dell'identità tra Ātman e Brahman e come questa identità si concili con l'esperienza ordinaria della molteplicità e della separazione.",
+    "parent_question": null,
+    "specific_questions": [
+      "q-kena-analogie-adhidaivata-adhyatma",
+      "q-kena-pratibodha-viditam"
+    ],
+    "concepts": [
+      "atman",
+      "brahman",
+      "sakshin"
+    ],
+    "passages": [
+      "kena-2-4",
+      "kena-4-4",
+      "kena-4-5",
+      "isha-1-6",
+      "isha-1-7"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-che-cose-brahman",
+      "q-che-cose-il-se",
+      "q-che-cosa-significa-conoscere"
+    ],
+    "source_file": "questions/q-rapporto-se-brahman.json"
+  },
+  "q-uccisori-del-se": {
+    "id": "q-uccisori-del-se",
+    "type": "specific",
+    "text": "Chi sono coloro che «uccidono il Sé» (ātmahan) e qual è il loro destino?",
+    "problem": "Comprendere in che modo un essere incorruttibile come l'Ātman possa dirsi «ucciso» dall'ignorante che si identifica con le apparenze transitorie del divenire.",
+    "parent_question": "q-perche-soffriamo",
+    "concepts": [
+      "atma-han",
+      "avidya"
+    ],
+    "passages": [
+      "isha-1-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-uccisori-del-se.json"
+  }
+}

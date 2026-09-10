@@ -1,0 +1,38 @@
+{
+  "adi-shankara": {
+    "id": "adi-shankara",
+    "name": "Ādi Śaṅkarācārya",
+    "transliteration": "Ādi Śaṅkarācārya",
+    "role": "commentator",
+    "role_description": "Maestro fondatore e codificatore dell'Advaita Vedānta ortodosso",
+    "context": "VIII secolo d.C., autore del celebre Īśāvāsyopaniṣad-bhāṣya",
+    "concepts": [
+      "atman",
+      "purna",
+      "tyaga",
+      "avidya",
+      "vidya"
+    ],
+    "related_authors": [
+      "vedic-rishis"
+    ],
+    "source_file": "authors/adi-shankara.json"
+  },
+  "vedic-rishis": {
+    "id": "vedic-rishis",
+    "name": "Vedic Rishis",
+    "transliteration": "Vedic Rishis",
+    "role": "author",
+    "role_description": "Veggenti vedici ispirati primordiali a cui fu rivelata la Śruti",
+    "context": "Periodo vedico primordiale, Śukla Yajurveda",
+    "concepts": [
+      "purna",
+      "isha",
+      "atman",
+      "ekatva",
+      "soham"
+    ],
+    "related_authors": [],
+    "source_file": "authors/vedic-rishis.json"
+  }
+}

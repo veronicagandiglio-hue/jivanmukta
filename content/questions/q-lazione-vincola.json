@@ -1,0 +1,35 @@
+{
+  "id": "q-lazione-vincola",
+  "scope": "global",
+  "type": "great",
+  "homepage_priority": 8,
+  "text": "L'azione ci lega necessariamente?",
+  "introduction": "Una delle domande pratiche più urgenti per chi si avvicina alla metafisica tradizionale è questa: se tutto è Brahman, se il Sé è puro e immutabile, se la realtà ultima è non-duale — che senso ha agire? E viceversa: se dobbiamo agire nel mondo — per vivere, per adempiere i nostri doveri, per relazionarci con gli altri — l'azione non ci vincola inevitabilmente, non crea aderenza karmica, non ci tiene legati al ciclo dell'esistenza? La Īśā Upaniṣad affronta questo problema fin dal primo verso. La risposta non è una via di fuga dall'azione né un'esaltazione dell'attivismo: è una comprensione della modalità con cui l'azione può essere compiuta senza che il suo frutto diventi un vincolo. Questa è la dottrina del tyāga — il distacco non dall'azione in sé, ma dall'appropriazione del suo risultato.",
+  "problem": "Determinare se e come l'azione possa essere compiuta senza generare vincolo karmico, e quale sia la condizione interiore che permette di agire nel mondo senza che l'azione si trasformi in catena.",
+  "parent_question": null,
+  "specific_questions": [
+    "q-azione-senza-vincolo",
+    "q-dialettica-vidya-avidya",
+    "q-dialettica-sambhuti-asambhuti"
+  ],
+  "concepts": [
+    "karman",
+    "tyaga",
+    "vidya",
+    "avidya"
+  ],
+  "passages": [
+    "isha-1-1",
+    "isha-1-2",
+    "isha-1-9",
+    "isha-1-10",
+    "isha-1-11"
+  ],
+  "commentaries": [
+    "comm-isha-vidya-avidya"
+  ],
+  "related_questions": [
+    "q-e-possibile-la-liberta",
+    "q-che-cose-il-se"
+  ]
+}

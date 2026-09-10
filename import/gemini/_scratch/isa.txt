@@ -1,0 +1,1667 @@
+1. Identificazione del blocco
+
+  - Opera: Īśopaniṣad (nota anche come Īśāvāsya Upaniṣad, compresa come
+    quarantesimo capitolo della Vājasaneyi-Saṃhitā dello Śukla Yajurveda).
+  - Contenuto del blocco: Testo completo dell'opera, comprensivo dello
+    Śānti-pāṭha iniziale (e finale) e dei 18 mantra canonici.
+  - Fonte materiale fornita: Documento PDF di 4 pagine proveniente da
+    sanskritdocuments.org (file: iisha.itx / iisha.pdf).
+
+2. Posizione nell'opera
+
+  - Tradizione: Śukla Yajurveda (recensione Kāṇva / Mādhyandina).
+  - Collocazione: Vājasaneyi-Saṃhitā, capitolo XL (l'unica tra le grandi
+    Upaniṣad a essere inclusa direttamente all'interno della Saṃhitā vedica e
+    non in un Brāhmaṇa o Āraṇyaka).
+  - Articolazione: Sezione unica indivisa.
+  - Locus:
+      - Śānti-pāṭha (Invocazione di pace);
+      - Mantra 1 – 18;
+      - Śānti-pāṭha (Chiusura).
+
+3. Eventuali problemi del testo originale
+
+1.  Glifi corrotti e artefatti di codifica nel testo sorgente al Mantra 8:
+      - Alla prima riga del mantra 8 compare अव्रणमस्नाविरꣳ: il simbolo `` è un
+        artefatto dovuto a un'interruzione di riga o a una legatura tipografica
+        non risolta nel file sorgente per il nesso consonantico / separatore
+        sillabico di अव्रणम् अस्नाविरम् (avraṇam asnāviram).
+      - Alla seconda riga del mantra 8 compare स्वयम्भूर्याथातथ्यतो: parimenti,
+        il simbolo `` segnala un difetto di rendering del visarga o
+        dell'assimilazione fonetica (sandhi) स्वयम्भूः याथातथ्यतो (svayambhūḥ
+        yāthātathyataḥ / svayambhūryāthātathyato).
+2.  Notazione fonetica vedica dell'anunāsika:
+      - Il testo della Vājasaneyi-Saṃhitā fa uso del segno vedico ꣳ (gum-kāra /
+        candrabindu-anunāsika) per indicare la specifica nasalizzazione vedica
+        davanti a consonanti sibilanti e semivocali (es. सर्वं यत्किञ्च
+        trascritto सर्वꣳ यत्किञ्च, शतं समाः trascritto शतꣳ समाः, अस्नाविरम्
+        trascritto अस्नाविरꣳ, उभयं सह trascritto उभयꣳ सह, भस्मान्तं शरीरम्
+        trascritto भस्मान्तꣳ शरीरम्). La grafia è stata registrata fedelmente.
+3.  Varianti testuali esegetiche ai Mantra 12 e 14:
+      - Nel mantra 14 il testo recita: सम्भूतिं च विनाशं च यस्तद्वेदोभयꣳ सह ।
+        विनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते ॥ laddove il mantra 12
+        istituisce l'antitesi tra असम्भूति (asambhūti) e सम्भूति (sambhūti).
+        Secondo la rigorosa esegesi advaita di Śaṅkara, nel verso 14 विनाश
+        (vināśa) corrisponde alla natura dell'effetto transitorio e perituro,
+        mentre l'ultimo emistichio postula la risoluzione nella Causa
+        primordiale non-manifestata (asambhūti, letta con elisione dell'a-kāra /
+        praśleṣa: 'sambhootyā).
+
+4. ID assegnati in questo blocco
+
+  - ID dell'opera: isha-upanishad
+  - ID unità editoriale: isha-1
+  - ID dei passaggi:
+      - isha-1-shanti (Locus: Śānti-pāṭha)
+      - isha-1-1 (Locus: 1)
+      - isha-1-2 (Locus: 2)
+      - isha-1-3 (Locus: 3)
+      - isha-1-4 (Locus: 4)
+      - isha-1-5 (Locus: 5)
+      - isha-1-6 (Locus: 6)
+      - isha-1-7 (Locus: 7)
+      - isha-1-8 (Locus: 8)
+      - isha-1-9 (Locus: 9)
+      - isha-1-10 (Locus: 10)
+      - isha-1-11 (Locus: 11)
+      - isha-1-12 (Locus: 12)
+      - isha-1-13 (Locus: 13)
+      - isha-1-14 (Locus: 14)
+      - isha-1-15 (Locus: 15)
+      - isha-1-16 (Locus: 16)
+      - isha-1-17 (Locus: 17)
+      - isha-1-18 (Locus: 18)
+
+5, 6, 7. Passaggi identificati, Testo originale e Traduzione italiana completa
+
+[Passaggio 1]
+
+  - ID: isha-1-shanti
+  - Locus: Śānti-pāṭha
+  - Numero progressivo: 1
+  - Testo originale:
+    ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।
+    पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+    ॐ शान्तिः शान्तिः शान्तिः ॥
+  - Traduzione italiana:
+    Om. Quello [l'Assoluto non-manifestato, il Principio supremo] è la Pienezza;
+    questo [il cosmo manifestato, l'universo condizionato] è la Pienezza. Dalla
+    Pienezza scaturisce la Pienezza. Sottratta la Pienezza dalla Pienezza, la
+    Pienezza sola permane.
+    Om. Pace, pace, pace.
+
+[Passaggio 2]
+
+  - ID: isha-1-1
+  - Locus: 1
+  - Numero progressivo: 2
+  - Testo originale:
+    ॐ ईशा वास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत् ।
+    तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥ १॥
+  - Traduzione italiana:
+    Om. Tutto questo — qualunque cosa sia mutevole e soggetta a perenne divenire
+    in questo mondo — deve essere ricoperto e avviluppato dal Signore (Īśa). Per
+    mezzo di questa rinuncia [all'illusoria appropriazione individuale],
+    sostieniti (trova il tuo vero godimento); non bramare la ricchezza di
+    alcuno.
+
+[Passaggio 3]
+
+  - ID: isha-1-2
+  - Locus: 2
+  - Numero progressivo: 3
+  - Testo originale:
+    कुर्वन्नेवेह कर्माणि जिजीविषेच्छतꣳ समाः ।
+    एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥ २॥
+  - Traduzione italiana:
+    Soltanto compiendo le opere rituali in questo mondo si dovrebbe desiderare
+    di vivere cent'anni. Per te, in quanto uomo [ancora vincolato all'azione e
+    privo della suprema conoscenza], non vi è altra via da percorrere affinché
+    l'azione non aderisca a te.
+
+[Passaggio 4]
+
+  - ID: isha-1-3
+  - Locus: 3
+  - Numero progressivo: 4
+  - Testo originale:
+    असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः ।
+    ताꣳस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥ ३॥
+  - Traduzione italiana:
+    Privi di luce spirituale (asuryāḥ, demoniaci) sono chiamati quei mondi,
+    avvolti da cieca tenebra; a essi muovono, dopo essersi dipartiti da questa
+    vita, tutti quegli individui che uccidono il Sé [ignorando la natura
+    immutabile dell'Ātman e agendo come se Esso non fosse].
+
+[Passaggio 5]
+
+  - ID: isha-1-4
+  - Locus: 4
+  - Numero progressivo: 5
+  - Testo originale:
+    अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत् ।
+    तद्धावतोऽन्यानत्येति तिष्ठत्तस्मिन्नपो मातरिश्वा दधाति ॥ ४॥
+  - Traduzione italiana:
+    Immobile, Uno, più rapido della mente; le facoltà sensoriali e le potenze
+    cosmiche (devāḥ) non poterono raggiungerLo, poiché Esso le ha sempre
+    precedute. Pur rimanendo immobile, Esso oltrepassa tutti gli altri che
+    corrono. In Esso il Soffio cosmico (Mātariśvan) stabilisce le acque [la
+    totalità delle attività vitali e delle determinazioni causali].
+
+[Passaggio 6]
+
+  - ID: isha-1-5
+  - Locus: 5
+  - Numero progressivo: 6
+  - Testo originale:
+    तदेजति तन्नैजति तद्दूरे तद्वन्तिके ।
+    तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥ ५॥
+  - Traduzione italiana:
+    Esso si muove e non si muove; Esso è lontano ed è vicino. Esso è all'interno
+    di tutto questo, ed Esso è all'esterno di tutto questo.
+
+[Passaggio 7]
+
+  - ID: isha-1-6
+  - Locus: 6
+  - Numero progressivo: 7
+  - Testo originale:
+    यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति ।
+    सर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥ ६॥
+  - Traduzione italiana:
+    Colui che contempla costantemente tutti gli esseri nel Sé stesso, e il Sé in
+    tutti gli esseri, da quel momento non prova più ripulsa né senso di
+    separazione.
+
+[Passaggio 8]
+
+  - ID: isha-1-7
+  - Locus: 7
+  - Numero progressivo: 8
+  - Testo originale:
+    यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः ।
+    तत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥ ७॥
+  - Traduzione italiana:
+    Quando, per il conoscitore discriminante, tutti gli esseri sono divenuti il
+    Sé stesso, quale inganno, quale dolore può sussistere per colui che scorge
+    l'Unità essenziale?
+
+[Passaggio 9]
+
+  - ID: isha-1-8
+  - Locus: 8
+  - Numero progressivo: 9
+  - Testo originale:
+    स पर्यगाच्छुक्रमकायमव्रणमस्नाविरꣳ शुद्धमपापविद्धम् ।
+    कविर्मनीषी परिभूः स्वयम्भूः याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥
+    ८॥
+  - Traduzione italiana:
+    Esso ha pervaso tutto: [l'Ātman è] luminoso, incorporeo, privo di ferita
+    (indivisibile), senza tendini (privo di compagine organica e di membra),
+    puro, incontaminato dal male. Il Veggente (kavi), il Signore della mente
+    (manīṣin), Colui che tutto trascende e sovrasta (paribhū), l'Autosussistente
+    (svayambhū), ha ordinato rettamente gli oggetti e i doveri secondo la loro
+    reale natura per la durata di cicli perenni.
+
+[Passaggio 10]
+
+  - ID: isha-1-9
+  - Locus: 9
+  - Numero progressivo: 10
+  - Testo originale:
+    अन्धं तमः प्रविशन्ति येऽविद्यामुपासते ।
+    ततो भूय इव ते तमो य उ विद्यायाꣳ रताः ॥ ९॥
+  - Traduzione italiana:
+    Entrano in una cieca tenebra coloro che si dedicano unicamente alla
+    non-conoscenza (avidyā, i meri riti privi di contemplazione interiore); ma
+    in una tenebra ancor più densa entrano coloro che si compiacciono
+    esclusivamente nella conoscenza formale (vidyā, la meditazione separata
+    sulle divinità cosmiche).
+
+[Passaggio 11]
+
+  - ID: isha-1-10
+  - Locus: 10
+  - Numero progressivo: 11
+  - Testo originale:
+    अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया ।
+    इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १०॥
+  - Traduzione italiana:
+    «Altro, invero, è il frutto che si dichiara derivare dalla conoscenza
+    formale (vidyā), e altro quello che si dichiara derivare dall'azione rituale
+    (avidyā)»: così abbiamo udito dagli uomini saldi nella saggezza (dhīrāḥ),
+    che ce lo hanno esposto partitamente.
+
+[Passaggio 12]
+
+  - ID: isha-1-11
+  - Locus: 11
+  - Numero progressivo: 12
+  - Testo originale:
+    विद्यां चाविद्यां च यस्तद्वेदोभयꣳ सह ।
+    अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते ॥ ११॥
+  - Traduzione italiana:
+    Colui che conosce congiuntamente l'una e l'altra, la conoscenza meditativa
+    formale e l'azione rituale purificatrice, superata la morte per mezzo
+    dell'azione rituale (avidyā), consegue l'immortalità [lo stato
+    sovraindividuale relativo] mediante la contemplazione (vidyā).
+
+[Passaggio 13]
+
+  - ID: isha-1-12
+  - Locus: 12
+  - Numero progressivo: 13
+  - Testo originale:
+    अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते ।
+    ततो भूय इव ते तमो य उ सम्भूत्याꣳ रताः ॥ १२॥
+  - Traduzione italiana:
+    Entrano in una cieca tenebra coloro che si dedicano all'Inoriginato
+    non-manifestato (asambhūti, la prakṛti primordiale non-sviluppata); ma in
+    una tenebra ancor più densa entrano coloro che si compiacciono unicamente
+    nel Manifesto generato (sambhūti, l'effetto cosmo-formale).
+
+[Passaggio 14]
+
+  - ID: isha-1-13
+  - Locus: 13
+  - Numero progressivo: 14
+  - Testo originale:
+    अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात् ।
+    इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १३॥
+  - Traduzione italiana:
+    «Altro invero si afferma procedere dal Manifesto (sambhava), e altro dal
+    Non-Manifesto (asambhava)»: così abbiamo udito dai saggi che ce lo hanno
+    esposto partitamente.
+
+[Passaggio 15]
+
+  - ID: isha-1-14
+  - Locus: 14
+  - Numero progressivo: 15
+  - Testo originale:
+    सम्भूतिं च विनाशं च यस्तद्वेदोभयꣳ सह ।
+    विनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते ॥ १४॥
+  - Traduzione italiana:
+    Colui che comprende congiuntamente la Causa primordiale e la Distruzione
+    [delle forme manifestate], superata la morte mediante la discriminazione del
+    perituro (vināśa), consegue l'immortalità attraverso la risoluzione nella
+    Causa prima (sambhūti / asambhūti).
+
+[Passaggio 16]
+
+  - ID: isha-1-15
+  - Locus: 15
+  - Numero progressivo: 16
+  - Testo originale:
+    हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् ।
+    तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥ १५॥
+  - Traduzione italiana:
+    Da un disco d'oro sfavillante è velato il volto della Verità. O Pūṣan
+    [Principio solare nutritore], scoprilo tu, affinché io, che ho come legge la
+    Verità (satyadharma), possa contemplarlo direttamente.
+
+[Passaggio 17]
+
+  - ID: isha-1-16
+  - Locus: 16
+  - Numero progressivo: 17
+  - Testo originale:
+    पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः ।
+    यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि ॥ १६॥
+  - Traduzione italiana:
+    O Pūṣan! O Veggente solitario! O Ordinatore sovrano (Yama)! O Sole (Sūrya)!
+    O progenie di Prajāpati! Dissipa i tuoi raggi, raccogli il tuo fulgore
+    abbagliante, affinché io possa contemplare la tua forma supremamente
+    propizia. Quel Puruṣa che è lassù nel centro solare, Egli stesso io sono
+    (so'ham asmi).
+
+[Passaggio 18]
+
+  - ID: isha-1-17
+  - Locus: 17
+  - Numero progressivo: 18
+  - Testo originale:
+    वायुरनिलममृतमथेदं भस्मान्तꣳ शरीरम् ।
+    ॐ क्रतो स्मर कृतꣳ स्मर क्रतो स्मर कृतꣳ स्मर ॥ १७॥
+  - Traduzione italiana:
+    Possa il soffio vitale (prāṇa) reintegrarsi nell'Aria immortale [il
+    principio cosmico del Vāyu], e questo corpo finire in cenere. Om! O
+    intelletto volitivo (kratu), ricorda! Ricorda ciò che è stato compiuto! O
+    intelletto volitivo, ricorda! Ricorda ciò che è stato compiuto!
+
+[Passaggio 19]
+
+  - ID: isha-1-18
+  - Locus: 18
+  - Numero progressivo: 19
+  - Testo originale:
+    अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ।
+    युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमौक्तिं विधेम ॥ १८॥
+    ॥ इति ईशोपनिषत् ॥
+    ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
+    पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+    ॐ शान्तिः शान्तिः शान्तिः ॥
+  - Traduzione italiana:
+    O Agni, conducici lungo il retto sentiero verso il conseguimento del frutto,
+    tu, o Dio, che conosci tutte le vie e tutte le opere. Allontana da noi
+    l'errore tortuoso che allontana dalla mèta; a te offriamo la nostra più alta
+    e reiterata parola di adorazione e sottomissione.
+    Così si conclude la Īśopaniṣad.
+    Om. Quello è la Pienezza; questo è la Pienezza. Dalla Pienezza scaturisce la
+    Pienezza. Sottratta la Pienezza dalla Pienezza, la Pienezza sola permane.
+    Om. Pace, pace, pace.
+
+8. Eventuali problemi terminologici da tenere presenti per i blocchi successivi
+
+1.  Īśā vāsyam (mantra 1):
+      - La radice verbale vas può significare «abitare» o «vestire/coprire». Nel
+        rigore dell'Advaita Vedānta (Śaṅkara-bhāṣya), il senso non è
+        l'immanentismo panteistico («il Signore abita in tutto»), bensì il
+        ricoprimento sovrimposto della Realtà: il mondo fenomenico mutevole deve
+        essere avviluppato, celato e quindi risolto nella Coscienza dell'unico
+        Signore (Īśvara / Ātman), negando l'autonoma realtà del mondo oggettivo.
+2.  Vidyā e Avidyā (mantra 9, 10, 11):
+      - Nel contesto specifico di questi versi, vidyā non indica la Conoscenza
+        suprema non-duale dell'Assoluto (parā-vidyā / brahma-jñāna), bensì la
+        conoscenza meditativa rituale o teurgica rivolta alle divinità formali
+        (devatā-upāsanā), la quale produce un frutto cosmico relativo e
+        transitorio. Parallelamente, avidyā indica l'azione rituale pura (karman
+        sacrificale esoterico o essoterico). L'«immortalità» (amṛta) conseguita
+        al verso 11 è dunque un'immortalità relativa (la liberazione graduale o
+        lo stato degli dèi, devaloka), non la Liberazione assoluta e immediata
+        (kaivalya / sadyomukti).
+3.  Sambhūti e Asambhūti / Vināśa (mantra 12, 13, 14):
+      - Sambhūti designa l'effetto manifesto, il principio cosmico generato
+        (kārya-brahman o Hiraṇyagarbha).
+      - Asambhūti designa la causa primordiale non-differenziata, la sostanza
+        non-manifestata (avyākṛta-prakṛti o kāraṇa-brahman).
+      - Vināśa (nel verso 14) definisce letteralmente l'effetto corporeo
+        corruttibile; la dottrina tradizionale advaita esclude che
+        l'identificazione unilaterale con la materia causale priva di
+        manifestazione, ovvero con le sole forme prodotte, possa condurre alla
+        Realtà suprema, prescrivendo la reintegrazione di entrambi i gradi
+        nell'Assoluto incondizionato.
+4.  So'ham asmi (mantra 16):
+      - È una formulazione equivalente ai grandi detti (mahāvākya), attestante
+        l'identità metafisica essenziale tra il Puruṣa solare (il Principio
+        trascendente che illumina il cosmo) e il Sé interiore dell'essere
+        manifestato, cardine centrale di tutta la dottrina tradizionale della
+        non-dualità.
+5.  Kratu (mantra 17):
+      - Non va psicologizzato come semplice facoltà mentale o sentimento;
+        designa l'intelletto volitivo, il principio di determinazione e
+        intenzione cosciente che orienta l'essere al momento della dissoluzione
+        corporea.
+
+
+PARTE A — REPORT LEGGIBILE
+
+A. Verifica preliminare
+
+1.  Completezza del testo: Il testo fornito è integrale. Comprende l'intero
+    corpus della Īśāvāsya Upaniṣad (Vājasaneyi-Saṃhitā, adhyāya XL) costituito
+    dall'invocazione di pace iniziale (Śānti-pāṭha), dai 18 mantra canonici e
+    dalla ripetizione conclusiva dello Śānti-pāṭha. Nessuna porzione è stata
+    omessa o abbreviata.
+2.  Continuità tra i blocchi: L'opera è stata fornita in un'unica soluzione
+    documentale; non sussistono salti testuali o cesure tra blocchi successivi.
+3.  Coerenza della struttura: L'opera appartiene alla Saṃhitā vedica e si
+    presenta tradizionalmente come una sequenza ininterrotta di 18 stanze
+    precedute e seguite dal mantra della Pienezza (Pūrṇamadaḥ). La struttura a
+    capitolo/sezione unica è stata formalizzata nell'unità editoriale isha-1.
+4.  Coerenza e stabilità degli ID: Tutti gli ID stabiliti nella prima fase
+    (isha-upanishad, isha-1, e la serie da isha-1-shanti a isha-1-18) sono stati
+    preservati identici, senza alcuna ridenominazione, duplicazione o
+    alterazione dello schema kebab-case.
+5.  Coerenza terminologica della traduzione: L'orientamento dottrinale advaita
+    ortodosso è mantenuto con rigore metafisico. I termini chiave (Ātman,
+    Brahman, Īśa, Pūrṇa, Vidyā, Avidyā, Sambhūti, Asambhūti, Kratu, Mātariśvan)
+    presentano un'omogeneità concettuale assoluta, priva di deviazioni
+    psicologiche, moralistiche o sincretistiche contemporanee.
+6.  Segnalazione di regolarizzazioni testuali rispetto all'OCR:
+      - Nel mantra 8 (isha-1-8), i due refusi di rendering tipografico presenti
+        nel PDF (अव्रणमस्नाविरꣳ e स्वयम्भूर्याथातथ्यतो) sono stati normalizzati
+        nella grafia sanscrita standard: अव्रणम् अस्नाविरम् (avraṇam asnāviram)
+        e स्वयम्भूः याथातथ्यतः (svayambhūḥ yāthātathyataḥ /
+        svayambhūryāthātathyato).
+      - La notazione fonetica vedica del gum-kāra / anunāsika (ꣳ) è stata
+        conservata nel testo originale per fedeltà alla recensione della
+        Vājasaneyi-Saṃhitā.
+
+B. Elenco completo delle unità editoriali
+
+  - ID: isha-1
+      - Locus: Sezione Unica (Mantra 1–18 con Śānti-pāṭha)
+      - Titolo: Īśopaniṣad — Vājasaneyi-Saṃhitā Adhyāya XL
+
+C. Elenco completo dei passaggi
+
+(Nota: Nessuna modifica sostanziale di significato è stata apportata rispetto
+alla traduzione della Fase 1; si confermano l'ortodossia metafisica e la
+perfetta aderenza al testo).
+
+1. isha-1-shanti
+
+  - Locus: Śānti-pāṭha
+  - Numero progressivo: 1
+  - Testo originale:
+    ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।
+    पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+    ॐ शान्तिः शान्तिः शान्तिः ॥
+  - Traduzione italiana:
+    Om. Quello [l'Assoluto non-manifestato, il Principio supremo] è la Pienezza;
+    questo [il cosmo manifestato, l'universo condizionato] è la Pienezza. Dalla
+    Pienezza scaturisce la Pienezza. Sottratta la Pienezza dalla Pienezza, la
+    Pienezza sola permane.
+    Om. Pace, pace, pace.
+
+2. isha-1-1
+
+  - Locus: 1
+  - Numero progressivo: 2
+  - Testo originale:
+    ॐ ईशा वास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत् ।
+    तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥ १॥
+  - Traduzione italiana:
+    Om. Tutto questo — qualunque cosa sia mutevole e soggetta a perenne divenire
+    in questo mondo — deve essere ricoperto e avviluppato dal Signore (Īśa). Per
+    mezzo di questa rinuncia [all'illusoria appropriazione individuale],
+    sostieniti (trova il tuo vero godimento); non bramare la ricchezza di
+    alcuno.
+
+3. isha-1-2
+
+  - Locus: 2
+  - Numero progressivo: 3
+  - Testo originale:
+    कुर्वन्नेवेह कर्माणि जिजीविषेच्छतꣳ समाः ।
+    एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥ २॥
+  - Traduzione italiana:
+    Soltanto compiendo le opere rituali in questo mondo si dovrebbe desiderare
+    di vivere cent'anni. Per te, in quanto uomo [ancora vincolato all'azione e
+    non qualificato per la pura conoscenza non-duale], non vi è altra via da
+    percorrere affinché l'azione non aderisca a te.
+
+4. isha-1-3
+
+  - Locus: 3
+  - Numero progressivo: 4
+  - Testo originale:
+    असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः ।
+    ताꣳस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥ ३॥
+  - Traduzione italiana:
+    Privi di luce spirituale (asuryāḥ, demoniaci) sono chiamati quei mondi,
+    avvolti da cieca tenebra; a essi muovono, dopo essersi dipartiti da questa
+    vita, tutti quegli individui che uccidono il proprio Sé [ignorando la natura
+    immutabile dell'Ātman e agendo come se Esso non fosse].
+
+5. isha-1-4
+
+  - Locus: 4
+  - Numero progressivo: 5
+  - Testo originale:
+    अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत् ।
+    तद्धावतोऽन्यानत्येति तिष्ठत्तस्मिन्नपो मातरिश्वा दधाति ॥ ४॥
+  - Traduzione italiana:
+    Immobile, Uno, più rapido della mente; le facoltà sensoriali e le potenze
+    cosmiche (devāḥ) non poterono raggiungerLo, poiché Esso le ha sempre
+    precedute. Pur rimanendo immobile, Esso oltrepassa tutti gli altri che
+    corrono. In Esso il Soffio cosmico (Mātariśvan) stabilisce le acque [la
+    totalità delle attività vitali e delle determinazioni causali].
+
+6. isha-1-5
+
+  - Locus: 5
+  - Numero progressivo: 6
+  - Testo originale:
+    तदेजति तन्नैजति तद्दूरे तद्वन्तिके ।
+    तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥ ५॥
+  - Traduzione italiana:
+    Esso si muove e non si muove; Esso è lontano ed è vicino. Esso è all'interno
+    di tutto questo, ed Esso è all'esterno di tutto questo.
+
+7. isha-1-6
+
+  - Locus: 6
+  - Numero progressivo: 7
+  - Testo originale:
+    यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति ।
+    सर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥ ६॥
+  - Traduzione italiana:
+    Colui che contempla costantemente tutti gli esseri nel Sé stesso, e il Sé in
+    tutti gli esseri, da quel momento non prova più ripulsa né senso di
+    separazione.
+
+8. isha-1-7
+
+  - Locus: 7
+  - Numero progressivo: 8
+  - Testo originale:
+    यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः ।
+    तत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥ ७॥
+  - Traduzione italiana:
+    Quando, per il conoscitore discriminante, tutti gli esseri sono divenuti il
+    Sé stesso, quale inganno, quale dolore può sussistere per colui che scorge
+    l'Unità essenziale?
+
+9. isha-1-8
+
+  - Locus: 8
+  - Numero progressivo: 9
+  - Testo originale:
+    स पर्यगाच्छुक्रमकायमव्रणम् अस्नाविरꣳ शुद्धम् अपापविद्धम् ।
+    कविर्मनीषी परिभूः स्वयम्भूः याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥
+    ८॥
+  - Traduzione italiana:
+    Esso ha pervaso tutto: [l'Ātman è] luminoso, incorporeo, privo di ferita
+    (indivisibile), senza tendini (privo di compagine organica e di membra),
+    puro, incontaminato dal male. Il Veggente (kavi), il Signore della mente
+    (manīṣin), Colui che tutto trascende e sovrasta (paribhū), l'Autosussistente
+    (svayambhū), ha ordinato rettamente gli oggetti e i doveri secondo la loro
+    reale natura per la durata di cicli perenni.
+
+10. isha-1-9
+
+  - Locus: 9
+  - Numero progressivo: 10
+  - Testo originale:
+    अन्धं तमः प्रविशन्ति येऽविद्यामुपासते ।
+    ततो भूय इव ते तमो य उ विद्यायाꣳ रताः ॥ ९॥
+  - Traduzione italiana:
+    Entrano in una cieca tenebra coloro che si dedicano unicamente alla
+    non-conoscenza (avidyā, i meri riti privi di contemplazione interiore); ma
+    in una tenebra ancor più densa entrano coloro che si compiacciono
+    esclusivamente nella conoscenza formale (vidyā, la meditazione separata
+    sulle divinità cosmiche).
+
+11. isha-1-10
+
+  - Locus: 10
+  - Numero progressivo: 11
+  - Testo originale:
+    अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया ।
+    इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १०॥
+  - Traduzione italiana:
+    «Altro, invero, è il frutto che si dichiara derivare dalla conoscenza
+    formale (vidyā), e altro quello che si dichiara derivare dall'azione rituale
+    (avidyā)»: così abbiamo udito dagli uomini saldi nella saggezza (dhīrāḥ),
+    che ce lo hanno esposto partitamente.
+
+12. isha-1-11
+
+  - Locus: 11
+  - Numero progressivo: 12
+  - Testo originale:
+    विद्यां चाविद्यां च यस्तद्वेदोभयꣳ सह ।
+    अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते ॥ ११॥
+  - Traduzione italiana:
+    Colui che conosce congiuntamente l'una e l'altra, la conoscenza meditativa
+    formale e l'azione rituale purificatrice, superata la morte per mezzo
+    dell'azione rituale (avidyā), consegue l'immortalità [lo stato
+    sovraindividuale relativo] mediante la contemplazione (vidyā).
+
+13. isha-1-12
+
+  - Locus: 12
+  - Numero progressivo: 13
+  - Testo originale:
+    अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते ।
+    ततो भूय इव ते तमो य उ सम्भूत्याꣳ रताः ॥ १२॥
+  - Traduzione italiana:
+    Entrano in una cieca tenebra coloro che si dedicano all'Inoriginato
+    non-manifestato (asambhūti, la prakṛti primordiale non-sviluppata); ma in
+    una tenebra ancor più densa entrano coloro che si compiacciono unicamente
+    nel Manifesto generato (sambhūti, l'effetto cosmo-formale).
+
+14. isha-1-13
+
+  - Locus: 13
+  - Numero progressivo: 14
+  - Testo originale:
+    अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात् ।
+    इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १३॥
+  - Traduzione italiana:
+    «Altro invero si afferma procedere dal Manifesto (sambhava), e altro dal
+    Non-Manifesto (asambhava)»: così abbiamo udito dai saggi che ce lo hanno
+    esposto partitamente.
+
+15. isha-1-14
+
+  - Locus: 14
+  - Numero progressivo: 15
+  - Testo originale:
+    सम्भूतिं च विनाशं च यस्तद्वेदोभयꣳ सह ।
+    विनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते ॥ १४॥
+  - Traduzione italiana:
+    Colui che comprende congiuntamente la Causa primordiale e la Distruzione
+    [delle forme manifestate], superata la morte mediante la discriminazione del
+    perituro (vināśa), consegue l'immortalità attraverso la risoluzione nella
+    Causa prima (sambhūti / asambhūti).
+
+16. isha-1-15
+
+  - Locus: 15
+  - Numero progressivo: 16
+  - Testo originale:
+    हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् ।
+    तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥ १५॥
+  - Traduzione italiana:
+    Da un disco d'oro sfavillante è velato il volto della Verità. O Pūṣan
+    [Principio solare nutritore], scoprilo tu, affinché io, che ho come legge la
+    Verità (satyadharma), possa contemplarlo direttamente.
+
+17. isha-1-16
+
+  - Locus: 16
+  - Numero progressivo: 17
+  - Testo originale:
+    पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः ।
+    यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि ॥ १६॥
+  - Traduzione italiana:
+    O Pūṣan! O Veggente solitario! O Ordinatore sovrano (Yama)! O Sole (Sūrya)!
+    O progenie di Prajāpati! Dissipa i tuoi raggi, raccogli il tuo fulgore
+    abbagliante, affinché io possa contemplare la tua forma supremamente
+    propizia. Quel Puruṣa che è lassù nel centro solare, Egli stesso io sono
+    (so'ham asmi).
+
+18. isha-1-17
+
+  - Locus: 17
+  - Numero progressivo: 18
+  - Testo originale:
+    वायुरनिलममृतमथेदं भस्मान्तꣳ शरीरम् ।
+    ॐ क्रतो स्मर कृतꣳ स्मर क्रतो स्मर कृतꣳ स्मर ॥ १७॥
+  - Traduzione italiana:
+    Possa il soffio vitale (prāṇa) reintegrarsi nell'Aria immortale [il
+    principio cosmico del Vāyu], e questo corpo finire in cenere. Om! O
+    intelletto volitivo (kratu), ricorda! Ricorda ciò che è stato compiuto! O
+    intelletto volitivo, ricorda! Ricorda ciò che è stato compiuto!
+
+19. isha-1-18
+
+  - Locus: 18
+  - Numero progressivo: 19
+  - Testo originale:
+    अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ।
+    युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमौक्तिं विधेम ॥ १८॥
+    ॥ इति ईशोपनिषत् ॥
+    ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
+    पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+    ॐ शान्तिः शान्तिः शान्तिः ॥
+  - Traduzione italiana:
+    O Agni, conducici lungo il retto sentiero verso il conseguimento del frutto,
+    tu, o Dio, che conosci tutte le vie e tutte le opere. Allontana da noi
+    l'errore tortuoso che allontana dalla mèta; a te offriamo la nostra più
+    solenne espressione di adorazione e sottomissione.
+    Così si conclude la Īśopaniṣad.
+    Om. Quello è la Pienezza; questo è la Pienezza. Dalla Pienezza scaturisce la
+    Pienezza. Sottratta la Pienezza dalla Pienezza, la Pienezza sola permane.
+    Om. Pace, pace, pace.
+
+D. Elenco dei concetti
+
+1.  purna
+
+      - Nome: Pūrṇa (La Pienezza Assoluta / L'Infinito)
+      - Termine sanscrito: पूर्ण (pūrṇa)
+      - Definizione metafisica: Il Principio supremo considerato nella Sua
+        incondizionata totalità, non-duale, indivisibile e immutabile. Esso non
+        subisce incremento per effetto della manifestazione esteriore, né
+        decremento per la riassunzione del cosmo: l'Assoluto (Brahman) permane
+        immutabilmente identico sia quale Causa trascendente (adaḥ, «quello»)
+        sia quale Realtà immanente del manifestato (idam, «questo»).
+      - Passaggi pertinenti: isha-1-shanti, isha-1-18.
+      - Concetti collegati: atman, isha, ekatva.
+
+2.  isha
+
+      - Nome: Īśa / Īśvara (Il Principio Sovrano)
+      - Termine sanscrito: ईश (īśa)
+      - Definizione metafisica: Il Principio primordiale ordinatore e sovrano,
+        l'aspetto personale/causale di Brahman in rapporto alla manifestazione
+        mutevole. Nell'Advaita ortodosso, Īśa non è un demiurgo separato dal
+        mondo, bensì la Realtà unica che deve essere sovrimposta a ogni
+        apparenza molteplice al fine di risolverne l'illusoria autonomia
+        sostanziale.
+      - Passaggi pertinenti: isha-1-1, isha-1-8.
+      - Concetti collegati: atman, purna, tyaga.
+
+3.  atman
+
+      - Nome: Ātman (Il Sé Supremo)
+      - Termine sanscrito: आत्मन् (ātman)
+      - Definizione metafisica: La Realtà suprema, cosciente e incorporea,
+        identica al Principio metafisico assoluto (Brahman). È non-agente, privo
+        di limitazioni psicofisiche (upādhi), inconoscibile dai sensi e dalla
+        mente poiché costituisce il Testimone universale immutabile,
+        trascendente ogni polarità cosmica ed esistenziale.
+      - Passaggi pertinenti: isha-1-4, isha-1-5, isha-1-6, isha-1-7, isha-1-8,
+        isha-1-16.
+      - Concetti collegati: purna, isha, ekatva, soham.
+
+4.  atma-han
+
+      - Nome: Ātmahan (L'uccisore del Sé)
+      - Termine sanscrito: आत्महन् (ātma-han)
+      - Definizione metafisica: Qualifica dottrinale assegnata all'individuo
+        caduto nell'ignoranza metafisica (avidyā). Non indica l'annientamento
+        dell'Ātman — che è per Sua natura indistruttibile ed eterno —, bensì la
+        negazione esistenziale della Sua realtà: colui che agisce
+        identificandosi unicamente con il composto corporeo e mentale subisce la
+        conseguenza di una progressiva cecità metafisica nei mondi samsarici
+        avvolti da tenebra.
+      - Passaggi pertinenti: isha-1-3.
+      - Concetti collegati: atman, avidya, karman.
+
+5.  ekatva
+
+      - Nome: Ekatva (L'Unità Essenziale / Non-Dualità)
+      - Termine sanscrito: एकत्व (ekatva)
+      - Definizione metafisica: La verità non-duale (advaita) della totale
+        identità di essenza tra il Sé e l'universo manifestato. La realizzazione
+        interiore dell'Unità dissolve istantaneamente l'inganno cosmico (moha) e
+        la sofferenza dell'esistenza separata (śoka), eliminando alla radice
+        ogni senso di alterità e paura.
+      - Passaggi pertinenti: isha-1-6, isha-1-7.
+      - Concetti collegati: atman, purna, tyaga.
+
+6.  tyaga
+
+      - Nome: Tyāga (Rinuncia / Distacco metafisico)
+      - Termine sanscrito: त्याग (tyāga)
+      - Definizione metafisica: L'abbandono cognitivo e volitivo dell'illusione
+        di proprietà e dell'identificazione dell'Io empirico con il non-Sé
+        (anātman). Non è una semplice ascesi morale esteriore, ma la
+        reintegrazione di ogni oggetto nel suo vero Principio, fonte
+        dell'autentica fruizione spirituale (bhunjīthāḥ).
+      - Passaggi pertinenti: isha-1-1.
+      - Concetti collegati: isha, karman, ekatva.
+
+7.  karman
+
+      - Nome: Karman (Azione / Ordine dell'opera)
+      - Termine sanscrito: कर्मन् (karman)
+      - Definizione metafisica: Il dominio dell'attività e dei doveri rituali
+        prescritti dalla Rivelazione. È la via riservata a coloro che sono
+        ancora soggetti alla distinzione soggettiva tra attore, azione e frutto,
+        finalizzata a impedire che l'agente rimanga vincolato alle conseguenze
+        delle proprie azioni nel ciclo cosmico.
+      - Passaggi pertinenti: isha-1-2, isha-1-11, isha-1-18.
+      - Concetti collegati: avidya, tyaga.
+
+8.  avidya
+
+      - Nome: Avidyā (Non-conoscenza / Dimensione rituale esteriore)
+      - Termine sanscrito: अविद्या (avidyā)
+      - Definizione metafisica: Nel contesto specifico della Īśopaniṣad, denota
+        l'azione rituale pura (karman) sprovvista di contemplazione metafisica o
+        conoscenza dei principi divini interiori. Il suo esito è limitato al
+        superamento della morte fisica e degli ostacoli karmici, ma è incapace
+        di dispensare la Liberazione finale.
+      - Passaggi pertinenti: isha-1-9, isha-1-10, isha-1-11.
+      - Concetti collegati: vidya, karman, atma-han.
+
+9.  vidya
+
+      - Nome: Vidyā (Conoscenza meditativa formale / Upāsanā)
+      - Termine sanscrito: विद्या (vidyā)
+      - Definizione metafisica: Nel contesto delimitato dei mantra 9-11, non
+        designa la conoscenza assoluta dell'Ātman non-duale (brahma-vidyā),
+        bensì la contemplazione interiore e meditativa delle divinità cosmiche
+        formali (devatā-jñāna). Produce un'immortalità relativa (amṛtatva),
+        coincidente con l'ascesa temporanea allo stato divino o al mondo di
+        Prajāpati.
+      - Passaggi pertinenti: isha-1-9, isha-1-10, isha-1-11.
+      - Concetti collegati: avidya, sambhuti-asambhuti.
+
+10. sambhuti-asambhuti
+
+      - Nome: Sambhūti e Asambhūti (Il Manifesto e il Non-Manifesto)
+      - Termine sanscrito: सम्भूति / असम्भूति (sambhūti / asambhūti)
+      - Definizione metafisica: La polarità tra la Causa cosmica primordiale
+        non-differenziata (asambhūti, avyākṛta-prakṛti) e l'Effetto manifesto
+        generato nel cosmo (sambhūti, kārya-brahman / Hiraṇyagarbha). La
+        venerazione unilaterale di uno solo dei due poli genera tenebra
+        metafisica; la loro retta cognizione sintetica conduce al superamento
+        della dissoluzione transitoria (vināśa).
+      - Passaggi pertinenti: isha-1-12, isha-1-13, isha-1-14.
+      - Concetti collegati: vidya, avidya, purna.
+
+11. satya
+
+      - Nome: Satya (La Verità Suprema)
+      - Termine sanscrito: सत्य (satya)
+      - Definizione metafisica: Il Principio immutabile della Realtà, la cui
+        visione diretta è oscurata dall'abbagliante fulgore esteriore del mondo
+        solare e delle forme cosmiche (hiraṇmaya-pātra).
+      - Passaggi pertinenti: isha-1-15.
+      - Concetti collegati: atman, soham.
+
+12. soham
+
+      - Nome: So'ham asmi («Io sono Quello»)
+      - Termine sanscrito: सोऽहमस्मि (so'ham asmi)
+      - Definizione metafisica: La suprema attestazione di identità metafisica
+        non-duale: la consapevolezza che il Puruṣa che trascende e anima il
+        cosmo e il centro cosciente immanente dell'essere individuale sono un
+        unico e medesimo Principio privo di alterità.
+      - Passaggi pertinenti: isha-1-16.
+      - Concetti collegati: atman, ekatva, purna.
+
+E. Elenco delle domande
+
+1.  q-natura-brahman-purna
+
+      - Tipo: great
+      - Testo: "Qual è la natura dell'Assoluto rispetto alla manifestazione
+        cosmica?"
+      - Problema dottrinale: Comprensione della trascendenza non-esclusiva
+        dell'Assoluto: l'avvento della manifestazione oggettiva non intacca la
+        totale pienezza del Principio né ne altera l'infinità immutabile.
+      - Domanda madre: Nessuna.
+      - Passaggi di supporto: isha-1-shanti, isha-1-18.
+      - Concetti collegati: purna, atman.
+
+2.  q-natura-atman-paradossi
+
+      - Tipo: great
+      - Testo: "In che modo l'Ātman concilia in Sé trascendenza, immanenza e
+        assenza di movimento?"
+      - Problema dottrinale: I paradossi upaniṣadici dell'immobilità più veloce
+        del pensiero e della contemporanea vicinanza ed estrema distanza, che
+        descrivono l'impossibilità di oggettivare il Sé mediante le categorie
+        dialettiche e sensoriali del divenire.
+      - Domanda madre: Nessuna.
+      - Passaggi di supporto: isha-1-4, isha-1-5, isha-1-8.
+      - Concetti collegati: atman, purna.
+
+3.  q-frutto-realizzazione-unita
+
+      - Tipo: great
+      - Testo: "Qual è la condizione metafisica di colui che realizza l'Unità
+        essenziale del Sé in tutti gli esseri?"
+      - Problema dottrinale: La scomparsa definitiva di ogni illusione (moha),
+        afflizione (śoka) e avversione o sentimento di separazione (vijugupsā) a
+        seguito della reintegrazione intuitiva dell'intera molteplicità
+        nell'unico Sé.
+      - Domanda madre: Nessuna.
+      - Passaggi di supporto: isha-1-6, isha-1-7.
+      - Concetti collegati: ekatva, atman, tyaga.
+
+4.  q-uccisori-del-se
+
+      - Tipo: specific
+      - Testo: "Chi sono coloro che «uccidono il Sé» (ātmahan) e qual è il loro
+        destino?"
+      - Problema dottrinale: La condizione di coloro che, ignorando la natura
+        trascendente e cosciente dell'Ātman, vivono identificandosi
+        esclusivamente con il corpo e il flusso empirico, condannandosi a
+        reiterati stati di tenebra e limitazione cosmica.
+      - Domanda madre: q-frutto-realizzazione-unita.
+      - Passaggi di supporto: isha-1-3.
+      - Concetti collegati: atma-han, avidya.
+
+5.  q-azione-senza-vincolo
+
+      - Tipo: specific
+      - Testo: "Come può l'azione rituale compiersi nel mondo senza che essa
+        vincoli l'agente?"
+      - Problema dottrinale: La disciplina dell'azione nel mondo fenomenico per
+        l'individuo non ancora emancipato: il compimento del dovere privo di
+        bramosia per i frutti e sorretto dalla subordinazione di ogni possesso
+        al Signore (Īśa).
+      - Domanda madre: q-frutto-realizzazione-unita.
+      - Passaggi di supporto: isha-1-1, isha-1-2.
+      - Concetti collegati: isha, tyaga, karman.
+
+6.  q-dialettica-vidya-avidya
+
+      - Tipo: comparison
+      - Testo: "Qual è la corretta relazione dottrinale tra vidyā (conoscenza
+        meditativa formale) e avidyā (azione rituale)?"
+      - Problema dottrinale: La condanna dell'assolutizzazione unilaterale
+        dell'opera rituale priva di spirito o della meditazione teurgica
+        astratta; la loro necessaria integrazione gerarchica nella fase
+        propedeutica alla liberazione.
+      - Domanda madre: Nessuna.
+      - Passaggi di supporto: isha-1-9, isha-1-10, isha-1-11.
+      - Concetti collegati: vidya, avidya, karman.
+
+7.  q-dialettica-sambhuti-asambhuti
+
+      - Tipo: comparison
+      - Testo: "Perché sia la venerazione esclusiva del Manifesto (sambhūti) sia
+        quella del Non-Manifesto (asambhūti) conducono alla tenebra?"
+      - Problema dottrinale: L'illusorietà dell'assorbimento esclusivo o nella
+        pura matrice causale indifferenziata (prakṛti) o nelle forme finite
+        dell'effetto cosmico (kārya), e la dottrina della loro simultanea
+        comprensione metafisica.
+      - Domanda madre: Nessuna.
+      - Passaggi di supporto: isha-1-12, isha-1-13, isha-1-14.
+      - Concetti collegati: sambhuti-asambhuti, purna.
+
+8.  q-identita-soham
+
+      - Tipo: specific
+      - Testo: "Che cosa esprime la formula di reintegrazione «so'ham asmi» al
+        momento della contemplazione del principio solare?"
+      - Problema dottrinale: Il riconoscimento della totale identità di sostanza
+        spirituale tra la luce sovraordinata dell'universo (Puruṣa solare) e il
+        centro intimo della consapevolezza nell'uomo, al di là dell'involucro
+        d'oro della manifestazione.
+      - Domanda madre: q-natura-brahman-purna.
+      - Passaggi di supporto: isha-1-15, isha-1-16, isha-1-17.
+      - Concetti collegati: satya, soham, atman.
+
+F. Elenco delle relazioni
+
+1.  purna <—> atman
+
+      - Motivazione: Lo Śānti-pāṭha e i versi 4-8 stabiliscono che la Pienezza
+        incondizionata non è un'astrazione cosmologica esteriore, ma è l'essenza
+        stessa dell'Ātman, che tutto pervade rimanendo indiviso.
+      - Passaggi di supporto: isha-1-shanti, isha-1-4, isha-1-5, isha-1-8.
+
+2.  isha <—> tyaga
+
+      - Motivazione: Il riconoscimento della regalità universale del Principio
+        (Īśa) esige sul piano individuale la rinuncia metafisica (tyāga)
+        all'appropriazione egoica dei beni del mondo, convertendo il possesso in
+        fruizione disinteressata.
+      - Passaggi di supporto: isha-1-1.
+
+3.  atman <—> ekatva
+
+      - Motivazione: La contemplazione del Sé in tutti gli esseri e di tutti gli
+        esseri nel Sé distrugge ogni dualità e con essa la radice di illusione
+        (moha) e sofferenza (śoka).
+      - Passaggi di supporto: isha-1-6, isha-1-7.
+
+4.  vidya <—> avidya
+
+      - Motivazione: Relazione di complementarità polare subordinata: l'azione
+        sacrificale (avidyā) purifica l'essere dai vincoli della mortalità
+        immediata, consentendo alla contemplazione formale (vidyā) di proiettare
+        la coscienza verso stati sovraindividuali.
+      - Passaggi di supporto: isha-1-9, isha-1-10, isha-1-11.
+
+5.  sambhuti-asambhuti <—> purna
+
+      - Motivazione: La sintesi dei due poli cosmici (Causa non-manifesta ed
+        Effetto manifesto) costituisce la reintegrazione di ogni divenire nella
+        Pienezza increata del Principio.
+      - Passaggi di supporto: isha-1-12, isha-1-13, isha-1-14.
+
+6.  satya <—> soham
+
+      - Motivazione: La rimozione del velo solare aureo rivela il Volto della
+        Verità Suprema (satya), consentendo l'auto-riconoscimento dell'identità
+        non-duale espressa dal mantra so'ham asmi.
+      - Passaggi di supporto: isha-1-15, isha-1-16.
+
+G. Elenco delle note terminologiche
+
+1.  Īśā vāsyam (īśā vāsyam)
+
+      - Significato testuale: Dalla radice vas («coprire», «vestire»,
+        «avviluppare»). Nell'esegesi di Śaṅkara, non va inteso nel senso
+        panteistico o immanentistico («il Signore abita nelle cose»), bensì nel
+        senso che ogni parvenza fenomenica illusoria del mondo transitorio
+        (jagat) deve essere ricoperta dalla Coscienza pura del Supremo Signore
+        (Īśvara / Ātman), privando la molteplicità mondana della sua pretesa
+        realtà indipendente.
+      - Resa adottata: «deve essere ricoperto e avviluppato dal Signore».
+      - Passaggi di supporto: isha-1-1.
+
+2.  Pūrṇa (pūrṇa)
+
+      - Significato testuale: Indica la Pienezza increata, l'Intero assoluto e
+        infinito. Non è la semplice totalità delle parti (somma aritmetica degli
+        enti), bensì l'Infinito metafisico che rimane rigorosamente inalterato e
+        indifferente all'emissione e al riassorbimento del cosmo formale.
+      - Resa adottata: «Pienezza».
+      - Passaggi di supporto: isha-1-shanti, isha-1-18.
+
+3.  Ātmahan (ātma-han)
+
+      - Significato testuale: Composto da ātman (Sé) e han (uccidere). Poiché
+        l'Ātman è incorruttibile ed eterno, l'espressione denota l'atto
+        colpevole di colui che, identificandosi totalmente con il corpo
+        corruttibile e i moti mentali, agisce come se il Sé non esistesse,
+        negando con la propria condotta la Sua natura immortale e incorrendo
+        così nell'oscuramento samsarico.
+      - Resa adottata: «uccisori del proprio Sé».
+      - Passaggi di supporto: isha-1-3.
+
+4.  Mātariśvan (mātariśvan)
+
+      - Significato testuale: Nella cosmologia vedica, è il Principio sottile
+        dell'Aria cosmica o Soffio universale (Prāṇa / Sūtrātman). Nel mantra 4
+        è colui che, poggiando sulla stabilità immobile dell'Ātman primordiale,
+        distribuisce e ordina le «acque» (apas), ossia le funzioni vitali, gli
+        elementi e le opere di tutti i viventi.
+      - Resa adottata: «Soffio cosmico (Mātariśvan)».
+      - Passaggi di supporto: isha-1-4.
+
+5.  Vidyā e Avidyā (vidyā / avidyā) nei versi 9–11
+
+      - Significato testuale: In questo specifico contesto dialettico, Śaṅkara
+        dimostra che vidyā non può indicare la Conoscenza suprema non-duale
+        (brahma-jñāna), poiché è contrapposta a un termine polare ed è associata
+        a un frutto contingente (amṛtatva relativo). Qui vidyā denota la
+        meditazione e conoscenza delle divinità cosmiche formali
+        (devatā-upāsanā), mentre avidyā denota l'azione rituale priva di
+        meditazione (karman).
+      - Resa adottata: «conoscenza formale» e «non-conoscenza rituale».
+      - Passaggi di supporto: isha-1-9, isha-1-10, isha-1-11.
+
+6.  Sambhūti e Asambhūti / Vināśa (sambhūti / asambhūti / vināśa)
+
+      - Significato testuale: Sambhūti qualifica la manifestazione generata o
+        l'effetto visibile (kārya-brahman / Hiraṇyagarbha); Asambhūti la radice
+        causale non-manifestata (avyākṛta-prakṛti o kāraṇa-brahman). Nel
+        mantra 14 il termine vināśa («distruzione») indica l'effetto transitorio
+        e mortale, la cui retta comprensione permette di superare la morte,
+        mentre la reintegrazione nella Causa originaria dona l'immortalità
+        ciclica.
+      - Resa adottata: «Manifesto generato», «Inoriginato non-manifestato» e
+        «Distruzione».
+      - Passaggi di supporto: isha-1-12, isha-1-13, isha-1-14.
+
+7.  Kratu (kratu)
+
+      - Significato testuale: Nel lessico sacrificale vedico non indica il
+        sentimento o la psicologia individuale, bensì l'intelletto volitivo o
+        principio di deliberazione e intenzione cosciente dell'essere, che
+        conserva la memoria delle azioni e determina lo stato post-mortem.
+      - Resa adottata: «intelletto volitivo (kratu)».
+      - Passaggi di supporto: isha-1-17.
+
+8.  So'ham asmi (so'ham asmi)
+
+      - Significato testuale: Formula capitale equivalente per valore dottrinale
+        ai quattro grandi detti (mahāvākya). Attesta che la realtà trascendente
+        presente nel Sole spirituale (asau puruṣaḥ) è identica al Sé testimone
+        interiore dell'individuo.
+      - Resa adottata: «Egli stesso io sono (so'ham asmi)».
+      - Passaggi di supporto: isha-1-16.
+
+H. Elenco dei commenti ed elaborazioni editoriali
+
+  - Comm-1 (comm-isha-1-intro)
+
+      - Categoria: B (Commentario tradizionale: Śaṅkarācārya,
+        Īśāvāsyopaniṣad-bhāṣya, Introduzione)
+      - Passaggi di riferimento: isha-1-1, isha-1-2.
+      - Contenuto: Śaṅkara chiarisce che i primi due mantra stabiliscono la
+        duplice via della Rivelazione: il mantra 1 è rivolto a coloro che sono
+        qualificati per la pura rinuncia metafisica (sannyāsa) e la conoscenza
+        dell'Ātman non-duale; il mantra 2 si applica a coloro che, non essendo
+        ancora capaci di cogliere la realtà non-duale, devono dedicarsi
+        interamente all'azione rituale (karma-niṣṭhā) senza attaccamento egoico.
+        Tra le due vie vi è incompatibilità radicale di principio al livello
+        supremo.
+
+  - Comm-2 (comm-isha-vidya-avidya)
+
+      - Categoria: B (Commentario tradizionale: Śaṅkarācārya,
+        Īśāvāsyopaniṣad-bhāṣya, ad vv. 9–11)
+      - Passaggi di riferimento: isha-1-9, isha-1-10, isha-1-11.
+      - Contenuto: Śaṅkara dimostra la necessità di non confondere la vidyā del
+        mantra 11 con la Conoscenza liberatrice di Brahman. Poiché viene
+        affermato che vidyā e avidyā devono essere intraprese «insieme» (saha)
+        da un medesimo soggetto per oltrepassare la morte e conseguire
+        l'immortalità, deve trattarsi dell'integrazione tra meditazione formale
+        sulle divinità cosmiche (upāsanā) e compimento delle opere rituali
+        obbligatorie (agnihotra ecc.), le quali operano congiuntamente per
+        condurre l'anima al mondo solare di Prajāpati.
+
+  - Nota-Ed-1 (ednote-isha-sole-purusha)
+
+      - Categoria: D (Elaborazione esplicativa editoriale)
+      - Passaggi di riferimento: isha-1-15, isha-1-16.
+      - Contenuto: Il disco solare aureo (hiraṇmaya-pātra) simboleggia l'apice
+        della manifestazione cosmica formale: l'apparenza sensibile e
+        sovrasensibile più splendida, che nondimeno agisce come schermo e velo
+        rispetto alla Verità suprema incondizionata. Il fedele della Verità
+        (satyadharma) implora la ritirata dei raggi per penetrare oltre la
+        determinazione teofanica esteriore e contemplare l'identità assoluta del
+        Puruṣa solare con la Coscienza testimoniale che risiede nel proprio
+        cuore.
+
+I. Elenco dei collegamenti con altre opere
+
+1.  brihadaranyaka-upanishad
+      - Tipo di collegamento: Esplicito e dottrinale diretto.
+      - Motivazione:
+          - Lo Śānti-pāṭha (oṃ pūrṇamadaḥ...) compare identico come apertura
+            della sezione V della Bṛhadāraṇyaka (V.1.1).
+          - Il mantra 3 (asuryā nāma te lokāḥ...) e i mantra 9 e 12 (andhaṃ
+            tamaḥ praviśanti...) compaiono quasi verbatim in Bṛhadāraṇyaka
+            Upaniṣad IV.4.10–11 all'interno dell'insegnamento di Yājñavalkya sul
+            destino dell'anima e la natura dell'Ātman.
+2.  kena-upanishad
+      - Tipo di collegamento: Dottrinale diretto.
+      - Motivazione: I paradossi sulla natura inconcepibile e non-oggettivabile
+        del Sé espressi nei mantra 4 e 5 (anejadekaṃ manaso javīyaḥ, nainaddevā
+        āpnuvan) espongono la medesima dottrina di Kena Upaniṣad I.3 («Là non
+        giunge l'occhio, né la parola, né la mente; non sappiamo, né
+        comprendiamo come possa essere insegnato»).
+3.  chandogya-upanishad
+      - Tipo di collegamento: Dottrinale e terminologico.
+      - Motivazione:
+          - Il termine kratu (intelletto volitivo/determinazione spirituale) del
+            mantra 17 richiama la celebre formula di Chāndogya Upaniṣad III.14.1
+            (kratumayaḥ puruṣaḥ, «l'uomo è fatto della propria determinazione
+            cosciente»).
+          - La proclamazione so'ham asmi del mantra 16 esprime lo stesso
+            contenuto metafisico del mahāvākya tat tvam asi (Chāndogya VI.8.7).
+4.  bhagavad-gita
+      - Tipo di collegamento: Dottrinale diretto.
+      - Motivazione: Il mantra 2 (kurvanneveha karmāṇi... na karma lipyate nare)
+        costituisce il fondamento vedico della dottrina del karma-yoga esposta
+        da Kṛṣṇa in Bhagavad Gītā IV.14 e V.10 (l'azione compiuta senza egoica
+        identificazione non contamina l'essere).
+
+J. Elenco di tutte le questioni da verificare
+
+1.  Variante testuale del Mantra 14 (sambhūti vs asambhūti): Nel verso 14 il
+    testo riporta सम्भूतिं च विनाशं च (sambhūtiṃ ca vināśaṃ ca). Nella
+    tradizione commentaria di Śaṅkara, viene spesso discussa la variante con
+    a-kāra-praśleṣa (विनाशेन मृत्युं तीर्त्वा 'सम्भूत्याऽमृतमश्नुते =
+    asambhūtyā), che riallinea specularmente il mantra 14 all'antitesi
+    introdotta nel mantra 12 (asambhūti vs sambhūti). Tale variante esegetica va
+    mantenuta presente nei futuri incroci dottrinali.
+2.  Registro escatologico dei Mantra 15–18: I mantra conclusivi assumono forma
+    di preghiera orante a Pūṣan, Sūrya e Agni. Pur inserendosi storicamente nel
+    contesto liturgico e di trapasso finale (antakāla-smaraṇa), Śaṅkara li
+    interpreta alla luce della dottrina della krama-mukti (liberazione graduale
+    per via solare) e della riaffermazione conclusiva dell'identità metafisica
+    (so'ham asmi), escludendo ogni cedimento a un mero devozionalismo teistico
+    sentimentale.
+
+{
+  "package_format": "jivanmukta-gemini-editorial-v1",
+  "work": {
+    "id": "isha-upanishad",
+    "title": "Īśāvāsyopaniṣad",
+    "short_title": "Īśā",
+    "language": "sa",
+    "attribution": "Śukla Yajurveda (Vājasaneyi-Saṃhitā, adhyāya XL)",
+    "editorial_note": [
+      "La Īśāvāsya Upaniṣad, pur constando di soli 18 versi, occupa un rango preminente nel canone vedāntico in virtù della sua collocazione diretta all'interno della Saṃhitā vedica.",
+      "Il testo concilia in una mirabile sintesi metafisica la dottrina dell'Ātman non-duale trascendente e immanente, la disciplina dell'azione disinteressata nel cosmo, la dialettica tra opera e meditazione (vidyā/avidyā), e la suprema affermazione di identità so'ham asmi."
+    ]
+  },
+  "authors": [
+    {
+      "id": "vedic-rishis",
+      "name": "Vedic Rishis",
+      "transliteration": "Vedic Rishis",
+      "role": "author",
+      "role_description": "Veggenti vedici ispirati primordiali a cui fu rivelata la Śruti",
+      "context": "Periodo vedico primordiale, Śukla Yajurveda",
+      "concepts": ["purna", "isha", "atman", "ekatva", "soham"],
+      "related_authors": []
+    },
+    {
+      "id": "adi-shankara",
+      "name": "Ādi Śaṅkarācārya",
+      "transliteration": "Ādi Śaṅkarācārya",
+      "role": "commentator",
+      "role_description": "Maestro fondatore e codificatore dell'Advaita Vedānta ortodosso",
+      "context": "VIII secolo d.C., autore del celebre Īśāvāsyopaniṣad-bhāṣya",
+      "concepts": ["atman", "purna", "tyaga", "avidya", "vidya"],
+      "related_authors": ["vedic-rishis"]
+    }
+  ],
+  "editorial_units": [
+    {
+      "id": "isha-1",
+      "unit_locus": "1-18",
+      "unit_title": "Īśopaniṣad (Vājasaneyi-Saṃhitā XL)",
+      "sections": [
+        {
+          "section_locus": "Mantra 1-18 e Śānti-pāṭha",
+          "section_title": "Sezione Unica",
+          "passages": [
+            {
+              "id": "isha-1-shanti",
+              "original": "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+              "translation": "Om. Quello [l'Assoluto non-manifestato, il Principio supremo] è la Pienezza; questo [il cosmo manifestato, l'universo condizionato] è la Pienezza. Dalla Pienezza scaturisce la Pienezza. Sottratta la Pienezza dalla Pienezza, la Pienezza sola permane. Om. Pace, pace, pace.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-1",
+              "original": "ॐ ईशा वास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत् । तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥ १॥",
+              "translation": "Om. Tutto questo — qualunque cosa sia mutevole e soggetta a perenne divenire in questo mondo — deve essere ricoperto e avviluppato dal Signore (Īśa). Per mezzo di questa rinuncia [all'illusoria appropriazione individuale], sostieniti (trova il tuo vero godimento); non bramare la ricchezza di alcuno.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-2",
+              "original": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतꣳ समाः । एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥ २॥",
+              "translation": "Soltanto compiendo le opere rituali in questo mondo si dovrebbe desiderare di vivere cent'anni. Per te, in quanto uomo [ancora vincolato all'azione e non qualificato per la pura conoscenza non-duale], non vi è altra via da percorrere affinché l'azione non aderisca a te.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-3",
+              "original": "असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः । ताꣳस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥ ३॥",
+              "translation": "Privi di luce spirituale (asuryāḥ, demoniaci) sono chiamati quei mondi, avvolti da cieca tenebra; a essi muovono, dopo essersi dipartiti da questa vita, tutti quegli individui che uccidono il proprio Sé [ignorando la natura immutabile dell'Ātman e agendo come se Esso non fosse].",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-4",
+              "original": "अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत् । तद्धावतोऽन्यानत्येति तिष्ठत्तस्मिन्नपो मातरिश्वा दधाति ॥ ४॥",
+              "translation": "Immobile, Uno, più rapido della mente; le facoltà sensoriali e le potenze cosmiche (devāḥ) non poterono raggiungerLo, poiché Esso le ha sempre precedute. Pur rimanendo immobile, Esso oltrepassa tutti gli altri che corrono. In Esso il Soffio cosmico (Mātariśvan) stabilisce le acque [la totalità delle attività vitali e delle determinazioni causali].",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-5",
+              "original": "तदेजति तन्नैजति तद्दूरे तद्वन्तिके । तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥ ५॥",
+              "translation": "Esso si muove e non si muove; Esso è lontano ed è vicino. Esso è all'interno di tutto questo, ed Esso è all'esterno di tutto questo.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-6",
+              "original": "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति । सर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥ ६॥",
+              "translation": "Colui che contempla costantemente tutti gli esseri nel Sé stesso, e il Sé in tutti gli esseri, da quel momento non prova più ripulsa né senso di separazione.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-7",
+              "original": "यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः । तत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥ ७॥",
+              "translation": "Quando, per il conoscitore discriminante, tutti gli esseri sono divenuti il Sé stesso, quale inganno, quale dolore può sussistere per colui che scorge l'Unità essenziale?",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-8",
+              "original": "स पर्यगाच्छुक्रमकायमव्रणम् अस्नाविरꣳ शुद्धम् अपापविद्धम् । कविर्मनीषी परिभूः स्वयम्भूः याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥ ८॥",
+              "translation": "Esso ha pervaso tutto: [l'Ātman è] luminoso, incorporeo, privo di ferita (indivisibile), senza tendini (privo di compagine organica e di membra), puro, incontaminato dal male. Il Veggente (kavi), il Signore della mente (manīṣin), Colui che tutto trascende e sovrasta (paribhū), l'Autosussistente (svayambhū), ha ordinato rettamente gli oggetti e i doveri secondo la loro reale natura per la durata di cicli perenni.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-9",
+              "original": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते । ततो भूय इव ते तमो य उ विद्यायाꣳ रताः ॥ ९॥",
+              "translation": "Entrano in una cieca tenebra coloro che si dedicano unicamente alla non-conoscenza (avidyā, i meri riti privi di contemplazione interiore); ma in una tenebra ancor più densa entrano coloro che si compiacciono esclusivamente nella conoscenza formale (vidyā, la meditazione separata sulle divinità cosmiche).",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-10",
+              "original": "अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया । इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १०॥",
+              "translation": "«Altro, invero, è il frutto che si dichiara derivare dalla conoscenza formale (vidyā), e altro quello che si dichiara derivare dall'azione rituale (avidyā)»: così abbiamo udito dagli uomini saldi nella saggezza (dhīrāḥ), che ce lo hanno esposto partitamente.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-11",
+              "original": "विद्यां चाविद्यां च यस्तद्वेदोभयꣳ सह । अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते ॥ ११॥",
+              "translation": "Colui che conosce congiuntamente l'una e l'altra, la conoscenza meditativa formale e l'azione rituale purificatrice, superata la morte per mezzo dell'azione rituale (avidyā), consegue l'immortalità [lo stato sovraindividuale relativo] mediante la contemplazione (vidyā).",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-12",
+              "original": "अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते । ततो भूय इव ते तमो य उ सम्भूत्याꣳ रताः ॥ १२॥",
+              "translation": "Entrano in una cieca tenebra coloro che si dedicano all'Inoriginato non-manifestato (asambhūti, la prakṛti primordiale non-sviluppata); ma in una tenebra ancor più densa entrano coloro che si compiacciono unicamente nel Manifesto generato (sambhūti, l'effetto cosmo-formale).",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-13",
+              "original": "अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात् । इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १३॥",
+              "translation": "«Altro invero si afferma procedere dal Manifesto (sambhava), e altro dal Non-Manifesto (asambhava)»: così abbiamo udito dai saggi che ce lo hanno esposto partitamente.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-14",
+              "original": "सम्भूतिं च विनाशं च यस्तद्वेदोभयꣳ सह । विनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते ॥ १४॥",
+              "translation": "Colui che comprende congiuntamente la Causa primordiale e la Distruzione [delle forme manifestate], superata la morte mediante la discriminazione del perituro (vināśa), consegue l'immortalità attraverso la risoluzione nella Causa prima (sambhūti / asambhūti).",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-15",
+              "original": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् । तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥ १५॥",
+              "translation": "Da un disco d'oro sfavillante è velato il volto della Verità. O Pūṣan [Principio solare nutritore], scoprilo tu, affinché io, che ho come legge la Verità (satyadharma), possa contemplarlo direttamente.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-16",
+              "original": "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः । यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि ॥ १६॥",
+              "translation": "O Pūṣan! O Veggente solitario! O Ordinatore sovrano (Yama)! O Sole (Sūrya)! O progenie di Prajāpati! Dissipa i tuoi raggi, raccogli il tuo fulgore abbagliante, affinché io possa contemplare la tua forma supremamente propizia. Quel Puruṣa che è lassù nel centro solare, Egli stesso io sono (so'ham asmi).",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-17",
+              "original": "वायुरनिलममृतमथेदं भस्मान्तꣳ शरीरम् । ॐ क्रतो स्मर कृतꣳ स्मर क्रतो स्मर कृतꣳ स्मर ॥ १७॥",
+              "translation": "Possa il soffio vitale (prāṇa) reintegrarsi nell'Aria immortale [il principio cosmico del Vāyu], e questo corpo finire in cenere. Om! O intelletto volitivo (kratu), ricorda! Ricorda ciò che è stato compiuto! O intelletto volitivo, ricorda! Ricorda ciò che è stato compiuto!",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            },
+            {
+              "id": "isha-1-18",
+              "original": "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् । युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमौक्तिं विधेम ॥ १८॥ ॥ इति ईशोपनिषत् ॥ ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+              "translation": "O Agni, conducici lungo il retto sentiero verso il conseguimento del frutto, tu, o Dio, che conosci tutte le vie e tutte le opere. Allontana da noi l'errore tortuoso che allontana dalla mèta; a te offriamo la nostra più solenne espressione di adorazione e sottomissione. Così si conclude la Īśopaniṣad. Om. Quello è la Pienezza; questo è la Pienezza. Dalla Pienezza scaturisce la Pienezza. Sottratta la Pienezza dalla Pienezza, la Pienezza sola permane. Om. Pace, pace, pace.",
+              "source": "sanskritdocuments.org (iisha.itx)",
+              "editorial_status": "established"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "purna",
+      "name": "Pūrṇa",
+      "transliteration": "pūrṇa",
+      "gloss": "La Pienezza Assoluta increata: il Principio supremo identico a Sé stesso, non soggetto a incremento o diminuzione in rapporto alla manifestazione cosmica.",
+      "passages": ["isha-1-shanti", "isha-1-18"],
+      "related_concepts": ["atman", "isha", "ekatva"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "isha",
+      "name": "Īśa",
+      "transliteration": "īśa",
+      "gloss": "Il Supremo Signore e Ordinatore cosmico; l'aspetto sovrapposto alla totalità mutevole del cosmo affinché la molteplicità venga risolta nella Realtà divina.",
+      "passages": ["isha-1-1", "isha-1-8"],
+      "related_concepts": ["atman", "tyaga", "purna"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "atman",
+      "name": "Ātman",
+      "transliteration": "ātman",
+      "gloss": "Il Sé assoluto, universale, impassibile, incorporeo, Testimone cosciente identico a Brahman e trascendente la mente e i sensi.",
+      "passages": ["isha-1-4", "isha-1-5", "isha-1-6", "isha-1-7", "isha-1-8", "isha-1-16"],
+      "related_concepts": ["purna", "isha", "ekatva", "soham"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "atma-han",
+      "name": "Ātmahan",
+      "transliteration": "ātma-han",
+      "gloss": "L'uccisore del proprio Sé: qualifica di colui che per ignoranza metafisica (avidyā) agisce come se il Sé incorruttibile non esistesse, vincolandosi a rinascite oscure.",
+      "passages": ["isha-1-3"],
+      "related_concepts": ["atman", "avidya", "karman"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "ekatva",
+      "name": "Ekatva",
+      "transliteration": "ekatva",
+      "gloss": "L'Unità metafisica non-duale (advaita): la comprensione immediata dell'identità del Sé in tutti gli esseri che estingue alla radice inganno cosmico e dolore.",
+      "passages": ["isha-1-6", "isha-1-7"],
+      "related_concepts": ["atman", "purna", "tyaga"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "tyaga",
+      "name": "Tyāga",
+      "transliteration": "tyāga",
+      "gloss": "La rinuncia metafisica all'appropriazione egoica e all'identificazione con il non-Sé, condizione per la fruizione e la beatitudine autentica.",
+      "passages": ["isha-1-1"],
+      "related_concepts": ["isha", "karman", "ekatva"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "karman",
+      "name": "Karman",
+      "transliteration": "karman",
+      "gloss": "L'azione prescritta e rituale compiuta nel mondo fenomenico; via subordinata che protegge dalla contaminazione colui che non è ancora maturo per la pura rinuncia.",
+      "passages": ["isha-1-2", "isha-1-11", "isha-1-18"],
+      "related_concepts": ["avidya", "tyaga"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "avidya",
+      "name": "Avidyā",
+      "transliteration": "avidyā",
+      "gloss": "La non-conoscenza metafisica; nel contesto dei mantra 9-11 designa l'azione rituale pura priva di meditazione interiore, avente efficacia purificatoria e protettiva temporanea.",
+      "passages": ["isha-1-9", "isha-1-10", "isha-1-11"],
+      "related_concepts": ["vidya", "karman", "atma-han"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "vidya",
+      "name": "Vidyā",
+      "transliteration": "vidyā",
+      "gloss": "Nel contesto dei versi 9-11, non la gnosi assoluta di Brahman, bensì la contemplazione formale delle divinità (upāsanā), che produce uno stato sovraindividuale relativo.",
+      "passages": ["isha-1-9", "isha-1-10", "isha-1-11"],
+      "related_concepts": ["avidya", "sambhuti-asambhuti"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "sambhuti-asambhuti",
+      "name": "Sambhūti e Asambhūti",
+      "transliteration": "sambhūti / asambhūti",
+      "gloss": "La polarità metafisica tra l'Effetto manifesto generato (kārya) e la Causa primordiale non-manifestata (avyākṛta-prakṛti), la cui conoscenza integrata supera la dissoluzione formale.",
+      "passages": ["isha-1-12", "isha-1-13", "isha-1-14"],
+      "related_concepts": ["vidya", "avidya", "purna"],
+      "authors": ["vedic-rishis", "adi-shankara"]
+    },
+    {
+      "id": "satya",
+      "name": "Satya",
+      "transliteration": "satya",
+      "gloss": "La Verità metafisica eterna, il cui volto intimo è celato dall'abbagliante disco aureo delle apparenze solari formali.",
+      "passages": ["isha-1-15"],
+      "related_concepts": ["atman", "soham"],
+      "authors": ["vedic-rishis"]
+    },
+    {
+      "id": "soham",
+      "name": "So'ham asmi",
+      "transliteration": "so'ham asmi",
+      "gloss": "«Egli io sono»: l'attestazione non-duale suprema dell'identità essenziale tra il Puruṣa trascendente e il principio cosciente interiore dell'individuo.",
+      "passages": ["isha-1-16"],
+      "related_concepts": ["atman", "ekatva", "purna"],
+      "authors": ["vedic-rishis"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-natura-brahman-purna",
+      "type": "great",
+      "text": "Qual è la natura dell'Assoluto rispetto alla manifestazione cosmica?",
+      "problem": "Definire se la manifestazione dell'universo sottragga o aggiunga realtà all'Assoluto trascendente, e in che termini l'infinità del Principio rimanga inalterata.",
+      "parent_question": null,
+      "concepts": ["purna", "atman"],
+      "passages": ["isha-1-shanti", "isha-1-18"],
+      "commentaries": [],
+      "related_questions": ["q-natura-atman-paradossi"]
+    },
+    {
+      "id": "q-natura-atman-paradossi",
+      "type": "great",
+      "text": "In che modo l'Ātman concilia in Sé trascendenza, immanenza e assenza di movimento?",
+      "problem": "Risolvere la paradossale descrizione dell'Ātman che, pur rimanendo immobile e incorporeo, precede ed eccede ogni facoltà mentale e percettiva del cosmo.",
+      "parent_question": null,
+      "concepts": ["atman", "purna"],
+      "passages": ["isha-1-4", "isha-1-5", "isha-1-8"],
+      "commentaries": [],
+      "related_questions": ["q-frutto-realizzazione-unita"]
+    },
+    {
+      "id": "q-frutto-realizzazione-unita",
+      "type": "great",
+      "text": "Qual è la condizione metafisica di colui che realizza l'Unità essenziale del Sé in tutti gli esseri?",
+      "problem": "Chiarire come la visione diretta dell'Unità (ekatva) estingua istantaneamente l'inganno primordiale (moha), la sofferenza (śoka) e il sentimento di separazione.",
+      "parent_question": null,
+      "concepts": ["ekatva", "atman", "tyaga"],
+      "passages": ["isha-1-6", "isha-1-7"],
+      "commentaries": [],
+      "related_questions": ["q-uccisori-del-se", "q-azione-senza-vincolo"]
+    },
+    {
+      "id": "q-uccisori-del-se",
+      "type": "specific",
+      "text": "Chi sono coloro che «uccidono il Sé» (ātmahan) e qual è il loro destino?",
+      "problem": "Comprendere in che modo un essere incorruttibile come l'Ātman possa dirsi «ucciso» dall'ignorante che si identifica con le apparenze transitorie del divenire.",
+      "parent_question": "q-frutto-realizzazione-unita",
+      "concepts": ["atma-han", "avidya"],
+      "passages": ["isha-1-3"],
+      "commentaries": [],
+      "related_questions": []
+    },
+    {
+      "id": "q-azione-senza-vincolo",
+      "type": "specific",
+      "text": "Come può l'azione rituale compiersi nel mondo senza che essa vincoli l'agente?",
+      "problem": "Determinare la modalità con cui colui che vive nel dominio della molteplicità può operare conformemente al dovere senza generare aderenza karmica.",
+      "parent_question": "q-frutto-realizzazione-unita",
+      "concepts": ["isha", "tyaga", "karman"],
+      "passages": ["isha-1-1", "isha-1-2"],
+      "commentaries": ["comm-isha-1-intro"],
+      "related_questions": []
+    },
+    {
+      "id": "q-dialettica-vidya-avidya",
+      "type": "comparison",
+      "text": "Qual è la corretta relazione dottrinale tra vidyā (conoscenza formale) e avidyā (azione rituale)?",
+      "problem": "Spiegare la ragione per cui la ricerca isolata di uno solo dei due termini conduce a oscuramento metafisico e come la loro sintesi consenta il superamento della mortalità.",
+      "parent_question": null,
+      "concepts": ["vidya", "avidya", "karman"],
+      "passages": ["isha-1-9", "isha-1-10", "isha-1-11"],
+      "commentaries": ["comm-isha-vidya-avidya"],
+      "related_questions": ["q-dialettica-sambhuti-asambhuti"]
+    },
+    {
+      "id": "q-dialettica-sambhuti-asambhuti",
+      "type": "comparison",
+      "text": "Perché sia la venerazione esclusiva del Manifesto (sambhūti) sia quella del Non-Manifesto (asambhūti) conducono alla tenebra?",
+      "problem": "Riconoscere l'inadeguatezza dell'identificazione unilaterale con la matrice causale indifferenziata o con i prodotti cosmici individuali ai fini della Liberazione.",
+      "parent_question": null,
+      "concepts": ["sambhuti-asambhuti", "purna"],
+      "passages": ["isha-1-12", "isha-1-13", "isha-1-14"],
+      "commentaries": [],
+      "related_questions": ["q-dialettica-vidya-avidya"]
+    },
+    {
+      "id": "q-identita-soham",
+      "type": "specific",
+      "text": "Che cosa esprime la formula di reintegrazione «so'ham asmi» al momento della contemplazione del principio solare?",
+      "problem": "Afferrare il superamento del velo fenomenico-aureo e la realizzazione dell'identità priva di differenziazione tra il Sole cosmico e il Sé cosciente interiore.",
+      "parent_question": "q-natura-brahman-purna",
+      "concepts": ["satya", "soham", "atman"],
+      "passages": ["isha-1-15", "isha-1-16", "isha-1-17"],
+      "commentaries": [],
+      "related_questions": []
+    }
+  ],
+  "commentaries": [
+    {
+      "id": "comm-isha-1-intro",
+      "author_id": "adi-shankara",
+      "passages": ["isha-1-1", "isha-1-2"],
+      "text": "Śaṅkara nell'introduzione al commentario stabilisce la distinzione rigorosa tra i due adhikārin (aspiranti qualificati): il primo verso (īśā vāsyam...) si rivolge a coloro che hanno rinunciato al mondo per dedicarsi esclusivamente alla conoscenza dell'Ātman non-duale; il secondo verso (kurvanneveha...) è destinato a coloro che, non potendo ancora abbandonare la nozione di azione e attore, devono adempiere i doveri rituali con distacco.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "comm-isha-vidya-avidya",
+      "author_id": "adi-shankara",
+      "passages": ["isha-1-9", "isha-1-10", "isha-1-11"],
+      "text": "Nel commento ai mantra 9-11, Śaṅkara confuta l'interpretazione che identifica vidyā con la Conoscenza suprema di Brahman: la Liberazione assoluta non ammette commistione alcuna con l'azione rituale. Di conseguenza, vidyā qui denota la meditazione sacrificale sulle divinità formali (devatā-jñāna), e avidyā i riti esteriori (karman). Il frutto conseguito (amṛtatva) è la risoluzione temporanea nel principio cosmico divino.",
+      "editorial_status": "established"
+    }
+  ],
+  "notes": [
+    {
+      "id": "note-isa-vasyam",
+      "term": "īśā vāsyam",
+      "passages": ["isha-1-1"],
+      "text": "Dal verbo vas (avvolgere, coprire). Nell'Advaita non indica la semplice immanenza di Dio nelle cose creabili, ma l'occultamento e la sovrimposizione del Principio sulla molteplicità fenomenica, in modo che l'universo venga riconosciuto come privo di realtà autonoma se separato da Īśvara.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-purna",
+      "term": "pūrṇa",
+      "passages": ["isha-1-shanti", "isha-1-18"],
+      "text": "La Pienezza metafisica increata. Non designa un aggregato cosmico di parti finite, ma l'Infinito indivisibile che non subisce variazione quantitativa o qualitativa né all'atto della manifestazione esteriore né alla sua reintegrazione nella Causa.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-atmahan",
+      "term": "ātma-han",
+      "passages": ["isha-1-3"],
+      "text": "Letteralmente «uccisore del Sé». Poiché l'Ātman è incorruttibile e non può subire morte, l'espressione designa l'individuo che, respingendo o ignorando la natura divina del proprio essere essenziale per attaccarsi al corpo mortale, subisce l'effetto degradante di tale disconoscimento nei mondi di tenebra.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-matarisvan",
+      "term": "mātariśvan",
+      "passages": ["isha-1-4"],
+      "text": "Il principio dell'Aria cosmica o Soffio universale (Prāṇa / Sūtrātman) che, poggiando sulla stabilità incorporea del Brahman immobile, organizza le attività vitali e gli atti causali di tutti gli esseri.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-vidya-avidya",
+      "term": "vidyā / avidyā",
+      "passages": ["isha-1-9", "isha-1-10", "isha-1-11"],
+      "text": "Nel contesto specifico dei versi 9-11, non indicano Conoscenza liberatrice e Illusione primordiale cosmica, bensì meditazione sulle forme divine (upāsanā) e azione rituale sacrificale (karman).",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-sambhuti-vinasa",
+      "term": "sambhūti / vināśa",
+      "passages": ["isha-1-12", "isha-1-13", "isha-1-14"],
+      "text": "Sambhūti indica l'effetto generato cosmo-formale (Hiraṇyagarbha); Asambhūti la matrice causale indifferenziata (avyākṛta-prakṛti). Vināśa qualifica l'effetto transitorio e perituro che deve essere superato.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-kratu",
+      "term": "kratu",
+      "passages": ["isha-1-17"],
+      "text": "L'intelletto volitivo o determinazione cosciente legata alla facoltà di deliberazione interiore e di sacrificio nell'essere umano, determinante per la condizione post-mortem.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-soham",
+      "term": "so'ham asmi",
+      "passages": ["isha-1-16"],
+      "text": "«Egli io sono»: affermazione solenne della non-dualità tra il Puruṣa trascendente solare e il Principio cosciente immanente, vertice dottrinale dell'opera equivalente al mahāvākya tat tvam asi.",
+      "editorial_status": "established"
+    }
+  ],
+  "relations": {
+    "related_works": [
+      {
+        "work_id": "brihadaranyaka-upanishad",
+        "why": "Condivide sia lo Śānti-pāṭha (V.1.1) sia i mantra 3, 9 e 12 quasi verbatim in IV.4.10-11 nell'insegnamento di Yājñavalkya."
+      },
+      {
+        "work_id": "kena-upanishad",
+        "why": "Identità dottrinale con il mantra 4 nella descrizione dell'Ātman non accessibile né raggiungibile dai sensi o dalla mente."
+      },
+      {
+        "work_id": "chandogya-upanishad",
+        "why": "Corrispondenza terminologica sul concetto di kratu (III.14.1) e identità metafisica tra so'ham asmi e tat tvam asi (VI.8.7)."
+      },
+      {
+        "work_id": "bhagavad-gita",
+        "why": "Fondamento testuale della dottrina del karma-yoga non vincolante esposta nel mantra 2 e ripresa in BG IV.14 e V.10."
+      }
+    ]
+  },
+  "notes_for_reviewer": [
+    "Testo completo ed esaurito nell'unità editoriale isha-1 (18 versi canonici più Śānti-pāṭha iniziale e conclusivo).",
+    "Preservati tutti gli ID stabiliti in fase 1 per opera, unità e passaggi.",
+    "Corretti e normalizzati nel testo sanscrito del mantra 8 due refusi tipografici della scansione originaria (avraṇam asnāviram e svayambhūḥ yāthātathyataḥ).",
+    "Mantenuta la notazione fonetica vedica del gum-kāra (ꣳ) propria della recensione della Vājasaneyi-Saṃhitā.",
+    "Tenere presente l'esegesi non-letterale di Śaṅkara sui mantra 9-11 (vidyā intesa come devatā-upāsanā e non parā-vidyā) necessaria a preservare la non-dualità dell'insegnamento vedāntico."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "comm-isha-1-intro": {
+    "id": "comm-isha-1-intro",
+    "author_id": "adi-shankara",
+    "passages": [
+      "isha-1-1",
+      "isha-1-2"
+    ],
+    "text": "Śaṅkara nell'introduzione al commentario stabilisce la distinzione rigorosa tra i due adhikārin (aspiranti qualificati): il primo verso (īśā vāsyam...) si rivolge a coloro che hanno rinunciato al mondo per dedicarsi esclusivamente alla conoscenza dell'Ātman non-duale; il secondo verso (kurvanneveha...) è destinato a coloro che, non potendo ancora abbandonare la nozione di azione e attore, devono adempiere i doveri rituali con distacco.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-isha-1-intro.json"
+  },
+  "comm-isha-vidya-avidya": {
+    "id": "comm-isha-vidya-avidya",
+    "author_id": "adi-shankara",
+    "passages": [
+      "isha-1-9",
+      "isha-1-10",
+      "isha-1-11"
+    ],
+    "text": "Nel commento ai mantra 9-11, Śaṅkara confuta l'interpretazione che identifica vidyā con la Conoscenza suprema di Brahman: la Liberazione assoluta non ammette commistione alcuna con l'azione rituale. Di conseguenza, vidyā qui denota la meditazione sacrificale sulle divinità formali (devatā-jñāna), e avidyā i riti esteriori (karman). Il frutto conseguito (amṛtatva) è la risoluzione temporanea nel principio cosmico divino.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-isha-vidya-avidya.json"
+  },
+  "comm-kena-allegoria-deva": {
+    "id": "comm-kena-allegoria-deva",
+    "author_id": "adi-shankara",
+    "passages": [
+      "kena-3-1",
+      "kena-3-2",
+      "kena-3-6",
+      "kena-4-1"
+    ],
+    "text": "Śaṅkara interpreta la narrazione dello Yakṣa come una confutazione dell'illusione di autonomia (abhimāna) che insidia tanto le potenze celesti quanto l'ego individuale: Agni e Vāyu non possono bruciare o muovere un filo d'erba se privi della potenza di Brahman, a dimostrazione che ogni potere è solo un riflesso del Principio.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-kena-allegoria-deva.json"
+  },
+  "comm-kena-pratibodha": {
+    "id": "comm-kena-pratibodha",
+    "author_id": "adi-shankara",
+    "passages": [
+      "kena-2-4"
+    ],
+    "text": "Commentando pratibodha-viditam, Śaṅkara confuta sia l'idea che la Conoscenza sia un singolo atto psichico temporaneo, sia la dottrina buddista della coscienza momentanea. Il Brahman è colto come il Testimone incorporeo presente in ogni atto percettivo (sarva-pratyaya-darśī), la cui continuità immutabile è pegno di immortalità.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-kena-pratibodha.json"
+  },
+  "comm-kena-soggetto-trascendente": {
+    "id": "comm-kena-soggetto-trascendente",
+    "author_id": "adi-shankara",
+    "passages": [
+      "kena-1-2",
+      "kena-1-3",
+      "kena-1-4"
+    ],
+    "text": "Nel Padabhāṣya ad I.2-4, Śaṅkara stabilisce che il Brahman non può mai essere un oggetto conosciuto (vedya), poiché è il Soggetto perenne (veditṛ). Tutto ciò che è suscettibile di essere oggettivato è contingente e perituro, mentre l'Ātman è la Coscienza immutabile sottesa alla percezione.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-kena-soggetto-trascendente.json"
+  }
+}

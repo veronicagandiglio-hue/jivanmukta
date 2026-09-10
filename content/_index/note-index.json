@@ -1,0 +1,196 @@
+{
+  "note-adhidaivata-adhyatma": {
+    "id": "note-adhidaivata-adhyatma",
+    "term": "adhidaivatam / adhyātmam",
+    "passages": [
+      "kena-4-4",
+      "kena-4-5"
+    ],
+    "text": "I due piani analogici dell'insegnamento: cosmico-oggettivo (il lampo celato che squarcia il cielo) e interiore-microcosmico (il moto fulmineo del pensiero che anela all'Ātman).",
+    "editorial_status": "established",
+    "source_file": "notes/note-adhidaivata-adhyatma.json"
+  },
+  "note-atmahan": {
+    "id": "note-atmahan",
+    "term": "ātma-han",
+    "passages": [
+      "isha-1-3"
+    ],
+    "text": "Letteralmente «uccisore del Sé». Poiché l'Ātman è incorruttibile e non può subire morte, l'espressione designa l'individuo che, respingendo o ignorando la natura divina del proprio essere essenziale per attaccarsi al corpo mortale, subisce l'effetto degradante di tale disconoscimento nei mondi di tenebra.",
+    "editorial_status": "established",
+    "source_file": "notes/note-atmahan.json"
+  },
+  "note-isa-vasyam": {
+    "id": "note-isa-vasyam",
+    "term": "īśā vāsyam",
+    "passages": [
+      "isha-1-1"
+    ],
+    "text": "Dal verbo vas (avvolgere, coprire). Nell'Advaita non indica la semplice immanenza di Dio nelle cose creabili, ma l'occultamento e la sovrimposizione del Principio sulla molteplicità fenomenica, in modo che l'universo venga riconosciuto come privo di realtà autonoma se separato da Īśvara.",
+    "editorial_status": "established",
+    "source_file": "notes/note-isa-vasyam.json"
+  },
+  "note-kenesitam": {
+    "id": "note-kenesitam",
+    "term": "keneṣitam",
+    "passages": [
+      "kena-1-1"
+    ],
+    "text": "L'interrogativo iniziale sposta l'asse d'indagine dalla concatenazione meccanica o biologica degli organi alla Causa cosciente prima che orienta la vita e l'intelletto.",
+    "editorial_status": "established",
+    "source_file": "notes/note-kenesitam.json"
+  },
+  "note-kratu": {
+    "id": "note-kratu",
+    "term": "kratu",
+    "passages": [
+      "isha-1-17"
+    ],
+    "text": "L'intelletto volitivo o determinazione cosciente legata alla facoltà di deliberazione interiore e di sacrificio nell'essere umano, determinante per la condizione post-mortem.",
+    "editorial_status": "established",
+    "source_file": "notes/note-kratu.json"
+  },
+  "note-matarisvan": {
+    "id": "note-matarisvan",
+    "term": "mātariśvan",
+    "passages": [
+      "isha-1-4"
+    ],
+    "text": "Il principio dell'Aria cosmica o Soffio universale (Prāṇa / Sūtrātman) che, poggiando sulla stabilità incorporea del Brahman immobile, organizza le attività vitali e gli atti causali di tutti gli esseri.",
+    "editorial_status": "established",
+    "source_file": "notes/note-matarisvan.json"
+  },
+  "note-nedam-upasate": {
+    "id": "note-nedam-upasate",
+    "term": "nedam yad idam upāsate",
+    "passages": [
+      "kena-1-5",
+      "kena-1-6",
+      "kena-1-7",
+      "kena-1-8",
+      "kena-1-9"
+    ],
+    "text": "Formula capitale di rottura contro ogni oggettivazione idolatrica o teurgica: il Brahman non è alcun ente fenomenico o divinità separata adorata dalla mente duale.",
+    "editorial_status": "established",
+    "source_file": "notes/note-nedam-upasate.json"
+  },
+  "note-pratibodha": {
+    "id": "note-pratibodha",
+    "term": "pratibodha-viditam",
+    "passages": [
+      "kena-2-4"
+    ],
+    "text": "Significa 'conosciuto in ogni cognizione'. La Conoscenza metafisica è la presa d'atto del Testimone cosciente invariabile sotteso a tutti i moti psichici.",
+    "editorial_status": "established",
+    "source_file": "notes/note-pratibodha.json"
+  },
+  "note-pratistha": {
+    "id": "note-pratistha",
+    "term": "pratiṣṭhā",
+    "passages": [
+      "kena-4-8"
+    ],
+    "text": "I requisiti propedeutici (tapas, dama, karman) che servono da base e piedistallo alla conservazione immacolata della Conoscenza metafisica.",
+    "editorial_status": "established",
+    "source_file": "notes/note-pratistha.json"
+  },
+  "note-purna": {
+    "id": "note-purna",
+    "term": "pūrṇa",
+    "passages": [
+      "isha-1-shanti",
+      "isha-1-18"
+    ],
+    "text": "La Pienezza metafisica increata. Non designa un aggregato cosmico di parti finite, ma l'Infinito indivisibile che non subisce variazione quantitativa o qualitativa né all'atto della manifestazione esteriore né alla sua reintegrazione nella Causa.",
+    "editorial_status": "established",
+    "source_file": "notes/note-purna.json"
+  },
+  "note-sambhuti-vinasa": {
+    "id": "note-sambhuti-vinasa",
+    "term": "sambhūti / vināśa",
+    "passages": [
+      "isha-1-12",
+      "isha-1-13",
+      "isha-1-14"
+    ],
+    "text": "Sambhūti indica l'effetto generato cosmo-formale (Hiraṇyagarbha); Asambhūti la matrice causale indifferenziata (avyākṛta-prakṛti). Vināśa qualifica l'effetto transitorio e perituro che deve essere superato.",
+    "editorial_status": "established",
+    "source_file": "notes/note-sambhuti-vinasa.json"
+  },
+  "note-soham": {
+    "id": "note-soham",
+    "term": "so'ham asmi",
+    "passages": [
+      "isha-1-16"
+    ],
+    "text": "«Egli io sono»: affermazione solenne della non-dualità tra il Puruṣa trascendente solare e il Principio cosciente immanente, vertice dottrinale dell'opera equivalente al mahāvākya tat tvam asi.",
+    "editorial_status": "established",
+    "source_file": "notes/note-soham.json"
+  },
+  "note-srotrasya-srotram": {
+    "id": "note-srotrasya-srotram",
+    "term": "śrotrasya śrotram",
+    "passages": [
+      "kena-1-2"
+    ],
+    "text": "Locuzione metafisica indicante l'essenza conoscitiva trascendente: non un organo duplicato, ma la Coscienza che rende possibile l'udire dell'udito e il vedere dell'occhio.",
+    "editorial_status": "established",
+    "source_file": "notes/note-srotrasya-srotram.json"
+  },
+  "note-tadvana": {
+    "id": "note-tadvana",
+    "term": "tadvana",
+    "passages": [
+      "kena-4-6"
+    ],
+    "text": "Nome sacro che esprime la natura di Brahman come il Sommo Desiderabile in Sé, amato da ogni creatura in virtù della Sua grazia essenziale.",
+    "editorial_status": "established",
+    "source_file": "notes/note-tadvana.json"
+  },
+  "note-uma-haimavati": {
+    "id": "note-uma-haimavati",
+    "term": "umā haimavatī",
+    "passages": [
+      "kena-3-12",
+      "kena-4-1"
+    ],
+    "text": "Personificazione della Brahma-vidyā (Sapienza divina). Quale mediatrice necessaria, rivela a Indra l'identità dello Yakṣa dopo la ritirata del fenomeno.",
+    "editorial_status": "established",
+    "source_file": "notes/note-uma-haimavati.json"
+  },
+  "note-vidita-avidita": {
+    "id": "note-vidita-avidita",
+    "term": "vidita / avidita",
+    "passages": [
+      "kena-1-4"
+    ],
+    "text": "Vidita è l'ordine manifesto percepibile; avidita è l'inconosciuto indifferenziato della materia causale (avyākṛta). Il Brahman trascende l'intera coppia polare.",
+    "editorial_status": "established",
+    "source_file": "notes/note-vidita-avidita.json"
+  },
+  "note-vidya-avidya": {
+    "id": "note-vidya-avidya",
+    "term": "vidyā / avidyā",
+    "passages": [
+      "isha-1-9",
+      "isha-1-10",
+      "isha-1-11"
+    ],
+    "text": "Nel contesto specifico dei versi 9-11, non indicano Conoscenza liberatrice e Illusione primordiale cosmica, bensì meditazione sulle forme divine (upāsanā) e azione rituale sacrificale (karman).",
+    "editorial_status": "established",
+    "source_file": "notes/note-vidya-avidya.json"
+  },
+  "note-yaksa": {
+    "id": "note-yaksa",
+    "term": "yakṣa",
+    "passages": [
+      "kena-3-2",
+      "kena-3-6",
+      "kena-3-10",
+      "kena-3-12"
+    ],
+    "text": "Glossato tradizionalmente come pūjyaṃ mahad bhūtam: una Presenza grandiosa e veneranda attraverso cui il Brahman manifesta la propria trascendenza assoluta.",
+    "editorial_status": "established",
+    "source_file": "notes/note-yaksa.json"
+  }
+}

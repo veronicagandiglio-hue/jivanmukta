@@ -1,0 +1,18 @@
+{
+  "id": "q-kena-funzione-uma",
+  "type": "specific",
+  "text": "Quale funzione metafisica svolge Umā Haimavatī nell'istruzione impartita a Indra?",
+  "problem": "Chiarire il ruolo necessario di mediazione della Brahma-vidyā affinché l'intelletto sovrano possa identificare l'Assoluto dopo la ritirata dei fenomeni.",
+  "parent_question": "q-kena-allegoria-yaksha",
+  "concepts": [
+    "brahma-vidya",
+    "brahman"
+  ],
+  "passages": [
+    "kena-3-12",
+    "kena-4-1",
+    "kena-4-3"
+  ],
+  "commentaries": [],
+  "related_questions": []
+}

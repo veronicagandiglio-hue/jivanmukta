@@ -1,0 +1,32 @@
+{
+  "id": "q-rapporto-se-brahman",
+  "scope": "global",
+  "type": "great",
+  "homepage_priority": 3,
+  "text": "Che rapporto c'è tra il Sé e Brahman?",
+  "introduction": "Una delle affermazioni più radicali dell'Advaita Vedānta è contenuta in quattro grandi sentenze (mahāvākya) della tradizione upaniṣadica, la più nota delle quali è «Tat tvam asi» — «Tu sei Quello». Il Sé individuale (Ātman) e la Realtà suprema (Brahman) non sono due realtà distinte che si incontrano o si avvicinano: sono, nella loro natura più profonda, un'unica e identica realtà. Questa non è un'affermazione poetica né mistica nel senso vago del termine: è una tesi metafisica precisa, con una struttura argomentativa rigorosa. Capire come sia possibile che l'infinito e il finito siano identici — senza che questa identità collassi in un panteismo o in un nichilismo — è uno degli obiettivi principali dello studio dell'Advaita.",
+  "problem": "Comprendere il fondamento dottrinale dell'identità tra Ātman e Brahman e come questa identità si concili con l'esperienza ordinaria della molteplicità e della separazione.",
+  "parent_question": null,
+  "specific_questions": [
+    "q-kena-analogie-adhidaivata-adhyatma",
+    "q-kena-pratibodha-viditam"
+  ],
+  "concepts": [
+    "atman",
+    "brahman",
+    "sakshin"
+  ],
+  "passages": [
+    "kena-2-4",
+    "kena-4-4",
+    "kena-4-5",
+    "isha-1-6",
+    "isha-1-7"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-che-cose-brahman",
+    "q-che-cose-il-se",
+    "q-che-cosa-significa-conoscere"
+  ]
+}

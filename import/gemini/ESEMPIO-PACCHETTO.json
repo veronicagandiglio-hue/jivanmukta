@@ -1,0 +1,40 @@
+{
+  "package_format": "jivanmukta-gemini-editorial-v1",
+  "work": {
+    "id": "kena-upanishad",
+    "title": "Kena Upaniṣad",
+    "short_title": "Kena",
+    "language": "sanscrito",
+    "attribution": "Tradizione śruti — appartenente al Sāmaveda."
+  },
+  "authors": [],
+  "editorial_units": [
+    {
+      "id": "kena-1",
+      "unit_locus": "I",
+      "unit_title": "Da chi è mossa la mente?",
+      "sections": [
+        {
+          "section_locus": "I.1",
+          "section_title": "La domanda iniziale",
+          "passages": [
+            {
+              "id": "kena-1-1",
+              "original": "keneṣitaṃ patati preṣitaṃ manaḥ",
+              "translation": "Da chi mossa vola la mente, inviata verso il suo oggetto?",
+              "source": "Kena Upaniṣad, I.1",
+              "editorial_status": "Pacchetto di esempio per la validazione dello strumento di importazione."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [],
+  "questions": [],
+  "commentaries": [],
+  "notes": [],
+  "notes_for_reviewer": [
+    "Questo file è un esempio dimostrativo del formato, non contenuto dottrinale da pubblicare direttamente."
+  ]
+}

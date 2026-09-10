@@ -1,0 +1,68 @@
+{
+  "expl-isha-1-1": {
+    "id": "expl-isha-1-1",
+    "target_type": "passage",
+    "target_id": "isha-1-1",
+    "title": "La visione del mondo avvolto dal Signore e il distacco metafisico",
+    "sections": [
+      {
+        "heading": "Il contesto dottrinale",
+        "text": "Il primo verso della Īśā Upaniṣad compendia l'intera dottrina dell'Advaita in una sola formula: «īśā vāsyam idaṁ sarvam». Tutto ciò che nel mondo fenomenico appare molteplice, mutevole e perituro (jagat) deve essere contemplato come rivestito, pervaso e compenetrato dalla presenza del Signore (Īśa), la Realtà immutabile."
+      },
+      {
+        "heading": "Che cosa viene superato",
+        "text": "L'errore fondamentale consiste nel considerare gli enti del mondo come realtà autonome, separate dal loro Principio e disponibili all'appropriazione egoica. Il testo non impone di distruggere il mondo né di fuggire da esso, ma di operare una trasfigurazione della visione: vedere la Realtà unica al posto della molteplicità apparente."
+      },
+      {
+        "heading": "Il significato della rinuncia (tyāga)",
+        "text": "L'ingiunzione «tena tyaktena bhuñjīthāḥ» («sostieniti mediante la rinuncia») non è una prescrizione ascetica di mortificazione, ma l'affermazione che il vero godimento della realtà comincia soltanto con la cessazione della brama di possesso («mā gṛdhaḥ kasyasvid dhanam»). Colui che non si appropria delle cose scopre che nulla gli manca, poiché la sua identità coincide con la pienezza stessa del Sé."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-isha-1-1.json"
+  },
+  "expl-kena-1-1": {
+    "id": "expl-kena-1-1",
+    "target_type": "passage",
+    "target_id": "kena-1-1",
+    "title": "L'origine trascendente del dinamismo cognitivo e vitale",
+    "sections": [
+      {
+        "heading": "Il problema a cui risponde",
+        "text": "L'essere umano sperimenta costantemente il pensiero, la percezione e il respiro come attività spontanee. L'illusione spontanea dell'individuo è ritenere che la mente pensi da sé, che l'occhio veda per virtù propria o che il soffio vitale si muova per forza autonoma. L'interrogativo iniziale della Kena Upaniṣad infrange questa ovvietà: che cosa muove la mente prima ancora che il pensiero prenda forma? Da dove proviene l'impulso iniziale che coordina le facoltà cognitive e biologiche?"
+      },
+      {
+        "heading": "Che cosa afferma il testo",
+        "text": "Attraverso quattro domande incalzanti — su mente, prāṇa, parola e organi di senso — il testo stabilisce che il complesso psicofisico non è autonomo né auto-cosciente. Gli strumenti della percezione e del pensiero sono inerti in se stessi; essi operano solo perché illuminati e mossi da un Principio che li precede interamente e che non appartiene all'ordine dei fenomeni osservabili."
+      },
+      {
+        "heading": "Equivoci da evitare",
+        "text": "Questo Principio non va confuso con una «mente superiore», con un'energia cosmica impersonale nel senso della fisica moderna, né con una profondità psicologica dell'inconscio. Non si tratta di spiegare un meccanismo psicologico, ma di riconoscere il Testimone trascendente (Sākṣin) la cui pura presenza cosciente rende possibile l'esperienza senza mai essere toccata da essa."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-1.json"
+  },
+  "expl-kena-1-3": {
+    "id": "expl-kena-1-3",
+    "target_type": "passage",
+    "target_id": "kena-1-3",
+    "title": "La non-oggettivabilità radicale dell'Assoluto",
+    "sections": [
+      {
+        "heading": "Il paradosso epistemico",
+        "text": "Se Brahman è il Principio che rende possibile ogni atto di coscienza, ne consegue rigorosamente che Esso non può diventare oggetto di quegli stessi atti. L'occhio può vedere le forme esterne, ma non può vedere la capacità visiva che gli appartiene; similmente, la mente può afferrare concetti e pensieri, ma non può convertire in concetto la Coscienza pura che illumina il pensare."
+      },
+      {
+        "heading": "Perché non può essere insegnato discorsivamente",
+        "text": "L'insegnamento convenzionale opera mediante analogie, generi, differenze specifiche e relazioni concettuali («questo è simile a quello», «questo appartiene a questa specie»). Ma Brahman è privo di parti, non-duale e senza genere; non esiste alcunché al di fuori di Esso con cui istituire un confronto. Di conseguenza, il maestro tradizionale non «trasmette» Brahman come un dato informativo, ma guida l'allievo alla rimozione degli ostacoli che impediscono il riconoscimento immediato."
+      },
+      {
+        "heading": "Conseguenza dottrinale",
+        "text": "L'impossibilità di conoscere Brahman come oggetto non sancisce affatto l'agnosticismo o l'irrazionalismo. Al contrario, fonda la via negativa (neti neti): è proprio quando ogni tentativo di ridurre l'Infinito a oggetto della mente viene esaurito, che la natura del Sé risplende come il Soggetto assoluto sempre presente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-kena-1-3.json"
+  }
+}

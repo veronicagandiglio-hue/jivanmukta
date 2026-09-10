@@ -1,0 +1,20 @@
+{
+  "id": "q-azione-senza-vincolo",
+  "type": "specific",
+  "text": "Come può l'azione rituale compiersi nel mondo senza che essa vincoli l'agente?",
+  "problem": "Determinare la modalità con cui colui che vive nel dominio della molteplicità può operare conformemente al dovere senza generare aderenza karmica.",
+  "parent_question": "q-lazione-vincola",
+  "concepts": [
+    "isha",
+    "tyaga",
+    "karman"
+  ],
+  "passages": [
+    "isha-1-1",
+    "isha-1-2"
+  ],
+  "commentaries": [
+    "comm-isha-1-intro"
+  ],
+  "related_questions": []
+}

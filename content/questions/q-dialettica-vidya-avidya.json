@@ -1,0 +1,23 @@
+{
+  "id": "q-dialettica-vidya-avidya",
+  "type": "comparison",
+  "text": "Qual è la corretta relazione dottrinale tra vidyā (conoscenza formale) e avidyā (azione rituale)?",
+  "problem": "Spiegare la ragione per cui la ricerca isolata di uno solo dei due termini conduce a oscuramento metafisico e come la loro sintesi consenta il superamento della mortalità.",
+  "parent_question": "q-lazione-vincola",
+  "concepts": [
+    "vidya",
+    "avidya",
+    "karman"
+  ],
+  "passages": [
+    "isha-1-9",
+    "isha-1-10",
+    "isha-1-11"
+  ],
+  "commentaries": [
+    "comm-isha-vidya-avidya"
+  ],
+  "related_questions": [
+    "q-dialettica-sambhuti-asambhuti"
+  ]
+}

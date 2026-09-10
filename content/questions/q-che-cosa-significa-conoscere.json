@@ -1,0 +1,39 @@
+{
+  "id": "q-che-cosa-significa-conoscere",
+  "scope": "global",
+  "type": "great",
+  "homepage_priority": 4,
+  "text": "Che cosa significa conoscere la realtà?",
+  "introduction": "Nella nostra esperienza ordinaria, conoscere qualcosa significa avere di fronte un oggetto — una cosa, un fatto, un'idea — e rapportarci ad esso come soggetti conoscenti. Conoscere un tavolo, una persona, una legge fisica: in tutti questi casi c'è sempre un io che conosce e un qualcosa che viene conosciuto. Ma che cosa accade quando l'oggetto della conoscenza è la Realtà stessa? Quando ciò che vogliamo conoscere è il Principio che rende possibile ogni conoscenza? La tradizione dell'Advaita Vedānta sostiene che la conoscenza ordinaria — basata sul rapporto soggetto-oggetto — è inadeguata per cogliere Brahman. Questo non significa che Brahman sia inconoscibile, ma che la sua conoscenza è di un tipo radicalmente diverso. La Kena Upaniṣad affronta questo problema con una precisione straordinaria.",
+  "problem": "Chiarire perché la conoscenza ordinaria (basata sulla dualità soggetto-oggetto) non possa cogliere Brahman e in che senso esista una forma di conoscenza non-oggettiva che è invece adeguata alla natura di Brahman.",
+  "parent_question": null,
+  "specific_questions": [
+    "q-kena-paradosso-gnoseologico",
+    "q-kena-pratibodha-viditam",
+    "q-kena-non-oggettivabilita-brahman",
+    "q-kena-urgenza-realizzazione"
+  ],
+  "concepts": [
+    "brahman",
+    "vidita-avidita",
+    "brahma-vidya",
+    "sakshin"
+  ],
+  "passages": [
+    "kena-2-1",
+    "kena-2-2",
+    "kena-2-3",
+    "kena-2-4",
+    "kena-2-5",
+    "kena-1-3",
+    "kena-1-4"
+  ],
+  "commentaries": [
+    "comm-kena-soggetto-trascendente",
+    "comm-kena-pratibodha"
+  ],
+  "related_questions": [
+    "q-che-cose-brahman",
+    "q-rapporto-se-brahman"
+  ]
+}

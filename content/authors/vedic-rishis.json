@@ -1,0 +1,16 @@
+{
+  "id": "vedic-rishis",
+  "name": "Vedic Rishis",
+  "transliteration": "Vedic Rishis",
+  "role": "author",
+  "role_description": "Veggenti vedici ispirati primordiali a cui fu rivelata la Śruti",
+  "context": "Periodo vedico primordiale, Śukla Yajurveda",
+  "concepts": [
+    "purna",
+    "isha",
+    "atman",
+    "ekatva",
+    "soham"
+  ],
+  "related_authors": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "q-kena-principio-animatore",
+  "type": "specific",
+  "text": "Qual è il Principio trascendente che muove e illumina la mente, il soffio vitale e le facoltà sensoriali?",
+  "problem": "Spiegare la scaturigine non-empirica delle funzioni cognitive e biologiche che operano nell'individuo non per dinamismo autonomo ma per impulso dell'Ātman.",
+  "parent_question": "q-che-cose-brahman",
+  "concepts": [
+    "brahman",
+    "sakshin"
+  ],
+  "passages": [
+    "kena-1-1",
+    "kena-1-2"
+  ],
+  "commentaries": [
+    "comm-kena-soggetto-trascendente"
+  ],
+  "related_questions": [
+    "q-kena-non-oggettivabilita-brahman"
+  ]
+}

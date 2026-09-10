@@ -1,0 +1,31 @@
+{
+  "id": "q-che-cose-il-mondo",
+  "scope": "global",
+  "type": "great",
+  "homepage_priority": 7,
+  "text": "Che cos'è il mondo?",
+  "introduction": "Il problema del mondo — della sua realtà, della sua origine, del suo rapporto con il Principio supremo — è al centro di ogni grande metafisica. L'Advaita Vedānta offre una risposta rigorosa e a tratti paradossale: il mondo fenomenico non è una creazione nel senso teologico ordinario del termine (qualcosa che Dio ha fatto dal nulla), né è una pura illusione nel senso della negazione della sua esistenza. È piuttosto una manifestazione che non sottrae nulla alla pienezza dell'Assoluto — come l'immagine riflessa in uno specchio non impoverisce l'oggetto che vi si riflette. La Īśā Upaniṣad apre con un'affermazione che definisce il problema con una precisione straordinaria: «Tutto ciò che esiste nell'universo in movimento è avvolto (o pervaso) dal Signore». Questa non è una dichiarazione di panteismo, ma una tesi metafisica precisa sulla natura della manifestazione.",
+  "problem": "Chiarire il rapporto tra il mondo fenomenico e l'Assoluto nell'Advaita Vedānta: come il mondo possa essere reale senza che la sua realtà sia indipendente da Brahman, e come l'Infinito rimanga integro attraverso ogni manifestazione.",
+  "parent_question": null,
+  "specific_questions": [
+    "q-natura-brahman-purna",
+    "q-dialettica-sambhuti-asambhuti"
+  ],
+  "concepts": [
+    "purna",
+    "brahman",
+    "sambhuti-asambhuti"
+  ],
+  "passages": [
+    "isha-1-shanti",
+    "isha-1-18",
+    "isha-1-12",
+    "isha-1-13",
+    "isha-1-14"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-che-cose-brahman",
+    "q-che-cose-il-se"
+  ]
+}

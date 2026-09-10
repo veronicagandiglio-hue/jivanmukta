@@ -1,0 +1,35 @@
+{
+  "isha-upanishad": {
+    "id": "isha-upanishad",
+    "title": "Īśāvāsyopaniṣad",
+    "short_title": "Īśā",
+    "language": "sa",
+    "attribution": "Śukla Yajurveda (Vājasaneyi-Saṃhitā, adhyāya XL)",
+    "editorial_note": [
+      "La Īśāvāsya Upaniṣad, pur constando di soli 18 versi, occupa un rango preminente nel canone vedāntico in virtù della sua collocazione diretta all'interno della Saṃhitā vedica.",
+      "Il testo concilia in una mirabile sintesi metafisica la dottrina dell'Ātman non-duale trascendente e immanente, la disciplina dell'azione disinteressata nel cosmo, la dialettica tra opera e meditazione (vidyā/avidyā), e la suprema affermazione di identità so'ham asmi."
+    ],
+    "editorial_units": [
+      "isha-1"
+    ],
+    "source_file": "works/isha-upanishad.json"
+  },
+  "kena-upanishad": {
+    "id": "kena-upanishad",
+    "title": "Kenopaniṣad",
+    "short_title": "Kena",
+    "language": "sa",
+    "attribution": "Sāmaveda (Jaiminīya-Upaniṣad-Brāhmaṇa, adhyāya IX)",
+    "editorial_note": [
+      "La Kenopaniṣad, appartenente al Sāmaveda, trae il nome dalla sua parola iniziale (kena, 'da chi?').",
+      "Si articola in due parti speculativo-metriche iniziali, dedicate alla natura inconcepibile e testimoniale dell'Ātman-Brahman, e in due parti in prosa incentrate sull'allegoria dell'impotenza delle divinità dinnanzi allo Yakṣa e sulla mediazione dottrinale di Umā Haimavatī."
+    ],
+    "editorial_units": [
+      "kena-1",
+      "kena-2",
+      "kena-3",
+      "kena-4"
+    ],
+    "source_file": "works/kena-upanishad.json"
+  }
+}

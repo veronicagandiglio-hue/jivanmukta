@@ -1,0 +1,104 @@
+{
+  "isha": [
+    "q-azione-senza-vincolo"
+  ],
+  "tyaga": [
+    "q-azione-senza-vincolo",
+    "q-frutto-realizzazione-unita",
+    "q-lazione-vincola"
+  ],
+  "karman": [
+    "q-azione-senza-vincolo",
+    "q-dialettica-vidya-avidya",
+    "q-e-possibile-la-liberta",
+    "q-lazione-vincola"
+  ],
+  "brahman": [
+    "q-che-cosa-significa-conoscere",
+    "q-che-cose-brahman",
+    "q-che-cose-il-mondo",
+    "q-kena-allegoria-yaksha",
+    "q-kena-analogie-adhidaivata-adhyatma",
+    "q-kena-funzione-uma",
+    "q-kena-non-oggettivabilita-brahman",
+    "q-kena-paradosso-gnoseologico",
+    "q-kena-pratibodha-viditam",
+    "q-kena-principio-animatore",
+    "q-kena-urgenza-realizzazione",
+    "q-rapporto-se-brahman"
+  ],
+  "vidita-avidita": [
+    "q-che-cosa-significa-conoscere",
+    "q-che-cose-brahman",
+    "q-kena-non-oggettivabilita-brahman"
+  ],
+  "brahma-vidya": [
+    "q-che-cosa-significa-conoscere",
+    "q-e-possibile-la-liberta",
+    "q-kena-allegoria-yaksha",
+    "q-kena-funzione-uma",
+    "q-kena-paradosso-gnoseologico",
+    "q-kena-supporti-pratistha",
+    "q-kena-urgenza-realizzazione"
+  ],
+  "sakshin": [
+    "q-che-cosa-significa-conoscere",
+    "q-che-cose-il-se",
+    "q-kena-analogie-adhidaivata-adhyatma",
+    "q-kena-pratibodha-viditam",
+    "q-kena-principio-animatore",
+    "q-rapporto-se-brahman"
+  ],
+  "purna": [
+    "q-che-cose-il-mondo",
+    "q-dialettica-sambhuti-asambhuti",
+    "q-natura-atman-paradossi",
+    "q-natura-brahman-purna"
+  ],
+  "sambhuti-asambhuti": [
+    "q-che-cose-il-mondo",
+    "q-dialettica-sambhuti-asambhuti"
+  ],
+  "atman": [
+    "q-che-cose-il-se",
+    "q-e-possibile-la-liberta",
+    "q-frutto-realizzazione-unita",
+    "q-identita-soham",
+    "q-natura-atman-paradossi",
+    "q-natura-brahman-purna",
+    "q-perche-soffriamo",
+    "q-rapporto-se-brahman"
+  ],
+  "vidya": [
+    "q-dialettica-vidya-avidya",
+    "q-lazione-vincola"
+  ],
+  "avidya": [
+    "q-dialettica-vidya-avidya",
+    "q-lazione-vincola",
+    "q-perche-soffriamo",
+    "q-uccisori-del-se"
+  ],
+  "ekatva": [
+    "q-frutto-realizzazione-unita"
+  ],
+  "satya": [
+    "q-identita-soham"
+  ],
+  "soham": [
+    "q-identita-soham"
+  ],
+  "deva-abhimana": [
+    "q-kena-allegoria-yaksha"
+  ],
+  "upadhi-upasana": [
+    "q-kena-non-oggettivabilita-brahman"
+  ],
+  "pratistha": [
+    "q-kena-supporti-pratistha"
+  ],
+  "atma-han": [
+    "q-perche-soffriamo",
+    "q-uccisori-del-se"
+  ]
+}

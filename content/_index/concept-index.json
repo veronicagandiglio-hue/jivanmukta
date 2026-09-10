@@ -1,0 +1,406 @@
+{
+  "atma-han": {
+    "id": "atma-han",
+    "name": "Ātmahan",
+    "transliteration": "ātma-han",
+    "gloss": "L'uccisore del proprio Sé: qualifica di colui che per ignoranza metafisica (avidyā) agisce come se il Sé incorruttibile non esistesse, vincolandosi a rinascite oscure.",
+    "passages": [
+      "isha-1-3"
+    ],
+    "related_concepts": [
+      "atman",
+      "avidya",
+      "karman"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/atma-han.json"
+  },
+  "atman": {
+    "id": "atman",
+    "name": "Ātman",
+    "transliteration": "ātman",
+    "gloss": "Il Sé assoluto, universale, impassibile, incorporeo, Testimone cosciente identico a Brahman e trascendente la mente e i sensi.",
+    "passages": [
+      "isha-1-4",
+      "isha-1-5",
+      "isha-1-6",
+      "isha-1-7",
+      "isha-1-8",
+      "isha-1-16"
+    ],
+    "related_concepts": [
+      "purna",
+      "isha",
+      "ekatva",
+      "soham"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/atman.json"
+  },
+  "avidya": {
+    "id": "avidya",
+    "name": "Avidyā",
+    "transliteration": "avidyā",
+    "gloss": "La non-conoscenza metafisica; nel contesto dei mantra 9-11 designa l'azione rituale pura priva di meditazione interiore, avente efficacia purificatoria e protettiva temporanea.",
+    "passages": [
+      "isha-1-9",
+      "isha-1-10",
+      "isha-1-11"
+    ],
+    "related_concepts": [
+      "vidya",
+      "karman",
+      "atma-han"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/avidya.json"
+  },
+  "brahma-vidya": {
+    "id": "brahma-vidya",
+    "name": "Brahma-vidyā",
+    "transliteration": "brahma-vidyā",
+    "gloss": "La Conoscenza liberatrice non-duale personificata da Umā Haimavatī, che estingue la presunzione delle facoltà individuali e dischiude l'immortalità.",
+    "passages": [
+      "kena-2-4",
+      "kena-3-12",
+      "kena-4-1",
+      "kena-4-7"
+    ],
+    "related_concepts": [
+      "brahman",
+      "sakshin",
+      "deva-abhimana"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/brahma-vidya.json"
+  },
+  "brahman": {
+    "id": "brahman",
+    "name": "Brahman",
+    "transliteration": "brahman",
+    "gloss": "La Realtà suprema non-duale, Principio animatore e trascendente di mente, parola e sensi, radicalmente Altro sia dal noto (manifesto) sia dall'ignoto (non-manifesto).",
+    "passages": [
+      "kena-1-2",
+      "kena-1-4",
+      "kena-1-5",
+      "kena-1-6",
+      "kena-1-7",
+      "kena-1-8",
+      "kena-1-9",
+      "kena-2-1",
+      "kena-3-1",
+      "kena-4-1"
+    ],
+    "related_concepts": [
+      "sakshin",
+      "vidita-avidita",
+      "upadhi-upasana",
+      "tadvana"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/brahman.json"
+  },
+  "deva-abhimana": {
+    "id": "deva-abhimana",
+    "name": "Devābhimāna",
+    "transliteration": "devābhimāna",
+    "gloss": "La presunzione egoica delle potenze cosmiche che attribuiscono a se stesse il potere operativo e la vittoria, ignorando la loro totale dipendenza da Brahman.",
+    "passages": [
+      "kena-3-1",
+      "kena-3-2",
+      "kena-3-6",
+      "kena-3-10"
+    ],
+    "related_concepts": [
+      "brahman",
+      "brahma-vidya"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/deva-abhimana.json"
+  },
+  "ekatva": {
+    "id": "ekatva",
+    "name": "Ekatva",
+    "transliteration": "ekatva",
+    "gloss": "L'Unità metafisica non-duale (advaita): la comprensione immediata dell'identità del Sé in tutti gli esseri che estingue alla radice inganno cosmico e dolore.",
+    "passages": [
+      "isha-1-6",
+      "isha-1-7"
+    ],
+    "related_concepts": [
+      "atman",
+      "purna",
+      "tyaga"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/ekatva.json"
+  },
+  "isha": {
+    "id": "isha",
+    "name": "Īśa",
+    "transliteration": "īśa",
+    "gloss": "Il Supremo Signore e Ordinatore cosmico; l'aspetto sovrapposto alla totalità mutevole del cosmo affinché la molteplicità venga risolta nella Realtà divina.",
+    "passages": [
+      "isha-1-1",
+      "isha-1-8"
+    ],
+    "related_concepts": [
+      "atman",
+      "tyaga",
+      "purna"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/isha.json"
+  },
+  "karman": {
+    "id": "karman",
+    "name": "Karman",
+    "transliteration": "karman",
+    "gloss": "L'azione prescritta e rituale compiuta nel mondo fenomenico; via subordinata che protegge dalla contaminazione colui che non è ancora maturo per la pura rinuncia.",
+    "passages": [
+      "isha-1-2",
+      "isha-1-11",
+      "isha-1-18"
+    ],
+    "related_concepts": [
+      "avidya",
+      "tyaga"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/karman.json"
+  },
+  "pratistha": {
+    "id": "pratistha",
+    "name": "Pratiṣṭhā",
+    "transliteration": "pratiṣṭhā",
+    "gloss": "Il fondamento preparatorio della dottrina costituito da fervore ascetico (tapas), controllo dei sensi (dama) e azione pura (karman), avente la Verità (satya) per dimora.",
+    "passages": [
+      "kena-4-8",
+      "kena-4-9"
+    ],
+    "related_concepts": [
+      "brahma-vidya"
+    ],
+    "authors": [
+      "vedic-rishis"
+    ],
+    "source_file": "concepts/pratistha.json"
+  },
+  "purna": {
+    "id": "purna",
+    "name": "Pūrṇa",
+    "transliteration": "pūrṇa",
+    "gloss": "La Pienezza Assoluta increata: il Principio supremo identico a Sé stesso, non soggetto a incremento o diminuzione in rapporto alla manifestazione cosmica.",
+    "passages": [
+      "isha-1-shanti",
+      "isha-1-18"
+    ],
+    "related_concepts": [
+      "atman",
+      "isha",
+      "ekatva"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/purna.json"
+  },
+  "sakshin": {
+    "id": "sakshin",
+    "name": "Sākṣin / Pratibodha",
+    "transliteration": "sākṣin / pratibodha",
+    "gloss": "Il Testimone cosciente immanente che illumina ogni singolo moto di coscienza (pratibodha-viditam) senza mai divenire oggetto o subire modificazione.",
+    "passages": [
+      "kena-1-2",
+      "kena-2-4"
+    ],
+    "related_concepts": [
+      "brahman",
+      "brahma-vidya"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/sakshin.json"
+  },
+  "sambhuti-asambhuti": {
+    "id": "sambhuti-asambhuti",
+    "name": "Sambhūti e Asambhūti",
+    "transliteration": "sambhūti / asambhūti",
+    "gloss": "La polarità metafisica tra l'Effetto manifesto generato (kārya) e la Causa primordiale non-manifestata (avyākṛta-prakṛti), la cui conoscenza integrata supera la dissoluzione formale.",
+    "passages": [
+      "isha-1-12",
+      "isha-1-13",
+      "isha-1-14"
+    ],
+    "related_concepts": [
+      "vidya",
+      "avidya",
+      "purna"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/sambhuti-asambhuti.json"
+  },
+  "satya": {
+    "id": "satya",
+    "name": "Satya",
+    "transliteration": "satya",
+    "gloss": "La Verità metafisica eterna, il cui volto intimo è celato dall'abbagliante disco aureo delle apparenze solari formali.",
+    "passages": [
+      "isha-1-15"
+    ],
+    "related_concepts": [
+      "atman",
+      "soham"
+    ],
+    "authors": [
+      "vedic-rishis"
+    ],
+    "source_file": "concepts/satya.json"
+  },
+  "soham": {
+    "id": "soham",
+    "name": "So'ham asmi",
+    "transliteration": "so'ham asmi",
+    "gloss": "«Egli io sono»: l'attestazione non-duale suprema dell'identità essenziale tra il Puruṣa trascendente e il principio cosciente interiore dell'individuo.",
+    "passages": [
+      "isha-1-16"
+    ],
+    "related_concepts": [
+      "atman",
+      "ekatva",
+      "purna"
+    ],
+    "authors": [
+      "vedic-rishis"
+    ],
+    "source_file": "concepts/soham.json"
+  },
+  "tadvana": {
+    "id": "tadvana",
+    "name": "Tadvana",
+    "transliteration": "tadvana",
+    "gloss": "Nome meditativo di Brahman quale Essenza Suprema Desiderabile in Sé e Somma Bellezza essenziale, verso cui converge l'anelito di tutti gli esseri.",
+    "passages": [
+      "kena-4-6"
+    ],
+    "related_concepts": [
+      "brahman"
+    ],
+    "authors": [
+      "vedic-rishis"
+    ],
+    "source_file": "concepts/tadvana.json"
+  },
+  "tyaga": {
+    "id": "tyaga",
+    "name": "Tyāga",
+    "transliteration": "tyāga",
+    "gloss": "La rinuncia metafisica all'appropriazione egoica e all'identificazione con il non-Sé, condizione per la fruizione e la beatitudine autentica.",
+    "passages": [
+      "isha-1-1"
+    ],
+    "related_concepts": [
+      "isha",
+      "karman",
+      "ekatva"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/tyaga.json"
+  },
+  "upadhi-upasana": {
+    "id": "upadhi-upasana",
+    "name": "Upādhi-upāsanā",
+    "transliteration": "upādhi-upāsanā",
+    "gloss": "La venerazione devozionale o teurgica rivolta a enti formali o divinità intese come esteriori al Sé (nedam yad idam upāsate), categoricamente distinta dalla gnosi di Brahman.",
+    "passages": [
+      "kena-1-5",
+      "kena-1-6",
+      "kena-1-7",
+      "kena-1-8",
+      "kena-1-9"
+    ],
+    "related_concepts": [
+      "brahman",
+      "vidita-avidita"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/upadhi-upasana.json"
+  },
+  "vidita-avidita": {
+    "id": "vidita-avidita",
+    "name": "Vidita e Avidita",
+    "transliteration": "vidita / avidita",
+    "gloss": "La duplice partizione cosmica: il manifesto oggettivabile (conosciuto) e la matrice causale indifferenziata (inconosciuto), entrambi trascesi dal Brahman.",
+    "passages": [
+      "kena-1-4"
+    ],
+    "related_concepts": [
+      "brahman",
+      "upadhi-upasana"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/vidita-avidita.json"
+  },
+  "vidya": {
+    "id": "vidya",
+    "name": "Vidyā",
+    "transliteration": "vidyā",
+    "gloss": "Nel contesto dei versi 9-11, non la gnosi assoluta di Brahman, bensì la contemplazione formale delle divinità (upāsanā), che produce uno stato sovraindividuale relativo.",
+    "passages": [
+      "isha-1-9",
+      "isha-1-10",
+      "isha-1-11"
+    ],
+    "related_concepts": [
+      "avidya",
+      "sambhuti-asambhuti"
+    ],
+    "authors": [
+      "vedic-rishis",
+      "adi-shankara"
+    ],
+    "source_file": "concepts/vidya.json"
+  }
+}

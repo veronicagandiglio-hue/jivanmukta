@@ -1,0 +1,49 @@
+{
+  "id": "kena-2",
+  "work_id": "kena-upanishad",
+  "unit_locus": "II.1-5",
+  "unit_title": "Khaṇḍa II — Il paradosso gnoseologico dell'Assoluto e la conoscenza testimoniale (Pratibodha)",
+  "sections": [
+    {
+      "section_locus": "II.1-5",
+      "section_title": "Secondo Khaṇḍa",
+      "passages": [
+        {
+          "id": "kena-2-1",
+          "original": "यदि मन्यसे सुवेदेति दहरमेवापि नूनं त्वं वेत्थ ब्रह्मणो रूपम् । यदस्य त्वं यदस्य देवेष्वथ नु मीमांस्यमेव ते मन्ये विदितम् ॥ १ ॥",
+          "translation": "[Il Maestro afferma:] Se ritieni: «Io Lo conosco bene», invero ben poco tu conosci della natura del Brahman — sia per quanto concerne la Sua presenza in te, sia per quanto concerne la Sua presenza tra gli dèi. Pertanto, ciò che ritieni conosciuto esige ancora di essere indagato da parte tua.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-2-2",
+          "original": "नाहं मन्ये सुवेदेति नो न वेदेति वेद च । यो नस्तद्वेद तद्वेद नो न वेदेति वेद च ॥ २ ॥",
+          "translation": "[Il Discepolo risponde:] Io non ritengo di conoscerLo compiutamente [come un oggetto], e tuttavia non posso affermare di non conoscerLo: Lo conosco! Chi tra noi comprende ciò, conosce la Verità; non chi crede che Esso sia un non-conosciuto, ma colui che intende l'assioma: «Non ignoro, e tuttavia non conosco oggettivamente».",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-2-3",
+          "original": "यस्यामतं तस्य मतं मतं यस्य न वेद सः । अविज्ञातं विजानतां विज्ञातमविजानताम् ॥ ३ ॥",
+          "translation": "Da colui per il quale Esso è inconcepibile alla mente, Esso è compreso; colui per il quale Esso è concetto mentale, non Lo conosce affatto. Esso non è conosciuto da coloro che presumono di conoscerLo; è conosciuto da coloro che non pretendono di comprenderLo con l'intelletto empirico.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-2-4",
+          "original": "प्रतिबोधविदितं मतममृतत्वं हि विन्दते । आत्मना विन्दते वीर्यं विद्यया विन्दतेऽमृतम् ॥ ४ ॥",
+          "translation": "Quando il Brahman è riconosciuto come il Testimone immanente in ogni moto di coscienza (pratibodha-viditam), allora soltanto Esso è realmente compreso, poiché mediante tale risveglio si consegue l'immortalità. Per mezzo del Sé si attinge la forza invincibile; per mezzo della Conoscenza metafisica (vidyā) si consegue l'immortalità.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-2-5",
+          "original": "इह चेदवेदीदथ सत्यमस्ति न चेदिहावेदीन्महती विनष्टिः । भूतेषु भूतेषु विचित्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ॥ ५ ॥",
+          "translation": "Se un uomo perviene alla Sua Conoscenza qui, in questa vita terrena, vi è per lui la Verità [la realizzazione del Sommo Bene]; ma se non Lo conosce quaggiù, vi è per lui una perdita immensa [il perpetuarsi dell'illusione samsarica]. Avendo scorto il Sé in ciascun essere, i saggi (dhīrāḥ), dipartendosi da questo mondo, divengono immortali.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        }
+      ]
+    }
+  ]
+}

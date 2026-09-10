@@ -1,0 +1,90 @@
+{
+  "id": "kena-1",
+  "work_id": "kena-upanishad",
+  "unit_locus": "I.1-9",
+  "unit_title": "Khaṇḍa I — Il Principio trascendente delle facoltà e la confutazione dell'oggettivazione",
+  "sections": [
+    {
+      "section_locus": "Śānti-pāṭha",
+      "section_title": "Invocazione di Pace",
+      "passages": [
+        {
+          "id": "kena-shanti",
+          "original": "ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि । सर्वं ब्रह्मौपनिषदं माऽहं ब्रह्म निराकुर्यां मा मा ब्रह्म निराकरोदनिराकरणमस्त्वनिराकरणं मेऽस्तु । तदात्मनि निरते य उपनिषत्सु धर्मास्ते मयि सन्तु ते मयि सन्तु । ॐ शान्तिः शान्तिः शान्तिः ॥",
+          "translation": "Om. Possano rinvigorirsi le mie membra, la parola, il soffio vitale (prāṇa), la vista, l'udito, nonché la forza e tutte le facoltà sensoriali. Tutto è il Brahman rivelato dalle Upaniṣad. Possa io non rinnegare mai il Brahman; possa il Brahman non respingere mai me. Non vi sia alcun rifiuto; non vi sia da parte mia alcun ripudio del Principio. Possano tutte le virtù e le verità spirituali (dharmāḥ) proclamate nelle Upaniṣad dimorare in me, dedito interamente al Sé; possano esse dimorare in me! Om. Pace, pace, pace.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        }
+      ]
+    },
+    {
+      "section_locus": "I.1-9",
+      "section_title": "Primo Khaṇḍa",
+      "passages": [
+        {
+          "id": "kena-1-1",
+          "original": "ॐ केनेषितं पतति प्रेषितं मनः केन प्राणः प्रथमः प्रैति युक्तः । केनेषितां वाचमिमां वदन्ति चक्षुः श्रोत्रं क उ देवो युनक्ति ॥ १ ॥",
+          "translation": "Da chi voluto e mosso si lancia il pensiero? Da chi ordinato si muove per primo il soffio vitale (prāṇa)? Da chi voluta gli uomini proferiscono questa parola? Quale Dio indirizza l'occhio e l'orecchio [verso i rispettivi oggetti]?",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-1-2",
+          "original": "श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं स उ प्राणस्य प्राणश्चक्षुषश्चक्षुः । अतिमुच्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ॥ २ ॥",
+          "translation": "Esso è l'Udito dell'udito, la Mente della mente, la Parola della parola; Esso invero è la Vita della vita (prāṇasya prāṇaḥ), la Vista della vista. I saggi (dhīrāḥ), essendosi affrancati da tali facoltà e abbandonato questo mondo corporeo, divengono immortali.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-1-3",
+          "original": "न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः । न विद्मो न विजानीमो यथैतदनुशिष्यात् ॥ ३ ॥",
+          "translation": "Là non giunge la vista, non giunge la parola e neppure la mente. Non Lo conosciamo [come oggetto estrinseco], né comprendiamo come Esso possa essere insegnato per via discorsiva.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-1-4",
+          "original": "अन्यदेव तद्विदितादथो अविदितादधि । इति शुश्रुम पूर्वेषां ये नस्तद्व्याचचक्षिरे ॥ ४ ॥",
+          "translation": "Esso è radicalmente Altro da ciò che è conosciuto [il manifestato, il dominio oggettivo], ed è al di sopra di ciò che non è conosciuto [la causa non-manifestata, l'indifferenziato primordiale]. Così abbiamo udito dagli antichi maestri, che ce lo hanno esposto partitamente.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-1-5",
+          "original": "यद्वाचाऽनभ्युदितं येन वागभ्युद्यते । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ५ ॥",
+          "translation": "Ciò che non è proferito dalla parola, ma mediante cui la parola viene proferita: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato [dalla mente empirica come un oggetto distinto da sé].",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-1-6",
+          "original": "यन्मनसा न मनुते येनाहुर्मनो मतम् । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ६ ॥",
+          "translation": "Ciò che non può essere pensato con la mente, ma mediante cui — come insegnano i saggi — la mente stessa viene pensata: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato come un oggetto.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-1-7",
+          "original": "यच्चक्षुषा न पश्यति येन चक्षूँषि पश्यति । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ७ ॥",
+          "translation": "Ciò che non si può vedere mediante l'occhio, ma per mezzo di cui gli occhi vedono: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato come un oggetto.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-1-8",
+          "original": "यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिदं श्रुतम् । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ८ ॥",
+          "translation": "Ciò che non si ode per mezzo dell'udito, ma mediante cui l'udito stesso è reso capace di udire: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato come un oggetto.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        },
+        {
+          "id": "kena-1-9",
+          "original": "यत्प्राणेन न प्राणिति येन प्राणः प्रणीयते । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ ९ ॥",
+          "translation": "Ciò che non è animato dal soffio vitale, ma mediante cui il soffio vitale viene diretto nelle sue funzioni: sappi che Quello solo è il Brahman, e non ciò che qui viene venerato come un oggetto.",
+          "source": "Wikisource (sa.wikisource.org/wiki/केनोपनिषद्)",
+          "editorial_status": "established"
+        }
+      ]
+    }
+  ]
+}

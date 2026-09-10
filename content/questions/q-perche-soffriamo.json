@@ -1,0 +1,29 @@
+{
+  "id": "q-perche-soffriamo",
+  "scope": "global",
+  "type": "great",
+  "homepage_priority": 6,
+  "text": "Perché soffriamo?",
+  "introduction": "La sofferenza, nella prospettiva dell'Advaita Vedānta, non è il risultato del caso, della sfortuna o della malvagità altrui: è la conseguenza di uno scambio fondamentale di identità. Quando ci identifichiamo con il corpo, con la mente, con la personalità — con tutto ciò che cambia, declina e muore — ci separiamo interiormente dalla nostra vera natura, che è Coscienza pura e immutabile. Questa ignoranza primordiale (avidyā) è la radice di ogni sofferenza. Non si tratta di una spiegazione moralistica del dolore, né di un invito a negare la sofferenza o a ignorarla: la tradizione riconosce la realtà dell'esperienza dolorosa e al tempo stesso indica la sua causa profonda. I testi delle Upaniṣad affrontano questa questione con una durezza che può sorprendere, ma che è al servizio di una comprensione autentica.",
+  "problem": "Identificare la causa metafisica della sofferenza nell'ignoranza della propria vera natura (avidyā) e nella conseguente identificazione con ciò che è impermanente.",
+  "parent_question": null,
+  "specific_questions": [
+    "q-uccisori-del-se",
+    "q-natura-atman-paradossi"
+  ],
+  "concepts": [
+    "avidya",
+    "atman",
+    "atma-han"
+  ],
+  "passages": [
+    "isha-1-3",
+    "isha-1-4",
+    "isha-1-5"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-che-cose-il-se",
+    "q-e-possibile-la-liberta"
+  ]
+}

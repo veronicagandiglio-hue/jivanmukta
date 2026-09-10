@@ -1,0 +1,34 @@
+{
+  "id": "q-che-cose-il-se",
+  "scope": "global",
+  "type": "great",
+  "homepage_priority": 2,
+  "text": "Che cos'è il Sé?",
+  "introduction": "Nella tradizione dell'Advaita Vedānta, il Sé — in sanscrito Ātman — non è la personalità, non è il carattere individuale, non è la mente né il corpo. È il Principio di coscienza pura che testimonia ogni esperienza senza mai essere modificato da essa. Quando guardiamo qualcosa, vediamo; quando pensiamo, sappiamo; quando dormiamo senza sogni, ignoriamo. Dietro questi tre stati — veglia, sogno, sonno profondo — la tradizione indica un Testimone costante che non dipende da nessuno di essi. Questo Testimone è l'Ātman. La domanda «che cos'è il Sé?» non è quindi una domanda psicologica sull'identità personale: è una domanda metafisica sulla natura di ciò che è più intimo e insieme più universale in ogni essere.",
+  "problem": "Identificare la natura dell'Ātman come Principio di coscienza trascendente che permane immutabile attraverso tutti gli stati di esperienza e che è identico, nella sua essenza, a Brahman.",
+  "parent_question": null,
+  "specific_questions": [
+    "q-natura-atman-paradossi",
+    "q-frutto-realizzazione-unita",
+    "q-uccisori-del-se",
+    "q-identita-soham"
+  ],
+  "concepts": [
+    "atman",
+    "sakshin"
+  ],
+  "passages": [
+    "isha-1-4",
+    "isha-1-5",
+    "isha-1-6",
+    "isha-1-7",
+    "isha-1-8",
+    "isha-1-3"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-che-cose-brahman",
+    "q-rapporto-se-brahman",
+    "q-perche-soffriamo"
+  ]
+}

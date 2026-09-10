@@ -1,0 +1,14 @@
+{
+  "id": "isha-upanishad",
+  "title": "Īśāvāsyopaniṣad",
+  "short_title": "Īśā",
+  "language": "sa",
+  "attribution": "Śukla Yajurveda (Vājasaneyi-Saṃhitā, adhyāya XL)",
+  "editorial_note": [
+    "La Īśāvāsya Upaniṣad, pur constando di soli 18 versi, occupa un rango preminente nel canone vedāntico in virtù della sua collocazione diretta all'interno della Saṃhitā vedica.",
+    "Il testo concilia in una mirabile sintesi metafisica la dottrina dell'Ātman non-duale trascendente e immanente, la disciplina dell'azione disinteressata nel cosmo, la dialettica tra opera e meditazione (vidyā/avidyā), e la suprema affermazione di identità so'ham asmi."
+  ],
+  "editorial_units": [
+    "isha-1"
+  ]
+}
