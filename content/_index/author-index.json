@@ -18,6 +18,39 @@
     ],
     "source_file": "authors/adi-shankara.json"
   },
+  "naciketas": {
+    "id": "naciketas",
+    "name": "Naciketas",
+    "transliteration": "Naciketas",
+    "role": "author",
+    "role_description": "Discepolo modello e perfetto aspirante metafisico (adhikārin), personificazione del supremo distacco (vairāgya) e della ferma adesione alla Verità (śraddhā).",
+    "context": "Figlio del saggio Vājaśravasa, rifiuta ogni seduzione temporale per ottenere la sola Conoscenza salvifica del Sé.",
+    "concepts": [
+      "sreyas-e-preyas",
+      "vidya-e-avidya",
+      "moksha-amritatva"
+    ],
+    "related_authors": [
+      "yama"
+    ],
+    "source_file": "authors/naciketas.json"
+  },
+  "shankara": {
+    "id": "shankara",
+    "name": "Śaṅkara",
+    "transliteration": "Śaṅkarācārya",
+    "role": "commentator",
+    "role_description": "Maestro dell'Advaita Vedānta classico e autore del commentario normativo (Kaṭhopaniṣadbhāṣya).",
+    "context": "VIII secolo d.C., codificatore dell'ortodossia non-duale della Śruti.",
+    "concepts": [
+      "brahman",
+      "atman",
+      "jivanmukti",
+      "vidya-e-avidya"
+    ],
+    "related_authors": [],
+    "source_file": "authors/shankara.json"
+  },
   "vedic-rishis": {
     "id": "vedic-rishis",
     "name": "Vedic Rishis",
@@ -34,5 +67,24 @@
     ],
     "related_authors": [],
     "source_file": "authors/vedic-rishis.json"
+  },
+  "yama": {
+    "id": "yama",
+    "name": "Yama",
+    "transliteration": "Yama Vaivasvata",
+    "role": "author",
+    "role_description": "Signore della Morte e Dispensatore della Legge Cosmica (Dharmarāja), maestro iniziatore che rivela la conoscenza dell'Ātman immortale.",
+    "context": "Divinità sovrana del trapasso e custode dell'ordine metafisico; esaminatore dell'aspirante spirituale.",
+    "concepts": [
+      "brahman",
+      "atman",
+      "purusha",
+      "sreyas-e-preyas",
+      "adhyatma-yoga"
+    ],
+    "related_authors": [
+      "naciketas"
+    ],
+    "source_file": "authors/yama.json"
   }
 }

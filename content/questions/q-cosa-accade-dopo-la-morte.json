@@ -1,0 +1,24 @@
+{
+  "id": "q-cosa-accade-dopo-la-morte",
+  "type": "great",
+  "text": "Qual è il destino dell'essere umano dopo il dissolvimento corporeo?",
+  "problem": "Risolvere il supremo dubbio se dopo la morte rimanga un principio immortale o si cada nel nulla.",
+  "parent_question": null,
+  "concepts": [
+    "atman",
+    "moksha-amritatva"
+  ],
+  "passages": [
+    "katha-1-1-20",
+    "katha-1-2-6",
+    "katha-2-2-7",
+    "katha-2-3-14"
+  ],
+  "commentaries": [
+    "comm-shankara-katha-1-1-20"
+  ],
+  "related_questions": [
+    "q-che-cose-l-atman",
+    "q-qual-e-la-natura-della-liberazione"
+  ]
+}

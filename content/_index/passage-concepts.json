@@ -1,4 +1,25 @@
 {
+  "katha-1-2-12": [
+    "adhyatma-yoga",
+    "hridaya-guha"
+  ],
+  "katha-1-3-13": [
+    "adhyatma-yoga"
+  ],
+  "katha-2-3-10": [
+    "adhyatma-yoga",
+    "buddhi-intelletto"
+  ],
+  "katha-2-3-11": [
+    "adhyatma-yoga"
+  ],
+  "katha-2-3-18": [
+    "adhyatma-yoga",
+    "vidya-e-avidya"
+  ],
+  "katha-2-3-1": [
+    "asvattha-albero-cosmico"
+  ],
   "isha-1-3": [
     "atma-han"
   ],
@@ -86,6 +107,18 @@
     "brahman",
     "deva-abhimana"
   ],
+  "katha-1-3-3": [
+    "buddhi-intelletto"
+  ],
+  "katha-1-3-9": [
+    "buddhi-intelletto"
+  ],
+  "katha-1-3-12": [
+    "buddhi-intelletto"
+  ],
+  "katha-2-3-7": [
+    "buddhi-intelletto"
+  ],
   "kena-3-2": [
     "deva-abhimana"
   ],
@@ -95,9 +128,41 @@
   "kena-3-10": [
     "deva-abhimana"
   ],
+  "katha-1-1-14": [
+    "hridaya-guha"
+  ],
+  "katha-1-2-20": [
+    "hridaya-guha"
+  ],
+  "katha-1-3-1": [
+    "hridaya-guha"
+  ],
+  "katha-2-1-6": [
+    "hridaya-guha"
+  ],
+  "katha-2-1-12": [
+    "hridaya-guha",
+    "purusha"
+  ],
+  "katha-2-3-17": [
+    "hridaya-guha",
+    "purusha"
+  ],
   "isha-1-1": [
     "isha",
     "tyaga"
+  ],
+  "katha-2-2-1": [
+    "jivanmukti",
+    "moksha-amritatva"
+  ],
+  "katha-2-3-14": [
+    "jivanmukti",
+    "moksha-amritatva"
+  ],
+  "katha-2-3-15": [
+    "jivanmukti",
+    "moksha-amritatva"
   ],
   "isha-1-2": [
     "karman"
@@ -105,6 +170,24 @@
   "isha-1-18": [
     "karman",
     "purna"
+  ],
+  "katha-1-2-8": [
+    "moksha-amritatva"
+  ],
+  "katha-1-3-8": [
+    "moksha-amritatva"
+  ],
+  "katha-2-1-1": [
+    "moksha-amritatva"
+  ],
+  "katha-1-2-15": [
+    "om-pranava"
+  ],
+  "katha-1-2-16": [
+    "om-pranava"
+  ],
+  "katha-1-2-17": [
+    "om-pranava"
   ],
   "kena-4-8": [
     "pratistha"
@@ -114,6 +197,18 @@
   ],
   "isha-1-shanti": [
     "purna"
+  ],
+  "katha-1-3-11": [
+    "purusha"
+  ],
+  "katha-2-1-13": [
+    "purusha"
+  ],
+  "katha-2-2-8": [
+    "purusha"
+  ],
+  "katha-2-3-8": [
+    "purusha"
   ],
   "isha-1-12": [
     "sambhuti-asambhuti"
@@ -127,7 +222,23 @@
   "isha-1-15": [
     "satya"
   ],
+  "katha-1-2-1": [
+    "sreyas-e-preyas"
+  ],
+  "katha-1-2-2": [
+    "sreyas-e-preyas"
+  ],
+  "katha-1-2-3": [
+    "sreyas-e-preyas"
+  ],
+  "katha-1-2-4": [
+    "sreyas-e-preyas",
+    "vidya-e-avidya"
+  ],
   "kena-4-6": [
     "tadvana"
+  ],
+  "katha-1-2-5": [
+    "vidya-e-avidya"
   ]
 }

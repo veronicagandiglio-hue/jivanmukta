@@ -417,6 +417,2184 @@
     "editorial_status": "established",
     "source_file": "explanations/expl-isha-1-shanti.json"
   },
+  "expl-katha-1-1-0": {
+    "id": "expl-katha-1-1-0",
+    "target_type": "passage",
+    "target_id": "katha-1-1-0",
+    "title": "L'unione spirituale tra maestro e discepolo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Invocazione tradizionale di pace per allontanare ogni ostacolo e discorde passione tra chi insegna e chi apprende."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La trasmissione della Verità richiede una perfetta armonia spirituale: il sapere sacro non è una contesa dialettica, ma una realizzazione comune nella luce divina."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-0.json"
+  },
+  "expl-katha-1-1-1": {
+    "id": "expl-katha-1-1-1",
+    "target_type": "passage",
+    "target_id": "katha-1-1-1",
+    "title": "Il sacrificio esteriore di Vājaśravasa",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il padre di Naciketas compie un sacrificio solenne offrendo tutti i suoi beni materiali per ottenere ricompense celesti."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Mostra il limite della religione rituale compiuta per brama di ricompensa: Naciketas rappresenta invece l'animo nobile che mira alla verità assoluta."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-1.json"
+  },
+  "expl-katha-1-1-10": {
+    "id": "expl-katha-1-1-10",
+    "target_type": "passage",
+    "target_id": "katha-1-1-10",
+    "title": "Il primo dono: la pacificazione filiale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas chiede come primo dono che il padre sia placato nell'animo, libero da ira e pronto a riaccoglierlo con amore."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La pietà filiale e la risoluzione dei doveri familiari sono la base necessaria prima di intraprendere l'ascesa metafisica."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-10.json"
+  },
+  "expl-katha-1-1-11": {
+    "id": "expl-katha-1-1-11",
+    "target_type": "passage",
+    "target_id": "katha-1-1-11",
+    "title": "La promessa di Yama al primo desiderio",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama assicura che il padre riconoscerà il figlio scampato alla morte e ritroverà la serenità del sonno e del cuore."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'ordine armonico del mondo terreno viene confermato: il superamento della prova spirituale guarisce i conflitti umani."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-11.json"
+  },
+  "expl-katha-1-1-12": {
+    "id": "expl-katha-1-1-12",
+    "target_type": "passage",
+    "target_id": "katha-1-1-12",
+    "title": "Il mondo celeste privo di fame e terrore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas descrive la dimensione del cielo in cui non regna la vecchiaia, né la sete, né il terrore della distruzione."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Esprime l'aspirazione umana agli stati sovra-individuali di beatitudine, liberi dalle miserie fisiche della terra."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-12.json"
+  },
+  "expl-katha-1-1-13": {
+    "id": "expl-katha-1-1-13",
+    "target_type": "passage",
+    "target_id": "katha-1-1-13",
+    "title": "Il secondo dono: il Fuoco celeste",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas domanda la conoscenza del Fuoco sacro che apre l'accesso ai mondi celesti e all'immortalità relativa."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Rappresenta la scienza dell'ascesa cosmica mediante il rito sacro, concessa a chi possiede una ferma fede intuitiva."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-13.json"
+  },
+  "expl-katha-1-1-14": {
+    "id": "expl-katha-1-1-14",
+    "target_type": "passage",
+    "target_id": "katha-1-1-14",
+    "title": "Il Fuoco che risiede nel segreto del cuore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama rivela che il Fuoco che sostiene i mondi infiniti risiede nascosto nella cavità più intima dell'essere umano."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il principio che regge l'universo esteriore è identico all'energia luminosa riposta nel cuore dell'uomo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-14.json"
+  },
+  "expl-katha-1-1-15": {
+    "id": "expl-katha-1-1-15",
+    "target_type": "passage",
+    "target_id": "katha-1-1-15",
+    "title": "L'istruzione rituale e la perfetta memoria",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama insegna i mattoni e la struttura dell'altare cosmico; Naciketas ripete tutto perfettamente, rallegrando il Maestro."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Mostra la precisione rigorosa della trasmissione tradizionale: il discepolo qualificato accoglie e custodisce la dottrina senza alterarla."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-15.json"
+  },
+  "expl-katha-1-1-16": {
+    "id": "expl-katha-1-1-16",
+    "target_type": "passage",
+    "target_id": "katha-1-1-16",
+    "title": "Il Fuoco intitolato a Naciketas",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Compiaciuto, Yama concede un dono supplementare: il Fuoco porterà il nome di Naciketas, e gli porge una collana d'oro dai molti nodi."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La dedizione spirituale trasforma il nome dell'iniziato nel simbolo stesso del cammino che unisce i mondi."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-16.json"
+  },
+  "expl-katha-1-1-17": {
+    "id": "expl-katha-1-1-17",
+    "target_type": "passage",
+    "target_id": "katha-1-1-17",
+    "title": "Il triplice rito e il superamento della morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi compie il triplice sacrificio del Fuoco e adempie i doveri sacri oltrepassa la nascita e perviene alla pace duratura."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'azione sacra rettamente intesa conduce al vertice degli stati celesti, placando le turbolenze dell'esistenza terrena."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-17.json"
+  },
+  "expl-katha-1-1-18": {
+    "id": "expl-katha-1-1-18",
+    "target_type": "passage",
+    "target_id": "katha-1-1-18",
+    "title": "Lo spezzamento dei lacci della Morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Colui che erige con consapevolezza il sacro fuoco spezza in anticipo i legami della Morte e gioisce nel cielo."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La conoscenza profonda del rito libera dalla paura della morte corporale, elevando la coscienza ai piani luminosi."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-18.json"
+  },
+  "expl-katha-1-1-19": {
+    "id": "expl-katha-1-1-19",
+    "target_type": "passage",
+    "target_id": "katha-1-1-19",
+    "title": "L'invito a formulare il terzo dono",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama conclude la spiegazione del secondo dono e invita il giovane a formulare il terzo e ultimo desiderio."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Esaurito l'ambito dei frutti celesti e dei meriti rituali, si apre la soglia della pura ricerca metafisica."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-19.json"
+  },
+  "expl-katha-1-1-2": {
+    "id": "expl-katha-1-1-2",
+    "target_type": "passage",
+    "target_id": "katha-1-1-2",
+    "title": "Il risveglio della fede intuitiva (Śraddhā)",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Nel giovane Naciketas sorge la Śraddhā, la lucida percezione dell'inadeguatezza delle offerte esteriori del padre."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La Śraddhā non è credenza cieca, ma la scintilla dell'intuizione spirituale che svela l'ipocrisia delle azioni compiute per mero calcolo personale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-2.json"
+  },
+  "expl-katha-1-1-20": {
+    "id": "expl-katha-1-1-20",
+    "target_type": "passage",
+    "target_id": "katha-1-1-20",
+    "title": "Il grande enigma sull'essere oltre la morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas esprime il terzo dono: sapere se l'uomo oltrepassato il trapasso finale continui a esistere o svanisca nel nulla."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Non si tratta di semplice sopravvivenza dell'anima, ma dell'enigma ultimo dell'immortalità assoluta e della vera natura del Sé."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-20.json"
+  },
+  "expl-katha-1-1-21": {
+    "id": "expl-katha-1-1-21",
+    "target_type": "passage",
+    "target_id": "katha-1-1-21",
+    "title": "L'esitazione divina e la sottigliezza del Dharma",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama tenta di dissuadere Naciketas: perfino gli dèi antichi rimasero nel dubbio su questa verità sommamente sottile."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La verità sull'Assoluto è inaccessibile ai pensieri ordinari; il maestro saggia la determinazione dell'aspirante prima di rivelarla."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-21.json"
+  },
+  "expl-katha-1-1-22": {
+    "id": "expl-katha-1-1-22",
+    "target_type": "passage",
+    "target_id": "katha-1-1-22",
+    "title": "La fermezza di Naciketas davanti alla Morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas replica che proprio perché la verità è ardua e gli dèi ne dubitano, nessun altro maestro può eguagliare la Morte stessa."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il vero discepolo non retrocede dinanzi alla difficoltà della metafisica, ma riconosce l'unicità dell'opportunità di ricevere la dottrina suprema."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-22.json"
+  },
+  "expl-katha-1-1-23": {
+    "id": "expl-katha-1-1-23",
+    "target_type": "passage",
+    "target_id": "katha-1-1-23",
+    "title": "La tentazione dei piaceri e delle ricchezze",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama offre a Naciketas figli centenari, mandrie immense, elefanti, oro, cavalli e un regno terreno sconfinato per secoli."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "È la prova classica dell'iniziazione: prima di accedere al segreto dell'immortalità, l'uomo viene lusingato con tutto ciò che il mondo desidera."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-23.json"
+  },
+  "expl-katha-1-1-24": {
+    "id": "expl-katha-1-1-24",
+    "target_type": "passage",
+    "target_id": "katha-1-1-24",
+    "title": "L'offerta di longevità e potenza sovrana",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama promette a Naciketas di farlo signore di ogni piacere terreno e di concedergli una vita prolungata a piacimento."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La potenza e il godimento materiale sono la trappola in cui cadono gli spiriti mediocri, scambiando l'effimero per l'essenziale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-24.json"
+  },
+  "expl-katha-1-1-25": {
+    "id": "expl-katha-1-1-25",
+    "target_type": "passage",
+    "target_id": "katha-1-1-25",
+    "title": "Le ninfe celesti e l'ultimo richiamo al silenzio",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "La Morte offre fanciulle celesti dai canti soavi e carri divini introvabili agli uomini, pregandolo di non indagare sulla fine suprema."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Le seduzioni della bellezza e del piacere sensibile sono le più potenti catene che distolgono l'uomo dall'interrogativo metafisico."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-25.json"
+  },
+  "expl-katha-1-1-26": {
+    "id": "expl-katha-1-1-26",
+    "target_type": "passage",
+    "target_id": "katha-1-1-26",
+    "title": "La caducità dell'indomani e l'usura dei sensi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas rigetta tutto: questi piaceri durano solo fino a domani e logorano il vigore dei sensi; anche una vita lunghissima è brevissima."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il saggio vede l'illusorietà del tempo: i piaceri consumano le energie vitali e lasciano l'anima sfinita. Niente di ciò che muta può saziare l'Assoluto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-26.json"
+  },
+  "expl-katha-1-1-27": {
+    "id": "expl-katha-1-1-27",
+    "target_type": "passage",
+    "target_id": "katha-1-1-27",
+    "title": "L'inappagabilità dell'uomo mediante la ricchezza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Nessuna ricchezza materiale può appagare l'essere umano, e le ricchezze dipendono comunque dall'arbitrio della Morte: il solo dono rimane la Verità."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La brama di possesso è insaziabile perché cerca l'infinito negli oggetti finiti; Naciketas rifiuta i beni temporali per la sola Conoscenza immutabile."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-27.json"
+  },
+  "expl-katha-1-1-28": {
+    "id": "expl-katha-1-1-28",
+    "target_type": "passage",
+    "target_id": "katha-1-1-28",
+    "title": "L'incontro con l'Incorruttibile e il disprezzo dell'effimero",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Essendosi accostato a esseri incorruttibili ed eterni, quale mortale consapevole potrebbe rallegrarsi di una vita prolungata nei piaceri vani?"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Una volta intuita la luce dell'Eterno, le gioie terrene appaiono per ciò che sono: ombre fugaci di nessun valore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-28.json"
+  },
+  "expl-katha-1-1-29": {
+    "id": "expl-katha-1-1-29",
+    "target_type": "passage",
+    "target_id": "katha-1-1-29",
+    "title": "L'irremovibile scelta della Verità recondita",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas ribadisce di volere unicamente la rivelazione del supremo mistero del passaggio oltre la morte: nessun altro dono sarà accettato."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La qualificazione suprema per l'Advaita è la totale assenza di compromessi: la verità va cercata per se stessa, al di sopra di ogni lusinga cosmica."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-29.json"
+  },
+  "expl-katha-1-1-3": {
+    "id": "expl-katha-1-1-3",
+    "target_type": "passage",
+    "target_id": "katha-1-1-3",
+    "title": "I doni sterili e i mondi privi di gioia",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Donare vacche ormai vecchie e sterili non genera meriti spirituali, ma conduce a mondi oscuri e privi di luce."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Chi offre al divino solo ciò che è esausto e privo di valore testimonia il proprio attaccamento egoico, raccogliendo solo vuoto e delusione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-3.json"
+  },
+  "expl-katha-1-1-4": {
+    "id": "expl-katha-1-1-4",
+    "target_type": "passage",
+    "target_id": "katha-1-1-4",
+    "title": "La domanda insistente e l'ira del padre",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas chiede a chi egli stesso sarà donato; il padre, irritato dalla sua insistenza, lo destina alla Morte."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Mettendo in gioco la propria persona, Naciketas dimostra di non temere la fine terrena pur di ristabilire la rettitudine del sacrificio."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-4.json"
+  },
+  "expl-katha-1-1-5": {
+    "id": "expl-katha-1-1-5",
+    "target_type": "passage",
+    "target_id": "katha-1-1-5",
+    "title": "La serena riflessione del discepolo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas valuta il proprio valore senza superbia né avvilimento, pronto a compiere il volere superiore del Re dei Mani."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il ricercatore spirituale sincero affronta anche la prova della morte sapendo che dietro ogni evento esteriore opera un mistero provvidenziale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-5.json"
+  },
+  "expl-katha-1-1-6": {
+    "id": "expl-katha-1-1-6",
+    "target_type": "passage",
+    "target_id": "katha-1-1-6",
+    "title": "La legge ciclica della nascita e della morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "I mortali maturano e periscono come il grano nei campi, per poi rispuntare nuovamente secondo il ciclo cosmico."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Attaccarsi alla vita fisica è un'illusione: tutto ciò che nasce deve morire. La vera grandezza risiede nel cercare ciò che non muore mai."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-6.json"
+  },
+  "expl-katha-1-1-7": {
+    "id": "expl-katha-1-1-7",
+    "target_type": "passage",
+    "target_id": "katha-1-1-7",
+    "title": "L'ospite sacro e il Fuoco Universale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'ospite venerabile brāhmaṇa entra nella dimora portando con sé l'energia ardente del Fuoco sacro Vaiśvānara."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Nella tradizione primordiale, l'accoglienza dell'ospite è un dovere sacro: trascurarlo significa attirare la distruzione sulla propria casa."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-7.json"
+  },
+  "expl-katha-1-1-8": {
+    "id": "expl-katha-1-1-8",
+    "target_type": "passage",
+    "target_id": "katha-1-1-8",
+    "title": "La rovina di chi manca all'ospitalità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Lasciare digiuno un saggio brāhmaṇa distrugge ogni merito sacro, la prole, il bestiame e le buone speranze future."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La violazione dell'armonia cosmica e dell'ordine sacro annulla i frutti delle azioni virtuose accumulate nel tempo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-8.json"
+  },
+  "expl-katha-1-1-9": {
+    "id": "expl-katha-1-1-9",
+    "target_type": "passage",
+    "target_id": "katha-1-1-9",
+    "title": "I tre doni concessi dalla Morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama ripara all'involontaria scortesia delle tre notti di digiuno offrendo a Naciketas la scelta di tre favori."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La rettitudine divina ristabilisce l'equilibrio: la Morte stessa diviene debitrice e benefattrice del discepolo puro."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-1-9.json"
+  },
+  "expl-katha-1-2-1": {
+    "id": "expl-katha-1-2-1",
+    "target_type": "passage",
+    "target_id": "katha-1-2-1",
+    "title": "La biforcazione eterna: Śreyas e Preyas",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama inizia l'insegnamento distinguendo il Bene supremo (Śreyas) dal piacevole (Preyas): chi sceglie il Bene prospera, chi sceglie il piacere fallisce il fine ultimo."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Davanti all'uomo vi sono due vie divergenti: quella dello spirito che conduce alla libertà e quella dei sensi che imprigiona nel ciclo delle rinascite."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-1.json"
+  },
+  "expl-katha-1-2-10": {
+    "id": "expl-katha-1-2-10",
+    "target_type": "passage",
+    "target_id": "katha-1-2-10",
+    "title": "L'Immutabile non si ottiene con le cose transitorie",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama confessa che i tesori mondani sono effimeri e che l'Eterno non si consegue con atti transitori, sebbene egli stesso abbia istituito il Fuoco celeste."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Anche il rango di divinità cosmica ottenuto coi sacrifici rituali è limitato nel tempo: la Liberazione autentica esige qualcosa di radicalmente superiore alle opere."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-10.json"
+  },
+  "expl-katha-1-2-11": {
+    "id": "expl-katha-1-2-11",
+    "target_type": "passage",
+    "target_id": "katha-1-2-11",
+    "title": "Il rifiuto del regno cosmico in virtù del Sé",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama riconosce che Naciketas ha saputo rigettare persino il compimento universale dei desideri e il trono del mondo celeste pur di cercare l'Assoluto."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La vera statura spirituale si manifesta quando si rifiuta non solo la bassezza materiale, ma persino la gloria del paradiso celeste in nome dell'Eterno."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-11.json"
+  },
+  "expl-katha-1-2-12": {
+    "id": "expl-katha-1-2-12",
+    "target_type": "passage",
+    "target_id": "katha-1-2-12",
+    "title": "L'Adhyātma-yoga e il superamento di gioia e dolore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Conoscendo per mezzo della concentrazione interiore (Adhyātma-yoga) il Dio nascosto nell'intimo del cuore, il saggio oltrepassa l'ebbrezza e la disperazione."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il Sé è sepolto nell'abisso segreto dell'essere: chi distoglie i sensi e Lo contempla realizza una pace impassibile che nessuna vicenda del mondo può turbare."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-12.json"
+  },
+  "expl-katha-1-2-13": {
+    "id": "expl-katha-1-2-13",
+    "target_type": "passage",
+    "target_id": "katha-1-2-13",
+    "title": "La dimora della Verità spalancata per Naciketas",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il mortale che ascolta, assimila e discrimina questo Principio sottilissimo gioisce della vera Beatitudine; Yama dichiara la porta di Brahman aperta a Naciketas."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Comprendere l'Ātman dona una gioia perenne e incrollabile: il discepolo che si purifica è già pronto ad accogliere la Liberazione suprema."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-13.json"
+  },
+  "expl-katha-1-2-14": {
+    "id": "expl-katha-1-2-14",
+    "target_type": "passage",
+    "target_id": "katha-1-2-14",
+    "title": "La domanda sull'Assoluto al di là delle polarità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas chiede a Yama di rivelargli ciò che è oltre il bene e il male, oltre la causa e l'effetto, oltre il passato e il futuro."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "È la più limpida definizione dell'Assoluto non-duale: la Verità suprema trascende la morale convenzionale, il tempo e la causalità universale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-14.json"
+  },
+  "expl-katha-1-2-15": {
+    "id": "expl-katha-1-2-15",
+    "target_type": "passage",
+    "target_id": "katha-1-2-15",
+    "title": "Il Praṇava Oṃ: la meta di tutte le Scritture",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Lo Stato che tutti i Veda proclamano, per il quale si compiono le austerità e la castità sacra, Yama lo sintetizza in una sola sillaba: OṂ."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Tutti i sentieri di ricerca spirituale e le ascesi tradizionali convergono nel Verbo primordiale Oṃ, vibrazione e simbolo supremo della Realtà."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-15.json"
+  },
+  "expl-katha-1-2-16": {
+    "id": "expl-katha-1-2-16",
+    "target_type": "passage",
+    "target_id": "katha-1-2-16",
+    "title": "La sillaba imperitura dell'Assoluto",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questa sillaba Oṃ è l'imperituro Brahman manifesto e il Brahman Supremo: chi conosce questo mistero ottiene qualunque bene concepisca."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Meditando su Oṃ si coglie sia la causa cosmica sia il Principio assoluto incondizionato, raggiungendo la pienezza dell'essere."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-16.json"
+  },
+  "expl-katha-1-2-17": {
+    "id": "expl-katha-1-2-17",
+    "target_type": "passage",
+    "target_id": "katha-1-2-17",
+    "title": "Il supremo supporto spirituale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Praṇava è il supporto eccelso e definitivo: assimilando tale appoggio spirituale, l'anima si glorifica nel Mondo del Brahman."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Nella dispersione della mente, la sillaba sacra Oṃ è l'ancora incrollabile che consente alla coscienza di risalire verso l'Infinito."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-17.json"
+  },
+  "expl-katha-1-2-18": {
+    "id": "expl-katha-1-2-18",
+    "target_type": "passage",
+    "target_id": "katha-1-2-18",
+    "title": "La non-nascita e immortalità del Sé cosciente",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Sé cosciente non nasce e non muore; non proviene da nulla e nulla scaturisce da Esso; primordiale ed eterno, non è soppresso quando il corpo perisce."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il nostro vero Essere è pura Coscienza incorruttibile: le vicende biologiche del corpo (nascita, decadimento, morte) non sfiorano minimamente il Sé interiore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-18.json"
+  },
+  "expl-katha-1-2-19": {
+    "id": "expl-katha-1-2-19",
+    "target_type": "passage",
+    "target_id": "katha-1-2-19",
+    "title": "L'inviolabilità del Sé: né uccisore né ucciso",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Se chi uccide pensa di uccidere e chi perisce pensa di essere soppresso, entrambi ignorano la Verità: l'Ātman non uccide alcuno né può essere ucciso."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La distruzione appartiene solo all'involucro materiale esterno: la sostanza metafisica della coscienza è assolutamente immune dalla violenza corporea."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-19.json"
+  },
+  "expl-katha-1-2-2": {
+    "id": "expl-katha-1-2-2",
+    "target_type": "passage",
+    "target_id": "katha-1-2-2",
+    "title": "Il discernimento del saggio e l'errore dello stolto",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Entrambe le vie si presentano all'uomo: il saggio le scruta e sceglie il Bene; l'ignorante sceglie il piacere per brama di accumulo e sicurezza mondana."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il saggio sa guardare oltre l'apparenza immediata; lo stolto scambia il comfort provvisorio per la vera sicurezza, legandosi alla materia."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-2.json"
+  },
+  "expl-katha-1-2-20": {
+    "id": "expl-katha-1-2-20",
+    "target_type": "passage",
+    "target_id": "katha-1-2-20",
+    "title": "Il Sé più sottile del sottile nel cuore dell'uomo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Più minuscolo del più piccolo atomo e più immenso della totalità cosmica, l'Ātman dimora nel cuore: l'uomo privo di desideri contempla la Sua maestà per la quiete interiore."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il divino non è un oggetto distante nei cieli, ma la radice stessa del nostro essere; quando l'ego tace e i sensi si calmano, la grandezza del Sé rifulge spontaneamente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-20.json"
+  },
+  "expl-katha-1-2-21": {
+    "id": "expl-katha-1-2-21",
+    "target_type": "passage",
+    "target_id": "katha-1-2-21",
+    "title": "I paradossi metafisici della Coscienza pura",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Pur stando assiso, viaggia lontano; pur giacendo immobile, penetra ovunque: chi se non colui che è purificato può comprendere questo Ente che trascende ogni contrasto?"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La Coscienza è ovunque presente senza bisogno di muoversi fisicamente: per la mente razionale questo è un paradosso, ma per l'intuizione pura è l'evidenza stessa dell'omnipresenza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-21.json"
+  },
+  "expl-katha-1-2-22": {
+    "id": "expl-katha-1-2-22",
+    "target_type": "passage",
+    "target_id": "katha-1-2-22",
+    "title": "L'Incorporeo fra i corpi e la cessazione del dolore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Incorporeo dentro tutti i corpi, stabile tra le realtà mutevoli: conoscendo l'Ātman infinito e onnipervadente, il saggio non prova più alcun dolore."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Tutto ciò che cambia è fonte di angoscia; ancorarsi a ciò che non muta mai all'interno di noi stessi spegne per sempre la radice della sofferenza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-22.json"
+  },
+  "expl-katha-1-2-23": {
+    "id": "expl-katha-1-2-23",
+    "target_type": "passage",
+    "target_id": "katha-1-2-23",
+    "title": "L'auto-rivelazione del Sé all'aspirante puro",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'Ātman non si ottiene con le dissertazioni, con l'intelletto dialettico né con vasti studi; è ottenuto da colui che brama Esso solo: a costui l'Ātman svela la propria realtà."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Non si diventa liberati accumulando nozioni sui libri, ma desiderando solo la Verità con distacco totale: allora il Sé rivela se stesso alla nostra coscienza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-23.json"
+  },
+  "expl-katha-1-2-24": {
+    "id": "expl-katha-1-2-24",
+    "target_type": "passage",
+    "target_id": "katha-1-2-24",
+    "title": "Le condizioni etiche e contemplative per la realizzazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi non cessa dalla condotta disordinata, chi ha i sensi irrequieti e la mente distratta non potrà mai raggiungere il Sé per mezzo della sola erudizione."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La purificazione morale e la disciplina della mente sono il terreno indispensabile: un intelletto brillante unito a una vita disordinata genera solo sterili illusioni."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-24.json"
+  },
+  "expl-katha-1-2-25": {
+    "id": "expl-katha-1-2-25",
+    "target_type": "passage",
+    "target_id": "katha-1-2-25",
+    "title": "L'Assoluto che riassorbe l'intero cosmo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Colui per il quale sia il potere spirituale sia il potere temporale sono semplice nutrimento, e la Morte stessa non è che condimento: chi può concepire dove Egli sia?"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'Assoluto divora e riassorbe in sé l'intera creazione, e la morte stessa svanisce in Lui: nessuna categoria umana può circoscrivere la Sua maestà infinita."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-25.json"
+  },
+  "expl-katha-1-2-3": {
+    "id": "expl-katha-1-2-3",
+    "target_type": "passage",
+    "target_id": "katha-1-2-3",
+    "title": "La vittoria di Naciketas sulla catena dell'oro",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama loda Naciketas per aver rigettato le parvenze seducenti dei desideri, senza cadere nel laccio del denaro in cui sprofonda la massa."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il discepolo ha dimostrato con i fatti di possedere il distacco spirituale (vairāgya), condizione indispensabile per ricevere la dottrina non-duale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-3.json"
+  },
+  "expl-katha-1-2-4": {
+    "id": "expl-katha-1-2-4",
+    "target_type": "passage",
+    "target_id": "katha-1-2-4",
+    "title": "L'abisso incolmabile tra Conoscenza e Ignoranza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Vidyā (la Conoscenza) e Avidyā (l'Ignoranza) procedono in direzioni radicalmente opposte; Yama riconosce Naciketas come un autentico aspirante alla verità."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Non è possibile conciliare la ricerca di Dio con l'attaccamento ai desideri mondani: procedere verso la luce richiede l'abbandono delle tenebre."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-4.json"
+  },
+  "expl-katha-1-2-5": {
+    "id": "expl-katha-1-2-5",
+    "target_type": "passage",
+    "target_id": "katha-1-2-5",
+    "title": "I ciechi guidati da altri ciechi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Immersi nell'ignoranza ma credendosi dotti e sapienti, gli uomini superficiali vagano smarriti come ciechi condotti da una guida cieca."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'erudizione profana e la presunzione intellettuale non salvano dall'ignoranza metafisica: senza un vero maestro spirituale, si gira a vuoto nell'illusione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-5.json"
+  },
+  "expl-katha-1-2-6": {
+    "id": "expl-katha-1-2-6",
+    "target_type": "passage",
+    "target_id": "katha-1-2-6",
+    "title": "L'illusione materialista e le catene della Morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "La verità del passaggio supremo non appare all'uomo accecato dal denaro che crede esista solo questo mondo visibile: costui cade e ricade in potere della Morte."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Chi nega l'invisibile e riduce la realtà ai soli fenomeni materiali è condannato a subire continuamente il ciclo della sofferenza e della distruzione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-6.json"
+  },
+  "expl-katha-1-2-7": {
+    "id": "expl-katha-1-2-7",
+    "target_type": "passage",
+    "target_id": "katha-1-2-7",
+    "title": "La rarità insigne di chi insegna e realizza il Sé",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'Ātman è difficile anche solo da sentire nominare; ammirevole è chi Lo insegna, straordinario è chi Lo comprende sotto la guida di un saggio."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La Conoscenza non-duale non è una nozione comune: richiede l'incontro provvidenziale tra un maestro realizzato e un discepolo purificato."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-7.json"
+  },
+  "expl-katha-1-2-8": {
+    "id": "expl-katha-1-2-8",
+    "target_type": "passage",
+    "target_id": "katha-1-2-8",
+    "title": "L'inefficacia della guida mediocre e la via della non-dualità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Esposto da chi è mediocre, l'Ātman viene frainteso tra mille opinioni; ma insegnato da chi ha realizzato la non-dualità, dissipa ogni dubbio."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il Sé è più sottile del pensiero logico: solo un maestro stabilito nell'identità con Brahman può accendere la luce intuitiva nel discepolo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-8.json"
+  },
+  "expl-katha-1-2-9": {
+    "id": "expl-katha-1-2-9",
+    "target_type": "passage",
+    "target_id": "katha-1-2-9",
+    "title": "I limiti della dialettica e la fermezza nella Verità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questa comprensione suprema non può essere raggiunta col mero ragionamento discorsivo; Yama loda la salda devozione di Naciketas alla Verità."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La filosofia razionale può confutare gli errori, ma non può dare l'esperienza diretta dell'Assoluto, che richiede l'apertura intuitiva del cuore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-2-9.json"
+  },
+  "expl-katha-1-3-1": {
+    "id": "expl-katha-1-3-1",
+    "target_type": "passage",
+    "target_id": "katha-1-3-1",
+    "title": "I due ospiti del cuore: luce e ombra",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Nel segreto del cuore risiedono due principi: l'anima individuale che fruisce dei frutti delle azioni e il Testimone supremo, definiti dai saggi come ombra e luce."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "In noi vi sono l'io empirico che si agita e soffre e il Sé trascendente che contempla immutabile: l'io non è che l'ombra riflessa della pura Luce divina."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-1.json"
+  },
+  "expl-katha-1-3-10": {
+    "id": "expl-katha-1-3-10",
+    "target_type": "passage",
+    "target_id": "katha-1-3-10",
+    "title": "La scala ontologica dell'essere: dai sensi al Grande Sé",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Superiori ai sensi sono gli oggetti sottili; superiore agli oggetti è la mente; superiore alla mente è l'Intelletto puro; superiore all'Intelletto è il Grande Sé (Mahat)."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La realtà è una gerarchia di gradi: andando oltre la superficie grossolana dei sensi fisici, scopriamo livelli di coscienza sempre più vasti, sottili e universali."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-10.json"
+  },
+  "expl-katha-1-3-11": {
+    "id": "expl-katha-1-3-11",
+    "target_type": "passage",
+    "target_id": "katha-1-3-11",
+    "title": "Il culmine supremo dell'Essere: il Puruṣa",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Superiore al Grande Sé è il Non-Manifesto (Avyakta); superiore al Non-Manifesto è il Puruṣa: oltre il Puruṣa non vi è nulla, Esso è il Termine ultimo e la Meta suprema."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Al culmine di ogni possibile dimensione si trova la pura Coscienza Assoluta: Essa non ha cause superiori ed è il fondamento immutabile di ogni cosa esistente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-11.json"
+  },
+  "expl-katha-1-3-12": {
+    "id": "expl-katha-1-3-12",
+    "target_type": "passage",
+    "target_id": "katha-1-3-12",
+    "title": "Il Sé nascosto e la visione dei veggenti del sottile",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questo Sé nascosto in tutti gli esseri non rifulge agli sguardi esteriori, ma è contemplato dai saggi mediante un Intelletto acuto, penetrante e purificato."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La cecità spirituale non dipende dall'assenza di Dio, ma dalla grossolanità dei nostri occhi interiori: affinando l'intelletto, la Sua presenza invisibile diviene manifesta."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-12.json"
+  },
+  "expl-katha-1-3-13": {
+    "id": "expl-katha-1-3-13",
+    "target_type": "passage",
+    "target_id": "katha-1-3-13",
+    "title": "La via del riassorbimento interiore (Laya)",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il saggio riassorbe la parola nella mente, la mente nell'Intelletto cosciente, l'Intelletto nel Grande Sé e questo nel Sé pacificato (Śānta-ātman)."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "È la formula essenziale della meditazione vedāntica: risalire a ritroso dai sensi esteriori verso la sorgente interiore, fino a riposare nel silenzio assoluto dell'Ātman."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-13.json"
+  },
+  "expl-katha-1-3-14": {
+    "id": "expl-katha-1-3-14",
+    "target_type": "passage",
+    "target_id": "katha-1-3-14",
+    "title": "Il risveglio e il sentiero sul filo del rasoio",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Sorgete! Svegliatevi! Accostandovi ai maestri supremi, realizzate la Verità! Arduo e affilato come la lama di un rasoio è questo cammino, proclamano i poeti sapienti»."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Appello universale a scuotersi dal sonno dell'illusione mondana: la via spirituale esige vigilanza implacabile, rigore morale e la guida di saggi qualificati."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-14.json"
+  },
+  "expl-katha-1-3-15": {
+    "id": "expl-katha-1-3-15",
+    "target_type": "passage",
+    "target_id": "katha-1-3-15",
+    "title": "L'Incondizionato al di là dei sensi e lo scampo dalla morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Privo di suono, tocco, forma, sapore, odore; immutabile, senza inizio né fine, eterno: realizzando Questo che oltrepassa il Grande Sé ci si libera dalle fauci della Morte."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Tutto ciò che possiede qualità sensoriali deperisce e finisce; riconoscersi identici all'Assoluto privo di attributi materiali significa varcare le porte dell'Immortalità."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-15.json"
+  },
+  "expl-katha-1-3-16": {
+    "id": "expl-katha-1-3-16",
+    "target_type": "passage",
+    "target_id": "katha-1-3-16",
+    "title": "La gloria di chi trasmette il racconto di Naciketas",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi enuncia o ascolta con intelligenza pura questo racconto eterno rivelato dalla Morte a Naciketas riceve gloria e onore nel Mondo del Brahman."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La trasmissione fedele della saggezza delle Upaniṣad non è mero studio accademico, ma una partecipazione attiva alla grazia liberatrice della Tradizione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-16.json"
+  },
+  "expl-katha-1-3-17": {
+    "id": "expl-katha-1-3-17",
+    "target_type": "passage",
+    "target_id": "katha-1-3-17",
+    "title": "Il supremo segreto che procura l'Infinito",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Far risuonare questo mistero supremo in un'assemblea di saggi o durante i riti commemorativi procura il compimento dell'Eternità assoluta."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La proclamazione della verità dell'Ātman santifica l'ambiente umano e consacra i legami ancestrali nella dimensione incondizionata dell'Assoluto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-17.json"
+  },
+  "expl-katha-1-3-2": {
+    "id": "expl-katha-1-3-2",
+    "target_type": "passage",
+    "target_id": "katha-1-3-2",
+    "title": "Il ponte sacrificale e la riva dell'Immortalità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Possano i ricercatori dominare sia il Fuoco che fa da ponte nei sacrifici temporali, sia il supremo Brahman che costituisce la riva scevra da timore."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il testo connette il rito cosmico alla sua meta ultima: dalle pratiche sacre provvisorie si deve approdare alla salda riva dell'Eterno."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-2.json"
+  },
+  "expl-katha-1-3-3": {
+    "id": "expl-katha-1-3-3",
+    "target_type": "passage",
+    "target_id": "katha-1-3-3",
+    "title": "La parabola del Carro: l'armonia delle facoltà",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'Ātman è il signore del carro; il corpo è il carro; l'Intelletto superiore (Buddhi) è l'auriga; la mente discorsiva (Manas) è la briglia."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Splendida immagine tradizionale dell'essere umano: il corpo è lo strumento, ma per non rovesciarsi occorre che la mente sia guidata dall'Intelletto spirituale per conto del Sé."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-3.json"
+  },
+  "expl-katha-1-3-4": {
+    "id": "expl-katha-1-3-4",
+    "target_type": "passage",
+    "target_id": "katha-1-3-4",
+    "title": "I cavalli dei sensi e il fruitore dell'esperienza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "I sensi sono i cavalli da corsa e gli oggetti del mondo sono le vie percorse; unito al corpo, ai sensi e alla mente, il Sé viene chiamato sperimentatore (Bhoktā)."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "I sensi tendono per loro natura a correre verso gli stimoli esterni; l'anima si identifica erroneamente con l'esperienza finché crede di essere il corpo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-4.json"
+  },
+  "expl-katha-1-3-5": {
+    "id": "expl-katha-1-3-5",
+    "target_type": "passage",
+    "target_id": "katha-1-3-5",
+    "title": "L'auriga distratto e i sensi ingovernabili",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi è privo di discernimento e ha una mente indisciplinata vede i propri sensi ribelli, simili a corsieri imbizzarriti che trascinano l'auriga nel baratro."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Quando manca la visione spirituale e la mente è debole, le passioni sensoriali prendono il sopravvento, distruggendo la dignità e la pace dell'uomo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-5.json"
+  },
+  "expl-katha-1-3-6": {
+    "id": "expl-katha-1-3-6",
+    "target_type": "passage",
+    "target_id": "katha-1-3-6",
+    "title": "L'auriga sapiente e i corsieri sottomessi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Colui che possiede discernimento intellettivo e tiene la mente unificata vede i sensi obbedienti, simili a cavalli nobili e docili al volere dell'auriga."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il controllo dei sensi non è una repressione violenta, ma il risultato spontaneo di un Intelletto illuminato che sa governare le energie vitali verso il Bene."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-6.json"
+  },
+  "expl-katha-1-3-7": {
+    "id": "expl-katha-1-3-7",
+    "target_type": "passage",
+    "target_id": "katha-1-3-7",
+    "title": "L'impurità mentale e la caduta nella trasmigrazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'uomo privo di discriminazione, incosciente e costantemente impuro non raggiunge la Meta suprema, ma resta prigioniero del ciclo del Saṃsāra."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Chi vive meccanicamente schiavo delle abitudini e dei desideri carnali rimane invischiato nella ruota delle rinascite, incapace di liberarsi."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-7.json"
+  },
+  "expl-katha-1-3-8": {
+    "id": "expl-katha-1-3-8",
+    "target_type": "passage",
+    "target_id": "katha-1-3-8",
+    "title": "La purezza interiore e l'approdo all'Eterno",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi è dotato di discriminazione intellettiva, padrone della propria mente e perennemente puro perviene a quello Stato dal quale non si rinasce mai più."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La purezza del cuore e il controllo interiore spezzano la catena della necessità karmica, stabilendo l'anima nella libertà definitiva della Liberazione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-8.json"
+  },
+  "expl-katha-1-3-9": {
+    "id": "expl-katha-1-3-9",
+    "target_type": "passage",
+    "target_id": "katha-1-3-9",
+    "title": "Il termine del viaggio: la suprema dimora di Viṣṇu",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'uomo che ha l'Intelletto come auriga e tiene le redini della mente giunge al termine del cammino: lo Stato supremo del Principio Onnipervadente (Viṣṇu)."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il viaggio dell'esistenza si compie felicemente solo quando l'essere umano si lascia guidare dalla saggezza interiore fino a fondersi con l'Infinito."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-1-3-9.json"
+  },
+  "expl-katha-2-1-1": {
+    "id": "expl-katha-2-1-1",
+    "target_type": "passage",
+    "target_id": "katha-2-1-1",
+    "title": "L'estroversione dei sensi e lo sguardo interiore rivolto al Sé",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'Autoesistente ha forato i sensi verso l'esterno, sicché l'uomo guarda fuori e non in se stesso; solo il saggio volge lo sguardo indietro cercando l'Immortalità."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La nostra struttura biologica ci spinge a inseguire il mondo esteriore; per trovare la verità occorre una rivoluzione interiore, invertendo lo sguardo verso la Coscienza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-1.json"
+  },
+  "expl-katha-2-1-10": {
+    "id": "expl-katha-2-1-10",
+    "target_type": "passage",
+    "target_id": "katha-2-1-10",
+    "title": "L'identità tra il qui e il là e la condanna della separazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Ciò che è quaggiù nel mondo sensibile è identico a ciò che è lassù nell'Assoluto; chi scorge qui apparenza di separazione corre di morte in morte."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Non esistono due realtà divise: la materia e lo spirito sono un'unica sostanza. Chi insiste nel vedere dualità e frammentazione resta prigioniero della morte."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-10.json"
+  },
+  "expl-katha-2-1-11": {
+    "id": "expl-katha-2-1-11",
+    "target_type": "passage",
+    "target_id": "katha-2-1-11",
+    "title": "«Non vi è qui alcuna molteplicità!»",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Solo mediante l'Intelletto purificato si realizza questa Verità: «Non vi è qui alcuna molteplicità!». Va di morte in morte chi vede anche una minima divisione."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "È il cuore dell'Advaita: la pluralità degli oggetti e delle anime separate è un'illusione dei sensi; nella Realtà ultima risplende solo l'Uno senza secondo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-11.json"
+  },
+  "expl-katha-2-1-12": {
+    "id": "expl-katha-2-1-12",
+    "target_type": "passage",
+    "target_id": "katha-2-1-12",
+    "title": "Il Puruṣa della dimensione di un pollice nel cuore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Puruṣa della grandezza di un pollice risiede al centro dell'essere: conoscendoLo quale Signore del tempo, l'uomo cessa di isolarsi dal Tutto. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La misura del «pollice» indica simbolicamente la presenza della Coscienza nello spazio eterico del cuore: è il centro divino che abolisce ogni paura."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-12.json"
+  },
+  "expl-katha-2-1-13": {
+    "id": "expl-katha-2-1-13",
+    "target_type": "passage",
+    "target_id": "katha-2-1-13",
+    "title": "La fiamma pura priva di fumo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quel Puruṣa è come una fiamma purissima e priva di fumo, Signore immutabile del presente e del futuro: Egli è ciò che è oggi ed Egli sarà domani. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La luce della Coscienza interiore non emette le scorie o il fumo delle passioni umane: essa rifulge identica a se stessa, immune dal passare del tempo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-13.json"
+  },
+  "expl-katha-2-1-14": {
+    "id": "expl-katha-2-1-14",
+    "target_type": "passage",
+    "target_id": "katha-2-1-14",
+    "title": "L'acqua dispersa sui monti: la rovina della frammentazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come la pioggia caduta su un picco scosceso si disperde scorrendo giù per i dirupi, chi vede i fenomeni come realtà separate si disperde dietro la loro illusione."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Credere nella realtà autonoma della molteplicità frammenta l'energia dell'uomo: chi insegue le forme esteriori disperde la propria vita nel vuoto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-14.json"
+  },
+  "expl-katha-2-1-15": {
+    "id": "expl-katha-2-1-15",
+    "target_type": "passage",
+    "target_id": "katha-2-1-15",
+    "title": "L'acqua pura in acqua pura: la reintegrazione del saggio",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come l'acqua pura versata in acqua pura rimane assolutamente omogenea e identica, tale diviene l'Ātman del saggio che ha conosciuto la Verità."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La liberazione non è la distruzione dell'individuo né un'unione artificiale: è la scoperta che la nostra vera natura è da sempre identica all'Oceano infinito di Brahman."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-15.json"
+  },
+  "expl-katha-2-1-2": {
+    "id": "expl-katha-2-1-2",
+    "target_type": "passage",
+    "target_id": "katha-2-1-2",
+    "title": "La rete tesa della Morte e l'immutabile Verità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Gli stolti inseguono i desideri fugaci cadendo nei lacci della Morte; i saggi, conoscendo la vera Immortalità, non cercano l'Eterno fra le cose caduche."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Chi corre dietro ai piaceri effimeri prepara da sé la propria fine; chi comprende la natura imperitura del Sé non si aggrappa alle parvenze del mondo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-2.json"
+  },
+  "expl-katha-2-1-3": {
+    "id": "expl-katha-2-1-3",
+    "target_type": "passage",
+    "target_id": "katha-2-1-3",
+    "title": "Il Soggetto ultimo di ogni percezione: «Questo è Quello!»",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Colui per mezzo del quale si percepiscono forme, sapori, profumi, suoni e piaceri: per virtù di Questo solo si conosce ogni cosa. Questo in verità è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Non sono gli occhi o le orecchie a percepire, ma la Coscienza che testimonia attraverso di essi: quel Testimone intimo è l'Assoluto stesso che cerchiamo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-3.json"
+  },
+  "expl-katha-2-1-4": {
+    "id": "expl-katha-2-1-4",
+    "target_type": "passage",
+    "target_id": "katha-2-1-4",
+    "title": "Il Testimone sovrano della veglia e del sogno",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Colui mediante il quale si contemplano sia le visioni del sonno sia le esperienze della veglia: realizzando questo Sé onnipervadente, il saggio non soffre più."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Gli stati di veglia e di sogno cambiano continuamente, ma la Coscienza che li illumina entrambi non muta mai: radicarsi in Essa cancella ogni dolore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-4.json"
+  },
+  "expl-katha-2-1-5": {
+    "id": "expl-katha-2-1-5",
+    "target_type": "passage",
+    "target_id": "katha-2-1-5",
+    "title": "L'anima fruitrice e il Signore del tempo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi riconosce da vicino questo Sé vivente, fruitore delle esperienze, come Sovrano eterno del passato e del futuro, non ha più timore di nulla. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Quando l'individuo scopre che il proprio centro interiore è il Signore del tempo universale, perde ogni ansia di autodifesa e trova la pace assoluta."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-5.json"
+  },
+  "expl-katha-2-1-6": {
+    "id": "expl-katha-2-1-6",
+    "target_type": "passage",
+    "target_id": "katha-2-1-6",
+    "title": "Il Primogenito della meditazione divina nel cuore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Colui che nacque all'origine dall'ardore cosmico (Tapas), anteriore alle acque primordiali, e che risiede nella cavità del cuore con gli elementi. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'Intelletto cosmico primordiale che regge l'intera manifestazione non è separato da noi: è stabilito nel sacrario del nostro stesso cuore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-6.json"
+  },
+  "expl-katha-2-1-7": {
+    "id": "expl-katha-2-1-7",
+    "target_type": "passage",
+    "target_id": "katha-2-1-7",
+    "title": "Aditi: la potenza cosmica che racchiude gli dèi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Colei che si manifesta con l'energia vitale (Prāṇa), Aditi che accoglie in sé tutte le forze divine e risiede nella cavità interiore. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Tutte le potenze dell'universo e l'energia primordiale della vita convergono e trovano il loro fondamento nel Sé immanente ad ogni creatura."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-7.json"
+  },
+  "expl-katha-2-1-8": {
+    "id": "expl-katha-2-1-8",
+    "target_type": "passage",
+    "target_id": "katha-2-1-8",
+    "title": "Agni protetto nel segreto del legno sacro",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come il feto ben custodito dalla madre, il Fuoco onnisciente è riposto nei legni dell'altare, adorato ogni giorno dai devoti vigilanti. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La scintilla della Coscienza divina è custodita nell'intimo della nostra carne: la concentrazione e la vigilanza spirituale la fanno divampare in luce liberatrice."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-8.json"
+  },
+  "expl-katha-2-1-9": {
+    "id": "expl-katha-2-1-9",
+    "target_type": "passage",
+    "target_id": "katha-2-1-9",
+    "title": "Il perno insuperabile del sorgere e del tramontare",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quel Principio dal quale sorge il Sole e nel quale tramontando rifluisce: in Esso riposano tutti gli dèi e nessuno può oltrepassarLo. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Ogni ordine cosmico, la luce del cielo e il moto dei pianeti dipendono interamente dall'Assoluto: nessuna potenza creata può uscire dal Suo governo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-1-9.json"
+  },
+  "expl-katha-2-2-1": {
+    "id": "expl-katha-2-2-1",
+    "target_type": "passage",
+    "target_id": "katha-2-2-1",
+    "title": "La città dalle undici porte e la Liberazione in vita",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Vi è una città dalle undici porte appartenente al Non-Nato dalla Coscienza retta: contemplandoLo non si soffre più ed, essendo già liberi in vita, ci si libera per sempre."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il corpo fisico con le sue aperture sensoriali è solo una fortezza temporanea dell'Ātman: chi comprende di essere il Sovrano incorporeo è libero già qui, prima della morte."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-1.json"
+  },
+  "expl-katha-2-2-10": {
+    "id": "expl-katha-2-2-10",
+    "target_type": "passage",
+    "target_id": "katha-2-2-10",
+    "title": "L'analogia dell'Aria: immanenza e trascendenza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come l'unica aria penetrata nel cosmo assume la forma di ogni vaso in cui entra, l'unico Sé interiore assume le forme di tutte le creature e permane trascendente."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'aria riempie recipienti di ogni foggia senza spezzarsi o mutare natura; così l'Ātman permea la molteplicità degli esseri senza perdere la sua sovrana unità."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-10.json"
+  },
+  "expl-katha-2-2-11": {
+    "id": "expl-katha-2-2-11",
+    "target_type": "passage",
+    "target_id": "katha-2-2-11",
+    "title": "L'analogia del Sole e l'incontaminazione dal dolore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come il Sole, occhio del mondo, illumina le impurità senza esserne macchiato, così l'unico Sé di tutti gli esseri non è toccato dalla sofferenza cosmica, essendole trascendente."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La luce solare illumina sia l'oro sia il fango senza sporcarsi; allo stesso modo la pura Coscienza illumina il dolore umano rimanendo infinitamente pura e beata."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-11.json"
+  },
+  "expl-katha-2-2-12": {
+    "id": "expl-katha-2-2-12",
+    "target_type": "passage",
+    "target_id": "katha-2-2-12",
+    "title": "La Beatitudine eterna riservata a chi vede il Sé",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'Unico Sovrano interiore che fa rifrangere la propria essenza in molteplici aspetti: ai saggi che Lo contemplano presente nel proprio essere appartiene la Gioia eterna, a nessun altro!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La pace perenne non si trova cercando l'appagamento all'esterno, ma scoprendo l'Unico Signore che abita dentro di noi: solo a costoro è donata la vera felicità."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-12.json"
+  },
+  "expl-katha-2-2-13": {
+    "id": "expl-katha-2-2-13",
+    "target_type": "passage",
+    "target_id": "katha-2-2-13",
+    "title": "L'Eterno fra le cose periture e la Pace sempiterna",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "L'Eterno tra le cose transitorie, la pura Coscienza tra gli esseri coscienti, l'Uno che esaudisce i desideri di molti: a chi Lo scorge nel proprio Sé spetta la Pace eterna, a nessun altro!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Dietro il fluire inarrestabile delle forme c'è un testimone immobile che dà senso ad ogni coscienza: contemplare questo centro interiore spegne ogni angoscia del divenire."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-13.json"
+  },
+  "expl-katha-2-2-14": {
+    "id": "expl-katha-2-2-14",
+    "target_type": "passage",
+    "target_id": "katha-2-2-14",
+    "title": "L'enigma della Beatitudine ineffabile",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "«Questo è Quello!», così i saggi indicano la Beatitudine suprema e inesprimibile: come potrò io conoscerLa? Risplende di luce propria o riflette altra luce?"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Naciketas esprime la meraviglia dell'aspirante dinanzi all'Assoluto: la gioia spirituale è così sublime da non poter essere descritta, ma solo vissuta direttamente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-14.json"
+  },
+  "expl-katha-2-2-15": {
+    "id": "expl-katha-2-2-15",
+    "target_type": "passage",
+    "target_id": "katha-2-2-15",
+    "title": "La Suprema Luce che illumina ogni cosmo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Là non splende il Sole, né la Luna, né le stelle, né i lampi, e tanto meno il fuoco: quando Egli risplende, tutto risplende al Suo seguito; per mezzo della Sua luce tutto si illumina."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La Coscienza divina non ha bisogno della luce fisica: al contrario, è la luce interiore dell'Ātman che rende possibile al Sole di splendere e alla mente di percepire il mondo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-15.json"
+  },
+  "expl-katha-2-2-2": {
+    "id": "expl-katha-2-2-2",
+    "target_type": "passage",
+    "target_id": "katha-2-2-2",
+    "title": "L'inno all'Haṃsa: il Cigno solare immanente",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Egli è il Cigno nel cielo, il soffio nello spazio, il sacerdote all'altare, l'ospite nella casa; risiede negli uomini, negli dèi, nell'etere e nelle acque: Egli è l'Eterna Verità!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Non vi è luogo o elemento in cui il Principio Supremo non sia presente: l'intero universo con i suoi riti e le sue forme è intessuto della sola maestà dell'Assoluto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-2.json"
+  },
+  "expl-katha-2-2-3": {
+    "id": "expl-katha-2-2-3",
+    "target_type": "passage",
+    "target_id": "katha-2-2-3",
+    "title": "Il Signore al centro e il moto dei soffi vitali",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Egli solleva verso l'alto il soffio del Prāṇa e spinge in basso l'Apāna: tutte le facoltà cognitive venerano quel Piccolo Essere assiso nel cuore."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "I ritmi della respirazione e della vita corporea non funzionano da soli: essi poggiano interamente sulla presenza silenziosa del Sé che regna al centro del nostro essere."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-3.json"
+  },
+  "expl-katha-2-2-4": {
+    "id": "expl-katha-2-2-4",
+    "target_type": "passage",
+    "target_id": "katha-2-2-4",
+    "title": "La disgregazione del corpo e ciò che permane",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quando l'anima incarnata si distacca e il corpo fisico cade in dissoluzione: che cosa rimane qui di Essa? Questo in verità è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Quando la casa crolla, lo spazio che vi era dentro non subisce alcun danno: al perire della carne, la pura Coscienza immortale rimane intatta ed eterna."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-4.json"
+  },
+  "expl-katha-2-2-5": {
+    "id": "expl-katha-2-2-5",
+    "target_type": "passage",
+    "target_id": "katha-2-2-5",
+    "title": "Il vero fondamento della vita oltre i soffi fisici",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Nessun mortale vive realmente in virtù del respiro ascendente o discendente, bensì tutti vivono per un Altro principio sul quale i respiri stessi poggiano."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'ossigeno e l'aria mantengono l'organismo animale, ma la causa originaria della vita è la Coscienza metafisica: senza di Essa il corpo ritorna polvere inanimata."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-5.json"
+  },
+  "expl-katha-2-2-6": {
+    "id": "expl-katha-2-2-6",
+    "target_type": "passage",
+    "target_id": "katha-2-2-6",
+    "title": "L'annuncio della dottrina eterna sulla morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Yama si appresta a proclamare a Naciketas il segreto del Brahman primordiale e la sorte dell'essere umano dopo il passaggio della morte fisica."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il maestro divino riapre la rivelazione centrale: spiegare dove va la coscienza individuale quando abbandona la veste della materia."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-6.json"
+  },
+  "expl-katha-2-2-7": {
+    "id": "expl-katha-2-2-7",
+    "target_type": "passage",
+    "target_id": "katha-2-2-7",
+    "title": "La trasmigrazione in grembi o forme immobili",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Alcune anime entrano in un grembo materno per assumere nuovi corpi, altre cadono negli elementi vegetali o minerali, secondo le azioni e la conoscenza assimilata."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Nessun destino è casuale: chi non ha conosciuto il Sé rinasce in forme corporee determinate dal proprio grado interiore e dai desideri accumulati nella vita."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-7.json"
+  },
+  "expl-katha-2-2-8": {
+    "id": "expl-katha-2-2-8",
+    "target_type": "passage",
+    "target_id": "katha-2-2-8",
+    "title": "La Coscienza che veglia nel sonno profondo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quel Puruṣa che rimane desto in coloro che dormono, forgiando liberamente le forme del desiderio: Quello è il Brahman puro, l'Immortalità. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Anche quando i sensi e la mente tacciono nel sonno, la pura Luce del Testimone continua a splendere indisturbata: Essa è il Dio immortale in noi."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-8.json"
+  },
+  "expl-katha-2-2-9": {
+    "id": "expl-katha-2-2-9",
+    "target_type": "passage",
+    "target_id": "katha-2-2-9",
+    "title": "L'analogia del Fuoco: l'Uno che assume ogni forma",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come l'unico fuoco penetrato nel mondo assume la forma esteriore di ogni sostanza che arde, l'unico Sé assume la forma di ogni ente e permane al di là."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il fuoco è uno, ma le fiamme appaiono diverse a seconda del combustibile; parimenti l'unica Coscienza anima tutti i corpi, rimanendo pura e intatta al di sopra di essi."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-2-9.json"
+  },
+  "expl-katha-2-3-1": {
+    "id": "expl-katha-2-3-1",
+    "target_type": "passage",
+    "target_id": "katha-2-3-1",
+    "title": "L'Aśvattha eterno: l'albero cosmico capovolto",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Con le radici in alto e i rami in basso, vi è questo eterno fico Aśvattha: la sua radice è il Brahman immortale in cui poggiano tutti i mondi. Questo è Quello!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'universo intero è come un albero capovolto: la sua origine e linfa vitale discendono dal cielo, dall'Assoluto immutabile, mentre i rami si ramificano nella materia visibile."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-1.json"
+  },
+  "expl-katha-2-3-10": {
+    "id": "expl-katha-2-3-10",
+    "target_type": "passage",
+    "target_id": "katha-2-3-10",
+    "title": "Lo stato supremo dell'immobilità contemplativa",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quando i cinque organi percettivi si arrestano insieme alla mente discorsiva e l'Intelletto stesso cessa ogni agitazione: questo stato proclamano il Cammino Supremo."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "È il culmine della meditazione: quando i sensi si acquietano, i pensieri si fermano e persino la ragione tace, si entra nel silenzio luminoso del Sé."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-10.json"
+  },
+  "expl-katha-2-3-11": {
+    "id": "expl-katha-2-3-11",
+    "target_type": "passage",
+    "target_id": "katha-2-3-11",
+    "title": "La definizione dello Yoga autentico e la vigilanza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Questa ferma padronanza sui sensi è ritenuta il vero Yoga; allora l'uomo diviene perfettamente vigilante, giacché lo Yoga è principio di acquisizione e distacco."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il vero Yoga non è una tecnica fisica o rilassamento mentale, ma una padronanza incrollabile sulle facoltà interiori unita a una lucidità spirituale permanente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-11.json"
+  },
+  "expl-katha-2-3-12": {
+    "id": "expl-katha-2-3-12",
+    "target_type": "passage",
+    "target_id": "katha-2-3-12",
+    "title": "L'inaccessibilità alla parola e l'affermazione: «Egli È!»",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Non con la parola, non con la mente, non con gli occhi Egli può essere raggiunto: come potrebbe mai essere colto se non da chi afferma: «Egli È!»?"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'Assoluto non si dimostra come un teorema scientifico; per incontrarLo occorre prima l'atto metafisico di apertura totale alla Sua indubitabile Presenza fondamentale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-12.json"
+  },
+  "expl-katha-2-3-13": {
+    "id": "expl-katha-2-3-13",
+    "target_type": "passage",
+    "target_id": "katha-2-3-13",
+    "title": "Dal riconoscimento dell'Essere alla Verità non-duale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Egli va appreso innanzitutto come «Egli È», e poi nella Sua intima essenza incondizionata: a colui che Lo ha riconosciuto come Essere, la Sua Realtà si svela pienamente."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Prima si accoglie l'Assoluto come pura Esistenza che regge ogni cosa; poi, superato ogni concetto umano, si risveglia la verità ineffabile del Sé oltre l'essere e il non-essere."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-13.json"
+  },
+  "expl-katha-2-3-14": {
+    "id": "expl-katha-2-3-14",
+    "target_type": "passage",
+    "target_id": "katha-2-3-14",
+    "title": "La caduta dei desideri e l'Immortalità conseguita qui",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quando tutti i desideri aggrappati al cuore vengono sradicati, allora il mortale diviene immortale: qui stesso, in questo mondo, egli consegue il Brahman!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La morte non è un requisito per liberarsi: quando l'animo si svuota dalle brame egoiche, l'Immortalità si dischiude immediatamente, trasformando la vita terrena in luce divina."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-14.json"
+  },
+  "expl-katha-2-3-15": {
+    "id": "expl-katha-2-3-15",
+    "target_type": "passage",
+    "target_id": "katha-2-3-15",
+    "title": "Lo scioglimento dei nodi del cuore: l'essenza dell'insegnamento",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quando tutti i nodi dell'ignoranza che vincolano il cuore vengono infranti quaggiù, allora il mortale diviene immortale: in questo consiste l'intera sacra dottrina!"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Tutti i Veda e le Upaniṣad si riassumono in questo solo traguardo: spezzare i legami dell'egoismo e della paura nel cuore per ritrovare la nostra eterna identità con l'Assoluto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-15.json"
+  },
+  "expl-katha-2-3-16": {
+    "id": "expl-katha-2-3-16",
+    "target_type": "passage",
+    "target_id": "katha-2-3-16",
+    "title": "Il canale coronale (Suṣumṇā) e la via della Liberazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Cento e uno sono i canali sottili del cuore: uno solo si dirige verso la sommità del capo; risalendo lungo di esso si ottiene l'Immortalità, mentre gli altri disperdono nei mondi."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Descrive l'anatomia spirituale della liberazione: l'energia della coscienza raccolta nel cuore risale attraverso la via coronale verso l'infinito, senza più ricadere nella materia."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-16.json"
+  },
+  "expl-katha-2-3-17": {
+    "id": "expl-katha-2-3-17",
+    "target_type": "passage",
+    "target_id": "katha-2-3-17",
+    "title": "L'estrazione del Sé dal corpo come il filo dal giunco",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Puruṣa risiede nel cuore di tutti: con incrollabile fermezza lo si deve estrarre dal proprio corpo come lo stelo viene estratto dalla canna di giunco. Si riconosca costui come la Pura Luce, l'Incorruttibile!»"
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Come si separa delicatamente lo stelo centrale dalla scorza esterna che lo avvolge, così mediante la discriminazione intuitiva dobbiamo discernere la nostra autentica Coscienza spirituale dai veicoli corporei mortali."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-17.json"
+  },
+  "expl-katha-2-3-18": {
+    "id": "expl-katha-2-3-18",
+    "target_type": "passage",
+    "target_id": "katha-2-3-18",
+    "title": "La realizzazione di Naciketas e l'universalità della Liberazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Naciketas, ricevuta l'intera Conoscenza e il metodo dello Yoga dalla Morte, pervenne al Brahman libero da ogni impurità e dalla morte; e lo stesso avverrà per chiunque altro realizzi la natura del Sé."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Naciketas non è una figura leggendaria irraggiungibile, ma il modello universale dell'aspirante autentico: chiunque persegua la Verità con il medesimo distacco consegue la Liberazione immortale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-18.json"
+  },
+  "expl-katha-2-3-19": {
+    "id": "expl-katha-2-3-19",
+    "target_type": "passage",
+    "target_id": "katha-2-3-19",
+    "title": "Invocazione finale di pace e consacrazione dell'Insegnamento",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Ripresa del mantra sacro di pace (Śānti-mantra) a suggello dell'opera, invocando protezione spirituale, vigore nella sapienza e assenza di ogni discordia."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La trasmissione della dottrina suprema si compie nella pace assoluta: la Conoscenza tradizionale non alimenta la contesa dell'ego, ma stabilisce l'essere nella perfetta comunione con l'Ordine universale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-19.json"
+  },
+  "expl-katha-2-3-2": {
+    "id": "expl-katha-2-3-2",
+    "target_type": "passage",
+    "target_id": "katha-2-3-2",
+    "title": "Il Prāṇa primordiale e il fulmine levato",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Tutto l'universo vibra ed emana dal Prāṇa primordiale: Esso è un maestoso terrore, un fulmine levato in alto. Coloro che realizzano Questo divengono immortali."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'ordine cosmico non è un meccanismo inerte, ma l'irradiazione di un Potere sovrano impeccabile: comprendere questa Legge divina dissolve la morte."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-2.json"
+  },
+  "expl-katha-2-3-3": {
+    "id": "expl-katha-2-3-3",
+    "target_type": "passage",
+    "target_id": "katha-2-3-3",
+    "title": "Le forze della natura sottomesse all'Assoluto",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Per timore riverente di Questo arde il Fuoco, splende il Sole, operano gli dèi celesti e, quinta, la Morte compie la sua corsa inesorabile."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Le leggi immutabili della fisica e del cosmo testimoniano la sovranità assoluta del Principio: persino la Morte è solo una servitrice della Legge divina."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-3.json"
+  },
+  "expl-katha-2-3-4": {
+    "id": "expl-katha-2-3-4",
+    "target_type": "passage",
+    "target_id": "katha-2-3-4",
+    "title": "L'urgenza della comprensione prima della morte fisica",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Se l'uomo è capace di comprendere Questo quaggiù prima che il corpo cada, è liberato; se non ne è capace, è destinato a rivestire nuovi corpi nel mondo manifesto."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "L'opportunità dell'esistenza umana è preziosissima e irripetibile: è in questa vita che dobbiamo risvegliarci alla Verità, prima che il corpo materiale si dissolva."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-4.json"
+  },
+  "expl-katha-2-3-5": {
+    "id": "expl-katha-2-3-5",
+    "target_type": "passage",
+    "target_id": "katha-2-3-5",
+    "title": "I gradi di limpidezza nella visione del Sé nei mondi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come in uno specchio, così il Sé si contempla nell'intelletto umano; come in sogno nel mondo dei padri; come riflesso incerto nell'acqua tra i celesti; nitido come luce e ombra nel Mondo di Brahman."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "La mente purificata dell'uomo terreno è il riflettore più limpido per realizzare la Verità: non serve attendere altri mondi per scoprire il Sé supremo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-5.json"
+  },
+  "expl-katha-2-3-6": {
+    "id": "expl-katha-2-3-6",
+    "target_type": "passage",
+    "target_id": "katha-2-3-6",
+    "title": "Il sorgere e tramontare dei sensi distinti dall'Ātman",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Comprendendo che i sensi sorgono e tramontano separatamente come prodotti degli elementi, il saggio non si affligge più per le loro vicende."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Gli occhi, gli orecchi e le sensazioni nascono e muoiono con gli organi corporei; sapendo di essere la pura Coscienza che li testimonia, il saggio è libero da ogni ansia."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-6.json"
+  },
+  "expl-katha-2-3-7": {
+    "id": "expl-katha-2-3-7",
+    "target_type": "passage",
+    "target_id": "katha-2-3-7",
+    "title": "La riaffermazione dei gradi della coscienza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Superiore ai sensi è la mente; superiore alla mente è l'Intelletto luminoso (Sattva); superiore all'Intelletto è il Grande Sé; superiore al Grande Sé è il Non-Manifesto."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Viene ribadita la scala della concentrazione interiore: ogni grado spirituale si fonda su un principio più vasto, profondo e trasparente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-7.json"
+  },
+  "expl-katha-2-3-8": {
+    "id": "expl-katha-2-3-8",
+    "target_type": "passage",
+    "target_id": "katha-2-3-8",
+    "title": "Il Puruṣa privo di segni empirici e l'Immortalità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Superiore al Non-Manifesto è il Puruṣa onnipervadente e privo di ogni contrassegno esteriore (Aliṅga): conoscendoLo, la creatura è liberata e consegue l'Immortalità."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Il Sé supremo non ha etichette, colori o forme con cui possa essere imbrigliato dal pensiero: conoscerLo per identità diretta significa diventare immortali."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-8.json"
+  },
+  "expl-katha-2-3-9": {
+    "id": "expl-katha-2-3-9",
+    "target_type": "passage",
+    "target_id": "katha-2-3-9",
+    "title": "La vista corporea inane e l'intuizione del cuore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "La Sua forma non cade sotto gli occhi carnali: è con l'intuizione del cuore, l'Intelletto sovrano e la mente raccolta che Egli viene realizzato."
+      },
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Nessun occhio fisico può vedere Dio, perché Egli è Colui che fa vedere l'occhio; l'incontro con l'Assoluto avviene nel sacrario interiore della pura intelligenza spirituale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-katha-2-3-9.json"
+  },
   "expl-kena-1-1": {
     "id": "expl-kena-1-1",
     "target_type": "passage",

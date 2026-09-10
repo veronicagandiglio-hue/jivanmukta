@@ -1,0 +1,24 @@
+{
+  "id": "q-che-cose-l-atman",
+  "type": "great",
+  "text": "Qual è la vera natura del Sé (Ātman)?",
+  "problem": "Definire se l'essenza dell'uomo sia un aggregato psicosomatico transitorio o una pura Coscienza immortale e increata.",
+  "parent_question": null,
+  "concepts": [
+    "atman",
+    "purusha",
+    "brahman"
+  ],
+  "passages": [
+    "katha-1-2-18",
+    "katha-1-2-20",
+    "katha-2-1-1",
+    "katha-2-2-11"
+  ],
+  "commentaries": [
+    "comm-shankara-katha-2-1-11"
+  ],
+  "related_questions": [
+    "q-cosa-accade-dopo-la-morte"
+  ]
+}

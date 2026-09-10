@@ -14,6 +14,27 @@
     ],
     "source_file": "works/isha-upanishad.json"
   },
+  "katha-upanishad": {
+    "id": "katha-upanishad",
+    "title": "Kaṭhopaniṣad",
+    "short_title": "Katha",
+    "language": "sa",
+    "attribution": "Kṛṣṇa Yajurveda (Scuola Kāṭhaka)",
+    "editorial_note": [
+      "Testo sacro appartenente alla Śruti vedica, recensione del Kṛṣṇa Yajurveda.",
+      "Costituisce una delle dieci Upaniṣad maggiori (Mukhya) edificate sul commentario fondamentale di Śaṅkarācārya.",
+      "Espone il celebre dialogo d'iniziazione metafisica tra il giovane Naciketas e Yama, il Dispensatore divino della Morte."
+    ],
+    "editorial_units": [
+      "katha-1-1",
+      "katha-1-2",
+      "katha-1-3",
+      "katha-2-1",
+      "katha-2-2",
+      "katha-2-3"
+    ],
+    "source_file": "works/katha-upanishad.json"
+  },
   "kena-upanishad": {
     "id": "kena-upanishad",
     "title": "Kenopaniṣad",

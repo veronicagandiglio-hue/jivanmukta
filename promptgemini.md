@@ -208,9 +208,9 @@ Per ogni blocco che ti fornirò restituisci, in questo ordine:
 NON produrre ancora l'analisi completa dei concetti e delle domande. NON
 produrre ancora alcun formato JSON: quello arriva solo nella seconda fase.
 
-Aspetta che io dichiari:
+Quando hai completato la traduzione dichiara:
 
-"OPERA COMPLETATA — AVVIA LA SECONDA FASE"
+"OPERA COMPLETATA — AVVIAMO LA SECONDA FASE"
 
 Solo allora analizzerai l'intera opera.
 ```

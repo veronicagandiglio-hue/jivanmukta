@@ -1,4 +1,24 @@
 {
+  "q-azione-rituale-versus-conoscenza": {
+    "id": "q-azione-rituale-versus-conoscenza",
+    "type": "specific",
+    "text": "Qual è il rapporto tra azione sacrificale rituale e Conoscenza liberatrice?",
+    "problem": "Comprendere l'insufficienza dei sacrifici a concedere l'Immortalità eterna rispetto alla pura visione metafisica.",
+    "parent_question": "q-qual-e-la-natura-della-liberazione",
+    "concepts": [
+      "sreyas-e-preyas",
+      "vidya-e-avidya",
+      "moksha-amritatva"
+    ],
+    "passages": [
+      "katha-1-1-13",
+      "katha-1-2-10",
+      "katha-1-3-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-azione-rituale-versus-conoscenza.json"
+  },
   "q-azione-senza-vincolo": {
     "id": "q-azione-senza-vincolo",
     "type": "specific",
@@ -163,6 +183,80 @@
     ],
     "source_file": "questions/q-che-cose-il-se.json"
   },
+  "q-che-cose-l-atman": {
+    "id": "q-che-cose-l-atman",
+    "type": "great",
+    "text": "Qual è la vera natura del Sé (Ātman)?",
+    "problem": "Definire se l'essenza dell'uomo sia un aggregato psicosomatico transitorio o una pura Coscienza immortale e increata.",
+    "parent_question": null,
+    "concepts": [
+      "atman",
+      "purusha",
+      "brahman"
+    ],
+    "passages": [
+      "katha-1-2-18",
+      "katha-1-2-20",
+      "katha-2-1-1",
+      "katha-2-2-11"
+    ],
+    "commentaries": [
+      "comm-shankara-katha-2-1-11"
+    ],
+    "related_questions": [
+      "q-cosa-accade-dopo-la-morte"
+    ],
+    "source_file": "questions/q-che-cose-l-atman.json"
+  },
+  "q-come-si-conosce-il-brahman": {
+    "id": "q-come-si-conosce-il-brahman",
+    "type": "great",
+    "text": "Con quali mezzi la Realtà Suprema può essere conosciuta?",
+    "problem": "Superare l'inadeguatezza dell'intelletto dialettico e dei sensi empirici attraverso l'intuizione metafisica diretta.",
+    "parent_question": null,
+    "concepts": [
+      "buddhi-intelletto",
+      "adhyatma-yoga",
+      "brahman"
+    ],
+    "passages": [
+      "katha-1-2-8",
+      "katha-1-2-9",
+      "katha-2-3-9",
+      "katha-2-3-12",
+      "katha-2-3-13"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-che-cose-l-atman"
+    ],
+    "source_file": "questions/q-come-si-conosce-il-brahman.json"
+  },
+  "q-cosa-accade-dopo-la-morte": {
+    "id": "q-cosa-accade-dopo-la-morte",
+    "type": "great",
+    "text": "Qual è il destino dell'essere umano dopo il dissolvimento corporeo?",
+    "problem": "Risolvere il supremo dubbio se dopo la morte rimanga un principio immortale o si cada nel nulla.",
+    "parent_question": null,
+    "concepts": [
+      "atman",
+      "moksha-amritatva"
+    ],
+    "passages": [
+      "katha-1-1-20",
+      "katha-1-2-6",
+      "katha-2-2-7",
+      "katha-2-3-14"
+    ],
+    "commentaries": [
+      "comm-shankara-katha-1-1-20"
+    ],
+    "related_questions": [
+      "q-che-cose-l-atman",
+      "q-qual-e-la-natura-della-liberazione"
+    ],
+    "source_file": "questions/q-cosa-accade-dopo-la-morte.json"
+  },
   "q-dialettica-sambhuti-asambhuti": {
     "id": "q-dialettica-sambhuti-asambhuti",
     "type": "comparison",
@@ -207,6 +301,24 @@
       "q-dialettica-sambhuti-asambhuti"
     ],
     "source_file": "questions/q-dialettica-vidya-avidya.json"
+  },
+  "q-distinzione-tra-sreyas-e-preyas": {
+    "id": "q-distinzione-tra-sreyas-e-preyas",
+    "type": "great",
+    "text": "Perché la discriminazione tra Śreyas e Preyas è la porta d'accesso alla metafisica?",
+    "problem": "Comprendere come l'attaccamento ai piaceri contingenti accechi la facoltà intuitiva impedendo la ricerca dell'Ātman.",
+    "concepts": [
+      "sreyas-e-preyas",
+      "vidya-e-avidya"
+    ],
+    "passages": [
+      "katha-1-2-1",
+      "katha-1-2-2",
+      "katha-1-2-3"
+    ],
+    "scope": "global",
+    "homepage_priority": 9,
+    "source_file": "questions/q-distinzione-tra-sreyas-e-preyas.json"
   },
   "q-e-possibile-la-liberta": {
     "id": "q-e-possibile-la-liberta",
@@ -511,6 +623,26 @@
     ],
     "source_file": "questions/q-lazione-vincola.json"
   },
+  "q-metodo-dello-yoga-metafisico-nel-vedanta": {
+    "id": "q-metodo-dello-yoga-metafisico-nel-vedanta",
+    "type": "great",
+    "text": "Come si attua il riassorbimento graduale delle facoltà individuali (laya) nel Sé?",
+    "problem": "Definire la disciplina dello Yoga della Kaṭha Upaniṣad non come ginnastica o psicologia, ma come raccoglimento dell'essere nella pura Coscienza.",
+    "concepts": [
+      "adhyatma-yoga",
+      "buddhi-intelletto",
+      "purusha"
+    ],
+    "passages": [
+      "katha-1-3-3",
+      "katha-1-3-13",
+      "katha-2-3-10",
+      "katha-2-3-11"
+    ],
+    "scope": "global",
+    "homepage_priority": 9,
+    "source_file": "questions/q-metodo-dello-yoga-metafisico-nel-vedanta.json"
+  },
   "q-natura-atman-paradossi": {
     "id": "q-natura-atman-paradossi",
     "type": "specific",
@@ -581,6 +713,29 @@
       "q-e-possibile-la-liberta"
     ],
     "source_file": "questions/q-perche-soffriamo.json"
+  },
+  "q-qual-e-la-natura-della-liberazione": {
+    "id": "q-qual-e-la-natura-della-liberazione",
+    "type": "great",
+    "text": "Che cos'è la Liberazione (Mokṣa) e come si ottiene?",
+    "problem": "Stabilire se la liberazione sia il trasferimento in un paradiso esteriore o il risveglio non-duale alla propria natura eterna.",
+    "parent_question": null,
+    "concepts": [
+      "moksha-amritatva",
+      "jivanmukti",
+      "brahman"
+    ],
+    "passages": [
+      "katha-1-3-15",
+      "katha-2-2-1",
+      "katha-2-3-14",
+      "katha-2-3-15"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-azione-rituale-versus-conoscenza"
+    ],
+    "source_file": "questions/q-qual-e-la-natura-della-liberazione.json"
   },
   "q-rapporto-se-brahman": {
     "id": "q-rapporto-se-brahman",

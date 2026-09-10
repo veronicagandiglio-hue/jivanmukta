@@ -1,0 +1,119 @@
+{
+  "id": "katha-2-1",
+  "work_id": "katha-upanishad",
+  "unit_locus": "II.1",
+  "unit_title": "Adhyāya II, Vallī 1 — Il Sé interiore e la negazione della molteplicità",
+  "sections": [
+    {
+      "section_locus": "II.1.1-15",
+      "section_title": "Lo sguardo interiore e l'unità dell'Essere",
+      "passages": [
+        {
+          "id": "katha-2-1-1",
+          "original": "पराञ्चि खानि व्यतृणत् स्वयम्भूस्तस्मात्पराङ् पश्यति नान्तरात्मन् । कश्चिद्धीरः प्रत्यगात्मानमैक्षदावृत्तचक्षुरमृतत्वमिच्छन् ॥ १ ॥",
+          "translation": "«L'Autoesistente ha perforato le aperture dei sensi verso l'esterno; perciò l'uomo volge lo sguardo al di fuori e non verso il Sé interiore. Qualche raro saggio, bramando l'Immortalità, ha contemplato il Sé immanente volgendo lo sguardo verso l'interno».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-2",
+          "original": "पराचः कामाननुयन्ति बालास्ते मृत्योर्यन्ति विततस्य पाशम् । अथ धीरा अमृतत्वं विदित्वा ध्रुवमध्रुवेष्विह न प्रार्थयन्ते ॥ २ ॥",
+          "translation": "«Gli esseri privi di discernimento inseguono i desideri esteriori; costoro cadono nella rete ampiamente tesa della Morte. I saggi invece, avendo conosciuto l'Immortalità immutabile, non cercano l'Eterno in mezzo alle cose transitorie di questo mondo».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-3",
+          "original": "येन रूपं रसं गन्धं शब्दान् स्पर्शाँश्च मैथुनान् । एतेनैव विजानाति किमत्र परिशिष्यते । एतद्वै तत् ॥ ३ ॥",
+          "translation": "«Colui per mezzo del quale si percepisce la forma, il sapore, l'odore, i suoni, i contatti e le unioni dilettevoli: per mezzo di Questo solo si conosce ogni cosa. Che cosa dunque rimane estraneo ad Esso? Questo in verità è Quello!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-4",
+          "original": "स्वप्नान्तं जागरितान्तं चोभौ येनानुपश्यति । महान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥ ४ ॥",
+          "translation": "«Colui per mezzo del quale si contemplano sia gli stati del sonno sia gli stati della veglia: conoscendo questo Ātman supremo e onnipervadente, il saggio non prova più alcuna afflizione».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-5",
+          "original": "य इमं मध्वदं वेद आत्मानं जीवमन्तिकात् । ईशानं भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ ५ ॥",
+          "translation": "«Colui che conosce da presso questo Ātman vivente, fruitore del miele delle azioni, quale Signore del passato e del futuro, da quel momento non cerca più di difendersi o sottrarsi ad alcunché. Questo in verità è Quello!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-6",
+          "original": "यः पूर्वं तपसो जातमद्भ्यः पूर्वमजायत । गुहां प्रविश्य तिष्ठन्तं यो भूतेभिर्व्यपश्यत । एतद्वै तत् ॥ ६ ॥",
+          "translation": "«Colui che fu generato all'origine dall'ardore della meditazione originaria, nato prima delle acque primordiali; colui che contempla Costui stabilito nella cavità segreta del cuore assieme agli elementi manifestati: costui contempla la Verità. Questo in verità è Quello!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-7",
+          "original": "या प्राणेन संभवत्यदितिर्देवतामयी । गुहां प्रविश्य तिष्ठन्तीं या भूतेभिर्व्यजायत । एतद्वै तत् ॥ ७ ॥",
+          "translation": "«Colei che si manifesta con l'energia vitale primordiale, Aditi l'Onnicomprensiva, che racchiude in sé tutte le potenze divine; colei che è entrata e risiede nella cavità segreta del cuore, manifestandosi unitamente a tutti gli esseri: Questo in verità è Quello!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-8",
+          "original": "अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः । दिवे दिव ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः । एतद्वै तत् ॥ ८ ॥",
+          "translation": "«Custodito nei due legni sacri come l'embrione ben protetto dalle gestanti, Agni l'Onnisciente, che giorno dopo giorno deve essere adorato dagli uomini vigilanti recanti oblazioni: Questo in verità è Quello!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-9",
+          "original": "यतश्चोदेति सूर्योऽस्तं यत्र च गच्छति । तं देवाः सर्वेऽर्पितास्तदु नात्येति कश्चन । एतद्वै तत् ॥ ९ ॥",
+          "translation": "«Quel Principio dal quale sorge il Sole e nel quale tramontando rifluisce: in Esso tutti gli dèi sono stabiliti, e nessuno può oltrepassarLo. Questo in verità è Quello!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-10",
+          "original": "यदेवेह तदमुत्र यदमुत्र तदन्विह । मृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति ॥ १० ॥",
+          "translation": "«Ciò che è qui è parimenti là; e ciò che è là è parimenti qui. Va di morte in morte colui che qui scorge come se vi fosse molteplicità».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-11",
+          "original": "मनसैवेदमाप्तव्यं नेह नानास्ति किंचन । मृत्योः स मृत्युं गच्छति य इह नानेव पश्यति ॥ ११ ॥",
+          "translation": "«Unicamente con l'intelletto purificato Questo deve essere realizzato: non vi è qui alcuna molteplicità! Va di morte in morte colui che qui vede anche la minima apparenza di diversità».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-12",
+          "original": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति । ईशानो भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ १२ ॥",
+          "translation": "«Il Puruṣa della grandezza di un pollice risiede al centro dell'essere individuale. ConoscendoLo quale Signore del passato e del futuro, non ci si isola più nell'illusione individuale. Questo in verità è Quello!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-13",
+          "original": "अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः । ईशानो भूतभव्यस्य स एवाद्य स उ श्वः । एतद्वै तत् ॥ १३ ॥",
+          "translation": "«Il Puruṣa della misura di un pollice è come una fiamma priva di fumo; Signore del passato e del futuro, Egli è Colui che è oggi, ed Egli sarà domani. Questo in verità è Quello!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-14",
+          "original": "यथोदकं दुर्गे वृष्टं पर्वतेषु विधावति । एवं धर्मान् पृथक् पश्यंस्तानेवानुविधावति ॥ १४ ॥",
+          "translation": "«Come l'acqua piovuta su un'altura scoscesa si disperde scorrendo giù per le balze montane, allo stesso modo colui che concepisce le qualità fenomeniche come realtà separate, si disperde inseguendo la loro molteplicità».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-2-1-15",
+          "original": "यथोदकं शुद्धे शुद्धमासिक्तं तादृगेव भवति । एवं मुनेर्विजानत आत्मा भवति गौतम ॥ १५ ॥",
+          "translation": "«Come l'acqua pura versata in acqua pura diviene omogenea e identica a quella, esattamente così, o discendente di Gautama, diviene l'Ātman del saggio che ha conseguito la Conoscenza della Verità».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        }
+      ]
+    }
+  ]
+}

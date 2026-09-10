@@ -228,7 +228,9 @@ function approvedQuestionEntity(question, approval) {
   const entity = {
     ...question,
     scope: 'global',
-    homepage_priority: approval.homepage_priority
+    homepage_priority: approval && Number.isInteger(approval.homepage_priority)
+      ? approval.homepage_priority
+      : nextHomepagePriority()
   };
   delete entity.candidate;
   delete entity.status;

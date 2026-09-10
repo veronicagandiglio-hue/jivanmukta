@@ -1,0 +1,224 @@
+{
+  "id": "katha-1-1",
+  "work_id": "katha-upanishad",
+  "unit_locus": "I.1",
+  "unit_title": "Adhyāya I, Vallī 1 — Il sacrificio di Vājaśravasa e i tre doni di Yama",
+  "sections": [
+    {
+      "section_locus": "I.1.0-29",
+      "section_title": "La discesa di Naciketas e i tre doni",
+      "passages": [
+        {
+          "id": "katha-1-1-0",
+          "original": "ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्वि नावधीतमस्तु । मा विद्विषावहै ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+          "translation": "Oṃ. Possa Egli proteggere entrambi. Possa Egli nutrire entrambi. Possiamo noi operare insieme con vigore spirituale. Sia luminoso ciò che abbiamo appreso. Che non vi sia discordia fra noi. Oṃ. Pace, Pace, Pace.",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-1",
+          "original": "ॐ उशन् ह वै वाजश्रवसः सर्ववेदसं ददौ । तस्य ह नचिकेता नाम पुत्र आस ॥ १ ॥",
+          "translation": "Bramando [i frutti del rito], Vājaśravasa fece dono di tutti i suoi beni. Egli aveva un figlio di nome Naciketas.",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-2",
+          "original": "तँ ह कुमारँ सन्तं दक्षिणासु नीयमानासु श्रद्धाविवेश सोऽमन्यत ॥ २ ॥",
+          "translation": "Mentre le offerte sacrificali venivano condotte innanzi, quantunque fosse ancora un fanciullo, una profonda adesione intuitiva alla Verità (śraddhā) pervase il suo essere; ed egli considerò:",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-3",
+          "original": "पीतोदका जग्धतृणा दुग्धदोहा निरिन्द्रियाः । अनन्दा नाम ते लोकास्तान् स गच्छति ता ददत् ॥ ३ ॥",
+          "translation": "«Avendo bevuto per l'ultima volta l'acqua, avendo brucato per l'ultima volta l'erba, avendo dato per l'ultima volta il latte, ormai esauste e prive di vigore vitale: privi di gioia sono detti i mondi nei quali va colui che dona tali bestie».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-4",
+          "original": "स होवाच पितरं तत कस्मै मां दास्यसीति । द्वितीयं तृतीयं तँ होवाच मृत्यवे त्वा ददामीति ॥ ४ ॥",
+          "translation": "Egli disse al padre: «Padre, a chi mi darai in dono?». Una seconda e una terza volta lo domandò. [Il padre, adirato], gli disse: «Alla Morte ti dono!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-5",
+          "original": "बहूनामेमि प्रथमो बहूनामेमि मध्यमः । किँ स्विद्यमस्य कर्तव्यं यन्मयाऽद्य करिष्यति ॥ ५ ॥",
+          "translation": "[Naciketas pensò:] «Tra molti vado come primo; tra molti vado come mediano. Che cosa dunque deve compiere Yama che oggi intende compiere per mezzo mio?».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-6",
+          "original": "अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे । सस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः ॥ ६ ॥",
+          "translation": "[Naciketas disse al padre:] «Guarda a coloro che ti hanno preceduto, e parimenti considera coloro che verranno dopo. Come il grano matura il mortale, e come il grano egli rinasce di nuovo».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-7",
+          "original": "वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान् । तस्यैताँ शान्तिं कुर्वन्ति हर वैवस्वतोदकम् ॥ ७ ॥",
+          "translation": "[I consiglieri dicono a Yama:] «Come il Fuoco universale (vaiśvānaraḥ), l'ospite brāhmaṇa entra nelle case. A lui si rende questo tributo di propiziazione: porta l'acqua, o figlio del Sole!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-8",
+          "original": "आशाप्रतीक्षे संगतँ सूनृतां चेष्टापूर्ते पुत्रपशूँश्च सर्वान् । एतद्वृङ्क्ते पुरुषस्याल्पमेधसो यस्यानश्नन्वसति ब्राह्मणो गृहे ॥ ८ ॥",
+          "translation": "«Speranze e aspettative, il frutto dei rapporti conformi alla verità, le parole liete e veridiche, i meriti sacrificali e le opere di pia beneficenza, i figli e il bestiame: tutto questo viene distrutto per l'uomo di scarso discernimento nella cui dimora un brāhmaṇa dimora senza consumare cibo».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-9",
+          "original": "तिस्रो रात्रीर्यदवात्सीर्गृहे मेऽनश्नन् ब्रह्मन्नतिथिर्नमस्यः । नमस्तेऽस्तु ब्रह्मन् स्वस्ति मेऽस्तु तस्मात्प्रति त्रीन्वरान्वृणीष्व ॥ ९ ॥",
+          "translation": "[Yama disse:] «Poiché per tre notti hai dimorato nella mia casa senza nutrirti, tu che sei un brāhmaṇa e un ospite venerabile: omaggio a te, o brāhmaṇa, e sia pace a me! Perciò, in compenso, scegli tre doni».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-10",
+          "original": "शान्तसंकल्पः सुमना यथा स्याद् वीतमन्युर्गौतमो माऽभि मृत्यो । त्वत्प्रसृष्टं माऽभिवदेत्प्रतीत एतत् त्रयाणां प्रथमं वरं वृणे ॥ १० ॥",
+          "translation": "[Naciketas disse:] «Che Gautama sia acquietato nel proponimento, benevolo d'animo e libero dall'ira verso di me, o Morte; che egli mi riconosca e mi accolga favorevolmente quando sarò rimandato indietro da te: tra i tre doni, questo scelgo come primo».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-11",
+          "original": "यथा पुरस्ताद् भविता प्रतीत औद्दालकिरारुणिर्मत्प्रसृष्टः । सुखँ रात्रीः शयिता वीतमन्युः त्वां ददृशिवान्मृत्युमुखात् प्रमुक्तम् ॥ ११ ॥",
+          "translation": "[Yama disse:] «Come un tempo egli ti fu affezionato, così Auddālaki Āruṇi, con il mio consenso, tornerà a essere ben disposto verso di te. Dormirà sonni sereni durante le notti, placato nella sua collera, quando ti vedrà scampato dalle fauci della Morte».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-12",
+          "original": "स्वर्गे लोके न भयं किंचनास्ति न तत्र त्वं न जरया बिभेति । उभे तीर्त्वाऽशनायापिपासे शोकातिगो मोदते स्वर्गलोके ॥ १२ ॥",
+          "translation": "[Naciketas disse:] «Nel mondo celeste non vi è alcun timore; tu non vi sei presente, né alcuno teme la vecchiaia. Trascendendo entrambe, fame e sete, e superando ogni afflizione, l'essere gode nel mondo celeste».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-13",
+          "original": "स त्वमग्निँ स्वर्ग्यमध्येषि मृत्यो प्रब्रूहि त्वँ श्रद्दधानाय मह्यम् । स्वर्गलोका अमृतत्वं भजन्त एतद् द्वितीयेन वृणे वरेण ॥ १३ ॥",
+          "translation": "«Tu, o Morte, conosci il Fuoco che conduce allo stato celeste. Rivelalo dunque a me che sono ricolmo di fede metafisica. Coloro che dimorano nel mondo celeste partecipano dell'immortalità. Questo chiedo con il secondo dono».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-14",
+          "original": "प्र ते ब्रवीमि तदु मे निबोध स्वर्ग्यमग्निं नचिकेतः प्रजानन् । अनन्तलोकाप्तिमथो प्रतिष्ठां विद्धि त्वमेतं निहितं गुहायाम् ॥ १४ ॥",
+          "translation": "[Yama disse:] «A te lo dichiaro, apprendilo dunque bene da me: conoscendo il Fuoco celeste, o Naciketas, sappi che esso è il mezzo per ottenere lo stato dei mondi infiniti, il loro saldo fondamento, e risiede nascosto nella cavità segreta del cuore».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-15",
+          "original": "लोकादिमग्निं तमुवाच तस्मै या इष्टका यावतीर्वा यथा वा । स चापि तत्प्रत्यवदद्यथोक्तं अथास्य मृत्युः पुनरेवाह तुष्टः ॥ १५ ॥",
+          "translation": "Ed egli gli rivelò quel Fuoco, principio originario dei mondi manifestati, quali mattoni debbano essere usati per l'altare, quanti siano e in quale modo debbano essere disposti. E quegli ripeté fedelmente quanto gli era stato esposto; allora la Morte, soddisfatta, gli parlò nuovamente.",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-16",
+          "original": "तमब्रवीत् प्रीयमाणो महात्मा वरं तवेहाद्य ददामि भूयः । तवैव नाम्ना भविताऽयमग्निः सृङ्कां चेमामनेकरूपां गृहाण ॥ १६ ॥",
+          "translation": "Quel magnanimo gli disse con benevolenza: «A te concedo oggi un ulteriore favore: questo Fuoco porterà per sempre il tuo stesso nome. Accogli inoltre questa collana dai molti riflessi».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-17",
+          "original": "त्रिणाचिकेतस्त्रिभिरेत्य सन्धिं त्रिकर्मकृत्तरति जन्ममृत्यू । ब्रह्मजज्ञं देवमीड्यं विदित्वा निचाय्येमाँ शान्तिमत्यन्तमेति ॥ १७ ॥",
+          "translation": "«Colui che ha compiuto tre volte il rito del Fuoco di Naciketas, avendo stabilito l'unione con le tre fonti, e compiendo le tre azioni sacre, oltrepassa la nascita e la morte. Conoscendo e realizzando il Dio degno di lode, nato dal Principio originario, egli perviene alla pace definitiva».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-18",
+          "original": "त्रिणाचिकेतस्त्रयमेतद्विदित्वा य एवं विद्वाँश्चिनुते नाचिकेतम् । स मृत्युपाशान् पुरतः प्रणोद्य शोकातिगो मोदते स्वर्गलोके ॥ १८ ॥",
+          "translation": "«Colui che per tre volte accende il Fuoco di Naciketas, conoscendo questa triade, e sapendo ciò compone il sacro fuoco, spezza i legami della Morte ben prima del trapasso e, superata ogni angoscia, risiede glorioso nel mondo celeste».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-19",
+          "original": "एष तेऽग्निर्नचिकेतः स्वर्ग्यो यमवृणीथा द्वितीयेन वरेण । एतमग्निं तवैव प्रवक्ष्यन्ति जनासः तृतीयं वरं नचिकेतो वृणीष्व ॥ १९ ॥",
+          "translation": "«Questo è per te il Fuoco celeste, o Naciketas, che hai domandato con il secondo dono. Gli uomini attribuiranno questo Fuoco al tuo solo nome. Ora, o Naciketas, esprimi il terzo dono».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-20",
+          "original": "येयं प्रेते विचिकित्सा मनुष्ये-ऽस्तीत्येके नायमस्तीति चैके । एतद्विद्यामनुशिष्टस्त्वयाऽहं वराणामेष वरस्तृतीयः ॥ २० ॥",
+          "translation": "[Naciketas disse:] «Questo dubbio che sussiste riguardo all'uomo trapassato: gli uni affermano che \"Egli è\", e gli altri dicono che \"Non è\". Istruito da te su questa realtà, io vorrei conoscerla: questo è il terzo fra i doni».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-21",
+          "original": "देवैरत्रापि विचिकित्सितं पुरा न हि सुविज्ञेयमणुरेष धर्मः । अन्यं वरं नचिकेतो वृणीष्व मा मोपरोत्सीरति मा सृजैनम् ॥ २१ ॥",
+          "translation": "[Yama disse:] «Anche gli dèi un tempo rimasero nel dubbio su questo punto; non è infatti cosa agevolmente conoscibile, essendo questa verità sommamente sottile. Scegli un altro dono, o Naciketas! Non incalzarmi su ciò: dispensami da questo dovere!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-22",
+          "original": "देवैरत्रापि विचिकित्सितं किल त्वं च मृत्यो यन्न सुज्ञेयमात्थ । वक्ता चास्य त्वादृगन्यो न लभ्यो नान्यो वरस्तुल्य एतस्य कश्चित् ॥ २२ ॥",
+          "translation": "[Naciketas disse:] «Tu stesso affermi che perfino gli dèi furono in dubbio su questo, o Morte, e che esso non è facile da comprendere. Né si può trovare un altro espositore pari a te, né vi è alcun altro dono che eguagli questo!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-23",
+          "original": "शतायुषः पुत्रपौत्रान्वृणीष्वा बहून्पशून् हस्तिहिरण्यमश्वान् । भूमेर्महदायतनं वृणीष्व स्वयं च जीव शरदो यावदिच्छसि ॥ २३ ॥",
+          "translation": "[Yama disse:] «Scegli per te figli e nipoti centenari, mandrie numerose, elefanti, oro e cavalli; scegli un vasto dominio sulla terra, e vivi tu stesso per tanti autunni quanti ne desideri!",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-24",
+          "original": "एतत्तुल्यं यदि मन्यसे वरं वृणीष्व वित्तं चिरजीविकां च । महाभूमौ नचिकेतस्त्वमेधि कामानां त्वा कामभाजं करोमि ॥ २४ ॥",
+          "translation": "Se reputi un dono comparabile a questo, scegliti pure ricchezze e una vita duratura. Regna, o Naciketas, sulla vasta terra! Io ti renderò partecipe di tutti gli oggetti del desiderio.",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-25",
+          "original": "ये ये कामा दुर्लभा मर्त्यलोके सर्वान् कामाँश्छन्दतः प्रार्थयस्व । इमा रामाः सरथाः सतूर्या न हीदृशा लम्भनीया मनुष्यैः । आभिर्मत्प्रत्ताभिः परिचारयस्व नचिकेतो मरणं माऽनुप्राक्षीः ॥ २५ ॥",
+          "translation": "Qualunque oggetto di desiderio sia introvabile nel mondo dei mortali, chiedi per te tutti questi beni secondo il tuo volere: queste fanciulle coi loro carri e i loro strumenti musicali, cose tali da non poter essere ottenute dagli uomini comuni; fatti servire da costoro, a te donate da me! Ma, o Naciketas, non indagare sul mistero della morte!».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-26",
+          "original": "श्वोभावा मर्त्यस्य यदन्तकैतत् सर्वेंद्रियाणां जरयन्ति तेजः । अपि सर्वं जीवितमल्पमेव तवैव वाहास्तव नृत्यगीते ॥ २६ ॥",
+          "translation": "[Naciketas rispose:] «O Fine di tutto, tutte queste cose sono caduche e durano solo fino all'indomani; esse logorano il vigore di tutti gli organi di senso del mortale. E anche un'intera esistenza non è che un attimo brevissimo: rimangano tuoi i carri, tuoi le danze e i canti!",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-27",
+          "original": "न वित्तेन तर्पणीयो मनुष्यो लप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा । जीविष्यामो यावदीशिष्यसि त्वं वरस्तु मे वरणीयः स एव ॥ २७ ॥",
+          "translation": "L'uomo non può giungere all'appagamento mediante la ricchezza terrena. Forse che non otterremo ricchezze per il solo fatto di averti veduto? Vivremo solo finché durerà il tuo dominio; perciò il dono da me scelto resta unicamente quello!",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-28",
+          "original": "अजीर्यताममृतानामुपेत्य जीर्यन्मर्त्यः क्वधःस्थः प्रजानन् । अभिध्यायन् वर्णरतिप्रमोदान् अतिदीर्घे जीविते को रमेत ॥ २८ ॥",
+          "translation": "Essendosi accostato a Coloro che non invecchiano e sono incorruttibili, quale mortale decadente, dimorante in basso sulla terra, una volta compresa la loro condizione e contemplando la futilità dei piaceri della bellezza, della voluttà e del diletto, potrebbe compiacersi di una vita indefinitamente prolungata?",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-1-29",
+          "original": "यस्मिन्निदं विचिकित्सन्ति मृत्यो यत्साम्पराये महति ब्रूहि नस्तत् । योऽयं वरो गूढमनुप्रविष्टो नान्यं तस्मान्नचिकेता वृणीते ॥ २९ ॥",
+          "translation": "Quel mistero sul quale gli esseri nutrono dubbio, o Morte, e ciò che riguarda il grande passaggio supremo, rivelalo a noi! Questo dono, che penetra il segreto più occulto: nessun altro dono all'infuori di questo sceglie Naciketas».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        }
+      ]
+    }
+  ]
+}

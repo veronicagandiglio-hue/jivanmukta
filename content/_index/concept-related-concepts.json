@@ -1,16 +1,51 @@
 {
-  "atma-han": [
+  "adhyatma-yoga": [
+    "buddhi-intelletto",
     "atman",
-    "avidya",
-    "karman"
+    "jivanmukti"
+  ],
+  "buddhi-intelletto": [
+    "adhyatma-yoga",
+    "atman"
   ],
   "atman": [
+    "adhyatma-yoga",
     "atma-han",
     "purna",
     "isha",
     "ekatva",
     "soham",
+    "buddhi-intelletto",
+    "hridaya-guha",
+    "jivanmukti",
+    "purusha",
     "satya"
+  ],
+  "jivanmukti": [
+    "adhyatma-yoga",
+    "moksha-amritatva",
+    "atman"
+  ],
+  "asvattha-albero-cosmico": [
+    "brahman"
+  ],
+  "brahman": [
+    "asvattha-albero-cosmico",
+    "brahma-vidya",
+    "sakshin",
+    "vidita-avidita",
+    "upadhi-upasana",
+    "tadvana",
+    "deva-abhimana",
+    "moksha-amritatva",
+    "om-pranava",
+    "purusha",
+    "vidya-e-avidya"
+  ],
+  "atma-han": [
+    "atman",
+    "avidya",
+    "karman"
   ],
   "avidya": [
     "atma-han",
@@ -57,14 +92,6 @@
     "deva-abhimana",
     "pratistha"
   ],
-  "brahman": [
-    "brahma-vidya",
-    "sakshin",
-    "vidita-avidita",
-    "upadhi-upasana",
-    "tadvana",
-    "deva-abhimana"
-  ],
   "sakshin": [
     "brahma-vidya",
     "brahman"
@@ -89,6 +116,23 @@
     "isha",
     "karman"
   ],
+  "hridaya-guha": [
+    "atman",
+    "purusha"
+  ],
+  "purusha": [
+    "hridaya-guha",
+    "brahman",
+    "atman"
+  ],
+  "moksha-amritatva": [
+    "jivanmukti",
+    "brahman",
+    "sreyas-e-preyas"
+  ],
+  "om-pranava": [
+    "brahman"
+  ],
   "pratistha": [
     "brahma-vidya"
   ],
@@ -100,5 +144,13 @@
   "satya": [
     "atman",
     "soham"
+  ],
+  "sreyas-e-preyas": [
+    "vidya-e-avidya",
+    "moksha-amritatva"
+  ],
+  "vidya-e-avidya": [
+    "sreyas-e-preyas",
+    "brahman"
   ]
 }

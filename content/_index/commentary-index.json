@@ -56,5 +56,46 @@
     "text": "Nel Padabhāṣya ad I.2-4, Śaṅkara stabilisce che il Brahman non può mai essere un oggetto conosciuto (vedya), poiché è il Soggetto perenne (veditṛ). Tutto ciò che è suscettibile di essere oggettivato è contingente e perituro, mentre l'Ātman è la Coscienza immutabile sottesa alla percezione.",
     "editorial_status": "established",
     "source_file": "commentaries/comm-kena-soggetto-trascendente.json"
+  },
+  "comm-shankara-katha-1-1-20": {
+    "id": "comm-shankara-katha-1-1-20",
+    "author_id": "shankara",
+    "passages": [
+      "katha-1-1-20"
+    ],
+    "text": "Śaṅkara precisa nel suo Bhāṣya che il dubbio sollevato da Naciketas (prete vicikitsā) non riguarda la mera sopravvivenza o trasmigrazione dell'anima individuale (jīva) — già data per acquisita nella dottrina sacrificale del secondo dono —, bensì la reale natura dell'Essere liberato una volta estinti tutti gli upādhi psicosomatici: se l'Ātman persista quale pura Coscienza non-duale priva di attributi oggettivi, oppure se si risolva in un nulla nichilistico.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-shankara-katha-1-1-20.json"
+  },
+  "comm-shankara-katha-1-2-8": {
+    "id": "comm-shankara-katha-1-2-8",
+    "author_id": "shankara",
+    "passages": [
+      "katha-1-2-8"
+    ],
+    "text": "Sul termine 'ananyaprokte', Śaṅkara evidenzia la chiave di volta gnoseologica dell'Advaita: l'insegnamento è privo di dubbi e conduce alla certezza assoluta solo quando è impartito da un Maestro che ha realizzato la non-differenza (ananya) tra sé e l'Ātman supremo, oppure allorché il Sé non viene trattato come un oggetto esteriore separato dal soggetto conoscente.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-shankara-katha-1-2-8.json"
+  },
+  "comm-shankara-katha-2-1-11": {
+    "id": "comm-shankara-katha-2-1-11",
+    "author_id": "shankara",
+    "passages": [
+      "katha-2-1-11"
+    ],
+    "text": "Riguardo al categorico 'neha nānāsti kiṃcana', Śaṅkara commenta che la percezione della diversità e della pluralità ontologica è unicamente prodotta dall'avvolgimento dell'ignoranza (avidyā); per colui che scorge la divisione sostanziale tra gli enti o tra l'anima e il Principio, la trasmigrazione ciclica (saṃsāra) non ha mai fine.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-shankara-katha-2-1-11.json"
+  },
+  "comm-shankara-katha-2-3-12": {
+    "id": "comm-shankara-katha-2-3-12",
+    "author_id": "shankara",
+    "passages": [
+      "katha-2-3-12",
+      "katha-2-3-13"
+    ],
+    "text": "Spiegando l'affermazione fondamentale 'astītyeva' ('Egli È'), Śaṅkara rileva che l'Assoluto, essendo fondamento di ogni effetto fenomenico, non può essere presupposto come non-essere (asat). Chi nega l'Essere all'inizio della ricerca distrugge la radice stessa della Conoscenza; solo dopo averLo realizzato come radice oggettiva e soggettiva dell'Esistenza, la Sua natura trascendente (tattvabhāva), scevra da ogni determinazione categoriale, risplende all'intelletto pacificato.",
+    "editorial_status": "established",
+    "source_file": "commentaries/comm-shankara-katha-2-3-12.json"
   }
 }

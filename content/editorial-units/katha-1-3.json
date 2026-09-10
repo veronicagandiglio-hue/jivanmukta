@@ -1,0 +1,133 @@
+{
+  "id": "katha-1-3",
+  "work_id": "katha-upanishad",
+  "unit_locus": "I.3",
+  "unit_title": "Adhyāya I, Vallī 3 — L'analogia del Carro e la gerarchia metafisica dell'Essere",
+  "sections": [
+    {
+      "section_locus": "I.3.1-17",
+      "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
+      "passages": [
+        {
+          "id": "katha-1-3-1",
+          "original": "ऋतं पिबन्तौ सुकृतस्य लोके गुहां प्रविष्टौ परमे परार्धे । छायातपौ ब्रह्मविदो वदन्ति पञ्चाग्नयो ये च त्रिणाचिकेताः ॥ १ ॥",
+          "translation": "«Due sono gli enti che nel mondo raccolgono il frutto delle azioni compiute, entrati nel segreto recondito della cavità del cuore, nella suprema dimora dell'Altissimo. Come ombra e luce li definiscono i conoscitori del Brahman, nonché coloro che compiono il rito dei cinque fuochi e coloro che hanno eretto per tre volte il Fuoco di Naciketas».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-2",
+          "original": "यः सेतुरीजानानामक्षरं ब्रह्म यत्परम् । अभयं तितीर्षतां पारं नाचिकेतँ शकेमहि ॥ २ ॥",
+          "translation": "«Possa noi essere capaci di padroneggiare il Fuoco di Naciketas, che costituisce il ponte per coloro che compiono i sacrifici, nonché il Brahman supremo e imperituro, sponda scevra da timore per coloro che bramano traversare l'oceano del divenire».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-3",
+          "original": "आत्मानँ रथिनं विद्धि शरीरँ रथमेव तु । बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ॥ ३ ॥",
+          "translation": "«Sappi che l'Ātman è il Signore del carro, e che il corpo è il carro; sappi che l'Intelletto è l'auriga, e che la mente è invero la briglia».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-4",
+          "original": "इन्द्रियाणि हयानाहुर्विषयाँस्तेषु गोचरान् । आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ॥ ४ ॥",
+          "translation": "«I saggi chiamano i sensi i cavalli, e gli oggetti sensibili le vie su cui essi corrono. Il Sé, allorché associato al corpo, ai sensi e alla mente, viene definito dai sapienti \"lo sperimentatore\".",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-5",
+          "original": "यस्त्वविज्ञानवान् भवत्ययुक्तेन मनसा सदा । तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ॥ ५ ॥",
+          "translation": "«Colui che è privo di conoscenza discriminativa, avendo la mente costantemente indisciplinata, costui vede i propri sensi ribelli e ingovernabili, simili a destrieri riottosi per l'auriga».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-6",
+          "original": "यस्तु विज्ञानवान् भवति युक्तेन मनसा सदा । तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥ ६ ॥",
+          "translation": "«Ma colui che possiede la conoscenza discriminativa, avendo la mente costantemente concentrata e raccolta, vede i propri sensi sottomessi al suo controllo, simili a nobili destrieri docili all'auriga».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-7",
+          "original": "यस्त्वविज्ञानवान् भवत्यमनस्कः सदाऽशुचिः । न स तत्पदमाप्नोति संसारं चाधिगच्छति ॥ ७ ॥",
+          "translation": "«Colui che è sprovvisto di retta discriminazione intellettiva, incapace di padroneggiare la mente e costantemente impuro, non perviene a quello Stato supremo, ma ricade nel ciclo del divenire e delle rinascite».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-8",
+          "original": "यस्तु विज्ञानवान् भवति समनस्कः सदा शुचिः । स तु तत्पदमाप्नोति यस्माद्भूयो न जायते ॥ ८ ॥",
+          "translation": "«Colui invece che è provvisto di retta discriminazione intellettiva, padrone vigile della mente e costantemente puro, perviene a quello Stato supremo dal quale non si rinasce mai più».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-9",
+          "original": "विज्ञानसारथिर्यस्तु मनःप्रग्रहवान्नरः । सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ॥ ९ ॥",
+          "translation": "«L'uomo che ha per auriga l'Intelletto discriminante e che tiene saldamente le redini della mente, costui perviene al termine del viaggio: allo Stato supremo del Principio Onnipervadente».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-10",
+          "original": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः । मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ॥ १० ॥",
+          "translation": "«Superiori ai sensi sono invero gli oggetti sottili; superiore agli oggetti è la mente; superiore alla mente è l'Intelletto puro; e superiore all'Intelletto è il Grande Sé».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-11",
+          "original": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः । पुरुषान्न परं किंचित् सा काष्ठा सा परा गतिः ॥ ११ ॥",
+          "translation": "«Superiore al Grande Sé è il Non-Manifesto; superiore al Non-Manifesto è il Puruṣa. Oltre il Puruṣa non vi è nulla: Esso è il Termine ultimo, Esso è la Meta Suprema».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-12",
+          "original": "एष सर्वेषु भूतेषु गूढोऽऽत्मा न प्रकाशते । दृश्यते त्वग्र्यया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः ॥ १२ ॥",
+          "translation": "«Questo Sé, occultato all'interno di tutti gli esseri manifestati, non risplende alle percezioni esteriori; ma viene contemplato dai chiaroveggenti delle realtà sottili per mezzo di un'intuizione intellettiva acuta, penetrante e purificata».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-13",
+          "original": "यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि । ज्ञानमात्मनि महति नियच्छेत्तद्यच्छेच्छान्त आत्मनि ॥ १३ ॥",
+          "translation": "«Il saggio deve riassorbire la parola nella mente; deve riassorbire la mente nell'Intelletto conoscente; deve riassorbire l'Intelletto conoscente nel Grande Sé; e deve riassorbire il Grande Sé nel Sé pacificato e assoluto».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-14",
+          "original": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत । क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ॥ १४ ॥",
+          "translation": "«Sorgete! Svegliatevi! Accostandovi ai Maestri qualificati, realizzate la Verità! Affilato come il filo tagliente di un rasoio, arduo da valicare: impervio e scabroso è questo sentiero, proclamano i sapienti».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-15",
+          "original": "अशब्दमस्पर्शमरूपमव्ययं तथाऽरसं नित्यमगन्धवच्च यत् । अनाद्यनन्तं महतः परं ध्रुवं निचाय्य तन्मृत्युमुखात् प्रमुच्यते ॥ १५ ॥",
+          "translation": "«Inudibile, intangibile, privo di forma, imperituro, insapore, eterno, esente da odore, senza principio e senza fine, superiore persino al Grande Principio, immutabile: realizzando tale Assoluto, ci si libera dalle fauci della Morte».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-16",
+          "original": "नाचिकेतमुपाख्यानं मृत्युप्रोक्तं सनातनम् । उक्त्वा श्रुत्वा च मेधावी ब्रह्मलोके महीयते ॥ १६ ॥",
+          "translation": "«Enunciando o ascoltando questo racconto primordiale ed eterno di Naciketas, rivelato direttamente dalla Morte, l'uomo saggio e dotato di retta comprensione viene glorificato nel Mondo del Brahman».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        },
+        {
+          "id": "katha-1-3-17",
+          "original": "य इमं परमं गुह्यं श्रावयेद् ब्रह्मसंसदि । प्रयतः श्राद्धकाले वा तदानन्त्याय कल्पते । तदानन्त्याय कल्पत इति ॥ १७ ॥",
+          "translation": "«Colui che, interiormente purificato e concentrato, fa ascoltare questo supremo mistero in un'assemblea di conoscitori del Brahman, oppure al tempo dei sacrifici commemorativi, ciò procura il compimento dell'Eternità incondizionata, procura il compimento dell'Eternità incondizionata».",
+          "source": "Kaṭhopaniṣad",
+          "editorial_status": "established"
+        }
+      ]
+    }
+  ]
+}

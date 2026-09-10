@@ -10,6 +10,29 @@
     "editorial_status": "established",
     "source_file": "notes/note-adhidaivata-adhyatma.json"
   },
+  "note-angusthamatra": {
+    "id": "note-angusthamatra",
+    "term": "Aṅguṣṭhamātraḥ Puruṣaḥ",
+    "passages": [
+      "katha-2-1-12",
+      "katha-2-1-13",
+      "katha-2-3-17"
+    ],
+    "text": "L'espressione 'della misura di un pollice' non si riferisce a una dimensione spaziale fisica della Coscienza (che è incorporea e infinita), ma designa tradizionalmente la localizzazione simbolico-contemplativa della presenza dell'Ātman nella cavità eterica del cuore umano (hṛdaya-puṇḍarīka).",
+    "editorial_status": "established",
+    "source_file": "notes/note-angusthamatra.json"
+  },
+  "note-astityeva": {
+    "id": "note-astityeva",
+    "term": "Astītyeva",
+    "passages": [
+      "katha-2-3-12",
+      "katha-2-3-13"
+    ],
+    "text": "L'approccio apodittico primordiale all'Assoluto mediante l'affermazione 'Egli È'. Costituisce il presupposto metafisico indispensabile per dissipare le tesi nichiliste prima dell'accesso alla realtà incondizionata al di là di ogni predicazione.",
+    "editorial_status": "established",
+    "source_file": "notes/note-astityeva.json"
+  },
   "note-atmahan": {
     "id": "note-atmahan",
     "term": "ātma-han",
@@ -19,6 +42,16 @@
     "text": "Letteralmente «uccisore del Sé». Poiché l'Ātman è incorruttibile e non può subire morte, l'espressione designa l'individuo che, respingendo o ignorando la natura divina del proprio essere essenziale per attaccarsi al corpo mortale, subisce l'effetto degradante di tale disconoscimento nei mondi di tenebra.",
     "editorial_status": "established",
     "source_file": "notes/note-atmahan.json"
+  },
+  "note-hridaya-granthi": {
+    "id": "note-hridaya-granthi",
+    "term": "Hṛdayasya granthayaḥ",
+    "passages": [
+      "katha-2-3-15"
+    ],
+    "text": "I 'nodi del cuore', ovvero l'intricato vincolo radicato nell'ignoranza metafisica fondamentale (avidyā) che unisce falsamente la pura Coscienza testimone ai desideri contingenti (kāma) e alla catena dell'azione (karman).",
+    "editorial_status": "established",
+    "source_file": "notes/note-hridaya-granthi.json"
   },
   "note-isa-vasyam": {
     "id": "note-isa-vasyam",
@@ -74,6 +107,16 @@
     "editorial_status": "established",
     "source_file": "notes/note-nedam-upasate.json"
   },
+  "note-neha-nanasti": {
+    "id": "note-neha-nanasti",
+    "term": "Neha nānāsti kiṃcana",
+    "passages": [
+      "katha-2-1-11"
+    ],
+    "text": "Formula cardine dell'ortodossia advaitica: 'Non vi è qui alcuna molteplicità'. Stabilisce la nullità ontologica di qualsiasi alterità sostanziale all'interno della realtà non-duale dell'Assoluto.",
+    "editorial_status": "established",
+    "source_file": "notes/note-neha-nanasti.json"
+  },
   "note-pratibodha": {
     "id": "note-pratibodha",
     "term": "pratibodha-viditam",
@@ -93,6 +136,16 @@
     "text": "I requisiti propedeutici (tapas, dama, karman) che servono da base e piedistallo alla conservazione immacolata della Conoscenza metafisica.",
     "editorial_status": "established",
     "source_file": "notes/note-pratistha.json"
+  },
+  "note-pratyagatman": {
+    "id": "note-pratyagatman",
+    "term": "Pratyagātman",
+    "passages": [
+      "katha-2-1-1"
+    ],
+    "text": "Il Sé interiore o immanente, concepito come il Soggetto ultimo inoggettivabile verso cui l'Intelletto si volge allorché inverte (āvṛtta-cakṣus) la direzione centrifuga e dissipatrice dei sensi periferici.",
+    "editorial_status": "established",
+    "source_file": "notes/note-pratyagatman.json"
   },
   "note-purna": {
     "id": "note-purna",
@@ -127,6 +180,28 @@
     "editorial_status": "established",
     "source_file": "notes/note-soham.json"
   },
+  "note-sraddha": {
+    "id": "note-sraddha",
+    "term": "Śraddhā",
+    "passages": [
+      "katha-1-1-2",
+      "katha-1-1-13"
+    ],
+    "text": "Nel registro metafisico tradizionale vedāntico, non denota una 'fede' emotiva o una credenza cieca di tipo fideistico, ma la certezza interiore, l'intuito sovrarazionale e l'adesione incondizionata della facoltà intellettiva alle verità rivelate dalla Śruti e trasmesse dal Maestro qualificato.",
+    "editorial_status": "established",
+    "source_file": "notes/note-sraddha.json"
+  },
+  "note-sreyas-preyas": {
+    "id": "note-sreyas-preyas",
+    "term": "Śreyas e Preyas",
+    "passages": [
+      "katha-1-2-1",
+      "katha-1-2-2"
+    ],
+    "text": "Coppia antinomica fondamentale: Śreyas è il Bene spirituale incondizionato che coincide con la Liberazione (Mokṣa); Preyas è il piacevole, il dilettevole immediato correlato all'attaccamento ai frutti dell'azione (karman) e alla perpetuazione del divenire individuale.",
+    "editorial_status": "established",
+    "source_file": "notes/note-sreyas-preyas.json"
+  },
   "note-srotrasya-srotram": {
     "id": "note-srotrasya-srotram",
     "term": "śrotrasya śrotram",
@@ -157,6 +232,16 @@
     "text": "Personificazione della Brahma-vidyā (Sapienza divina). Quale mediatrice necessaria, rivela a Indra l'identità dello Yakṣa dopo la ritirata del fenomeno.",
     "editorial_status": "established",
     "source_file": "notes/note-uma-haimavati.json"
+  },
+  "note-vaishvanara": {
+    "id": "note-vaishvanara",
+    "term": "Vaiśvānara",
+    "passages": [
+      "katha-1-1-7"
+    ],
+    "text": "Il Fuoco divino universale che permea la totalità degli esseri viventi. L'ospite brāhmaṇa che varca la soglia della dimora ne è il simbolo incarnato; accoglierlo devotamente significa propiziare l'armonia dell'intero ordine cosmico.",
+    "editorial_status": "established",
+    "source_file": "notes/note-vaishvanara.json"
   },
   "note-vidita-avidita": {
     "id": "note-vidita-avidita",

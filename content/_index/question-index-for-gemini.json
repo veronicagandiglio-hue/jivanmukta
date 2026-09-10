@@ -1,5 +1,20 @@
 [
   {
+    "id": "q-azione-rituale-versus-conoscenza",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il rapporto tra azione sacrificale rituale e Conoscenza liberatrice?",
+    "problem": "Comprendere l'insufficienza dei sacrifici a concedere l'Immortalità eterna rispetto alla pura visione metafisica.",
+    "introduction": null,
+    "parent_question": "q-qual-e-la-natura-della-liberazione",
+    "child_questions": [],
+    "concepts": [
+      "sreyas-e-preyas",
+      "vidya-e-avidya",
+      "moksha-amritatva"
+    ]
+  },
+  {
     "id": "q-azione-senza-vincolo",
     "scope": "local",
     "type": "specific",
@@ -87,6 +102,50 @@
     ]
   },
   {
+    "id": "q-che-cose-l-atman",
+    "scope": "local",
+    "type": "great",
+    "text": "Qual è la vera natura del Sé (Ātman)?",
+    "problem": "Definire se l'essenza dell'uomo sia un aggregato psicosomatico transitorio o una pura Coscienza immortale e increata.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "atman",
+      "purusha",
+      "brahman"
+    ]
+  },
+  {
+    "id": "q-come-si-conosce-il-brahman",
+    "scope": "local",
+    "type": "great",
+    "text": "Con quali mezzi la Realtà Suprema può essere conosciuta?",
+    "problem": "Superare l'inadeguatezza dell'intelletto dialettico e dei sensi empirici attraverso l'intuizione metafisica diretta.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "buddhi-intelletto",
+      "adhyatma-yoga",
+      "brahman"
+    ]
+  },
+  {
+    "id": "q-cosa-accade-dopo-la-morte",
+    "scope": "local",
+    "type": "great",
+    "text": "Qual è il destino dell'essere umano dopo il dissolvimento corporeo?",
+    "problem": "Risolvere il supremo dubbio se dopo la morte rimanga un principio immortale o si cada nel nulla.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "atman",
+      "moksha-amritatva"
+    ]
+  },
+  {
     "id": "q-dialettica-sambhuti-asambhuti",
     "scope": "local",
     "type": "comparison",
@@ -113,6 +172,20 @@
       "vidya",
       "avidya",
       "karman"
+    ]
+  },
+  {
+    "id": "q-distinzione-tra-sreyas-e-preyas",
+    "scope": "global",
+    "type": "great",
+    "text": "Perché la discriminazione tra Śreyas e Preyas è la porta d'accesso alla metafisica?",
+    "problem": "Comprendere come l'attaccamento ai piaceri contingenti accechi la facoltà intuitiva impedendo la ricerca dell'Ātman.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "sreyas-e-preyas",
+      "vidya-e-avidya"
     ]
   },
   {
@@ -314,6 +387,21 @@
     ]
   },
   {
+    "id": "q-metodo-dello-yoga-metafisico-nel-vedanta",
+    "scope": "global",
+    "type": "great",
+    "text": "Come si attua il riassorbimento graduale delle facoltà individuali (laya) nel Sé?",
+    "problem": "Definire la disciplina dello Yoga della Kaṭha Upaniṣad non come ginnastica o psicologia, ma come raccoglimento dell'essere nella pura Coscienza.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "adhyatma-yoga",
+      "buddhi-intelletto",
+      "purusha"
+    ]
+  },
+  {
     "id": "q-natura-atman-paradossi",
     "scope": "local",
     "type": "specific",
@@ -358,6 +446,23 @@
       "avidya",
       "atman",
       "atma-han"
+    ]
+  },
+  {
+    "id": "q-qual-e-la-natura-della-liberazione",
+    "scope": "local",
+    "type": "great",
+    "text": "Che cos'è la Liberazione (Mokṣa) e come si ottiene?",
+    "problem": "Stabilire se la liberazione sia il trasferimento in un paradiso esteriore o il risveglio non-duale alla propria natura eterna.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [
+      "q-azione-rituale-versus-conoscenza"
+    ],
+    "concepts": [
+      "moksha-amritatva",
+      "jivanmukti",
+      "brahman"
     ]
   },
   {

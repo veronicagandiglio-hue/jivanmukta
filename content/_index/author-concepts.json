@@ -1,4 +1,16 @@
 {
+  "yama": [
+    "adhyatma-yoga",
+    "asvattha-albero-cosmico",
+    "buddhi-intelletto",
+    "hridaya-guha",
+    "jivanmukti",
+    "moksha-amritatva",
+    "om-pranava",
+    "purusha",
+    "sreyas-e-preyas",
+    "vidya-e-avidya"
+  ],
   "vedic-rishis": [
     "atma-han",
     "atman",
@@ -38,5 +50,11 @@
     "upadhi-upasana",
     "vidita-avidita",
     "vidya"
+  ],
+  "shankara": [
+    "jivanmukti"
+  ],
+  "naciketas": [
+    "sreyas-e-preyas"
   ]
 }

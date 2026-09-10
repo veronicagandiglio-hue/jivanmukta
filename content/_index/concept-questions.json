@@ -1,4 +1,17 @@
 {
+  "sreyas-e-preyas": [
+    "q-azione-rituale-versus-conoscenza",
+    "q-distinzione-tra-sreyas-e-preyas"
+  ],
+  "vidya-e-avidya": [
+    "q-azione-rituale-versus-conoscenza",
+    "q-distinzione-tra-sreyas-e-preyas"
+  ],
+  "moksha-amritatva": [
+    "q-azione-rituale-versus-conoscenza",
+    "q-cosa-accade-dopo-la-morte",
+    "q-qual-e-la-natura-della-liberazione"
+  ],
   "isha": [
     "q-azione-senza-vincolo"
   ],
@@ -17,6 +30,8 @@
     "q-che-cosa-significa-conoscere",
     "q-che-cose-brahman",
     "q-che-cose-il-mondo",
+    "q-che-cose-l-atman",
+    "q-come-si-conosce-il-brahman",
     "q-kena-allegoria-yaksha",
     "q-kena-analogie-adhidaivata-adhyatma",
     "q-kena-funzione-uma",
@@ -25,6 +40,7 @@
     "q-kena-pratibodha-viditam",
     "q-kena-principio-animatore",
     "q-kena-urgenza-realizzazione",
+    "q-qual-e-la-natura-della-liberazione",
     "q-rapporto-se-brahman"
   ],
   "vidita-avidita": [
@@ -61,6 +77,8 @@
   ],
   "atman": [
     "q-che-cose-il-se",
+    "q-che-cose-l-atman",
+    "q-cosa-accade-dopo-la-morte",
     "q-e-possibile-la-liberta",
     "q-frutto-realizzazione-unita",
     "q-identita-soham",
@@ -68,6 +86,18 @@
     "q-natura-brahman-purna",
     "q-perche-soffriamo",
     "q-rapporto-se-brahman"
+  ],
+  "purusha": [
+    "q-che-cose-l-atman",
+    "q-metodo-dello-yoga-metafisico-nel-vedanta"
+  ],
+  "buddhi-intelletto": [
+    "q-come-si-conosce-il-brahman",
+    "q-metodo-dello-yoga-metafisico-nel-vedanta"
+  ],
+  "adhyatma-yoga": [
+    "q-come-si-conosce-il-brahman",
+    "q-metodo-dello-yoga-metafisico-nel-vedanta"
   ],
   "vidya": [
     "q-dialettica-vidya-avidya",
@@ -100,5 +130,8 @@
   "atma-han": [
     "q-perche-soffriamo",
     "q-uccisori-del-se"
+  ],
+  "jivanmukti": [
+    "q-qual-e-la-natura-della-liberazione"
   ]
 }
