@@ -284,20 +284,20 @@ body{
   }
 
   const HOME_LINKS = {
-    work: 'testi',
-    author: 'autori',
-    concept: 'concetti'
+    work: '/catalogo.html?tipo=testi',
+    author: '/catalogo.html?tipo=autori',
+    concept: '/catalogo.html?tipo=concetti'
   };
 
   async function loadHomeLinks() {
-    await Promise.all(Object.entries(HOME_LINKS).map(async ([kind, prefix]) => {
+    await Promise.all(Object.entries(HOME_LINKS).map(async ([kind, url]) => {
       const item = document.querySelector('[data-home-link="' + kind + '"]');
       const result = await ContentEngine.getEntities(kind);
       if (!item || result.status !== 'ok' || !result.data.length) {
         if (item) item.hidden = true;
         return;
       }
-      item.querySelector('a').href = '/' + prefix;
+      item.querySelector('a').href = url;
     }));
   }
 
