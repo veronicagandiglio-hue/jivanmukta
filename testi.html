@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Testi — Advaita Vedanta</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f5f3ee;
+  --ink: #201f1c;
+  --muted: #5b584e;
+  --faint: #8b8778;
+  --accent: #45516c;
+  --rule: #d9d4c6;
+  --text: 'Gentium Plus', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--text); font-size: 1.125rem; line-height: 1.7; }
+.page { width: min(60rem, calc(100% - 3rem)); margin: 0 auto; padding: 3.25rem 0 7.5rem; }
+.masthead { margin-bottom: 5rem; }
+.masthead a { color: var(--muted); font-size: .95rem; text-decoration: none; }
+.masthead a:hover { color: var(--accent); }
+h1 { max-width: 38rem; margin: 1.5rem 0 .75rem; font-size: clamp(2rem, 4.5vw + 1rem, 3.4rem); line-height: 1.15; font-weight: 400; }
+.intro { max-width: 38rem; margin: 0; color: var(--muted); }
+.list { max-width: 48rem; border-top: 1px solid var(--rule); }
+.work { display: block; padding: 1.75rem 0; border-bottom: 1px solid var(--rule); color: inherit; text-decoration: none; }
+.work:hover .work__title { color: var(--accent); }
+.work__title { margin: 0; font-size: 1.75rem; line-height: 1.25; font-weight: 400; }
+.work__meta { margin: .4rem 0 0; color: var(--muted); font-size: .95rem; }
+.work__note { max-width: 38rem; margin: .8rem 0 0; color: var(--muted); font-size: 1rem; line-height: 1.55; }
+.status { color: var(--muted); }
+</style>
+</head>
+<body>
+<main class="page">
+  <header class="masthead">
+    <a href="/">Advaita Vedanta</a>
+    <h1>I testi</h1>
+    <p class="intro">Le opere e i percorsi di lettura disponibili.</p>
+  </header>
+  <section id="works" class="list" aria-label="Elenco dei testi">
+    <p class="status">Caricamento...</p>
+  </section>
+</main>
+<script src="/js/url-router.js"></script>
+<script src="/js/content-engine.js"></script>
+<script>
+(async function () {
+  const container = document.getElementById('works');
+  const result = await ContentEngine.getEntities('work');
+  if (result.status !== 'ok') {
+    container.replaceChildren(Object.assign(document.createElement('p'), {
+      className: 'status',
+      textContent: 'Impossibile caricare i testi.'
+    }));
+    return;
+  }
+
+  container.replaceChildren();
+  result.data.forEach((work) => {
+    const link = document.createElement('a');
+    link.className = 'work';
+    link.href = UrlRouter.buildContentUrl('testi', work.id);
+
+    const title = document.createElement('h2');
+    title.className = 'work__title';
+    title.textContent = work.title;
+    link.append(title);
+
+    const meta = document.createElement('p');
+    meta.className = 'work__meta';
+    meta.textContent = [work.short_title, work.attribution].filter(Boolean).join(' — ');
+    link.append(meta);
+
+    const note = Array.isArray(work.editorial_note) ? work.editorial_note[0] : work.editorial_note;
+    if (note) {
+      const description = document.createElement('p');
+      description.className = 'work__note';
+      description.textContent = note;
+      link.append(description);
+    }
+
+    container.append(link);
+  });
+}());
+</script>
+</body>
+</html>

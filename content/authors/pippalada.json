@@ -1,0 +1,24 @@
+{
+  "id": "pippalada",
+  "name": "Pippalāda",
+  "transliteration": "Pippalāda",
+  "role": "author",
+  "role_description": "Veggente (Ṛṣi) e Maestro spirituale iniziatore che trasmette l'insegnamento supremo sui sei quesiti metafisici.",
+  "context": "Maestro venerabile stabilito nella contemplazione del Brahman, simbolo dell'autorità tradizionale della Śruti.",
+  "concepts": [
+    "brahman",
+    "atman",
+    "purusha",
+    "prana",
+    "rayi",
+    "sodasa-kala"
+  ],
+  "related_authors": [
+    "kabandhi",
+    "bhargava",
+    "kausalya",
+    "sauryayani",
+    "satyakama",
+    "sukesha"
+  ]
+}

@@ -33,6 +33,16 @@
     "editorial_status": "established",
     "source_file": "notes/note-astityeva.json"
   },
+  "note-atiprashna": {
+    "id": "note-atiprashna",
+    "term": "Atipraśna",
+    "passages": [
+      "prashna-3-2"
+    ],
+    "text": "Interrogazione trascendente che oltrepassa l'ordine fenomenico ordinario per indagare la scaturigine ontologica e il legame metafisico tra il Soffio vitale e il Sé Supremo (Ātman).",
+    "editorial_status": "established",
+    "source_file": "notes/note-atiprashna.json"
+  },
   "note-atmahan": {
     "id": "note-atmahan",
     "term": "ātma-han",
@@ -42,6 +52,17 @@
     "text": "Letteralmente «uccisore del Sé». Poiché l'Ātman è incorruttibile e non può subire morte, l'espressione designa l'individuo che, respingendo o ignorando la natura divina del proprio essere essenziale per attaccarsi al corpo mortale, subisce l'effetto degradante di tale disconoscimento nei mondi di tenebra.",
     "editorial_status": "established",
     "source_file": "notes/note-atmahan.json"
+  },
+  "note-bana": {
+    "id": "note-bana",
+    "term": "Bāṇa",
+    "passages": [
+      "prashna-2-2",
+      "prashna-2-3"
+    ],
+    "text": "Termine sanscrito che designa l'aggregato corporeo e psico-fisico dell'organismo (kārya-karaṇa-saṅghāta), il quale viene mantenuto in coesione e difeso dalla disgregazione unicamente dalla presenza sovrana di Prāṇa.",
+    "editorial_status": "established",
+    "source_file": "notes/note-bana.json"
   },
   "note-hridaya-granthi": {
     "id": "note-hridaya-granthi",
@@ -62,6 +83,16 @@
     "text": "Dal verbo vas (avvolgere, coprire). Nell'Advaita non indica la semplice immanenza di Dio nelle cose creabili, ma l'occultamento e la sovrimposizione del Principio sulla molteplicità fenomenica, in modo che l'universo venga riconosciuto come privo di realtà autonoma se separato da Īśvara.",
     "editorial_status": "established",
     "source_file": "notes/note-isa-vasyam.json"
+  },
+  "note-jivaghana": {
+    "id": "note-jivaghana",
+    "term": "Jīvaghana",
+    "passages": [
+      "prashna-5-5"
+    ],
+    "text": "La massa causale indifferenziata di tutte le anime individuali viventi, identificata dottrinalmente da Śaṅkara con Hiraṇyagarbha o Brahmā cosmico, al di sopra della quale rifulge il Puruṣa Supremo trascendente.",
+    "editorial_status": "established",
+    "source_file": "notes/note-jivaghana.json"
   },
   "note-kenesitam": {
     "id": "note-kenesitam",
@@ -158,6 +189,17 @@
     "editorial_status": "established",
     "source_file": "notes/note-purna.json"
   },
+  "note-rayi-prana": {
+    "id": "note-rayi-prana",
+    "term": "Rayi e Prāṇa",
+    "passages": [
+      "prashna-1-4",
+      "prashna-1-5"
+    ],
+    "text": "Polarità ontologica fondamentale esposta nella Praśna Upaniṣad: Rayi è il principio passivo, ricettivo, plastico e lunare (Sostanza/Materia prima); Prāṇa è il principio attivo, formatore, luminoso e solare (Essenza/Spirito vitale). La loro interazione genera ogni grado della manifestazione cosmica.",
+    "editorial_status": "established",
+    "source_file": "notes/note-rayi-prana.json"
+  },
   "note-sambhuti-vinasa": {
     "id": "note-sambhuti-vinasa",
     "term": "sambhūti / vināśa",
@@ -169,6 +211,18 @@
     "text": "Sambhūti indica l'effetto generato cosmo-formale (Hiraṇyagarbha); Asambhūti la matrice causale indifferenziata (avyākṛta-prakṛti). Vināśa qualifica l'effetto transitorio e perituro che deve essere superato.",
     "editorial_status": "established",
     "source_file": "notes/note-sambhuti-vinasa.json"
+  },
+  "note-sodasa-kala": {
+    "id": "note-sodasa-kala",
+    "term": "Ṣoḍaśa-kalā",
+    "passages": [
+      "prashna-6-1",
+      "prashna-6-2",
+      "prashna-6-4"
+    ],
+    "text": "Le sedici parti o determinazioni contingenti dell'essere emanate dal Puruṣa (Prāṇa, fede, i 5 elementi, i sensi, la mente, il cibo, il vigore, l'ascesi, i mantra, il rito, i mondi e il nome), destinate a dissolversi all'atto della Conoscenza non-duale.",
+    "editorial_status": "established",
+    "source_file": "notes/note-sodasa-kala.json"
   },
   "note-soham": {
     "id": "note-soham",
@@ -264,6 +318,27 @@
     "text": "Nel contesto specifico dei versi 9-11, non indicano Conoscenza liberatrice e Illusione primordiale cosmica, bensì meditazione sulle forme divine (upāsanā) e azione rituale sacrificale (karman).",
     "editorial_status": "established",
     "source_file": "notes/note-vidya-avidya.json"
+  },
+  "note-vijnanatman": {
+    "id": "note-vijnanatman",
+    "term": "Vijñānātman",
+    "passages": [
+      "prashna-4-9",
+      "prashna-4-11"
+    ],
+    "text": "Il Sé conoscitore o intelletto individuale (jīva), soggetto dell'esperienza sensoriale e dell'azione morale, che poggia sul Sé Supremo Imperituro (Akṣara) come suo unico fondamento immutabile.",
+    "editorial_status": "established",
+    "source_file": "notes/note-vijnanatman.json"
+  },
+  "note-vratya": {
+    "id": "note-vratya",
+    "term": "Vrātya",
+    "passages": [
+      "prashna-2-11"
+    ],
+    "text": "Applicato a Prāṇa, il termine assume il valore metafisico sublime di 'Puro per eccellenza': essendo il Primogenito assoluto dell'universo, non vi è alcuno anteriore a Lui che potesse amministrargli sacramenti o riti purificatori estrinseci; Egli è intrinsecamente incorrotto per propria natura essenziale.",
+    "editorial_status": "established",
+    "source_file": "notes/note-vratya.json"
   },
   "note-yaksa": {
     "id": "note-yaksa",

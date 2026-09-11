@@ -18,6 +18,55 @@
     ],
     "source_file": "authors/adi-shankara.json"
   },
+  "bhargava": {
+    "id": "bhargava",
+    "name": "Bhārgava Vaidarbhi",
+    "transliteration": "Bhārgava Vaidarbhi",
+    "role": "author",
+    "role_description": "Discepolo che pone il secondo quesito sulle potenze divine che sostengono il corpo e sul primato di Prāṇa.",
+    "context": "Aspirante qualificato proveniente dalla regione di Vidarbha.",
+    "concepts": [
+      "prana"
+    ],
+    "related_authors": [
+      "pippalada"
+    ],
+    "source_file": "authors/bhargava.json"
+  },
+  "kabandhi": {
+    "id": "kabandhi",
+    "name": "Kabandhī Kātyāyana",
+    "transliteration": "Kabandhī Kātyāyana",
+    "role": "author",
+    "role_description": "Discepolo che pone il primo quesito cosmogonico sulla scaturigine primordiale delle creature.",
+    "context": "Aspirante qualificato (adhikārin) dedito alla contemplazione del Brahman.",
+    "concepts": [
+      "prajapati",
+      "prana",
+      "rayi",
+      "pitriyana-e-devayana"
+    ],
+    "related_authors": [
+      "pippalada"
+    ],
+    "source_file": "authors/kabandhi.json"
+  },
+  "kausalya": {
+    "id": "kausalya",
+    "name": "Kausalya Āśvalāyana",
+    "transliteration": "Kausalya Āśvalāyana",
+    "role": "author",
+    "role_description": "Discepolo che pone il terzo quesito sulla genesi e la quintuplice ripartizione di Prāṇa.",
+    "context": "Aspirante eccelso che formula quesiti trascendenti (atipraśna).",
+    "concepts": [
+      "prana",
+      "atman"
+    ],
+    "related_authors": [
+      "pippalada"
+    ],
+    "source_file": "authors/kausalya.json"
+  },
   "naciketas": {
     "id": "naciketas",
     "name": "Naciketas",
@@ -35,6 +84,64 @@
     ],
     "source_file": "authors/naciketas.json"
   },
+  "pippalada": {
+    "id": "pippalada",
+    "name": "Pippalāda",
+    "transliteration": "Pippalāda",
+    "role": "author",
+    "role_description": "Veggente (Ṛṣi) e Maestro spirituale iniziatore che trasmette l'insegnamento supremo sui sei quesiti metafisici.",
+    "context": "Maestro venerabile stabilito nella contemplazione del Brahman, simbolo dell'autorità tradizionale della Śruti.",
+    "concepts": [
+      "brahman",
+      "atman",
+      "purusha",
+      "prana",
+      "rayi",
+      "sodasa-kala"
+    ],
+    "related_authors": [
+      "kabandhi",
+      "bhargava",
+      "kausalya",
+      "sauryayani",
+      "satyakama",
+      "sukesha"
+    ],
+    "source_file": "authors/pippalada.json"
+  },
+  "satyakama": {
+    "id": "satyakama",
+    "name": "Śaibya Satyakāma",
+    "transliteration": "Śaibya Satyakāma",
+    "role": "author",
+    "role_description": "Discepolo che pone il quinto quesito sulla meditazione terminale sul sacro monosillabo Oṃ.",
+    "context": "Cercatore dell'efficacia liberatrice del Praṇava.",
+    "concepts": [
+      "om-pranava",
+      "brahman"
+    ],
+    "related_authors": [
+      "pippalada"
+    ],
+    "source_file": "authors/satyakama.json"
+  },
+  "sauryayani": {
+    "id": "sauryayani",
+    "name": "Sauryāyaṇī Gārgya",
+    "transliteration": "Sauryāyaṇī Gārgya",
+    "role": "author",
+    "role_description": "Discepolo che pone il quarto quesito sugli stati di veglia, sogno, sonno profondo e sul Sé Imperituro.",
+    "context": "Discendente di Garga, indagatore degli stati di coscienza.",
+    "concepts": [
+      "svapna-e-susupti",
+      "vijnanatman",
+      "aksara"
+    ],
+    "related_authors": [
+      "pippalada"
+    ],
+    "source_file": "authors/sauryayani.json"
+  },
   "shankara": {
     "id": "shankara",
     "name": "Śaṅkara",
@@ -50,6 +157,22 @@
     ],
     "related_authors": [],
     "source_file": "authors/shankara.json"
+  },
+  "sukesha": {
+    "id": "sukesha",
+    "name": "Sukeśā Bhāradvāja",
+    "transliteration": "Sukeśā Bhāradvāja",
+    "role": "author",
+    "role_description": "Discepolo che pone il sesto quesito supremo sul Puruṣa costituito di sedici parti.",
+    "context": "Cercatore irreprensibile che fa della veridicità (satya) il proprio fondamento.",
+    "concepts": [
+      "purusha",
+      "sodasa-kala"
+    ],
+    "related_authors": [
+      "pippalada"
+    ],
+    "source_file": "authors/sukesha.json"
   },
   "vedic-rishis": {
     "id": "vedic-rishis",

@@ -3386,5 +3386,2359 @@
     ],
     "editorial_status": "established",
     "source_file": "explanations/expl-kena-shanti.json"
+  },
+  "expl-prashna-1-0": {
+    "id": "expl-prashna-1-0",
+    "target_type": "passage",
+    "target_id": "prashna-1-0",
+    "title": "La consacrazione propiziatoria dell'organismo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Invocazione atharvanica affinché gli organi di senso (occhi, orecchi) e le membra del corpo rimangano saldi e integri per il servizio contemplativo."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Nell'Advaita la salute fisica e la limpidezza sensoriale non sono fini egoici, ma il supporto indispensabile per accogliere l'insegnamento metafisico senza deviazioni."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-0.json"
+  },
+  "expl-prashna-1-1": {
+    "id": "expl-prashna-1-1",
+    "target_type": "passage",
+    "target_id": "prashna-1-1",
+    "title": "I sei discepoli qualificati al cospetto del Maestro",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Sei nobili ricercatori, già dediti e fermi nel Brahman, si accostano con la legna sacrificale al saggio Pippalāda per ricevere la Conoscenza suprema."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il gesto della legna in mano esprime la sottomissione tradizionale dell'ego e la purificazione interiore: la Verità non si conquista con la presunzione, ma si riceve per iniziazione regolare."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-1.json"
+  },
+  "expl-prashna-1-10": {
+    "id": "expl-prashna-1-10",
+    "target_type": "passage",
+    "target_id": "prashna-1-10",
+    "title": "La via solare degli dèi (Devayāna) e la liberazione dal ritorno",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Coloro che cercano il Sé mediante ascesi, castità, fede e Conoscenza seguono la via settentrionale solare (Prāṇa): conquistano lo stato immortale da cui non si ritorna."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "È la via della realizzazione liberatrice: trascendendo l'attaccamento ai riti formali, la coscienza si identifica con la pura Luce solare e consegue la Meta incondizionata."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-10.json"
+  },
+  "expl-prashna-1-11": {
+    "id": "expl-prashna-1-11",
+    "target_type": "passage",
+    "target_id": "prashna-1-11",
+    "title": "Il simbolismo cosmico del Sole dai dodici aspetti",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Strofa tradizionale che descrive il Sole come Padre dai cinque piedi (stagioni) e dodici forme (mesi), o sul carro dalle sette ruote dell'anno cosmico."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il tempo cosmico è un riflesso dell'Ordine divino immutabile: comprendere i ritmi del cielo significa contemplare la maestà del Reggitore supremo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-11.json"
+  },
+  "expl-prashna-1-12": {
+    "id": "expl-prashna-1-12",
+    "target_type": "passage",
+    "target_id": "prashna-1-12",
+    "title": "La polarità del Mese: quindicina oscura e quindicina chiara",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Mese è Prajāpati: la metà oscura è Rayi (materia), la metà chiara è Prāṇa (vita/luce); i saggi sacrificano nella luce, gli altri nell'oscurità."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "I cicli lunari scandiscono l'alternanza tra il riassorbimento nella sostanza e l'irradiazione dello spirito: il saggio opera sempre in armonia col principio ascendente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-12.json"
+  },
+  "expl-prashna-1-13": {
+    "id": "expl-prashna-1-13",
+    "target_type": "passage",
+    "target_id": "prashna-1-13",
+    "title": "Il Giorno e la Notte: l'uso sacro dell'energia vitale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Giorno è Prāṇa e la Notte è Rayi: disperdere l'energia vitale di giorno è dissipazione; l'unione conforme alla legge di notte è vera castità sacra."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La santità tradizionale non è moralismo esteriore, ma rigorosa conformità ai ritmi cosmici: agire in modo contrario alla natura dei tempi dissipa la forza spirituale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-13.json"
+  },
+  "expl-prashna-1-14": {
+    "id": "expl-prashna-1-14",
+    "target_type": "passage",
+    "target_id": "prashna-1-14",
+    "title": "Il Cibo come veicolo del seme generatore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Cibo è Prajāpati: da esso si forma il seme vitale e dal seme hanno origine tutte le creature visibili."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La trasmissione della vita organica poggia sulla trasformazione della sostanza materiale: il cibo stesso è sacro in quanto condensazione terrena del potere divino."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-14.json"
+  },
+  "expl-prashna-1-15": {
+    "id": "expl-prashna-1-15",
+    "target_type": "passage",
+    "target_id": "prashna-1-15",
+    "title": "La fecondità retta e il mondo di Brahman manifesto",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi adempie la legge generatrice di Prajāpati con ascesi, disciplina e veridicità consegue il mondo beato della manifestazione pura."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La vita matrimoniale e generativa, se condotta secondo il Dharma e la Verità, è una via sacra di compimento nell'ordine cosmico manifesto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-15.json"
+  },
+  "expl-prashna-1-16": {
+    "id": "expl-prashna-1-16",
+    "target_type": "passage",
+    "target_id": "prashna-1-16",
+    "title": "Il Mondo di Brahman immacolato per i puri di cuore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Mondo supremo di Brahman privo di macchia appartiene solo a coloro che non hanno tortuosità, né falsità, né inganno ipocrita."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La Liberazione assoluta esige la totale purezza interiore: nessuna finzione o duplicità mentale può varcare la soglia dell'Incondizionato."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-16.json"
+  },
+  "expl-prashna-1-2": {
+    "id": "expl-prashna-1-2",
+    "target_type": "passage",
+    "target_id": "prashna-1-2",
+    "title": "La prova propedeutica di ascesi, disciplina e fede",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Pippalāda impone un anno di ascesi (tapas), castità sacra (brahmacarya) e fede intuitiva (śraddhā) prima di accogliere le loro domande."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La trasmissione della saggezza non è un dibattito intellettuale immediato; richiede la maturazione del discepolo e la completa dissoluzione di ogni scoria passionale o mondana."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-2.json"
+  },
+  "expl-prashna-1-3": {
+    "id": "expl-prashna-1-3",
+    "target_type": "passage",
+    "target_id": "prashna-1-3",
+    "title": "La domanda sull'origine primordiale delle creature",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Kabandhī Kātyāyana apre i quesiti domandando da quale principio scaturiscano all'origine tutti gli esseri manifestati."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "È l'interrogativo cosmogonico fondamentale che cerca la causa prima della molteplicità, superando l'illusione che il mondo sensibile sia autosufficiente o accidentale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-3.json"
+  },
+  "expl-prashna-1-4": {
+    "id": "expl-prashna-1-4",
+    "target_type": "passage",
+    "target_id": "prashna-1-4",
+    "title": "La polarità primordiale: Rayi e Prāṇa",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Prajāpati, compiendo l'ardore contemplativo, genera la coppia originale: Rayi (la Materia/Sostanza potenziale) e Prāṇa (lo Spirito/Soffio formatore)."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Tutta la manifestazione scaturisce dall'incontro tra un principio attivo fecondatore (Essenza) e un principio plastico recettivo (Sostanza universale): ogni ente è intessuto di questa duplice natura."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-4.json"
+  },
+  "expl-prashna-1-5": {
+    "id": "expl-prashna-1-5",
+    "target_type": "passage",
+    "target_id": "prashna-1-5",
+    "title": "Sole e Luna, forma corporea e forma sottile",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Sole è Prāṇa e la Luna è Rayi; Rayi è tutto ciò che ha forma visibile o sottile, identificandosi con la matrice di ogni corporeità."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La polarità cosmica si riflette negli astri: il Sole incarna la pura luce vivificante e formatrice, mentre la Luna incarna il ricettacolo plastico che assume e riflette le forme."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-5.json"
+  },
+  "expl-prashna-1-6": {
+    "id": "expl-prashna-1-6",
+    "target_type": "passage",
+    "target_id": "prashna-1-6",
+    "title": "L'unificazione solare di tutti i soffi dello spazio",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Sole sorgendo illumina l'oriente, il nadir, lo zenith e tutte le direzioni, accogliendo nei propri raggi i soffi vitali di ogni quadrante."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La vita universale è una sola: la dispersione spaziale delle creature viene costantemente ricondotta all'unità centrale del principio radioso che tutto vivifica."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-6.json"
+  },
+  "expl-prashna-1-7": {
+    "id": "expl-prashna-1-7",
+    "target_type": "passage",
+    "target_id": "prashna-1-7",
+    "title": "Prāṇa come Fuoco Universale onniforme",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Prāṇa si leva all'orizzonte quale Fuoco cosmico (Vaiśvānara), che assume tutte le forme (viśvarūpa), come confermato dal Ṛgveda."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il Soffio non è un fenomeno fisiologico ristretto all'uomo, ma l'Energia divina universale che anima e riscalda la totalità del macrocosmo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-7.json"
+  },
+  "expl-prashna-1-8": {
+    "id": "expl-prashna-1-8",
+    "target_type": "passage",
+    "target_id": "prashna-1-8",
+    "title": "L'inno vedico al Sole aureo e onnisciente",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Citazione vedica che celebra il Sole dai mille raggi, onnisciente e fonte unica di calore, quale Soffio vitale di tutte le creature."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La luce solare esteriore è la teofania visibile della Coscienza divina, che riversa la propria provvidenza in cento modi preservando il creato."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-8.json"
+  },
+  "expl-prashna-1-9": {
+    "id": "expl-prashna-1-9",
+    "target_type": "passage",
+    "target_id": "prashna-1-9",
+    "title": "La via lunare dei Padri (Pitṛyāṇa) e la rinascita",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il ciclo dell'Anno ha due corsi: chi compie sacrifici per frutti mondani segue la via meridionale e lunare (Rayi), ritornando ciclicamente sulla terra."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'azione rituale non illuminata dalla Conoscenza procura stati paradisiaci transitori, ma non libera dal divenire: esaurito il merito karmico, l'anima è costretta a rinascere."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-1-9.json"
+  },
+  "expl-prashna-2-1": {
+    "id": "expl-prashna-2-1",
+    "target_type": "passage",
+    "target_id": "prashna-2-1",
+    "title": "Il quesito sulle divinità che sostengono il corpo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Bhārgava domanda quante potenze divine sostengano l'organismo corporeo, quali mostrino la loro gloria e chi sia la suprema tra loro."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'indagine si sposta dal macrocosmo al microcosmo umano, per scoprire la gerarchia reale tra le facoltà sensoriali e il principio vitale originario."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-1.json"
+  },
+  "expl-prashna-2-10": {
+    "id": "expl-prashna-2-10",
+    "target_type": "passage",
+    "target_id": "prashna-2-10",
+    "title": "La gioia della pioggia e l'abbondanza del nutrimento",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quando Prāṇa si riversa come pioggia, le creature esultano sapendo che la terra donerà cibo abbondante per ogni desiderio."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il ciclo dell'acqua e la fecondità della terra testimoniano la bontà immanente dell'Energia cosmica, che sostiene con generosità la vita delle forme manifestate."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-10.json"
+  },
+  "expl-prashna-2-11": {
+    "id": "expl-prashna-2-11",
+    "target_type": "passage",
+    "target_id": "prashna-2-11",
+    "title": "Il Vrātya incorrotto e il Fuoco divoratore universale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Prāṇa è il Vrātya (puro senza sacramenti estrinseci), il Fuoco sacro Ekarṣi, il Signore dell'Essere e il Padre universale Mātariśvan."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Essendo il Primogenito dell'universo, Prāṇa possiede una purezza ontologica assoluta e originaria: non necessita di purificazioni rituali umane ed è la matrice di ogni sostanza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-11.json"
+  },
+  "expl-prashna-2-12": {
+    "id": "expl-prashna-2-12",
+    "target_type": "passage",
+    "target_id": "prashna-2-12",
+    "title": "La preghiera per una dimora benefica negli organi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Le facoltà supplicano Prāṇa affinché la sua presenza nella parola, nell'udito, nella vista e nella mente rimanga pacifica e non abbandoni il corpo."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La cooperazione armonica delle facoltà è possibile solo se il Soffio divino vi dimora in pace: il discepolo invoca la grazia della stabilità interiore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-12.json"
+  },
+  "expl-prashna-2-13": {
+    "id": "expl-prashna-2-13",
+    "target_type": "passage",
+    "target_id": "prashna-2-13",
+    "title": "La protezione materna e il dono di splendore e sapienza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Tutto nei tre mondi è sottomesso a Prāṇa: i sensi Lo pregano di proteggerli come una madre i figli e di accordare splendore cosmico e saggezza spirituale."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il Soffio primordiale accoglie e nutre il creato con tenerezza materna; da Lui provengono sia la bellezza della vita terrena (Śrī) sia la lucidità dell'intuizione pura (Prajñā)."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-13.json"
+  },
+  "expl-prashna-2-2": {
+    "id": "expl-prashna-2-2",
+    "target_type": "passage",
+    "target_id": "prashna-2-2",
+    "title": "La presunzione degli elementi e dei sensi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Gli elementi fisici (spazio, aria, fuoco, acqua, terra) e i sensi (parola, mente, vista, udito) pretendono ciascuno di sostenere da soli l'edificio corporeo."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Rappresenta l'illusione delle potenze particolari che, identificandosi con il proprio compito limitato, dimenticano il Principio invisibile che dà loro vita e coesione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-2.json"
+  },
+  "expl-prashna-2-3": {
+    "id": "expl-prashna-2-3",
+    "target_type": "passage",
+    "target_id": "prashna-2-3",
+    "title": "L'avvertimento inascoltato del Soffio Sovrano",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Soffio vitale supremo ammonisce i sensi: «Non v'illudete! Io solo, dividendomi in cinque parti, mantengo in essere questo corpo»; ma essi restano increduli."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'ignoranza metafisica rende le facoltà periferiche cieche dinanzi alla realtà del Soffio essenziale: occorre una dimostrazione diretta per superare l'orgoglio dell'ego."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-3.json"
+  },
+  "expl-prashna-2-4": {
+    "id": "expl-prashna-2-4",
+    "target_type": "passage",
+    "target_id": "prashna-2-4",
+    "title": "La prova dell'ape regina e la sottomissione dei sensi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Prāṇa simula l'uscita dal corpo e tutti i sensi sono costretti a seguirlo, come le api al seguito della regina; ristabilitosi, tutti si ristabiliscono e Lo lodano."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La subordinazione dei sensi a Prāṇa è ontologica: senza la vita le facoltà cognitive cessano all'istante di operare. La consapevolezza della dipendenza apre alla devozione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-4.json"
+  },
+  "expl-prashna-2-5": {
+    "id": "expl-prashna-2-5",
+    "target_type": "passage",
+    "target_id": "prashna-2-5",
+    "title": "L'identità cosmica di Prāṇa con tutte le forze divine",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "I sensi celebrano Prāṇa: Egli è il Fuoco, il Sole, la Pioggia, Indra, il Vento, la Terra, la Materia, il Manifesto e l'Invisibile, e l'Immortalità."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Tutti i nomi degli dèi celesti e delle forze della natura sono appellativi dell'unico Soffio universale, che unifica in sé la materia creata e l'Eterno."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-5.json"
+  },
+  "expl-prashna-2-6": {
+    "id": "expl-prashna-2-6",
+    "target_type": "passage",
+    "target_id": "prashna-2-6",
+    "title": "Il mozzo della ruota: il perno della rivelazione e della società",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come i raggi nel mozzo della ruota, in Prāṇa riposano i tre Veda, il sacrificio sacro, il potere regale e la casta spirituale."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La Rivelazione sacra e l'ordine tradizionale della società non sono convenzioni arbitrarie, ma sono ancorati sull'energia vitale primordiale che tutto coordina."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-6.json"
+  },
+  "expl-prashna-2-7": {
+    "id": "expl-prashna-2-7",
+    "target_type": "passage",
+    "target_id": "prashna-2-7",
+    "title": "Prajāpati nel grembo e il tributo dei viventi",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Prāṇa opera nel grembo e si rigenera nei figli; a Lui tutti gli esseri recano offerte, poiché Egli risiede con le facoltà sensoriali."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La generazione biologica è il riflesso continuo della presenza divina: nutrire i sensi e il corpo equivale a un'oblazione resa all'Ospite divino interiore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-7.json"
+  },
+  "expl-prashna-2-8": {
+    "id": "expl-prashna-2-8",
+    "target_type": "passage",
+    "target_id": "prashna-2-8",
+    "title": "Il portatore delle offerte agli dèi e agli antenati",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Prāṇa è il fuoco supremo che reca i doni agli dèi, l'oblazione primordiale per i defunti e la condotta santa dei grandi saggi dell'Atharvaveda."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il Soffio connette tutti i piani del reale: mette in comunione il mondo terreno con gli antenati celesti e sostiene la rettitudine dei veggenti realizzati."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-8.json"
+  },
+  "expl-prashna-2-9": {
+    "id": "expl-prashna-2-9",
+    "target_type": "passage",
+    "target_id": "prashna-2-9",
+    "title": "Indra, Rudra e il Signore delle luci astrali",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Prāṇa è Indra per potenza luminosa, Rudra quale difensore sovrano, l'aria dello spazio e il Sole sovrano di tutte le stelle."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Le funzioni cosmiche di sovranità, distruzione rigeneratrice e illuminazione non sono divise, ma aspetti diversi dell'unico Soffio onnipresente."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-2-9.json"
+  },
+  "expl-prashna-3-1": {
+    "id": "expl-prashna-3-1",
+    "target_type": "passage",
+    "target_id": "prashna-3-1",
+    "title": "Le sei domande profonde di Kausalya sul Soffio",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Kausalya domanda donde nasca Prāṇa, come entri nel corpo, come si divida, per dove esca alla morte e come sostenga il cosmo esteriore e l'essere interiore."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'indagine penetra nella radice trascendente della vita: comprendere l'ingresso, il permanere e l'uscita del Soffio è la chiave per superare la schiavitù della morte."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-1.json"
+  },
+  "expl-prashna-3-10": {
+    "id": "expl-prashna-3-10",
+    "target_type": "passage",
+    "target_id": "prashna-3-10",
+    "title": "L'ultimo pensiero al trapasso e la destinazione dell'essere",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Con lo stato del pensiero ultimo al trapasso, l'essere entra in Prāṇa; Prāṇa unito a Udāna e all'anima conduce al mondo conformemente meditato."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'orientamento finale della coscienza non è un caso, ma la sintesi vivente di tutta l'esistenza: ciò su cui l'uomo ha fissato il cuore determina il suo piano di rinascita."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-10.json"
+  },
+  "expl-prashna-3-11": {
+    "id": "expl-prashna-3-11",
+    "target_type": "passage",
+    "target_id": "prashna-3-11",
+    "title": "La fecondità spirituale e l'Immortalità del sapiente",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il saggio che conosce così il mistero del Soffio non vede mai perire la propria discendenza spirituale e diviene immortale."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Chi comprende l'origine e la funzione di Prāṇa vince la paura del decadimento: la sua tradizione di sapienza perdura nel tempo ed egli accede alla vita eterna."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-11.json"
+  },
+  "expl-prashna-3-12": {
+    "id": "expl-prashna-3-12",
+    "target_type": "passage",
+    "target_id": "prashna-3-12",
+    "title": "La quintuplice conoscenza del Soffio e la pienezza immortale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Strofa conclusiva: conoscendo l'origine, l'ingresso, la sede, la quintuplice potenza e la sfera interiore di Prāṇa, si gode l'Immortalità."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Suggello dottrinale della terza domanda: l'integrazione cosciente della vita corporea con la vita universale dissolve l'illusione della morte corporea."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-12.json"
+  },
+  "expl-prashna-3-2": {
+    "id": "expl-prashna-3-2",
+    "target_type": "passage",
+    "target_id": "prashna-3-2",
+    "title": "L'elogio del discepolo che formula quesiti trascendenti",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Pippalāda loda Kausalya: egli pone questioni che oltrepassano i limiti consueti (atipraśna), e poiché è saldo nel Brahman, riceverà la risposta."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "I grandi misteri della Śruti non vengono svelati a chiunque, ma solo a chi ha purificato l'intelletto ed è sinceramente orientato alla contemplazione dell'Assoluto."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-2.json"
+  },
+  "expl-prashna-3-3": {
+    "id": "expl-prashna-3-3",
+    "target_type": "passage",
+    "target_id": "prashna-3-3",
+    "title": "La proiezione dall'Ātman: l'ombra e l'influsso della mente",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Prāṇa nasce dall'Ātman ed è disteso su di Esso come l'ombra sull'uomo; esso penetra nel corpo in virtù degli atti della mente."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La vita non ha realtà autonoma: è l'ombra inseparabile del Sé Supremo. L'incarnazione fisica è guidata dalle tendenze e dai desideri accumulati dalla mente nelle vite passate."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-3.json"
+  },
+  "expl-prashna-3-4": {
+    "id": "expl-prashna-3-4",
+    "target_type": "passage",
+    "target_id": "prashna-3-4",
+    "title": "L'ordinamento imperiale delle funzioni vitali",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come un imperatore distribuisce i funzionari nei villaggi assegnando loro specifici distretti, così Prāṇa ripartisce i soffi subordinati nelle loro sedi."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'organismo vivente è un microcosmo ordinato con rigorosa saggezza gerarchica: nessun organo agisce a caso, ma ciascuno obbedisce alla sovranità del Soffio centrale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-4.json"
+  },
+  "expl-prashna-3-5": {
+    "id": "expl-prashna-3-5",
+    "target_type": "passage",
+    "target_id": "prashna-3-5",
+    "title": "Le sedi dei soffi e le sette fiamme del capo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Apāna risiede negli organi inferiori; Prāṇa negli occhi, orecchi, bocca e naso; Samāna al centro digerisce il cibo ed emana le sette fiamme sensoriali del capo."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La nutrizione del corpo è in verità un sacrificio interiore: il fuoco centrale di Samāna alimenta la luce delle percezioni della testa, permettendo la conoscenza del mondo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-5.json"
+  },
+  "expl-prashna-3-6": {
+    "id": "expl-prashna-3-6",
+    "target_type": "passage",
+    "target_id": "prashna-3-6",
+    "title": "L'Ātman nel cuore e la rete delle 72.000 diramazioni",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Nel cuore risiede l'Ātman: qui vi sono 101 canali primari, ciascuno con 100 rami e 72.000 diramazioni ulteriori, nelle quali circola il soffio Vyāna."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Descrizione dell'anatomia sottile: il cuore è il centro radiante da cui si dipana la sterminata trama di canali energetici che permeano e coordinano l'intero corpo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-6.json"
+  },
+  "expl-prashna-3-7": {
+    "id": "expl-prashna-3-7",
+    "target_type": "passage",
+    "target_id": "prashna-3-7",
+    "title": "Il canale ascendente coronale e il destino postumo di Udāna",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Attraverso l'unico canale che sale verso il capo, l'Udāna conduce l'anima al mondo del merito per le buone azioni, al mondo oscuro per le colpe, e al mondo umano per entrambe."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il canale coronale è la via della trascendenza: al momento della morte, il soffio Udāna traghetta la coscienza verso la rinascita appropriata al suo grado etico e spirituale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-7.json"
+  },
+  "expl-prashna-3-8": {
+    "id": "expl-prashna-3-8",
+    "target_type": "passage",
+    "target_id": "prashna-3-8",
+    "title": "Le corrispondenze macrocosmiche dei soffi corporei",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Sole è il Prāṇa esteriore che aiuta la vista; la Terra sostiene l'Apāna; lo spazio tra loro è Samāna; l'aria atmosferica è Vyāna."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Vi è perfetta identità tra il corpo dell'uomo e il corpo del cosmo: le stesse forze che muovono i pianeti e gli elementi naturali operano intimamente nei soffi dell'essere."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-8.json"
+  },
+  "expl-prashna-3-9": {
+    "id": "expl-prashna-3-9",
+    "target_type": "passage",
+    "target_id": "prashna-3-9",
+    "title": "Il calore radioso di Udāna e la dipartita",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il calore radioso (tejas) è l'Udāna: quando il calore si estingue dal corpo, l'uomo muove verso una nuova rinascita con i sensi riassorbiti nella mente."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La morte fisica è il raffreddamento degli organi visibili; la fiamma interiore della coscienza non muore, ma si raccoglie nella mente per essere trasportata oltre."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-3-9.json"
+  },
+  "expl-prashna-4-1": {
+    "id": "expl-prashna-4-1",
+    "target_type": "passage",
+    "target_id": "prashna-4-1",
+    "title": "I cinque enigmi sugli stati profondi dell'essere",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Sauryāyaṇī Gārgya domanda quali facoltà dormano nell'uomo, quali veglino, chi veda i sogni, di chi sia la beatitudine del riposo e dove tutto sia stabilito."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Si apre l'indagine sui tre stati di coscienza (veglia, sogno, sonno profondo) e sul quarto stato trascendente, per svelare la natura del Testimone immutabile."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-1.json"
+  },
+  "expl-prashna-4-10": {
+    "id": "expl-prashna-4-10",
+    "target_type": "passage",
+    "target_id": "prashna-4-10",
+    "title": "L'Imperituro immacolato e il conseguimento dell'Onniscienza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi conosce l'Imperituro privo di ombra, incorporeo, immacolato e puro perviene al Supremo: diviene onnisciente, diviene il Tutto."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La liberazione non è un'acquisizione di poteri, ma la reintegrazione nell'Assoluto: superando ogni velo di oscurità e forma corporea, il sapiente scopre di essere la totalità dell'Essere."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-10.json"
+  },
+  "expl-prashna-4-11": {
+    "id": "expl-prashna-4-11",
+    "target_type": "passage",
+    "target_id": "prashna-4-11",
+    "title": "L'approdo finale nell'Imperituro e l'unione col Tutto",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Strofa riassuntiva: colui che realizza quell'Imperituro in cui riposano il Sé cosciente, le divinità dei sensi, i soffi e gli elementi, penetra nella totalità dell'universo."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Chi realizza il fondamento universale non è più escluso da alcunché: caduta ogni barriera di separazione individuale, egli rifulge come il Cuore stesso del cosmo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-11.json"
+  },
+  "expl-prashna-4-2": {
+    "id": "expl-prashna-4-2",
+    "target_type": "passage",
+    "target_id": "prashna-4-2",
+    "title": "Il tramonto dei raggi sensoriali nella Mente unificatrice",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come i raggi del sole che tramonta si raccolgono nel disco solare, così tutti i sensi si ritirano nella Mente sovrana: l'uomo non percepisce più e si dice che dorme."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'addormentamento è un riassorbimento centripeto: le percezioni esteriori non sono distrutte, ma si rifondono nel senso interno che ne era il coordinatore comune."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-2.json"
+  },
+  "expl-prashna-4-3": {
+    "id": "expl-prashna-4-3",
+    "target_type": "passage",
+    "target_id": "prashna-4-3",
+    "title": "I fuochi sacrificali vigilanti nella città del corpo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Mentre i sensi dormono, i fuochi di Prāṇa vegliano nella città corporea: Apāna è il fuoco Gārhapatya, Vyāna è Anvāhāryapacana, Prāṇa è Āhavanīya."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il corpo umano è un tempio vedico perenne: anche quando la coscienza ordinaria tace, i soffi vitali mantengono acceso il sacrificio sacro della respirazione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-3.json"
+  },
+  "expl-prashna-4-4": {
+    "id": "expl-prashna-4-4",
+    "target_type": "passage",
+    "target_id": "prashna-4-4",
+    "title": "La Mente come sacrificatore condotta al Brahman da Udāna",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Samāna equilibra le due oblazioni del respiro; la Mente è il sacrificatore; Udāna è il frutto del rito che ogni notte conduce la mente al Brahman."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il sonno profondo è un'anticipazione quotidiana della liberazione: ogni notte, guidata dal soffio sottile, la mente si ritira dalle illusioni per riposare nella quiete divina."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-4.json"
+  },
+  "expl-prashna-4-5": {
+    "id": "expl-prashna-4-5",
+    "target_type": "passage",
+    "target_id": "prashna-4-5",
+    "title": "La sovrana maestà creatrice della Mente nel sogno",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Nel sogno la Mente sperimenta la propria grandezza: rivive impressioni passate e crea forme mai viste; divenuta il Tutto, essa contempla il proprio mondo interiore."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Nello stato sottile la mente rivela il suo potere proiettivo: slegata dai vincoli fisici, tesse da sé l'universo delle forme, dimostrando che la realtà apparente è una creazione della coscienza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-5.json"
+  },
+  "expl-prashna-4-6": {
+    "id": "expl-prashna-4-6",
+    "target_type": "passage",
+    "target_id": "prashna-4-6",
+    "title": "La luce interiore e la beatitudine del sonno profondo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Quando la Mente è inondata dal calore radioso (tejas), non vede più sogni: allora in tutto il corpo si diffonde la pura beatitudine (sukha)."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Nel sonno profondo (suṣupti) ogni agitazione mentale svanisce nella luce originaria: non è buio o incoscienza, ma il riposo pacificato nella pienezza non-duale dell'Essere."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-6.json"
+  },
+  "expl-prashna-4-7": {
+    "id": "expl-prashna-4-7",
+    "target_type": "passage",
+    "target_id": "prashna-4-7",
+    "title": "Gli uccelli che tornano all'albero: il rifugio nel Sé Supremo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come gli uccelli tornano alla sera a posarsi sull'albero che funge loro da nido, esattamente così tutte le creature e le facoltà trovano rifugio nel Sé Supremo."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La molteplicità della manifestazione non rimane mai sospesa nel vuoto: tutte le forze dell'universo e dell'uomo rifluiscono ciclicamente nella sorgente immutabile dell'Ātman."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-7.json"
+  },
+  "expl-prashna-4-8": {
+    "id": "expl-prashna-4-8",
+    "target_type": "passage",
+    "target_id": "prashna-4-8",
+    "title": "L'inventario cosmico degli elementi, dei sensi e dell'organo interno",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Elenco monumentale di tutti i principi del reale: elementi fisici e sottili, organi di percezione e azione, mente, intelletto, ego, memoria e soffi, tutti stabiliti nel Sé."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Nulla dell'universo oggettivo o soggettivo sfugge al Principio: l'intero apparato della natura grossolana e sottile è solo una manifestazione dipendente dall'unica Coscienza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-8.json"
+  },
+  "expl-prashna-4-9": {
+    "id": "expl-prashna-4-9",
+    "target_type": "passage",
+    "target_id": "prashna-4-9",
+    "title": "Il Sé conoscente individuale stabilito nell'Imperituro",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Colui che vede, tocca, ode, pensa e agisce è il Sé conoscente (vijñānātman), la Persona vivente; ed Essa è saldamente stabilita nel Sé Supremo e Imperituro (Akṣara)."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'anima individuale (jīva) è il soggetto delle esperienze contingenti, ma la sua essenza reale non è separata dall'Assoluto: essa è radicata eternamente nell'Imperituro."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-4-9.json"
+  },
+  "expl-prashna-5-1": {
+    "id": "expl-prashna-5-1",
+    "target_type": "passage",
+    "target_id": "prashna-5-1",
+    "title": "La domanda di Satyakāma sulla meditazione estrema su Oṃ",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Śaibya Satyakāma interroga Pippalāda su quale mondo conquisti colui che medita costantemente sul monosillabo sacro Oṃ fino all'istante della morte."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'attenzione si focalizza sul Praṇava quale veicolo supremo di transizione metafisica: l'orientamento ultimo della mente determina l'esito della parabola dell'esistenza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-5-1.json"
+  },
+  "expl-prashna-5-2": {
+    "id": "expl-prashna-5-2",
+    "target_type": "passage",
+    "target_id": "prashna-5-2",
+    "title": "Oṅkāra quale supporto del Brahman Supremo e Inferiore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Pippalāda risponde che la sacra sillaba Oṃ è sia il Brahman Supremo (incondizionato) sia il Brahman Inferiore (manifesto): mediante essa il saggio consegue l'Uno o l'Altro."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La sillaba Oṃ è il simbolo universale per eccellenza: funge da scala per l'adorazione del Principio manifesto e da porta immediata per l'Assoluto incondizionato."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-5-2.json"
+  },
+  "expl-prashna-5-3": {
+    "id": "expl-prashna-5-3",
+    "target_type": "passage",
+    "target_id": "prashna-5-3",
+    "title": "La prima misura (A): il ritorno nobile nel mondo umano",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Se si medita su una sola misura (mora A), gli inni del Ṛgveda riconducono presto al mondo umano, ove si sperimenta grandezza con ascesi, disciplina e fede."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La concentrazione parziale sul livello grossolano non libera dal ciclo terrestre, ma garantisce una rinascita elevata e purificata, idonea a riprendere il cammino spirituale."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-5-3.json"
+  },
+  "expl-prashna-5-4": {
+    "id": "expl-prashna-5-4",
+    "target_type": "passage",
+    "target_id": "prashna-5-4",
+    "title": "Le due misure (A-U): l'ascesa al mondo lunare intermedio",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Se si medita su due misure (more A e U), le formule dello Yajurveda elevano la mente nello spazio intermedio e nel mondo lunare, donde si ritorna al divenire."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La padronanza del piano sottile e psichico dona la gloria dei cieli intermedi, ma essendo ancora nell'ambito delle forme, è destinata a esaurirsi costringendo a un nuovo ciclo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-5-4.json"
+  },
+  "expl-prashna-5-5": {
+    "id": "expl-prashna-5-5",
+    "target_type": "passage",
+    "target_id": "prashna-5-5",
+    "title": "Le tre misure (A-U-M): la liberazione nel Puruṣa Supremo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Chi medita con la pienezza delle tre misure sul Puruṣa Supremo si unisce al Sole, si spoglia dei peccati come il serpente della pelle ed entra nel Brahmaloka contemplando il Sé nel cuore."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La realizzazione integrale del Praṇava spezza ogni vincolo karmico: l'anima abbandona le scorie corporee e contempla direttamente il Puruṣa trascendente oltre ogni matrice creata."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-5-5.json"
+  },
+  "expl-prashna-5-6": {
+    "id": "expl-prashna-5-6",
+    "target_type": "passage",
+    "target_id": "prashna-5-6",
+    "title": "L'armonia non scissa delle tre misure e la saldezza del sapiente",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Strofa tradizionale: le tre misure prese isolatamente portano alla morte; congiunte senza scissione e applicate alle azioni della vita, donano incrollabile saldezza al saggio."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Non si deve frammentare la realtà: chi integra veglia, sogno e sonno profondo nella continuità della pura Coscienza non vacilla più dinanzi agli urti del mondo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-5-6.json"
+  },
+  "expl-prashna-5-7": {
+    "id": "expl-prashna-5-7",
+    "target_type": "passage",
+    "target_id": "prashna-5-7",
+    "title": "Il compimento supremo: lo Stato pacificato e privo di timore",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Strofa conclusiva: i tre Veda donano i mondi manifestati, ma per mezzo del supporto di Oṃ il sapiente perviene a Quello che è pacificato, immortale e supremo."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Oltre tutti i frutti celesti descritti dai testi sacri, il monosillabo sacro conduce direttamente al silenzio dell'Assoluto, dove regna la Pace e l'assoluta assenza di timore."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-5-7.json"
+  },
+  "expl-prashna-6-1": {
+    "id": "expl-prashna-6-1",
+    "target_type": "passage",
+    "target_id": "prashna-6-1",
+    "title": "La domanda di Sukeśā e l'inviolabilità sacra della Verità",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Sukeśā narra che un principe gli chiese del Puruṣa dalle sedici parti; egli ammise di non conoscerLo, poiché chi mente si dissecca fino alle radici: ora chiede a Pippalāda dove Egli sia."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La veridicità (satya) è la base ontologica della ricerca spirituale: mentire distrugge la radice stessa dell'essere. L'ammissione della propria ignoranza è il primo passo verso la vera iniziazione."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-1.json"
+  },
+  "expl-prashna-6-2": {
+    "id": "expl-prashna-6-2",
+    "target_type": "passage",
+    "target_id": "prashna-6-2",
+    "title": "La dimora interiore del Puruṣa: qui stesso nel corpo",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Pippalāda rivela il supremo segreto: quel Puruṣa nel quale hanno origine le sedici parti risiede qui stesso, all'interno del corpo umano!"
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'Assoluto non va cercato in remoti spazi cosmici: la Persona suprema che regge l'intera creazione abita nel sacrario più intimo della nostra stessa persona."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-2.json"
+  },
+  "expl-prashna-6-3": {
+    "id": "expl-prashna-6-3",
+    "target_type": "passage",
+    "target_id": "prashna-6-3",
+    "title": "La deliberazione originaria (Īkṣā) che precede l'emanazione",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Il Puruṣa contemplò in Se stesso: «All'uscita di quale principio uscirò anch'io, e al permanere di quale principio rimarrò stabilito anch'io?»."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La creazione non scaturisce da una necessità meccanica, ma dalla deliberazione cosciente originaria del Sé, che crea il supporto della vita per manifestare la Sua presenza."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-3.json"
+  },
+  "expl-prashna-6-4": {
+    "id": "expl-prashna-6-4",
+    "target_type": "passage",
+    "target_id": "prashna-6-4",
+    "title": "L'emanazione graduale delle sedici parti",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Egli generò Prāṇa, e da Prāṇa la fede, i cinque elementi (etere, aria, fuoco, acqua, terra), i sensi, la mente, il cibo, il vigore, l'ascesi, i mantra, l'azione, i mondi e il nome."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Le sedici parti costituiscono la trama completa del cosmo e dell'uomo: dallo Spirito puro primordiale fino alla fissazione formale del nome individuale, tutto deriva dall'unico Centro."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-4.json"
+  },
+  "expl-prashna-6-5": {
+    "id": "expl-prashna-6-5",
+    "target_type": "passage",
+    "target_id": "prashna-6-5",
+    "title": "I fiumi che si dissolvono nell'Oceano senza nome né forma",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Come i fiumi fluiscono nell'Oceano perdendo i propri nomi e forme particolari per essere solo l'Oceano, così le sedici parti si dissolvono nel Puruṣa, che diviene privo di parti e immortale."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'apice dell'Advaita: la liberazione è la caduta di ogni confine individuale fittizio. Riconoscendosi nell'Oceano del Sé, il nome e la forma svaniscono e permane solo l'Eterno Indivisibile."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-5.json"
+  },
+  "expl-prashna-6-6": {
+    "id": "expl-prashna-6-6",
+    "target_type": "passage",
+    "target_id": "prashna-6-6",
+    "title": "I raggi nel mozzo e il superamento dei tormenti della morte",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Strofa tradizionale: conoscete quel Puruṣa in cui le parti sono innestate come raggi nel mozzo del carro, affinché la morte non abbia più a tormentarvi."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Chi si aggrappa ai raggi (le parti periferiche mutevoli) è travolto dalla morte; chi realizza il mozzo immobile (il Puruṣa) risiede per sempre nella pace al di là del tempo."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-6.json"
+  },
+  "expl-prashna-6-7": {
+    "id": "expl-prashna-6-7",
+    "target_type": "passage",
+    "target_id": "prashna-6-7",
+    "title": "L'insuperabile confine: «Nulla vi è al di sopra di Questo!»",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Pippalāda conclude solennemente il proprio insegnamento dichiarando che fino a questo punto si estende la Conoscenza del Brahman Supremo, oltre il quale non vi è nulla."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "La dottrina metafisica giunge alla sua saturazione assoluta: oltre l'identità non-duale col Puruṣa non sussiste alcun grado ontologico ulteriore. È la fine di ogni ricerca."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-7.json"
+  },
+  "expl-prashna-6-8": {
+    "id": "expl-prashna-6-8",
+    "target_type": "passage",
+    "target_id": "prashna-6-8",
+    "title": "Il Padre spirituale che traghetta all'altra riva dell'ignoranza",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "I sei discepoli venerano Pippalāda proclamandolo loro vero Padre, poiché li ha traghettati all'altra riva dell'ignoranza (avidyā), e rendono omaggio ai supremi Veggenti."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "Il Maestro tradizionale è più del genitore corporeo: egli dona la seconda nascita spirituale, dissipando le tenebre dell'illusione e aprendo le porte dell'Immortalità eterna."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-8.json"
+  },
+  "expl-prashna-6-9": {
+    "id": "expl-prashna-6-9",
+    "target_type": "passage",
+    "target_id": "prashna-6-9",
+    "title": "Il suggello finale della Pace universale",
+    "sections": [
+      {
+        "heading": "Il senso del verso",
+        "text": "Ripresa del mantra sacro di pace (Śānti-pāṭha) dell'Atharvaveda a sigillo dell'insegnamento completato."
+      },
+      {
+        "heading": "Dottrina metafisica",
+        "text": "L'insegnamento supremo culmina nella triplice Pace (ad intra, ad extra e ad altiora): l'essere riconciliato con il Sé riposa nell'infinita armonia dell'Ordine divino."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-prashna-6-9.json"
+  },
+  "ex-isha-1-1": {
+    "id": "ex-isha-1-1",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-1"
+    },
+    "title": "Spiegazione",
+    "sections": [
+      {
+        "type": "context",
+        "title": "Il contesto",
+        "content": "Questo è il primo mantra dell'Īśāvāsya Upaniṣad (Vājasaneyi-Saṃhitā XL), l'Upaniṣad più breve del corpus canonico delle Upaniṣad principali. Il testo si apre con un'affermazione di portata universale: non una descrizione dell'Assoluto come oggetto di conoscenza, ma una prescrizione su come il mondo manifestato deve essere percepito — e su quale atteggiamento interiore ne consegue."
+      },
+      {
+        "type": "explanation",
+        "title": "Che cosa afferma il testo",
+        "content": "Il mantra afferma che la totalità del manifestato — «qualunque cosa sia mutevole e soggetta a perenne divenire in questo mondo» (yat kiñca jagatyāṃ jagat) — deve essere «ricoperta» (vāsyam) dal Signore (Īśa). Īśa è qui il Principio supremo considerato nella sua funzione di reggitore del cosmo (Īśvara), non l'Assoluto in senso rigoroso (Brahman senza attributi). La distinzione è dottrinalmente rilevante: l'Upaniṣad apre dal punto di vista della relazione tra il mondo e il Principio, non dall'identità assoluta che verrà stabilita nei mantra successivi."
+      },
+      {
+        "type": "argument",
+        "title": "Il ragionamento",
+        "content": "L'imperativo «ricopri» (vāsyam) non ha un significato etico-comportamentale primario: indica una modalità di percezione. Il mondo non cessa di essere mondo, ma viene visto come pervaso e retto da Īśa — come un tessuto è pervaso dalla sua trama. Da questa percezione segue la seconda affermazione: «per mezzo di questa rinuncia, sostieniti». La rinuncia (tyāga) di cui parla il testo non è un abbandono materiale delle cose, ma il distacco dall'appropriazione individuale — dall'illusione che le cose del mondo appartengano all'io individuale. È la distinzione tra godimento consapevole e brama (gṛdha): il secondo nasce dall'identificazione con l'individuale, il primo è compatibile con la conoscenza."
+      },
+      {
+        "type": "clarification",
+        "title": "Che cosa significa precisamente",
+        "content": "«Non bramare la ricchezza di alcuno» (mā gṛdhaḥ kasya svid dhanam) non è un precetto di povertà né un invito al disinteresse mondano in senso romantico. È la conseguenza logica della percezione corretta: se tutto è pervaso dal Principio, l'idea stessa di appropriazione individuale è metafisicamente infondata. Il «godimento» (bhuñjīthā) permesso è quello di chi ha dismesso la pretesa di possesso. Śaṅkara commenta questo mantra sottolineando che il testo non si rivolge al jñānin (conoscitore) — per il quale la questione del possesso è già risolta — ma a colui che è ancora nel regime dell'azione, indicandogli la disposizione interiore corretta."
+      },
+      {
+        "type": "implication",
+        "title": "Implicazioni dottrinali",
+        "content": "Il primo mantra introduce il problema centrale dell'intera Upaniṣad: il rapporto tra la conoscenza dell'Assoluto e la vita nel mondo manifestato. L'Upaniṣad non risolve questo rapporto con un rifiuto del manifestato, ma con la sua trasfigurazione percettiva: il mondo non è negato, ma reintegrato sotto il Principio. Questo distingue l'approccio dell'Īśāvāsya da una lettura puramente apofatica o di puro rifiuto del mondo, e spiega perché Śaṅkara abbia ritenuto necessario armonizzare questo mantra con la sua dottrina del kevala-jñāna-niṣṭhā (dimora nella conoscenza pura)."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-1.json"
+  },
+  "ex-isha-1-10": {
+    "id": "ex-isha-1-10",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-10"
+    },
+    "title": "Spiegazione di Īśā 10",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'insegnamento tradizionale dei saggi (dhīrāḥ)",
+        "content": "I saggi hanno trasmesso che il frutto dell'azione rituale (avidyā) è la purificazione e l'ascesa ai mondi dei padri (pitṛ-yāna), mentre il frutto della meditazione divina (vidyā) è l'ascesa al mondo degli dèi (deva-yāna). Entrambi sono frutti finiti all'interno della fenomenalità, ma hanno funzioni e direzioni ontologiche distinte."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-10.json"
+  },
+  "ex-isha-1-11": {
+    "id": "ex-isha-1-11",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-11"
+    },
+    "title": "Spiegazione di Īśā 11",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La coordinazione di rito e contemplazione",
+        "content": "Colui che comprende rettamente il ruolo relativo di entrambi, «superata la morte mediante l'azione purificatrice (avidyā), consegue l'immortalità relativa mediante la contemplazione interiore (vidyā)». Con l'azione compiuta senza brama egoica si estinguono i debiti karmici e la mortalità immediata; con la meditazione concentrata si consegue la liberazione graduale (krama-mukti)."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-11.json"
+  },
+  "ex-isha-1-12": {
+    "id": "ex-isha-1-12",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-12"
+    },
+    "title": "Spiegazione di Īśā 12",
+    "sections": [
+      {
+        "type": "context",
+        "title": "La dialettica di Causa non-manifestata e Effetto manifesto",
+        "content": "La seconda triade (mantra 12-14) affronta il piano cosmologico: Asambhūti è la Prakṛti primordiale non-differenziata (la Causa inespressa); Sambhūti è l'effetto manifesto, il cosmo manifestato presieduto da Hiraṇyagarbha."
+      },
+      {
+        "type": "argument",
+        "title": "L'errore della dissoluzione esclusiva",
+        "content": "Chi si immerge unicamente nella Causa latente e informe cade in un'inerzia priva di coscienza (simile al sonno profondo incosciente); chi si perde nel fascino delle molteplici manifestazioni formali cade nell'illusione della frammentazione temporale. Entrambe le vie, se isolate, allontanano dalla comprensione integrale del Principio."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-12.json"
+  },
+  "ex-isha-1-13": {
+    "id": "ex-isha-1-13",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-13"
+    },
+    "title": "Spiegazione di Īśā 13",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "I frutti distinti della Causa e dell'Effetto",
+        "content": "Come per vidyā e avidyā, i saggi hanno attestato che l'adorazione del Non-Manifesto conduce allo scioglimento nella materia primordiale (prakṛtilaya), mentre la venerazione del Manifesto conferisce poteri cosmici ed egemonia sovraterrena."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-13.json"
+  },
+  "ex-isha-1-14": {
+    "id": "ex-isha-1-14",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-14"
+    },
+    "title": "Spiegazione di Īśā 14",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La sintesi integratrice della cosmologia sacra",
+        "content": "Comprendendo simultaneamente la Causa eterna e la Distruzione periodica (vināśa) inerente a ogni forma finita, l'uomo oltrepassa la morte riconoscendo l'impermanenza di tutti gli aggregati e attinge la reintegrazione cosmica."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-14.json"
+  },
+  "ex-isha-1-15": {
+    "id": "ex-isha-1-15",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-15"
+    },
+    "title": "Spiegazione di Īśā 15",
+    "sections": [
+      {
+        "type": "context",
+        "title": "L'invocazione esatologica solare",
+        "content": "Nei mantra finali (15-18), il tono del testo diventa solenne e intimo: è la preghiera dell'uomo veritiero nel momento della transizione verso la reintegrazione definitiva."
+      },
+      {
+        "type": "clarification",
+        "title": "Il disco d'oro (hiraṇmaya pātra)",
+        "content": "«Da un disco d'oro sfavillante è velato il volto della Verità». Il disco d'oro è il sole visibile, simbolo della massima magnificenza fenomenica e della mente empirica colma di riflessi di luce. Tuttavia, lo splendore stesso di quel disco abbaglia la vista interiore: il sole astronomico e formale nasconde il Puruṣa trascendente che ne costituisce il cuore segreto. Il devoto chiede a Pūṣan di rimuovere quel velo per consentire la visione diretta del Realmente Reale."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-15.json"
+  },
+  "ex-isha-1-16": {
+    "id": "ex-isha-1-16",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-16"
+    },
+    "title": "Spiegazione di Īśā 16",
+    "sections": [
+      {
+        "type": "argument",
+        "title": "Il culmine metafisico: So'ham asmi",
+        "content": "Il veggente supplica il Principio nutritore e solare di ritirare l'eccesso accecante dei suoi raggi per contemplarne la forma supremamente benefica (kalyāṇatama). E qui scaturisce la formulazione di identità assoluta che sigilla l'Upaniṣad: «Quel Puruṣa che è lassù nel centro solare, Egli stesso io sono» (yo 'sāv asau puruṣaḥ so 'ham asmi). Non vi è più separazione tra il Sé interiore che testimonia e il Principio supremo che regge il cosmo: la dualità adoratore/adorato si estingue nell'identità pura."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-16.json"
+  },
+  "ex-isha-1-17": {
+    "id": "ex-isha-1-17",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-17"
+    },
+    "title": "Spiegazione di Īśā 17",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Il distacco dall'involucro corporeo e il richiamo all'Intelletto",
+        "content": "Il corpo materiale è destinato a terminare in cenere (bhasmāntaṃ śarīram). Il respiro vitale (prāṇa) viene rilasciato nell'Aria cosmica immortale (anila). L'invocazione «Om! O intelletto volitivo (kratu), ricorda!» richiama la facoltà spirituale direttiva a concentrarsi sull'essenziale, affinché al momento della dipartita la memoria non sia dispersa nelle forme futili ma unificata nella meta suprema."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-17.json"
+  },
+  "ex-isha-1-18": {
+    "id": "ex-isha-1-18",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-18"
+    },
+    "title": "Spiegazione di Īśā 18",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La preghiera conclusiva ad Agni",
+        "content": "Agni, il Fuoco divino e la coscienza illuminatrice delle opere, è invocato affinché conduca l'anima lungo il retto sentiero (il sentiero solare dei liberati), estirpando l'errore tortuoso e ingannevole (juhurāṇam enaḥ). L'Upaniṣad si chiude ritornando al respiro universale dello Śānti-pāṭha."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-18.json"
+  },
+  "ex-isha-1-2": {
+    "id": "ex-isha-1-2",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-2"
+    },
+    "title": "Spiegazione di Īśā 2",
+    "sections": [
+      {
+        "type": "context",
+        "title": "La distinzione dei livelli di qualificazione (adhikāra)",
+        "content": "Se il primo mantra ha insegnato la rinuncia totale a chi possiede la discriminazione intuitiva del Sé, questo secondo mantra si rivolge a colui che è ancora identificato con l'individualità empirica (nara) e non può astenersi dall'azione."
+      },
+      {
+        "type": "explanation",
+        "title": "Che cosa afferma il testo",
+        "content": "L'uomo che non ha ancora conseguito la conoscenza diretta del Sé deve attendere all'azione sacrificale e al dovere prescritto (karman) per tutto il corso naturale della vita (cento anni). Soltanto compiendo l'opera con spirito di dovere e dedizione al Signore, l'azione cessa di legare e non contamina la mente."
+      },
+      {
+        "type": "clarification",
+        "title": "Natura del disinteresse nell'azione",
+        "content": "Śaṅkara precisa con rigore che questo mantra non prescrive una combinazione (samuccaya) di azione e conoscenza per il liberato. L'azione è un mezzo preparatorio (sādhana) di purificazione interiore (sattvasuddhi); per chi è ancora vincolato all'io agente, l'adempimento fedele e disinteressato della via è l'unico rimedio contro l'adesione del karma."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-2.json"
+  },
+  "ex-isha-1-3": {
+    "id": "ex-isha-1-3",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-3"
+    },
+    "title": "Spiegazione di Īśā 3",
+    "sections": [
+      {
+        "type": "context",
+        "title": "Il destino di chi disconosce il Sé",
+        "content": "Il verso definisce asuryāḥ (privi di luce divina, demoniaci) quegli stati di esistenza post-mortem caratterizzati da cieca ignoranza e sofferenza, destinati a coloro che «uccidono il Sé» (ātmahano janāḥ)."
+      },
+      {
+        "type": "clarification",
+        "title": "Che cosa significa «uccidere il Sé»",
+        "content": "L'Ātman è incorruttibile e immortale per sua intrinseca natura: non può letteralmente essere distrutto o ferito. Śaṅkara spiega che «uccidere il proprio Sé» è una potente metafora metafisica per indicare colui che, obnubilato dall'ignoranza fondamentale (avidyā), vive e agisce ignorando la propria natura trascendente, comportandosi come se il Sé non esistesse e identificandosi esclusivamente con l'aggregato perituro di corpo e mente."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-3.json"
+  },
+  "ex-isha-1-4": {
+    "id": "ex-isha-1-4",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-4"
+    },
+    "title": "Spiegazione di Īśā 4",
+    "sections": [
+      {
+        "type": "context",
+        "title": "La trascendenza e immanenza paradossale del Sé",
+        "content": "Questo mantra introduce la celebre dialettica delle contraddizioni apparenti, tipica del linguaggio upaniṣadico quando allude all'Ineffabile."
+      },
+      {
+        "type": "argument",
+        "title": "L'analisi metafisica del paradosso",
+        "content": "Il Sé è «immobile» (anejat), privo di qualsiasi mutamento o traslazione spaziale, eppure «più rapido della mente» (manaso javīyaḥ). La mente può viaggiare istantaneamente nei luoghi più remoti dell'universo o del pensiero; eppure, dovunque essa giunga, l'Ātman è già presente come sua luce cosciente e substrato. Le facoltà sensoriali e cosmiche (devāḥ) non possono afferrarLo, perché ogni facoltà presuppone il Sé per operare. Pur rimanendo saldo in Sé, Esso supera ogni corridore."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-4.json"
+  },
+  "ex-isha-1-5": {
+    "id": "ex-isha-1-5",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-5"
+    },
+    "title": "Spiegazione di Īśā 5",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Che cosa afferma il testo",
+        "content": "«Esso si muove e non si muove; Esso è lontano ed è vicino. Esso è all'interno di tutto questo, ed Esso è all'esterno di tutto questo»."
+      },
+      {
+        "type": "clarification",
+        "title": "Risoluzione della contraddizione apparente",
+        "content": "Per l'intelletto duale, queste affermazioni sembrano mutuamente esclusive. Nella prospettiva non-duale (Advaita), l'Ātman in se stesso è assolutamente immobile e indiviso; dal punto di vista delle sovrapposizioni illusorie (upādhi) del corpo e dei sensi, sembra muoversi. È «lontano» per gli ignoranti che lo cercano all'esterno attraverso il tempo e lo spazio; è «vicinissimo» per i discriminanti, essendo il loro intimo nucleo di coscienza. È dentro ogni forma come Testimone interiore (antar-yāmin), ed è fuori di ogni forma come Trascendenza illimitata."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-5.json"
+  },
+  "ex-isha-1-6": {
+    "id": "ex-isha-1-6",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-6"
+    },
+    "title": "Spiegazione di Īśā 6",
+    "sections": [
+      {
+        "type": "context",
+        "title": "La visione dell'uomo realizzato",
+        "content": "I mantra 6 e 7 descrivono lo stato del jīvanmukta (il liberato in vita) che ha realizzato la totale dissoluzione della separatività egoica."
+      },
+      {
+        "type": "explanation",
+        "title": "L'universale non-ripulsa (vijugupsā)",
+        "content": "Chi contempla tutti gli esseri nell'Ātman e l'Ātman in tutti gli esseri non prova più alcuna ripulsa o senso di esclusione (na vijugupsate). La repulsione, il disprezzo o la paura nascono sempre dalla percezione di un «secondo», di un oggetto esterno ritenuto estraneo o ostile. Laddove si scorge un'unica ed eguale essenza in ogni creatura, la radice psicologica del conflitto e della discriminazione egoica è sradicata alla base."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-6.json"
+  },
+  "ex-isha-1-7": {
+    "id": "ex-isha-1-7",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-7"
+    },
+    "title": "Spiegazione di Īśā 7",
+    "sections": [
+      {
+        "type": "argument",
+        "title": "L'estinzione di illusione (moha) e dolore (śoka)",
+        "content": "«Quale inganno, quale dolore può sussistere per colui che scorge l'Unità essenziale?». Il dolore e l'illusione non possono coesistere con la conoscenza dell'Uno. L'illusione (moha) consiste nel ritenere reale la molteplicità indipendente; il dolore (śoka) è il contraccolpo affettivo della perdita o della privazione di ciò a cui l'ego si attacca. Quando ogni essere è riconosciuto come il Sé stesso (ātmaiva abhūt), non vi è più nulla da acquisire né nulla da perdere."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-7.json"
+  },
+  "ex-isha-1-8": {
+    "id": "ex-isha-1-8",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-8"
+    },
+    "title": "Spiegazione di Īśā 8",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La descrizione apodittica del Sé supremo",
+        "content": "Il mantra definisce con formule di assoluto rigore negativo e positivo la sostanza dell'Ātman: «luminoso (śukra), incorporeo (akāya), privo di lesione o ferita (avraṇa), privo di tendini (asnāvira), puro (śuddha), incontaminato dal male (apāpaviddha)». Tali predicati escludono sia il corpo grossolano (sthūla-śarīra) sia il corpo sottile (sūkṣma-śarīra) e il corpo causale."
+      },
+      {
+        "type": "clarification",
+        "title": "I titoli cosmici: Kavi, Manīṣin, Paribhū, Svayambhū",
+        "content": "L'Ātman è al contempo Kavi (il Veggente onnisciente), Manīṣin (il Sovrano della mente cosmica), Paribhū (Colui che tutto avvolge e trascende) e Svayambhū (Colui che è causato solo da Sé, incondizionato). È Esso che ha ordinato e distribuito gli oggetti secondo la loro oggettiva natura eterna per cicli cosmici perenni."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-8.json"
+  },
+  "ex-isha-1-9": {
+    "id": "ex-isha-1-9",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-9"
+    },
+    "title": "Spiegazione di Īśā 9",
+    "sections": [
+      {
+        "type": "context",
+        "title": "La critica dell'unilateralità: Vidyā e Avidyā",
+        "content": "Questo celebre mantra apre la triade dialettica (9-11). Avidyā designa qui la sola esecuzione esteriore delle cerimonie e delle azioni rituali prive di conoscenza meditativa; Vidyā denota la conoscenza rituale formale, ossia la meditazione sulle divinità cosmiche (upāsanā), non ancora la suprema Conoscenza non-duale dell'Assoluto."
+      },
+      {
+        "type": "argument",
+        "title": "Perché la falsa conoscenza genera tenebra più fitta",
+        "content": "Chi si affida ai soli riti grossolani senza intelligenza spirituale precipita nell'oscurità del ciclo delle rinascite; ma chi si inebria della contemplazione teorica e formale delle divinità, credendosi sapiente e compiacendosi di poteri spirituali limitati, incorre in un orgoglio intellettuale ancor più cieco e difficile da dissipare."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-9.json"
+  },
+  "ex-isha-1-shanti": {
+    "id": "ex-isha-1-shanti",
+    "target": {
+      "type": "passage",
+      "id": "isha-1-shanti"
+    },
+    "title": "Spiegazione dello Śānti-pāṭha",
+    "sections": [
+      {
+        "type": "context",
+        "title": "Il canto di pace della tradizione Vedāntica",
+        "content": "Lo Śānti-pāṭha apre e chiude la recitazione dell'Īśopaniṣad e della Bṛhadāraṇyaka Upaniṣad. La sua formulazione paradossale esprime l'assioma fondante della non-dualità metafisica attraverso il termine pūrṇa (pienezza, integralità indissolubile)."
+      },
+      {
+        "type": "explanation",
+        "title": "Che cosa afferma il testo",
+        "content": "«Quello» (adaḥ) designa il Brahman non-manifestato, la Trascendenza incondizionata; «questo» (idam) designa il cosmo manifestato, l'universo dei nomi e delle forme (nāmarūpa). Il testo dichiara che entrambi sono la medesima Pienezza: la manifestazione non è un'addizione reale all'Assoluto, né il cosmo rappresenta una perdita o una diminuzione rispetto alla sorgente."
+      },
+      {
+        "type": "argument",
+        "title": "L'argomentazione non-duale",
+        "content": "Sul piano dell'aritmetica empirica, sottraendo una quantità da un intero si ottiene un residuo minore. Sul piano dell'Infinito metafisico, invece, la derivazione del mondo fenomenico non intacca la totalità del Principio. Sottratta la pienezza dalla pienezza, la pienezza sola permane (pūrṇam evāvaśiṣyate). La manifestazione è mera apparenza (māyā/vivarta): non vi è mai stato alcun reale mutamento o frazionamento nell'Essenza immutabile."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1-shanti.json"
+  },
+  "ex-isha-1": {
+    "id": "ex-isha-1",
+    "target": {
+      "type": "unit",
+      "id": "isha-1"
+    },
+    "title": "Spiegazione della Sezione Unica dell'Īśopaniṣad",
+    "sections": [
+      {
+        "type": "context",
+        "title": "La struttura organica della sezione",
+        "content": "Composta da diciotto mantra preceduti e seguiti dallo Śānti-pāṭha («Pūrṇam adaḥ»), la sezione unica dell'Īśopaniṣad è articolata secondo un rigore geometrico: stabilisce la natura dell'Assoluto, disciplina il regime dell'azione nel mondo, demolisce le false certezze di chi isola il rito dalla meditazione, e culmina nella dissoluzione della personalità psicofisica dinanzi alla Verità."
+      },
+      {
+        "type": "explanation",
+        "title": "Orientamento per la lettura",
+        "content": "Nel commentario di Śaṅkara, questa unità viene letta come una chiarificazione progressiva: il primo mantra è indirizzato ai jñānin (coloro votati alla pura contemplazione del Sé), il secondo ai karmin (coloro che necessitano di adempiere ai doveri della vita attiva senza accumulare contaminazione karmica), mentre i mantra successivi demoliscono le illusioni gnoseologiche di ogni dualità."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-1.json"
+  },
+  "ex-isha-upanishad": {
+    "id": "ex-isha-upanishad",
+    "target": {
+      "type": "work",
+      "id": "isha-upanishad"
+    },
+    "title": "Spiegazione dell'Īśā Upaniṣad",
+    "sections": [
+      {
+        "type": "context",
+        "title": "Posizione canonica e natura dell'opera",
+        "content": "L'Īśāvāsya Upaniṣad costituisce il quarantesimo e conclusivo capitolo della Vājasaneyi-Saṃhitā (Śukla Yajurveda). A differenza della maggioranza delle altre Upaniṣad canoniche, che appartengono alla sezione dei Brāhmaṇa o degli Āraṇyaka, l'Īśā è integrata direttamente nella Saṃhitā stessa. Questa collocazione privilegiata ne sottolinea la natura sintetica e fondativa: essa unisce la prospettiva dell'azione sacrificale a quella della conoscenza metafisica suprema."
+      },
+      {
+        "type": "explanation",
+        "title": "Il nucleo dottrinale",
+        "content": "L'opera affronta il problema cardinale dell'Advaita Vedānta: come conciliare l'attività nel mondo fenomenico con la realizzazione dell'Assoluto immutabile. La risposta non risiede nella distruzione o nel mero rifiuto formale del mondo, ma nella trasmutazione della visione interiore: l'intero cosmo dinamico deve essere avviluppato dalla coscienza del Signore (Īśa). Da questa comprensione scaturisce una duplice via: quella della rinuncia pura per i qualificati alla suprema conoscenza, e quella dell'azione disinteressata per coloro che sono ancora soggetti alla dinamica dell'azione."
+      },
+      {
+        "type": "argument",
+        "title": "Lo sviluppo del trattato",
+        "content": "Il testo procede dai principi metafisici primi (Īśāvāsya, l'omnicomprensività dell'Ātman e il superamento di illusione e dolore nei mantra 1-8), attraverso l'armonizzazione dialettica degli opposti relativi (vidyā e avidyā nei mantra 9-11; sambhūti e asambhūti nei mantra 12-14), per culminare nella contemplazione esatologica solare e nell'affermazione dell'identità suprema tra il testimone interiore e il Puruṣa trascendente: so'ham asmi (mantra 15-18)."
+      }
+    ],
+    "source_file": "explanations/isha-upanishad/ex-isha-upanishad.json"
+  },
+  "ex-kena-1-1": {
+    "id": "ex-kena-1-1",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-1"
+    },
+    "title": "Spiegazione di Kena I.1",
+    "sections": [
+      {
+        "type": "context",
+        "title": "La domanda primordiale: l'origine delle funzioni cognitive",
+        "content": "L'Upaniṣad esordisce senza preamboli rituali con l'interrogazione del discepolo: «Da chi voluto e mosso si lancia il pensiero? Da chi ordinato procede il primo soffio vitale? Da chi mossa gli uomini proferiscono questa parola? Quale divinità coordina l'occhio e l'udito?»."
+      },
+      {
+        "type": "argument",
+        "title": "L'insufficienza dei meccanismi naturali",
+        "content": "Il discepolo intuisce che gli organi dei sensi e la mente non agiscono per iniziativa puramente meccanica o biologica: essendo composti e privi di coscienza propria (jaḍa), presuppongono necessariamente un principio autocosciente e sovraordinato che ne orienti l'operare."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-1.json"
+  },
+  "ex-kena-1-2": {
+    "id": "ex-kena-1-2",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-2"
+    },
+    "title": "Spiegazione di Kena I.2",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Il Fondamento delle facoltà: Udito dell'udito, Mente della mente",
+        "content": "Il maestro risponde: «Esso è l'Udito dell'udito, la Mente della mente, la Parola della parola, il Soffio vitale del soffio vitale, e l'Occhio dell'occhio». I saggi, abbandonando l'identificazione con gli organi e distaccandosi dal mondo perituro, conseguono l'immortalità."
+      },
+      {
+        "type": "clarification",
+        "title": "Il significato della formula",
+        "content": "L'espressione non indica un duplicato iperuranico dei sensi, ma la loro ragion d'essere ontologica: la coscienza pura grazie alla quale l'udito ode, la mente pensa e l'occhio vede, mentre essa stessa rimane intatta e inafferrabile da quegli stessi organi."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-2.json"
+  },
+  "ex-kena-1-3": {
+    "id": "ex-kena-1-3",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-3"
+    },
+    "title": "Spiegazione di Kena I.3",
+    "sections": [
+      {
+        "type": "argument",
+        "title": "L'inaccessibilità fenomenica del Sé",
+        "content": "«Là non giunge la vista, non giunge la parola e neppure la mente. Noi non sappiamo, non comprendiamo come si possa impartire un insegnamento su di Esso». Ogni facoltà si volge per sua natura costitutiva verso l'esterno, verso l'oggetto; non può ripiegarsi su ciò che ne costituisce il soggetto fondatore, così come una fiamma non può bruciare se stessa o un coltello tagliare la propria lama."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-3.json"
+  },
+  "ex-kena-1-4": {
+    "id": "ex-kena-1-4",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-4"
+    },
+    "title": "Spiegazione di Kena I.4",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Trascendenza rispetto al conosciuto e all'inconosciuto",
+        "content": "«Esso è radicalmente Altro da ciò che è conosciuto (vidita), ed è al di sopra di ciò che è inconosciuto (avidita)». Il conosciuto è il cosmo manifestato, l'ambito degli oggetti esperibili; l'inconosciuto è la causa primordiale non-manifestata (l'Avyākṛta). Il Brahman trascende entrambe le categorie della dualità gnoseologica."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-4.json"
+  },
+  "ex-kena-1-5": {
+    "id": "ex-kena-1-5",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-5"
+    },
+    "title": "Spiegazione di Kena I.5",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La parola e l'inesprimibile",
+        "content": "«Ciò che non è proferito dalla parola, ma mediante cui la parola è espressa: riconosci che Quello solo è il Brahman, e non ciò che qui gli uomini venerano». Il linguaggio umano può designare classi, azioni o attributi di oggetti finiti; non può denominare la Pura Coscienza che è all'origine del suono stesso."
+      },
+      {
+        "type": "implication",
+        "title": "Rottura con l'idolatria formale",
+        "content": "Il ritornello («nedam yad idam upāsate») demolisce ogni identificazione del Brahman con una divinità oggettivata o con un idolo mentale concepito all'interno delle forme dell'immaginazione."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-5.json"
+  },
+  "ex-kena-1-6": {
+    "id": "ex-kena-1-6",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-6"
+    },
+    "title": "Spiegazione di Kena I.6",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La mente e l'inconcepibile",
+        "content": "«Ciò che non può essere pensato con la mente, ma mediante cui la mente stessa è pensata: riconosci che Quello solo è il Brahman». La mente è un organo interno riflesso (antaḥkaraṇa): non può contenere l'Infinito che ne è il Testimone luminoso."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-6.json"
+  },
+  "ex-kena-1-7": {
+    "id": "ex-kena-1-7",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-7"
+    },
+    "title": "Spiegazione di Kena I.7",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La vista e la Luce invisibile",
+        "content": "«Ciò che non si può vedere mediante l'occhio, ma per mezzo di cui gli occhi percepiscono i colori e le forme: riconosci che Quello solo è il Brahman»."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-7.json"
+  },
+  "ex-kena-1-8": {
+    "id": "ex-kena-1-8",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-8"
+    },
+    "title": "Spiegazione di Kena I.8",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'udito e la Percezione originaria",
+        "content": "«Ciò che non si ode per mezzo dell'udito, ma mediante cui l'udito ode il suono: riconosci che Quello solo è il Brahman»."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-8.json"
+  },
+  "ex-kena-1-9": {
+    "id": "ex-kena-1-9",
+    "target": {
+      "type": "passage",
+      "id": "kena-1-9"
+    },
+    "title": "Spiegazione di Kena I.9",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Il soffio vitale e il Vivificatore trascendente",
+        "content": "«Ciò che non è animato dal soffio vitale, ma mediante cui il soffio vitale è guidato: riconosci che Quello solo è il Brahman». Si chiude così la formulazione quintuplice delle facoltà cosmiche e micro-cosmiche."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1-9.json"
+  },
+  "ex-kena-1": {
+    "id": "ex-kena-1",
+    "target": {
+      "type": "unit",
+      "id": "kena-1"
+    },
+    "title": "Spiegazione del Primo Canto della Kena Upaniṣad",
+    "sections": [
+      {
+        "type": "context",
+        "title": "L'interrogazione interiore e la risposta apodittica",
+        "content": "Questo primo canto formula la domanda gnoseologica suprema ed espone la formula apodittica ripetuta come un ritornello sacro nei versi 5-9: «Riconosci che Quello solo è il Brahman, e non ciò che la gente qui venera come divinità oggettiva»."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-1.json"
+  },
+  "ex-kena-2-1": {
+    "id": "ex-kena-2-1",
+    "target": {
+      "type": "passage",
+      "id": "kena-2-1"
+    },
+    "title": "Spiegazione di Kena II.1",
+    "sections": [
+      {
+        "type": "argument",
+        "title": "Il monito del Maestro contro la presunzione gnoseologica",
+        "content": "Se ritieni: «Io Lo conosco bene», invero ben poco conosci della reale natura del Brahman. Chi presume di aver compreso il Brahman come una nozione definita ha ridotto l'Incondizionato a un concetto mentale, cadendo nell'illusione dell'oggettivazione."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-2-1.json"
+  },
+  "ex-kena-2-2": {
+    "id": "ex-kena-2-2",
+    "target": {
+      "type": "passage",
+      "id": "kena-2-2"
+    },
+    "title": "Spiegazione di Kena II.2",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La risposta del discepolo: il superamento della dualità conoscitiva",
+        "content": "Il discepolo afferma: «Io non ritengo di conoscerLo compiutamente; e tuttavia non posso dire di non conoscerLo. Chi tra noi comprende questo mistero, costui Lo conosce: Non Lo conosco, eppure Lo conosco!»."
+      },
+      {
+        "type": "clarification",
+        "title": "Il rigore della non-conoscenza oggettiva",
+        "content": "Non è ignoranza né scetticismo, ma l'esatta consapevolezza che il Sé non può mai essere un oggetto conosciuto (vidita), ma non è neppure ignoto ed estraneo, essendo il fondamento stesso di chi cerca."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-2-2.json"
+  },
+  "ex-kena-2-3": {
+    "id": "ex-kena-2-3",
+    "target": {
+      "type": "passage",
+      "id": "kena-2-3"
+    },
+    "title": "Spiegazione di Kena II.3",
+    "sections": [
+      {
+        "type": "argument",
+        "title": "La formula del paradosso gnoseologico",
+        "content": "«Da colui per il quale Esso è inconcepibile alla mente, Esso è compreso; colui che ritiene di averLo compreso, non Lo conosce. Esso è ignoto a coloro che credono di sapere; è conosciuto da coloro che hanno dismesso la falsa sapienza concettuale»."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-2-3.json"
+  },
+  "ex-kena-2-4": {
+    "id": "ex-kena-2-4",
+    "target": {
+      "type": "passage",
+      "id": "kena-2-4"
+    },
+    "title": "Spiegazione di Kena II.4",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Il Pratibodha-viditam: il Brahman in ogni atto di coscienza",
+        "content": "«Quando il Brahman è riconosciuto come il Testimone immanente in ciascun atto di cognizione (pratibodha-viditam), allora soltanto Esso è realmente conosciuto: per mezzo di tale intuizione si consegue l'Immortalità». La realizzazione non richiede l'attesa di un'esperienza estatica straordinaria: il Sé brilla costantemente come la presenza testimoniante che accompagna e illumina ogni singolo pensiero, percezione o ricordo."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-2-4.json"
+  },
+  "ex-kena-2-5": {
+    "id": "ex-kena-2-5",
+    "target": {
+      "type": "passage",
+      "id": "kena-2-5"
+    },
+    "title": "Spiegazione di Kena II.5",
+    "sections": [
+      {
+        "type": "context",
+        "title": "L'urgenza esistenziale della realizzazione in vita",
+        "content": "«Se un uomo perviene alla Sua Conoscenza qui, in questa vita terrena, la Verità suprema è conseguita (satyam asti). Se non perviene a ConoscerLo in questa vita, per lui la perdita è immensa (mahatī vinaṣṭiḥ)». I saggi, discernendo il Sé in ogni essere, divengono immortali al momento del distacco corporeo."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-2-5.json"
+  },
+  "ex-kena-2": {
+    "id": "ex-kena-2",
+    "target": {
+      "type": "unit",
+      "id": "kena-2"
+    },
+    "title": "Spiegazione del Secondo Canto della Kena Upaniṣad",
+    "sections": [
+      {
+        "type": "context",
+        "title": "Il paradosso gnoseologico e la dottrina del Pratibodha",
+        "content": "Il secondo canto affronta la verifica del discepolo e culmina nella definizione cardine dell'Advaita Vedānta: la realizzazione del Brahman attraverso ogni atto di coscienza (pratibodha-vidita)."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-2.json"
+  },
+  "ex-kena-3-1": {
+    "id": "ex-kena-3-1",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-1"
+    },
+    "title": "Spiegazione di Kena III.1",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La vittoria del Brahman concessa agli dèi",
+        "content": "Il Brahman operò la vittoria per gli dèi, ma essi non riconobbero il Principio invisibile, celebrando se stessi con orgoglio."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-1.json"
+  },
+  "ex-kena-3-10": {
+    "id": "ex-kena-3-10",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-10"
+    },
+    "title": "Spiegazione di Kena III.10",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'impotenza della Tempesta dinanzi al filo d'erba",
+        "content": "Lo Yakṣa pone dinnanzi a lui il filo d'erba. Vāyu si scatena con la furia di tutti gli uragani cosmici, ma non riesce a smuoverlo di un millimetro. Anch'egli si ritira sconfitto."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-10.json"
+  },
+  "ex-kena-3-11": {
+    "id": "ex-kena-3-11",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-11"
+    },
+    "title": "Spiegazione di Kena III.11",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'approccio di Indra e la sparizione dello Yakṣa",
+        "content": "Indra, sovrano supremo degli dèi e simbolo dell'intelletto (buddhi), si muove verso la Presenza. Ma lo Yakṣa scompare all'istante dinanzi a lui, insegnando che l'Assoluto non si lascia afferrare direttamente dall'io sovrano."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-11.json"
+  },
+  "ex-kena-3-12": {
+    "id": "ex-kena-3-12",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-12"
+    },
+    "title": "Spiegazione di Kena III.12",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'incontro con Umā Haimavatī nell'Ākāśa",
+        "content": "Nello spazio eterico della coscienza pura, Indra si imbatte in una Donna di sfavillante bellezza regale: Umā Haimavatī, la Grazia mediatrice della Conoscenza divina (Brahma-vidyā personificata)."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-12.json"
+  },
+  "ex-kena-3-2": {
+    "id": "ex-kena-3-2",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-2"
+    },
+    "title": "Spiegazione di Kena III.2",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'illusione dell'egemonia propria e l'apparizione dello Yakṣa",
+        "content": "Il Brahman, conoscendo la loro arroganza, apparve loro sotto la forma di un Misterioso Essere venerabile (Yakṣa). Gli dèi, turbati dalla maestà sconosciuta, non seppero riconoscerLo."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-2.json"
+  },
+  "ex-kena-3-3": {
+    "id": "ex-kena-3-3",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-3"
+    },
+    "title": "Spiegazione di Kena III.3",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'invio di Agni verso la Presenza",
+        "content": "Gli dèi inviano Agni Jātavedas, colui che possiede la sapienza delle cose generate, per identificare la Presenza."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-3.json"
+  },
+  "ex-kena-3-4": {
+    "id": "ex-kena-3-4",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-4"
+    },
+    "title": "Spiegazione di Kena III.4",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'interrogazione dell'identità di Agni",
+        "content": "La Presenza domanda ad Agni chi egli sia, ed egli risponde esaltando il suo nome e la sua fama cosmica."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-4.json"
+  },
+  "ex-kena-3-5": {
+    "id": "ex-kena-3-5",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-5"
+    },
+    "title": "Spiegazione di Kena III.5",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La vana pretesa di onnipotenza combustiva",
+        "content": "Agni dichiara con orgoglio di poter incenerire qualsiasi cosa esista sulla terra."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-5.json"
+  },
+  "ex-kena-3-6": {
+    "id": "ex-kena-3-6",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-6"
+    },
+    "title": "Spiegazione di Kena III.6",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'umiliazione del Fuoco dinanzi al filo d'erba",
+        "content": "Lo Yakṣa pone dinnanzi a lui un fragile filo d'erba. Agni si slancia con tutto il suo furore infuocato, ma è incapace di bruciarlo. Ritorna confuso e impotente dagli altri dèi: la potenza del fuoco deriva solo dal Brahman."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-6.json"
+  },
+  "ex-kena-3-7": {
+    "id": "ex-kena-3-7",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-7"
+    },
+    "title": "Spiegazione di Kena III.7",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'invio di Vāyu verso lo Spirito",
+        "content": "Gli dèi inviano Vāyu, il Soffio cosmico e sovrano dello spazio atmosferico."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-7.json"
+  },
+  "ex-kena-3-8": {
+    "id": "ex-kena-3-8",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-8"
+    },
+    "title": "Spiegazione di Kena III.8",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'interrogazione dell'identità di Vāyu",
+        "content": "La Presenza domanda chi egli sia, e Vāyu proclama il proprio nome altisonante di Mātariśvan."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-8.json"
+  },
+  "ex-kena-3-9": {
+    "id": "ex-kena-3-9",
+    "target": {
+      "type": "passage",
+      "id": "kena-3-9"
+    },
+    "title": "Spiegazione di Kena III.9",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La vana pretesa del Vento",
+        "content": "Vāyu dichiara di poter spazzare via e afferrare qualunque cosa sussista nel mondo manifestato."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3-9.json"
+  },
+  "ex-kena-3": {
+    "id": "ex-kena-3",
+    "target": {
+      "type": "unit",
+      "id": "kena-3"
+    },
+    "title": "Spiegazione del Terzo Canto della Kena Upaniṣad",
+    "sections": [
+      {
+        "type": "context",
+        "title": "L'allegoria dello Yakṣa e la cecità degli dèi",
+        "content": "Il terzo canto introduce la narrazione mitico-simbolica: gli dèi cosmici ottengono una grande vittoria contro i demoni (le potenze del caos), ma si inorgogliscono attribuendo il trionfo alla propria potenza individuale."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-3.json"
+  },
+  "ex-kena-4-1": {
+    "id": "ex-kena-4-1",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-1"
+    },
+    "title": "Spiegazione di Kena IV.1",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La rivelazione: «Era il Brahman!»",
+        "content": "Umā svela ad Indra la Verità: colui che è apparso era il Brahman supremo, ed è unicamente grazie alla Sua potenza e vittoria che gli dèi godono di gloria."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-1.json"
+  },
+  "ex-kena-4-2": {
+    "id": "ex-kena-4-2",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-2"
+    },
+    "title": "Spiegazione di Kena IV.2",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Il rango primaziale degli dèi che toccarono la Presenza",
+        "content": "Agni, Vāyu e Indra superano gli altri dèi poiché furono i primi a giungere a contatto immediato con il Brahman."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-2.json"
+  },
+  "ex-kena-4-3": {
+    "id": "ex-kena-4-3",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-3"
+    },
+    "title": "Spiegazione di Kena IV.3",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Il primato assoluto di Indra",
+        "content": "Indra eccelle su tutti poiché fu il primo a comprendere direttamente la Verità dalla bocca di Umā."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-3.json"
+  },
+  "ex-kena-4-4": {
+    "id": "ex-kena-4-4",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-4"
+    },
+    "title": "Spiegazione di Kena IV.4",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'analogia macrocosmica del lampo (adhidaivata)",
+        "content": "«Di Questo Brahman tale è l'indicazione per analogia nell'ordine cosmico: è come lo sfolgorio improvviso del lampo che illumina l'orizzonte, o come il battito di ciglia degli occhi». L'intuizione metafisica scende come una folgore fulminea e istantanea che dissipa d'un colpo la notte dell'illusione cosmica."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-4.json"
+  },
+  "ex-kena-4-5": {
+    "id": "ex-kena-4-5",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-5"
+    },
+    "title": "Spiegazione di Kena IV.5",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "L'analogia microcosmica dell'intuizione mentale (adhyātma)",
+        "content": "Nell'interiorità dell'uomo, l'indicazione del Brahman è quel moto istantaneo della mente che sembra toccarLo, mediante il quale la memoria spirituale (saṅkalpa) si raccoglie e Lo rammenta con ardente devozione."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-5.json"
+  },
+  "ex-kena-4-6": {
+    "id": "ex-kena-4-6",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-6"
+    },
+    "title": "Spiegazione di Kena IV.6",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Il nome segreto: Tadvana",
+        "content": "Il Brahman è celebrato con il nome segreto di Tadvana («il Desiderabile supremo», l'Oggetto ultimo di ogni autentica aspirazione). Colui che contempla il Brahman con tale consapevolezza diviene amato e riverito da tutti gli esseri creati."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-6.json"
+  },
+  "ex-kena-4-7": {
+    "id": "ex-kena-4-7",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-7"
+    },
+    "title": "Spiegazione di Kena IV.7",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "La compiutezza della Dottrina segreta",
+        "content": "Al discepolo che domanda: «Signore, insegnami l'Upaniṣad», il maestro risponde: «Ti è già stata esposta l'Upaniṣad; invero, ti abbiamo insegnato per intero la dottrina segreta riguardante il Brahman!». Non vi sono ulteriori segreti esteriori: la conoscenza è compiuta nell'intuizione diretta."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-7.json"
+  },
+  "ex-kena-4-8": {
+    "id": "ex-kena-4-8",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-8"
+    },
+    "title": "Spiegazione di Kena IV.8",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "I piedistalli della Sapienza: Tapas, Dama e Karman",
+        "content": "Il maestro espone le basi operative che sostengono la dottrina: il fervore ascetico interiore (tapas), il dominio impeccabile dei sensi e delle facoltà (dama), e l'azione rituale disinteressata (karman). I Veda completi con le loro membra sussidiarie sono il suo corpo d'appoggio; la Verità (satya) è la sua dimora indistruttibile."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-8.json"
+  },
+  "ex-kena-4-9": {
+    "id": "ex-kena-4-9",
+    "target": {
+      "type": "passage",
+      "id": "kena-4-9"
+    },
+    "title": "Spiegazione di Kena IV.9",
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Il compimento supremo: la Dimora celeste incondizionata",
+        "content": "«Colui che conosce in tal modo questa dottrina segreta, scosso da sé ogni velo di male e di errore, rimane saldamente stabilito nell'infinito, inconcussibile e supremo Mondo Celeste dell'Assoluto: là egli dimora in eterno». Si conclude così gloriosamente la Kena Upaniṣad."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4-9.json"
+  },
+  "ex-kena-4": {
+    "id": "ex-kena-4",
+    "target": {
+      "type": "unit",
+      "id": "kena-4"
+    },
+    "title": "Spiegazione del Quarto Canto della Kena Upaniṣad",
+    "sections": [
+      {
+        "type": "context",
+        "title": "La rivelazione, le analogie e i fondamenti della dottrina segreta",
+        "content": "Il quarto canto disvela l'identità dello Yakṣa, stabilisce le analogie cosmiche e microcosimiche del lampo e della mente, ed enuncia i fondamenti pratici (tapas, dama, karman) della Brahma-vidyā."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-4.json"
+  },
+  "ex-kena-shanti": {
+    "id": "ex-kena-shanti",
+    "target": {
+      "type": "passage",
+      "id": "kena-shanti"
+    },
+    "title": "Spiegazione dello Śānti-pāṭha del Sāmaveda",
+    "sections": [
+      {
+        "type": "context",
+        "title": "L'invocazione propedeutica allo studio",
+        "content": "La preghiera tradizionale del Sāmaveda implora la pienezza e il vigore delle facoltà corporee e intellettuali, formulando l'ideale dell'assoluta reciprocità interiore: «Possa io non rinnegare il Brahman, possa il Brahman non respingere me; che non vi sia alcun disconoscimento da parte mia»."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-shanti.json"
+  },
+  "ex-kena-upanishad": {
+    "id": "ex-kena-upanishad",
+    "target": {
+      "type": "work",
+      "id": "kena-upanishad"
+    },
+    "title": "Spiegazione della Kena Upaniṣad",
+    "sections": [
+      {
+        "type": "context",
+        "title": "Posizione canonica e struttura del testo",
+        "content": "La Kena Upaniṣad appartiene alla scuola Jaiminīya (o Talavakāra) del Sāmaveda. Prende il nome dalla parola inaugurale della sua domanda di apertura: «Kena?» («Da chi?», «Per impulso di quale principio?»). Si suddivide in quattro canti (khaṇḍa): i primi due in versi e prosa dialettica altamente metafisica, gli ultimi due strutturati attorno alla celebre allegoria epica dell'apparizione dello Yakṣa agli dèi."
+      },
+      {
+        "type": "explanation",
+        "title": "La questione fondamentale: la non-oggettivabilità del Brahman",
+        "content": "Il trattato si concentra rigorosamente sul paradosso della soggettività pura: il Brahman non è un oggetto che possa essere percepito dai sensi, formulato dal linguaggio o concettualizzato dalla mente empirica. Esso è il soggetto ultimo, il fondamento anteriore e la luce trascendente che rende possibili la vista, l'udito, il pensiero e la parola stessa. Per tale ragione, conoscere il Brahman non significa apprenderLo come si apprende un oggetto esterno, bensì realizzare la propria identità originaria con il Testimone incorporeo."
+      }
+    ],
+    "source_file": "explanations/kena-upanishad/ex-kena-upanishad.json"
   }
 }

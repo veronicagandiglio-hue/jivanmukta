@@ -11,6 +11,20 @@
     "sreyas-e-preyas",
     "vidya-e-avidya"
   ],
+  "pippalada": [
+    "aksara",
+    "pitriyana-e-devayana",
+    "prajapati",
+    "prana",
+    "rayi",
+    "sodasa-kala",
+    "svapna-e-susupti",
+    "vijnanatman"
+  ],
+  "shankara": [
+    "aksara",
+    "jivanmukti"
+  ],
   "vedic-rishis": [
     "atma-han",
     "atman",
@@ -51,10 +65,23 @@
     "vidita-avidita",
     "vidya"
   ],
-  "shankara": [
-    "jivanmukti"
+  "bhargava": [
+    "prana"
+  ],
+  "kausalya": [
+    "prana"
+  ],
+  "kabandhi": [
+    "rayi"
+  ],
+  "sukesha": [
+    "sodasa-kala"
   ],
   "naciketas": [
     "sreyas-e-preyas"
+  ],
+  "sauryayani": [
+    "svapna-e-susupti",
+    "vijnanatman"
   ]
 }

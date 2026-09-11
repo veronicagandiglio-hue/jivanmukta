@@ -21,6 +21,27 @@
     ],
     "source_file": "concepts/adhyatma-yoga.json"
   },
+  "aksara": {
+    "id": "aksara",
+    "name": "Akṣara",
+    "transliteration": "Akṣara",
+    "gloss": "L'Imperituro, il Principio Assoluto incorporeo, privo di ombra e immacolato, la cui realizzazione conferisce l'Onniscienza e l'identità con il Tutto.",
+    "passages": [
+      "prashna-4-9",
+      "prashna-4-10",
+      "prashna-4-11",
+      "prashna-5-5"
+    ],
+    "related_concepts": [
+      "brahman",
+      "purusha"
+    ],
+    "authors": [
+      "pippalada",
+      "shankara"
+    ],
+    "source_file": "concepts/aksara.json"
+  },
   "asvattha-albero-cosmico": {
     "id": "asvattha-albero-cosmico",
     "name": "Aśvattha cosmico",
@@ -338,6 +359,73 @@
     ],
     "source_file": "concepts/om-pranava.json"
   },
+  "pitriyana-e-devayana": {
+    "id": "pitriyana-e-devayana",
+    "name": "Pitṛyāṇa e Devayāna",
+    "transliteration": "Pitṛyāṇa e Devayāna",
+    "gloss": "I due sentieri dell'ordine postumo: la via lunare meridionale dell'azione legata al ritorno ciclico e la via solare settentrionale della Conoscenza che conduce all'Immortalità.",
+    "passages": [
+      "prashna-1-9",
+      "prashna-1-10"
+    ],
+    "related_concepts": [
+      "prana",
+      "rayi",
+      "brahman"
+    ],
+    "authors": [
+      "pippalada"
+    ],
+    "source_file": "concepts/pitriyana-e-devayana.json"
+  },
+  "prajapati": {
+    "id": "prajapati",
+    "name": "Prajāpati",
+    "transliteration": "Prajāpati",
+    "gloss": "Il Signore della generazione che, mediante l'ardore contemplativo (tapas), emana la dualità polare Prāṇa-Rayi e si manifesta nei cicli cosmici.",
+    "passages": [
+      "prashna-1-4",
+      "prashna-1-9",
+      "prashna-1-12",
+      "prashna-1-13",
+      "prashna-1-14",
+      "prashna-2-7"
+    ],
+    "related_concepts": [
+      "prana",
+      "rayi"
+    ],
+    "authors": [
+      "pippalada"
+    ],
+    "source_file": "concepts/prajapati.json"
+  },
+  "prana": {
+    "id": "prana",
+    "name": "Prāṇa",
+    "transliteration": "Prāṇa",
+    "gloss": "Il Soffio vitale primordiale, principio cosmico attivo, solare e formatore, perno universale sul quale riposano tutti gli esseri e le facoltà.",
+    "passages": [
+      "prashna-1-4",
+      "prashna-1-5",
+      "prashna-2-3",
+      "prashna-2-6",
+      "prashna-3-3",
+      "prashna-4-3",
+      "prashna-6-4"
+    ],
+    "related_concepts": [
+      "rayi",
+      "atman",
+      "sodasa-kala"
+    ],
+    "authors": [
+      "pippalada",
+      "bhargava",
+      "kausalya"
+    ],
+    "source_file": "concepts/prana.json"
+  },
   "pratistha": {
     "id": "pratistha",
     "name": "Pratiṣṭhā",
@@ -397,6 +485,29 @@
     ],
     "source_file": "concepts/purusha.json"
   },
+  "rayi": {
+    "id": "rayi",
+    "name": "Rayi",
+    "transliteration": "Rayi",
+    "gloss": "La Materia potenziale universale, principio passivo, plastico e lunare, matrice di tutte le forme visibili e sottili del cosmo.",
+    "passages": [
+      "prashna-1-4",
+      "prashna-1-5",
+      "prashna-1-9",
+      "prashna-1-12",
+      "prashna-1-13",
+      "prashna-2-5"
+    ],
+    "related_concepts": [
+      "prana",
+      "prajapati"
+    ],
+    "authors": [
+      "pippalada",
+      "kabandhi"
+    ],
+    "source_file": "concepts/rayi.json"
+  },
   "sakshin": {
     "id": "sakshin",
     "name": "Sākṣin / Pratibodha",
@@ -454,6 +565,28 @@
     ],
     "source_file": "concepts/satya.json"
   },
+  "sodasa-kala": {
+    "id": "sodasa-kala",
+    "name": "Sedici Parti",
+    "transliteration": "Ṣoḍaśa-kalā",
+    "gloss": "L'architettura delle sedici determinazioni contingenti proiettate dal Puruṣa, che si dissolvono in Esso come fiumi nell'Oceano all'atto della Conoscenza.",
+    "passages": [
+      "prashna-6-1",
+      "prashna-6-2",
+      "prashna-6-4",
+      "prashna-6-5",
+      "prashna-6-6"
+    ],
+    "related_concepts": [
+      "purusha",
+      "prana"
+    ],
+    "authors": [
+      "pippalada",
+      "sukesha"
+    ],
+    "source_file": "concepts/sodasa-kala.json"
+  },
   "soham": {
     "id": "soham",
     "name": "So'ham asmi",
@@ -492,6 +625,26 @@
       "naciketas"
     ],
     "source_file": "concepts/sreyas-e-preyas.json"
+  },
+  "svapna-e-susupti": {
+    "id": "svapna-e-susupti",
+    "name": "Svapna e Suṣupti",
+    "transliteration": "Svapna e Suṣupti",
+    "gloss": "Gli stati interiori dell'essere: la proiezione delle forme sottili nel sogno e il riassorbimento beato privo di dualità nel sonno profondo.",
+    "passages": [
+      "prashna-4-2",
+      "prashna-4-5",
+      "prashna-4-6"
+    ],
+    "related_concepts": [
+      "atman",
+      "vijnanatman"
+    ],
+    "authors": [
+      "pippalada",
+      "sauryayani"
+    ],
+    "source_file": "concepts/svapna-e-susupti.json"
   },
   "tadvana": {
     "id": "tadvana",
@@ -606,5 +759,24 @@
       "adi-shankara"
     ],
     "source_file": "concepts/vidya.json"
+  },
+  "vijnanatman": {
+    "id": "vijnanatman",
+    "name": "Vijñānātman",
+    "transliteration": "Vijñānātman",
+    "gloss": "Il Sé conoscente o intelligenza individuale (jīva), soggetto dell'esperienza e dell'azione che poggia sul Sé Supremo e Imperituro.",
+    "passages": [
+      "prashna-4-9",
+      "prashna-4-11"
+    ],
+    "related_concepts": [
+      "atman",
+      "aksara"
+    ],
+    "authors": [
+      "pippalada",
+      "sauryayani"
+    ],
+    "source_file": "concepts/vijnanatman.json"
   }
 }

@@ -94,7 +94,7 @@ class ImportReport {
     this.created = [];   // { kind, id, file }
     this.linked = [];    // { kind, id }  -- già esisteva, identico, nessuna scrittura
     this.updated = [];   // { kind, id, file } -- aggiornamento additivo consentito (solo work.editorial_units)
-    this.conflicts = []; // { kind, id, file, reason }
+    this.conflicts = []; // { kind, id, file, reason } -- conservato per compatibilità del report
     this.errors = [];    // stringhe: bloccano l'intera importazione
   }
   get hasConflicts() { return this.conflicts.length > 0; }
@@ -135,15 +135,13 @@ function upsertEntity(dirName, kind, entity, report, dryRun, opts) {
       writeJSONPretty(file, entity);
       return;
     }
-    report.conflicts.push({
-      kind,
-      id: entity.id,
-      file: path.relative(ROOT, file),
-      reason:
-        `Esiste già un ${kind} con id "${entity.id}" ma con contenuto diverso ` +
-        `da quello proposto nel pacchetto. Nessuna scrittura eseguita. ` +
-        `Serve una richiesta esplicita di aggiornamento per modificarlo.`
-    });
+    const merged = mergeExistingEntity(existing, entity);
+    if (deepEqual(existing, merged)) {
+      report.linked.push({ kind, id: entity.id });
+      return;
+    }
+    report.updated.push({ kind, id: entity.id, file: path.relative(ROOT, file) });
+    if (!dryRun) writeJSONPretty(file, merged);
     return;
   }
 
@@ -152,6 +150,27 @@ function upsertEntity(dirName, kind, entity, report, dryRun, opts) {
 
   fs.mkdirSync(dir, { recursive: true });
   writeJSONPretty(file, entity);
+}
+
+/**
+ * Mantiene il contenuto editoriale locale e incorpora solo informazioni
+ * additive del pacchetto: gli array vengono uniti senza duplicati, mentre
+ * i valori scalari e gli oggetti già approvati restano invariati.
+ */
+function mergeExistingEntity(existing, candidate) {
+  const merged = { ...existing };
+  for (const [key, value] of Object.entries(candidate)) {
+    if (!(key in existing)) {
+      merged[key] = value;
+    } else if (Array.isArray(existing[key]) && Array.isArray(value)) {
+      for (const item of value) {
+        if (!existing[key].some((existingItem) => deepEqual(existingItem, item))) {
+          merged[key].push(item);
+        }
+      }
+    }
+  }
+  return merged;
 }
 
 /**

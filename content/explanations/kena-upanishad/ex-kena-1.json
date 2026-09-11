@@ -1,0 +1,15 @@
+{
+  "id": "ex-kena-1",
+  "target": {
+    "type": "unit",
+    "id": "kena-1"
+  },
+  "title": "Spiegazione del Primo Canto della Kena Upaniṣad",
+  "sections": [
+    {
+      "type": "context",
+      "title": "L'interrogazione interiore e la risposta apodittica",
+      "content": "Questo primo canto formula la domanda gnoseologica suprema ed espone la formula apodittica ripetuta come un ritornello sacro nei versi 5-9: «Riconosci che Quello solo è il Brahman, e non ciò che la gente qui venera come divinità oggettiva»."
+    }
+  ]
+}

@@ -85,6 +85,20 @@
     ]
   },
   {
+    "id": "q-che-cose-il-prana",
+    "scope": "local",
+    "type": "great",
+    "text": "Qual è la natura, la dignità e la funzione universale del Soffio vitale (Prāṇa)?",
+    "problem": "Definire se il Prāṇa sia una mera funzione fisiologica o il perno metafisico universale della vita emanato dall'Ātman.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "prana",
+      "atman"
+    ]
+  },
+  {
     "id": "q-che-cose-il-se",
     "scope": "global",
     "type": "great",
@@ -117,6 +131,21 @@
     ]
   },
   {
+    "id": "q-chi-e-il-purusha-delle-sedici-parti",
+    "scope": "local",
+    "type": "great",
+    "text": "Chi è il Puruṣa costituito di sedici parti e dove risiede?",
+    "problem": "Riconoscere che l'Assoluto privo di parti risiede nel centro del corpo e che tutte le determinazioni si risolvono in Esso come fiumi nel mare.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "purusha",
+      "sodasa-kala",
+      "atman"
+    ]
+  },
+  {
     "id": "q-come-si-conosce-il-brahman",
     "scope": "local",
     "type": "great",
@@ -146,6 +175,22 @@
     ]
   },
   {
+    "id": "q-da-dove-ha-origine-il-cosmo",
+    "scope": "local",
+    "type": "great",
+    "text": "Da dove scaturiscono tutte le creature e la molteplicità dell'universo?",
+    "problem": "Comprendere l'origine cosmogonica non come creazione ex nihilo ma come proiezione polare di Essenza (Prāṇa) e Sostanza (Rayi) da parte del Principio.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "prajapati",
+      "prana",
+      "rayi",
+      "brahman"
+    ]
+  },
+  {
     "id": "q-dialettica-sambhuti-asambhuti",
     "scope": "local",
     "type": "comparison",
@@ -172,6 +217,21 @@
       "vidya",
       "avidya",
       "karman"
+    ]
+  },
+  {
+    "id": "q-dissoluzione-delle-parti-nell-oceano-del-se",
+    "scope": "global",
+    "type": "great",
+    "text": "Come si compie il riassorbimento finale dei nomi e delle forme (nāmarūpa) nel Puruṣa incondizionato?",
+    "problem": "Spiegare la scomparsa ontologica delle sedici parti senza residuo duale all'atto della reintegrazione liberatrice.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "sodasa-kala",
+      "purusha",
+      "aksara"
     ]
   },
   {
@@ -449,6 +509,36 @@
     ]
   },
   {
+    "id": "q-polarita-primordiale-prana-rayi",
+    "scope": "global",
+    "type": "great",
+    "text": "In che modo la dualità cosmogonica tra Prāṇa e Rayi governa l'intero ordine cosmico?",
+    "problem": "Comprendere l'articolazione tra principio formale-solare e matrice materiale-lunare nelle manifestazioni del tempo.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "prana",
+      "rayi",
+      "prajapati"
+    ]
+  },
+  {
+    "id": "q-qual-e-il-valore-della-sillaba-om",
+    "scope": "local",
+    "type": "great",
+    "text": "Qual è il valore metafisico e l'efficacia liberatrice della meditazione su Oṃ?",
+    "problem": "Stabilire come le misure fonico-ontologiche del Praṇava conducano gradualmente ai vari mondi fino al Puruṣa Supremo.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "om-pranava",
+      "brahman",
+      "purusha"
+    ]
+  },
+  {
     "id": "q-qual-e-la-natura-della-liberazione",
     "scope": "local",
     "type": "great",
@@ -463,6 +553,21 @@
       "moksha-amritatva",
       "jivanmukti",
       "brahman"
+    ]
+  },
+  {
+    "id": "q-quali-sono-gli-stati-di-coscienza",
+    "scope": "local",
+    "type": "great",
+    "text": "Che cosa sperimenta l'essere negli stati di veglia, sogno e sonno profondo?",
+    "problem": "Analizzare il riassorbimento graduale dell'esperienza periferica dal piano grossolano a quello sottile, fino al riposo nell'Imperituro.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "svapna-e-susupti",
+      "vijnanatman",
+      "aksara"
     ]
   },
   {

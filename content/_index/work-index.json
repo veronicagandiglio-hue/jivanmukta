@@ -52,5 +52,26 @@
       "kena-4"
     ],
     "source_file": "works/kena-upanishad.json"
+  },
+  "prashna-upanishad": {
+    "id": "prashna-upanishad",
+    "title": "Praśnopaniṣad",
+    "short_title": "Prashna",
+    "language": "sa",
+    "attribution": "Atharvaveda (Scuola Paippalāda / Śaunaka)",
+    "editorial_note": [
+      "Testo sacro appartenente alla Śruti vedica dell'Atharvaveda.",
+      "Costituisce una delle dieci Upaniṣad maggiori (Mukhya) dotata del commentario fondamentale di Śaṅkarācārya.",
+      "Strutturata in sei quesiti (Praśna) posti da altrettanti cercatori qualificati al saggio Pippalāda, abbracciando la cosmogonia, l'ordinamento delle facoltà vitali, la psicologia metafisica e la reintegrazione finale nel Puruṣa privo di parti."
+    ],
+    "editorial_units": [
+      "prashna-1",
+      "prashna-2",
+      "prashna-3",
+      "prashna-4",
+      "prashna-5",
+      "prashna-6"
+    ],
+    "source_file": "works/prashna-upanishad.json"
   }
 }

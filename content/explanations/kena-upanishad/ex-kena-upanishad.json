@@ -1,0 +1,20 @@
+{
+  "id": "ex-kena-upanishad",
+  "target": {
+    "type": "work",
+    "id": "kena-upanishad"
+  },
+  "title": "Spiegazione della Kena Upaniṣad",
+  "sections": [
+    {
+      "type": "context",
+      "title": "Posizione canonica e struttura del testo",
+      "content": "La Kena Upaniṣad appartiene alla scuola Jaiminīya (o Talavakāra) del Sāmaveda. Prende il nome dalla parola inaugurale della sua domanda di apertura: «Kena?» («Da chi?», «Per impulso di quale principio?»). Si suddivide in quattro canti (khaṇḍa): i primi due in versi e prosa dialettica altamente metafisica, gli ultimi due strutturati attorno alla celebre allegoria epica dell'apparizione dello Yakṣa agli dèi."
+    },
+    {
+      "type": "explanation",
+      "title": "La questione fondamentale: la non-oggettivabilità del Brahman",
+      "content": "Il trattato si concentra rigorosamente sul paradosso della soggettività pura: il Brahman non è un oggetto che possa essere percepito dai sensi, formulato dal linguaggio o concettualizzato dalla mente empirica. Esso è il soggetto ultimo, il fondamento anteriore e la luce trascendente che rende possibili la vista, l'udito, il pensiero e la parola stessa. Per tale ragione, conoscere il Brahman non significa apprenderLo come si apprende un oggetto esterno, bensì realizzare la propria identità originaria con il Testimone incorporeo."
+    }
+  ]
+}

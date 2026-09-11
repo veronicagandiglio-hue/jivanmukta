@@ -18,18 +18,24 @@
     "buddhi-intelletto",
     "hridaya-guha",
     "jivanmukti",
+    "prana",
     "purusha",
-    "satya"
+    "satya",
+    "svapna-e-susupti",
+    "vijnanatman"
   ],
   "jivanmukti": [
     "adhyatma-yoga",
     "moksha-amritatva",
     "atman"
   ],
-  "asvattha-albero-cosmico": [
-    "brahman"
+  "aksara": [
+    "brahman",
+    "purusha",
+    "vijnanatman"
   ],
   "brahman": [
+    "aksara",
     "asvattha-albero-cosmico",
     "brahma-vidya",
     "sakshin",
@@ -39,8 +45,19 @@
     "deva-abhimana",
     "moksha-amritatva",
     "om-pranava",
+    "pitriyana-e-devayana",
     "purusha",
     "vidya-e-avidya"
+  ],
+  "purusha": [
+    "aksara",
+    "hridaya-guha",
+    "brahman",
+    "atman",
+    "sodasa-kala"
+  ],
+  "asvattha-albero-cosmico": [
+    "brahman"
   ],
   "atma-han": [
     "atman",
@@ -120,11 +137,6 @@
     "atman",
     "purusha"
   ],
-  "purusha": [
-    "hridaya-guha",
-    "brahman",
-    "atman"
-  ],
   "moksha-amritatva": [
     "jivanmukti",
     "brahman",
@@ -132,6 +144,31 @@
   ],
   "om-pranava": [
     "brahman"
+  ],
+  "pitriyana-e-devayana": [
+    "prana",
+    "rayi",
+    "brahman"
+  ],
+  "prana": [
+    "pitriyana-e-devayana",
+    "prajapati",
+    "rayi",
+    "atman",
+    "sodasa-kala"
+  ],
+  "rayi": [
+    "pitriyana-e-devayana",
+    "prajapati",
+    "prana"
+  ],
+  "prajapati": [
+    "prana",
+    "rayi"
+  ],
+  "sodasa-kala": [
+    "prana",
+    "purusha"
   ],
   "pratistha": [
     "brahma-vidya"
@@ -152,5 +189,14 @@
   "vidya-e-avidya": [
     "sreyas-e-preyas",
     "brahman"
+  ],
+  "svapna-e-susupti": [
+    "atman",
+    "vijnanatman"
+  ],
+  "vijnanatman": [
+    "svapna-e-susupti",
+    "atman",
+    "aksara"
   ]
 }

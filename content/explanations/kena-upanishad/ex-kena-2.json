@@ -1,0 +1,15 @@
+{
+  "id": "ex-kena-2",
+  "target": {
+    "type": "unit",
+    "id": "kena-2"
+  },
+  "title": "Spiegazione del Secondo Canto della Kena Upaniṣad",
+  "sections": [
+    {
+      "type": "context",
+      "title": "Il paradosso gnoseologico e la dottrina del Pratibodha",
+      "content": "Il secondo canto affronta la verifica del discepolo e culmina nella definizione cardine dell'Advaita Vedānta: la realizzazione del Brahman attraverso ogni atto di coscienza (pratibodha-vidita)."
+    }
+  ]
+}

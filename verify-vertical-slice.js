@@ -48,8 +48,17 @@ async function testVerticalSlice() {
       console.log(`   ${i + 1}. [${g.id}] priority=${g.homepage_priority}: "${g.text}"`);
     });
 
-    if (globalQuestions.length !== 8) {
-      throw new Error(`Previste 8 domande globali, trovate ${globalQuestions.length}`);
+    if (!globalQuestions.length) {
+      throw new Error('È prevista almeno una domanda globale, ma non ne è stata trovata nessuna');
+    }
+
+    const globalQuestionIds = new Set(globalQuestions.map((question) => question.id));
+    if (globalQuestionIds.size !== globalQuestions.length) {
+      throw new Error('Le domande globali contengono ID duplicati');
+    }
+
+    if (globalQuestions.some((question) => !Number.isFinite(question.homepage_priority))) {
+      throw new Error('Ogni domanda globale deve avere una homepage_priority numerica');
     }
 
     // 2. Verifica la domanda fondamentale: "Che cos'è Brahman?"

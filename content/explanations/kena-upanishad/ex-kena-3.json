@@ -1,0 +1,15 @@
+{
+  "id": "ex-kena-3",
+  "target": {
+    "type": "unit",
+    "id": "kena-3"
+  },
+  "title": "Spiegazione del Terzo Canto della Kena Upaniṣad",
+  "sections": [
+    {
+      "type": "context",
+      "title": "L'allegoria dello Yakṣa e la cecità degli dèi",
+      "content": "Il terzo canto introduce la narrazione mitico-simbolica: gli dèi cosmici ottengono una grande vittoria contro i demoni (le potenze del caos), ma si inorgogliscono attribuendo il trionfo alla propria potenza individuale."
+    }
+  ]
+}

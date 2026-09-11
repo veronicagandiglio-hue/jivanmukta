@@ -1401,5 +1401,578 @@
       }
     ],
     "source_file": "editorial-units/kena-4.json"
+  },
+  "prashna-1": {
+    "id": "prashna-1",
+    "work_id": "prashna-upanishad",
+    "unit_locus": "I.0-16",
+    "unit_title": "Prathamaḥ Praśnaḥ — L'origine primordiale delle creature e la polarità Rayi-Prāṇa",
+    "sections": [
+      {
+        "section_locus": "I.0-16",
+        "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
+        "passages": [
+          {
+            "id": "prashna-1-0",
+            "original": "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥ स्वस्ति न इन्द्रो वृद्धश्रवाः । स्वस्ति नः पूषा विश्ववेदाः । स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः । स्वस्ति नो बृहस्पतिर्दधातु ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+            "translation": "Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi possiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra salde e corpi che vi rendono lode, possiamo noi godere la durata di vita stabilita dal Principio divino. Ci accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto conosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace Bṛhaspati! Oṃ. Pace, Pace, Pace.",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-1",
+            "original": "ॐ सुकेशा च भारद्वाजः शैब्यश्च सत्यकामः सौर्यायणी च गार्ग्यः कौसल्यश्चाश्वलायनो भार्गवो वैदर्भिः कबन्धी कात्यायनस्ते हैते ब्रह्मपरा ब्रह्मनिष्ठाः परं ब्रह्मान्वेषमाणा एष ह वै तत्सर्वं वक्ष्यतीति ते ह समित्पाणयो भगवन्तं पिप्पलादमुपसन्नाः ॥ १ ॥",
+            "translation": "Oṃ. Sukeśā figlio di Bharadvāja, Śaibya Satyakāma, Sauryāyaṇī discendente di Garga, Kausalya figlio di Aśvala, Bhārgava della terra di Vidarbha e Kabandhī discendente di Katya: costoro, dediti al Brahman, stabiliti nella contemplazione del Brahman, erano alla ricerca del Brahman Supremo. Pensando: «Egli certamente ci esporrà tutto questo», con la legna sacrificale in mano, si accostarono al venerabile Pippalāda.",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-2",
+            "original": "तान् ह स ऋषिरुवाच भूय एव तपसा ब्रह्मचर्येण श्रद्धया संवत्सरं संवत्स्यथ यथाकामं प्रश्नान् पृच्छत यदि विज्ञास्यामः सर्वं ह वो वक्ष्याम इति ॥ २ ॥",
+            "translation": "Il veggente disse loro: «Dimorate ancora per un anno nell'ascesi interiore, nella castità e disciplina sacra e nell'adesione fiduciosa alla Verità; poscia ponete le vostre domande secondo il vostro desiderio. Se ne avremo conoscenza, vi dichiareremo invero ogni cosa».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-3",
+            "original": "अथ कबन्धी कात्यायन उपेत्य पप्रच्छ । भगवन् कुतो ह वा इमाः प्रजाः प्रजायन्त इति ॥ ३ ॥",
+            "translation": "Allora Kabandhī Kātyāyana, accostatosi, gli domandò: «Venerabile Signore, da dove scaturiscono invero tutte queste creature?».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-4",
+            "original": "तस्मै स होवाच प्रजाकामो वै प्रजापतिः स तपोऽतप्यत स तपस्तप्त्वा स मिथुनमुत्पादयते । रयिं च प्राणं चेत्येतौ मे बहुधा प्रजाः करिष्यत इति ॥ ४ ॥",
+            "translation": "A lui quegli rispose: «Prajāpati desiderò la generazione delle creature. Egli esercitò l'ardore contemplativo; avendo esercitato il proprio ardore, generò una coppia: la Materia potenziale (rayi) e il Soffio vitale (prāṇa), dicendo: \"Questi due produrranno per me creature in molteplici modi\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-5",
+            "original": "आदित्यो ह वै प्राणो रयिरेव चन्द्रमा रयिर्वा एतत् सर्वं यन्मूर्तं चामूर्तं च तस्मान्मूर्तिरेव रयिः ॥ ५ ॥",
+            "translation": "«Il Sole è invero il Soffio vitale; la Luna è invero la Materia potenziale. Rayi è tutto questo universo, sia ciò che possiede forma corporea sia ciò che è privo di forma corporea; pertanto la forma manifesta è essa stessa Rayi».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-6",
+            "original": "अथादित्य उदयन्यत्प्राचीं दिशं प्रविशति तेन प्राच्यान् प्राणान् रश्मिषु सन्निधत्ते । यद्दक्षिणां यत् प्रतीचीं यदुदीचीं यदधो यदूर्ध्वं यदन्तरा दिशो यत् सर्वं प्रकाशयति तेन सर्वान् प्राणान् रश्मिषु सन्निधत्ते ॥ ६ ॥",
+            "translation": "«Orbene, il Sole sorgendo, allorché penetra nella regione d'oriente, raccoglie nei suoi raggi i soffi vitali orientali. Allorché illumina il meridione, l'occidente, il settentrione, il nadir, lo zenith e le regioni intermedie, allorché illumina la totalità, per questo fatto raccoglie nei suoi raggi tutti i soffi vitali».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-7",
+            "original": "स एष वैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते । तदेतदृचाऽभ्युक्तम् ॥ ७ ॥",
+            "translation": "«Egli, il Fuoco Universale, Colui che assume tutte le forme, il Soffio vitale, sorge quale Fuoco solare. Questo è stato dichiarato dalla seguente strofa del Ṛgveda:»",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-8",
+            "original": "विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपन्तम् । सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥ ८ ॥",
+            "translation": "«\"Colui che possiede ogni forma, aureo e radioso, onnisciente, supremo rifugio, luce unica e ardente; dotato di mille raggi, che opera in cento maniere: questo Sole, Soffio vitale di tutte le creature, sorge all'orizzonte\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-9",
+            "original": "संवत्सरो वै प्रजापतिस्तस्यायने दक्षिणं चोत्तरं च । तद्ये ह वै तदिष्टापूर्ते कृतमित्युपासते ते चान्द्रमसमेव लोकमभिजयन्ते । त एव पुनरावर्तन्ते तस्मादेत ऋषयः प्रजाकामा दक्षिणं प्रतिपद्यन्ते । एष ह वै रयिर्यः पितृयाणः ॥ ९ ॥",
+            "translation": "«L'Anno è in verità Prajāpati: di esso due sono i corsi solari, il meridionale e il settentrionale. Coloro che venerano l'azione rituale pensando: \"I sacrifici rituali e le opere pie costituiscono il fine compiuto\", costoro conquistano unicamente il mondo lunare; ed essi ritornano nuovamente alla nascita. Perciò quei saggi che desiderano prole intraprendono la via meridionale. Questa è invero la Materia potenziale, la via dei Padri».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-10",
+            "original": "अथोत्तरेण तपसा ब्रह्मचर्येण श्रद्धया विद्ययाऽऽत्मानमन्विष्यादित्यमभिजयन्ते । एतद्वै प्राणानामायतनमेतदमृतमभयमेतत् परायणमेतस्मान्न पुनरावर्तन्त इत्येष निरोधस्तदेष श्लोकः ॥ १० ॥",
+            "translation": "«Ma coloro che, per mezzo del corso settentrionale, avendo cercato l'Ātman mediante l'ascesi interiore, la disciplina sacra, la fede intuitiva e la Conoscenza spirituale, conquistano il Sole: questo è invero il fondamento dei soffi vitali, questo è l'immortale, l'esente da timore, la Meta suprema. Da questo stato non si ritorna: esso è la soglia invalicabile. A tal proposito vi è questa strofa:»",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-11",
+            "original": "पञ्चपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणम् । अथेमे अन्य उ परे विचक्षणं सप्तचक्रे षडर आहुरर्पितमिति ॥ ११ ॥",
+            "translation": "«\"Lo chiamano il Padre dai cinque piedi, dotato di dodici forme, che dispensa le acque celesti nella metà superiore del cielo; altri invece dicono che l'Onniveggente è stabilito al di sopra, sul carro a sette ruote e sei raggi\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-12",
+            "original": "मासो वै प्रजापतिस्तस्य कृष्णपक्ष एव रयिः शुक्लः प्राणस्तस्मादेत ऋषयः शुक्ल इष्टं कुर्वन्तीतर इतरस्मिन् ॥ १२ ॥",
+            "translation": "«Il Mese è in verità Prajāpati: la sua quindicina oscura è la Materia potenziale, la quindicina chiara è il Soffio vitale. Perciò questi saggi celebrano il sacrificio nella quindicina chiara, mentre gli altri lo celebrano nell'altra quindicina».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-13",
+            "original": "अहोरात्रो वै प्रजापतिस्तस्याहुरेव प्राणो रात्रिरेव रयिः प्राणं वा एते प्रस्कन्दन्ति ये दिवा रत्या संयुज्यन्ते ब्रह्मचर्यमेव तद्यद्रात्रौ रत्या संयुज्यन्ते ॥ १३ ॥",
+            "translation": "«Il Giorno e la Notte sono in verità Prajāpati: il giorno è il Soffio vitale, la notte è la Materia potenziale. Dissipano invero il soffio vitale coloro che si uniscono carnalmente durante il giorno; ma è conforme alla disciplina sacra unirsi secondo la legge nella notte».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-14",
+            "original": "अन्नं वै प्रजापतिस्ततो ह वै तद्रेतस्तस्मादिमाः प्रजाः प्रजायन्त इति ॥ १४ ॥",
+            "translation": "«Il Cibo è in verità Prajāpati: da esso scaturisce il seme vitale, e da questo seme queste creature vengono generate».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-15",
+            "original": "तद्ये ह वै तत् प्रजापतिव्रतं चरन्ति ते मिथुनमुत्पादयन्ते । तेषामेवैष ब्रह्मलोको येषां तपो ब्रह्मचर्यं येषु सत्यं प्रतिष्ठितम् ॥ १५ ॥",
+            "translation": "«Pertanto coloro che osservano questa legge di Prajāpati generano una coppia. Ad essi invero appartiene questo mondo di Brahman, a coloro nei quali dimorano l'ascesi, la disciplina sacra e nei quali la Verità è saldamente stabilita».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-1-16",
+            "original": "तेषामसौ विरजो ब्रह्मलोको न येषु जिह्ममनृतं न माया चेति ॥ १६ ॥",
+            "translation": "«A costoro appartiene invece quel Mondo di Brahman incorruttibile e privo di macchia, in coloro nei quali non vi è tortuosità, né menzogna, né inganno».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/prashna-1.json"
+  },
+  "prashna-2": {
+    "id": "prashna-2",
+    "work_id": "prashna-upanishad",
+    "unit_locus": "II.1-13",
+    "unit_title": "Dvitīyaḥ Praśnaḥ — Il primato ontologico di Prāṇa e l'inno delle potenze divine",
+    "sections": [
+      {
+        "section_locus": "II.1-13",
+        "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
+        "passages": [
+          {
+            "id": "prashna-2-1",
+            "original": "अथ हैनं भार्गवो वैदर्भिः पप्रच्छ । भगवन् कत्येव देवाः प्रजां विधारयन्ते कतर एतत् प्रकाशयन्ते कः पुनरेषां वरिष्ठ इति ॥ १ ॥",
+            "translation": "Allora Bhārgava della terra di Vidarbha lo interrogò: «Venerabile Signore, quante sono le potenze divine che sostengono la creatura corporea? Quali tra esse manifestano la propria gloria? E chi, tra loro, è il sommo?».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-2",
+            "original": "तस्मै स होवाचाकाशो ह वा एष देवो वायुरग्निरापः पृथिवी वाङ्मनश्चक्षुः श्रोत्रं च । ते प्रकाश्याभिवदन्ति वयमेतद्बाणमवष्टभ्य विधारयामः ॥ २ ॥",
+            "translation": "A lui quegli rispose: «Lo Spazio eterico è invero una tale potenza divina, e parimenti l'Aria, il Fuoco, le Acque, la Terra, la Parola, la Mente, la Vista e l'Udito. Esse, manifestando la propria potenza, proclamavano a gran voce: \"Noi sole, sostenendo questo aggregato corporeo, lo manteniamo in essere!\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-3",
+            "original": "तान् वरिष्ठः प्राण उवाच । मा मोहमापद्यथ अहमेवैतत् पञ्चधाऽऽत्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति तेऽश्रद्दधाना बभूवुः ॥ ३ ॥",
+            "translation": "Il Soffio vitale sommo disse loro: «Non cadete nell'illusione! Io solo, dividendo me stesso in cinque parti, sostengo questo aggregato corporeo e lo mantengo in essere». Ma esse rimasero incredule, prive di fede intuitiva.",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-4",
+            "original": "सोऽभिमानादूर्ध्वमुत्क्रामत इव तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते तस्मिꣳश्च प्रतिष्ठामाने सर्व एव प्रतिष्ठन्ते । तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते तस्मिꣳश्च प्रतिष्ठमाने सर्वा एव प्रतिष्ठन्त एवम् । वाङ्मनश्चक्षुः श्रोत्रं च ते प्रीताः प्राणं स्तुन्वन्ति ॥ ४ ॥",
+            "translation": "Quegli allora, per maestà offesa, finse di salire verso l'alto per abbandonare il corpo. Non appena egli accennò ad ascendere, tutte le altre facoltà si ritrovarono costrette ad ascendere con lui; e quando egli si ristabilì nella quiete, tutte si ristabilirono. Esattamente come le api, allorché la loro ape regina prende il volo, tutte sciamano al suo seguito, e quando essa si posa, tutte si posano; allo stesso modo fecero la Parola, la Mente, la Vista e l'Udito. Allora esse, placate e riconciliate, intonarono la lode a Prāṇa:",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-5",
+            "original": "एषोऽग्निस्तपत्येष सूर्य एष पर्जन्यो मघवानेष वायुः । एष पृथिवी रयिर्देवः सदसच्चामृतं च यत् ॥ ५ ॥",
+            "translation": "«Egli arde quale Fuoco, Egli risplende quale Sole; Egli è la Nube di pioggia, Egli è Indra, Egli è il Vento. Egli è la Terra, Egli è la Materia primordiale, Egli è il Principio divino; Egli è ciò che possiede forma manifesta e ciò che è sottile e privo di forma, ed Egli è ciò che è Immortale».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-6",
+            "original": "अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम् । ऋचो यजूंषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥ ६ ॥",
+            "translation": "«Come i raggi sono innestati nel mozzo della ruota del carro, così nel Soffio vitale ogni cosa è stabilita: le strofe del Ṛgveda, le formule dello Yajurveda, i canti del Sāmaveda, il sacrificio rituale, la nobiltà guerriera e il sacerdozio spirituale».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-7",
+            "original": "प्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायसे । तुभ्यं प्राण प्रजास्त्विमा बलिं हरन्ति यः प्राणैः प्रतितिष्ठसि ॥ ७ ॥",
+            "translation": "«Come Prajāpati tu ti muovi nel grembo materno, e sei tu stesso che rinasci a immagine dei padri. A te, o Prāṇa, queste creature umane recano tributi e oblazioni, a te che dimori stabilmente con i soffi sensoriali».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-8",
+            "original": "देवानामसि वह्नितमः पितॄणां प्रथमा स्वधा । ऋषीणां चरितं सत्यमथर्वाङ्गिरसामसि ॥ ८ ॥",
+            "translation": "«Tu sei il supremo portatore delle oblazioni per gli dèi, tu sei la primordiale offerta destinata ai Padri defunti. Tu sei la santa condotta veridica dei Veggenti, discendenti di Atharvan e di Aṅgiras».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-9",
+            "original": "इन्द्रस्त्वं प्राण तेजसा रुद्रोऽसि परिरक्षिता । त्वमन्तरिक्षे चरसि सूर्यस्त्वं ज्योतिषां पतिः ॥ ९ ॥",
+            "translation": "«Tu, o Prāṇa, sei Indra per fulgore; tu sei Rudra quale supremo difensore e protettore. Tu ti muovi nello spazio intermedio; tu sei il Sole, il Sovrano di tutte le luci celesti».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-10",
+            "original": "यदा त्वमभिवर्षस्यथेमाः प्राण ते प्रजाः । आनन्दरूपास्तिष्ठन्ति कामायान्नं भविष्यतीति ॥ १० ॥",
+            "translation": "«Quando tu scendi giù in pioggia feconda, allora, o Prāṇa, queste tue creature rimangono colme di letizia, pensando: \"Vi sarà cibo in abbondanza secondo ogni nostro desiderio!\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-11",
+            "original": "व्रात्यस्त्वं प्राणैकर्षिरत्ता विश्वस्य सत्पतिः । वयमाद्यस्य दातारः पिता त्वं मातरिश्व नः ॥ ११ ॥",
+            "translation": "«Tu sei il Vrātya, o Prāṇa; tu sei il Fuoco Ekarṣi, il divoratore supremo delle offerte, il vero Signore di tutto ciò che esiste. Noi siamo i dispensatori del cibo che deve essere consumato; tu, o Mātariśvan, sei il padre nostro!».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-12",
+            "original": "या ते तनूर्वाचि प्रतिष्ठिता या श्रोत्रे या च चक्षुषि । या च मनसि सन्तता शिवां तां कुरु मोत्क्रमीः ॥ १२ ॥",
+            "translation": "«Quella tua forma che risiede stabilita nella parola, quella che risiede nell'udito, quella che risiede nella vista e quella che pervade continuamente la mente: rendila propizia e benefica; non salire via dal corpo!».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-2-13",
+            "original": "प्राणस्येदं वशे सर्वं त्रिदिवे यत् प्रतिष्ठितम् । मातेव पुत्रान् रक्षस्व श्रीश्च प्रज्ञां च विधेहि न इति ॥ १३ ॥",
+            "translation": "«Tutto questo universo manifesto che è stabilito nei tre cieli è sotto il sovrano dominio di Prāṇa. Proteggici come una madre protegge i propri figli, e accordaci la sacra prosperità cosmica e la Conoscenza discriminativa spirituale!».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/prashna-2.json"
+  },
+  "prashna-3": {
+    "id": "prashna-3",
+    "work_id": "prashna-upanishad",
+    "unit_locus": "III.1-12",
+    "unit_title": "Tṛtīyaḥ Praśnaḥ — La genesi del Soffio dall'Ātman e l'anatomia sottile del cuore",
+    "sections": [
+      {
+        "section_locus": "III.1-12",
+        "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
+        "passages": [
+          {
+            "id": "prashna-3-1",
+            "original": "अथ हैनं कौशल्यश्चाश्वलायनः पप्रच्छ । भगवन् कुत एष प्राणो जायते कथमायात्यस्मिञ्शरीर आत्मानं वा प्रविभज्य कथं प्रतिष्ठते केनोत्क्रमते कथं बाह्यमभिधत्ते कथमध्यात्ममिति ॥ १ ॥",
+            "translation": "Allora Kausalya, figlio di Aśvala, gli domandò: «Venerabile Signore, da dove nasce questo Soffio vitale? Come giunge in questo corpo? Come vi risiede stabilmente dopo aver diviso se stesso? Per mezzo di che cosa ne esce al trapasso? In che modo sostiene la realtà esteriore macrocosmica e in che modo la realtà interiore dell'essere?».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-2",
+            "original": "तस्मै स होवाचातिप्रश्नान् पृच्छसि ब्रह्मिष्ठोऽसीति तस्मात्तेऽहं ब्रवीमि ॥ २ ॥",
+            "translation": "A lui quegli rispose: «Tu poni questioni trascendenti che oltrepassano i limiti ordinari. Poiché sei sommamente stabilito nella contemplazione del Brahman, per questo io te lo dichiarerò».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-3",
+            "original": "आत्मन एष प्राणो जायते । यथैषा पुरुषे छायैतस्मिन्नेतदाततं मनोकृतेनायात्यस्मिञ्शरीरे ॥ ३ ॥",
+            "translation": "«Dall'Ātman nasce questo Soffio vitale. Come su di un uomo si proietta un'ombra, così su di Esso questo Prāṇa è disteso. Per virtù degli atti e delle determinazioni della mente esso penetra all'interno di questo corpo».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-4",
+            "original": "यथा सम्राडेवाधिकृतान् विनियुङ्क्ते । एतान् ग्रामानेतान ग्रामानधितिष्ठस्वेत्येवमेवैष प्राण इतरान् प्राणान् पृथक् पृथगेव सन्निधत्ते ॥ ४ ॥",
+            "translation": "«Esattamente come un sovrano ordina ai propri funzionari dicendo: \"Presiedete a questi villaggi e a quelli!\", allo stesso modo questo Soffio sovrano assegna gli altri soffi subordinati, ciascuno separatamente, alle rispettive funzioni».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-5",
+            "original": "पायूपस्थेऽपानं चक्षुःश्रोत्रे मुखनासिकाभ्यां प्राणः स्वयं प्रातिष्ठते मध्ये तु समानः । एष ह्येतद्धुतमन्नं समं नयति तस्मादेताः सप्ताचिषो भवन्ति ॥ ५ ॥",
+            "translation": "«Negli organi dell'evacuazione e della generazione assegna l'Apāna; negli occhi, negli orecchi e passando per la bocca e le narici, il Prāṇa vero e proprio stabilisce la propria sede; al centro invece risiede il Samāna. È questo infatti che distribuisce in modo equilibrato il cibo offerto come oblazione; e da esso scaturiscono queste sette fiamme».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-6",
+            "original": "हृदि ह्येष आत्मा । अत्रैतदेकशतं नाडीनां तासां शतं शतमेकैकस्या द्विसप्ततिर्द्विसप्ततिः प्रतिशाखानाडीसहस्राणि भवन्त्यासु व्यानश्चरति ॥ ६ ॥",
+            "translation": "«Nel cuore risiede invero questo Ātman. Qui vi sono centouno canali sottili primari; per ciascuno di essi vi sono cento rami secondari, e ciascuno di questi possiede a sua volta settantaduemila diramazioni ulteriori. In tutti questi canali si muove il Vyāna».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-7",
+            "original": "अथैकयोर्ध्व उदानः पुण्येन पुण्यं लोकं नयति पापेन पापमुभाभ्यामेव मनुष्यलोकम् ॥ ७ ॥",
+            "translation": "«Orbene, risalendo attraverso uno solo di essi, l'Udāna conduce per via delle azioni rette al mondo del merito, per via delle colpe al mondo della degradazione, e per mezzo della combinazione di entrambe riconduce al mondo degli uomini».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-8",
+            "original": "आदित्यो ह वै बाह्यः प्राण उदयत्येष ह्येनं चाक्षुषं प्राणमनुगृह्णानः । पृथिव्यां या देवता सैषा पुरुषस्य अपानमवष्टभ्यान्तरा यदाकाशः स समानो वायुर्व्यानः ॥ ८ ॥",
+            "translation": "«Il Sole è in verità il Prāṇa esteriore: esso sorge illuminando e sostenendo per grazia il soffio che risiede nell'occhio. La potenza divina che risiede nella Terra sostiene l'Apāna dell'uomo; lo spazio eterico che si estende tra cielo e terra è il Samāna; l'Aria atmosferica è il Vyāna».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-9",
+            "original": "तेजो ह वा उदानस्तस्मादुपशान्ततेजाः । पुनर्भवमिन्द्रियैर्मनसि सम्पद्यमानैः ॥ ९ ॥",
+            "translation": "«Il Fuoco radioso è invero l'Udāna; pertanto colui il cui calore vitale si è estinto muove verso una nuova rinascita, con gli organi sensoriali ormai riassorbiti nella mente».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-10",
+            "original": "यच्चित्तस्तेनैष प्राणमायाति । प्राणस्तेजसा युक्तः सहात्मना यथासङ्कल्पितं लोकं नयति ॥ १० ॥",
+            "translation": "«Qualunque sia lo stato del pensiero cosciente al momento del trapasso, con quello l'essere confluisce nel Prāṇa. Il Prāṇa, unito all'Udāna radioso e unitamente all'anima individuale vivente, conduce al mondo determinato dal proprio proponimento interiore».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-11",
+            "original": "य एवं विद्वान् प्राणं वेद न हास्य प्रजा हीयतेऽमृतो भवति तदेष श्लोकः ॥ ११ ॥",
+            "translation": "«Il sapiente che conosce il Prāṇa in questo modo non vede mai estinguersi la propria discendenza spirituale e diviene immortale. A questo proposito vi è la seguente strofa:»",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-3-12",
+            "original": "उत्पत्तिमायतिं स्थानं विभुत्वं चैव पञ्चधा । अध्यात्मं चैव प्राणस्य विज्ञायामृतमश्नुते विज्ञायामृतमश्नुत इति ॥ १२ ॥",
+            "translation": "«\"Conoscendo la scaturigine primordiale del Prāṇa, il suo ingresso nel corpo, la sua sede stabile, la sua quintuplice sovranità e la sua corrispondenza interiore, si consegue invero l'Immortalità; si consegue invero l'Immortalità!\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/prashna-3.json"
+  },
+  "prashna-4": {
+    "id": "prashna-4",
+    "work_id": "prashna-upanishad",
+    "unit_locus": "IV.1-11",
+    "unit_title": "Caturthaḥ Praśnaḥ — Gli stati di veglia, sogno e sonno profondo e l'Imperituro",
+    "sections": [
+      {
+        "section_locus": "IV.1-11",
+        "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
+        "passages": [
+          {
+            "id": "prashna-4-1",
+            "original": "अथ हैनं सौर्यायणी गार्ग्यः पप्रच्छ । भगवन्नेतस्मिन् पुरुषे कानि स्वपन्ति कान्यस्मिञ्जाग्रति कतर एष देवः स्वप्नान् पश्यति कस्यैतत् सुखं भवति कस्मिन्नु सर्वे सम्प्रतिष्ठिता भवन्तीति ॥ १ ॥",
+            "translation": "Allora Sauryāyaṇī discendente di Garga gli domandò: «Venerabile Signore, in questo essere, quali sono le facoltà che dormono? Quali sono quelle che in lui rimangono deste? Qual è questa potenza divina che contempla i sogni? Di chi è questa beatitudine? E in che cosa, infine, tutte queste realtà sono stabilite?».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-2",
+            "original": "तस्मै स होवाच । यथा गार्ग्य मरीचयोऽर्कस्यास्तं गच्छतः सर्वा एतस्मिंस्तेजोमण्डल एकीभवन्ति । ताः पुनः पुनरुदयतः प्रचरन्त्येवं ह वै तत् सर्वं परे देवे मनस्येकीभवति । तेन तर्ह्येष पुरुषो न शृणोति न पश्यति न जिघ्रति न रसयते न स्पृशते नाभिवदते नादत्ते नानन्दयते न विसृजते नेयायते स्वपितीत्याचक्षते ॥ २ ॥",
+            "translation": "A lui quegli rispose: «Come, o Gārgya, i raggi del Sole che tramonta si fondono e diventano tutti una sola cosa in quel disco di luce, e poi di nuovo si effondono quando esso sorge; esattamente così, in verità, tutto questo complesso sensoriale si unifica nella divinità superiore, la Mente. Perciò, allora, questo essere non ode, non vede, non odora, non gusta, non tocca, non parla, non afferra, non gode, non evacua, non cammina: \"Egli dorme\", così dicono gli uomini».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-3",
+            "original": "प्राणाग्नय एवैतस्मिन् पुरे जाग्रति । गार्हपत्यो ह वा एषोऽपानो व्यानोऽन्वाहार्यपचनो यद्गार्हपत्यात् प्रणीयते प्रणयनादाहवनीयः प्राणः ॥ ३ ॥",
+            "translation": "«Solo i fuochi vitali di Prāṇa rimangono desti e vigilanti in questa città del corpo. L'Apāna è invero il fuoco domestico Gārhapatya; il Vyāna è il fuoco meridionale Anvāhāryapacana; e poiché viene condotto innanzi dal fuoco Gārhapatya, per questa derivazione il Prāṇa è il fuoco sacrificale Āhavanīya».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-4",
+            "original": "यदुच्छ्वासनिःश्वासावेतावाहुती समं नयतीति स समानः । मनो ह वाव यजमानः । इष्टफलमेवोदानः । स एनं यजमानमहरहर्ब्रह्म गमयति ॥ ४ ॥",
+            "translation": "«E poiché conduce all'equilibrio queste due oblazioni che sono l'inspirazione e l'espirazione, questo è il Samāna. La Mente è invero il sacrificatore; l'Udāna è il frutto desiderato del sacrificio: esso infatti, giorno dopo giorno, conduce questo sacrificatore fino al Brahman».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-5",
+            "original": "अत्रैष देवः स्वप्ने महिमानमनुभवति । यद्दृष्टं दृष्टमनुपश्यति श्रुतं श्रुतमेवार्थमनुशृणोति देशदिगन्तरैश्च प्रत्यनुभूतं पुनः पुनः प्रत्यनुभवति दृष्टं चादृष्टं च श्रुतं चाश्रुतं चानुभूतं चाननुभूतं च सच्चासच्च सर्वं पश्यति सर्वः पश्यति ॥ ५ ॥",
+            "translation": "«Ivi, nello stato di sogno, questa potenza divina sperimenta la propria sovrana grandezza: ciò che fu visto e rivisto essa contempla nuovamente; ciò che fu udito e riudito essa ode di nuovo; e ciò che fu sperimentato in diversi luoghi e regioni, essa torna a sperimentarlo ripetutamente. Ciò che fu visto e ciò che non fu visto, ciò che fu udito e ciò che non fu udito, ciò che fu provato e ciò che non fu provato, ciò che è reale e ciò che è irreale: essa vede ogni cosa; essendo divenuta il Tutto, essa vede».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-6",
+            "original": "स यदा तेजसाऽभिभूतो भवति । अत्रैष देवः स्वप्नान् न पश्यत्यथ यदैतस्मिञ्शरीर एतत्सुखं भवति ॥ ६ ॥",
+            "translation": "«Ma quando questa potenza viene interamente sopraffatta e avvolta dalla Luce radiosa, allora questo dio non vede più alcun sogno; ed è allora che in questo corpo sorge questa pura beatitudine».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-7",
+            "original": "स यथा सोम्य वयांसि वासोवृक्षं संप्रतिष्ठन्ते । एवं ह वै तत् सर्वं पर आत्मनि संप्रतिष्ठते ॥ ७ ॥",
+            "translation": "«Come, o caro, gli uccelli si dirigono e si posano all'albero che funge loro da dimora, esattamente così, in verità, tutte queste cose trovano il proprio saldo fondamento e riposano nel Sé Supremo».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-8",
+            "original": "पृथिवी च पृथिवीमात्रा चापश्चापोमात्रा च तेजश्च तेजोमात्रा च वायुश्च वायुमात्रा चाकाशश्चाकाशमात्रा च चक्षुश्च द्रष्टव्यं च श्रोत्रं च श्रोतव्यं च घ्राणं च घ्रातव्यं च रसश्च रसयितव्यं च त्वक्च स्पर्शयितव्यं च वाक्च वक्तव्यं च हस्तौ चादातव्यं चोपस्थश्चानन्दयितव्यं च पायुश्च विसर्जयितव्यं च पादौ च गन्तव्यं च मनश्च मन्तव्यं च बुद्धिश्च बोद्धव्यं चाहङ्कारश्चाहङ्कर्तव्यं च चित्तं च चेतयितव्यं च तेजश्च विद्योतयितव्यं च प्राणश्च विधारयितव्यं च ॥ ८ ॥",
+            "translation": "«La Terra e l'elemento sottile della terra; le Acque e l'elemento sottile delle acque; il Fuoco e l'elemento sottile del fuoco; l'Aria e l'elemento sottile dell'aria; lo Spazio eterico e l'elemento sottile dello spazio; la vista e ciò che può essere visto; l'udito e ciò che può essere udito; l'odorato e ciò che può essere odorato; il gusto e ciò che può essere gustato; il tatto e ciò che può essere toccato; la parola e ciò che può essere detto; le mani e ciò che può essere afferrato; l'organo genitale e ciò che procura diletto; l'organo escretore e ciò che deve essere evacuato; i piedi e ciò che può essere percorso; la mente e ciò che può essere pensato; l'intelletto e ciò che può essere determinato; il senso dell'io e ciò che può essere attribuito a se stessi; la coscienza-memoria e ciò che può essere rammentato; la luce interiore e ciò che può essere illuminato; e il soffio vitale e tutto ciò che deve essere sostenuto: tutto questo riposa nel Sé Supremo».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-9",
+            "original": "एष हि द्रष्टा स्प्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः । स परेऽक्षर आत्मनि संप्रतिष्ठते ॥ ९ ॥",
+            "translation": "«Egli invero è colui che vede, colui che tocca, colui che ode, colui che odora, colui che gusta, colui che pensa, colui che determina intellettivamente, colui che agisce: il Sé conoscente, la Persona. Ed Egli è stabilito nel Sé Supremo e Imperituro».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-10",
+            "original": "परमेवाक्षरं प्रतिपद्यते स यो ह वै तदच्छायमशरीरमलोहितं शुभ्रमक्षरं वेदयते यस्तु सोम्य । स सर्वज्ञः सर्वो भवति । तदेष श्लोकः ॥ १० ॥",
+            "translation": "«Raggiunge invero il Supremo Imperituro colui che conosce quell'Imperituro privo di ombra, incorporeo, privo di passioni e di attributi, immacolato e puro, o caro! Egli diviene onnisciente, egli diviene il Tutto. A questo proposito vi è la seguente strofa:»",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-4-11",
+            "original": "विज्ञानात्मा सह देवैश्च सर्वैः प्राणा भूतानि संप्रतिष्ठन्ति यत्र । तदक्षरं वेदयते यस्तु सोम्य स सर्वज्ञः सर्वमेवाविवेशेति ॥ ११ ॥",
+            "translation": "«\"Colui nel quale il Sé conoscente, unitamente a tutte le potenze divine, i soffi vitali e gli elementi della manifestazione, trovano il loro saldo fondamento: colui che conosce tale Imperituro, o caro, diviene onnisciente ed è penetrato nella totalità di tutte le cose\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/prashna-4.json"
+  },
+  "prashna-5": {
+    "id": "prashna-5",
+    "work_id": "prashna-upanishad",
+    "unit_locus": "V.1-7",
+    "unit_title": "Pañcamaḥ Praśnaḥ — La meditazione sul Praṇava Oṃ e le sue tre misure",
+    "sections": [
+      {
+        "section_locus": "V.1-7",
+        "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
+        "passages": [
+          {
+            "id": "prashna-5-1",
+            "original": "अथ हैनं शैब्यः सत्यकामः पप्रच्छ । स यो ह वै तद्भगवन्मनुष्येषु प्रायणान्तमोङ्कारमभिध्यायीत । कतमं वाव स तेन लोकं जयतीति । तस्मै स होवाच ॥ १ ॥",
+            "translation": "Allora Śaibya Satyakāma gli domandò: «O Venerabile Signore, se tra gli uomini qualcuno meditasse assiduamente sulla sillaba sacra Oṃ fino all'istante estremo del trapasso, quale mondo conquisterebbe egli per mezzo di essa?». A lui quegli rispose:",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-5-2",
+            "original": "एतद्वै सत्यकाम परं चापरं च ब्रह्म यदोङ्कारः । तस्माद्विद्वानेतेनैवायतनेनैकतरमन्वेति ॥ २ ॥",
+            "translation": "«Ciò che è noto come Oṅkāra, o Satyakāma, è in verità sia il Brahman Supremo sia il Brahman Inferiore. Perciò il sapiente, per mezzo di questo solo supporto contemplativo, consegue l'uno o l'altro di Essi».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-5-3",
+            "original": "स यद्येकमात्रमभिध्यायीत स तेनैव संवेदितस्तूर्णमेव जगत्यामभिसम्पद्यते । तमृचो मनुष्यलोकमुपनयन्ते स तत्र तपसा ब्रह्मचर्येण श्रद्धया सम्पन्नो महिमानमनुभवति ॥ ३ ॥",
+            "translation": "«Se egli medita su di Esso limitatamente a una sola misura, illuminato da quella soltanto, ritorna prontamente al mondo terreno. Gli inni del Ṛgveda lo riconducono al mondo degli uomini; ed ivi, ricolmo di ascesi, di sacra disciplina e di fede intuitiva, egli sperimenta la grandezza spirituale».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-5-4",
+            "original": "अथ यदि द्विमात्रेण मनसि संपद्यते सोऽन्तरिक्षं यजुर्भिरुन्नीयते सोमलोकम् । स सोमलोके विभूतिमनुभूय पुनरावर्तते ॥ ४ ॥",
+            "translation": "«Se invece egli si unisce nella mente alla meditazione sulle due misure, viene elevato nello spazio intermedio per mezzo delle formule dello Yajurveda, fino al mondo lunare. Ed avendo ivi sperimentato la maestà e la gloria del mondo sottile, egli ritorna nuovamente al divenire».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-5-5",
+            "original": "यः पुनरेतं त्रिमात्रेणोमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायीत स तेजसि सूर्ये संपन्नः । यथा पादोदरस्त्वचा विनिर्मुच्यत एवं ह वै स पाप्मना विनिर्मुक्तः स सामभिरुन्नीयते ब्रह्मलोकं स एतस्माज्जीवघनात् परात्परं पुरिशयं पुरुषमीक्षते । तदेतौ श्लोकौ भवतः ॥ ५ ॥",
+            "translation": "«Ma colui che, per mezzo di questa medesima sillaba imperitura Oṃ considerata nella pienezza delle sue tre misure, medita sul Puruṣa Supremo, costui si fonde nella Luce sfolgorante del Sole. Come un serpente si spoglia interamente della propria vecchia pelle, esattamente così egli si libera da ogni traccia di imperfezione e demerito; viene elevato dai canti del Sāmaveda fino al Mondo di Brahman, e da questa matrice originaria delle anime viventi perviene a contemplare il Puruṣa Supremo, trascendente ogni trascendenza, che risiede nel segreto di ogni essere. A questo proposito vi sono due strofe:»",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-5-6",
+            "original": "तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता अन्योन्यसक्ताः अनविप्रयुक्ताः । क्रियासु बाह्याभ्यन्तरमध्यमासु सम्यक् प्रयुक्तासु न कम्पते ज्ञः ॥ ६ ॥",
+            "translation": "«\"Le tre misure, se impiegate separatamente, rimangono soggette alla morte; ma allorché sono congiunte l'una all'altra senza scissione né discordia, e sono rettamente applicate alle azioni interiori, esteriori e mediane, il saggio che conosce non vacilla più\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-5-7",
+            "original": "ऋग्भिरेतं यजुर्भिरन्तरिक्षं सामभिर्यत्तत् कवयो वेदयन्ते । तमोङ्कारेणैवायतनेनान्वेति विद्वान् यत्तच्छान्तमजरममृतमभयं परं चेति ॥ ७ ॥",
+            "translation": "«\"Per mezzo degli inni del Ṛgveda si consegue questo mondo umano; per mezzo delle formule dello Yajurveda lo spazio intermedio; per mezzo dei canti del Sāmaveda ciò che i saggi veggenti rivelano. E per mezzo del solo supporto della sacra sillaba Oṃ, il sapiente perviene a Quello che è pacificato, incorruttibile, immortale, scevro da timore e Supremo\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/prashna-5.json"
+  },
+  "prashna-6": {
+    "id": "prashna-6",
+    "work_id": "prashna-upanishad",
+    "unit_locus": "VI.1-9",
+    "unit_title": "Ṣaṣṭhaḥ Praśnaḥ — Il Puruṣa delle sedici parti e la reintegrazione nell'Oceano del Sé",
+    "sections": [
+      {
+        "section_locus": "VI.1-9",
+        "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
+        "passages": [
+          {
+            "id": "prashna-6-1",
+            "original": "अथ हैनं सुकेशा भारद्वाजः पप्रच्छ । भगवन् हिरण्यनाभः कौसल्यो राजपुत्रो मामुपेत्यैतं प्रश्नमपृच्छत । षोडशकलं भारद्वाज पुरुषं वेत्थ । तमहं कुमारमब्रुवं नाहमिमं वेद । यद्यहमिममवेदिषं कथं ते नावक्ष्यमिति । समूलो वा एष परिशुष्यति योऽनृतमभिवदति तस्मान्नार्हाम्यनृतं वक्तुम् । स तूष्णीं रथमारुह्य प्रवव्राज । तं त्वा पृच्छामि क्वासौ पुरुष इति ॥ १ ॥",
+            "translation": "Allora Sukeśā figlio di Bharadvāja lo interrogò: «Venerabile Signore, Hiraṇyanābha principe di Kosala venne un tempo da me e mi pose questa domanda: \"O discendente di Bharadvāja, conosci tu il Puruṣa costituito di sedici parti?\". Io risposi a quel principe: \"Io non Lo conosco. Se Lo avessi conosciuto, come avrei potuto non rivelartelo? Colui che proferisce menzogna si dissecca invero fin dalle radici; perciò non è conveniente per me pronunciare il falso\". Quegli, salito sul proprio carro in silenzio, se ne andò. Ora dunque io interrogo te su questo: dove risiede quel Puruṣa?».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-6-2",
+            "original": "तस्मै स होवाच । इहैवान्तःशरीरे सोम्य स पुरुषो यस्मिन्नेताः षोडशकलाः प्रभवन्तीति ॥ २ ॥",
+            "translation": "A lui quegli rispose: «Qui stesso, all'interno del corpo, o caro, risiede quel Puruṣa, nel Quale traggono origine queste sedici parti!».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-6-3",
+            "original": "स ईक्षाञ्चक्रे । कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन्वा प्रतिष्ठिते प्रतिष्ठास्यामीति ॥ ३ ॥",
+            "translation": "«Egli deliberò in Se stesso: \"All'uscita di quale principio ne uscirò anch'io, e al permanere stabile di quale principio rimarrò stabilito anch'io?\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-6-4",
+            "original": "स प्राणमसृजत प्राणाच्छ्रद्धां खं वायुर्ज्योतिरापः पृथिवीन्द्रियं मनः । अन्नमन्नाद्वीर्यं तपो मन्त्राः कर्म लोका लोकेषु च नाम च ॥ ४ ॥",
+            "translation": "«Egli generò il Soffio vitale primordiale; dal Soffio vitale generò la Fede intuitiva, lo Spazio eterico, l'Aria, la Luce, le Acque, la Terra, le facoltà sensoriali, e la Mente. Generò quindi il Cibo; dal cibo il vigore vitale; l'ascesi concentrata, i mantra sacri, l'azione rituale, i mondi della manifestazione, e, nei mondi, il Nome distintivo».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-6-5",
+            "original": "स यथेमा नद्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं गच्छन्ति भिद्येते तासां नामरूपे समुद्र इत्येवं प्रोच्यते । एवमेवास्य परिद्रष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति भिद्येते चासां नामरूपे पुरुष इत्येवं प्रोच्यते स एषोऽकलोऽमृतो भवति तदेष श्लोकः ॥ ५ ॥",
+            "translation": "«Come questi fiumi che scorrono, avendo per meta finale l'Oceano, allorché hanno raggiunto l'Oceano scompaiono in esso: i loro nomi e le loro forme particolari vengono infranti e dissolti, e si dice semplicemente \"l'Oceano\"; esattamente allo stesso modo, di questo Testimone sovrano che tutto contempla, queste sedici parti, che hanno per fine supremo il Puruṣa, una volta pervenute al Puruṣa scompaiono: i loro nomi e le loro forme particolari vengono infranti e dissolti, e si dice semplicemente \"il Puruṣa\". Egli diviene allora privo di parti e immortale. A questo proposito vi è la seguente strofa:»",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-6-6",
+            "original": "अरा इव रथनाभौ कला यस्मिन्प्रतिष्ठिताः । तं वेद्यं पुरुषं वेद यथा मा वो मृत्युः परिव्यथा इति ॥ ६ ॥",
+            "translation": "«\"Colui nel Quale le parti sono stabilite come i raggi nel mozzo della ruota del carro: conoscete quel Puruṣa, che solo deve essere conosciuto, affinché la morte non abbia a tormentarvi!\"».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-6-7",
+            "original": "तान् होवाचैतावदेवाहमेतत् परं ब्रह्म वेद । नातः परमस्तीति ॥ ७ ॥",
+            "translation": "Pippalāda disse loro: «Fin qui soltanto io conosco questo Brahman Supremo; non vi è alcunché al di sopra di Questo!».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-6-8",
+            "original": "ते तमर्चयन्तस्त्वं हि नः पिता योऽस्माकमविद्यायाः परं पारं तारयसीति । नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥ ८ ॥",
+            "translation": "Essi lo venerarono dicendo: «Tu sei invero il nostro vero Padre, tu che ci traghetti all'altra riva della nostra ignoranza! Omaggio ai supremi Veggenti! Omaggio ai supremi Veggenti!».",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          },
+          {
+            "id": "prashna-6-9",
+            "original": "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥ स्वस्ति न इन्द्रो वृद्धश्रवाः । स्वस्ति नः पूषा विश्ववेदाः । स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः । स्वस्ति नो बृहस्पतिर्दधातु ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+            "translation": "Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi possiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra salde e corpi che vi rendono lode, possiamo noi godere la durata di vita stabilita dal Principio divino. Ci accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto conosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace Bṛhaspati! Oṃ. Pace, Pace, Pace.",
+            "source": "Praśnopaniṣad",
+            "editorial_status": "established"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/prashna-6.json"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "id": "ex-isha-1-1",
+  "target": {
+    "type": "passage",
+    "id": "isha-1-1"
+  },
+  "title": "Spiegazione",
+  "sections": [
+    {
+      "type": "context",
+      "title": "Il contesto",
+      "content": "Questo è il primo mantra dell'Īśāvāsya Upaniṣad (Vājasaneyi-Saṃhitā XL), l'Upaniṣad più breve del corpus canonico delle Upaniṣad principali. Il testo si apre con un'affermazione di portata universale: non una descrizione dell'Assoluto come oggetto di conoscenza, ma una prescrizione su come il mondo manifestato deve essere percepito — e su quale atteggiamento interiore ne consegue."
+    },
+    {
+      "type": "explanation",
+      "title": "Che cosa afferma il testo",
+      "content": "Il mantra afferma che la totalità del manifestato — «qualunque cosa sia mutevole e soggetta a perenne divenire in questo mondo» (yat kiñca jagatyāṃ jagat) — deve essere «ricoperta» (vāsyam) dal Signore (Īśa). Īśa è qui il Principio supremo considerato nella sua funzione di reggitore del cosmo (Īśvara), non l'Assoluto in senso rigoroso (Brahman senza attributi). La distinzione è dottrinalmente rilevante: l'Upaniṣad apre dal punto di vista della relazione tra il mondo e il Principio, non dall'identità assoluta che verrà stabilita nei mantra successivi."
+    },
+    {
+      "type": "argument",
+      "title": "Il ragionamento",
+      "content": "L'imperativo «ricopri» (vāsyam) non ha un significato etico-comportamentale primario: indica una modalità di percezione. Il mondo non cessa di essere mondo, ma viene visto come pervaso e retto da Īśa — come un tessuto è pervaso dalla sua trama. Da questa percezione segue la seconda affermazione: «per mezzo di questa rinuncia, sostieniti». La rinuncia (tyāga) di cui parla il testo non è un abbandono materiale delle cose, ma il distacco dall'appropriazione individuale — dall'illusione che le cose del mondo appartengano all'io individuale. È la distinzione tra godimento consapevole e brama (gṛdha): il secondo nasce dall'identificazione con l'individuale, il primo è compatibile con la conoscenza."
+    },
+    {
+      "type": "clarification",
+      "title": "Che cosa significa precisamente",
+      "content": "«Non bramare la ricchezza di alcuno» (mā gṛdhaḥ kasya svid dhanam) non è un precetto di povertà né un invito al disinteresse mondano in senso romantico. È la conseguenza logica della percezione corretta: se tutto è pervaso dal Principio, l'idea stessa di appropriazione individuale è metafisicamente infondata. Il «godimento» (bhuñjīthā) permesso è quello di chi ha dismesso la pretesa di possesso. Śaṅkara commenta questo mantra sottolineando che il testo non si rivolge al jñānin (conoscitore) — per il quale la questione del possesso è già risolta — ma a colui che è ancora nel regime dell'azione, indicandogli la disposizione interiore corretta."
+    },
+    {
+      "type": "implication",
+      "title": "Implicazioni dottrinali",
+      "content": "Il primo mantra introduce il problema centrale dell'intera Upaniṣad: il rapporto tra la conoscenza dell'Assoluto e la vita nel mondo manifestato. L'Upaniṣad non risolve questo rapporto con un rifiuto del manifestato, ma con la sua trasfigurazione percettiva: il mondo non è negato, ma reintegrato sotto il Principio. Questo distingue l'approccio dell'Īśāvāsya da una lettura puramente apofatica o di puro rifiuto del mondo, e spiega perché Śaṅkara abbia ritenuto necessario armonizzare questo mantra con la sua dottrina del kevala-jñāna-niṣṭhā (dimora nella conoscenza pura)."
+    }
+  ]
+}

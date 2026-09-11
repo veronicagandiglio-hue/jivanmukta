@@ -1,0 +1,25 @@
+{
+  "id": "ex-isha-1-shanti",
+  "target": {
+    "type": "passage",
+    "id": "isha-1-shanti"
+  },
+  "title": "Spiegazione dello Śānti-pāṭha",
+  "sections": [
+    {
+      "type": "context",
+      "title": "Il canto di pace della tradizione Vedāntica",
+      "content": "Lo Śānti-pāṭha apre e chiude la recitazione dell'Īśopaniṣad e della Bṛhadāraṇyaka Upaniṣad. La sua formulazione paradossale esprime l'assioma fondante della non-dualità metafisica attraverso il termine pūrṇa (pienezza, integralità indissolubile)."
+    },
+    {
+      "type": "explanation",
+      "title": "Che cosa afferma il testo",
+      "content": "«Quello» (adaḥ) designa il Brahman non-manifestato, la Trascendenza incondizionata; «questo» (idam) designa il cosmo manifestato, l'universo dei nomi e delle forme (nāmarūpa). Il testo dichiara che entrambi sono la medesima Pienezza: la manifestazione non è un'addizione reale all'Assoluto, né il cosmo rappresenta una perdita o una diminuzione rispetto alla sorgente."
+    },
+    {
+      "type": "argument",
+      "title": "L'argomentazione non-duale",
+      "content": "Sul piano dell'aritmetica empirica, sottraendo una quantità da un intero si ottiene un residuo minore. Sul piano dell'Infinito metafisico, invece, la derivazione del mondo fenomenico non intacca la totalità del Principio. Sottratta la pienezza dalla pienezza, la pienezza sola permane (pūrṇam evāvaśiṣyate). La manifestazione è mera apparenza (māyā/vivarta): non vi è mai stato alcun reale mutamento o frazionamento nell'Essenza immutabile."
+    }
+  ]
+}

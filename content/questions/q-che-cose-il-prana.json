@@ -1,0 +1,23 @@
+{
+  "id": "q-che-cose-il-prana",
+  "type": "great",
+  "text": "Qual è la natura, la dignità e la funzione universale del Soffio vitale (Prāṇa)?",
+  "problem": "Definire se il Prāṇa sia una mera funzione fisiologica o il perno metafisico universale della vita emanato dall'Ātman.",
+  "parent_question": null,
+  "concepts": [
+    "prana",
+    "atman"
+  ],
+  "passages": [
+    "prashna-2-3",
+    "prashna-2-6",
+    "prashna-3-3",
+    "prashna-3-7"
+  ],
+  "commentaries": [
+    "comm-shankara-prashna-3-3"
+  ],
+  "related_questions": [
+    "q-da-dove-ha-origine-il-cosmo"
+  ]
+}

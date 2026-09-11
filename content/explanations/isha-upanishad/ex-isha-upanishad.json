@@ -1,0 +1,25 @@
+{
+  "id": "ex-isha-upanishad",
+  "target": {
+    "type": "work",
+    "id": "isha-upanishad"
+  },
+  "title": "Spiegazione dell'Īśā Upaniṣad",
+  "sections": [
+    {
+      "type": "context",
+      "title": "Posizione canonica e natura dell'opera",
+      "content": "L'Īśāvāsya Upaniṣad costituisce il quarantesimo e conclusivo capitolo della Vājasaneyi-Saṃhitā (Śukla Yajurveda). A differenza della maggioranza delle altre Upaniṣad canoniche, che appartengono alla sezione dei Brāhmaṇa o degli Āraṇyaka, l'Īśā è integrata direttamente nella Saṃhitā stessa. Questa collocazione privilegiata ne sottolinea la natura sintetica e fondativa: essa unisce la prospettiva dell'azione sacrificale a quella della conoscenza metafisica suprema."
+    },
+    {
+      "type": "explanation",
+      "title": "Il nucleo dottrinale",
+      "content": "L'opera affronta il problema cardinale dell'Advaita Vedānta: come conciliare l'attività nel mondo fenomenico con la realizzazione dell'Assoluto immutabile. La risposta non risiede nella distruzione o nel mero rifiuto formale del mondo, ma nella trasmutazione della visione interiore: l'intero cosmo dinamico deve essere avviluppato dalla coscienza del Signore (Īśa). Da questa comprensione scaturisce una duplice via: quella della rinuncia pura per i qualificati alla suprema conoscenza, e quella dell'azione disinteressata per coloro che sono ancora soggetti alla dinamica dell'azione."
+    },
+    {
+      "type": "argument",
+      "title": "Lo sviluppo del trattato",
+      "content": "Il testo procede dai principi metafisici primi (Īśāvāsya, l'omnicomprensività dell'Ātman e il superamento di illusione e dolore nei mantra 1-8), attraverso l'armonizzazione dialettica degli opposti relativi (vidyā e avidyā nei mantra 9-11; sambhūti e asambhūti nei mantra 12-14), per culminare nella contemplazione esatologica solare e nell'affermazione dell'identità suprema tra il testimone interiore e il Puruṣa trascendente: so'ham asmi (mantra 15-18)."
+    }
+  ]
+}

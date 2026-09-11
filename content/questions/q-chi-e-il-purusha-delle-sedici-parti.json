@@ -1,0 +1,23 @@
+{
+  "id": "q-chi-e-il-purusha-delle-sedici-parti",
+  "type": "great",
+  "text": "Chi è il Puruṣa costituito di sedici parti e dove risiede?",
+  "problem": "Riconoscere che l'Assoluto privo di parti risiede nel centro del corpo e che tutte le determinazioni si risolvono in Esso come fiumi nel mare.",
+  "parent_question": null,
+  "concepts": [
+    "purusha",
+    "sodasa-kala",
+    "atman"
+  ],
+  "passages": [
+    "prashna-6-2",
+    "prashna-6-4",
+    "prashna-6-5"
+  ],
+  "commentaries": [
+    "comm-shankara-prashna-6-5"
+  ],
+  "related_questions": [
+    "q-qual-e-il-valore-della-sillaba-om"
+  ]
+}

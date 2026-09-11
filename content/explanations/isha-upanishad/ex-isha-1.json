@@ -1,0 +1,20 @@
+{
+  "id": "ex-isha-1",
+  "target": {
+    "type": "unit",
+    "id": "isha-1"
+  },
+  "title": "Spiegazione della Sezione Unica dell'Īśopaniṣad",
+  "sections": [
+    {
+      "type": "context",
+      "title": "La struttura organica della sezione",
+      "content": "Composta da diciotto mantra preceduti e seguiti dallo Śānti-pāṭha («Pūrṇam adaḥ»), la sezione unica dell'Īśopaniṣad è articolata secondo un rigore geometrico: stabilisce la natura dell'Assoluto, disciplina il regime dell'azione nel mondo, demolisce le false certezze di chi isola il rito dalla meditazione, e culmina nella dissoluzione della personalità psicofisica dinanzi alla Verità."
+    },
+    {
+      "type": "explanation",
+      "title": "Orientamento per la lettura",
+      "content": "Nel commentario di Śaṅkara, questa unità viene letta come una chiarificazione progressiva: il primo mantra è indirizzato ai jñānin (coloro votati alla pura contemplazione del Sé), il secondo ai karmin (coloro che necessitano di adempiere ai doveri della vita attiva senza accumulare contaminazione karmica), mentre i mantra successivi demoliscono le illusioni gnoseologiche di ogni dualità."
+    }
+  ]
+}

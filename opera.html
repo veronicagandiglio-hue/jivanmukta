@@ -271,15 +271,23 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
   async function resolveUnitFromPath(work, extraSegments) {
     if (!extraSegments || !extraSegments.length) return null;
     const wantedPath = extraSegments.join('/').toLowerCase();
-    const wantedChapter = extraSegments[0].toUpperCase();
 
     for (const unitId of (work.editorial_units || [])) {
       const result = await ContentEngine.getUnit(unitId);
       if (result.status !== 'ok') continue;
       const segments = localeToPathSegments(result.data.unit_locus);
-      if (segments.join('/').toLowerCase() === wantedPath ||
-          (segments.length > 1 && segments[0].toUpperCase() === wantedChapter)) {
+      if (segments.join('/').toLowerCase() === wantedPath) {
         return result.data;
+      }
+    }
+
+    if (extraSegments.length === 1) {
+      const wantedChapter = extraSegments[0].toLowerCase();
+      for (const unitId of (work.editorial_units || [])) {
+        const result = await ContentEngine.getUnit(unitId);
+        if (result.status !== 'ok') continue;
+        const segments = localeToPathSegments(result.data.unit_locus);
+        if (segments[0] === wantedChapter) return result.data;
       }
     }
     return null;
@@ -382,7 +390,8 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
         const li = document.createElement('li');
         if (unitResult.status === 'ok') {
           const u = unitResult.data;
-          const a = createEl('a', { href: UrlRouter.buildContentUrl('testi', work.id, localeToPathSegments(u.unit_locus)) });
+          const href = UrlRouter.buildContentUrl('testi', work.id, localeToPathSegments(u.unit_locus)) + '?unit=' + encodeURIComponent(u.id);
+          const a = createEl('a', { href: href });
           a.append(createEl('span', { class: 'contents__num', text: u.unit_locus }));
           a.append(createEl('span', { class: 'contents__name', text: u.unit_title }));
           const count = u.sections ? (u.sections.length + ' sezioni') : '';

@@ -551,8 +551,9 @@ a.related{ text-decoration-color: var(--color-rule); }
     return match ? [match[1].toLowerCase(), match[2]] : [normalized.toLowerCase()];
   }
 
-  function unitUrl(workId, unitLocus, passageId) {
+  function unitUrl(workId, unitLocus, passageId, unitId) {
     let url = UrlRouter.buildContentUrl('testi', workId, localeToPathSegments(unitLocus));
+    if (unitId) url += '?unit=' + encodeURIComponent(unitId);
     if (passageId) url += '#' + encodeURIComponent(passageId);
     return url;
   }
@@ -612,14 +613,21 @@ a.related{ text-decoration-color: var(--color-rule); }
     }
 
     const wantedPath = extraSegments.join('/').toLowerCase();
-    const wantedChapter = extraSegments[0].toUpperCase();
     for (const unitId of unitIds) {
       const result = await ContentEngine.getUnit(unitId);
       if (result.status !== 'ok') continue;
       const segs = localeToPathSegments(result.data.unit_locus);
-      if (segs.join('/').toLowerCase() === wantedPath ||
-          (segs.length > 1 && segs[0].toUpperCase() === wantedChapter)) {
+      if (segs.join('/').toLowerCase() === wantedPath) {
         return result.data;
+      }
+    }
+    if (extraSegments.length === 1) {
+      const wantedChapter = extraSegments[0].toLowerCase();
+      for (const unitId of unitIds) {
+        const result = await ContentEngine.getUnit(unitId);
+        if (result.status !== 'ok') continue;
+        const segs = localeToPathSegments(result.data.unit_locus);
+        if (segs[0] === wantedChapter) return result.data;
       }
     }
     return null;
@@ -690,10 +698,10 @@ a.related{ text-decoration-color: var(--color-rule); }
   function renderAdjacentUnits(el, work, currentUnitLocus, prevUnit, nextUnit) {
     el.replaceChildren();
     if (prevUnit) {
-      el.append(createEl('a', { href: unitUrl(work.id, prevUnit.unit_locus), text: '← ' + prevUnit.unit_locus }));
+      el.append(createEl('a', { href: unitUrl(work.id, prevUnit.unit_locus, null, prevUnit.id), text: '← ' + prevUnit.unit_locus }));
     }
     if (nextUnit) {
-      el.append(createEl('a', { href: unitUrl(work.id, nextUnit.unit_locus), text: nextUnit.unit_locus + ' →' }));
+      el.append(createEl('a', { href: unitUrl(work.id, nextUnit.unit_locus, null, nextUnit.id), text: nextUnit.unit_locus + ' →' }));
     }
   }
 
@@ -849,7 +857,7 @@ a.related{ text-decoration-color: var(--color-rule); }
     nav.hidden = false;
 
     if (prevUnit) {
-      nav.append(createEl('a', { href: unitUrl(work.id, prevUnit.unit_locus), text: '← ' + prevUnit.unit_locus + ' — ' + prevUnit.unit_title }));
+      nav.append(createEl('a', { href: unitUrl(work.id, prevUnit.unit_locus, null, prevUnit.id), text: '← ' + prevUnit.unit_locus + ' — ' + prevUnit.unit_title }));
     } else {
       const span = createEl('a', { text: '← inizio dell\'opera' });
       span.setAttribute('aria-disabled', 'true');
@@ -859,7 +867,7 @@ a.related{ text-decoration-color: var(--color-rule); }
     nav.append(createEl('a', { href: workUrl(work.id), text: 'indice dell\'opera' }));
 
     if (nextUnit) {
-      nav.append(createEl('a', { href: unitUrl(work.id, nextUnit.unit_locus), text: nextUnit.unit_locus + ' — ' + nextUnit.unit_title + ' →' }));
+      nav.append(createEl('a', { href: unitUrl(work.id, nextUnit.unit_locus, null, nextUnit.id), text: nextUnit.unit_locus + ' — ' + nextUnit.unit_title + ' →' }));
     } else {
       const span = createEl('a', { text: 'fine del contenuto disponibile →' });
       span.setAttribute('aria-disabled', 'true');

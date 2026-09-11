@@ -1,0 +1,20 @@
+{
+  "id": "ex-kena-1-1",
+  "target": {
+    "type": "passage",
+    "id": "kena-1-1"
+  },
+  "title": "Spiegazione di Kena I.1",
+  "sections": [
+    {
+      "type": "context",
+      "title": "La domanda primordiale: l'origine delle funzioni cognitive",
+      "content": "L'Upaniṣad esordisce senza preamboli rituali con l'interrogazione del discepolo: «Da chi voluto e mosso si lancia il pensiero? Da chi ordinato procede il primo soffio vitale? Da chi mossa gli uomini proferiscono questa parola? Quale divinità coordina l'occhio e l'udito?»."
+    },
+    {
+      "type": "argument",
+      "title": "L'insufficienza dei meccanismi naturali",
+      "content": "Il discepolo intuisce che gli organi dei sensi e la mente non agiscono per iniziativa puramente meccanica o biologica: essendo composti e privi di coscienza propria (jaḍa), presuppongono necessariamente un principio autocosciente e sovraordinato che ne orienti l'operare."
+    }
+  ]
+}

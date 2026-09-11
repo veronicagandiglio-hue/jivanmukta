@@ -1,0 +1,24 @@
+{
+  "id": "q-da-dove-ha-origine-il-cosmo",
+  "type": "great",
+  "text": "Da dove scaturiscono tutte le creature e la molteplicità dell'universo?",
+  "problem": "Comprendere l'origine cosmogonica non come creazione ex nihilo ma come proiezione polare di Essenza (Prāṇa) e Sostanza (Rayi) da parte del Principio.",
+  "parent_question": null,
+  "concepts": [
+    "prajapati",
+    "prana",
+    "rayi",
+    "brahman"
+  ],
+  "passages": [
+    "prashna-1-3",
+    "prashna-1-4",
+    "prashna-1-5"
+  ],
+  "commentaries": [
+    "comm-shankara-prashna-1-4"
+  ],
+  "related_questions": [
+    "q-che-cose-il-prana"
+  ]
+}

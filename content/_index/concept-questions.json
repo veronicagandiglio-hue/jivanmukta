@@ -32,6 +32,7 @@
     "q-che-cose-il-mondo",
     "q-che-cose-l-atman",
     "q-come-si-conosce-il-brahman",
+    "q-da-dove-ha-origine-il-cosmo",
     "q-kena-allegoria-yaksha",
     "q-kena-analogie-adhidaivata-adhyatma",
     "q-kena-funzione-uma",
@@ -40,6 +41,7 @@
     "q-kena-pratibodha-viditam",
     "q-kena-principio-animatore",
     "q-kena-urgenza-realizzazione",
+    "q-qual-e-il-valore-della-sillaba-om",
     "q-qual-e-la-natura-della-liberazione",
     "q-rapporto-se-brahman"
   ],
@@ -75,9 +77,16 @@
     "q-che-cose-il-mondo",
     "q-dialettica-sambhuti-asambhuti"
   ],
+  "prana": [
+    "q-che-cose-il-prana",
+    "q-da-dove-ha-origine-il-cosmo",
+    "q-polarita-primordiale-prana-rayi"
+  ],
   "atman": [
+    "q-che-cose-il-prana",
     "q-che-cose-il-se",
     "q-che-cose-l-atman",
+    "q-chi-e-il-purusha-delle-sedici-parti",
     "q-cosa-accade-dopo-la-morte",
     "q-e-possibile-la-liberta",
     "q-frutto-realizzazione-unita",
@@ -89,7 +98,14 @@
   ],
   "purusha": [
     "q-che-cose-l-atman",
-    "q-metodo-dello-yoga-metafisico-nel-vedanta"
+    "q-chi-e-il-purusha-delle-sedici-parti",
+    "q-dissoluzione-delle-parti-nell-oceano-del-se",
+    "q-metodo-dello-yoga-metafisico-nel-vedanta",
+    "q-qual-e-il-valore-della-sillaba-om"
+  ],
+  "sodasa-kala": [
+    "q-chi-e-il-purusha-delle-sedici-parti",
+    "q-dissoluzione-delle-parti-nell-oceano-del-se"
   ],
   "buddhi-intelletto": [
     "q-come-si-conosce-il-brahman",
@@ -98,6 +114,14 @@
   "adhyatma-yoga": [
     "q-come-si-conosce-il-brahman",
     "q-metodo-dello-yoga-metafisico-nel-vedanta"
+  ],
+  "prajapati": [
+    "q-da-dove-ha-origine-il-cosmo",
+    "q-polarita-primordiale-prana-rayi"
+  ],
+  "rayi": [
+    "q-da-dove-ha-origine-il-cosmo",
+    "q-polarita-primordiale-prana-rayi"
   ],
   "vidya": [
     "q-dialettica-vidya-avidya",
@@ -108,6 +132,10 @@
     "q-lazione-vincola",
     "q-perche-soffriamo",
     "q-uccisori-del-se"
+  ],
+  "aksara": [
+    "q-dissoluzione-delle-parti-nell-oceano-del-se",
+    "q-quali-sono-gli-stati-di-coscienza"
   ],
   "ekatva": [
     "q-frutto-realizzazione-unita"
@@ -131,7 +159,16 @@
     "q-perche-soffriamo",
     "q-uccisori-del-se"
   ],
+  "om-pranava": [
+    "q-qual-e-il-valore-della-sillaba-om"
+  ],
   "jivanmukti": [
     "q-qual-e-la-natura-della-liberazione"
+  ],
+  "svapna-e-susupti": [
+    "q-quali-sono-gli-stati-di-coscienza"
+  ],
+  "vijnanatman": [
+    "q-quali-sono-gli-stati-di-coscienza"
   ]
 }
