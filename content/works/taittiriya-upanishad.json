@@ -1,0 +1,17 @@
+{
+  "id": "taittiriya-upanishad",
+  "title": "Taittirīyopaniṣad",
+  "short_title": "Taittirīya",
+  "language": "sa",
+  "attribution": "Kṛṣṇa Yajurveda (scuola Taittirīya)",
+  "editorial_note": [
+    "Upaniṣad del Kṛṣṇa Yajurveda articolata nelle tre vallī canoniche: Śīkṣāvallī, Brahmānandavallī e Bhṛguvallī.",
+    "Espone la disciplina propedeutica, la definizione di Brahman, la dottrina dei cinque involucri e l'indagine discriminativa di Bhṛgu.",
+    "Il testo è strutturato secondo la trasmissione tradizionale dell'Upaniṣad e il commentario di Śaṅkarācārya."
+  ],
+  "editorial_units": [
+    "taittiriya-1",
+    "taittiriya-2",
+    "taittiriya-3"
+  ]
+}

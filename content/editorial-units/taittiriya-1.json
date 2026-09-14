@@ -1,0 +1,175 @@
+{
+  "id": "taittiriya-1",
+  "work_id": "taittiriya-upanishad",
+  "unit_locus": "I.1-I.12",
+  "unit_title": "Prathamā Śīkṣāvallī — La disciplina propedeutica, le corrispondenze cosmiche e l'ordinamento etico-tradizionale",
+  "sections": [
+    {
+      "section_locus": "I.1-I.12",
+      "section_title": "Śīkṣāvallī",
+      "passages": [
+        {
+          "id": "taittiriya-1-1-1",
+          "locus": "I.1.1",
+          "original": "ॐ शं नो मित्रः शं वरुणः । शं नो भवत्वर्यमा । शं न इन्द्रो बृहस्पतिः । शं नो\nविष्णुरुरुक्रमः । नमो ब्रह्मणे । नमस्ते वायो । त्वमेव प्रत्यक्षं ब्रह्मासि ।\nत्वामेव प्रत्यक्षं ब्रह्म वदिष्यामि । ऋतं वदिष्यामि । सत्यं वदिष्यामि ।\nतन्मामवतु । तद्वक्तारमवतु । अवतु माम् । अवतु वक्तारम् । ॐ शान्तिः शान्तिः\nशान्तिः ॥ १ ॥",
+          "translation": "Oṃ. Ci accordi pace Mitra; ci accordi pace Varuṇa; ci accordi pace Aryaman; ci\naccordino pace Indra e Bṛhaspati; ci accordi pace Viṣṇu dai passi immensi.\nOmaggio al Brahman! Omaggio a te, o Vāyu! Tu invero sei il Brahman percettibile;\nte proclamerò quale Brahman manifesto. Proclamerò l'Ordine divino (ṛta);\nproclamerò la Verità (satya). Possa Quello proteggere me; possa Quello\nproteggere il maestro. Protegga me; protegga il maestro!\nOṃ. Pace, Pace, Pace.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-2-1",
+          "locus": "I.2.1",
+          "original": "ॐ शीक्षां व्याख्यास्यामः । वर्णः स्वरः । मात्रा बलम् । साम सन्तानः । इत्युक्तः\nशीक्षाध्यायः ॥ १ ॥",
+          "translation": "Oṃ. Esporremo ora la scienza dell'articolazione sacra (śīkṣā): il suono fonetico\n(varṇa), l'accento (svara), la misura della durata (mātrā), l'intensità\nd'emissione (bala), la melodia e il ritmo (sāma), la congiunzione continua dei\nsuoni (santāna). Tale è quanto concerne la disciplina della fonetica sacra.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-3-1",
+          "locus": "I.3.1",
+          "original": "सह नौ यशः । सह नौ ब्रह्मवर्चसम् । अथातः संहिताया उपनिषदं व्याख्यास्यामः ।\nपञ्चस्वधिकरणेषु । अधिलोकमधिज्यौतिषमधिविद्यमधिप्रजमध्यात्मम् । ता महासंहिता\nइत्याचक्षते । अथाधिलोकम् । पृथिवी पूर्वरूपम् । द्यौरुत्तररूपम् । आकाशः सन्धिः ॥\n१ ॥",
+          "translation": "Sia insieme la nostra gloria spirituale; sia insieme il nostro splendore\nscaturito dalla sapienza del Brahman (brahmavarcasa). Esporremo ora la dottrina\nsegreta (upaniṣad) sulle congiunzioni sacre (saṃhitā) secondo cinque domini di\nriferimento: relativamente ai mondi (adhilokam), relativamente ai corpi luminosi\n(adhijyautiṣam), relativamente alla conoscenza (adhividyam), relativamente alla\nprocreazione (adhiprajam), relativamente all'essere interiore (adhyātmam). Esse\nvengono chiamate le Grandi Congiunzioni (mahāsaṃhitā).\nDunque, riguardo ai mondi: la Terra è la forma anteriore; il Cielo è la forma\nposteriore; lo Spazio eterico è il loro punto d'unione.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-3-2",
+          "locus": "I.3.2",
+          "original": "वायुः सन्धानम् । इत्यधिलोकम् । अथाधिज्यौतिषम् । अग्निः पूर्वरूपम् । आदित्य\nउत्तररूपम् । आपः सन्धिः । वैद्युतः सन्धानम् । इत्यधिज्यौतिषम् । अथाधिविद्यम् ।\nआचार्यः पूर्वरूपम् ॥ २ ॥",
+          "translation": "L'Aria è il mezzo di congiunzione. Tale è l'ordine relativo ai mondi.\nOra, riguardo ai corpi luminosi: il Fuoco è la forma anteriore; il Sole è la\nforma posteriore; le Acque sono il loro punto d'unione; il Fulmine è il mezzo di\ncongiunzione. Tale è l'ordine relativo ai corpi luminosi.\nOra, riguardo alla conoscenza: il Maestro è la forma anteriore;",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-3-3",
+          "locus": "I.3.3",
+          "original": "अन्तेवास्युत्तररूपम् । विद्या सन्धिः । प्रवचनꣳसन्धानम् । इत्यधिविद्यम् ।\nअथाधिप्रजम् । माता पूर्वरूपम् । पितोत्तररूपम् । प्रजा सन्धिः । प्रजननꣳसन्धानम् ।\nइत्यधिप्रजम् ॥ ३ ॥",
+          "translation": "il discepolo è la forma posteriore; la Conoscenza (vidyā) è il loro punto\nd'unione; l'istruzione e la trasmissione tradizionale (pravacana) è il mezzo di\ncongiunzione. Tale è l'ordine relativo alla conoscenza.\nOra, riguardo alla procreazione: la madre è la forma anteriore; il padre è la\nforma posteriore; la prole è il loro punto d'unione; l'atto generativo è il\nmezzo di congiunzione. Tale è l'ordine relativo alla procreazione.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-3-4",
+          "locus": "I.3.4",
+          "original": "अथाध्यात्मम् । अधराहनुः पूर्वरूपम् । उत्तराहनूत्तररूपम् । वाक्सन्धिः ।\nजिह्वासन्धानम् । इत्यध्यात्मम् । इतीमामहासंहिताः । य एवमेता महासंहिता व्याख्याता\nवेद । सन्धीयते प्रजया पशुभिः । ब्रह्मवर्चसेनान्नाद्येन सुवर्ग्येण लोकेन ॥ ४ ॥",
+          "translation": "Ora, riguardo all'essere interiore (adhyātma): la mascella inferiore è la forma\nanteriore; la mascella superiore è la forma posteriore; la Parola è il loro\npunto d'unione; la lingua è il mezzo di congiunzione. Tale è l'ordine relativo\nall'essere interiore.\nQueste sono le Grandi Congiunzioni. Colui che conosce queste Grandi Congiunzioni\ncosì come sono state esposte, si unisce alla prole, al bestiame, allo splendore\nspirituale (brahmavarcasa), al nutrimento e allo stato del mondo celeste.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-4-1",
+          "locus": "I.4.1",
+          "original": "यश्छन्दसामृषभो विश्वरूपः । छन्दोभ्योऽध्यमृतात्सम्बभूव । स मेन्द्रो मेधया\nस्पृणोतु । अमृतस्य देव धारणो भूयासम् । शरीरं मे विचर्षणम् । जिह्वा मे मधुमत्तमा\n। कर्णाभ्यां भूरिविश्रुवम् । ब्रह्मणः कोशोऽसि मेधया पिहितः । श्रुतं मे गोपाय ।\nआवहन्ती वितन्वाना ॥ १ ॥",
+          "translation": "Colui che è il Toro eccelso tra i ritmi sacri, che assume ogni forma [il sacro\nmonosillabo Oṃ], scaturito immortale al di sopra di tutti gli inni vedici: possa\nquell'Indra supremo colmarmi di vigore intellettivo (medhā)! Possa io, o\nSignore, divenire custode dell'Immortalità. Sia agile e vigoroso il mio corpo;\nsia sommamente dolce la mia lingua; con gli orecchi possa io udire copiosamente.\nTu sei il sacrario di Brahman, occultato dall'intelletto ordinario: custodisci\nin me ciò che ho appreso dalla Rivelazione (śruta).\nA me che reco oblazioni, espandendo",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-4-2",
+          "locus": "I.4.2",
+          "original": "कुर्वाणाऽचीरमात्मनः । वासाꣳसि मम गावश्च । अन्नपाने च सर्वदा । ततो मे श्रियमावह ।\nलोमशां पशुभिः सह स्वाहा । आमायन्तु ब्रह्मचारिणः स्वाहा । विमाऽऽयन्तु\nब्रह्मचारिणः स्वाहा । प्रमाऽऽयन्तु ब्रह्मचारिणः स्वाहा । दमायन्तु ब्रह्मचारिणः\nस्वाहा । शमायन्तु ब्रह्मचारिणः स्वाहा ॥ २ ॥",
+          "translation": "e procurando prontamente per me vestimenti, armenti, cibo e bevande in ogni\ntempo: conduci a me la prosperità adorna di bestiame lanoso. Svāhā!\nVengano a me i discepoli dediti alla sacra disciplina (brahmacārin)! Svāhā!\nVengano a me da ogni direzione i discepoli! Svāhā!\nVengano a me rettamente istruiti i discepoli! Svāhā!\nGiungano a me con i sensi disciplinati (dama)! Svāhā!\nGiungano a me con la mente pacificata (śama)! Svāhā!",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-4-3",
+          "locus": "I.4.3",
+          "original": "यशो जनेऽसानि स्वाहा । श्रेयान् वस्यसोऽसानि स्वाहा । तं त्वा भग प्रविशानि स्वाहा\n। स मा भग प्रविश स्वाहा । तस्मिन् सहस्रशाखे । निभगाऽहं त्वयि मृजे स्वाहा ।\nयथाऽऽपः प्रवताऽऽयन्ति । यथा मासा अहर्जरम् । एवं मां ब्रह्मचारिणः । धातरायन्तु\nसर्वतः स्वाहा । प्रतिवेशोऽसि प्रमाभाहि प्रमापद्यस्व ॥ ३ ॥",
+          "translation": "Possa io divenire illustre tra gli uomini! Svāhā! Possa io essere superiore ai\npiù ricchi! Svāhā! Possa io entrare in Te, o Divino Signore! Svāhā! Possa Tu, o\nDivino Signore, entrare in me! Svāhā! In Te, che possiedi mille rami, io mi\npurifico interamente, o Venerabile. Svāhā!\nCome le acque discendono lungo i pendii, come i mesi scorrono nell'anno che\ndissolve i giorni, così, o Sostenitore, da ogni dove vengano a me i discepoli\ndella sacra dottrina! Svāhā!\nTu sei il rifugio immanente e prossimo: risplendi a me, entra e prendi dimora in\nme!",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-5-1",
+          "locus": "I.5.1",
+          "original": "भूर्भुवः सुवरिति वा एतास्तिस्रो व्याहृतयः । तासामुहस्मै तां चतुर्थीम् ।\nमाहाचमस्यः प्रवेदयते । मह इति । तद्ब्रह्म । स आत्मा । अङ्गान्यन्या देवताः ।\nभूरिति वा अयं लोकः । भुव इत्यन्तरिक्षम् । सुवरित्यसौ लोकः ॥ १ ॥",
+          "translation": "Bhūḥ, Bhuvaḥ, Suvaḥ: queste invero sono le tre formulazioni sacre universali\n(vyāhṛti). Accanto ad esse, il saggio Māhācamasya rese nota la quarta: Mahaḥ.\nQuella è il Brahman; Quello è l'Ātman; le altre divinità non sono che le sue\nmembra.\nBhūḥ è invero questo mondo terreno; Bhuvaḥ è lo spazio intermedio; Suvaḥ è il\nmondo celeste superiore.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-5-2",
+          "locus": "I.5.2",
+          "original": "मह इत्यादित्यः । आदित्येन वाव सर्वे लोका महीयन्ते । भूरिति वा अग्निः । भुव इति\nवायुः । सुवरित्यादित्यः । मह इति चन्द्रमाः । चन्द्रमसा वाव सर्वाणि ज्योतीꣳषि\nमहीयन्ते । भूरिति वा ऋचः । भुव इति सामानि । सुवरिति यजूꣳषि ॥ २ ॥",
+          "translation": "Mahaḥ è il Sole: mediante il Sole infatti tutti i mondi prosperano e si\nglorificano.\nBhūḥ è invero il Fuoco; Bhuvaḥ è l'Aria; Suvaḥ è il Sole; Mahaḥ è la Luna:\nmediante la Luna infatti tutti i corpi luminosi celesti prosperano.\nBhūḥ sono invero gli inni del Ṛgveda; Bhuvaḥ sono i canti del Sāmaveda; Suvaḥ\nsono le formule dello Yajurveda.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-5-3",
+          "locus": "I.5.3",
+          "original": "मह इति ब्रह्म । ब्रह्मणा वाव सर्वे वेदा महीयन्ते । भूरिति वै प्राणः । भुव\nइत्यपानः । सुवरिति व्यानः । मह इत्यन्नम् । अन्नेन वाव सर्वे प्राणा महीयन्ते । ता\nवा एताश्चतस्रश्चतुर्धा । चतस्रश्चतस्रो व्याहृतयः । ता यो वेद । स वेद ब्रह्म ।\nसर्वेऽस्मै देवा बलिमावहन्ति ॥ ३ ॥",
+          "translation": "Mahaḥ è il Brahman [il sacro Oṃ]: mediante il Brahman infatti tutti i Veda\ntraggono il loro vigore.\nBhūḥ è invero il soffio inspiratorio (prāṇa); Bhuvaḥ è il soffio espiratorio\n(apāna); Suvaḥ è il soffio diffusivo (vyāna); Mahaḥ è la Sostanza/Nutrimento\n(anna): mediante il nutrimento infatti tutti i soffi vitali si sostengono.\nQueste quattro formulazioni sacre sono ciascuna quadruplice: quattro per quattro\nsono le Vyāhṛti. Colui che le conosce, costui conosce il Brahman; a lui tutte le\npotenze divine tributano omaggio.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-6-1",
+          "locus": "I.6.1",
+          "original": "स य एषोऽन्तर्हृदय आकाशः । तस्मिन्नयं पुरुषो मनोमयः । अमृतो हिरण्मयः । अन्तरेण\nतालुके । य एष स्तन इवावलम्बते । सेन्द्रयोनिः । यत्रासौ केशान्तो विवर्तते ।\nव्यपोह्य शीर्षकपाले । भूरित्यग्नौ प्रतितिष्ठति । भुव इति वायौ ॥ १ ॥",
+          "translation": "Nello spazio eterico che risiede all'interno del cuore vi è questo Puruṣa\nintessuto di pura intelligenza intuitiva (manomaya), immortale e aureo di luce.\nNello spazio tra i due palati, ove pende quella carne a forma di capezzolo\n[l'ugola], ivi è la porta d'accesso di Indra [la via coronale]; risalendo là\ndove i capelli si spartiscono e aprendosi il varco tra le due metà del cranio,\nmediante l'enunciazione Bhūḥ egli si stabilisce nel Fuoco; mediante Bhuvaḥ si\nstabilisce nell'Aria;",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-6-2",
+          "locus": "I.6.2",
+          "original": "सुवरित्यादित्ये । मह इति ब्रह्मणि । आप्नोति स्वाराज्यम् । आप्नोति मनसस्पतिम् ।\nवाक्पतिश्चक्षुष्पतिः । श्रोत्रपतिर्विज्ञानपतिः । एतत्ततो भवति । आकाशशरीरं ब्रह्म\n। सत्यात्म प्राणारामं मन आनन्दम् । शान्तिसमृद्धममृतम् । इति प्राचीनयोग्योपास्व ॥\n२ ॥",
+          "translation": "mediante Suvaḥ si stabilisce nel Sole; mediante Mahaḥ si stabilisce nel Brahman.\nEgli consegue la sovranità spirituale autonoma (svārājya); diviene signore della\nmente, signore della parola, signore della vista, signore dell'udito, signore\ndella conoscenza intellettiva. Oltre a ciò egli diviene Questo: il Brahman il\ncui corpo è lo Spazio infinito, la cui essenza è la Verità, il cui diletto è la\nvita (prāṇa), la cui mente è beatitudine pura, colmo di pace sempiterna e\nimmortale.\nIn tal modo, o Prācīnayogya, medita su Questo!",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-7-1",
+          "locus": "I.7.1",
+          "original": "पृथिव्यन्तरिक्षं द्यौर्दिशोऽवान्तरदिशाः । अग्निर्वायुरादित्यश्चन्द्रमा\nनक्षत्राणि । आप ओषधयो वनस्पतय आकाश आत्मा । इत्यधिभूतम् । अथाध्यात्मम् । प्राणो\nव्यानोऽपान उदानः समानः । चक्षुः श्रोत्रं मनो वाक् त्वक् । चर्म माꣳसं स्नावास्थि\nमज्जा । एतदधिविधाय ऋषिरवोचत् । पाङ्क्तं वा इदꣳसर्वम् । पाङ्क्तेनैव पाङ्क्तꣳ\nस्पृणोतीति ॥ १ ॥",
+          "translation": "La Terra, lo spazio intermedio, il cielo, i punti cardinali e le direzioni\nintermedie; il fuoco, l'aria, il sole, la luna e le stelle; le acque, le piante,\ngli alberi della foresta, lo spazio eterico e il corpo cosmico: tale è l'ordine\nrelativo agli elementi della natura (adhibhūtam).\nOra, relativamente all'essere interiore (adhyātmam): il soffio inspiratorio\n(prāṇa), il soffio pervasivo (vyāna), il soffio discendente (apāna), il\nsoffio ascendente (udāna), il soffio equilibratore (samāna); l'occhio,\nl'orecchio, la mente, la parola, il tatto; la pelle, la carne, i muscoli, le\nossa e il midollo.\nAvendo contemplato questo ordinamento, il Veggente proclamò: «Quintuplice\n(pāṅkta) è invero tutto questo universo manifesto; per mezzo del quintuplice\ninteriore l'essere perfeziona e realizza il quintuplice cosmico esteriore».",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-8-1",
+          "locus": "I.8.1",
+          "original": "ओमिति ब्रह्म । ओमितीदꣳसर्वम् । ओमित्येतदनुकृतिर्ह स्म वा अप्यो\nश्रावयेत्याश्रावयन्ति । ओमिति सामानि गायन्ति । ॐꣳशोमिति शस्त्राणि शꣳसन्ति ।\nओमित्यध्वर्युः प्रतिगरं प्रतिगृणाति । ओमिति ब्रह्मा प्रसौति ।\nओमित्यग्निहोत्रमनुजानाति । ओमिति ब्राह्मणः प्रवक्ष्यन्नाह ब्रह्मोपाप्नवानीति ।\nब्रह्मैवोपाप्नोति ॥ १ ॥",
+          "translation": "Oṃ è il Brahman. Oṃ è tutto questo universo manifesto. Oṃ è invero il segno di\nsacro assenso: all'intimazione «Oṃ, fa' risuonare!», essi pronunciano i canti\nsacri. Con Oṃ intonano i Sāman; con «Oṃ-śom» recitano gli inni di lode; con Oṃ\nl'Adhvaryu dà la risposta rituale; con Oṃ il sacerdote Brahman concede il\nconsenso alle azioni sacre; con Oṃ si autorizza l'offerta dell'Agnihotra. Con Oṃ\nil brāhmaṇa, accingendosi a recitare la Scrittura, afferma: «Possa io conseguire\nil Brahman!»; ed egli invero consegue il Brahman.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-9-1",
+          "locus": "I.9.1",
+          "original": "ऋतं च स्वाध्यायप्रवचने च । सत्यं च स्वाध्यायप्रवचने च । तपश्च स्वाध्यायप्रवचने च\n। दमश्च स्वाध्यायप्रवचने च । शमश्च स्वाध्यायप्रवचने च । अग्नयश्च\nस्वाध्यायप्रवचने च । अग्निहोत्रं च स्वाध्यायप्रवचने च । अतिथयश्च\nस्वाध्यायप्रवचने च । मानुषं च स्वाध्यायप्रवचने च । प्रजा च स्वाध्यायप्रवचने च ।\nप्रजनश्च स्वाध्यायप्रवचने च । प्रजातिश्च स्वाध्यायप्रवचने च । सत्यमिति सत्यवचा\nराथीतरः । तप इति तपोनित्यः पौरुशिष्टिः । स्वाध्यायप्रवचने एवेति नाको मौद्गल्यः ।\nतद्धि तपस्तद्धि तपः ॥ १ ॥",
+          "translation": "La conformità all'Ordine universale (ṛta) unitamente allo studio e alla\ntrasmissione della sacra Scrittura (svādhyāya-pravacane); la Verità (satya)\nunitamente allo studio e alla trasmissione; l'ascesi interiore (tapas)\nunitamente allo studio e alla trasmissione; il dominio dei sensi (dama)\nunitamente allo studio e alla trasmissione; la pace della mente (śama)\nunitamente allo studio e alla trasmissione; il mantenimento dei fuochi sacri\nunitamente allo studio e alla trasmissione; l'offerta dell'Agnihotra unitamente\nallo studio e alla trasmissione; l'ospitalità unitamente allo studio e alla\ntrasmissione; l'adempimento dei doveri umani unitamente allo studio e alla\ntrasmissione; la procreazione unitamente allo studio e alla trasmissione;\nl'educazione dei figli unitamente allo studio e alla trasmissione.\n«La Verità sola è necessaria!», afferma il saggio Satyavacas della stirpe di\nRathītara. «L'ascesi sola è necessaria!», afferma il saggio Tapo-nitya\ndiscendente di Puruśiṣṭa. «Lo studio e la trasmissione della Rivelazione sola\nsono necessari!», afferma Nāka figlio di Mudgala: giacché quello è invero il\nsupremo ardore spirituale, quello è il supremo ardore spirituale!",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-10-1",
+          "locus": "I.10.1",
+          "original": "अहं वृक्षस्य रेरिवा । कीर्तिः पृष्ठं गिरेरिव । ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि\n। द्रविणं सवर्चसम् । सुमेधा अमृतोक्षितः । इति त्रिशङ्कोर्वेदानुवचनम् ॥ १ ॥",
+          "translation": "«Io sono il vivificatore dell'Albero cosmico del divenire! La mia gloria si\ninnalza come la vetta di una montagna! La mia origine è la purezza trascendente\nsuprema; io sono immortale e incorruttibile come il principio vitale nel Sole!\nIo sono il Tesoro splendente di luce increata, dotato di intelligenza suprema,\nintriso di vera Immortalità!».\nTale è la proclamazione post-realizzativa (vedānuvacana) scaturita dal saggio\nTriśaṅku.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-11-1",
+          "locus": "I.11.1",
+          "original": "वेदमनूच्याचार्योऽन्तेवासिनमनुशास्ति । सत्यं वद । धर्मं चर । स्वाध्यायान्मा\nप्रमदः । आचार्याय प्रियं धनमाहृत्य प्रजातन्तुं मा व्यवच्छेत्सीः । सत्यान्न\nप्रमदितव्यम् । धर्मान्न प्रमदितव्यम् । कुशलान्न प्रमदितव्यम् । भूत्यै न\nप्रमदितव्यम् । स्वाध्यायप्रवचनाभ्यां न प्रमदितव्यम् ॥ १ ॥",
+          "translation": "Avendo insegnato il Veda, il Maestro ammonisce e istruisce il discepolo che si\naccinge a rientrare nel mondo:\n«Di' la Verità (satyaṃ vada). Pratica il retto ordine conforme alla legge\n(dharmaṃ cara). Non essere negligente nello studio quotidiano della sacra\nScrittura (svādhyāya). Avendo offerto al Maestro il dono a lui gradito, non\ntroncare la continuità della stirpe. Non deviare mai dalla Verità. Non deviare\nmai dal Dharma. Non trascurare la tua preservazione spirituale. Non trascurare\nla retta prosperità. Non essere negligente nello studio e nella trasmissione\ndella Rivelazione.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-11-2",
+          "locus": "I.11.2",
+          "original": "देवपितृकार्याभ्यां न प्रमदितव्यम् । मातृदेवो भव । पितृदेवो भव । आचार्यदेवो भव ।\nअतिथिदेवो भव । यान्यनवद्यानि कर्माणि । तानि सेवितव्यानि । नो इतराणि ।\nयान्यस्माकꣳसुचरितानि । तानि त्वयोपास्यानि ॥ २ ॥",
+          "translation": "Non trascurare i doveri verso gli dèi e verso gli antenati. Considera la madre\nquale presenza divina. Considera il padre quale presenza divina. Considera il\nmaestro quale presenza divina. Considera l'ospite quale presenza divina. Quelle\nazioni che sono irreprensibili, quelle soltanto devono essere compiute,\nnessun'altra. Quelle condotte che tra noi sono state esemplari, quelle sole tu\ndevi seguire e onorare,",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-11-3",
+          "locus": "I.11.3",
+          "original": "नो इतराणि । ये के चास्मच्छ्रेयाꣳसो ब्राह्मणाः । तेषां त्वयाऽऽसनेन प्रश्वसितव्यम्\n। श्रद्धया देयम् । अश्रद्धयाऽदेयम् । श्रिया देयम् । ह्रिया देयम् । भिया देयम् ।\nसंविदा देयम् । अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् ॥ ३ ॥",
+          "translation": "nessun'altra. Quei brāhmaṇa che sono a noi superiori per saggezza, a costoro tu\ndevi offrire riposo offrendo loro il seggio. Si deve donare con fede intuitiva\n(śraddhā); mai si deve donare senza fede. Si doni con generosità conforme al\nproprio stato; si doni con umiltà; si doni con timore reverente; si doni con\npiena intelligenza e discernimento.\nSe in te dovesse sorgere un dubbio circa un'azione o un dubbio circa la retta\ncondotta:",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-11-4",
+          "locus": "I.11.4",
+          "original": "ये तत्र ब्राह्मणाः संमर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामाः स्युः । यथा\nते तत्र वर्तेरन् । तथा तत्र वर्तेथाः । अथाभ्याख्यातेषु । ये तत्र ब्राह्मणाः\nसंमर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामाः स्युः । यथा ते तेषु वर्तेरन् ।\nतथा तेषु वर्तेथाः । एष आदेशः । एष उपदेशः । एषा वेदोपनिषत् । एतदनुशासनम् ।\nएवमुपासितव्यम् । एवमु चैतदुपास्यम् ॥ ४ ॥",
+          "translation": "quei saggi brāhmaṇa ivi presenti che siano dotati di retto discernimento,\ndevoti, indipendenti nel giudizio, non aspri e amanti del Dharma: come essi si\ncomportano in tali circostanze, esattamente così tu devi comportarti. E riguardo\na coloro che sono incorsi in biasimo o accusa: come quei saggi brāhmaṇa ivi\npresenti dotati di discernimento, devoti, imparziali, non rigidi e amanti del\nDharma si comportano verso di essi, esattamente così tu devi comportarti verso\ndi loro.\nQuesto è il comando sacro. Questo è l'insegnamento tradizionale. Questa è la\ndottrina segreta dei Veda (vedopaniṣad). Questa è l'ammonizione della\nTradizione. In questo modo si deve agire e meditare; esattamente così tutto\nquesto deve essere venerato ed adempiuto!",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "taittiriya-1-12-1",
+          "locus": "I.12.1",
+          "original": "शं नो मित्रः शं वरुणः । शं नो भवत्वर्यमा । शं न इन्द्रो बृहस्पतिः । शं नो\nविष्णुरुरुक्रमः । नमो ब्रह्मणे । नमस्ते वायो । त्वमेव प्रत्यक्षं ब्रह्मासि ।\nत्वामेव प्रत्यक्षं ब्रह्मावादिषम् । ऋतमवादिषम् । सत्यमवादिषम् । तन्मामावीत् ।\nतद्वक्तारमावीत् । आवीन्माम् । आवीद्वक्तारम् । ॐ शान्तिः शान्तिः शान्तिः ॥ १ ॥\n॥ इति शीक्षावल्ली समाप्ता ॥",
+          "translation": "Ci accordi pace Mitra; ci accordi pace Varuṇa; ci accordi pace Aryaman; ci\naccordino pace Indra e Bṛhaspati; ci accordi pace Viṣṇu dai passi immensi.\nOmaggio al Brahman! Omaggio a te, o Vāyu! Tu invero sei il Brahman percettibile;\nte ho proclamato quale Brahman manifesto. Ho proclamato l'Ordine divino (ṛta);\nho proclamato la Verità (satya). Quello ha protetto me; Quello ha protetto il\nmaestro. Ha protetto me; ha protetto il maestro!\nOṃ. Pace, Pace, Pace.\nCosì si conclude la Śīkṣāvallī.",
+          "source": "Taittirīyopaniṣad (testo sanscrito e traduzione editoriale)"
+        }
+      ]
+    }
+  ]
+}

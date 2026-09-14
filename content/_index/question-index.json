@@ -40,6 +40,24 @@
     "related_questions": [],
     "source_file": "questions/q-azione-senza-vincolo.json"
   },
+  "q-che-cosa-e-il-brahman-nella-taittiriya": {
+    "id": "q-che-cosa-e-il-brahman-nella-taittiriya",
+    "type": "great",
+    "text": "Come definisce la Taittirīya Upaniṣad la natura del Brahman e il suo rapporto con il Sé?",
+    "problem": "La Brahmānandavallī presenta Brahman come verità, conoscenza e infinito, fondamento dell'Ātman e della beatitudine.",
+    "concepts": [
+      "brahman",
+      "atman"
+    ],
+    "passages": [
+      "taittiriya-2-1-1",
+      "taittiriya-2-2-1",
+      "taittiriya-2-8-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-che-cosa-e-il-brahman-nella-taittiriya.json"
+  },
   "q-che-cosa-significa-conoscere": {
     "id": "q-che-cosa-significa-conoscere",
     "scope": "global",
@@ -79,6 +97,24 @@
       "q-rapporto-se-brahman"
     ],
     "source_file": "questions/q-che-cosa-significa-conoscere.json"
+  },
+  "q-che-cosa-sono-i-cinque-involucri": {
+    "id": "q-che-cosa-sono-i-cinque-involucri",
+    "type": "great",
+    "text": "In che modo la dottrina dei cinque involucri conduce dalla sostanza corporea al Sé di beatitudine?",
+    "problem": "La progressione degli involucri distingue i livelli dell'esperienza fino al fondamento non-duale del Brahman.",
+    "concepts": [
+      "brahman",
+      "atman"
+    ],
+    "passages": [
+      "taittiriya-2-1-1",
+      "taittiriya-2-2-1",
+      "taittiriya-2-5-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-che-cosa-sono-i-cinque-involucri.json"
   },
   "q-che-cose-brahman": {
     "id": "q-che-cose-brahman",

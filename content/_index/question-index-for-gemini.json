@@ -30,6 +30,20 @@
     ]
   },
   {
+    "id": "q-che-cosa-e-il-brahman-nella-taittiriya",
+    "scope": "local",
+    "type": "great",
+    "text": "Come definisce la Taittirīya Upaniṣad la natura del Brahman e il suo rapporto con il Sé?",
+    "problem": "La Brahmānandavallī presenta Brahman come verità, conoscenza e infinito, fondamento dell'Ātman e della beatitudine.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "brahman",
+      "atman"
+    ]
+  },
+  {
     "id": "q-che-cosa-significa-conoscere",
     "scope": "global",
     "type": "great",
@@ -46,6 +60,20 @@
       "vidita-avidita",
       "brahma-vidya",
       "sakshin"
+    ]
+  },
+  {
+    "id": "q-che-cosa-sono-i-cinque-involucri",
+    "scope": "local",
+    "type": "great",
+    "text": "In che modo la dottrina dei cinque involucri conduce dalla sostanza corporea al Sé di beatitudine?",
+    "problem": "La progressione degli involucri distingue i livelli dell'esperienza fino al fondamento non-duale del Brahman.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "brahman",
+      "atman"
     ]
   },
   {

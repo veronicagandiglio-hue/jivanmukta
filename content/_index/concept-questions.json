@@ -27,7 +27,9 @@
     "q-lazione-vincola"
   ],
   "brahman": [
+    "q-che-cosa-e-il-brahman-nella-taittiriya",
     "q-che-cosa-significa-conoscere",
+    "q-che-cosa-sono-i-cinque-involucri",
     "q-che-cose-brahman",
     "q-che-cose-il-mondo",
     "q-che-cose-l-atman",
@@ -48,6 +50,26 @@
     "q-qual-e-il-quarto-stato",
     "q-qual-e-il-valore-della-sillaba-om",
     "q-qual-e-la-natura-della-liberazione",
+    "q-rapporto-se-brahman"
+  ],
+  "atman": [
+    "q-che-cosa-e-il-brahman-nella-taittiriya",
+    "q-che-cosa-sono-i-cinque-involucri",
+    "q-che-cose-il-prana",
+    "q-che-cose-il-se",
+    "q-che-cose-l-atman",
+    "q-chi-e-il-purusha-delle-sedici-parti",
+    "q-chi-e-l-om-nella-mandukya",
+    "q-chi-sono-i-due-uccelli-sullo-stesso-albero",
+    "q-cosa-accade-dopo-la-morte",
+    "q-e-possibile-la-liberta",
+    "q-frutto-realizzazione-unita",
+    "q-identita-soham",
+    "q-l-arco-del-pranava-e-il-bersaglio-di-brahman",
+    "q-natura-atman-paradossi",
+    "q-natura-brahman-purna",
+    "q-perche-soffriamo",
+    "q-qual-e-il-quarto-stato",
     "q-rapporto-se-brahman"
   ],
   "vidita-avidita": [
@@ -86,24 +108,6 @@
     "q-che-cose-il-prana",
     "q-da-dove-ha-origine-il-cosmo",
     "q-polarita-primordiale-prana-rayi"
-  ],
-  "atman": [
-    "q-che-cose-il-prana",
-    "q-che-cose-il-se",
-    "q-che-cose-l-atman",
-    "q-chi-e-il-purusha-delle-sedici-parti",
-    "q-chi-e-l-om-nella-mandukya",
-    "q-chi-sono-i-due-uccelli-sullo-stesso-albero",
-    "q-cosa-accade-dopo-la-morte",
-    "q-e-possibile-la-liberta",
-    "q-frutto-realizzazione-unita",
-    "q-identita-soham",
-    "q-l-arco-del-pranava-e-il-bersaglio-di-brahman",
-    "q-natura-atman-paradossi",
-    "q-natura-brahman-purna",
-    "q-perche-soffriamo",
-    "q-qual-e-il-quarto-stato",
-    "q-rapporto-se-brahman"
   ],
   "purusha": [
     "q-che-cose-l-atman",
