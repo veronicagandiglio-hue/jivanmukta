@@ -256,6 +256,25 @@
     ],
     "source_file": "questions/q-chi-e-il-purusha-delle-sedici-parti.json"
   },
+  "q-chi-e-l-om-nella-mandukya": {
+    "id": "q-chi-e-l-om-nella-mandukya",
+    "type": "great",
+    "text": "Che significato metafisico assume la sillaba Oṃ nella Māṇḍūkya Upaniṣad?",
+    "problem": "Il testo identifica Oṃ con la totalità del reale e con ciò che trascende il tempo.",
+    "concepts": [
+      "pranava",
+      "brahman",
+      "atman"
+    ],
+    "passages": [
+      "mandukya-1-1",
+      "mandukya-1-8",
+      "mandukya-1-12"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-chi-e-l-om-nella-mandukya.json"
+  },
   "q-chi-sono-i-due-uccelli-sullo-stesso-albero": {
     "id": "q-chi-sono-i-due-uccelli-sullo-stesso-albero",
     "type": "great",
@@ -912,6 +931,24 @@
     "scope": "global",
     "homepage_priority": 10,
     "source_file": "questions/q-polarita-primordiale-prana-rayi.json"
+  },
+  "q-qual-e-il-quarto-stato": {
+    "id": "q-qual-e-il-quarto-stato",
+    "type": "great",
+    "text": "Che cosa è il Turīya e in che senso esso trascende i tre stati ordinari di coscienza?",
+    "problem": "La dottrina dei quattro quarti presenta il Quarto come l'Ātman incondizionato non-duale.",
+    "concepts": [
+      "turiya",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "mandukya-1-7",
+      "mandukya-1-12"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-qual-e-il-quarto-stato.json"
   },
   "q-qual-e-il-valore-della-sillaba-om": {
     "id": "q-qual-e-il-valore-della-sillaba-om",

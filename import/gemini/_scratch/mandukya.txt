@@ -1,0 +1,1240 @@
+Confermo innanzitutto che per la Muṇḍaka Upaniṣad entrambe le fasi (Fase 1
+filologica e Fase 2 dottrinale con pacchetto JSON) sono state integralmente
+completate e registrate nel corpus.
+
+Procedo ora con la Prima Fase per la Māṇḍūkya Upaniṣad (Māṇḍūkyopaniṣad).
+Data la sua struttura eccezionalmente concentrata (costituita da 12 mantra
+essenziali preceduti e chiusi dal canonico Śānti-pāṭha dell'Atharvaveda),
+l'opera viene elaborata qui nella sua totalità quale unica unità testuale
+organica.
+
+1. IDENTIFICAZIONE DEL BLOCCO
+
+  - Opera: Māṇḍūkyopaniṣad (o Māṇḍūkya Upaniṣad)
+  - Tradizione: Atharvaveda
+  - Blocco: Testo integrale dell'Upaniṣad (Invocazione iniziale, Mantras 1–12,
+    Invocazione conclusiva).
+  - Fonte testuale: Testo sanscrito in caratteri devanāgarī, verificato sulla
+    pagina di Wikisource e collazionato con la recensione canonica del
+    Māṇḍūkyopaniṣadbhāṣya di Śaṅkarācārya.
+
+2. POSIZIONE NELL'OPERA
+
+  - Capitolo/Sezione: Testo integrale (Unità editoriale unica, loci I.0 – I.13).
+  - Loci: da I.0 a I.13
+  - Contenuto dottrinale:
+      - Śānti-pāṭha: Invocazione atharvanica di preservazione delle facoltà
+        fisiche e mentali per la contemplazione;
+      - Identificazione metafisica assoluta della sacra sillaba Oṃ con la
+        totalità del manifestato (passato, presente, futuro) e con
+        l'Incondizionato che trascende il tempo;
+      - La proclamazione del supremo Mahāvākya dell'Atharvaveda: «Tutto questo
+        universo è Brahman; questo Sé è Brahman» (sarvaṃ hy etad brahma ayam
+        ātmā brahma);
+      - L'esposizione dei quattro «quarti» (pāda) dell'Ātman e la loro esatta
+        corrispondenza con le tre misure fonico-ontologiche di Oṃ e con il
+        Silenzio trascendente privo di misura (amātra):
+        1.  Primo quarto: Vaiśvānara, lo stato di veglia (jāgarita-sthāna), la
+            cui coscienza è volta all'esterno (bahiṣprajña), fruitore del
+            grossolano, corrispondente alla prima lettera A (akāra);
+        2.  Secondo quarto: Taijasa, lo stato di sogno (svapna-sthāna), la cui
+            coscienza è volta all'interno (antaḥprajña), fruitore del sottile,
+            corrispondente alla seconda lettera U (ukāra);
+        3.  Terzo quarto: Prājña, lo stato di sonno profondo (suṣupta-sthāna),
+            privo di desideri e di sogni, massa omogenea di pura consapevolezza
+            (prajñānaghana), fruitore della beatitudine, Signore e matrice di
+            ogni cosa, corrispondente alla terza lettera M (makāra);
+        4.  Quarto quarto: Turīya, l'Incondizionato, privo di relazioni
+            fenomeniche, inoggettivabile, in cui la manifestazione è pacificata
+            (prapañcopaśama), sereno (śānta), benefico (śiva), non-duale
+            (advaita), corrispondente alla dimensione priva di misura (amātra);
+      - La realizzazione finale dell'Identità suprema: colui che conosce penetra
+        nel Sé mediante il Sé.
+
+3. EVENTUALI PROBLEMI DEL TESTO ORIGINALE
+
+  - Il testo dei 12 mantra della Māṇḍūkya Upaniṣad sulla fonte Wikisource è
+    integro, nitido e conforme al textus receptus sanscrito universale.
+  - Non vi sono lezioni corrotte; la prosa solenne e aforistica è identica al
+    canone commentato da Śaṅkarācārya.
+  - L'opera comprende la canonica invocazione di apertura e chiusura
+    dell'Atharvaveda (bhadraṃ karṇebhiḥ...).
+
+4. ID ASSEGNATI IN QUESTO BLOCCO
+
+  - ID Opera: mandukya-upanishad
+  - ID Unità Editoriale: mandukya-1
+  - ID Passaggi:
+      - Invocazione iniziale: mandukya-1-0
+      - Mantras 1–12: da mandukya-1-1 a mandukya-1-12
+      - Invocazione finale: mandukya-1-13
+
+5, 6, 7. PASSAGGI: ID, LOCUS, TESTO ORIGINALE E TRADUZIONE ITALIANA RIGOROSA
+
+Passaggio 0
+
+  - ID: mandukya-1-0
+  - Locus: I.0
+  - Progressivo nella sezione: 0 (Invocazione iniziale / Śānti-pāṭha)
+  - Testo originale:
+
+ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।
+स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥
+स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।
+स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥
+ॐ शान्तिः शान्तिः शान्तिः ॥
+
+  - Traduzione:
+
+Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi
+possiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra
+salde e corpi che vi rendono lode, possiamo noi godere la durata di vita
+stabilita dal Principio divino.
+Ci accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto
+conosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace
+Bṛhaspati!
+Oṃ. Pace, Pace, Pace.
+
+Passaggio 1
+
+  - ID: mandukya-1-1
+  - Locus: I.1
+  - Progressivo nella sezione: 1
+  - Testo originale:
+
+ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद् भविष्यदिति सर्वमोङ्कार एव ।
+यच्चान्यत् त्रिकालातीतं तदपि ओङ्कार एव ॥ १ ॥
+
+  - Traduzione:
+
+Oṃ: questa sillaba imperitura (akṣara) è tutto questo universo. Di essa segue la
+spiegazione dottrinale: ciò che è stato, ciò che è e ciò che sarà, tutto non è
+altro che l'Oṅkāra. E anche qualunque altra cosa trascenda la triplicità del
+tempo, anch'essa è unicamente l'Oṅkāra.
+
+Passaggio 2
+
+  - ID: mandukya-1-2
+  - Locus: I.2
+  - Progressivo nella sezione: 2
+  - Testo originale:
+
+सर्वं ह्येतद् ब्रह्म अयमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ॥ २ ॥
+
+  - Traduzione:
+
+Tutto questo universo è in verità il Brahman. Questo Sé è il Brahman (ayam ātmā
+brahma). Questo medesimo Sé è dotato di quattro quarti (catuṣpāt).
+
+Passaggio 3
+
+  - ID: mandukya-1-3
+  - Locus: I.3
+  - Progressivo nella sezione: 3
+  - Testo originale:
+
+जागरितस्थानो बहिष्प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः
+॥ ३ ॥
+
+  - Traduzione:
+
+Avendo per sede lo stato di veglia (jāgarita-sthāna), la cui coscienza è volta
+all'esterno (bahiṣprajña), dotato di sette membra e di diciannove bocche,
+fruitore degli oggetti corporei grossolani (sthūlabhuk): Vaiśvānara [l'Uomo
+cosmico universale] è il primo quarto.
+
+Passaggio 4
+
+  - ID: mandukya-1-4
+  - Locus: I.4
+  - Progressivo nella sezione: 4
+  - Testo originale:
+
+स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः
+पादः ॥ ४ ॥
+
+  - Traduzione:
+
+Avendo per sede lo stato di sogno (svapna-sthāna), la cui coscienza è volta
+all'interno (antaḥprajña), dotato di sette membra e di diciannove bocche,
+fruitore delle forme sottili (praviviktabhuk): Taijasa [il Radioso] è il secondo
+quarto.
+
+Passaggio 5
+
+  - ID: mandukya-1-5
+  - Locus: I.5
+  - Progressivo nella sezione: 5
+  - Testo originale:
+
+यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत् सुषुप्तम् ।
+सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः
+पादः ॥ ५ ॥
+
+  - Traduzione:
+
+Quello stato in cui l'uomo addormentato non desidera alcun oggetto di desiderio
+e non contempla alcun sogno: quello è il sonno profondo (suṣuptam). Avendo per
+sede il sonno profondo (suṣupta-sthāna), unificato, massa omogenea di pura
+consapevolezza (prajñānaghana), intessuto di beatitudine (ānandamaya), fruitore
+della beatitudine (ānandabhuk), la cui porta d'accesso è la pura coscienza
+(cetomukha): Prājña [il Sapiente causale] è il terzo quarto.
+
+Passaggio 6
+
+  - ID: mandukya-1-6
+  - Locus: I.6
+  - Progressivo nella sezione: 6
+  - Testo originale:
+
+एष सर्वेश्वरः एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम्
+॥ ६ ॥
+
+  - Traduzione:
+
+Questi è il Sovrano di tutto (sarveśvara); Questi è l'Onnisciente (sarvajña);
+Questi è l'Ordinatore interiore immanente (antaryāmin); Questi è la matrice
+originaria (yoni) di ogni cosa, giacché Egli è l'origine e il riassorbimento di
+tutti gli esseri.
+
+Passaggio 7
+
+  - ID: mandukya-1-7
+  - Locus: I.7
+  - Progressivo nella sezione: 7
+  - Testo originale:
+
+नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् ।
+अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं
+शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ॥ ७ ॥
+
+  - Traduzione:
+
+Non cosciente dell'interno, non cosciente dell'esterno, non cosciente di
+entrambi, non massa indifferenziata di coscienza, non conoscente, né
+non-conoscente. Invisibile, non oggettivabile nella relazione empirica
+(avyavahārya), inafferrabile, privo di contrassegni determinativi,
+inconcepibile, ineffabile, la cui sola essenza è la certezza del Sé unico
+(ekātma-pratyaya-sāra), in cui ogni manifestazione contingente è pacificata
+(prapañcopaśama), sereno (śānta), benefico (śiva), non-duale (advaita): così
+concepiscono il Quarto (Turīya). Egli è l'Ātman: Egli deve essere realizzato!
+
+Passaggio 8
+
+  - ID: mandukya-1-8
+  - Locus: I.8
+  - Progressivo nella sezione: 8
+  - Testo originale:
+
+सोऽयमात्माऽध्यक्षरमोङ्कारोऽधिमात्रं पादा मात्रा मात्राश्च पादा अकार उकारो मकार
+इति ॥ ८ ॥
+
+  - Traduzione:
+
+Questo medesimo Sé, rispetto alle lettere sacre, è l'Oṅkāra; e rispetto alle
+misure foniche (mātrā), i suoi quarti sono le misure, e le misure sono i suoi
+quarti: la lettera A (akāra), la lettera U (ukāra), la lettera M (makāra).
+
+Passaggio 9
+
+  - ID: mandukya-1-9
+  - Locus: I.9
+  - Progressivo nella sezione: 9
+  - Testo originale:
+
+जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्राऽऽप्तेरादिमत्त्वाद् वाऽऽप्नोति ह वै
+सर्वान् कामानादिश्च भवति य एवं वेद ॥ ९ ॥
+
+  - Traduzione:
+
+Vaiśvānara, che ha per sede lo stato di veglia, è la lettera A, la prima misura:
+per la sua pervasività (āpti) o per la sua primordialità (ādimattva). Consegue
+invero tutti i desideri e diviene il primo [tra i saggi] colui che conosce in
+questo modo.
+
+Passaggio 10
+
+  - ID: mandukya-1-10
+  - Locus: I.10
+  - Progressivo nella sezione: 10
+  - Testo originale:
+
+स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रोत्कर्षादुभयत्त्वाद् वोत्कर्षति ह वै
+ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित् कुले भवति य एवं वेद ॥ १० ॥
+
+  - Traduzione:
+
+Taijasa, che ha per sede lo stato di sogno, è la lettera U, la seconda misura:
+per la sua eminenza superiore (utkarṣa) o per la sua natura intermedia
+(ubhayatva). Innalza invero la continuità della conoscenza, diviene equanime, e
+nella sua stirpe non nasce alcuno che ignori il Brahman, colui che conosce in
+questo modo.
+
+Passaggio 11
+
+  - ID: mandukya-1-11
+  - Locus: I.11
+  - Progressivo nella sezione: 11
+  - Testo originale:
+
+सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा मिनोति ह वा इदं
+सर्वमपीतिश्च भवति य एवं वेद ॥ ११ ॥
+
+  - Traduzione:
+
+Prājña, che ha per sede il sonno profondo, è la lettera M, la terza misura: per
+la sua facoltà di misurare (miti) o per essere il principio di riassorbimento
+(apīti). Misura invero tutto questo universo e ne diviene il luogo di
+riassorbimento colui che conosce in questo modo.
+
+Passaggio 12
+
+  - ID: mandukya-1-12
+  - Locus: I.12
+  - Progressivo nella sezione: 12
+  - Testo originale:
+
+अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोङ्कार आत्मैव
+संविशत्यात्मनाऽऽत्मानं य एवं वेद ॥ १२ ॥
+
+  - Traduzione:
+
+Privo di misura fonica (amātra) è il Quarto (Turīya): inoggettivabile
+nell'esperienza empirica, in cui ogni agitazione manifestata è pacificata
+(prapañcopaśama), benefico (śiva), non-duale (advaita). Così l'Oṅkāra è invero
+l'Ātman stesso. Penetra nel Sé per mezzo del proprio stesso Sé colui che conosce
+in questo modo; colui che conosce in questo modo!
+
+Passaggio 13
+
+  - ID: mandukya-1-13
+  - Locus: I.13
+  - Progressivo nella sezione: 13 (Invocazione conclusiva / Śānti-pāṭha)
+  - Testo originale:
+
+ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।
+स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥
+स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।
+स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥
+ॐ शान्तिः शान्तिः शान्तिः ॥
+
+  - Traduzione:
+
+Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi
+possiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra
+salde e corpi che vi rendono lode, possiamo noi godere la durata di vita
+stabilita dal Principio divino.
+Ci accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto
+conosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace
+Bṛhaspati!
+Oṃ. Pace, Pace, Pace.
+
+8. EVENTUALI PROBLEMI TERMINOLOGICI DA TENERE PRESENTI PER I BLOCCHI SUCCESSIVI
+
+1.  Ayam Ātmā Brahma (Mantra 2):
+      - Uno dei quattro supremi detti upanishadici (Mahāvākya), assegnato
+        tradizionalmente all'Atharvaveda. Dichiara apoditticamente l'identità
+        assoluta e immediata tra la coscienza interiore dell'individuo (ayam
+        ātmā) e l'Assoluto infinito trascendente (Brahman).
+2.  Catuṣpāt (Mantra 2):
+      - I «quattro quarti»: termine metafisico capitale. Śaṅkara ammonisce
+        rigorosamente nel suo commentario che questi quattro quarti non sono
+        parti materiali o sezioni giustapposte di un tutto (l'Ātman è
+        indivisibile, niṣkala), ma gradi o modalità di velamento e disvelamento
+        dell'unica Coscienza attraverso gli upādhi. I primi tre poggiano sulla
+        presenza dell'ignoranza (avidyā), mentre il Quarto è la realtà reale
+        immutabile.
+3.  Sette membra e diciannove bocche (Mantra 3 e 4):
+      - Simbolismo macrocosmico e microcosmico:
+          - Sette membra: il capo (cielo), gli occhi (sole), il respiro (aria),
+            il tronco (etere), la vescica (acque), i piedi (terra) e la bocca
+            (fuoco sacrificale).
+          - Diciannove bocche: i cinque organi di senso (jñānendriya), i cinque
+            organi d'azione (karmendriya), i cinque soffi vitali (prāṇādayaḥ),
+            la mente (manas), l'intelletto (buddhi), il senso dell'io (ahaṅkāra)
+            e la memoria-coscienza (citta).
+4.  Prajñānaghana (Mantra 5):
+      - «Massa indifferenziata di pura coscienza». Nello stato di sonno profondo
+        (suṣupti), la scissione tra soggetto e oggetto viene temporaneamente
+        sospesa: come nell'oscurità notturna tutte le forme visibili appaiono
+        fuse in un'unica massa indistinta, così le determinazioni mentali si
+        ritirano nella causa potenziale indifferenziata.
+5.  Turīya (Mantra 7):
+      - Letteralmente il «Quarto». Non è un quarto stato psicologico che si
+        aggiunge agli altri tre nel tempo, ma la pura Coscienza testimone
+        incondizionata, eterna, non-duale (advaita), che illumina la veglia, il
+        sogno e il sonno profondo rimanendo da essi incontaminata.
+6.  Prapañcopaśama (Mantra 7 e 12):
+      - «La pacificazione o cessazione della manifestazione fenomenica».
+        L'universo oggettivo non viene distrutto fisicamente, ma cessa di
+        apparire come realtà autonoma e separata, dissolvendosi come l'illusione
+        del serpente nella corda.
+7.  Amātra (Mantra 12):
+      - «Privo di misura fonica». Rappresenta il Silenzio puro e incondizionato
+        che succede e sottende la risonanza di A-U-M. È il simbolo supremo del
+        Brahman Supremo privo di attributi (Nirguṇa Brahman).
+
+RIEPILOGO DELLA PRIMA FASE PER LA MĀṆḌŪKYA UPANIṢAD
+
+La Māṇḍūkya Upaniṣad è stata integralmente acquisita e tradotta:
+
+  - Unità editoriale: mandukya-1 (Unità unica)
+  - Passaggi totali: 14 passaggi (mandukya-1-0 – mandukya-1-13)
+  - Stato del testo: Testo sanscrito completo, privo di lacune, con traduzione
+    fedele al puro rigore metafisico tradizionale.
+
+LA PRIMA FASE È INTEGRALMENTE CONCLUSA.
+
+Attendo la tua dichiarazione formale:
+"OPERA COMPLETATA — AVVIA LA SECONDA FASE"
+per procedere alla costruzione del report analitico (concetti, domande globali,
+relazioni, spiegazioni versetto per versetto) e alla generazione del pacchetto
+JSON normalizzato (jivanmukta-gemini-editorial-v1).
+
+
+PARTE A — REPORT LEGGIBILE
+
+A. VERIFICA PRELIMINARE
+
+1.  Completezza del testo: L'elaborazione della Māṇḍūkya Upaniṣad
+    (Māṇḍūkyopaniṣad) è completa e integrale. L'opera si compone
+    dell'Invocazione propiziatoria di pace iniziale (Śānti-pāṭha
+    dell'Atharvaveda), dei 12 mantra aforistici in prosa sacra che ne
+    costituiscono il corpo canonico e del mantra di pace conclusivo. Nessun
+    enunciato o particella è stato omesso.
+2.  Continuità tra i blocchi: L'opera presenta una sintesi metafisica perfetta,
+    priva di cesure narrative:
+      - Mantra 1: Identificazione assoluta della sillaba sacra Oṃ con la
+        totalità della manifestazione nel tempo (passato, presente, futuro) e
+        con ciò che trascende la temporalità;
+      - Mantra 2: Proclamazione del supremo Mahāvākya («Questo Sé è il Brahman»)
+        e introduzione della dottrina dell'Ātman quadripartito (catuṣpāt);
+      - Mantra 3: Il primo quarto (Vaiśvānara): lo stato di veglia
+        (jāgarita-sthāna), la coscienza estrovertita (bahiṣprajña), il
+        godimento degli oggetti grossolani (sthūlabhuk);
+      - Mantra 4: Il secondo quarto (Taijasa): lo stato di sogno
+        (svapna-sthāna), la coscienza introversa (antaḥprajña), la fruizione
+        delle forme sottili interiori (praviviktabhuk);
+      - Mantra 5: Il terzo quarto (Prājña): lo stato di sonno profondo
+        (suṣupta-sthāna), privo di desideri e sogni, massa indifferenziata di
+        pura consapevolezza (prajñānaghana), fruitore della beatitudine
+        (ānandabhuk);
+      - Mantra 6: Le qualificazioni metafisiche di Prājña quale Signore del
+        cosmo (sarveśvara), Onnisciente (sarvajña), Reggitore interiore
+        immanente (antaryāmin) e matrice originaria (yoni) di nascita e
+        riassorbimento di tutti gli esseri;
+      - Mantra 7: Il quarto quarto (Turīya): la definizione apofatica assoluta
+        dell'Assoluto; né interno né esterno, inafferrabile, inoggettivabile
+        (avyavahārya), la cui sola essenza è la certezza del Sé unico
+        (ekātma-pratyaya-sāra), pacificazione di ogni contingenza fenomenica
+        (prapañcopaśama), sereno (śānta), benefico (śiva), non-duale (advaita);
+      - Mantra 8: La corrispondenza esatta tra i quattro quarti dell'Ātman e le
+        misure foniche ed essenziali dell'Oṅkāra;
+      - Mantra 9–11: L'analisi simbolica delle tre misure foniche: la A
+        corrisponde a Vaiśvānara per pervasività e primordialità; la U
+        corrisponde a Taijasa per eminenza e posizione intermedia; la M
+        corrisponde a Prājña per misura e riassorbimento;
+      - Mantra 12: La dimensione priva di misura (amātra), il Silenzio supremo
+        successivo a Oṃ, corrispondente al Turīya incondizionato e non-duale; la
+        realizzazione terminale dell'identità («penetra nel Sé per mezzo del
+        Sé»).
+3.  Coerenza della struttura e numerazione:
+      - Testo unitario continuo articolato in 14 passaggi stabili: mandukya-1-0
+        (Śānti iniziale), da mandukya-1-1 a mandukya-1-12 (Mantra 1–12),
+        mandukya-1-13 (Śānti finale).
+4.  Coerenza degli ID: Gli ID assegnati sono univoci, conformi alla convenzione
+    kebab-case (mandukya-upanishad, mandukya-1, da mandukya-1-0 a
+    mandukya-1-13).
+5.  Coerenza terminologica: Resa rigorosamente fedele all'ontologia dell'Advaita
+    Vedānta classico e alla metafisica tradizionale guénoniana: Vaiśvānara reso
+    come «l'Uomo cosmico universale / l'Immanente nella veglia»; Taijasa come
+    «il Radioso / la Coscienza sottile»; Prājña come «il Sapiente causale / la
+    Consapevolezza indifferenziata»; Turīya come «il Quarto / l'Incondizionato
+    non-duale»; Prapañcopaśama come «la pacificazione / cessazione della
+    manifestazione fenomenica»; Amātra come «la dimensione priva di misura
+    fonica / il Silenzio trascendente».
+
+B. ELENCO COMPLETO DELLE UNITÀ EDITORIALI
+
+1.  ID: mandukya-1 | Locus: I.0–13 | Titolo: Māṇḍūkyopaniṣad — I quattro quarti
+    dell'Ātman e la meditazione sulle misure del Praṇava
+
+C. ELENCO COMPLETO DEI PASSAGGI
+
+Tutti i 14 passaggi tradotti nella Prima Fase sono pienamente confermati nella
+loro purezza letterale e dottrinale. Non sono state riscontrate lacune né
+discrepanze con il textus receptus sanscrito.
+
+(Il testo completo originale in Devanāgarī e la relativa traduzione italiana
+integrale per ciascun passaggio sono inclusi sistematicamente nella Parte B
+JSON).
+
+D. ELENCO DEI CONCETTI DOTTRINALI
+
+1.  brahman (Brahman / ब्रह्मन्): La Realtà Assoluta, infinita, non-duale e
+    incondizionata, principio trascendente e immanente di tutti i mondi,
+    dichiarato identico all'Ātman nel Mahāvākya.
+      - Passaggi: mandukya-1-2, mandukya-1-10.
+      - Collegati: atman, ayam-atma-brahma, turiya, om-pranava.
+2.  atman (Ātman / आत्मन्): Il Sé reale, pura Coscienza testimone, strutturato
+    pedagogicamente in quattro quarti modali che culminano nella realtà
+    non-duale del Turīya.
+      - Passaggi: mandukya-1-2, mandukya-1-7, mandukya-1-8, mandukya-1-12.
+      - Collegati: brahman, ayam-atma-brahma, catuspat, turiya.
+3.  ayam-atma-brahma (Ayam Ātmā Brahma / अयमात्मा ब्रह्म): Il supremo Mahāvākya
+    dell'Atharvaveda: «Questo Sé è il Brahman». Afferma l'identità assoluta e
+    immediata del soggetto cosciente con l'Assoluto infinito.
+      - Passaggi: mandukya-1-2.
+      - Collegati: brahman, atman, advaita.
+4.  catuspat (Catuṣpāt / चतुष्पात्): La dottrina dei quattro «quarti»
+    dell'Ātman. Non indica una divisione materiale o numerica del Sé (che è
+    indivisibile, niṣkala), ma i gradi di velamento e disvelamento della
+    Coscienza attraverso i tre stati empirici e la Trascendenza pura.
+      - Passaggi: mandukya-1-2, mandukya-1-8.
+      - Collegati: vaisvanara, taijasa, prajna, turiya.
+5.  vaisvanara (Vaiśvānara / वैश्वानर): Il primo quarto dell'Ātman, avente per
+    sede lo stato di veglia (jāgarita-sthāna), la cui consapevolezza è volta
+    all'esterno (bahiṣprajña), fruitore della materia grossolana; corrisponde
+    alla prima lettera A di Oṃ.
+      - Passaggi: mandukya-1-3, mandukya-1-9.
+      - Collegati: catuspat, matra-e-amatra.
+6.  taijasa (Taijasa / तैजस): Il secondo quarto dell'Ātman, avente per sede lo
+    stato di sogno (svapna-sthāna), la cui consapevolezza è volta all'interno
+    (antaḥprajña), fruitore delle forme sottili proiettate dalla mente;
+    corrisponde alla seconda lettera U di Oṃ.
+      - Passaggi: mandukya-1-4, mandukya-1-10.
+      - Collegati: catuspat, matra-e-amatra.
+7.  prajna (Prājña / प्राज्ञ): Il terzo quarto dell'Ātman, avente per sede il
+    sonno profondo (suṣupta-sthāna), massa omogenea di consapevolezza
+    indifferenziata (prajñānaghana), fruitore della beatitudine e causa seminale
+    di tutti gli esseri (sarveśvara, antaryāmin); corrisponde alla terza lettera
+    M di Oṃ.
+      - Passaggi: mandukya-1-5, mandukya-1-6, mandukya-1-11.
+      - Collegati: catuspat, matra-e-amatra.
+8.  turiya (Turīya / तुरीय): Il Quarto, l'Incondizionato assoluto, la pura
+    Coscienza testimone non-duale (advaita), inoggettivabile, in cui ogni
+    manifestazione è pacificata (prapañcopaśama), serena e benefica (śiva);
+    corrisponde alla dimensione priva di misura (amātra).
+      - Passaggi: mandukya-1-7, mandukya-1-12.
+      - Collegati: atman, brahman, advaita, prapancopasama, matra-e-amatra.
+9.  om-pranava (Praṇava Oṃ / ॐकार): Il Verbo primordiale e la sillaba imperitura
+    (akṣara) che racchiude tutto ciò che appartiene al tempo e l'Incondizionato
+    sovratemporale.
+      - Passaggi: mandukya-1-1, mandukya-1-8, mandukya-1-9, mandukya-1-12.
+      - Collegati: brahman, catuspat, matra-e-amatra.
+10. matra-e-amatra (Mātrā e Amātra / मात्रा-अमात्रा): Le tre misure foniche (A,
+    U, M) corrispondenti ai tre stati cosmici manifestati, e la condizione priva
+    di misura (amātra), ossia il Silenzio sovrasensibile successivo alla
+    risonanza, che incarna il Turīya.
+      - Passaggi: mandukya-1-8, mandukya-1-9, mandukya-1-10, mandukya-1-11,
+        mandukya-1-12.
+      - Collegati: om-pranava, turiya.
+11. prapancopasama (Prapañcopaśama / प्रपञ्चोपशम): La pacificazione o cessazione
+    della manifestazione fenomenica: l'universo empirico non subisce una
+    distruzione fisica, ma si dissolve come realtà autonoma allorché sorge la
+    visione dell'Assoluto non-duale.
+      - Passaggi: mandukya-1-7, mandukya-1-12.
+      - Collegati: turiya, advaita.
+12. advaita (Advaita / अद्वैत): La Non-Dualità suprema, assenza assoluta di
+    alterità, scissione o dualismo tra soggetto conoscente, oggetto conosciuto e
+    Principio universale.
+      - Passaggi: mandukya-1-7, mandukya-1-12.
+      - Collegati: brahman, atman, turiya.
+
+E. ELENCO DELLE DOMANDE DOTTRINALI
+
+1.  q-quali-sono-gli-stati-di-coscienza (Grande Domanda Globale): Qual è la
+    struttura ontologica degli stati di veglia, sogno e sonno profondo?
+      - Risposta dell'opera: La veglia (Vaiśvānara) percepisce il grossolano
+        all'esterno; il sogno (Taijasa) crea e fruisce il sottile all'interno;
+        il sonno profondo (Prājña) riassorbe ogni dualità in una massa
+        indifferenziata di consapevolezza e beatitudine causale (mandukya-1-3,
+        mandukya-1-4, mandukya-1-5).
+2.  q-che-cose-il-turiya (Grande Domanda Globale): Che cos'è il Quarto (Turīya)
+    e in che modo trascende ogni determinazione oggettiva?
+      - Risposta dell'opera: Il Turīya non è uno stato psicologico tra gli
+        altri, ma la Coscienza incondizionata non-duale, invisibile, ineffabile,
+        inoggettivabile nell'esperienza empirica, ove ogni fenomeno cosmico è
+        pacificato (mandukya-1-7, mandukya-1-12).
+3.  q-qual-e-il-significato-del-mahavakya-ayam-atma-brahma (Grande Domanda
+    Globale): Che cosa proclama l'assioma vedico «Questo Sé è il Brahman»?
+      - Risposta dell'opera: Afferma la totale non-differenza ontologica tra il
+        Sé reale dell'essere umano e l'Assoluto infinito, abolendo ogni
+        trascendenza separatrice estrinseca (mandukya-1-2).
+4.  q-in-che-modo-la-sillaba-om-esprime-la-totalita-dell-essere (Grande Domanda
+    Globale): Come si articolano le lettere di Oṃ con i gradi della realtà e
+    dell'Ātman?
+      - Risposta dell'opera: La lettera A esprime lo stato di veglia; la lettera
+        U lo stato di sogno; la lettera M lo stato di sonno profondo; il
+        silenzio privo di suono (amātra) che le sottende esprime il Turīya
+        non-duale (mandukya-1-1, mandukya-1-8, mandukya-1-9, mandukya-1-10,
+        mandukya-1-11, mandukya-1-12).
+
+Nuove Domande Candidate Proposte:
+
+  - q-distinzione-tra-stato-causale-e-incondizionato: Qual è la differenza
+    radicale tra la massa di coscienza del sonno profondo (Prājña/Īśvara) e la
+    non-dualità assoluta del Turīya? (mandukya-1-5, mandukya-1-6, mandukya-1-7).
+  - q-il-silenzio-privo-di-misura-amatra: Che cosa rappresenta metafisicamente
+    la dimensione priva di misura (amātra) dell'Oṅkāra nel processo di
+    reintegrazione nel Sé? (mandukya-1-12).
+
+F. ELENCO DELLE RELAZIONI
+
+1.  catuspat \rightarrow turiya: I primi tre quarti (veglia, sogno, sonno
+    profondo) sono modalità condizionate dalla presenza o dal seme
+    dell'ignoranza (avidyā); il Turīya non è una quarta parte numerica, ma la
+    sola realtà immutabile che sottende e dissolve i tre stati (Supporto:
+    mandukya-1-2, mandukya-1-7).
+2.  matra-e-amatra \rightarrow om-pranava: Le tre misure foniche esauriscono la
+    manifestazione cosmica grossolana, sottile e causale; la condizione priva di
+    misura (amātra) realizza l'Incondizionato non-duale (Supporto:
+    mandukya-1-8–12).
+3.  ayam-atma-brahma \rightarrow advaita: L'identità immediata tra il Sé
+    interiore e il Brahman universale abolisce alla radice qualsiasi
+    frammentazione o alterità oggettiva (Supporto: mandukya-1-2, mandukya-1-7).
+4.  prapancopasama \rightarrow turiya: La pacificazione del fenomeno non è
+    l'annientamento fisico della materia, ma la constatazione che il mondo della
+    molteplicità non ha mai posseduto un'esistenza sostanziale separata dal Sé
+    (Supporto: mandukya-1-7, mandukya-1-12).
+
+G. NOTE TERMINOLOGICHE
+
+1.  Ayam Ātmā Brahma: Sentenza suprema (Mahāvākya) dell'Atharvaveda. Dichiara
+    apoditticamente l'identità essenziale tra il polo soggettivo (Ātman) e il
+    polo universale oggettivo (Brahman).
+2.  Catuṣpāt: «Dotato di quattro quarti». Nell'esegesi di Śaṅkara, non indica
+    parti aggregate come quelle di un animale a quattro zampe, ma gradi modali
+    di apparenza (come le frazioni di una moneta), ove la rimozione dei primi
+    tre svela il quarto quale unica sostanza reale.
+3.  Bahiṣprajña / Antaḥprajña: La consapevolezza volta verso gli oggetti
+    esteriori grossolani (nello stato di veglia) e la consapevolezza volta verso
+    le forme mentali interiori sottili (nello stato di sogno).
+4.  Prajñānaghana: «Massa omogenea di consapevolezza». Nel sonno profondo non vi
+    sono distinzioni particolari di soggetto e oggetto: la coscienza si ritira
+    nell'unità seminale indifferenziata.
+5.  Turīya: Il «Quarto». Non uno stato transitorio o psichico, ma la pura
+    Coscienza testimone immutabile, incondizionata, inoggettivabile e non-duale.
+6.  Prapañcopaśama: «La cessazione o pacificazione della manifestazione
+    contingente». Indica la scomparsa dell'illusione del mondo molteplice
+    allorché viene colta la Verità, come la scomparsa del serpente nella corda.
+7.  Amātra: «Privo di misura fonica». Il silenzio sovrasensibile che segue la
+    pronuncia di A-U-M, simbolo supremo dell'Assoluto incondizionato privo di
+    predicati (Nirguṇa Brahman).
+
+H. SPIEGAZIONI JIVANMUKTA E COMMENTARI TRADIZIONALI
+
+(Tutti i 14 passaggi dell'opera sono provvisti di spiegazione pedagogica
+strutturata, semplice e rigorosamente metafisica nel pacchetto JSON sottostante;
+i commentari tradizionali richiamano i punti cardine del Māṇḍūkyabhāṣya di
+Śaṅkara su Oṃ, i quattro quarti, la natura del Turīya e la dimensione amātra).
+
+I. COLLEGAMENTI CON ALTRE OPERE
+
+  - katha-upanishad:
+      - Dottrinale diretto: Oṃ quale supremo supporto meditativo (ālambana,
+        Ka.Up. I.2.15–17); la constatazione che il Sé illumina sia lo stato di
+        sonno sia quello di veglia (Ka.Up. II.1.4).
+  - prashna-upanishad:
+      - Dottrinale e terminologico: Condivisione del medesimo Śānti-pāṭha
+        dell'Atharvaveda; meditazione sulle tre misure foniche di Oṃ (A, U, M) e
+        loro corrispondenza con i piani cosmici (Pr.Up. V.1–7); la beatitudine
+        del sonno profondo nel cuore (Pr.Up. IV.6).
+  - mundaka-upanishad:
+      - Esplicito e dottrinale: Condivisione del medesimo Śānti-pāṭha;
+        l'analogia dell'arco di Oṃ per colpire il bersaglio di Brahman (Mu.Up.
+        II.2.4); la dottrina della non-dualità (Mu.Up. II.2.11).
+  - chandogya-upanishad:
+      - Dottrinale diretto: L'esposizione dell'istruzione di Prajāpati a Indra
+        sui quattro stati di veglia, sogno, sonno profondo e Sé immortale
+        (Ch.Up. VIII.7–12).
+
+J. QUESTIONI DA VERIFICARE
+
+1.  Assenza di Kārikā: Il testo originale fornito su Wikisource e circoscritto
+    dall'utente riguarda rigorosamente i 12 mantra della Māṇḍūkya Upaniṣad
+    (Śruti pura), escludendo le quattro sezioni metriche della Kārikā di
+    Gauḍapāda, che costituiscono opera esegetica distinta.
+2.  Natura del Turīya: Nel commentario advaitico è essenziale ribadire che il
+    Turīya non è uno stato psicologico alterato da raggiungere mediante sforzo
+    mentale, ma la realtà naturale e permanente della Coscienza, che viene
+    disvelata rimuovendo la falsa identificazione con i tre stati transitori.
+
+PARTE B — PACCHETTO EDITORIALE IN JSON
+
+{
+  "package_format": "jivanmukta-gemini-editorial-v1",
+  "work": {
+    "id": "mandukya-upanishad",
+    "title": "Māṇḍūkyopaniṣad",
+    "short_title": "Mandukya",
+    "language": "sa",
+    "attribution": "Atharvaveda",
+    "editorial_note": [
+      "Testo sacro primario appartenente alla Śruti vedica dell'Atharvaveda.",
+      "Costituisce una delle dieci Upaniṣad maggiori (Mukhya) dotata del commentario fondamentale di Śaṅkarācārya.",
+      "Considerata tradizionalmente la sintesi metafisica più elevata e concentrata dell'intero corpus vedāntico, compendia in 12 mantra la dottrina dei quattro quarti dell'Ātman, la meditazione sulle misure del Praṇava e la rivelazione del Turīya non-duale."
+    ]
+  },
+  "authors": [
+    {
+      "id": "shankara",
+      "name": "Śaṅkara",
+      "transliteration": "Śaṅkarācārya",
+      "role": "commentator",
+      "role_description": "Maestro dell'Advaita Vedānta classico, autore del Māṇḍūkyopaniṣadbhāṣya.",
+      "context": "VIII secolo d.C., interprete supremo della non-dualità assoluta esposta nella Māṇḍūkya.",
+      "concepts": ["brahman", "atman", "turiya", "advaita", "ayam-atma-brahma"],
+      "related_authors": []
+    }
+  ],
+  "editorial_units": [
+    {
+      "id": "mandukya-1",
+      "unit_locus": "I.0-13",
+      "unit_title": "Māṇḍūkyopaniṣad — I quattro quarti dell'Ātman e la meditazione sulle misure del Praṇava",
+      "sections": [
+        {
+          "section_locus": "I.0-13",
+          "section_title": "L'Oṅkāra, i quattro stati dell'Ātman e il Turīya non-duale",
+          "passages": [
+            {
+              "id": "mandukya-1-0",
+              "original": "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥ स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः । स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+              "translation": "Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi possiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra salde e corpi che vi rendono lode, possiamo noi godere la durata di vita stabilita dal Principio divino. Ci accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto conosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace Bṛhaspati! Oṃ. Pace, Pace, Pace.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-1",
+              "original": "ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद् भविष्यदिति सर्वमोङ्कार एव । यच्चान्यत् त्रिकालातीतं तदपि ओङ्कार एव ॥ १ ॥",
+              "translation": "Oṃ: questa sillaba imperitura è tutto questo universo. Di essa segue la spiegazione dottrinale: ciò che è stato, ciò che è e ciò che sarà, tutto non è altro che l'Oṅkāra. E anche qualunque altra cosa trascenda la triplicità del tempo, anch'essa è unicamente l'Oṅkāra.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-2",
+              "original": "सर्वं ह्येतद् ब्रह्म अयमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ॥ २ ॥",
+              "translation": "Tutto questo universo è in verità il Brahman. Questo Sé è il Brahman. Questo medesimo Sé è dotato di quattro quarti.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-3",
+              "original": "जागरितस्थानो बहिष्प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः ॥ ३ ॥",
+              "translation": "Avendo per sede lo stato di veglia, la cui coscienza è volta all'esterno, dotato di sette membra e di diciannove bocche, fruitore degli oggetti corporei grossolani: Vaiśvānara è il primo quarto.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-4",
+              "original": "स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः ॥ ४ ॥",
+              "translation": "Avendo per sede lo stato di sogno, la cui coscienza è volta all'interno, dotato di sette membra e di diciannove bocche, fruitore delle forme sottili: Taijasa è il secondo quarto.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-5",
+              "original": "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत् सुषुप्तम् । सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः पादः ॥ ५ ॥",
+              "translation": "Quello stato in cui l'uomo addormentato non desidera alcun oggetto di desiderio e non contempla alcun sogno: quello è il sonno profondo. Avendo per sede il sonno profondo, unificato, massa omogenea di pura consapevolezza, intessuto di beatitudine, fruitore della beatitudine, la cui porta d'accesso è la pura coscienza: Prājña è il terzo quarto.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-6",
+              "original": "एष सर्वेश्वरः एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम् ॥ ६ ॥",
+              "translation": "Questi è il Sovrano di tutto; Questi è l'Onnisciente; Questi è l'Ordinatore interiore immanente; Questi è la matrice originaria di ogni cosa, giacché Egli è l'origine e il riassorbimento di tutti gli esseri.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-7",
+              "original": "नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् । अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ॥ ७ ॥",
+              "translation": "Non cosciente dell'interno, non cosciente dell'esterno, non cosciente di entrambi, non massa indifferenziata di coscienza, non conoscente, né non-conoscente. Invisibile, non oggettivabile nella relazione empirica, inafferrabile, privo di contrassegni determinativi, inconcepibile, ineffabile, la cui sola essenza è la certezza del Sé unico, in cui ogni manifestazione contingente è pacificata, sereno, benefico, non-duale: così concepiscono il Quarto. Egli è l'Ātman: Egli deve essere realizzato!",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-8",
+              "original": "सोऽयमात्माऽध्यक्षरमोङ्कारोऽधिमात्रं पादा मात्रा मात्राश्च पादा अकार उकारो मकार इति ॥ ८ ॥",
+              "translation": "Questo medesimo Sé, rispetto alle lettere sacre, è l'Oṅkāra; e rispetto alle misure foniche, i suoi quarti sono le misure, e le misure sono i suoi quarti: la lettera A, la lettera U, la lettera M.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-9",
+              "original": "जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्राऽऽप्तेरादिमत्त्वाद् वाऽऽप्नोति ह वै सर्वान् कामानादिश्च भवति य एवं वेद ॥ ९ ॥",
+              "translation": "Vaiśvānara, che ha per sede lo stato di veglia, è la lettera A, la prima misura: per la sua pervasività o per la sua primordialità. Consegue invero tutti i desideri e diviene il primo colui che conosce in questo modo.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-10",
+              "original": "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रोत्कर्षादुभयत्त्वाद् वोत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित् कुले भवति य एवं वेद ॥ १० ॥",
+              "translation": "Taijasa, che ha per sede lo stato di sogno, è la lettera U, la seconda misura: per la sua eminenza superiore o per la sua natura intermedia. Innalza invero la continuità della conoscenza, diviene equanime, e nella sua stirpe non nasce alcuno che ignori il Brahman, colui che conosce in questo modo.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-11",
+              "original": "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा मिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ॥ ११ ॥",
+              "translation": "Prājña, che ha per sede il sonno profondo, è la lettera M, la terza misura: per la sua facoltà di misurare o per essere il principio di riassorbimento. Misura invero tutto questo universo e ne diviene il luogo di riassorbimento colui che conosce in questo modo.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-12",
+              "original": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोङ्कार आत्मैव संविशत्यात्मनाऽऽत्मानं य एवं वेद ॥ १२ ॥",
+              "translation": "Privo di misura fonica è il Quarto: inoggettivabile nell'esperienza empirica, in cui ogni agitazione manifestata è pacificata, benefico, non-duale. Così l'Oṅkāra è invero l'Ātman stesso. Penetra nel Sé per mezzo del proprio stesso Sé colui che conosce in questo modo; colui che conosce in questo modo!",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            },
+            {
+              "id": "mandukya-1-13",
+              "original": "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥ स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः । स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+              "translation": "Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi possiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra salde e corpi che vi rendono lode, possiamo noi godere la durata di vita stabilita dal Principio divino. Ci accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto conosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace Bṛhaspati! Oṃ. Pace, Pace, Pace.",
+              "source": "Māṇḍūkyopaniṣad",
+              "editorial_status": "established"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "brahman",
+      "name": "Brahman",
+      "transliteration": "Brahman",
+      "gloss": "La Realtà Assoluta non-duale, totalità dell'universo manifesto e incondizionato, proclamata identica al Sé.",
+      "passages": ["mandukya-1-2", "mandukya-1-10"],
+      "related_concepts": ["atman", "ayam-atma-brahma", "turiya", "om-pranava"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "atman",
+      "name": "Ātman",
+      "transliteration": "Ātman",
+      "gloss": "Il Sé reale e immutabile, pura Coscienza articolata nei quattro quarti e realizzata quale Turīya incondizionato.",
+      "passages": ["mandukya-1-2", "mandukya-1-7", "mandukya-1-8", "mandukya-1-12"],
+      "related_concepts": ["brahman", "ayam-atma-brahma", "catuspat", "turiya"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "ayam-atma-brahma",
+      "name": "Ayam Ātmā Brahma",
+      "transliteration": "Ayam Ātmā Brahma",
+      "gloss": "Il supremo Mahāvākya dell'Atharvaveda: dichiara l'identità assoluta e immediata del Sé interiore con il Brahman infinito.",
+      "passages": ["mandukya-1-2"],
+      "related_concepts": ["brahman", "atman", "advaita"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "catuspat",
+      "name": "I Quattro Quarti",
+      "transliteration": "Catuṣpāt",
+      "gloss": "L'ordinamento quadripartito dei gradi di manifestazione e disvelamento dell'Ātman (veglia, sogno, sonno profondo e Trascendenza).",
+      "passages": ["mandukya-1-2", "mandukya-1-8"],
+      "related_concepts": ["vaisvanara", "taijasa", "prajna", "turiya"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "vaisvanara",
+      "name": "Vaiśvānara",
+      "transliteration": "Vaiśvānara",
+      "gloss": "Il primo quarto dell'Ātman: l'Uomo universale nello stato di veglia, con coscienza rivolta all'esterno e fruitore del corporeo.",
+      "passages": ["mandukya-1-3", "mandukya-1-9"],
+      "related_concepts": ["catuspat", "matra-e-amatra"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "taijasa",
+      "name": "Taijasa",
+      "transliteration": "Taijasa",
+      "gloss": "Il secondo quarto dell'Ātman: il Radioso nello stato di sogno, con coscienza introversa e fruitore delle forme sottili interiori.",
+      "passages": ["mandukya-1-4", "mandukya-1-10"],
+      "related_concepts": ["catuspat", "matra-e-amatra"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "prajna",
+      "name": "Prājña",
+      "transliteration": "Prājña",
+      "gloss": "Il terzo quarto dell'Ātman: il Sapiente causale nel sonno profondo, massa omogenea di consapevolezza e beatitudine, matrice del cosmo.",
+      "passages": ["mandukya-1-5", "mandukya-1-6", "mandukya-1-11"],
+      "related_concepts": ["catuspat", "matra-e-amatra"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "turiya",
+      "name": "Turīya",
+      "transliteration": "Turīya",
+      "gloss": "Il Quarto incondizionato: la pura Coscienza testimone non-duale, inoggettivabile, in cui ogni contingenza manifestata è pacificata.",
+      "passages": ["mandukya-1-7", "mandukya-1-12"],
+      "related_concepts": ["atman", "brahman", "advaita", "prapancopasama", "matra-e-amatra"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "om-pranava",
+      "name": "Praṇava Oṃ",
+      "transliteration": "Praṇava Oṃ",
+      "gloss": "Il Verbo fonico originario che compendia la totalità del tempo manifesto e l'Incondizionato sovratemporale.",
+      "passages": ["mandukya-1-1", "mandukya-1-8", "mandukya-1-9", "mandukya-1-12"],
+      "related_concepts": ["brahman", "catuspat", "matra-e-amatra"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "matra-e-amatra",
+      "name": "Misure e Silenzio",
+      "transliteration": "Mātrā e Amātra",
+      "gloss": "Le tre misure foniche A-U-M associate ai tre stati cosmici manifestati, e la condizione priva di misura (amātra) associata al Turīya.",
+      "passages": ["mandukya-1-8", "mandukya-1-9", "mandukya-1-10", "mandukya-1-11", "mandukya-1-12"],
+      "related_concepts": ["om-pranava", "turiya"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "prapancopasama",
+      "name": "Pacificazione del Fenomeno",
+      "transliteration": "Prapañcopaśama",
+      "gloss": "La cessazione o estinzione dell'illusione della molteplicità cosmica: il mondo cessa di apparire come realtà separata dal Sé.",
+      "passages": ["mandukya-1-7", "mandukya-1-12"],
+      "related_concepts": ["turiya", "advaita"],
+      "authors": ["shankara"]
+    },
+    {
+      "id": "advaita",
+      "name": "Non-Dualità",
+      "transliteration": "Advaita",
+      "gloss": "La natura ontologica essenziale dell'Assoluto: assenza assoluta di alterità, scissione o dualismo tra il Sé e il Tutto.",
+      "passages": ["mandukya-1-7", "mandukya-1-12"],
+      "related_concepts": ["brahman", "atman", "turiya"],
+      "authors": ["shankara"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-quali-sono-gli-stati-di-coscienza",
+      "type": "great",
+      "text": "Qual è la struttura ontologica degli stati di veglia, sogno e sonno profondo?",
+      "problem": "Analizzare i gradi di manifestazione della coscienza e comprendere come ciascuno sperimenti un differente piano di realtà (grossolano, sottile, causale).",
+      "parent_question": null,
+      "concepts": ["catuspat", "vaisvanara", "taijasa", "prajna"],
+      "passages": ["mandukya-1-3", "mandukya-1-4", "mandukya-1-5"],
+      "commentaries": [],
+      "related_questions": ["q-che-cose-il-turiya"]
+    },
+    {
+      "id": "q-che-cose-il-turiya",
+      "type": "great",
+      "text": "Che cos'è il Quarto (Turīya) e in che modo trascende ogni determinazione oggettiva?",
+      "problem": "Riconoscere che il Turīya non è un quarto stato psicologico, ma la realtà permanente e incondizionata della Coscienza testimone non-duale.",
+      "parent_question": null,
+      "concepts": ["turiya", "advaita", "prapancopasama", "atman"],
+      "passages": ["mandukya-1-7", "mandukya-1-12"],
+      "commentaries": ["comm-shankara-mandukya-1-7", "comm-shankara-mandukya-1-12"],
+      "related_questions": ["q-quali-sono-gli-stati-di-coscienza"]
+    },
+    {
+      "id": "q-qual-e-il-significato-del-mahavakya-ayam-atma-brahma",
+      "type": "great",
+      "text": "Che cosa proclama l'assioma vedico «Questo Sé è il Brahman»?",
+      "problem": "Comprendere l'identità immediata e priva di mediazioni tra il centro cosciente individuale e l'Infinito universale.",
+      "parent_question": null,
+      "concepts": ["ayam-atma-brahma", "atman", "brahman", "advaita"],
+      "passages": ["mandukya-1-2"],
+      "commentaries": ["comm-shankara-mandukya-1-2"],
+      "related_questions": ["q-che-cose-il-turiya"]
+    },
+    {
+      "id": "q-in-che-modo-la-sillaba-om-esprime-la-totalita-dell-essere",
+      "type": "great",
+      "text": "Come si articolano le lettere di Oṃ con i gradi della realtà e dell'Ātman?",
+      "problem": "Stabilire la corrispondenza contemplativa tra A, U, M e gli stati della manifestazione, fino al Silenzio privo di misura (amātra).",
+      "parent_question": null,
+      "concepts": ["om-pranava", "matra-e-amatra", "catuspat", "turiya"],
+      "passages": ["mandukya-1-1", "mandukya-1-8", "mandukya-1-9", "mandukya-1-10", "mandukya-1-11", "mandukya-1-12"],
+      "commentaries": ["comm-shankara-mandukya-1-1"],
+      "related_questions": ["q-che-cose-il-turiya"]
+    }
+  ],
+  "candidate_questions": [
+    {
+      "id": "q-distinzione-tra-stato-causale-e-incondizionato",
+      "type": "great",
+      "text": "Qual è la differenza radicale tra la massa di coscienza del sonno profondo (Prājña/Īśvara) e la non-dualità assoluta del Turīya?",
+      "problem": "Discriminare tra il sonno profondo, in cui sussistono ancora i semi latenti dell'ignoranza cosmica, e il Turīya, ove ogni seme di illusione è definitivamente estinto.",
+      "concepts": ["prajna", "turiya", "catuspat"],
+      "passages": ["mandukya-1-5", "mandukya-1-6", "mandukya-1-7"]
+    },
+    {
+      "id": "q-il-silenzio-privo-di-misura-amatra",
+      "type": "great",
+      "text": "Che cosa rappresenta metafisicamente la dimensione priva di misura (amātra) dell'Oṅkāra nel processo di reintegrazione nel Sé?",
+      "problem": "Definire l'assorbimento dell'atto meditativo dal supporto sonoro al Silenzio non-duale dell'Assoluto.",
+      "concepts": ["matra-e-amatra", "turiya", "om-pranava"],
+      "passages": ["mandukya-1-12"]
+    }
+  ],
+  "explanations": [
+    {
+      "id": "expl-mandukya-1-0",
+      "target_type": "passage",
+      "target_id": "mandukya-1-0",
+      "title": "Invocazione di pace e custodia delle facoltà",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Preghiera tradizionale affinché orecchi e occhi contemplino solo ciò che è benefico e il corpo rimanga saldo al servizio della Verità."},
+        {"heading": "Dottrina metafisica", "text": "L'armonia psicofisica e la purezza sensoriale sono il presupposto indispensabile per accogliere l'insegnamento supremo della non-dualità senza deviazioni mentali."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-1",
+      "target_type": "passage",
+      "target_id": "mandukya-1-1",
+      "title": "L'Oṅkāra quale totalità temporale e sovratemporale",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "La sillaba imperitura Oṃ è tutto l'universo: ciò che fu, ciò che è, ciò che sarà e tutto ciò che oltrepassa la triplicità del tempo."},
+        {"heading": "Dottrina metafisica", "text": "Oṃ non è un simbolo arbitrario o parziale: esso compendia sia l'intera manifestazione cosmica nel divenire sia l'Eternità immutabile dell'Incondizionato."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-2",
+      "target_type": "passage",
+      "target_id": "mandukya-1-2",
+      "title": "Il Mahāvākya «Questo Sé è Brahman» e i quattro quarti",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Tutto l'universo è Brahman; questo Sé intimo è Brahman (Ayam Ātmā Brahma); questo medesimo Sé è dotato di quattro quarti."},
+        {"heading": "Dottrina metafisica", "text": "Proclamazione dell'Identità suprema: non vi è separazione tra l'Assoluto universale e la coscienza dell'uomo. I quattro quarti sono le modalità di questa unica Realtà."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-3",
+      "target_type": "passage",
+      "target_id": "mandukya-1-3",
+      "title": "Vaiśvānara: la coscienza estrovertita dello stato di veglia",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Il primo quarto ha sede nella veglia: volge la coscienza all'esterno, possiede sette membra cosmiche e diciannove bocche, e fruisce del mondo materiale grossolano."},
+        {"heading": "Dottrina metafisica", "text": "Nello stato di veglia la Coscienza si identifica con il corpo fisico e percepisce il mondo tramite gli organi sensoriali, sperimentando l'illusione della materia solida e separata."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-4",
+      "target_type": "passage",
+      "target_id": "mandukya-1-4",
+      "title": "Taijasa: la coscienza interiore dello stato di sogno",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Il secondo quarto ha sede nel sogno: volge la coscienza all'interno, possiede diciannove aperture interiori e fruisce delle forme sottili proiettate dalla mente."},
+        {"heading": "Dottrina metafisica", "text": "Nel sogno i sensi fisici sono spenti: la mente illumina da sé un universo sottile creato dalle memorie e dalle impressioni passate, mostrando il potere creativo interiore del Sé."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-5",
+      "target_type": "passage",
+      "target_id": "mandukya-1-5",
+      "title": "Prājña: la massa di beatitudine del sonno profondo",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Il terzo quarto è il sonno privo di desideri e di sogni: massa unificata di pura consapevolezza, intessuto di beatitudine e fruitore della pace causale."},
+        {"heading": "Dottrina metafisica", "text": "Nel sonno profondo (suṣupti) ogni dualità tra soggetto e oggetto si placa: la coscienza riposa nella propria radice indifferenziata, sperimentando il riflesso della beatitudine divina."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-6",
+      "target_type": "passage",
+      "target_id": "mandukya-1-6",
+      "title": "Il Signore del cosmo e la matrice universale",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Prājña è il Sovrano di tutto, l'Onnisciente, l'Ordinatore interiore immanente e la matrice da cui scaturiscono e in cui si dissolvono tutti gli esseri."},
+        {"heading": "Dottrina metafisica", "text": "Lo stato causale è la sede del Principio divino creatore (Īśvara): in Esso risiedono i semi latenti di ogni esistenza, pronti a manifestarsi di nuovo al risveglio."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-7",
+      "target_type": "passage",
+      "target_id": "mandukya-1-7",
+      "title": "Turīya: la definizione apofatica dell'Assoluto non-duale",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Né interno né esterno, inafferrabile, ineffabile, la cui essenza è la certezza del Sé unico, in cui ogni fenomeno è pacificato: Questo è il Quarto, l'Ātman non-duale da realizzare."},
+        {"heading": "Dottrina metafisica", "text": "Il culmine della teologia negativa: il Turīya trascende ogni categoria concettuale. È la pura Coscienza testimone permanente, priva di dualità (advaita), serena e immutabile."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-8",
+      "target_type": "passage",
+      "target_id": "mandukya-1-8",
+      "title": "La corrispondenza tra i quarti dell'Ātman e le lettere di Oṃ",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "L'Ātman rispetto alle lettere sacre è l'Oṅkāra: i suoi quarti corrispondono esattamente alle misure foniche A, U e M."},
+        {"heading": "Dottrina metafisica", "text": "La fonetica sacra non è una convenzione umana: le tre lettere di Oṃ esprimono i tre gradi della manifestazione cosmica, mentre il silenzio successivo esprime la Trascendenza."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-9",
+      "target_type": "passage",
+      "target_id": "mandukya-1-9",
+      "title": "La lettera A: l'omologia con lo stato di veglia (Vaiśvānara)",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Vaiśvānara è la prima lettera A di Oṃ, per la sua pervasività in tutti i suoni e per la sua primordialità: chi così conosce ottiene tutti i desideri e diviene il primo."},
+        {"heading": "Dottrina metafisica", "text": "Come la vocale A è la radice inespressa di ogni suono verbale, così la veglia è la base di partenza di ogni esperienza empirica nel mondo della forma corporea."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-10",
+      "target_type": "passage",
+      "target_id": "mandukya-1-10",
+      "title": "La lettera U: l'omologia con lo stato di sogno (Taijasa)",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Taijasa è la seconda lettera U, per la sua eminenza superiore e la sua natura intermedia: chi così conosce innalza la conoscenza ed è privo di discendenti ignoranti del Brahman."},
+        {"heading": "Dottrina metafisica", "text": "La lettera U sorge dopo la A e precede la M: simboleggia lo spazio intermedio e sottile del sogno, che eleva la consapevolezza al di sopra del gretto materialismo sensoriale."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-11",
+      "target_type": "passage",
+      "target_id": "mandukya-1-11",
+      "title": "La lettera M: l'omologia con il sonno profondo (Prājña)",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Prājña è la terza lettera M, per la facoltà di misurare e riassorbire i suoni precedenti: chi così conosce misura l'universo e diviene il principio del suo riassorbimento."},
+        {"heading": "Dottrina metafisica", "text": "La consonante labiale M chiude la bocca e riassorbe le vocali A e U: esprime il sonno profondo in cui la veglia e il sogno si dissolvono temporaneamente nella causa potenziale."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-12",
+      "target_type": "passage",
+      "target_id": "mandukya-1-12",
+      "title": "La dimensione priva di misura (Amātra) e l'identità col Turīya",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Privo di misura fonica (amātra) è il Quarto: inoggettivabile, benefico, non-duale; così l'Oṅkāra è il Sé stesso: chi conosce penetra nel Sé mediante il Sé."},
+        {"heading": "Dottrina metafisica", "text": "Il Silenzio che segue il suono di Oṃ è la verità incondizionata dell'Assoluto: caduta ogni parola e ogni forma, la coscienza si riconosce identica all'Uno senza secondo."}
+      ],
+      "editorial_status": "established"
+    },
+    {
+      "id": "expl-mandukya-1-13",
+      "target_type": "passage",
+      "target_id": "mandukya-1-13",
+      "title": "Il suggello di pace finale dell'Atharvaveda",
+      "sections": [
+        {"heading": "Il senso del verso", "text": "Ripresa del mantra di pace atharvanico per sigillare l'intera rivelazione della Māṇḍūkya nella serenità incorruttibile dell'Assoluto."},
+        {"heading": "Dottrina metafisica", "text": "La Conoscenza non-duale culmina nella Pace (Śānti): colui che ha realizzato l'identità del Sé riposa per sempre nell'armonia invulnerabile dell'Ordine divino."}
+      ],
+      "editorial_status": "established"
+    }
+  ],
+  "commentaries": [
+    {
+      "id": "comm-shankara-mandukya-1-1",
+      "author_id": "shankara",
+      "passages": ["mandukya-1-1"],
+      "text": "Śaṅkara chiarisce nel suo Bhāṣya che l'Oṅkāra è sia il nome supremo (abhidhāna) sia la realtà stessa designata (abhidheya). Tutto ciò che è manifestato nel tempo e ciò che è privo di tempo (come l'Avyākṛta causale e il Turīya trascendente) non possiede un'esistenza reale distinta da Oṃ, giacché nessun oggetto può essere concepito o sperimentato all'infuori della Coscienza che il Verbo sacro compendia.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "comm-shankara-mandukya-1-2",
+      "author_id": "shankara",
+      "passages": ["mandukya-1-2"],
+      "text": "Sull'enunciato 'so 'yam ātmā catuṣpāt', Śaṅkara ammonisce rigorosamente contro l'errore di concepire l'Ātman come un ente composto di quattro membra o parti fisiche: l'Assoluto è per sua natura indivisibile (niṣkala). I quattro quarti sono paragonati ai quarti di una moneta (kārṣāpaṇa), ove le determinazioni inferiori sono assorbite progressivamente in quelle superiori, fino a che la rimozione dei primi tre svela il quarto (Turīya) quale unica realtà da sempre sussistente.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "comm-shankara-mandukya-1-7",
+      "author_id": "shankara",
+      "passages": ["mandukya-1-7"],
+      "text": "Commentando il settimo mantra, Śaṅkara stabilisce che il Turīya non può essere descritto mediante attributi affermativi, poiché ogni predicato appartiene all'ambito empirico dell'illusione. Negando la coscienza esterna, interna e indifferenziata, la Śruti distrugge le tre illusioni di veglia, sogno e sonno; l'espressione 'ekātma-pratyaya-sāram' indica che la sola prova della Sua esistenza è la certezza ininterrotta della pura presenza dell'Io reale (l'autocoscienza dell'Ātman).",
+      "editorial_status": "established"
+    },
+    {
+      "id": "comm-shankara-mandukya-1-12",
+      "author_id": "shankara",
+      "passages": ["mandukya-1-12"],
+      "text": "Sulla formula 'saṃviśaty ātmanātmānam', Śaṅkara rileva che l'ingresso nel Sé per mezzo del Sé non è un'azione transitiva o un movimento spaziale, ma la fine definitiva della falsa identificazione con gli upādhi: colui che ha realizzato il Turīya comprende di non essere mai stato un'anima individuale separata, ma l'Oṅkāra stesso, l'Assoluto non-duale in cui la manifestazione contingente non è mai realmente sorta.",
+      "editorial_status": "established"
+    }
+  ],
+  "notes": [
+    {
+      "id": "note-ayam-atma-brahma",
+      "term": "Ayam Ātmā Brahma",
+      "passages": ["mandukya-1-2"],
+      "text": "Uno dei quattro grandi detti upanishadici (Mahāvākya), appartenente all'Atharvaveda: proclama l'identità immediata, priva di dualità, tra l'essenza interiore dell'uomo (Ātman) e la Realtà Assoluta universale (Brahman).",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-catuspat",
+      "term": "Catuṣpāt",
+      "passages": ["mandukya-1-2"],
+      "text": "I 'quattro quarti' dell'Ātman: schema pedagogico fondamentale che ripartisce la coscienza nei tre stati contingenti dell'esperienza fenomenica (veglia, sogno, sonno profondo) e nel quarto principio incondizionato (Turīya).",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-bahisprajna-antahprajna",
+      "term": "Bahiṣprajña e Antaḥprajña",
+      "passages": ["mandukya-1-3", "mandukya-1-4"],
+      "text": "Le due modalità ordinarie di percezione: estrovertita (la veglia, che afferra gli oggetti corporei grossolani) e introversa (il sogno, che proietta e contempla le immagini sottili della mente).",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-prajnanaghana",
+      "term": "Prajñānaghana",
+      "passages": ["mandukya-1-5"],
+      "text": "La 'massa omogenea di consapevolezza indifferenziata': definisce lo stato di sonno profondo in cui le distinzioni particolari della mente si fondono nella causa seminale comune, priva di scissione tra percipiente e percepito.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-turiya",
+      "term": "Turīya",
+      "passages": ["mandukya-1-7", "mandukya-1-12"],
+      "text": "Il 'Quarto': non uno stato psicologico passeggero, ma la pura Coscienza testimone incondizionata, non-duale (advaita), che illumina tutti gli stati rimanendo ad essi sovraordinata e incontaminata.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-prapancopasama",
+      "term": "Prapañcopaśama",
+      "passages": ["mandukya-1-7", "mandukya-1-12"],
+      "text": "La 'pacificazione della manifestazione contingente': designa la scomparsa dell'illusione della molteplicità cosmica all'atto della Conoscenza metafisica del Sé.",
+      "editorial_status": "established"
+    },
+    {
+      "id": "note-amatra",
+      "term": "Amātra",
+      "passages": ["mandukya-1-12"],
+      "text": "La dimensione 'priva di misura fonica': il Silenzio trascendente che succede e sottende la risonanza del monosillabo Oṃ, simbolo eminente del Brahman privo di attributi (Nirguṇa).",
+      "editorial_status": "established"
+    }
+  ],
+  "relations": {
+    "related_works": [
+      {
+        "work_id": "katha-upanishad",
+        "why": "Condivisione della dottrina di Oṃ quale supporto supremo (ālambana, mandukya-1-1 = katha-1-2-15/17) e della consapevolezza che il Sé è il Testimone permanente sia della veglia sia del sonno (mandukya-1-3/4 = katha-2-1-4)."
+      },
+      {
+        "work_id": "prashna-upanishad",
+        "why": "Condivisione del medesimo Śānti-pāṭha dell'Atharvaveda; rigorosa corrispondenza dottrinale sulle tre misure foniche di Oṃ (mandukya-1-8/11 = prashna-5-1/7) e sullo stato di sonno profondo ove le impressioni si riassorbono nella luce (mandukya-1-5 = prashna-4-6)."
+      },
+      {
+        "work_id": "mundaka-upanishad",
+        "why": "Condivisione del medesimo Śānti-pāṭha; identità dell'analogia di Oṃ quale strumento supremo di unificazione metafisica con l'Assoluto (mandukya-1-12 = mundaka-2-2-4) e celebrazione della non-dualità cosmica (mandukya-1-7 = mundaka-2-2-11)."
+      },
+      {
+        "work_id": "chandogya-upanishad",
+        "why": "Parallelismo con l'insegnamento di Prajāpati sui quattro gradi della coscienza fino al Sé immortale incorporeo (mandukya-1-3/7 = chandogya-8-7/12)."
+      }
+    ]
+  },
+  "notes_for_reviewer": [
+    "La Māṇḍūkya Upaniṣad è stata elaborata nella sua totalità: tutti i 14 passaggi sono dotati di testo originale, traduzione fedele e spiegazione autonoma strutturata.",
+    "Il testo elaborato è circoscritto ai 12 mantra della Śruti upanishadica propriamente detta, escludendo le Kārikā di Gauḍapāda in quanto opera esegetica distinta che formerà oggetto di autonoma trattazione.",
+    "È stato dato massimo risalto dottrinale al Mahāvākya 'Ayam Ātmā Brahma' (mantra 2) e alla definizione apofatica del Turīya (mantra 7), pilastri insostituibili dell'ontologia non-duale dell'Advaita Vedānta."
+  ]
+}

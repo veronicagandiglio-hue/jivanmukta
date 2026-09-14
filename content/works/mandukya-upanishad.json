@@ -1,0 +1,15 @@
+{
+  "id": "mandukya-upanishad",
+  "title": "Māṇḍūkya Upaniṣad",
+  "short_title": "Māṇḍūkya",
+  "language": "sa",
+  "attribution": "Atharvaveda",
+  "editorial_note": [
+    "Upaniṣad breve ma fondamentale dell'Atharvaveda, composta da una invocazione iniziale, dodici mantra centrali e una invocazione conclusiva.",
+    "Espone l'identità dell'Ātman con Brahman, la dottrina dei quattro quarti e la centralità della sillaba sacra Oṃ.",
+    "Il testo è tradizionalmente associato al commentario di Śaṅkara e alla sintesi della coscienza non-duale."
+  ],
+  "editorial_units": [
+    "mandukya-1"
+  ]
+}

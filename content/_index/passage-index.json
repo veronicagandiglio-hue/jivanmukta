@@ -2991,6 +2991,230 @@
     "sequence": 175,
     "source_file": "editorial-units/kena-4.json"
   },
+  "mandukya-1-0": {
+    "id": "mandukya-1-0",
+    "locus": "I.0-I.13",
+    "original": "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।\nस्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥\nस्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।\nस्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+    "translation": "Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi\npossiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra\nsalde e corpi che vi rendono lode, possiamo noi godere la durata di vita\nstabilita dal Principio divino.\nCi accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto\nconosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace\nBṛhaspati!\nOṃ. Pace, Pace, Pace.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 0,
+    "sequence": 176,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-1": {
+    "id": "mandukya-1-1",
+    "locus": "I.0-I.13",
+    "original": "ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद् भविष्यदिति सर्वमोङ्कार एव ।\nयच्चान्यत् त्रिकालातीतं तदपि ओङ्कार एव ॥ १ ॥",
+    "translation": "Oṃ: questa sillaba imperitura (akṣara) è tutto questo universo. Di essa segue la\nspiegazione dottrinale: ciò che è stato, ciò che è e ciò che sarà, tutto non è\naltro che l'Oṅkāra. E anche qualunque altra cosa trascenda la triplicità del\ntempo, anch'essa è unicamente l'Oṅkāra.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 1,
+    "sequence": 177,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-2": {
+    "id": "mandukya-1-2",
+    "locus": "I.0-I.13",
+    "original": "सर्वं ह्येतद् ब्रह्म अयमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ॥ २ ॥",
+    "translation": "Tutto questo universo è in verità il Brahman. Questo Sé è il Brahman (ayam ātmā\nbrahma). Questo medesimo Sé è dotato di quattro quarti (catuṣpāt).",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 2,
+    "sequence": 178,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-3": {
+    "id": "mandukya-1-3",
+    "locus": "I.0-I.13",
+    "original": "जागरितस्थानो बहिष्प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः\n॥ ३ ॥",
+    "translation": "Avendo per sede lo stato di veglia (jāgarita-sthāna), la cui coscienza è volta\nall'esterno (bahiṣprajña), dotato di sette membra e di diciannove bocche,\nfruitore degli oggetti corporei grossolani (sthūlabhuk): Vaiśvānara [l'Uomo\ncosmico universale] è il primo quarto.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 3,
+    "sequence": 179,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-4": {
+    "id": "mandukya-1-4",
+    "locus": "I.0-I.13",
+    "original": "स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः\nपादः ॥ ४ ॥",
+    "translation": "Avendo per sede lo stato di sogno (svapna-sthāna), la cui coscienza è volta\nall'interno (antaḥprajña), dotato di sette membra e di diciannove bocche,\nfruitore delle forme sottili (praviviktabhuk): Taijasa [il Radioso] è il secondo\nquarto.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 4,
+    "sequence": 180,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-5": {
+    "id": "mandukya-1-5",
+    "locus": "I.0-I.13",
+    "original": "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत् सुषुप्तम् ।\nसुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः\nपादः ॥ ५ ॥",
+    "translation": "Quello stato in cui l'uomo addormentato non desidera alcun oggetto di desiderio\ne non contempla alcun sogno: quello è il sonno profondo (suṣuptam). Avendo per\nsede il sonno profondo (suṣupta-sthāna), unificato, massa omogenea di pura\nconsapevolezza (prajñānaghana), intessuto di beatitudine (ānandamaya), fruitore\ndella beatitudine (ānandabhuk), la cui porta d'accesso è la pura coscienza\n(cetomukha): Prājña [il Sapiente causale] è il terzo quarto.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 5,
+    "sequence": 181,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-6": {
+    "id": "mandukya-1-6",
+    "locus": "I.0-I.13",
+    "original": "एष सर्वेश्वरः एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम्\n॥ ६ ॥",
+    "translation": "Questi è il Sovrano di tutto (sarveśvara); Questi è l'Onnisciente (sarvajña);\nQuesti è l'Ordinatore interiore immanente (antaryāmin); Questi è la matrice\noriginaria (yoni) di ogni cosa, giacché Egli è l'origine e il riassorbimento di\ntutti gli esseri.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 6,
+    "sequence": 182,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-7": {
+    "id": "mandukya-1-7",
+    "locus": "I.0-I.13",
+    "original": "नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् ।\nअदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं\nशान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ॥ ७ ॥",
+    "translation": "Non cosciente dell'interno, non cosciente dell'esterno, non cosciente di\nentrambi, non massa indifferenziata di coscienza, non conoscente, né\nnon-conoscente. Invisibile, non oggettivabile nella relazione empirica\n(avyavahārya), inafferrabile, privo di contrassegni determinativi,\ninconcepibile, ineffabile, la cui sola essenza è la certezza del Sé unico\n(ekātma-pratyaya-sāra), in cui ogni manifestazione contingente è pacificata\n(prapañcopaśama), sereno (śānta), benefico (śiva), non-duale (advaita): così\nconcepiscono il Quarto (Turīya). Egli è l'Ātman: Egli deve essere realizzato!",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 7,
+    "sequence": 183,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-8": {
+    "id": "mandukya-1-8",
+    "locus": "I.0-I.13",
+    "original": "सोऽयमात्माऽध्यक्षरमोङ्कारोऽधिमात्रं पादा मात्रा मात्राश्च पादा अकार उकारो मकार\nइति ॥ ८ ॥",
+    "translation": "Questo medesimo Sé, rispetto alle lettere sacre, è l'Oṅkāra; e rispetto alle\nmisure foniche (mātrā), i suoi quarti sono le misure, e le misure sono i suoi\nquarti: la lettera A (akāra), la lettera U (ukāra), la lettera M (makāra).",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 8,
+    "sequence": 184,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-9": {
+    "id": "mandukya-1-9",
+    "locus": "I.0-I.13",
+    "original": "जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्राऽऽप्तेरादिमत्त्वाद् वाऽऽप्नोति ह वै\nसर्वान् कामानादिश्च भवति य एवं वेद ॥ ९ ॥",
+    "translation": "Vaiśvānara, che ha per sede lo stato di veglia, è la lettera A, la prima misura:\nper la sua pervasività (āpti) o per la sua primordialità (ādimattva). Consegue\ninvero tutti i desideri e diviene il primo [tra i saggi] colui che conosce in\nquesto modo.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 9,
+    "sequence": 185,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-10": {
+    "id": "mandukya-1-10",
+    "locus": "I.0-I.13",
+    "original": "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रोत्कर्षादुभयत्त्वाद् वोत्कर्षति ह वै\nज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित् कुले भवति य एवं वेद ॥ १० ॥",
+    "translation": "Taijasa, che ha per sede lo stato di sogno, è la lettera U, la seconda misura:\nper la sua eminenza superiore (utkarṣa) o per la sua natura intermedia\n(ubhayatva). Innalza invero la continuità della conoscenza, diviene equanime, e\nnella sua stirpe non nasce alcuno che ignori il Brahman, colui che conosce in\nquesto modo.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 10,
+    "sequence": 186,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-11": {
+    "id": "mandukya-1-11",
+    "locus": "I.0-I.13",
+    "original": "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा मिनोति ह वा इदं\nसर्वमपीतिश्च भवति य एवं वेद ॥ ११ ॥",
+    "translation": "Prājña, che ha per sede il sonno profondo, è la lettera M, la terza misura: per\nla sua facoltà di misurare (miti) o per essere il principio di riassorbimento\n(apīti). Misura invero tutto questo universo e ne diviene il luogo di\nriassorbimento colui che conosce in questo modo.",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 11,
+    "sequence": 187,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-12": {
+    "id": "mandukya-1-12",
+    "locus": "I.0-I.13",
+    "original": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोङ्कार आत्मैव\nसंविशत्यात्मनाऽऽत्मानं य एवं वेद ॥ १२ ॥",
+    "translation": "Privo di misura fonica (amātra) è il Quarto (Turīya): inoggettivabile\nnell'esperienza empirica, in cui ogni agitazione manifestata è pacificata\n(prapañcopaśama), benefico (śiva), non-duale (advaita). Così l'Oṅkāra è invero\nl'Ātman stesso. Penetra nel Sé per mezzo del proprio stesso Sé colui che conosce\nin questo modo; colui che conosce in questo modo!",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 12,
+    "sequence": 188,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
+  "mandukya-1-13": {
+    "id": "mandukya-1-13",
+    "locus": "I.0-I.13",
+    "original": "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।\nस्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥\nस्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।\nस्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+    "translation": "Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi\npossiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra\nsalde e corpi che vi rendono lode, possiamo noi godere la durata di vita\nstabilita dal Principio divino.\nCi accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto\nconosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace\nBṛhaspati!\nOṃ. Pace, Pace, Pace.\n\n8. EVENTUALI PROBLEMI TERMINOLOGICI DA TENERE PRESENTI PER I BLOCCHI SUCCESSIVI\n\n1.  Ayam Ātmā Brahma (Mantra 2):\n      - Uno dei quattro supremi detti upanishadici (Mahāvākya), assegnato\n        tradizionalmente all'Atharvaveda. Dichiara apoditticamente l'identità\n        assoluta e immediata tra la coscienza interiore dell'individuo (ayam\n        ātmā) e l'Assoluto infinito trascendente (Brahman).\n2.  Catuṣpāt (Mantra 2):\n      - I «quattro quarti»: termine metafisico capitale. Śaṅkara ammonisce\n        rigorosamente nel suo commentario che questi quattro quarti non sono\n        parti materiali o sezioni giustapposte di un tutto (l'Ātman è\n        indivisibile, niṣkala), ma gradi o modalità di velamento e disvelamento\n        dell'unica Coscienza attraverso gli upādhi. I primi tre poggiano sulla\n        presenza dell'ignoranza (avidyā), mentre il Quarto è la realtà reale\n        immutabile.\n3.  Sette membra e diciannove bocche (Mantra 3 e 4):\n      - Simbolismo macrocosmico e microcosmico:\n          - Sette membra: il capo (cielo), gli occhi (sole), il respiro (aria),\n            il tronco (etere), la vescica (acque), i piedi (terra) e la bocca\n            (fuoco sacrificale).\n          - Diciannove bocche: i cinque organi di senso (jñānendriya), i cinque\n            organi d'azione (karmendriya), i cinque soffi vitali (prāṇādayaḥ),\n            la mente (manas), l'intelletto (buddhi), il senso dell'io (ahaṅkāra)\n            e la memoria-coscienza (citta).\n4.  Prajñānaghana (Mantra 5):\n      - «Massa indifferenziata di pura coscienza». Nello stato di sonno profondo\n        (suṣupti), la scissione tra soggetto e oggetto viene temporaneamente\n        sospesa: come nell'oscurità notturna tutte le forme visibili appaiono\n        fuse in un'unica massa indistinta, così le determinazioni mentali si\n        ritirano nella causa potenziale indifferenziata.\n5.  Turīya (Mantra 7):\n      - Letteralmente il «Quarto». Non è un quarto stato psicologico che si\n        aggiunge agli altri tre nel tempo, ma la pura Coscienza testimone\n        incondizionata, eterna, non-duale (advaita), che illumina la veglia, il\n        sogno e il sonno profondo rimanendo da essi incontaminata.\n6.  Prapañcopaśama (Mantra 7 e 12):\n      - «La pacificazione o cessazione della manifestazione fenomenica».\n        L'universo oggettivo non viene distrutto fisicamente, ma cessa di\n        apparire come realtà autonoma e separata, dissolvendosi come l'illusione\n        del serpente nella corda.\n7.  Amātra (Mantra 12):\n      - «Privo di misura fonica». Rappresenta il Silenzio puro e incondizionato\n        che succede e sottende la risonanza di A-U-M. È il simbolo supremo del\n        Brahman Supremo privo di attributi (Nirguṇa Brahman).\n\nRIEPILOGO DELLA PRIMA FASE PER LA MĀṆḌŪKYA UPANIṢAD\n\nLa Māṇḍūkya Upaniṣad è stata integralmente acquisita e tradotta:\n\n  - Unità editoriale: mandukya-1 (Unità unica)\n  - Passaggi totali: 14 passaggi (mandukya-1-0 – mandukya-1-13)\n  - Stato del testo: Testo sanscrito completo, privo di lacune, con traduzione\n    fedele al puro rigore metafisico tradizionale.\n\nLA PRIMA FASE È INTEGRALMENTE CONCLUSA.\n\nAttendo la tua dichiarazione formale:\n\"OPERA COMPLETATA — AVVIA LA SECONDA FASE\"\nper procedere alla costruzione del report analitico (concetti, domande globali,\nrelazioni, spiegazioni versetto per versetto) e alla generazione del pacchetto\nJSON normalizzato (jivanmukta-gemini-editorial-v1).\n\n\nPARTE A — REPORT LEGGIBILE\n\nA. VERIFICA PRELIMINARE\n\n1.  Completezza del testo: L'elaborazione della Māṇḍūkya Upaniṣad\n    (Māṇḍūkyopaniṣad) è completa e integrale. L'opera si compone\n    dell'Invocazione propiziatoria di pace iniziale (Śānti-pāṭha\n    dell'Atharvaveda), dei 12 mantra aforistici in prosa sacra che ne\n    costituiscono il corpo canonico e del mantra di pace conclusivo. Nessun\n    enunciato o particella è stato omesso.\n2.  Continuità tra i blocchi: L'opera presenta una sintesi metafisica perfetta,\n    priva di cesure narrative:\n      - Mantra 1: Identificazione assoluta della sillaba sacra Oṃ con la\n        totalità della manifestazione nel tempo (passato, presente, futuro) e\n        con ciò che trascende la temporalità;\n      - Mantra 2: Proclamazione del supremo Mahāvākya («Questo Sé è il Brahman»)\n        e introduzione della dottrina dell'Ātman quadripartito (catuṣpāt);\n      - Mantra 3: Il primo quarto (Vaiśvānara): lo stato di veglia\n        (jāgarita-sthāna), la coscienza estrovertita (bahiṣprajña), il\n        godimento degli oggetti grossolani (sthūlabhuk);\n      - Mantra 4: Il secondo quarto (Taijasa): lo stato di sogno\n        (svapna-sthāna), la coscienza introversa (antaḥprajña), la fruizione\n        delle forme sottili interiori (praviviktabhuk);\n      - Mantra 5: Il terzo quarto (Prājña): lo stato di sonno profondo\n        (suṣupta-sthāna), privo di desideri e sogni, massa indifferenziata di\n        pura consapevolezza (prajñānaghana), fruitore della beatitudine\n        (ānandabhuk);\n      - Mantra 6: Le qualificazioni metafisiche di Prājña quale Signore del\n        cosmo (sarveśvara), Onnisciente (sarvajña), Reggitore interiore\n        immanente (antaryāmin) e matrice originaria (yoni) di nascita e\n        riassorbimento di tutti gli esseri;\n      - Mantra 7: Il quarto quarto (Turīya): la definizione apofatica assoluta\n        dell'Assoluto; né interno né esterno, inafferrabile, inoggettivabile\n        (avyavahārya), la cui sola essenza è la certezza del Sé unico\n        (ekātma-pratyaya-sāra), pacificazione di ogni contingenza fenomenica\n        (prapañcopaśama), sereno (śānta), benefico (śiva), non-duale (advaita);\n      - Mantra 8: La corrispondenza esatta tra i quattro quarti dell'Ātman e le\n        misure foniche ed essenziali dell'Oṅkāra;\n      - Mantra 9–11: L'analisi simbolica delle tre misure foniche: la A\n        corrisponde a Vaiśvānara per pervasività e primordialità; la U\n        corrisponde a Taijasa per eminenza e posizione intermedia; la M\n        corrisponde a Prājña per misura e riassorbimento;\n      - Mantra 12: La dimensione priva di misura (amātra), il Silenzio supremo\n        successivo a Oṃ, corrispondente al Turīya incondizionato e non-duale; la\n        realizzazione terminale dell'identità («penetra nel Sé per mezzo del\n        Sé»).\n3.  Coerenza della struttura e numerazione:\n      - Testo unitario continuo articolato in 14 passaggi stabili: mandukya-1-0\n        (Śānti iniziale), da mandukya-1-1 a mandukya-1-12 (Mantra 1–12),\n        mandukya-1-13 (Śānti finale).\n4.  Coerenza degli ID: Gli ID assegnati sono univoci, conformi alla convenzione\n    kebab-case (mandukya-upanishad, mandukya-1, da mandukya-1-0 a\n    mandukya-1-13).\n5.  Coerenza terminologica: Resa rigorosamente fedele all'ontologia dell'Advaita\n    Vedānta classico e alla metafisica tradizionale guénoniana: Vaiśvānara reso\n    come «l'Uomo cosmico universale / l'Immanente nella veglia»; Taijasa come\n    «il Radioso / la Coscienza sottile»; Prājña come «il Sapiente causale / la\n    Consapevolezza indifferenziata»; Turīya come «il Quarto / l'Incondizionato\n    non-duale»; Prapañcopaśama come «la pacificazione / cessazione della\n    manifestazione fenomenica»; Amātra come «la dimensione priva di misura\n    fonica / il Silenzio trascendente».\n\nB. ELENCO COMPLETO DELLE UNITÀ EDITORIALI\n\n1.  ID: mandukya-1 | Locus: I.0–13 | Titolo: Māṇḍūkyopaniṣad — I quattro quarti\n    dell'Ātman e la meditazione sulle misure del Praṇava\n\nC. ELENCO COMPLETO DEI PASSAGGI\n\nTutti i 14 passaggi tradotti nella Prima Fase sono pienamente confermati nella\nloro purezza letterale e dottrinale. Non sono state riscontrate lacune né\ndiscrepanze con il textus receptus sanscrito.\n\n(Il testo completo originale in Devanāgarī e la relativa traduzione italiana\nintegrale per ciascun passaggio sono inclusi sistematicamente nella Parte B\nJSON).\n\nD. ELENCO DEI CONCETTI DOTTRINALI\n\n1.  brahman (Brahman / ब्रह्मन्): La Realtà Assoluta, infinita, non-duale e\n    incondizionata, principio trascendente e immanente di tutti i mondi,\n    dichiarato identico all'Ātman nel Mahāvākya.\n      - Passaggi: mandukya-1-2, mandukya-1-10.\n      - Collegati: atman, ayam-atma-brahma, turiya, om-pranava.\n2.  atman (Ātman / आत्मन्): Il Sé reale, pura Coscienza testimone, strutturato\n    pedagogicamente in quattro quarti modali che culminano nella realtà\n    non-duale del Turīya.\n      - Passaggi: mandukya-1-2, mandukya-1-7, mandukya-1-8, mandukya-1-12.\n      - Collegati: brahman, ayam-atma-brahma, catuspat, turiya.\n3.  ayam-atma-brahma (Ayam Ātmā Brahma / अयमात्मा ब्रह्म): Il supremo Mahāvākya\n    dell'Atharvaveda: «Questo Sé è il Brahman». Afferma l'identità assoluta e\n    immediata del soggetto cosciente con l'Assoluto infinito.\n      - Passaggi: mandukya-1-2.\n      - Collegati: brahman, atman, advaita.\n4.  catuspat (Catuṣpāt / चतुष्पात्): La dottrina dei quattro «quarti»\n    dell'Ātman. Non indica una divisione materiale o numerica del Sé (che è\n    indivisibile, niṣkala), ma i gradi di velamento e disvelamento della\n    Coscienza attraverso i tre stati empirici e la Trascendenza pura.\n      - Passaggi: mandukya-1-2, mandukya-1-8.\n      - Collegati: vaisvanara, taijasa, prajna, turiya.\n5.  vaisvanara (Vaiśvānara / वैश्वानर): Il primo quarto dell'Ātman, avente per\n    sede lo stato di veglia (jāgarita-sthāna), la cui consapevolezza è volta\n    all'esterno (bahiṣprajña), fruitore della materia grossolana; corrisponde\n    alla prima lettera A di Oṃ.\n      - Passaggi: mandukya-1-3, mandukya-1-9.\n      - Collegati: catuspat, matra-e-amatra.\n6.  taijasa (Taijasa / तैजस): Il secondo quarto dell'Ātman, avente per sede lo\n    stato di sogno (svapna-sthāna), la cui consapevolezza è volta all'interno\n    (antaḥprajña), fruitore delle forme sottili proiettate dalla mente;\n    corrisponde alla seconda lettera U di Oṃ.\n      - Passaggi: mandukya-1-4, mandukya-1-10.\n      - Collegati: catuspat, matra-e-amatra.\n7.  prajna (Prājña / प्राज्ञ): Il terzo quarto dell'Ātman, avente per sede il\n    sonno profondo (suṣupta-sthāna), massa omogenea di consapevolezza\n    indifferenziata (prajñānaghana), fruitore della beatitudine e causa seminale\n    di tutti gli esseri (sarveśvara, antaryāmin); corrisponde alla terza lettera\n    M di Oṃ.\n      - Passaggi: mandukya-1-5, mandukya-1-6, mandukya-1-11.\n      - Collegati: catuspat, matra-e-amatra.\n8.  turiya (Turīya / तुरीय): Il Quarto, l'Incondizionato assoluto, la pura\n    Coscienza testimone non-duale (advaita), inoggettivabile, in cui ogni\n    manifestazione è pacificata (prapañcopaśama), serena e benefica (śiva);\n    corrisponde alla dimensione priva di misura (amātra).\n      - Passaggi: mandukya-1-7, mandukya-1-12.\n      - Collegati: atman, brahman, advaita, prapancopasama, matra-e-amatra.\n9.  om-pranava (Praṇava Oṃ / ॐकार): Il Verbo primordiale e la sillaba imperitura\n    (akṣara) che racchiude tutto ciò che appartiene al tempo e l'Incondizionato\n    sovratemporale.\n      - Passaggi: mandukya-1-1, mandukya-1-8, mandukya-1-9, mandukya-1-12.\n      - Collegati: brahman, catuspat, matra-e-amatra.\n10. matra-e-amatra (Mātrā e Amātra / मात्रा-अमात्रा): Le tre misure foniche (A,\n    U, M) corrispondenti ai tre stati cosmici manifestati, e la condizione priva\n    di misura (amātra), ossia il Silenzio sovrasensibile successivo alla\n    risonanza, che incarna il Turīya.\n      - Passaggi: mandukya-1-8, mandukya-1-9, mandukya-1-10, mandukya-1-11,\n        mandukya-1-12.\n      - Collegati: om-pranava, turiya.\n11. prapancopasama (Prapañcopaśama / प्रपञ्चोपशम): La pacificazione o cessazione\n    della manifestazione fenomenica: l'universo empirico non subisce una\n    distruzione fisica, ma si dissolve come realtà autonoma allorché sorge la\n    visione dell'Assoluto non-duale.\n      - Passaggi: mandukya-1-7, mandukya-1-12.\n      - Collegati: turiya, advaita.\n12. advaita (Advaita / अद्वैत): La Non-Dualità suprema, assenza assoluta di\n    alterità, scissione o dualismo tra soggetto conoscente, oggetto conosciuto e\n    Principio universale.\n      - Passaggi: mandukya-1-7, mandukya-1-12.\n      - Collegati: brahman, atman, turiya.\n\nE. ELENCO DELLE DOMANDE DOTTRINALI\n\n1.  q-quali-sono-gli-stati-di-coscienza (Grande Domanda Globale): Qual è la\n    struttura ontologica degli stati di veglia, sogno e sonno profondo?\n      - Risposta dell'opera: La veglia (Vaiśvānara) percepisce il grossolano\n        all'esterno; il sogno (Taijasa) crea e fruisce il sottile all'interno;\n        il sonno profondo (Prājña) riassorbe ogni dualità in una massa\n        indifferenziata di consapevolezza e beatitudine causale (mandukya-1-3,\n        mandukya-1-4, mandukya-1-5).\n2.  q-che-cose-il-turiya (Grande Domanda Globale): Che cos'è il Quarto (Turīya)\n    e in che modo trascende ogni determinazione oggettiva?\n      - Risposta dell'opera: Il Turīya non è uno stato psicologico tra gli\n        altri, ma la Coscienza incondizionata non-duale, invisibile, ineffabile,\n        inoggettivabile nell'esperienza empirica, ove ogni fenomeno cosmico è\n        pacificato (mandukya-1-7, mandukya-1-12).\n3.  q-qual-e-il-significato-del-mahavakya-ayam-atma-brahma (Grande Domanda\n    Globale): Che cosa proclama l'assioma vedico «Questo Sé è il Brahman»?\n      - Risposta dell'opera: Afferma la totale non-differenza ontologica tra il\n        Sé reale dell'essere umano e l'Assoluto infinito, abolendo ogni\n        trascendenza separatrice estrinseca (mandukya-1-2).\n4.  q-in-che-modo-la-sillaba-om-esprime-la-totalita-dell-essere (Grande Domanda\n    Globale): Come si articolano le lettere di Oṃ con i gradi della realtà e\n    dell'Ātman?\n      - Risposta dell'opera: La lettera A esprime lo stato di veglia; la lettera\n        U lo stato di sogno; la lettera M lo stato di sonno profondo; il\n        silenzio privo di suono (amātra) che le sottende esprime il Turīya\n        non-duale (mandukya-1-1, mandukya-1-8, mandukya-1-9, mandukya-1-10,\n        mandukya-1-11, mandukya-1-12).\n\nNuove Domande Candidate Proposte:\n\n  - q-distinzione-tra-stato-causale-e-incondizionato: Qual è la differenza\n    radicale tra la massa di coscienza del sonno profondo (Prājña/Īśvara) e la\n    non-dualità assoluta del Turīya? (mandukya-1-5, mandukya-1-6, mandukya-1-7).\n  - q-il-silenzio-privo-di-misura-amatra: Che cosa rappresenta metafisicamente\n    la dimensione priva di misura (amātra) dell'Oṅkāra nel processo di\n    reintegrazione nel Sé? (mandukya-1-12).\n\nF. ELENCO DELLE RELAZIONI\n\n1.  catuspat \\rightarrow turiya: I primi tre quarti (veglia, sogno, sonno\n    profondo) sono modalità condizionate dalla presenza o dal seme\n    dell'ignoranza (avidyā); il Turīya non è una quarta parte numerica, ma la\n    sola realtà immutabile che sottende e dissolve i tre stati (Supporto:\n    mandukya-1-2, mandukya-1-7).\n2.  matra-e-amatra \\rightarrow om-pranava: Le tre misure foniche esauriscono la\n    manifestazione cosmica grossolana, sottile e causale; la condizione priva di\n    misura (amātra) realizza l'Incondizionato non-duale (Supporto:\n    mandukya-1-8–12).\n3.  ayam-atma-brahma \\rightarrow advaita: L'identità immediata tra il Sé\n    interiore e il Brahman universale abolisce alla radice qualsiasi\n    frammentazione o alterità oggettiva (Supporto: mandukya-1-2, mandukya-1-7).\n4.  prapancopasama \\rightarrow turiya: La pacificazione del fenomeno non è\n    l'annientamento fisico della materia, ma la constatazione che il mondo della\n    molteplicità non ha mai posseduto un'esistenza sostanziale separata dal Sé\n    (Supporto: mandukya-1-7, mandukya-1-12).\n\nG. NOTE TERMINOLOGICHE\n\n1.  Ayam Ātmā Brahma: Sentenza suprema (Mahāvākya) dell'Atharvaveda. Dichiara\n    apoditticamente l'identità essenziale tra il polo soggettivo (Ātman) e il\n    polo universale oggettivo (Brahman).\n2.  Catuṣpāt: «Dotato di quattro quarti». Nell'esegesi di Śaṅkara, non indica\n    parti aggregate come quelle di un animale a quattro zampe, ma gradi modali\n    di apparenza (come le frazioni di una moneta), ove la rimozione dei primi\n    tre svela il quarto quale unica sostanza reale.\n3.  Bahiṣprajña / Antaḥprajña: La consapevolezza volta verso gli oggetti\n    esteriori grossolani (nello stato di veglia) e la consapevolezza volta verso\n    le forme mentali interiori sottili (nello stato di sogno).\n4.  Prajñānaghana: «Massa omogenea di consapevolezza». Nel sonno profondo non vi\n    sono distinzioni particolari di soggetto e oggetto: la coscienza si ritira\n    nell'unità seminale indifferenziata.\n5.  Turīya: Il «Quarto». Non uno stato transitorio o psichico, ma la pura\n    Coscienza testimone immutabile, incondizionata, inoggettivabile e non-duale.\n6.  Prapañcopaśama: «La cessazione o pacificazione della manifestazione\n    contingente». Indica la scomparsa dell'illusione del mondo molteplice\n    allorché viene colta la Verità, come la scomparsa del serpente nella corda.\n7.  Amātra: «Privo di misura fonica». Il silenzio sovrasensibile che segue la\n    pronuncia di A-U-M, simbolo supremo dell'Assoluto incondizionato privo di\n    predicati (Nirguṇa Brahman).\n\nH. SPIEGAZIONI JIVANMUKTA E COMMENTARI TRADIZIONALI\n\n(Tutti i 14 passaggi dell'opera sono provvisti di spiegazione pedagogica\nstrutturata, semplice e rigorosamente metafisica nel pacchetto JSON sottostante;\ni commentari tradizionali richiamano i punti cardine del Māṇḍūkyabhāṣya di\nŚaṅkara su Oṃ, i quattro quarti, la natura del Turīya e la dimensione amātra).\n\nI. COLLEGAMENTI CON ALTRE OPERE\n\n  - katha-upanishad:\n      - Dottrinale diretto: Oṃ quale supremo supporto meditativo (ālambana,\n        Ka.Up. I.2.15–17); la constatazione che il Sé illumina sia lo stato di\n        sonno sia quello di veglia (Ka.Up. II.1.4).\n  - prashna-upanishad:\n      - Dottrinale e terminologico: Condivisione del medesimo Śānti-pāṭha\n        dell'Atharvaveda; meditazione sulle tre misure foniche di Oṃ (A, U, M) e\n        loro corrispondenza con i piani cosmici (Pr.Up. V.1–7); la beatitudine\n        del sonno profondo nel cuore (Pr.Up. IV.6).\n  - mundaka-upanishad:\n      - Esplicito e dottrinale: Condivisione del medesimo Śānti-pāṭha;\n        l'analogia dell'arco di Oṃ per colpire il bersaglio di Brahman (Mu.Up.\n        II.2.4); la dottrina della non-dualità (Mu.Up. II.2.11).\n  - chandogya-upanishad:\n      - Dottrinale diretto: L'esposizione dell'istruzione di Prajāpati a Indra\n        sui quattro stati di veglia, sogno, sonno profondo e Sé immortale\n        (Ch.Up. VIII.7–12).\n\nJ. QUESTIONI DA VERIFICARE\n\n1.  Assenza di Kārikā: Il testo originale fornito su Wikisource e circoscritto\n    dall'utente riguarda rigorosamente i 12 mantra della Māṇḍūkya Upaniṣad\n    (Śruti pura), escludendo le quattro sezioni metriche della Kārikā di\n    Gauḍapāda, che costituiscono opera esegetica distinta.\n2.  Natura del Turīya: Nel commentario advaitico è essenziale ribadire che il\n    Turīya non è uno stato psicologico alterato da raggiungere mediante sforzo\n    mentale, ma la realtà naturale e permanente della Coscienza, che viene\n    disvelata rimuovendo la falsa identificazione con i tre stati transitori.\n\nPARTE B — PACCHETTO EDITORIALE IN JSON\n\n{\n  \"package_format\": \"jivanmukta-gemini-editorial-v1\",\n  \"work\": {\n    \"id\": \"mandukya-upanishad\",\n    \"title\": \"Māṇḍūkyopaniṣad\",\n    \"short_title\": \"Mandukya\",\n    \"language\": \"sa\",\n    \"attribution\": \"Atharvaveda\",\n    \"editorial_note\": [\n      \"Testo sacro primario appartenente alla Śruti vedica dell'Atharvaveda.\",\n      \"Costituisce una delle dieci Upaniṣad maggiori (Mukhya) dotata del commentario fondamentale di Śaṅkarācārya.\",\n      \"Considerata tradizionalmente la sintesi metafisica più elevata e concentrata dell'intero corpus vedāntico, compendia in 12 mantra la dottrina dei quattro quarti dell'Ātman, la meditazione sulle misure del Praṇava e la rivelazione del Turīya non-duale.\"\n    ]\n  },\n  \"authors\": [\n    {\n      \"id\": \"shankara\",\n      \"name\": \"Śaṅkara\",\n      \"transliteration\": \"Śaṅkarācārya\",\n      \"role\": \"commentator\",\n      \"role_description\": \"Maestro dell'Advaita Vedānta classico, autore del Māṇḍūkyopaniṣadbhāṣya.\",\n      \"context\": \"VIII secolo d.C., interprete supremo della non-dualità assoluta esposta nella Māṇḍūkya.\",\n      \"concepts\": [\"brahman\", \"atman\", \"turiya\", \"advaita\", \"ayam-atma-brahma\"],\n      \"related_authors\": []\n    }\n  ],\n  \"editorial_units\": [\n    {\n      \"id\": \"mandukya-1\",\n      \"unit_locus\": \"I.0-13\",\n      \"unit_title\": \"Māṇḍūkyopaniṣad — I quattro quarti dell'Ātman e la meditazione sulle misure del Praṇava\",\n      \"sections\": [\n        {\n          \"section_locus\": \"I.0-13\",\n          \"section_title\": \"L'Oṅkāra, i quattro stati dell'Ātman e il Turīya non-duale\",\n          \"passages\": [\n            {\n              \"id\": \"mandukya-1-0\",\n              \"original\": \"ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥ स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः । स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥ ॐ शान्तिः शान्तिः शान्तिः ॥\",\n              \"translation\": \"Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi possiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra salde e corpi che vi rendono lode, possiamo noi godere la durata di vita stabilita dal Principio divino. Ci accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto conosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace Bṛhaspati! Oṃ. Pace, Pace, Pace.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-1\",\n              \"original\": \"ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद् भविष्यदिति सर्वमोङ्कार एव । यच्चान्यत् त्रिकालातीतं तदपि ओङ्कार एव ॥ १ ॥\",\n              \"translation\": \"Oṃ: questa sillaba imperitura è tutto questo universo. Di essa segue la spiegazione dottrinale: ciò che è stato, ciò che è e ciò che sarà, tutto non è altro che l'Oṅkāra. E anche qualunque altra cosa trascenda la triplicità del tempo, anch'essa è unicamente l'Oṅkāra.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-2\",\n              \"original\": \"सर्वं ह्येतद् ब्रह्म अयमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ॥ २ ॥\",\n              \"translation\": \"Tutto questo universo è in verità il Brahman. Questo Sé è il Brahman. Questo medesimo Sé è dotato di quattro quarti.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-3\",\n              \"original\": \"जागरितस्थानो बहिष्प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः ॥ ३ ॥\",\n              \"translation\": \"Avendo per sede lo stato di veglia, la cui coscienza è volta all'esterno, dotato di sette membra e di diciannove bocche, fruitore degli oggetti corporei grossolani: Vaiśvānara è il primo quarto.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-4\",\n              \"original\": \"स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः ॥ ४ ॥\",\n              \"translation\": \"Avendo per sede lo stato di sogno, la cui coscienza è volta all'interno, dotato di sette membra e di diciannove bocche, fruitore delle forme sottili: Taijasa è il secondo quarto.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-5\",\n              \"original\": \"यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत् सुषुप्तम् । सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः पादः ॥ ५ ॥\",\n              \"translation\": \"Quello stato in cui l'uomo addormentato non desidera alcun oggetto di desiderio e non contempla alcun sogno: quello è il sonno profondo. Avendo per sede il sonno profondo, unificato, massa omogenea di pura consapevolezza, intessuto di beatitudine, fruitore della beatitudine, la cui porta d'accesso è la pura coscienza: Prājña è il terzo quarto.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-6\",\n              \"original\": \"एष सर्वेश्वरः एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम् ॥ ६ ॥\",\n              \"translation\": \"Questi è il Sovrano di tutto; Questi è l'Onnisciente; Questi è l'Ordinatore interiore immanente; Questi è la matrice originaria di ogni cosa, giacché Egli è l'origine e il riassorbimento di tutti gli esseri.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-7\",\n              \"original\": \"नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् । अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ॥ ७ ॥\",\n              \"translation\": \"Non cosciente dell'interno, non cosciente dell'esterno, non cosciente di entrambi, non massa indifferenziata di coscienza, non conoscente, né non-conoscente. Invisibile, non oggettivabile nella relazione empirica, inafferrabile, privo di contrassegni determinativi, inconcepibile, ineffabile, la cui sola essenza è la certezza del Sé unico, in cui ogni manifestazione contingente è pacificata, sereno, benefico, non-duale: così concepiscono il Quarto. Egli è l'Ātman: Egli deve essere realizzato!\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-8\",\n              \"original\": \"सोऽयमात्माऽध्यक्षरमोङ्कारोऽधिमात्रं पादा मात्रा मात्राश्च पादा अकार उकारो मकार इति ॥ ८ ॥\",\n              \"translation\": \"Questo medesimo Sé, rispetto alle lettere sacre, è l'Oṅkāra; e rispetto alle misure foniche, i suoi quarti sono le misure, e le misure sono i suoi quarti: la lettera A, la lettera U, la lettera M.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-9\",\n              \"original\": \"जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्राऽऽप्तेरादिमत्त्वाद् वाऽऽप्नोति ह वै सर्वान् कामानादिश्च भवति य एवं वेद ॥ ९ ॥\",\n              \"translation\": \"Vaiśvānara, che ha per sede lo stato di veglia, è la lettera A, la prima misura: per la sua pervasività o per la sua primordialità. Consegue invero tutti i desideri e diviene il primo colui che conosce in questo modo.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-10\",\n              \"original\": \"स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रोत्कर्षादुभयत्त्वाद् वोत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित् कुले भवति य एवं वेद ॥ १० ॥\",\n              \"translation\": \"Taijasa, che ha per sede lo stato di sogno, è la lettera U, la seconda misura: per la sua eminenza superiore o per la sua natura intermedia. Innalza invero la continuità della conoscenza, diviene equanime, e nella sua stirpe non nasce alcuno che ignori il Brahman, colui che conosce in questo modo.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-11\",\n              \"original\": \"सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा मिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ॥ ११ ॥\",\n              \"translation\": \"Prājña, che ha per sede il sonno profondo, è la lettera M, la terza misura: per la sua facoltà di misurare o per essere il principio di riassorbimento. Misura invero tutto questo universo e ne diviene il luogo di riassorbimento colui che conosce in questo modo.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-12\",\n              \"original\": \"अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोङ्कार आत्मैव संविशत्यात्मनाऽऽत्मानं य एवं वेद ॥ १२ ॥\",\n              \"translation\": \"Privo di misura fonica è il Quarto: inoggettivabile nell'esperienza empirica, in cui ogni agitazione manifestata è pacificata, benefico, non-duale. Così l'Oṅkāra è invero l'Ātman stesso. Penetra nel Sé per mezzo del proprio stesso Sé colui che conosce in questo modo; colui che conosce in questo modo!\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            },\n            {\n              \"id\": \"mandukya-1-13\",\n              \"original\": \"ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥ स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः । स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥ ॐ शान्तिः शान्तिः शान्तिः ॥\",\n              \"translation\": \"Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi possiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra salde e corpi che vi rendono lode, possiamo noi godere la durata di vita stabilita dal Principio divino. Ci accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto conosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace Bṛhaspati! Oṃ. Pace, Pace, Pace.\",\n              \"source\": \"Māṇḍūkyopaniṣad\",\n              \"editorial_status\": \"established\"\n            }\n          ]\n        }\n      ]\n    }\n  ],\n  \"concepts\": [\n    {\n      \"id\": \"brahman\",\n      \"name\": \"Brahman\",\n      \"transliteration\": \"Brahman\",\n      \"gloss\": \"La Realtà Assoluta non-duale, totalità dell'universo manifesto e incondizionato, proclamata identica al Sé.\",\n      \"passages\": [\"mandukya-1-2\", \"mandukya-1-10\"],\n      \"related_concepts\": [\"atman\", \"ayam-atma-brahma\", \"turiya\", \"om-pranava\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"atman\",\n      \"name\": \"Ātman\",\n      \"transliteration\": \"Ātman\",\n      \"gloss\": \"Il Sé reale e immutabile, pura Coscienza articolata nei quattro quarti e realizzata quale Turīya incondizionato.\",\n      \"passages\": [\"mandukya-1-2\", \"mandukya-1-7\", \"mandukya-1-8\", \"mandukya-1-12\"],\n      \"related_concepts\": [\"brahman\", \"ayam-atma-brahma\", \"catuspat\", \"turiya\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"ayam-atma-brahma\",\n      \"name\": \"Ayam Ātmā Brahma\",\n      \"transliteration\": \"Ayam Ātmā Brahma\",\n      \"gloss\": \"Il supremo Mahāvākya dell'Atharvaveda: dichiara l'identità assoluta e immediata del Sé interiore con il Brahman infinito.\",\n      \"passages\": [\"mandukya-1-2\"],\n      \"related_concepts\": [\"brahman\", \"atman\", \"advaita\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"catuspat\",\n      \"name\": \"I Quattro Quarti\",\n      \"transliteration\": \"Catuṣpāt\",\n      \"gloss\": \"L'ordinamento quadripartito dei gradi di manifestazione e disvelamento dell'Ātman (veglia, sogno, sonno profondo e Trascendenza).\",\n      \"passages\": [\"mandukya-1-2\", \"mandukya-1-8\"],\n      \"related_concepts\": [\"vaisvanara\", \"taijasa\", \"prajna\", \"turiya\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"vaisvanara\",\n      \"name\": \"Vaiśvānara\",\n      \"transliteration\": \"Vaiśvānara\",\n      \"gloss\": \"Il primo quarto dell'Ātman: l'Uomo universale nello stato di veglia, con coscienza rivolta all'esterno e fruitore del corporeo.\",\n      \"passages\": [\"mandukya-1-3\", \"mandukya-1-9\"],\n      \"related_concepts\": [\"catuspat\", \"matra-e-amatra\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"taijasa\",\n      \"name\": \"Taijasa\",\n      \"transliteration\": \"Taijasa\",\n      \"gloss\": \"Il secondo quarto dell'Ātman: il Radioso nello stato di sogno, con coscienza introversa e fruitore delle forme sottili interiori.\",\n      \"passages\": [\"mandukya-1-4\", \"mandukya-1-10\"],\n      \"related_concepts\": [\"catuspat\", \"matra-e-amatra\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"prajna\",\n      \"name\": \"Prājña\",\n      \"transliteration\": \"Prājña\",\n      \"gloss\": \"Il terzo quarto dell'Ātman: il Sapiente causale nel sonno profondo, massa omogenea di consapevolezza e beatitudine, matrice del cosmo.\",\n      \"passages\": [\"mandukya-1-5\", \"mandukya-1-6\", \"mandukya-1-11\"],\n      \"related_concepts\": [\"catuspat\", \"matra-e-amatra\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"turiya\",\n      \"name\": \"Turīya\",\n      \"transliteration\": \"Turīya\",\n      \"gloss\": \"Il Quarto incondizionato: la pura Coscienza testimone non-duale, inoggettivabile, in cui ogni contingenza manifestata è pacificata.\",\n      \"passages\": [\"mandukya-1-7\", \"mandukya-1-12\"],\n      \"related_concepts\": [\"atman\", \"brahman\", \"advaita\", \"prapancopasama\", \"matra-e-amatra\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"om-pranava\",\n      \"name\": \"Praṇava Oṃ\",\n      \"transliteration\": \"Praṇava Oṃ\",\n      \"gloss\": \"Il Verbo fonico originario che compendia la totalità del tempo manifesto e l'Incondizionato sovratemporale.\",\n      \"passages\": [\"mandukya-1-1\", \"mandukya-1-8\", \"mandukya-1-9\", \"mandukya-1-12\"],\n      \"related_concepts\": [\"brahman\", \"catuspat\", \"matra-e-amatra\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"matra-e-amatra\",\n      \"name\": \"Misure e Silenzio\",\n      \"transliteration\": \"Mātrā e Amātra\",\n      \"gloss\": \"Le tre misure foniche A-U-M associate ai tre stati cosmici manifestati, e la condizione priva di misura (amātra) associata al Turīya.\",\n      \"passages\": [\"mandukya-1-8\", \"mandukya-1-9\", \"mandukya-1-10\", \"mandukya-1-11\", \"mandukya-1-12\"],\n      \"related_concepts\": [\"om-pranava\", \"turiya\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"prapancopasama\",\n      \"name\": \"Pacificazione del Fenomeno\",\n      \"transliteration\": \"Prapañcopaśama\",\n      \"gloss\": \"La cessazione o estinzione dell'illusione della molteplicità cosmica: il mondo cessa di apparire come realtà separata dal Sé.\",\n      \"passages\": [\"mandukya-1-7\", \"mandukya-1-12\"],\n      \"related_concepts\": [\"turiya\", \"advaita\"],\n      \"authors\": [\"shankara\"]\n    },\n    {\n      \"id\": \"advaita\",\n      \"name\": \"Non-Dualità\",\n      \"transliteration\": \"Advaita\",\n      \"gloss\": \"La natura ontologica essenziale dell'Assoluto: assenza assoluta di alterità, scissione o dualismo tra il Sé e il Tutto.\",\n      \"passages\": [\"mandukya-1-7\", \"mandukya-1-12\"],\n      \"related_concepts\": [\"brahman\", \"atman\", \"turiya\"],\n      \"authors\": [\"shankara\"]\n    }\n  ],\n  \"questions\": [\n    {\n      \"id\": \"q-quali-sono-gli-stati-di-coscienza\",\n      \"type\": \"great\",\n      \"text\": \"Qual è la struttura ontologica degli stati di veglia, sogno e sonno profondo?\",\n      \"problem\": \"Analizzare i gradi di manifestazione della coscienza e comprendere come ciascuno sperimenti un differente piano di realtà (grossolano, sottile, causale).\",\n      \"parent_question\": null,\n      \"concepts\": [\"catuspat\", \"vaisvanara\", \"taijasa\", \"prajna\"],\n      \"passages\": [\"mandukya-1-3\", \"mandukya-1-4\", \"mandukya-1-5\"],\n      \"commentaries\": [],\n      \"related_questions\": [\"q-che-cose-il-turiya\"]\n    },\n    {\n      \"id\": \"q-che-cose-il-turiya\",\n      \"type\": \"great\",\n      \"text\": \"Che cos'è il Quarto (Turīya) e in che modo trascende ogni determinazione oggettiva?\",\n      \"problem\": \"Riconoscere che il Turīya non è un quarto stato psicologico, ma la realtà permanente e incondizionata della Coscienza testimone non-duale.\",\n      \"parent_question\": null,\n      \"concepts\": [\"turiya\", \"advaita\", \"prapancopasama\", \"atman\"],\n      \"passages\": [\"mandukya-1-7\", \"mandukya-1-12\"],\n      \"commentaries\": [\"comm-shankara-mandukya-1-7\", \"comm-shankara-mandukya-1-12\"],\n      \"related_questions\": [\"q-quali-sono-gli-stati-di-coscienza\"]\n    },\n    {\n      \"id\": \"q-qual-e-il-significato-del-mahavakya-ayam-atma-brahma\",\n      \"type\": \"great\",\n      \"text\": \"Che cosa proclama l'assioma vedico «Questo Sé è il Brahman»?\",\n      \"problem\": \"Comprendere l'identità immediata e priva di mediazioni tra il centro cosciente individuale e l'Infinito universale.\",\n      \"parent_question\": null,\n      \"concepts\": [\"ayam-atma-brahma\", \"atman\", \"brahman\", \"advaita\"],\n      \"passages\": [\"mandukya-1-2\"],\n      \"commentaries\": [\"comm-shankara-mandukya-1-2\"],\n      \"related_questions\": [\"q-che-cose-il-turiya\"]\n    },\n    {\n      \"id\": \"q-in-che-modo-la-sillaba-om-esprime-la-totalita-dell-essere\",\n      \"type\": \"great\",\n      \"text\": \"Come si articolano le lettere di Oṃ con i gradi della realtà e dell'Ātman?\",\n      \"problem\": \"Stabilire la corrispondenza contemplativa tra A, U, M e gli stati della manifestazione, fino al Silenzio privo di misura (amātra).\",\n      \"parent_question\": null,\n      \"concepts\": [\"om-pranava\", \"matra-e-amatra\", \"catuspat\", \"turiya\"],\n      \"passages\": [\"mandukya-1-1\", \"mandukya-1-8\", \"mandukya-1-9\", \"mandukya-1-10\", \"mandukya-1-11\", \"mandukya-1-12\"],\n      \"commentaries\": [\"comm-shankara-mandukya-1-1\"],\n      \"related_questions\": [\"q-che-cose-il-turiya\"]\n    }\n  ],\n  \"candidate_questions\": [\n    {\n      \"id\": \"q-distinzione-tra-stato-causale-e-incondizionato\",\n      \"type\": \"great\",\n      \"text\": \"Qual è la differenza radicale tra la massa di coscienza del sonno profondo (Prājña/Īśvara) e la non-dualità assoluta del Turīya?\",\n      \"problem\": \"Discriminare tra il sonno profondo, in cui sussistono ancora i semi latenti dell'ignoranza cosmica, e il Turīya, ove ogni seme di illusione è definitivamente estinto.\",\n      \"concepts\": [\"prajna\", \"turiya\", \"catuspat\"],\n      \"passages\": [\"mandukya-1-5\", \"mandukya-1-6\", \"mandukya-1-7\"]\n    },\n    {\n      \"id\": \"q-il-silenzio-privo-di-misura-amatra\",\n      \"type\": \"great\",\n      \"text\": \"Che cosa rappresenta metafisicamente la dimensione priva di misura (amātra) dell'Oṅkāra nel processo di reintegrazione nel Sé?\",\n      \"problem\": \"Definire l'assorbimento dell'atto meditativo dal supporto sonoro al Silenzio non-duale dell'Assoluto.\",\n      \"concepts\": [\"matra-e-amatra\", \"turiya\", \"om-pranava\"],\n      \"passages\": [\"mandukya-1-12\"]\n    }\n  ],\n  \"explanations\": [\n    {\n      \"id\": \"expl-mandukya-1-0\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-0\",\n      \"title\": \"Invocazione di pace e custodia delle facoltà\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Preghiera tradizionale affinché orecchi e occhi contemplino solo ciò che è benefico e il corpo rimanga saldo al servizio della Verità.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"L'armonia psicofisica e la purezza sensoriale sono il presupposto indispensabile per accogliere l'insegnamento supremo della non-dualità senza deviazioni mentali.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-1\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-1\",\n      \"title\": \"L'Oṅkāra quale totalità temporale e sovratemporale\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"La sillaba imperitura Oṃ è tutto l'universo: ciò che fu, ciò che è, ciò che sarà e tutto ciò che oltrepassa la triplicità del tempo.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Oṃ non è un simbolo arbitrario o parziale: esso compendia sia l'intera manifestazione cosmica nel divenire sia l'Eternità immutabile dell'Incondizionato.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-2\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-2\",\n      \"title\": \"Il Mahāvākya «Questo Sé è Brahman» e i quattro quarti\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Tutto l'universo è Brahman; questo Sé intimo è Brahman (Ayam Ātmā Brahma); questo medesimo Sé è dotato di quattro quarti.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Proclamazione dell'Identità suprema: non vi è separazione tra l'Assoluto universale e la coscienza dell'uomo. I quattro quarti sono le modalità di questa unica Realtà.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-3\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-3\",\n      \"title\": \"Vaiśvānara: la coscienza estrovertita dello stato di veglia\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Il primo quarto ha sede nella veglia: volge la coscienza all'esterno, possiede sette membra cosmiche e diciannove bocche, e fruisce del mondo materiale grossolano.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Nello stato di veglia la Coscienza si identifica con il corpo fisico e percepisce il mondo tramite gli organi sensoriali, sperimentando l'illusione della materia solida e separata.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-4\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-4\",\n      \"title\": \"Taijasa: la coscienza interiore dello stato di sogno\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Il secondo quarto ha sede nel sogno: volge la coscienza all'interno, possiede diciannove aperture interiori e fruisce delle forme sottili proiettate dalla mente.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Nel sogno i sensi fisici sono spenti: la mente illumina da sé un universo sottile creato dalle memorie e dalle impressioni passate, mostrando il potere creativo interiore del Sé.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-5\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-5\",\n      \"title\": \"Prājña: la massa di beatitudine del sonno profondo\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Il terzo quarto è il sonno privo di desideri e di sogni: massa unificata di pura consapevolezza, intessuto di beatitudine e fruitore della pace causale.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Nel sonno profondo (suṣupti) ogni dualità tra soggetto e oggetto si placa: la coscienza riposa nella propria radice indifferenziata, sperimentando il riflesso della beatitudine divina.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-6\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-6\",\n      \"title\": \"Il Signore del cosmo e la matrice universale\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Prājña è il Sovrano di tutto, l'Onnisciente, l'Ordinatore interiore immanente e la matrice da cui scaturiscono e in cui si dissolvono tutti gli esseri.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Lo stato causale è la sede del Principio divino creatore (Īśvara): in Esso risiedono i semi latenti di ogni esistenza, pronti a manifestarsi di nuovo al risveglio.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-7\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-7\",\n      \"title\": \"Turīya: la definizione apofatica dell'Assoluto non-duale\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Né interno né esterno, inafferrabile, ineffabile, la cui essenza è la certezza del Sé unico, in cui ogni fenomeno è pacificato: Questo è il Quarto, l'Ātman non-duale da realizzare.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Il culmine della teologia negativa: il Turīya trascende ogni categoria concettuale. È la pura Coscienza testimone permanente, priva di dualità (advaita), serena e immutabile.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-8\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-8\",\n      \"title\": \"La corrispondenza tra i quarti dell'Ātman e le lettere di Oṃ\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"L'Ātman rispetto alle lettere sacre è l'Oṅkāra: i suoi quarti corrispondono esattamente alle misure foniche A, U e M.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"La fonetica sacra non è una convenzione umana: le tre lettere di Oṃ esprimono i tre gradi della manifestazione cosmica, mentre il silenzio successivo esprime la Trascendenza.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-9\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-9\",\n      \"title\": \"La lettera A: l'omologia con lo stato di veglia (Vaiśvānara)\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Vaiśvānara è la prima lettera A di Oṃ, per la sua pervasività in tutti i suoni e per la sua primordialità: chi così conosce ottiene tutti i desideri e diviene il primo.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Come la vocale A è la radice inespressa di ogni suono verbale, così la veglia è la base di partenza di ogni esperienza empirica nel mondo della forma corporea.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-10\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-10\",\n      \"title\": \"La lettera U: l'omologia con lo stato di sogno (Taijasa)\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Taijasa è la seconda lettera U, per la sua eminenza superiore e la sua natura intermedia: chi così conosce innalza la conoscenza ed è privo di discendenti ignoranti del Brahman.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"La lettera U sorge dopo la A e precede la M: simboleggia lo spazio intermedio e sottile del sogno, che eleva la consapevolezza al di sopra del gretto materialismo sensoriale.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-11\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-11\",\n      \"title\": \"La lettera M: l'omologia con il sonno profondo (Prājña)\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Prājña è la terza lettera M, per la facoltà di misurare e riassorbire i suoni precedenti: chi così conosce misura l'universo e diviene il principio del suo riassorbimento.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"La consonante labiale M chiude la bocca e riassorbe le vocali A e U: esprime il sonno profondo in cui la veglia e il sogno si dissolvono temporaneamente nella causa potenziale.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-12\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-12\",\n      \"title\": \"La dimensione priva di misura (Amātra) e l'identità col Turīya\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Privo di misura fonica (amātra) è il Quarto: inoggettivabile, benefico, non-duale; così l'Oṅkāra è il Sé stesso: chi conosce penetra nel Sé mediante il Sé.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"Il Silenzio che segue il suono di Oṃ è la verità incondizionata dell'Assoluto: caduta ogni parola e ogni forma, la coscienza si riconosce identica all'Uno senza secondo.\"}\n      ],\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"expl-mandukya-1-13\",\n      \"target_type\": \"passage\",\n      \"target_id\": \"mandukya-1-13\",\n      \"title\": \"Il suggello di pace finale dell'Atharvaveda\",\n      \"sections\": [\n        {\"heading\": \"Il senso del verso\", \"text\": \"Ripresa del mantra di pace atharvanico per sigillare l'intera rivelazione della Māṇḍūkya nella serenità incorruttibile dell'Assoluto.\"},\n        {\"heading\": \"Dottrina metafisica\", \"text\": \"La Conoscenza non-duale culmina nella Pace (Śānti): colui che ha realizzato l'identità del Sé riposa per sempre nell'armonia invulnerabile dell'Ordine divino.\"}\n      ],\n      \"editorial_status\": \"established\"\n    }\n  ],\n  \"commentaries\": [\n    {\n      \"id\": \"comm-shankara-mandukya-1-1\",\n      \"author_id\": \"shankara\",\n      \"passages\": [\"mandukya-1-1\"],\n      \"text\": \"Śaṅkara chiarisce nel suo Bhāṣya che l'Oṅkāra è sia il nome supremo (abhidhāna) sia la realtà stessa designata (abhidheya). Tutto ciò che è manifestato nel tempo e ciò che è privo di tempo (come l'Avyākṛta causale e il Turīya trascendente) non possiede un'esistenza reale distinta da Oṃ, giacché nessun oggetto può essere concepito o sperimentato all'infuori della Coscienza che il Verbo sacro compendia.\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"comm-shankara-mandukya-1-2\",\n      \"author_id\": \"shankara\",\n      \"passages\": [\"mandukya-1-2\"],\n      \"text\": \"Sull'enunciato 'so 'yam ātmā catuṣpāt', Śaṅkara ammonisce rigorosamente contro l'errore di concepire l'Ātman come un ente composto di quattro membra o parti fisiche: l'Assoluto è per sua natura indivisibile (niṣkala). I quattro quarti sono paragonati ai quarti di una moneta (kārṣāpaṇa), ove le determinazioni inferiori sono assorbite progressivamente in quelle superiori, fino a che la rimozione dei primi tre svela il quarto (Turīya) quale unica realtà da sempre sussistente.\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"comm-shankara-mandukya-1-7\",\n      \"author_id\": \"shankara\",\n      \"passages\": [\"mandukya-1-7\"],\n      \"text\": \"Commentando il settimo mantra, Śaṅkara stabilisce che il Turīya non può essere descritto mediante attributi affermativi, poiché ogni predicato appartiene all'ambito empirico dell'illusione. Negando la coscienza esterna, interna e indifferenziata, la Śruti distrugge le tre illusioni di veglia, sogno e sonno; l'espressione 'ekātma-pratyaya-sāram' indica che la sola prova della Sua esistenza è la certezza ininterrotta della pura presenza dell'Io reale (l'autocoscienza dell'Ātman).\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"comm-shankara-mandukya-1-12\",\n      \"author_id\": \"shankara\",\n      \"passages\": [\"mandukya-1-12\"],\n      \"text\": \"Sulla formula 'saṃviśaty ātmanātmānam', Śaṅkara rileva che l'ingresso nel Sé per mezzo del Sé non è un'azione transitiva o un movimento spaziale, ma la fine definitiva della falsa identificazione con gli upādhi: colui che ha realizzato il Turīya comprende di non essere mai stato un'anima individuale separata, ma l'Oṅkāra stesso, l'Assoluto non-duale in cui la manifestazione contingente non è mai realmente sorta.\",\n      \"editorial_status\": \"established\"\n    }\n  ],\n  \"notes\": [\n    {\n      \"id\": \"note-ayam-atma-brahma\",\n      \"term\": \"Ayam Ātmā Brahma\",\n      \"passages\": [\"mandukya-1-2\"],\n      \"text\": \"Uno dei quattro grandi detti upanishadici (Mahāvākya), appartenente all'Atharvaveda: proclama l'identità immediata, priva di dualità, tra l'essenza interiore dell'uomo (Ātman) e la Realtà Assoluta universale (Brahman).\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"note-catuspat\",\n      \"term\": \"Catuṣpāt\",\n      \"passages\": [\"mandukya-1-2\"],\n      \"text\": \"I 'quattro quarti' dell'Ātman: schema pedagogico fondamentale che ripartisce la coscienza nei tre stati contingenti dell'esperienza fenomenica (veglia, sogno, sonno profondo) e nel quarto principio incondizionato (Turīya).\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"note-bahisprajna-antahprajna\",\n      \"term\": \"Bahiṣprajña e Antaḥprajña\",\n      \"passages\": [\"mandukya-1-3\", \"mandukya-1-4\"],\n      \"text\": \"Le due modalità ordinarie di percezione: estrovertita (la veglia, che afferra gli oggetti corporei grossolani) e introversa (il sogno, che proietta e contempla le immagini sottili della mente).\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"note-prajnanaghana\",\n      \"term\": \"Prajñānaghana\",\n      \"passages\": [\"mandukya-1-5\"],\n      \"text\": \"La 'massa omogenea di consapevolezza indifferenziata': definisce lo stato di sonno profondo in cui le distinzioni particolari della mente si fondono nella causa seminale comune, priva di scissione tra percipiente e percepito.\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"note-turiya\",\n      \"term\": \"Turīya\",\n      \"passages\": [\"mandukya-1-7\", \"mandukya-1-12\"],\n      \"text\": \"Il 'Quarto': non uno stato psicologico passeggero, ma la pura Coscienza testimone incondizionata, non-duale (advaita), che illumina tutti gli stati rimanendo ad essi sovraordinata e incontaminata.\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"note-prapancopasama\",\n      \"term\": \"Prapañcopaśama\",\n      \"passages\": [\"mandukya-1-7\", \"mandukya-1-12\"],\n      \"text\": \"La 'pacificazione della manifestazione contingente': designa la scomparsa dell'illusione della molteplicità cosmica all'atto della Conoscenza metafisica del Sé.\",\n      \"editorial_status\": \"established\"\n    },\n    {\n      \"id\": \"note-amatra\",\n      \"term\": \"Amātra\",\n      \"passages\": [\"mandukya-1-12\"],\n      \"text\": \"La dimensione 'priva di misura fonica': il Silenzio trascendente che succede e sottende la risonanza del monosillabo Oṃ, simbolo eminente del Brahman privo di attributi (Nirguṇa).\",\n      \"editorial_status\": \"established\"\n    }\n  ],\n  \"relations\": {\n    \"related_works\": [\n      {\n        \"work_id\": \"katha-upanishad\",\n        \"why\": \"Condivisione della dottrina di Oṃ quale supporto supremo (ālambana, mandukya-1-1 = katha-1-2-15/17) e della consapevolezza che il Sé è il Testimone permanente sia della veglia sia del sonno (mandukya-1-3/4 = katha-2-1-4).\"\n      },\n      {\n        \"work_id\": \"prashna-upanishad\",\n        \"why\": \"Condivisione del medesimo Śānti-pāṭha dell'Atharvaveda; rigorosa corrispondenza dottrinale sulle tre misure foniche di Oṃ (mandukya-1-8/11 = prashna-5-1/7) e sullo stato di sonno profondo ove le impressioni si riassorbono nella luce (mandukya-1-5 = prashna-4-6).\"\n      },\n      {\n        \"work_id\": \"mundaka-upanishad\",\n        \"why\": \"Condivisione del medesimo Śānti-pāṭha; identità dell'analogia di Oṃ quale strumento supremo di unificazione metafisica con l'Assoluto (mandukya-1-12 = mundaka-2-2-4) e celebrazione della non-dualità cosmica (mandukya-1-7 = mundaka-2-2-11).\"\n      },\n      {\n        \"work_id\": \"chandogya-upanishad\",\n        \"why\": \"Parallelismo con l'insegnamento di Prajāpati sui quattro gradi della coscienza fino al Sé immortale incorporeo (mandukya-1-3/7 = chandogya-8-7/12).\"\n      }\n    ]\n  },\n  \"notes_for_reviewer\": [\n    \"La Māṇḍūkya Upaniṣad è stata elaborata nella sua totalità: tutti i 14 passaggi sono dotati di testo originale, traduzione fedele e spiegazione autonoma strutturata.\",\n    \"Il testo elaborato è circoscritto ai 12 mantra della Śruti upanishadica propriamente detta, escludendo le Kārikā di Gauḍapāda in quanto opera esegetica distinta che formerà oggetto di autonoma trattazione.\",\n    \"È stato dato massimo risalto dottrinale al Mahāvākya 'Ayam Ātmā Brahma' (mantra 2) e alla definizione apofatica del Turīya (mantra 7), pilastri insostituibili dell'ontologia non-duale dell'Advaita Vedānta.\"\n  ]\n}",
+    "source": "Māṇḍūkya Upaniṣad (testo sanscrito e traduzione editoriale)",
+    "work_id": "mandukya-upanishad",
+    "unit_id": "mandukya-1",
+    "unit_locus": "I.0-I.13",
+    "unit_title": "Māṇḍūkya Upaniṣad — unità unica",
+    "section_locus": "I.0-I.13",
+    "section_title": "Invocazione, dodici mantra e chiusura",
+    "index_in_section": 13,
+    "sequence": 189,
+    "source_file": "editorial-units/mandukya-1.json"
+  },
   "mundaka-1-1-0": {
     "id": "mundaka-1-1-0",
     "locus": "I.1",
@@ -3004,7 +3228,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 0,
-    "sequence": 176,
+    "sequence": 190,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-1": {
@@ -3020,7 +3244,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 1,
-    "sequence": 177,
+    "sequence": 191,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-2": {
@@ -3036,7 +3260,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 2,
-    "sequence": 178,
+    "sequence": 192,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-3": {
@@ -3052,7 +3276,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 3,
-    "sequence": 179,
+    "sequence": 193,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-4": {
@@ -3068,7 +3292,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 4,
-    "sequence": 180,
+    "sequence": 194,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-5": {
@@ -3084,7 +3308,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 5,
-    "sequence": 181,
+    "sequence": 195,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-6": {
@@ -3100,7 +3324,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 6,
-    "sequence": 182,
+    "sequence": 196,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-7": {
@@ -3116,7 +3340,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 7,
-    "sequence": 183,
+    "sequence": 197,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-8": {
@@ -3132,7 +3356,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 8,
-    "sequence": 184,
+    "sequence": 198,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-9": {
@@ -3148,7 +3372,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 9,
-    "sequence": 185,
+    "sequence": 199,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-2-1": {
@@ -3164,7 +3388,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 0,
-    "sequence": 186,
+    "sequence": 200,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-2": {
@@ -3180,7 +3404,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 1,
-    "sequence": 187,
+    "sequence": 201,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-3": {
@@ -3196,7 +3420,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 2,
-    "sequence": 188,
+    "sequence": 202,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-4": {
@@ -3212,7 +3436,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 3,
-    "sequence": 189,
+    "sequence": 203,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-5": {
@@ -3228,7 +3452,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 4,
-    "sequence": 190,
+    "sequence": 204,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-6": {
@@ -3244,7 +3468,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 5,
-    "sequence": 191,
+    "sequence": 205,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-7": {
@@ -3260,7 +3484,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 6,
-    "sequence": 192,
+    "sequence": 206,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-8": {
@@ -3276,7 +3500,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 7,
-    "sequence": 193,
+    "sequence": 207,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-9": {
@@ -3292,7 +3516,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 8,
-    "sequence": 194,
+    "sequence": 208,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-10": {
@@ -3308,7 +3532,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 9,
-    "sequence": 195,
+    "sequence": 209,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-11": {
@@ -3324,7 +3548,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 10,
-    "sequence": 196,
+    "sequence": 210,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-12": {
@@ -3340,7 +3564,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 11,
-    "sequence": 197,
+    "sequence": 211,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-13": {
@@ -3356,7 +3580,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 12,
-    "sequence": 198,
+    "sequence": 212,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-2-1-1": {
@@ -3372,7 +3596,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 0,
-    "sequence": 199,
+    "sequence": 213,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-2": {
@@ -3388,7 +3612,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 1,
-    "sequence": 200,
+    "sequence": 214,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-3": {
@@ -3404,7 +3628,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 2,
-    "sequence": 201,
+    "sequence": 215,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-4": {
@@ -3420,7 +3644,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 3,
-    "sequence": 202,
+    "sequence": 216,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-5": {
@@ -3436,7 +3660,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 4,
-    "sequence": 203,
+    "sequence": 217,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-6": {
@@ -3452,7 +3676,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 5,
-    "sequence": 204,
+    "sequence": 218,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-7": {
@@ -3468,7 +3692,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 6,
-    "sequence": 205,
+    "sequence": 219,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-8": {
@@ -3484,7 +3708,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 7,
-    "sequence": 206,
+    "sequence": 220,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-9": {
@@ -3500,7 +3724,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 8,
-    "sequence": 207,
+    "sequence": 221,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-10": {
@@ -3516,7 +3740,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 9,
-    "sequence": 208,
+    "sequence": 222,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-2-1": {
@@ -3532,7 +3756,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 0,
-    "sequence": 209,
+    "sequence": 223,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-2": {
@@ -3548,7 +3772,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 1,
-    "sequence": 210,
+    "sequence": 224,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-3": {
@@ -3564,7 +3788,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 2,
-    "sequence": 211,
+    "sequence": 225,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-4": {
@@ -3580,7 +3804,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 3,
-    "sequence": 212,
+    "sequence": 226,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-5": {
@@ -3596,7 +3820,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 4,
-    "sequence": 213,
+    "sequence": 227,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-6": {
@@ -3612,7 +3836,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 5,
-    "sequence": 214,
+    "sequence": 228,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-7": {
@@ -3628,7 +3852,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 6,
-    "sequence": 215,
+    "sequence": 229,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-8": {
@@ -3644,7 +3868,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 7,
-    "sequence": 216,
+    "sequence": 230,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-9": {
@@ -3660,7 +3884,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 8,
-    "sequence": 217,
+    "sequence": 231,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-10": {
@@ -3676,7 +3900,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 9,
-    "sequence": 218,
+    "sequence": 232,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-11": {
@@ -3692,7 +3916,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 10,
-    "sequence": 219,
+    "sequence": 233,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-3-1-1": {
@@ -3708,7 +3932,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 0,
-    "sequence": 220,
+    "sequence": 234,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-2": {
@@ -3724,7 +3948,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 1,
-    "sequence": 221,
+    "sequence": 235,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-3": {
@@ -3740,7 +3964,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 2,
-    "sequence": 222,
+    "sequence": 236,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-4": {
@@ -3756,7 +3980,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 3,
-    "sequence": 223,
+    "sequence": 237,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-5": {
@@ -3772,7 +3996,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 4,
-    "sequence": 224,
+    "sequence": 238,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-6": {
@@ -3788,7 +4012,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 5,
-    "sequence": 225,
+    "sequence": 239,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-7": {
@@ -3804,7 +4028,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 6,
-    "sequence": 226,
+    "sequence": 240,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-8": {
@@ -3820,7 +4044,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 7,
-    "sequence": 227,
+    "sequence": 241,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-9": {
@@ -3836,7 +4060,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 8,
-    "sequence": 228,
+    "sequence": 242,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-10": {
@@ -3852,7 +4076,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 9,
-    "sequence": 229,
+    "sequence": 243,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-2-1": {
@@ -3868,7 +4092,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 0,
-    "sequence": 230,
+    "sequence": 244,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-2": {
@@ -3884,7 +4108,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 1,
-    "sequence": 231,
+    "sequence": 245,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-3": {
@@ -3900,7 +4124,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 2,
-    "sequence": 232,
+    "sequence": 246,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-4": {
@@ -3916,7 +4140,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 3,
-    "sequence": 233,
+    "sequence": 247,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-5": {
@@ -3932,7 +4156,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 4,
-    "sequence": 234,
+    "sequence": 248,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-6": {
@@ -3948,7 +4172,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 5,
-    "sequence": 235,
+    "sequence": 249,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-7": {
@@ -3964,7 +4188,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 6,
-    "sequence": 236,
+    "sequence": 250,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-8": {
@@ -3980,7 +4204,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 7,
-    "sequence": 237,
+    "sequence": 251,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-9": {
@@ -3996,7 +4220,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 8,
-    "sequence": 238,
+    "sequence": 252,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-10": {
@@ -4012,7 +4236,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 9,
-    "sequence": 239,
+    "sequence": 253,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-11": {
@@ -4028,7 +4252,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 10,
-    "sequence": 240,
+    "sequence": 254,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-12": {
@@ -4044,7 +4268,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 11,
-    "sequence": 241,
+    "sequence": 255,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "prashna-1-0": {
@@ -4061,7 +4285,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 0,
-    "sequence": 242,
+    "sequence": 256,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-1": {
@@ -4078,7 +4302,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 1,
-    "sequence": 243,
+    "sequence": 257,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-2": {
@@ -4095,7 +4319,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 2,
-    "sequence": 244,
+    "sequence": 258,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-3": {
@@ -4112,7 +4336,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 3,
-    "sequence": 245,
+    "sequence": 259,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-4": {
@@ -4129,7 +4353,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 4,
-    "sequence": 246,
+    "sequence": 260,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-5": {
@@ -4146,7 +4370,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 5,
-    "sequence": 247,
+    "sequence": 261,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-6": {
@@ -4163,7 +4387,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 6,
-    "sequence": 248,
+    "sequence": 262,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-7": {
@@ -4180,7 +4404,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 7,
-    "sequence": 249,
+    "sequence": 263,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-8": {
@@ -4197,7 +4421,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 8,
-    "sequence": 250,
+    "sequence": 264,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-9": {
@@ -4214,7 +4438,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 9,
-    "sequence": 251,
+    "sequence": 265,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-10": {
@@ -4231,7 +4455,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 10,
-    "sequence": 252,
+    "sequence": 266,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-11": {
@@ -4248,7 +4472,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 11,
-    "sequence": 253,
+    "sequence": 267,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-12": {
@@ -4265,7 +4489,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 12,
-    "sequence": 254,
+    "sequence": 268,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-13": {
@@ -4282,7 +4506,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 13,
-    "sequence": 255,
+    "sequence": 269,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-14": {
@@ -4299,7 +4523,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 14,
-    "sequence": 256,
+    "sequence": 270,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-15": {
@@ -4316,7 +4540,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 15,
-    "sequence": 257,
+    "sequence": 271,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-16": {
@@ -4333,7 +4557,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 16,
-    "sequence": 258,
+    "sequence": 272,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-2-1": {
@@ -4350,7 +4574,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 0,
-    "sequence": 259,
+    "sequence": 273,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-2": {
@@ -4367,7 +4591,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 1,
-    "sequence": 260,
+    "sequence": 274,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-3": {
@@ -4384,7 +4608,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 2,
-    "sequence": 261,
+    "sequence": 275,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-4": {
@@ -4401,7 +4625,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 3,
-    "sequence": 262,
+    "sequence": 276,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-5": {
@@ -4418,7 +4642,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 4,
-    "sequence": 263,
+    "sequence": 277,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-6": {
@@ -4435,7 +4659,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 5,
-    "sequence": 264,
+    "sequence": 278,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-7": {
@@ -4452,7 +4676,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 6,
-    "sequence": 265,
+    "sequence": 279,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-8": {
@@ -4469,7 +4693,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 7,
-    "sequence": 266,
+    "sequence": 280,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-9": {
@@ -4486,7 +4710,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 8,
-    "sequence": 267,
+    "sequence": 281,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-10": {
@@ -4503,7 +4727,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 9,
-    "sequence": 268,
+    "sequence": 282,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-11": {
@@ -4520,7 +4744,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 10,
-    "sequence": 269,
+    "sequence": 283,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-12": {
@@ -4537,7 +4761,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 11,
-    "sequence": 270,
+    "sequence": 284,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-13": {
@@ -4554,7 +4778,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 12,
-    "sequence": 271,
+    "sequence": 285,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-3-1": {
@@ -4571,7 +4795,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 0,
-    "sequence": 272,
+    "sequence": 286,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-2": {
@@ -4588,7 +4812,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 1,
-    "sequence": 273,
+    "sequence": 287,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-3": {
@@ -4605,7 +4829,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 2,
-    "sequence": 274,
+    "sequence": 288,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-4": {
@@ -4622,7 +4846,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 3,
-    "sequence": 275,
+    "sequence": 289,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-5": {
@@ -4639,7 +4863,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 4,
-    "sequence": 276,
+    "sequence": 290,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-6": {
@@ -4656,7 +4880,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 5,
-    "sequence": 277,
+    "sequence": 291,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-7": {
@@ -4673,7 +4897,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 6,
-    "sequence": 278,
+    "sequence": 292,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-8": {
@@ -4690,7 +4914,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 7,
-    "sequence": 279,
+    "sequence": 293,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-9": {
@@ -4707,7 +4931,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 8,
-    "sequence": 280,
+    "sequence": 294,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-10": {
@@ -4724,7 +4948,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 9,
-    "sequence": 281,
+    "sequence": 295,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-11": {
@@ -4741,7 +4965,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 10,
-    "sequence": 282,
+    "sequence": 296,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-12": {
@@ -4758,7 +4982,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 11,
-    "sequence": 283,
+    "sequence": 297,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-4-1": {
@@ -4775,7 +4999,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 0,
-    "sequence": 284,
+    "sequence": 298,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-2": {
@@ -4792,7 +5016,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 1,
-    "sequence": 285,
+    "sequence": 299,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-3": {
@@ -4809,7 +5033,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 2,
-    "sequence": 286,
+    "sequence": 300,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-4": {
@@ -4826,7 +5050,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 3,
-    "sequence": 287,
+    "sequence": 301,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-5": {
@@ -4843,7 +5067,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 4,
-    "sequence": 288,
+    "sequence": 302,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-6": {
@@ -4860,7 +5084,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 5,
-    "sequence": 289,
+    "sequence": 303,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-7": {
@@ -4877,7 +5101,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 6,
-    "sequence": 290,
+    "sequence": 304,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-8": {
@@ -4894,7 +5118,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 7,
-    "sequence": 291,
+    "sequence": 305,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-9": {
@@ -4911,7 +5135,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 8,
-    "sequence": 292,
+    "sequence": 306,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-10": {
@@ -4928,7 +5152,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 9,
-    "sequence": 293,
+    "sequence": 307,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-11": {
@@ -4945,7 +5169,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 10,
-    "sequence": 294,
+    "sequence": 308,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-5-1": {
@@ -4962,7 +5186,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 0,
-    "sequence": 295,
+    "sequence": 309,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-2": {
@@ -4979,7 +5203,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 1,
-    "sequence": 296,
+    "sequence": 310,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-3": {
@@ -4996,7 +5220,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 2,
-    "sequence": 297,
+    "sequence": 311,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-4": {
@@ -5013,7 +5237,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 3,
-    "sequence": 298,
+    "sequence": 312,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-5": {
@@ -5030,7 +5254,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 4,
-    "sequence": 299,
+    "sequence": 313,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-6": {
@@ -5047,7 +5271,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 5,
-    "sequence": 300,
+    "sequence": 314,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-7": {
@@ -5064,7 +5288,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 6,
-    "sequence": 301,
+    "sequence": 315,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-6-1": {
@@ -5081,7 +5305,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 0,
-    "sequence": 302,
+    "sequence": 316,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-2": {
@@ -5098,7 +5322,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 1,
-    "sequence": 303,
+    "sequence": 317,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-3": {
@@ -5115,7 +5339,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 2,
-    "sequence": 304,
+    "sequence": 318,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-4": {
@@ -5132,7 +5356,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 3,
-    "sequence": 305,
+    "sequence": 319,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-5": {
@@ -5149,7 +5373,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 4,
-    "sequence": 306,
+    "sequence": 320,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-6": {
@@ -5166,7 +5390,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 5,
-    "sequence": 307,
+    "sequence": 321,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-7": {
@@ -5183,7 +5407,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 6,
-    "sequence": 308,
+    "sequence": 322,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-8": {
@@ -5200,7 +5424,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 7,
-    "sequence": 309,
+    "sequence": 323,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-9": {
@@ -5217,7 +5441,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 8,
-    "sequence": 310,
+    "sequence": 324,
     "source_file": "editorial-units/prashna-6.json"
   }
 }

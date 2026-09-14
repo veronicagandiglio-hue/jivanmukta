@@ -25,6 +25,7 @@
     "purusha",
     "satya",
     "svapna-e-susupti",
+    "turiya",
     "vijnanatman"
   ],
   "jivanmukti": [
@@ -56,6 +57,7 @@
     "pranava",
     "purusha",
     "satyam-eva-jayate",
+    "turiya",
     "vidya-e-avidya"
   ],
   "purusha": [
@@ -212,7 +214,8 @@
   ],
   "pranava": [
     "brahman",
-    "atman"
+    "atman",
+    "turiya"
   ],
   "pratistha": [
     "brahma-vidya"
@@ -246,5 +249,10 @@
     "svapna-e-susupti",
     "atman",
     "aksara"
+  ],
+  "turiya": [
+    "brahman",
+    "atman",
+    "pranava"
   ]
 }
