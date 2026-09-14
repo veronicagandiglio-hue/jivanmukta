@@ -146,6 +146,21 @@
     ]
   },
   {
+    "id": "q-chi-sono-i-due-uccelli-sullo-stesso-albero",
+    "scope": "local",
+    "type": "great",
+    "text": "Qual è il rapporto metafisico tra l'anima individuale e il Testimone supremo?",
+    "problem": "La parabola dei due uccelli mostra la differenza tra il jīva e il Signore Testimone.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "dva-suparna",
+      "atman",
+      "purusha"
+    ]
+  },
+  {
     "id": "q-come-si-conosce-il-brahman",
     "scope": "local",
     "type": "great",
@@ -158,6 +173,21 @@
       "buddhi-intelletto",
       "adhyatma-yoga",
       "brahman"
+    ]
+  },
+  {
+    "id": "q-come-si-conosce-il-tutto",
+    "scope": "local",
+    "type": "great",
+    "text": "Conoscendo che cosa, tutto questo universo diviene pienamente conosciuto?",
+    "problem": "La domanda fondamentale della Mundaka: la Conoscenza Suprema oltre le scienze inferiori.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "brahman",
+      "aksara",
+      "para-e-apara-vidya"
     ]
   },
   {
@@ -296,6 +326,21 @@
     ]
   },
   {
+    "id": "q-in-che-senso-il-conoscitore-diviene-brahman",
+    "scope": "local",
+    "type": "great",
+    "text": "In che modo la realizzazione spirituale si compie come identità assoluta?",
+    "problem": "L'ultimo capitolo conclude che il conoscitore del Brahman diviene Brahman stesso.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "brahmavid-brahmaiva-bhavati",
+      "brahman",
+      "purusha"
+    ]
+  },
+  {
     "id": "q-kena-allegoria-yaksha",
     "scope": "local",
     "type": "specific",
@@ -428,6 +473,34 @@
     ]
   },
   {
+    "id": "q-l-arco-del-pranava-e-il-bersaglio-di-brahman",
+    "scope": "global",
+    "type": "great",
+    "text": "Come si attua la perfetta fusione fra la freccia del Sé e il bersaglio del Brahman mediante Oṃ?",
+    "problem": "L'analogia dell'arco del Praṇava riguarda la disciplina della concentrazione e della fusione.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "pranava",
+      "brahman",
+      "atman"
+    ]
+  },
+  {
+    "id": "q-l-increato-non-e-prodotto-dall-azione",
+    "scope": "global",
+    "type": "great",
+    "text": "Per quale ragione metafisica l'Incondizionato non può essere prodotto dall'azione contingente?",
+    "problem": "Il versetto fondamentale sulla natura del non-fatto rispetto al fatto.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "karma-e-sacrificio"
+    ]
+  },
+  {
     "id": "q-lazione-vincola",
     "scope": "global",
     "type": "great",
@@ -536,6 +609,34 @@
       "om-pranava",
       "brahman",
       "purusha"
+    ]
+  },
+  {
+    "id": "q-qual-e-il-valore-delle-opere-rituali",
+    "scope": "local",
+    "type": "great",
+    "text": "Le azioni rituali e le opere sacrificali possono procurare la Liberazione finale?",
+    "problem": "L'Upaniṣad respinge la sufficienza del karma come via del liberarsi dal mondo.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "karma-e-sacrificio",
+      "samnyasa-yoga"
+    ]
+  },
+  {
+    "id": "q-qual-e-la-differenza-tra-para-e-apara-vidya",
+    "scope": "local",
+    "type": "great",
+    "text": "Qual è la distinzione essenziale tra la Conoscenza Suprema e la Conoscenza Inferiore?",
+    "problem": "Il capitolo iniziale distingue tra la scienza del divenire e la scienza dell'Assoluto.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "para-e-apara-vidya",
+      "aksara"
     ]
   },
   {

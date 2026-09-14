@@ -18,6 +18,26 @@
     ],
     "source_file": "authors/adi-shankara.json"
   },
+  "angiras": {
+    "id": "angiras",
+    "name": "Aṅgiras",
+    "transliteration": "Aṅgiras",
+    "role": "author",
+    "role_description": "Veggente e Maestro del sapere tradizionale che trasmette la Brahmavidyā.",
+    "context": "Linea di trasmissione della Śruti",
+    "concepts": [
+      "brahman",
+      "atman",
+      "purusha",
+      "aksara",
+      "para-e-apara-vidya"
+    ],
+    "related_authors": [
+      "shaunaka",
+      "brahma"
+    ],
+    "source_file": "authors/angiras.json"
+  },
   "bhargava": {
     "id": "bhargava",
     "name": "Bhārgava Vaidarbhi",
@@ -32,6 +52,21 @@
       "pippalada"
     ],
     "source_file": "authors/bhargava.json"
+  },
+  "brahma": {
+    "id": "brahma",
+    "name": "Brahmā",
+    "transliteration": "Brahmā",
+    "role": "author",
+    "role_description": "Primo ricevitore della Brahmavidyā e custode del mondo manifestato.",
+    "context": "Origine del ciclo cosmico",
+    "concepts": [
+      "brahman"
+    ],
+    "related_authors": [
+      "angiras"
+    ],
+    "source_file": "authors/brahma.json"
   },
   "kabandhi": {
     "id": "kabandhi",
@@ -157,6 +192,22 @@
     ],
     "related_authors": [],
     "source_file": "authors/shankara.json"
+  },
+  "shaunaka": {
+    "id": "shaunaka",
+    "name": "Śaunaka",
+    "transliteration": "Śaunaka",
+    "role": "author",
+    "role_description": "Discepolo che pone la domanda fondamentale sulla conoscenza del tutto.",
+    "context": "Aspettando la rivelazione del maestro",
+    "concepts": [
+      "para-e-apara-vidya",
+      "brahman"
+    ],
+    "related_authors": [
+      "angiras"
+    ],
+    "source_file": "authors/shaunaka.json"
   },
   "sukesha": {
     "id": "sukesha",

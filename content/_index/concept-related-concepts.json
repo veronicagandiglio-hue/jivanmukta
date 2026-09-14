@@ -15,10 +15,13 @@
     "isha",
     "ekatva",
     "soham",
+    "brahmavid-brahmaiva-bhavati",
     "buddhi-intelletto",
+    "dva-suparna",
     "hridaya-guha",
     "jivanmukti",
     "prana",
+    "pranava",
     "purusha",
     "satya",
     "svapna-e-susupti",
@@ -32,6 +35,7 @@
   "aksara": [
     "brahman",
     "purusha",
+    "para-e-apara-vidya",
     "vijnanatman"
   ],
   "brahman": [
@@ -42,15 +46,22 @@
     "vidita-avidita",
     "upadhi-upasana",
     "tadvana",
+    "brahmavid-brahmaiva-bhavati",
     "deva-abhimana",
+    "hridaya-granthi",
     "moksha-amritatva",
     "om-pranava",
+    "para-e-apara-vidya",
     "pitriyana-e-devayana",
+    "pranava",
     "purusha",
+    "satyam-eva-jayate",
     "vidya-e-avidya"
   ],
   "purusha": [
     "aksara",
+    "brahmavid-brahmaiva-bhavati",
+    "dva-suparna",
     "hridaya-guha",
     "brahman",
     "atman",
@@ -128,10 +139,29 @@
   "tadvana": [
     "brahman"
   ],
+  "brahmavid-brahmaiva-bhavati": [
+    "brahman",
+    "atman",
+    "purusha",
+    "samnyasa-yoga"
+  ],
+  "dva-suparna": [
+    "atman",
+    "purusha"
+  ],
   "tyaga": [
     "ekatva",
     "isha",
     "karman"
+  ],
+  "hridaya-granthi": [
+    "brahman",
+    "samnyasa-yoga"
+  ],
+  "samnyasa-yoga": [
+    "hridaya-granthi",
+    "karma-e-sacrificio",
+    "brahmavid-brahmaiva-bhavati"
   ],
   "hridaya-guha": [
     "atman",
@@ -142,13 +172,23 @@
     "brahman",
     "sreyas-e-preyas"
   ],
+  "karma-e-sacrificio": [
+    "para-e-apara-vidya",
+    "samnyasa-yoga"
+  ],
+  "para-e-apara-vidya": [
+    "karma-e-sacrificio",
+    "aksara",
+    "brahman"
+  ],
   "om-pranava": [
     "brahman"
   ],
   "pitriyana-e-devayana": [
     "prana",
     "rayi",
-    "brahman"
+    "brahman",
+    "satyam-eva-jayate"
   ],
   "prana": [
     "pitriyana-e-devayana",
@@ -170,6 +210,10 @@
     "prana",
     "purusha"
   ],
+  "pranava": [
+    "brahman",
+    "atman"
+  ],
   "pratistha": [
     "brahma-vidya"
   ],
@@ -181,6 +225,10 @@
   "satya": [
     "atman",
     "soham"
+  ],
+  "satyam-eva-jayate": [
+    "brahman",
+    "pitriyana-e-devayana"
   ],
   "sreyas-e-preyas": [
     "vidya-e-avidya",

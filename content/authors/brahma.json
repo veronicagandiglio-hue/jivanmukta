@@ -1,0 +1,14 @@
+{
+  "id": "brahma",
+  "name": "Brahmā",
+  "transliteration": "Brahmā",
+  "role": "author",
+  "role_description": "Primo ricevitore della Brahmavidyā e custode del mondo manifestato.",
+  "context": "Origine del ciclo cosmico",
+  "concepts": [
+    "brahman"
+  ],
+  "related_authors": [
+    "angiras"
+  ]
+}

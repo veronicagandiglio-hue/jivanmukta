@@ -1,0 +1,84 @@
+{
+  "id": "mundaka-1-1",
+  "work_id": "mundaka-upanishad",
+  "unit_locus": "I.1",
+  "unit_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
+  "sections": [
+    {
+      "section_locus": "I.1",
+      "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
+      "passages": [
+        {
+          "id": "mundaka-1-1-0",
+          "locus": "I.1.0",
+          "original": "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।\nस्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायूः ॥\nस्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।\nस्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+          "translation": "Oṃ. Con gli orecchi possiamo noi udire ciò che è fausto, o Deva! Con gli occhi\npossiamo noi contemplare ciò che è fausto, o voi degni di sacrificio! Con membra\nsalde e corpi che vi rendono lode, possiamo noi godere la durata di vita\nstabilita dal Principio divino.\nCi accordi pace Indra dall'antico fulgore; ci accordi pace Pūṣan che tutto\nconosce; ci accordi pace Tārkṣya dal cerchio incontaminato; ci accordi pace\nBṛhaspati!\nOṃ. Pace, Pace, Pace.",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-1",
+          "locus": "I.1.1",
+          "original": "ॐ ब्रह्मा देवानां प्रथमः संबभूव विश्वस्य कर्ता भुवनस्य गोप्ता ।\nस ब्रह्मविद्यां सर्वविद्याप्रतिष्ठामथर्वाय ज्येष्ठपुत्राय प्राह ॥ १.१.१ ॥",
+          "translation": "Oṃ. Brahmā [il Demiurgo cosmico primordiale] sorse per primo tra gli dèi,\ncreatore dell'universo e custode del mondo manifesto. Egli trasmise la Scienza\ndi Brahman (brahmavidyā), fondamento e supporto di ogni scienza, ad Atharvan,\nsuo figlio primogenito.",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-2",
+          "locus": "I.1.2",
+          "original": "अथर्वणे यां प्रवदेत ब्रह्माऽथर्वा तां पुरोवाचाङ्गिरे ब्रह्मविद्याम् ।\nस भारद्वाजाय सत्यवाहाय प्राह भारद्वाजोऽङ्गिरसे परावराम् ॥ १.१.२ ॥",
+          "translation": "La Conoscenza di Brahman che Brahmā aveva esposto ad Atharvan, questi la\ncomunicò anticamente ad Aṅgir. Quegli a sua volta la trasmise a Satyavāha della\nstirpe di Bharadvāja, e il discendente di Bharadvāja la trasmise ad Aṅgiras:\ndottrina trasmessa dal più alto al più basso (parāvarā).",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-3",
+          "locus": "I.1.3",
+          "original": "शौनको ह वै महाशालोऽङ्गिरसं विधिवदुपसन्नः पप्रच्छ ।\nकस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ॥ १.१.३ ॥",
+          "translation": "Śaunaka, uomo dall'insigne casa patrizia, essendosi accostato ad Aṅgiras secondo\nla regola tradizionale, gli domandò: «Conoscendo che cosa, o Venerabile Signore,\ntutto questo universo diviene pienamente conosciuto?».",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-4",
+          "locus": "I.1.4",
+          "original": "तस्मै स होवाच ।\nद्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च ॥ १.१.४ ॥",
+          "translation": "A lui quegli rispose: «Due sono le scienze che devono essere conosciute, secondo\nquanto affermano coloro che realizzano il Brahman: la Conoscenza Suprema (parā\nvidyā) e la Conoscenza Inferiore (aparā vidyā)».",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-5",
+          "locus": "I.1.5",
+          "original": "तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो\nज्योतिषमिति ।\nअथ परा यया तदक्षरमधिगम्यते ॥ १.१.५ ॥",
+          "translation": "«Tra queste due, la Conoscenza Inferiore è costituita dal Ṛgveda, dallo\nYajurveda, dal Sāmaveda, dall'Atharvaveda, dalla fonetica (śikṣā), dal rituale\n(kalpa), dalla grammatica (vyākaraṇa), dall'etimologia (nirukta), dalla metrica\n(chandas) e dall'astronomia sacra (jyotiṣa). La Conoscenza Suprema è invece\nquella per mezzo della quale si attinge e si realizza l'Imperituro (Akṣara)».",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-6",
+          "locus": "I.1.6",
+          "original": "यत्तददृश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं तदपाणिपादम् ।\nनित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः ॥ १.१.६ ॥",
+          "translation": "«Ciò che è invisibile (adṛśya), inafferrabile (agrāhya), privo di lignaggio\ncausale (agotra), privo di determinazioni formali e caste (avarṇa), privo di\nocchi e di orecchi, senza mani né piedi; eterno, onnipervadente, presente in\nogni cosa, oltremodo sottile, immutabile ed esente da alterazione (avyaya):\nQuello i saggi contemplano quale matrice originaria di tutti gli esseri\nmanifestati (bhūtayoni)».",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-7",
+          "locus": "I.1.7",
+          "original": "यथोर्णनाभिः सृजते गृह्णते च यथा पृथिव्यामोषधयः संभवन्ति ।\nयथा सतः पुरुषात् केशलोमानि तथाऽक्षरात् संभवतीह विश्वम् ॥ १.१.७ ॥",
+          "translation": "«Come il ragno proietta la tela e la riassorbe in sé, come dalla terra\nscaturiscono le piante, come dall'uomo vivente spuntano i peli del capo e del\ncorpo: esattamente così da questo Imperituro scaturisce quaggiù l'universo\nintero».",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-8",
+          "locus": "I.1.8",
+          "original": "तपसा चीयते ब्रह्म ततोऽन्नमभिजायते ।\nअन्नात् प्राणो मनः सत्यं लोकाः कर्मसु चामृतम् ॥ १.१.८ ॥",
+          "translation": "«Mediante l'ardore della meditazione originaria (tapas) il Brahman si espande e\nsi accresce; da Esso viene generata la Sostanza indifferenziata/Cibo (anna);\ndalla Sostanza scaturisce il Soffio vitale (prāṇa), la Mente (manas), gli\nelementi veridici (satya), i mondi della manifestazione (lokāḥ), e, nelle azioni\nrituali, l'immortalità [relativa ai frutti karmici]».",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        },
+        {
+          "id": "mundaka-1-1-9",
+          "locus": "I.1.9",
+          "original": "यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः ।\nतस्मादेतद्ब्रह्म नाम रूपमन्नं च जायते ॥ १.१.९ ॥",
+          "translation": "«Colui che è onnisciente nella totalità (sarvajña) e onniveggente in ogni\ndettaglio (sarvavid), il cui ardore contemplativo (tapas) è intessuto di pura\nConoscenza: da Lui scaturisce questo Brahman manifesto [Hiraṇyagarbha], e il\nnome distintivo (nāma), la forma corporea (rūpa) e la sostanza nutritiva\n(anna)».",
+          "source": "Muṇḍakopaniṣad (testo sanscrito e traduzione editoriale)"
+        }
+      ]
+    }
+  ]
+}

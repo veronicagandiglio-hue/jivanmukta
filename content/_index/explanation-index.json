@@ -3387,6 +3387,62 @@
     "editorial_status": "established",
     "source_file": "explanations/expl-kena-shanti.json"
   },
+  "expl-mundaka-1-1-5": {
+    "id": "expl-mundaka-1-1-5",
+    "target_type": "passage",
+    "target_id": "mundaka-1-1-5",
+    "title": "Parā e Aparā Vidyā",
+    "sections": [
+      {
+        "heading": "Distinzione fondamentale",
+        "text": "La prima sezione della Mundaka chiarisce che il mondo delle scienze formali e rituali non è il fine ultimo della ricerca. La parā vidyā è la conoscenza diretta dell'Assoluto, mentre l'aparā vidyā è il complesso delle discipline che regolano il mondo del divenire. La distinzione non è fra scienza sacra e profana, ma fra il livello del manifestato e il livello del non-manifestato."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-mundaka-1-1-5.json"
+  },
+  "expl-mundaka-2-2-4": {
+    "id": "expl-mundaka-2-2-4",
+    "target_type": "passage",
+    "target_id": "mundaka-2-2-4",
+    "title": "L'arco del Praṇava",
+    "sections": [
+      {
+        "heading": "Praṇava e ātman",
+        "text": "Il Praṇava è l'arco, l'Ātman è la freccia e il Brahman è il bersaglio. Il superamento della dualità non è un mero simbolismo mentale, ma la concentrazione totale del soggetto nel reale. Lo stato che segue è il tanmayo bhavet, la fusione perfetta nel bersaglio, in cui la scissione tra conoscente e conosciuto scompare."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-mundaka-2-2-4.json"
+  },
+  "expl-mundaka-3-1-1": {
+    "id": "expl-mundaka-3-1-1",
+    "target_type": "passage",
+    "target_id": "mundaka-3-1-1",
+    "title": "I due uccelli sullo stesso albero",
+    "sections": [
+      {
+        "heading": "Theoria e fede",
+        "text": "L'allegoria dei due uccelli descrive la contrapposizione fra l'io empirico che fruisce le conseguenze del karma e la Coscienza testimone che osserva senza essere coinvolta. La liberazione non consiste nel negare il mondo, ma nel riconoscere che la vera natura dell'io non è il suo corpo o le sue azioni, bensì il Sé trascendente."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-mundaka-3-1-1.json"
+  },
+  "expl-mundaka-3-2-9": {
+    "id": "expl-mundaka-3-2-9",
+    "target_type": "passage",
+    "target_id": "mundaka-3-2-9",
+    "title": "Brahmaiva bhavati",
+    "sections": [
+      {
+        "heading": "Identità assoluta",
+        "text": "Il versetto culminante della Mundaka non afferma un gusto mistico né una metafora, ma la realizzazione ontologica della non-dualità. Il conoscer il Brahman non è la conquista di un oggetto esterno; è lo scoprire che il soggetto conoscente non è separato dall'oggetto conosciuto, perché la natura del sé è il Brahman stesso."
+      }
+    ],
+    "editorial_status": "established",
+    "source_file": "explanations/expl-mundaka-3-2-9.json"
+  },
   "expl-prashna-1-0": {
     "id": "expl-prashna-1-0",
     "target_type": "passage",

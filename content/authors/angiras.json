@@ -1,0 +1,19 @@
+{
+  "id": "angiras",
+  "name": "Aṅgiras",
+  "transliteration": "Aṅgiras",
+  "role": "author",
+  "role_description": "Veggente e Maestro del sapere tradizionale che trasmette la Brahmavidyā.",
+  "context": "Linea di trasmissione della Śruti",
+  "concepts": [
+    "brahman",
+    "atman",
+    "purusha",
+    "aksara",
+    "para-e-apara-vidya"
+  ],
+  "related_authors": [
+    "shaunaka",
+    "brahma"
+  ]
+}

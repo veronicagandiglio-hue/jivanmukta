@@ -256,6 +256,25 @@
     ],
     "source_file": "questions/q-chi-e-il-purusha-delle-sedici-parti.json"
   },
+  "q-chi-sono-i-due-uccelli-sullo-stesso-albero": {
+    "id": "q-chi-sono-i-due-uccelli-sullo-stesso-albero",
+    "type": "great",
+    "text": "Qual è il rapporto metafisico tra l'anima individuale e il Testimone supremo?",
+    "problem": "La parabola dei due uccelli mostra la differenza tra il jīva e il Signore Testimone.",
+    "concepts": [
+      "dva-suparna",
+      "atman",
+      "purusha"
+    ],
+    "passages": [
+      "mundaka-3-1-1",
+      "mundaka-3-1-2",
+      "mundaka-3-1-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-chi-sono-i-due-uccelli-sullo-stesso-albero.json"
+  },
   "q-come-si-conosce-il-brahman": {
     "id": "q-come-si-conosce-il-brahman",
     "type": "great",
@@ -279,6 +298,25 @@
       "q-che-cose-l-atman"
     ],
     "source_file": "questions/q-come-si-conosce-il-brahman.json"
+  },
+  "q-come-si-conosce-il-tutto": {
+    "id": "q-come-si-conosce-il-tutto",
+    "type": "great",
+    "text": "Conoscendo che cosa, tutto questo universo diviene pienamente conosciuto?",
+    "problem": "La domanda fondamentale della Mundaka: la Conoscenza Suprema oltre le scienze inferiori.",
+    "concepts": [
+      "brahman",
+      "aksara",
+      "para-e-apara-vidya"
+    ],
+    "passages": [
+      "mundaka-1-1-3",
+      "mundaka-1-1-5",
+      "mundaka-1-1-6"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-come-si-conosce-il-tutto.json"
   },
   "q-cosa-accade-dopo-la-morte": {
     "id": "q-cosa-accade-dopo-la-morte",
@@ -487,6 +525,24 @@
     "related_questions": [],
     "source_file": "questions/q-identita-soham.json"
   },
+  "q-in-che-senso-il-conoscitore-diviene-brahman": {
+    "id": "q-in-che-senso-il-conoscitore-diviene-brahman",
+    "type": "great",
+    "text": "In che modo la realizzazione spirituale si compie come identità assoluta?",
+    "problem": "L'ultimo capitolo conclude che il conoscitore del Brahman diviene Brahman stesso.",
+    "concepts": [
+      "brahmavid-brahmaiva-bhavati",
+      "brahman",
+      "purusha"
+    ],
+    "passages": [
+      "mundaka-3-2-8",
+      "mundaka-3-2-9"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-in-che-senso-il-conoscitore-diviene-brahman.json"
+  },
   "q-kena-allegoria-yaksha": {
     "id": "q-kena-allegoria-yaksha",
     "type": "specific",
@@ -678,6 +734,39 @@
     "related_questions": [],
     "source_file": "questions/q-kena-urgenza-realizzazione.json"
   },
+  "q-l-arco-del-pranava-e-il-bersaglio-di-brahman": {
+    "id": "q-l-arco-del-pranava-e-il-bersaglio-di-brahman",
+    "type": "great",
+    "text": "Come si attua la perfetta fusione fra la freccia del Sé e il bersaglio del Brahman mediante Oṃ?",
+    "problem": "L'analogia dell'arco del Praṇava riguarda la disciplina della concentrazione e della fusione.",
+    "concepts": [
+      "pranava",
+      "brahman",
+      "atman"
+    ],
+    "passages": [
+      "mundaka-2-2-3",
+      "mundaka-2-2-4"
+    ],
+    "scope": "global",
+    "homepage_priority": 12,
+    "source_file": "questions/q-l-arco-del-pranava-e-il-bersaglio-di-brahman.json"
+  },
+  "q-l-increato-non-e-prodotto-dall-azione": {
+    "id": "q-l-increato-non-e-prodotto-dall-azione",
+    "type": "great",
+    "text": "Per quale ragione metafisica l'Incondizionato non può essere prodotto dall'azione contingente?",
+    "problem": "Il versetto fondamentale sulla natura del non-fatto rispetto al fatto.",
+    "concepts": [
+      "karma-e-sacrificio"
+    ],
+    "passages": [
+      "mundaka-1-2-12"
+    ],
+    "scope": "global",
+    "homepage_priority": 12,
+    "source_file": "questions/q-l-increato-non-e-prodotto-dall-azione.json"
+  },
   "q-lazione-vincola": {
     "id": "q-lazione-vincola",
     "scope": "global",
@@ -845,6 +934,41 @@
       "q-chi-e-il-purusha-delle-sedici-parti"
     ],
     "source_file": "questions/q-qual-e-il-valore-della-sillaba-om.json"
+  },
+  "q-qual-e-il-valore-delle-opere-rituali": {
+    "id": "q-qual-e-il-valore-delle-opere-rituali",
+    "type": "great",
+    "text": "Le azioni rituali e le opere sacrificali possono procurare la Liberazione finale?",
+    "problem": "L'Upaniṣad respinge la sufficienza del karma come via del liberarsi dal mondo.",
+    "concepts": [
+      "karma-e-sacrificio",
+      "samnyasa-yoga"
+    ],
+    "passages": [
+      "mundaka-1-2-7",
+      "mundaka-1-2-10",
+      "mundaka-1-2-12"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-qual-e-il-valore-delle-opere-rituali.json"
+  },
+  "q-qual-e-la-differenza-tra-para-e-apara-vidya": {
+    "id": "q-qual-e-la-differenza-tra-para-e-apara-vidya",
+    "type": "great",
+    "text": "Qual è la distinzione essenziale tra la Conoscenza Suprema e la Conoscenza Inferiore?",
+    "problem": "Il capitolo iniziale distingue tra la scienza del divenire e la scienza dell'Assoluto.",
+    "concepts": [
+      "para-e-apara-vidya",
+      "aksara"
+    ],
+    "passages": [
+      "mundaka-1-1-4",
+      "mundaka-1-1-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "source_file": "questions/q-qual-e-la-differenza-tra-para-e-apara-vidya.json"
   },
   "q-qual-e-la-natura-della-liberazione": {
     "id": "q-qual-e-la-natura-della-liberazione",

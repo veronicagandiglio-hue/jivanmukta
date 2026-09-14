@@ -23,7 +23,13 @@
   ],
   "shankara": [
     "aksara",
-    "jivanmukti"
+    "brahmavid-brahmaiva-bhavati",
+    "dva-suparna",
+    "hridaya-granthi",
+    "jivanmukti",
+    "pranava",
+    "samnyasa-yoga",
+    "satyam-eva-jayate"
   ],
   "vedic-rishis": [
     "atma-han",
@@ -64,6 +70,19 @@
     "upadhi-upasana",
     "vidita-avidita",
     "vidya"
+  ],
+  "angiras": [
+    "brahmavid-brahmaiva-bhavati",
+    "dva-suparna",
+    "hridaya-granthi",
+    "karma-e-sacrificio",
+    "para-e-apara-vidya",
+    "pranava",
+    "samnyasa-yoga",
+    "satyam-eva-jayate"
+  ],
+  "shaunaka": [
+    "para-e-apara-vidya"
   ],
   "bhargava": [
     "prana"

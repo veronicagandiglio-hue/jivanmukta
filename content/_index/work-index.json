@@ -53,6 +53,27 @@
     ],
     "source_file": "works/kena-upanishad.json"
   },
+  "mundaka-upanishad": {
+    "id": "mundaka-upanishad",
+    "title": "Muṇḍakopaniṣad",
+    "short_title": "Mundaka",
+    "language": "sa",
+    "attribution": "Atharvaveda (Scuola Śaunakīya)",
+    "editorial_note": [
+      "Testo sacro primario dell'Atharvaveda, ordinato in tre Muṇḍaka e due Khaṇḍa ciascuno.",
+      "Espone la distinzione tra la Conoscenza Inferiore (rituale) e la Conoscenza Suprema (metafisica), la questione del karma, la disciplina del Praṇava e l'identità definitiva del conoscitore con il Brahman.",
+      "Il testo è strutturato secondo la trasmissione tradizionale dell'Upaniṣad e il commentario di Śaṅkara."
+    ],
+    "editorial_units": [
+      "mundaka-1-1",
+      "mundaka-1-2",
+      "mundaka-2-1",
+      "mundaka-2-2",
+      "mundaka-3-1",
+      "mundaka-3-2"
+    ],
+    "source_file": "works/mundaka-upanishad.json"
+  },
   "prashna-upanishad": {
     "id": "prashna-upanishad",
     "title": "Praśnopaniṣad",

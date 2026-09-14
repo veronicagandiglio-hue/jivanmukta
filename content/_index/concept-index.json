@@ -174,6 +174,26 @@
     ],
     "source_file": "concepts/brahman.json"
   },
+  "brahmavid-brahmaiva-bhavati": {
+    "id": "brahmavid-brahmaiva-bhavati",
+    "name": "Brahmavid brahmaiva bhavati",
+    "transliteration": "Brahmaiva bhavati",
+    "gloss": "Principio dell'Advaita: conoscere il Brahman significa essere il Brahman stesso, senza residuo di dualità.",
+    "passages": [
+      "mundaka-3-2-8",
+      "mundaka-3-2-9"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman",
+      "purusha"
+    ],
+    "authors": [
+      "angiras",
+      "shankara"
+    ],
+    "source_file": "concepts/brahmavid-brahmaiva-bhavati.json"
+  },
   "buddhi-intelletto": {
     "id": "buddhi-intelletto",
     "name": "Buddhi",
@@ -216,6 +236,26 @@
     ],
     "source_file": "concepts/deva-abhimana.json"
   },
+  "dva-suparna": {
+    "id": "dva-suparna",
+    "name": "Dvā Suparṇā",
+    "transliteration": "Dvā Suparṇā",
+    "gloss": "L'allegoria dei due uccelli sullo stesso albero: l'io empirico e il Testimone supremo, separati dall'illusione ma identici nella Realtà.",
+    "passages": [
+      "mundaka-3-1-1",
+      "mundaka-3-1-2",
+      "mundaka-3-1-3"
+    ],
+    "related_concepts": [
+      "atman",
+      "purusha"
+    ],
+    "authors": [
+      "angiras",
+      "shankara"
+    ],
+    "source_file": "concepts/dva-suparna.json"
+  },
   "ekatva": {
     "id": "ekatva",
     "name": "Ekatva",
@@ -235,6 +275,26 @@
       "adi-shankara"
     ],
     "source_file": "concepts/ekatva.json"
+  },
+  "hridaya-granthi": {
+    "id": "hridaya-granthi",
+    "name": "Hṛdaya-granthi",
+    "transliteration": "Hṛdaya-granthi",
+    "gloss": "Il nodo del cuore, la legatura dell'ignoranza che annoda la coscienza empirica alle apparenze del mondo.",
+    "passages": [
+      "mundaka-2-1-10",
+      "mundaka-2-2-8",
+      "mundaka-3-2-9"
+    ],
+    "related_concepts": [
+      "brahman",
+      "samnyasa-yoga"
+    ],
+    "authors": [
+      "angiras",
+      "shankara"
+    ],
+    "source_file": "concepts/hridaya-granthi.json"
   },
   "hridaya-guha": {
     "id": "hridaya-guha",
@@ -299,6 +359,26 @@
     ],
     "source_file": "concepts/jivanmukti.json"
   },
+  "karma-e-sacrificio": {
+    "id": "karma-e-sacrificio",
+    "name": "Karma e Yajña",
+    "transliteration": "Karma-Yajña",
+    "gloss": "L'azione rituale e le opere pie, che nell'Upaniṣad sono giudicate insuficienti e fragili rispetto alla realizzazione del Brahman.",
+    "passages": [
+      "mundaka-1-2-1",
+      "mundaka-1-2-7",
+      "mundaka-1-2-10",
+      "mundaka-1-2-12"
+    ],
+    "related_concepts": [
+      "para-e-apara-vidya",
+      "samnyasa-yoga"
+    ],
+    "authors": [
+      "angiras"
+    ],
+    "source_file": "concepts/karma-e-sacrificio.json"
+  },
   "karman": {
     "id": "karman",
     "name": "Karman",
@@ -358,6 +438,27 @@
       "yama"
     ],
     "source_file": "concepts/om-pranava.json"
+  },
+  "para-e-apara-vidya": {
+    "id": "para-e-apara-vidya",
+    "name": "Parā e Aparā Vidyā",
+    "transliteration": "Parā-Aparā Vidyā",
+    "gloss": "Distinzione fondamentale tra la Conoscenza Suprema, che attinge l'Assoluto, e la Conoscenza Inferiore, volta al mondo del divenire.",
+    "passages": [
+      "mundaka-1-1-4",
+      "mundaka-1-1-5",
+      "mundaka-1-2-12"
+    ],
+    "related_concepts": [
+      "aksara",
+      "brahman",
+      "karma-e-sacrificio"
+    ],
+    "authors": [
+      "angiras",
+      "shaunaka"
+    ],
+    "source_file": "concepts/para-e-apara-vidya.json"
   },
   "pitriyana-e-devayana": {
     "id": "pitriyana-e-devayana",
@@ -425,6 +526,26 @@
       "kausalya"
     ],
     "source_file": "concepts/prana.json"
+  },
+  "pranava": {
+    "id": "pranava",
+    "name": "Praṇava",
+    "transliteration": "Praṇava",
+    "gloss": "Il monosillabo sacro Oṃ, simbolo del canale di concentrazione che unisce l'Ātman al Brahman.",
+    "passages": [
+      "mundaka-2-2-3",
+      "mundaka-2-2-4",
+      "mundaka-2-2-6"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman"
+    ],
+    "authors": [
+      "angiras",
+      "shankara"
+    ],
+    "source_file": "concepts/pranava.json"
   },
   "pratistha": {
     "id": "pratistha",
@@ -548,6 +669,26 @@
     ],
     "source_file": "concepts/sambhuti-asambhuti.json"
   },
+  "samnyasa-yoga": {
+    "id": "samnyasa-yoga",
+    "name": "Saṃnyāsa-yoga",
+    "transliteration": "Saṃnyāsa-yoga",
+    "gloss": "La disciplina della rinunzia e della purificazione interiore come via per la liberazione dal karma e dalle brame.",
+    "passages": [
+      "mundaka-1-2-11",
+      "mundaka-3-2-4",
+      "mundaka-3-2-6"
+    ],
+    "related_concepts": [
+      "karma-e-sacrificio",
+      "brahmavid-brahmaiva-bhavati"
+    ],
+    "authors": [
+      "angiras",
+      "shankara"
+    ],
+    "source_file": "concepts/samnyasa-yoga.json"
+  },
   "satya": {
     "id": "satya",
     "name": "Satya",
@@ -564,6 +705,26 @@
       "vedic-rishis"
     ],
     "source_file": "concepts/satya.json"
+  },
+  "satyam-eva-jayate": {
+    "id": "satyam-eva-jayate",
+    "name": "Satyam eva jayate",
+    "transliteration": "Satyam eva jayate",
+    "gloss": "L'assioma della Verità ontologica: solo ciò che è reale trionfa; la menzogna e l'illusione svaniscono in sé.",
+    "passages": [
+      "mundaka-3-1-5",
+      "mundaka-3-1-6",
+      "mundaka-3-2-11"
+    ],
+    "related_concepts": [
+      "brahman",
+      "pitriyana-e-devayana"
+    ],
+    "authors": [
+      "angiras",
+      "shankara"
+    ],
+    "source_file": "concepts/satyam-eva-jayate.json"
   },
   "sodasa-kala": {
     "id": "sodasa-kala",

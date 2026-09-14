@@ -98,6 +98,16 @@
     "editorial_status": "established",
     "source_file": "commentaries/comm-shankara-katha-2-3-12.json"
   },
+  "comm-shankara-mundaka-1-1-5": {
+    "id": "comm-shankara-mundaka-1-1-5",
+    "author_id": "shankara",
+    "passages": [
+      "mundaka-1-1-5"
+    ],
+    "text": "Śaṅkara insiste sul fatto che l'aparā vidyā, pur essendo valida in rapporto al mondo del divenire, non è la via della liberazione. La parā vidyā è l'atto diretto della comprensione dell'Assoluto, oltre ogni nome e forma.",
+    "editorial_status": "draft",
+    "source_file": "commentaries/comm-shankara-mundaka-1-1-5.json"
+  },
   "comm-shankara-prashna-1-4": {
     "id": "comm-shankara-prashna-1-4",
     "author_id": "shankara",
