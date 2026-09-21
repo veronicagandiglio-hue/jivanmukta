@@ -221,6 +221,30 @@ function isQuestionAdditiveUpdate(existing, candidate) {
   return existingPassages.every((pid) => candidatePassages.includes(pid));
 }
 
+function isCorePathAdditiveUpdate(existing, candidate) {
+  const { curated_passages: existingPassages = [], ...existingRest } = existing;
+  const { curated_passages: candidatePassages = [], ...candidateRest } = candidate;
+  if (!deepEqual(existingRest, candidateRest)) return false;
+  if (existingPassages.length > candidatePassages.length) return false;
+  return existingPassages.every((entry) => (
+    candidatePassages.some((candidate) => candidate.passage_id === entry.passage_id)
+  ));
+}
+
+function buildCorePathEntity(corePathId, contributions) {
+  const file = path.join(CONTENT_DIR, 'core-path', `${corePathId}.json`);
+  const existing = readJSON(file);
+  const curated = (existing.curated_passages || []).slice();
+  for (const contribution of contributions) {
+    for (const passageId of contribution.passages || []) {
+      if (!curated.some((entry) => entry.passage_id === passageId)) {
+        curated.push({ passage_id: passageId, why: contribution.why });
+      }
+    }
+  }
+  return { ...existing, curated_passages: curated };
+}
+
 function buildQuestionEntity(q, existingQuestionFile) {
   if (existingQuestionFile && fs.existsSync(existingQuestionFile)) {
     const existing = readJSON(existingQuestionFile);
@@ -323,6 +347,21 @@ function buildEntityPlan(pkg, { approvedCandidates = {} } = {}) {
   }
   for (const cm of (pkg.commentaries || [])) plan.push({ dirName: 'commentaries', kind: 'commentary', entity: cm });
   for (const n of (pkg.notes || [])) plan.push({ dirName: 'notes', kind: 'note', entity: n });
+  const contributionsByStep = new Map();
+  for (const contribution of (pkg.core_path_contributions || [])) {
+    if (!contributionsByStep.has(contribution.core_path_id)) {
+      contributionsByStep.set(contribution.core_path_id, []);
+    }
+    contributionsByStep.get(contribution.core_path_id).push(contribution);
+  }
+  for (const [corePathId, contributions] of contributionsByStep) {
+    plan.push({
+      dirName: 'core-path',
+      kind: 'core-path',
+      entity: buildCorePathEntity(corePathId, contributions),
+      opts: { isAdditiveUpdate: isCorePathAdditiveUpdate }
+    });
+  }
 
   return plan;
 }

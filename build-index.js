@@ -516,8 +516,10 @@ for (const exp of Object.values(explanations)) {
 for (const cp of Object.values(corePaths)) {
   processPendingRefs(cp);
 
-  for (const pid of (cp.upanishad_passages || [])) {
-    if (checkRef('passage', pid, cp.source_file, cp.id, 'upanishad_passages')) {
+  const curatedPassageIds = (cp.curated_passages || []).map((entry) => entry.passage_id);
+  const corePathPassageIds = [...(cp.upanishad_passages || []), ...curatedPassageIds];
+  for (const pid of corePathPassageIds) {
+    if (checkRef('passage', pid, cp.source_file, cp.id, 'core path passages')) {
       addInverse(passageCorePath, pid, cp.id);
       addInverse(corePathPassages, cp.id, pid);
     }

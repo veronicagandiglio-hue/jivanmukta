@@ -136,6 +136,14 @@ Un pacchetto è un oggetto JSON con questa forma:
     }
   ],
 
+  "core_path_contributions": [
+    {
+      "core_path_id": "06-che-cose-brahman",
+      "passages": ["tait-2-1-1"],
+      "why": "Il passo chiarisce direttamente la natura di Brahman."
+    }
+  ],
+
   "explanations": [
     {
       "id": "expl-tait-1-1-1",
@@ -202,6 +210,9 @@ Un pacchetto è un oggetto JSON con questa forma:
 - **explanations[]**: `id`, `target_type`, `target_id`, `sections[]` (obbligatorio: deve esserci una spiegazione per **ciascun versetto/passaggio** dell'opera, formulata in modo chiaro e accessibile)
 - **commentaries[]**: `id`, `author_id`, `text`
 - **notes[]**: `id`, `term`, `text`
+- **core_path_contributions[]**: `core_path_id`, `passages[]`, `why`.
+  La tappa deve già esistere; i passaggi devono appartenere al pacchetto o
+  essere già pubblicati. Il contributo è additivo e richiede una motivazione.
 
 Tutte le altre chiavi mostrate sopra sono opzionali. Array vuoti o
 assenti sono equivalenti.
@@ -250,6 +261,8 @@ completo, con i codici di errore esatti, è implementato in
 8. Ogni passaggio citato da una `editorial_unit` appartiene a quella
    stessa opera (nessun passaggio "in prestito" da un'altra opera).
 9. Nessun ID duplicato all'interno del pacchetto stesso.
+10. Ogni `core_path_contribution` punta a una tappa esistente, a passaggi
+    risolvibili e contiene una motivazione non vuota.
 
 La validazione **non** verifica la qualità filologica o dottrinale del
 contenuto: quella resta responsabilità della revisione umana.

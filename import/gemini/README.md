@@ -108,6 +108,9 @@ nessun file qui dentro viene letto dal sito o dal build.
 - Gli indici in `/content/_index/` **non vengono mai toccati**
   dall'importatore: sono generati esclusivamente da `build-index.js`,
   che va sempre eseguito come passo successivo.
+- `core_path_contributions` aggiunge in modo additivo passi curati a una
+  delle dieci tappe fisse. Non modifica il testo della tappa né sostituisce la
+  selezione upaniṣadica già presente; ogni contributo richiede una motivazione.
 
 ### Idempotenza: cosa si può ripetere e cosa no
 

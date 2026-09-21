@@ -43,7 +43,8 @@ function loadExistingRegistries(contentDir) {
     commentary: 'commentaries',
     note: 'notes',
     unit: 'editorial-units',
-    explanation: 'explanations'
+    explanation: 'explanations',
+    core_path: 'core-path'
   };
 
   function listJSONFiles(dir) {
@@ -221,6 +222,9 @@ function validatePackageObject(pkg, existing, pkgLabel) {
   function commentaryResolvable(cmid) {
     return seenInPackage.commentary.has(cmid) || !!existing.commentary[cmid];
   }
+  function corePathResolvable(cpid) {
+    return !!existing.core_path[cpid];
+  }
 
   // Occorre pre-registrare gli ID di authors/concepts/questions/commentaries/notes
   // PRIMA di validarne i riferimenti incrociati reciproci (possono citarsi a vicenda).
@@ -284,6 +288,38 @@ function validatePackageObject(pkg, existing, pkgLabel) {
     if (!Array.isArray(exp.sections) || !exp.sections.length) {
       err(`explanations[${i}].sections deve contenere almeno una sezione.`);
     }
+  });
+
+  // Contributi curati alle dieci tappe: non creano tappe nuove e non
+  // modificano il testo editoriale; collegano soltanto passi già risolvibili.
+  const corePathContributions = Array.isArray(pkg.core_path_contributions)
+    ? pkg.core_path_contributions
+    : [];
+  const seenCorePathPassages = new Set();
+  corePathContributions.forEach((contribution, i) => {
+    const label = `core_path_contributions[${i}]`;
+    if (!contribution.core_path_id) {
+      err(`${label}.core_path_id mancante.`);
+    } else if (!corePathResolvable(contribution.core_path_id)) {
+      err(`${label}.core_path_id riferisce una tappa inesistente: "${contribution.core_path_id}"`);
+    }
+    if (typeof contribution.why !== 'string' || !contribution.why.trim()) {
+      err(`${label}.why mancante o vuoto.`);
+    }
+    if (!Array.isArray(contribution.passages) || contribution.passages.length === 0) {
+      err(`${label}.passages deve contenere almeno un passaggio.`);
+    }
+    (contribution.passages || []).forEach((pid) => {
+      if (!passageResolvable(pid)) {
+        err(`${label}.passages riferisce passaggio inesistente: "${pid}"`);
+        return;
+      }
+      const key = `${contribution.core_path_id}::${pid}`;
+      if (seenCorePathPassages.has(key)) {
+        err(`${label}.passages duplica il collegamento "${pid}" alla tappa "${contribution.core_path_id}".`);
+      }
+      seenCorePathPassages.add(key);
+    });
   });
 
   // Ora validiamo i riferimenti incrociati.
