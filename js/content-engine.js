@@ -44,10 +44,10 @@
   // Configurazione
   // ============================================================
 
-  // Percorso della cartella /content, relativo alla pagina che carica
-  // questo script — stessa convenzione già in uso nel Vertical Slice
-  // (vedi slice.js: const base = 'content/').
-  let basePath = 'content/';
+  // Percorso della cartella /content. Nel browser usiamo il path assoluto
+  // '/content/' così che funzioni indipendentemente dal livello di routing
+  // (es. /percorso/..., /domande/..., /testi/...); in Node manteniamo 'content/'.
+  let basePath = (typeof window !== 'undefined') ? '/content/' : 'content/';
 
   /**
    * Permette di personalizzare dove si trova la cartella /content,

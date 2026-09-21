@@ -342,6 +342,11 @@ h1, h2, h3, p{ margin: 0; }
   const stepId = (route && route.id) ? route.id : '01-che-cose-la-metafisica';
 
   const res = await ContentEngine.getCorePath(stepId);
+  if (res.status === 'unavailable') {
+    document.getElementById('step-title').textContent = 'Errore di caricamento';
+    document.getElementById('step-lead').textContent = 'Impossibile caricare i dati della tappa: ' + (res.message || 'errore di rete');
+    return;
+  }
   if (res.status !== 'ok') {
     document.getElementById('step-title').textContent = 'Tappa non trovata';
     document.getElementById('step-lead').textContent = 'La tappa richiesta (' + stepId + ') non è presente nel percorso fondamentale.';
