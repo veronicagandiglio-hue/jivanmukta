@@ -1,0 +1,38 @@
+{
+  "id": "05-che-cose-il-se",
+  "step": 5,
+  "step_number": 5,
+  "title": "Che cos'è il Sé?",
+  "lead": "L'introduzione progressiva di Ātman: non l'ego psicologico, ma la Coscienza pura e immutabile che tutto illumina.",
+  "question_text": "Che cos'è il Sé?",
+  "editorial_response": "Dopo aver compreso che non siamo semplicemente il corpo né il flusso mutevole dei pensieri, possiamo introdurre il termine fondamentale con cui la tradizione vedāntica indica la nostra vera identità: Ātman, il Sé.\n\nÈ indispensabile chiarire un malinteso molto diffuso in Occidente: il Sé non è il «sé psicologico», non è il carattere, non è l'autostima, non è la nostra personalità individuale con le sue preferenze e le sue ferite. Quella è ancora l'individualità (il piccolo «io»), un insieme di abitudini e condizionamenti mentali.\n\nIl Sé (Ātman) è il principio stesso della Coscienza: quella luce interiore grazie alla quale siamo consapevoli di esistere in ogni istante. Usiamo una similitudine chiarissima: la luce del sole illumina una stanza. Se nella stanza entra una persona cara o un ladro, se c'è un vaso di fiori freschi o un mucchio di polvere, la luce li illumina entrambi con la stessa purezza, senza essere sporcata dalla polvere né profumata dai fiori. Quando gli oggetti vengono portati via, la luce rimane intatta.\n\nAllo stesso modo, Ātman è la pura Coscienza testimone (Sākṣin): illumina i pensieri felici e i pensieri dolorosi, la veglia, il sogno e persino il sonno profondo, ma non viene mai macchiata, toccata o alterata da ciò che illumina.\n\nGuénon sottolineava un punto decisivo: il Sé non è qualcosa che «dobbiamo fabbricare» o «raggiungere» attraverso sforzi titanici. È ciò che siamo già adesso, in questo esatto istante. L'unico ostacolo è che la nostra attenzione è costantemente ipnotizzata dagli oggetti illuminati, dimenticandosi della Luce che li rende visibili.",
+  "sources_used": [
+    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
+    "Kena Upaniṣad, 1.2 (il principio animatore: l'orecchio dell'orecchio, la mente della mente)",
+    "Muṇḍaka Upaniṣad, 3.1.1 (l'allegoria dei due uccelli: colui che agisce e colui che osserva senza agire)"
+  ],
+  "guenon_sources": [
+    {
+      "author": "rene-guenon",
+      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
+      "chapter": "Capitolo III",
+      "status": "pending",
+      "note": "Riferimento alla nozione fondamentale di Ātman come Principio trascendente non riducibile ad alcun fenomeno psichico."
+    }
+  ],
+  "upanishad_passages": [
+    "kena-1-2",
+    "mundaka-3-1-1"
+  ],
+  "commentary_passages": [],
+  "related_concepts": [
+    "atman",
+    "sakshin"
+  ],
+  "related_questions": [
+    "q-che-cose-l-atman",
+    "q-chi-sono-i-due-uccelli-sullo-stesso-albero"
+  ],
+  "prev_step": "04-chi-sono-veramente",
+  "next_step": "06-che-cose-brahman"
+}

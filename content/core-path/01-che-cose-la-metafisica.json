@@ -1,0 +1,37 @@
+{
+  "id": "01-che-cose-la-metafisica",
+  "step": 1,
+  "step_number": 1,
+  "title": "Che cos'è la metafisica?",
+  "lead": "La ricerca di ciò che è permanente e immutabile oltre il continuo fluire delle cose e delle esperienze.",
+  "question_text": "Che cos'è la metafisica?",
+  "editorial_response": "La parola «metafisica» può sembrare astratta o intimidatoria, ma in realtà tocca la domanda più semplice e concreta che una persona possa farsi: nella mia vita e nel mondo che mi circonda, c'è qualcosa che non cambia mai?\n\nSe ci guardiamo intorno, tutto ciò che vediamo e sperimentiamo è in continuo movimento. Il nostro corpo cresce, invecchia, muta ogni giorno; le nostre emozioni si accendono e si spengono; i nostri pensieri arrivano, durano qualche istante e poi svaniscono, sostituiti da altri. Persino il mondo esterno — le stagioni, le città, gli oggetti, le persone che amiamo — nasce, dura un certo tempo e prima o poi si trasforma o scompare.\n\nLa metafisica nasce esattamente da questa constatazione. Essa non è una filosofia accademica fatta di teorie complicate o di dispute tra professori, e non è neppure una religione basata su dogmi da accettare per fede. Nel suo senso originario e tradizionale — come ha chiarito in epoca moderna René Guénon — la metafisica è la conoscenza diretta di ciò che è stabile, universale e immutabile: i princìpi primi della realtà.\n\nChiedersi che cos'è la metafisica significa chiedersi: ciò che muta continuamente può avere in se stesso la propria spiegazione? Oppure tutto ciò che cambia poggia su un fondamento silenzioso che non cambia mai? Il Vedānta, una delle tradizioni metafisiche più antiche e rigorose dell'umanità, non ci chiede di credere a una risposta preconfezionata, ma ci invita a un'indagine accurata, partendo dalla nostra stessa esperienza quotidiana.",
+  "sources_used": [
+    "René Guénon, Introduzione generale allo studio delle dottrine indù (1921)",
+    "René Guénon, La metafisica orientale (1925)",
+    "Kaṭha Upaniṣad, 1.2.1-2 (la discriminazione tra ciò che è essenziale e ciò che è passeggero)"
+  ],
+  "guenon_sources": [
+    {
+      "author": "rene-guenon",
+      "work": "la-metafisica-orientale",
+      "chapter": "Parte I",
+      "status": "pending",
+      "note": "Riferimento alla conferenza della Sorbona (1925) sulla natura universale della metafisica pura oltre ogni filosofia speculativa."
+    }
+  ],
+  "upanishad_passages": [
+    "katha-1-2-1",
+    "katha-1-2-2"
+  ],
+  "commentary_passages": [],
+  "related_concepts": [
+    "satya",
+    "brahma-vidya"
+  ],
+  "related_questions": [
+    "q-distinzione-tra-sreyas-e-preyas"
+  ],
+  "prev_step": null,
+  "next_step": "02-che-cosa-significa-realta"
+}

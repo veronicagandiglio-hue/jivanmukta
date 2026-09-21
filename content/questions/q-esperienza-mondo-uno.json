@@ -1,0 +1,26 @@
+{
+  "id": "q-esperienza-mondo-uno",
+  "scope": "hook",
+  "type": "hook",
+  "homepage_priority": 103,
+  "text": "Perché il mondo sembrava essere una cosa sola?",
+  "introduction": "Nella percezione comune vediamo una miriade di oggetti separati: alberi, case, persone, cieli. In certi momenti di rottura percettiva, la frammentazione svanisce e l'universo intero si mostra come una sola e identica trama vivente.",
+  "problem": "Comprendere il rapporto tra l'unità principiale e la molteplicità apparente (nāmarūpa), riconducendo l'intuizione al contesto della manifestazione universale.",
+  "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+  "target_core_path_id": "02-che-cosa-significa-realta",
+  "parent_question": null,
+  "specific_questions": [],
+  "concepts": [
+    "brahman",
+    "ekatva"
+  ],
+  "passages": [
+    "isha-1-1",
+    "katha-2-2-9"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-esperienza-unita",
+    "q-esperienza-non-duale-brahman"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "q-esperienza-non-duale-brahman",
+  "scope": "hook",
+  "type": "hook",
+  "homepage_priority": 105,
+  "text": "Ho avuto un'esperienza non-duale: era il Brahman?",
+  "introduction": "Chi legge o scopre concetti orientali dopo un evento trasformativo tende spesso ad applicarvi subito etichette sacre o assolute: 'Ho visto Dio', 'Ero il Brahman', 'Ho toccato l'Infinito'.",
+  "problem": "Spiegare perché il Brahman non è uno stato mentale né un oggetto contemplato dalla mente o dai sensi, ma la sorgente trascendente e immanente della Realtà.",
+  "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+  "target_core_path_id": "06-che-cose-brahman",
+  "parent_question": null,
+  "specific_questions": [],
+  "concepts": [
+    "brahman",
+    "atman"
+  ],
+  "passages": [
+    "kena-1-4",
+    "kena-1-5"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-esperienza-unita",
+    "q-esperienza-fine-io"
+  ]
+}

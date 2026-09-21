@@ -339,6 +339,90 @@
     ]
   },
   {
+    "id": "q-esperienza-fine-io",
+    "scope": "hook",
+    "type": "hook",
+    "text": "Perché durante quell'esperienza non esisteva più un io?",
+    "problem": "Spiegare la differenza tra l'individualità psicologica contingente (ahamkāra) e la pura Coscienza testimone (Ātman) alla luce della tradizione, senza emettere sentenze sullo stato del singolo individuo.",
+    "introduction": "Siamo abituati a pensare che essere coscienti significhi essere un 'io' che pensa, sente e percepisce. Quando si verifica uno stato in cui la coscienza rimane viva ma il senso del sé individuale evapora, la mente comune fatica a comprenderlo.",
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "atman",
+      "sakshin"
+    ]
+  },
+  {
+    "id": "q-esperienza-mondo-uno",
+    "scope": "hook",
+    "type": "hook",
+    "text": "Perché il mondo sembrava essere una cosa sola?",
+    "problem": "Comprendere il rapporto tra l'unità principiale e la molteplicità apparente (nāmarūpa), riconducendo l'intuizione al contesto della manifestazione universale.",
+    "introduction": "Nella percezione comune vediamo una miriade di oggetti separati: alberi, case, persone, cieli. In certi momenti di rottura percettiva, la frammentazione svanisce e l'universo intero si mostra come una sola e identica trama vivente.",
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "brahman",
+      "ekatva"
+    ]
+  },
+  {
+    "id": "q-esperienza-non-duale-brahman",
+    "scope": "hook",
+    "type": "hook",
+    "text": "Ho avuto un'esperienza non-duale: era il Brahman?",
+    "problem": "Spiegare perché il Brahman non è uno stato mentale né un oggetto contemplato dalla mente o dai sensi, ma la sorgente trascendente e immanente della Realtà.",
+    "introduction": "Chi legge o scopre concetti orientali dopo un evento trasformativo tende spesso ad applicarvi subito etichette sacre o assolute: 'Ho visto Dio', 'Ero il Brahman', 'Ho toccato l'Infinito'.",
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "brahman",
+      "atman"
+    ]
+  },
+  {
+    "id": "q-esperienza-perche-finita",
+    "scope": "hook",
+    "type": "hook",
+    "text": "Perché quell'esperienza è finita?",
+    "problem": "Distinguere nettamente tra un'esperienza nel tempo (che ha un inizio e una fine) e la Conoscenza metafisica permanente che non appartiene al dominio degli stati transitori.",
+    "introduction": "Uno dei tratti più dolorosi o sconcertanti di queste esperienze è che svaniscono. Ci si ritrova di colpo nella normalità, con i vecchi pensieri, le preoccupazioni e la sensazione di separazione. Ci si chiede allora se si sia 'perso' qualcosa.",
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "avidya",
+      "vidya"
+    ]
+  },
+  {
+    "id": "q-esperienza-ritorno-persona",
+    "scope": "hook",
+    "type": "hook",
+    "text": "Perché dopo quell'esperienza continuo a sentirmi una persona?",
+    "problem": "Affrontare il tema della permanenza del corpo e dell'individualità psicologica (upādhi) e la distinzione vedāntica tra la liberazione in vita (jīvanmukti) e l'esperienza temporanea.",
+    "introduction": "Anche dopo aver intuito una dimensione profonda e immensa, il giorno dopo ci si risveglia con lo stesso corpo, le stesse incombenze quotidiane, le stesse emozioni. Questo contrasto genera spesso delusione, senso di colpa o frustrazione.",
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "jivanmukti",
+      "moksha-amritatva"
+    ]
+  },
+  {
+    "id": "q-esperienza-unita",
+    "scope": "hook",
+    "type": "hook",
+    "text": "Ho avuto un'esperienza di unità: che cosa significa?",
+    "problem": "Accogliere la testimonianza di un'esperienza di dissoluzione dei confini senza trasformarla in una diagnosi soggettiva o in un dogma, orientando verso l'indagine metafisica su ciò che è essenziale.",
+    "introduction": "Un'esperienza in cui i confini abituali tra sé e il resto del mondo sembrano svanire può essere profondamente disorientante. Dal punto di vista della persona ordinaria, la realtà è sempre divisa tra 'io' e 'tutto il resto'. Quando questa divisione improvvisamente crolla, ci si trova di fronte a una domanda inevitabile: cosa è successo veramente?",
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "ekatva",
+      "brahman"
+    ]
+  },
+  {
     "id": "q-frutto-realizzazione-unita",
     "scope": "local",
     "type": "specific",

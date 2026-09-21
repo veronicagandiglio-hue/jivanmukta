@@ -1,0 +1,26 @@
+{
+  "id": "q-esperienza-perche-finita",
+  "scope": "hook",
+  "type": "hook",
+  "homepage_priority": 104,
+  "text": "Perché quell'esperienza è finita?",
+  "introduction": "Uno dei tratti più dolorosi o sconcertanti di queste esperienze è che svaniscono. Ci si ritrova di colpo nella normalità, con i vecchi pensieri, le preoccupazioni e la sensazione di separazione. Ci si chiede allora se si sia 'perso' qualcosa.",
+  "problem": "Distinguere nettamente tra un'esperienza nel tempo (che ha un inizio e una fine) e la Conoscenza metafisica permanente che non appartiene al dominio degli stati transitori.",
+  "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+  "target_core_path_id": "09-che-cosa-significa-conoscere",
+  "parent_question": null,
+  "specific_questions": [],
+  "concepts": [
+    "avidya",
+    "vidya"
+  ],
+  "passages": [
+    "kena-2-3",
+    "kena-2-4"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-esperienza-unita",
+    "q-esperienza-ritorno-persona"
+  ]
+}

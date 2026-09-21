@@ -1,0 +1,39 @@
+{
+  "id": "09-che-cosa-significa-conoscere",
+  "step": 9,
+  "step_number": 9,
+  "title": "Che cosa significa conoscere?",
+  "lead": "Distinguere informazione, speculazione mentale, esperienza passeggera e Conoscenza metafisica effettiva.",
+  "question_text": "Che cosa significa conoscere?",
+  "editorial_response": "Questa tappa è cruciale, specialmente per chi giunge a questo sito dopo aver vissuto un'esperienza inconsueta o sconvolgente.\n\nNel mondo moderno chiamiamo «conoscenza» una raccolta di nozioni: sappiamo come funziona un motore, abbiamo letto la storia antica, conosciamo una formula matematica. Ma questo tipo di sapere (che il Vedānta chiama aparā vidyā, conoscenza inferiore o relativa) lascia sempre una distanza incolmabile tra chi conosce (il soggetto) e ciò che è conosciuto (l'oggetto).\n\nEsiste poi un secondo piano: quello dell'esperienza diretta. Una persona può vivere un momento di grazia, un'estasi meditativa, o un'improvvisa alterazione della percezione in cui il senso del tempo o dell'io svanisce. Queste esperienze possono essere potenti e bellissime, ma hanno una caratteristica inevitabile: accadono nel tempo. Cominciano a un certo minuto e finiscono qualche minuto o ora dopo. Quando finiscono, la persona si ritrova al punto di partenza, spesso con il tormento di aver «perso qualcosa».\n\nRené Guénon e i maestri dell'Advaita hanno insistito su una distinzione fondamentale: un'esperienza straordinaria non è ancora la Conoscenza metafisica (Jñāna).\n\nLa Conoscenza metafisica autentica non è uno stato mentale passeggero; non è un'emozione mistica e non è una transe. È un'intuizione intellettuale pura in cui si riconosce la propria vera natura immutabile. È come svegliarsi da un sogno: quando ti svegli, non hai «vissuto un'esperienza speciale» dentro il sogno; hai semplicemente riconosciuto chi eri prima, durante e dopo il sogno.\n\nPer questo le Upaniṣad affermano il paradosso della Kenopaniṣad: chi crede di aver «afferrato» il Brahman come un oggetto speciale non lo conosce; ma chi riconosce la Coscienza come la luce permanente dietro ogni singolo pensiero ordinario, quello possiede la vera Conoscenza.",
+  "sources_used": [
+    "René Guénon, La metafisica orientale (1925)",
+    "Kena Upaniṣad, 2.3-4 (il paradosso della conoscenza e il pratibodha-viditam)",
+    "Muṇḍaka Upaniṣad, 1.1.4-5 (la distinzione tra conoscenza suprema e conoscenza inferiore)"
+  ],
+  "guenon_sources": [
+    {
+      "author": "rene-guenon",
+      "work": "la-metafisica-orientale",
+      "chapter": "Parte II",
+      "status": "pending",
+      "note": "Riferimento alla distinzione capitale tra intuizione intellettuale sovra-razionale ed esperienza mistica/psichica passiva."
+    }
+  ],
+  "upanishad_passages": [
+    "kena-2-3",
+    "kena-2-4"
+  ],
+  "commentary_passages": [],
+  "related_concepts": [
+    "para-e-apara-vidya",
+    "vidita-avidita"
+  ],
+  "related_questions": [
+    "q-che-cosa-significa-conoscere",
+    "q-qual-e-la-differenza-tra-para-e-apara-vidya",
+    "q-kena-paradosso-gnoseologico"
+  ],
+  "prev_step": "08-perche-appare-la-molteplicita",
+  "next_step": "10-che-cose-la-liberazione"
+}

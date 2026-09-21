@@ -159,7 +159,8 @@ function serveStaticFile(res, filePath) {
  * l'estensione) come index.html dentro quella cartella.
  */
 function resolveOnDisk(pathname) {
-  const candidate = path.join(ROOT, decodeURIComponent(pathname));
+  const cleanPath = pathname.split('?')[0];
+  const candidate = path.join(ROOT, decodeURIComponent(cleanPath));
   if (!candidate.startsWith(ROOT)) return null; // niente path traversal
   if (fs.existsSync(candidate) && fs.statSync(candidate).isFile()) {
     return candidate;

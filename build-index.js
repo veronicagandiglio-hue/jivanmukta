@@ -80,7 +80,8 @@ const ENTITY_DIRS = {
   commentary:  'commentaries',
   note:        'notes',
   unit:        'editorial-units',
-  explanation: 'explanations'
+  explanation: 'explanations',
+  core_path:   'core-path'
 };
 
 // I tipi validi per pending_refs.type
@@ -197,6 +198,7 @@ const commentaries = registries.commentary;
 const notes        = registries.note;
 const units        = registries.unit;
 const explanations = registries.explanation;
+const corePaths    = registries.core_path;
 
 // Il registro dei passaggi viene costruito al passo 2.
 const passageIndex = {};
@@ -210,7 +212,8 @@ const REGISTRY_BY_KIND = {
   note:        notes,
   work:        works,
   unit:        units,
-  explanation: explanations
+  explanation: explanations,
+  core_path:   corePaths
 };
 
 // ============================================================
@@ -360,6 +363,9 @@ const authorConcepts         = {}; // author_id  -> [concept_id]  (da concept.au
 const workPassages           = {}; // work_id    -> [passage_id]  (da passageIndex, ordine di sequenza)
 const workQuestions          = {}; // work_id    -> [question_id] (da question.passages -> passage.work_id)
 const authorWorks            = {}; // author_id  -> [work_id]     (da commentary.author_id + commentary.passages)
+const passageCorePath        = {}; // passage_id -> [core_path_id]
+const corePathPassages       = {}; // core_path_id -> [passage_id]
+const corePathQuestions      = {}; // core_path_id -> [question_id]
 
 function addInverse(map, key, value) {
   if (!map[key]) map[key] = [];
@@ -393,6 +399,11 @@ for (const q of Object.values(questions)) {
   }
   for (const sq of (q.specific_questions || [])) {
     checkRef('question', sq, q.source_file, q.id, 'specific_questions');
+  }
+  if (q.target_core_path_id) {
+    if (checkRef('core_path', q.target_core_path_id, q.source_file, q.id, 'target_core_path_id')) {
+      addInverse(corePathQuestions, q.target_core_path_id, q.id);
+    }
   }
 }
 
@@ -501,6 +512,32 @@ for (const exp of Object.values(explanations)) {
   }
 }
 
+// --- CORE-PATH → PASSAGE, CONCEPT, QUESTION -------------------------
+for (const cp of Object.values(corePaths)) {
+  processPendingRefs(cp);
+
+  for (const pid of (cp.upanishad_passages || [])) {
+    if (checkRef('passage', pid, cp.source_file, cp.id, 'upanishad_passages')) {
+      addInverse(passageCorePath, pid, cp.id);
+      addInverse(corePathPassages, cp.id, pid);
+    }
+  }
+  for (const cid of (cp.related_concepts || [])) {
+    checkRef('concept', cid, cp.source_file, cp.id, 'related_concepts');
+  }
+  for (const qid of (cp.related_questions || [])) {
+    if (checkRef('question', qid, cp.source_file, cp.id, 'related_questions')) {
+      addInverse(corePathQuestions, cp.id, qid);
+    }
+  }
+  if (cp.prev_step) {
+    checkRef('core_path', cp.prev_step, cp.source_file, cp.id, 'prev_step');
+  }
+  if (cp.next_step) {
+    checkRef('core_path', cp.next_step, cp.source_file, cp.id, 'next_step');
+  }
+}
+
 // --- WORK → PASSAGES ---------------------------------------------------
 // Derivato da passageIndex, che porta già il work_id di provenienza di
 // ogni passaggio (assegnato in expandUnit). Object.entries preserva
@@ -561,6 +598,10 @@ writeIndex('author-concepts.json',         authorConcepts);
 writeIndex('work-passages.json',           workPassages);
 writeIndex('work-questions.json',          workQuestions);
 writeIndex('author-works.json',            authorWorks);
+writeIndex('core-path-index.json',         corePaths);
+writeIndex('passage-core-path.json',       passageCorePath);
+writeIndex('core-path-passages.json',      corePathPassages);
+writeIndex('core-path-questions.json',     corePathQuestions);
 writeIndex('question-index-for-gemini.json', questionIndexForGemini);
 
 // ============================================================
@@ -575,6 +616,7 @@ const nA  = Object.keys(authors).length;
 const nCm = Object.keys(commentaries).length;
 const nN  = Object.keys(notes).length;
 const nE  = Object.keys(explanations).length;
+const nCP = Object.keys(corePaths).length;
 
 console.log('');
 console.log('Build completed.');
@@ -588,6 +630,7 @@ console.log(`  Authors:         ${nA}`);
 console.log(`  Commentaries:    ${nCm}`);
 console.log(`  Notes:           ${nN}`);
 console.log(`  Explanations:    ${nE}`);
+console.log(`  Core path steps: ${nCP}`);
 console.log('');
 console.log(`  Relations validated: ${relationsValidated}`);
 console.log('');
@@ -597,6 +640,7 @@ console.log(`    passage-concepts.json          : ${Object.keys(passageConcepts)
 console.log(`    passage-commentaries.json      : ${Object.keys(passageCommentaries).length} passaggi`);
 console.log(`    passage-notes.json             : ${Object.keys(passageNotes).length} passaggi`);
 console.log(`    passage-explanations.json      : ${Object.keys(passageExplanations).length} passaggi`);
+console.log(`    passage-core-path.json         : ${Object.keys(passageCorePath).length} passaggi`);
 console.log(`    question-explanations.json     : ${Object.keys(questionExplanations).length} domande`);
 console.log(`    concept-questions.json         : ${Object.keys(conceptQuestions).length} concetti`);
 console.log(`    concept-related-concepts.json  : ${Object.keys(conceptRelatedConcepts).length} concetti`);
@@ -604,6 +648,8 @@ console.log(`    author-concepts.json           : ${Object.keys(authorConcepts).
 console.log(`    work-passages.json             : ${Object.keys(workPassages).length} opere`);
 console.log(`    work-questions.json            : ${Object.keys(workQuestions).length} opere`);
 console.log(`    author-works.json              : ${Object.keys(authorWorks).length} autori`);
+console.log(`    core-path-passages.json        : ${Object.keys(corePathPassages).length} tappe`);
+console.log(`    core-path-questions.json       : ${Object.keys(corePathQuestions).length} tappe`);
 console.log(`    question-index-for-gemini.json : ${questionIndexForGemini.length} domande`);
 console.log('');
 

@@ -143,7 +143,8 @@
     note: 'note-index.json',
     passage: 'passage-index.json',
     unit: 'unit-index.json',
-    explanation: 'explanation-index.json'
+    explanation: 'explanation-index.json',
+    core_path: 'core-path-index.json'
   };
 
   async function getEntity(kind, id) {
@@ -204,6 +205,10 @@
     return getEntity('explanation', id);
   }
 
+  function getCorePath(id) {
+    return getEntity('core_path', id);
+  }
+
   // ============================================================
   // Accesso alle relazioni (indici inversi derivati)
   // ============================================================
@@ -227,7 +232,10 @@
     workPassages: { file: 'work-passages.json', entityKind: 'work' },
     workQuestions: { file: 'work-questions.json', entityKind: 'work' },
     authorConcepts: { file: 'author-concepts.json', entityKind: 'author' },
-    authorWorks: { file: 'author-works.json', entityKind: 'author' }
+    authorWorks: { file: 'author-works.json', entityKind: 'author' },
+    passageCorePath: { file: 'passage-core-path.json', entityKind: 'passage' },
+    corePathPassages: { file: 'core-path-passages.json', entityKind: 'core_path' },
+    corePathQuestions: { file: 'core-path-questions.json', entityKind: 'core_path' }
   };
 
   async function getRelation(name, id) {
@@ -266,6 +274,21 @@
   /** Spiegazioni Jivanmukta collegate a un passaggio. */
   function getPassageExplanations(id) {
     return getRelation('passageExplanations', id);
+  }
+
+  /** Tappe del percorso fondamentale collegate a un passaggio. */
+  function getPassageCorePath(id) {
+    return getRelation('passageCorePath', id);
+  }
+
+  /** Passaggi collegati a una tappa del percorso fondamentale. */
+  function getCorePathPassages(id) {
+    return getRelation('corePathPassages', id);
+  }
+
+  /** Domande collegate a una tappa del percorso fondamentale. */
+  function getCorePathQuestions(id) {
+    return getRelation('corePathQuestions', id);
   }
 
   /** Spiegazioni collegate a una domanda. */
@@ -347,6 +370,7 @@
     getPassage,
     getUnit,
     getExplanation,
+    getCorePath,
     getEntities,
 
     // Relazioni
@@ -355,6 +379,9 @@
     getPassageCommentaries,
     getPassageNotes,
     getPassageExplanations,
+    getPassageCorePath,
+    getCorePathPassages,
+    getCorePathQuestions,
     getQuestionExplanations,
     getConceptQuestions,
     getRelatedConcepts,

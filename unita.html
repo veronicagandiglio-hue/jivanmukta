@@ -638,13 +638,14 @@ a.related{ text-decoration-color: var(--color-rule); }
     return result.status === 'ok' ? result.data : null;
   }
 
-  /** Raccoglie, per ogni passaggio di un'unità, note/commenti/domande/spiegazioni. */
+  /** Raccoglie, per ogni passaggio di un'unità, note/commenti/domande/spiegazioni/percorso. */
   async function buildPassageDetails(passageId) {
-    const [notesRes, commRes, qRes, expRes] = await Promise.all([
+    const [notesRes, commRes, qRes, expRes, cpRes] = await Promise.all([
       ContentEngine.getPassageNotes(passageId),
       ContentEngine.getPassageCommentaries(passageId),
       ContentEngine.getPassageQuestions(passageId),
-      ContentEngine.getPassageExplanations(passageId)
+      ContentEngine.getPassageExplanations(passageId),
+      ContentEngine.getPassageCorePath(passageId)
     ]);
 
     const notes = [];
@@ -679,7 +680,15 @@ a.related{ text-decoration-color: var(--color-rule); }
       }
     }
 
-    return { notes, commentaries, questions, explanations };
+    const corePathSteps = [];
+    if (cpRes && cpRes.status === 'ok') {
+      for (const id of cpRes.data) {
+        const r = await ContentEngine.getCorePath(id);
+        if (r.status === 'ok') corePathSteps.push(r.data);
+      }
+    }
+
+    return { notes, commentaries, questions, explanations, corePathSteps };
   }
 
   // ============================================================
@@ -734,55 +743,84 @@ a.related{ text-decoration-color: var(--color-rule); }
 
     const textEl = createEl('p', { class: 'verse__text' });
     textEl.append(document.createTextNode(passage.translation || ''));
-    details.notes.forEach((note, i) => {
-      const sup = document.createElement('sup');
-      sup.append(createEl('a', {
-        href: '#nota-' + passage.id + '-' + (i + 1),
-        text: String(i + 1)
-      }));
-      sup.style.fontSize = 'var(--fs-caption)';
-      textEl.append(sup);
-    });
     article.append(textEl);
 
-    // Spiegazione Jivanmukta collegata al passaggio (§5, §7)
-    (details.explanations || []).forEach((exp) => {
+    // Spiegazione accessibile Jivanmukta (con note incorporate fluidamente)
+    if (details.explanations && details.explanations.length) {
+      details.explanations.forEach((exp) => {
+        const expDetails = document.createElement('details');
+        expDetails.className = 'verse__explanation';
+        expDetails.open = true;
+        const summary = document.createElement('summary');
+        const voiceLabel = createEl('span', { class: 'voice-label', text: 'Spiegazione accessibile' });
+        summary.append(voiceLabel);
+        if (exp.title) {
+          summary.append(document.createTextNode(' — ' + exp.title));
+        }
+        const body = createEl('div', { class: 'verse__explanation__body' });
+
+        if (typeof exp.text === 'string') {
+          const p = createEl('p', { class: 'explanation-section__text', text: exp.text });
+          body.append(p);
+        } else if (Array.isArray(exp.sections)) {
+          exp.sections.forEach((sec) => {
+            const p = createEl('p', { class: 'explanation-section__text', text: sec.text });
+            p.style.marginTop = 'var(--sp-2)';
+            body.append(p);
+          });
+        }
+
+        // Incorpora chiarimenti e note terminologiche direttamente nella spiegazione
+        if (details.notes && details.notes.length) {
+          details.notes.forEach((note) => {
+            const noteP = createEl('p', { class: 'explanation-section__text' });
+            noteP.style.marginTop = 'var(--sp-2)';
+            noteP.style.color = 'var(--color-ink-muted)';
+            const label = note.term ? ('"' + note.term + '": ') : '';
+            noteP.textContent = 'Nota di chiarimento: ' + label + note.text;
+            body.append(noteP);
+          });
+        }
+
+        expDetails.append(summary, body);
+        article.append(expDetails);
+      });
+    } else if (details.notes && details.notes.length) {
+      // Se non c'è una spiegazione dedicata, presenta le note come spiegazione accessibile
       const expDetails = document.createElement('details');
       expDetails.className = 'verse__explanation';
       expDetails.open = true;
       const summary = document.createElement('summary');
-      const voiceLabel = createEl('span', { class: 'voice-label', text: 'Spiegazione Jivanmukta' });
-      summary.append(voiceLabel);
-      if (exp.title) {
-        summary.append(document.createTextNode(' — ' + exp.title));
-      }
+      summary.append(createEl('span', { class: 'voice-label', text: 'Spiegazione accessibile' }));
       const body = createEl('div', { class: 'verse__explanation__body' });
-      (exp.sections || []).forEach((sec) => {
-        const sDiv = createEl('div', { class: 'explanation-section' });
-        if (sec.heading) {
-          sDiv.append(createEl('p', { class: 'explanation-section__heading', text: sec.heading }));
-        }
-        sDiv.append(createEl('p', { class: 'explanation-section__text', text: sec.text }));
-        body.append(sDiv);
+      details.notes.forEach((note) => {
+        const noteP = createEl('p', { class: 'explanation-section__text' });
+        noteP.style.marginTop = 'var(--sp-1)';
+        const label = note.term ? ('"' + note.term + '": ') : '';
+        noteP.textContent = label + note.text;
+        body.append(noteP);
       });
       expDetails.append(summary, body);
       article.append(expDetails);
-    });
+    }
 
-    // Note editoriali collegate al passaggio (restano accessibili
-    // anche quando il livello "note" è disattivato: il CSS le
-    // nasconde visivamente ma il DOM le mantiene raggiungibili
-    // via anchor #nota-<passaggio>-<n>).
-    details.notes.forEach((note, i) => {
-      const noteEl = createEl('p', { class: 'verse__note' });
-      noteEl.id = 'nota-' + passage.id + '-' + (i + 1);
-      const strong = document.createElement('strong');
-      strong.textContent = (i + 1) + '. ';
-      noteEl.append(strong);
-      const label = note.term ? ('"' + note.term + '" — ') : '';
-      noteEl.append(document.createTextNode(label + note.text));
-      article.append(noteEl);
-    });
+    // Bidirezionalità: Tappe del Percorso Fondamentale a cui questo passo fa da fonte
+    if (details.corePathSteps && details.corePathSteps.length) {
+      const cpBlock = createEl('div', { class: 'verse__core-path' });
+      cpBlock.style.marginTop = 'var(--sp-2)';
+      details.corePathSteps.forEach((cp) => {
+        const a = createEl('a', {
+          href: UrlRouter.buildContentUrl('percorso', cp.id),
+          text: '✦ Fonte per il Percorso Fondamentale (Tappa ' + String(cp.step_number).padStart(2, '0') + ': ' + cp.title + ') →'
+        });
+        a.style.display = 'block';
+        a.style.fontSize = 'var(--fs-note)';
+        a.style.color = 'var(--color-accent)';
+        a.style.fontStyle = 'italic';
+        cpBlock.append(a);
+      });
+      article.append(cpBlock);
+    }
 
     // Commento (Śaṅkara e altri commentari collegati)
     details.commentaries.forEach((c) => {

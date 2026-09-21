@@ -1,0 +1,26 @@
+{
+  "id": "q-esperienza-ritorno-persona",
+  "scope": "hook",
+  "type": "hook",
+  "homepage_priority": 106,
+  "text": "Perché dopo quell'esperienza continuo a sentirmi una persona?",
+  "introduction": "Anche dopo aver intuito una dimensione profonda e immensa, il giorno dopo ci si risveglia con lo stesso corpo, le stesse incombenze quotidiane, le stesse emozioni. Questo contrasto genera spesso delusione, senso di colpa o frustrazione.",
+  "problem": "Affrontare il tema della permanenza del corpo e dell'individualità psicologica (upādhi) e la distinzione vedāntica tra la liberazione in vita (jīvanmukti) e l'esperienza temporanea.",
+  "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+  "target_core_path_id": "10-che-cose-la-liberazione",
+  "parent_question": null,
+  "specific_questions": [],
+  "concepts": [
+    "jivanmukti",
+    "moksha-amritatva"
+  ],
+  "passages": [
+    "isha-1-2",
+    "katha-2-3-14"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-esperienza-perche-finita",
+    "q-esperienza-fine-io"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "10-che-cose-la-liberazione",
+  "step": 10,
+  "step_number": 10,
+  "title": "Che cos'è la liberazione?",
+  "lead": "Mokṣa e Jīvanmukti: se siamo già sempre stati il Sé immortale, cosa significa liberarsi mentre si è ancora in vita?",
+  "question_text": "Che cos'è la liberazione?",
+  "editorial_response": "Se la nostra vera natura è già l'Assoluto infinito (Brahman), e non c'è mai stata una reale separazione tra noi e la Sorgente della vita, allora che cosa significa veramente «liberarsi»?\n\nLa risposta del Vedānta capovolge la prospettiva comune: la Liberazione (Mokṣa) non è un viaggio verso un altro pianeta o un paradiso celeste dopo la morte, e non è neppure l'acquisto di super-poteri spirituali. La liberazione non aggiunge nulla che non fosse già presente fin dall'inizio.\n\nLiberarsi significa semplicemente smettere di credere di essere ciò che non siamo mai stati.\n\nImmaginiamo una persona che indossa occhiali con lenti blu scuro. Fin da bambina vede il mondo blu, e si convince che la realtà sia fredda, scura e bluastra. Si affanna a cercare una luce più calda, compie sforzi enormi, fino al momento in cui qualcuno le dice: «Guarda che hai degli occhiali davanti agli occhi». La persona toglie gli occhiali: il mondo non è cambiato di una virgola, gli alberi e il cielo sono gli stessi di prima, ma la visione è improvvisamente chiara, radiosa, libera dall'inganno.\n\nQuesta è la Jīvanmukti: la «liberazione in vita», il nome stesso di questo progetto. Il saggio liberato (il Jīvanmukta) continua a camminare per strada, mangia, dorme, si prende cura del proprio corpo e delle persone che lo circondano, prova sensazioni fisiche. Ma non è più prigioniero dell'illusione di essere un individuo isolato e vulnerabile, in balia della paura della morte. Ha compreso che la sua vera dimora è la Vita stessa, eterna e incorruttibile, che anima tutti gli esseri.\n\nLa liberazione non allontana dal mondo: restituisce al mondo la sua vera bellezza, vissuta nella pace incrollabile di chi sa chi è veramente.",
+  "sources_used": [
+    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
+    "Īśā Upaniṣad, 1.6-7 (colui che vede tutti gli esseri nel Sé non prova più ripugnanza né dolore)",
+    "Muṇḍaka Upaniṣad, 3.2.8-9 (i fiumi che sfociano nell'oceano; chi conosce Brahman diventa Brahman)"
+  ],
+  "guenon_sources": [
+    {
+      "author": "rene-guenon",
+      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
+      "chapter": "Capitolo XXIII (La Liberazione finale)",
+      "status": "pending",
+      "note": "Riferimento alla definizione rigorosa della Liberazione (Mokṣa) come realizzazione effettiva dell'Identità Suprema e non come evento temporale o psicologico."
+    }
+  ],
+  "upanishad_passages": [
+    "isha-1-6",
+    "isha-1-7",
+    "mundaka-3-2-8",
+    "mundaka-3-2-9"
+  ],
+  "commentary_passages": [],
+  "related_concepts": [
+    "moksha-amritatva",
+    "jivanmukti",
+    "brahmavid-brahmaiva-bhavati"
+  ],
+  "related_questions": [
+    "q-qual-e-la-natura-della-liberazione",
+    "q-e-possibile-la-liberta",
+    "q-frutto-realizzazione-unita"
+  ],
+  "prev_step": "09-che-cosa-significa-conoscere",
+  "next_step": null
+}

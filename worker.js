@@ -27,8 +27,10 @@ export default {
     const parts = url.pathname.split('/').filter(Boolean);
     const prefix = parts[0];
 
-    if (url.pathname === '/') assetPath = '/index.html';
+    if (url.pathname === '/' || url.pathname === '') assetPath = '/index.html';
     if (url.pathname === '/testi' || url.pathname === '/testi/') assetPath = '/testi.html';
+    if (url.pathname === '/percorso' || url.pathname === '/percorso/') assetPath = '/percorso.html';
+    if (prefix === 'percorso' && parts[1]) assetPath = '/percorso.html';
     if (prefix === 'domande' && parts[1]) assetPath = '/domanda.html';
     if (prefix === 'concetti' && parts[1]) assetPath = '/concetto.html';
     if (prefix === 'autori' && parts[1]) assetPath = '/autore.html';

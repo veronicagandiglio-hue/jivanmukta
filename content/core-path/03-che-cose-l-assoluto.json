@@ -1,0 +1,37 @@
+{
+  "id": "03-che-cose-l-assoluto",
+  "step": 3,
+  "step_number": 3,
+  "title": "Che cos'è l'Assoluto?",
+  "lead": "Ciò che non dipende da null'altro e non è un oggetto tra gli altri oggetti.",
+  "question_text": "Che cos'è l'Assoluto?",
+  "editorial_response": "La parola «assoluto» deriva dal latino e significa letteralmente «sciolto da ogni legame», cioè indipendente, incondizionato, privo di limiti.\n\nNella nostra vita quotidiana, ogni singola cosa è condizionata. Il nostro respiro dipende dall'aria; il nostro corpo dipende dal cibo e dalla gravità; le nostre idee dipendono dal linguaggio e dalla memoria; una pianta dipende dalla luce e dalla terra. Se risaliamo passo dopo passo questa catena ininterrotta di cose che dipendono da altre cose, ci troviamo davanti a un bivio: o la catena prosegue all'infinito nel vuoto senza alcun senso, oppure all'origine di tutto vi è una Realtà che non dipende da niente altro, ma da cui tutto il resto dipende.\n\nQuesto Principio incondizionato è ciò che la metafisica chiama l'Assoluto.\n\nGuénon richiamava l'attenzione su un errore facilissimo in cui cade spesso la mente moderna: pensare all'Assoluto come alla «somma di tutte le cose esistenti» (una sorta di gigantesco contenitore cosmico o panteismo). Ma l'Assoluto non è la somma delle parti, perché qualsiasi somma è ancora limitata e quantitativa. L'Assoluto non è una cosa enorme, né un super-oggetto posto in cielo. È la Sorgente indivisa dell'Essere: non ha contorni, non ha inizio né fine, e non può essere limitato da nessuna definizione particolare.\n\nNon possiamo vederlo come vediamo un oggetto esterno, perché non è un oggetto. È il fondamento invisibile e silenzioso che rende possibile l'esistenza stessa di ogni oggetto.",
+  "sources_used": [
+    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
+    "Īśā Upaniṣad, Invocazione di pace (Śānti-pāṭha - la pienezza incorruttibile di Pūrṇa)",
+    "Muṇḍaka Upaniṣad, 1.1.6 (l'Immutabile invisibile e inafferrabile)"
+  ],
+  "guenon_sources": [
+    {
+      "author": "rene-guenon",
+      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
+      "chapter": "Capitolo I",
+      "status": "pending",
+      "note": "Riferimento alla definizione dell'Assoluto privo di ogni dualità o determinazione condizionante."
+    }
+  ],
+  "upanishad_passages": [
+    "isha-1-shanti",
+    "mundaka-1-1-6"
+  ],
+  "commentary_passages": [],
+  "related_concepts": [
+    "purna",
+    "aksara"
+  ],
+  "related_questions": [
+    "q-natura-brahman-purna"
+  ],
+  "prev_step": "02-che-cosa-significa-realta",
+  "next_step": "04-chi-sono-veramente"
+}

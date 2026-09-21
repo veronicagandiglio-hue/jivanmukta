@@ -22,6 +22,9 @@
 /autori/                     /catalogo.html?tipo=autori          200
 /concetti                    /catalogo.html?tipo=concetti        200
 /concetti/                   /catalogo.html?tipo=concetti        200
+/percorso                    /percorso.html?rif=01-che-cose-la-metafisica 200
+/percorso/                   /percorso.html?rif=01-che-cose-la-metafisica 200
+/percorso/*                  /percorso.html?rif=:splat          200
 
 # --- Testi (Work): deep link a capitolo/sezione ---------------------
 # Template dinamico dell'unità editoriale (unita.html): legge opera,

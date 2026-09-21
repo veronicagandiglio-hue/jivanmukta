@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Percorso Fondamentale — Jivanmukta</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --color-bg:        #F5F3EE;
+  --color-bg-raised: #EFECE3;
+  --color-ink:        #201F1C;
+  --color-ink-muted:  #5B584E;
+  --color-ink-faint:  #8B8778;
+  --color-accent:     #45516C;
+  --color-rule:       #D9D4C6;
+
+  --font-text: 'Gentium Plus', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+
+  --fs-hero:      clamp(2.1rem, 4vw + 1rem, 3.2rem);
+  --fs-h2:        1.6rem;
+  --fs-title:     1.25rem;
+  --fs-body:      1.125rem;
+  --fs-note:      0.95rem;
+  --fs-caption:   0.85rem;
+
+  --lh-tight: 1.25;
+  --lh-body:  1.75;
+
+  --sp-1: 0.375rem;
+  --sp-2: 0.75rem;
+  --sp-3: 1.25rem;
+  --sp-4: 2rem;
+  --sp-5: 3.25rem;
+  --sp-6: 5rem;
+  --sp-7: 7.5rem;
+
+  --measure:  38rem;
+  --page-max: 56rem;
+}
+
+*, *::before, *::after{ box-sizing: border-box; }
+html{ -webkit-text-size-adjust: 100%; }
+body{
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-text);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  font-feature-settings: "onum" 1, "liga" 1;
+}
+
+ul{ margin: 0; padding: 0; list-style: none; }
+a{
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-underline-offset: 0.18em;
+}
+a:hover, a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+h1, h2, h3, p{ margin: 0; }
+
+.page{
+  display: grid;
+  grid-template-columns: minmax(var(--sp-3), 1fr) minmax(0, var(--page-max)) minmax(var(--sp-3), 1fr);
+  padding-block: var(--sp-5) var(--sp-7);
+}
+.page > *{ grid-column: 2; }
+.measure{ max-width: var(--measure); margin-inline: auto; }
+.block + .block{ margin-top: var(--sp-6); }
+
+/* Masthead */
+.masthead{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--sp-3);
+  font-size: var(--fs-note);
+  padding-bottom: var(--sp-3);
+  border-bottom: 1px solid var(--color-rule);
+}
+.masthead__mark{ color: var(--color-ink-muted); }
+.masthead__home a{ text-decoration: none; }
+.masthead__home a:hover{ text-decoration: underline; }
+
+/* Intestazione Tappa */
+.step-header{
+  margin-top: var(--sp-5);
+}
+.step-header__progress{
+  font-size: var(--fs-caption);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-ink-faint);
+  font-weight: 700;
+}
+.step-header__title{
+  margin-top: var(--sp-2);
+  font-size: var(--fs-hero);
+  line-height: var(--lh-tight);
+  font-weight: 400;
+}
+.step-header__lead{
+  margin-top: var(--sp-3);
+  font-size: var(--fs-title);
+  color: var(--color-ink-muted);
+  font-style: italic;
+  line-height: 1.45;
+}
+
+/* Esposizione Editoriale */
+.editorial-body{
+  margin-top: var(--sp-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+}
+.editorial-body p{
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+}
+
+/* Sezioni Fonti */
+.sources-section{
+  margin-top: var(--sp-6);
+  padding-top: var(--sp-4);
+  border-top: 1px solid var(--color-rule);
+}
+.section-title{
+  font-size: var(--fs-title);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--color-ink-muted);
+  margin-bottom: var(--sp-3);
+}
+.section-desc{
+  font-size: var(--fs-note);
+  color: var(--color-ink-faint);
+  font-style: italic;
+  margin-bottom: var(--sp-4);
+}
+
+/* Card Passaggio Upaniṣad */
+.passages-list{
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-5);
+}
+.passage-card{
+  background: var(--color-bg-raised);
+  padding: var(--sp-4);
+  border-left: 2px solid var(--color-accent);
+}
+.passage-card__locus{
+  font-size: var(--fs-caption);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-accent);
+  font-weight: 700;
+  margin-bottom: var(--sp-2);
+}
+.passage-card__original{
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  font-style: italic;
+  margin-bottom: var(--sp-2);
+  line-height: 1.5;
+}
+.passage-card__translation{
+  font-size: var(--fs-body);
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: var(--sp-3);
+}
+.passage-card__explanation{
+  padding-top: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+}
+.passage-card__explanation-title{
+  font-size: var(--fs-caption);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-ink-faint);
+  font-weight: 700;
+  margin-bottom: var(--sp-1);
+}
+.passage-card__explanation-text{
+  font-size: var(--fs-note);
+  line-height: 1.65;
+  color: var(--color-ink);
+}
+.passage-card__link{
+  margin-top: var(--sp-3);
+  font-size: var(--fs-note);
+}
+
+/* Box Guénon (predisposto) */
+.guenon-box{
+  background: var(--color-bg);
+  border: 1px dashed var(--color-rule);
+  padding: var(--sp-4);
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  line-height: 1.6;
+}
+.guenon-box__title{
+  font-weight: 700;
+  color: var(--color-ink);
+  margin-bottom: var(--sp-1);
+}
+
+/* Concetti e Domande collegate */
+.meta-links{
+  margin-top: var(--sp-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+}
+.meta-row{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--sp-2);
+  font-size: var(--fs-note);
+}
+.meta-row__label{
+  color: var(--color-ink-faint);
+  font-style: italic;
+  min-width: 9rem;
+}
+
+/* Navigazione tra le tappe */
+.step-nav{
+  margin-top: var(--sp-7);
+  padding-top: var(--sp-4);
+  border-top: 1px solid var(--color-rule);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--sp-3);
+  font-size: var(--fs-note);
+}
+.step-nav a{ text-decoration: none; }
+.step-nav a:hover{ text-decoration: underline; }
+
+.footer{
+  margin-top: var(--sp-7);
+  padding-top: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+  display: flex;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  font-size: var(--fs-caption);
+  color: var(--color-ink-faint);
+}
+
+@media (max-width: 640px){
+  .page{ padding-inline: var(--sp-3); }
+  .masthead{ flex-direction: column; align-items: flex-start; gap: var(--sp-1); }
+  .step-nav{ flex-direction: column; align-items: stretch; text-align: center; gap: var(--sp-2); }
+  .footer{ flex-direction: column; gap: var(--sp-1); }
+}
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <header class="masthead">
+    <span class="masthead__mark">Jivanmukta — Percorso Fondamentale</span>
+    <span class="masthead__home"><a href="/">← Torna all'ingresso</a></span>
+  </header>
+
+  <main>
+    <section class="step-header measure" id="step-header">
+      <p class="step-header__progress" id="step-progress">Tappa in caricamento</p>
+      <h1 class="step-header__title" id="step-title">...</h1>
+      <p class="step-header__lead" id="step-lead"></p>
+    </section>
+
+    <article class="editorial-body measure" id="editorial-body"></article>
+
+    <!-- FONTI PRIMARIE: LE UPANIṢAD -->
+    <section class="sources-section measure" id="upanishad-section" hidden>
+      <h2 class="section-title">I passi delle Upaniṣad</h2>
+      <p class="section-desc">Le fonti della tradizione in cui questo principio viene espresso e verificato:</p>
+      <div class="passages-list" id="passages-list"></div>
+    </section>
+
+    <!-- FONTI TRADIZIONALI E GUÉNON (PREDISPOSIZIONE) -->
+    <section class="sources-section measure" id="guenon-section" hidden>
+      <h2 class="section-title">Esposizione tradizionale moderna</h2>
+      <div class="guenon-box" id="guenon-content"></div>
+    </section>
+
+    <!-- CONCETTI E APPROFONDIMENTI -->
+    <section class="sources-section measure" id="related-section" hidden>
+      <h2 class="section-title">Approfondimenti e concetti</h2>
+      <div class="meta-links">
+        <div class="meta-row" id="concepts-row" hidden>
+          <span class="meta-row__label">Concetti chiave:</span>
+          <span id="concepts-links"></span>
+        </div>
+        <div class="meta-row" id="questions-row" hidden>
+          <span class="meta-row__label">Domande collegate:</span>
+          <span id="questions-links"></span>
+        </div>
+      </div>
+    </section>
+
+    <!-- NAVIGAZIONE CONTINUA TRA TAPPE -->
+    <nav class="step-nav measure" aria-label="Navigazione del percorso">
+      <div id="prev-container"></div>
+      <div><a href="/#percorso-indice">Indice delle 10 tappe</a></div>
+      <div id="next-container"></div>
+    </nav>
+  </main>
+
+  <footer class="footer measure">
+    <span>Jivanmukta</span>
+    <span>Un orientamento metafisico e tradizionale</span>
+  </footer>
+
+</div>
+
+<script src="/js/url-router.js"></script>
+<script src="/js/content-engine.js"></script>
+<script>
+(async function () {
+  'use strict';
+
+  const route = UrlRouter.resolveContentId('percorso');
+  const stepId = (route && route.id) ? route.id : '01-che-cose-la-metafisica';
+
+  const res = await ContentEngine.getCorePath(stepId);
+  if (res.status !== 'ok') {
+    document.getElementById('step-title').textContent = 'Tappa non trovata';
+    document.getElementById('step-lead').textContent = 'La tappa richiesta (' + stepId + ') non è presente nel percorso fondamentale.';
+    return;
+  }
+
+  const step = res.data;
+
+  document.title = step.title + ' — Jivanmukta';
+  document.getElementById('step-progress').textContent = 'Tappa ' + String(step.step_number).padStart(2, '0') + ' di 10';
+  document.getElementById('step-title').textContent = step.title;
+  document.getElementById('step-lead').textContent = step.lead || '';
+
+  // Esposizione editoriale
+  const bodyEl = document.getElementById('editorial-body');
+  bodyEl.replaceChildren();
+  const paragraphs = (step.editorial_response || '').split('\n\n').filter(Boolean);
+  paragraphs.forEach((pText) => {
+    const p = document.createElement('p');
+    p.textContent = pText.trim();
+    bodyEl.appendChild(p);
+  });
+
+  // Upaniṣad passages
+  const uPassages = step.upanishad_passages || [];
+  if (uPassages.length > 0) {
+    const uSection = document.getElementById('upanishad-section');
+    const pList = document.getElementById('passages-list');
+    pList.replaceChildren();
+
+    for (const pid of uPassages) {
+      const pRes = await ContentEngine.getPassage(pid);
+      if (pRes.status !== 'ok') continue;
+      const pData = pRes.data;
+
+      // Recupera spiegazione Jivanmukta
+      const explRes = await ContentEngine.getPassageExplanations(pid);
+      let explanationText = '';
+      if (explRes.status === 'ok' && explRes.data.length > 0) {
+        const explObj = await ContentEngine.getExplanation(explRes.data[0]);
+        if (explObj.status === 'ok') {
+          if (typeof explObj.data.text === 'string') {
+            explanationText = explObj.data.text;
+          } else if (Array.isArray(explObj.data.text)) {
+            explanationText = explObj.data.text.map((s) => s.text || '').join(' ');
+          }
+        }
+      }
+
+      const card = document.createElement('div');
+      card.className = 'passage-card';
+
+      const locusEl = document.createElement('div');
+      locusEl.className = 'passage-card__locus';
+      locusEl.textContent = (pData.work_id ? pData.work_id.replace('-upanishad', ' Upaniṣad') : '') + ' • ' + (pData.locus || pData.id);
+      card.appendChild(locusEl);
+
+      if (pData.original) {
+        const origEl = document.createElement('div');
+        origEl.className = 'passage-card__original';
+        origEl.textContent = pData.original;
+        card.appendChild(origEl);
+      }
+
+      if (pData.translation) {
+        const transEl = document.createElement('div');
+        transEl.className = 'passage-card__translation';
+        transEl.textContent = '«' + pData.translation + '»';
+        card.appendChild(transEl);
+      }
+
+      if (explanationText) {
+        const explWrap = document.createElement('div');
+        explWrap.className = 'passage-card__explanation';
+        const explTitle = document.createElement('div');
+        explTitle.className = 'passage-card__explanation-title';
+        explTitle.textContent = 'Spiegazione accessibile';
+        const explContent = document.createElement('div');
+        explContent.className = 'passage-card__explanation-text';
+        explContent.textContent = explanationText;
+        explWrap.append(explTitle, explContent);
+        card.appendChild(explWrap);
+      }
+
+      if (pData.work_id) {
+        const linkEl = document.createElement('div');
+        linkEl.className = 'passage-card__link';
+        const link = document.createElement('a');
+        link.href = UrlRouter.buildContentUrl('testi', pData.work_id) + '#' + encodeURIComponent(pData.id);
+        link.textContent = 'Leggi nel flusso dell\'opera intera →';
+        linkEl.appendChild(link);
+        card.appendChild(linkEl);
+      }
+
+      pList.appendChild(card);
+    }
+    uSection.hidden = false;
+  }
+
+  // Guénon sources
+  const gSources = step.guenon_sources || [];
+  if (gSources.length > 0) {
+    const gSection = document.getElementById('guenon-section');
+    const gContent = document.getElementById('guenon-content');
+    gContent.replaceChildren();
+
+    gSources.forEach((gs) => {
+      const title = document.createElement('div');
+      title.className = 'guenon-box__title';
+      title.textContent = 'René Guénon — ' + (gs.work ? gs.work.replace(/-/g, ' ') : 'Opera metafisica') + ' (' + (gs.chapter || '') + ')';
+      const note = document.createElement('div');
+      note.textContent = gs.note || 'Esposizione metafisica di riferimento. Traduzione e commento integrale in corso di acquisizione.';
+      gContent.append(title, note);
+    });
+    gSection.hidden = false;
+  }
+
+  // Concetti e Domande
+  const concepts = step.related_concepts || [];
+  const questions = step.related_questions || [];
+  if (concepts.length > 0 || questions.length > 0) {
+    document.getElementById('related-section').hidden = false;
+
+    if (concepts.length > 0) {
+      const cRow = document.getElementById('concepts-row');
+      const cLinks = document.getElementById('concepts-links');
+      cLinks.replaceChildren();
+      for (const cid of concepts) {
+        const cRes = await ContentEngine.getConcept(cid);
+        const a = document.createElement('a');
+        a.href = UrlRouter.buildContentUrl('concetti', cid);
+        a.textContent = cRes.status === 'ok' ? cRes.data.name : cid;
+        a.style.marginRight = '1rem';
+        cLinks.appendChild(a);
+      }
+      cRow.hidden = false;
+    }
+
+    if (questions.length > 0) {
+      const qRow = document.getElementById('questions-row');
+      const qLinks = document.getElementById('questions-links');
+      qLinks.replaceChildren();
+      for (const qid of questions) {
+        const qRes = await ContentEngine.getQuestion(qid);
+        const a = document.createElement('a');
+        a.href = UrlRouter.buildContentUrl('domande', qid);
+        a.textContent = qRes.status === 'ok' ? qRes.data.text : qid;
+        a.style.marginRight = '1rem';
+        qLinks.appendChild(a);
+      }
+      qRow.hidden = false;
+    }
+  }
+
+  // Navigazione
+  if (step.prev_step) {
+    const prevRes = await ContentEngine.getCorePath(step.prev_step);
+    const pContainer = document.getElementById('prev-container');
+    const a = document.createElement('a');
+    a.href = UrlRouter.buildContentUrl('percorso', step.prev_step);
+    a.textContent = '← ' + (prevRes.status === 'ok' ? prevRes.data.title : 'Tappa precedente');
+    pContainer.appendChild(a);
+  }
+
+  if (step.next_step) {
+    const nextRes = await ContentEngine.getCorePath(step.next_step);
+    const nContainer = document.getElementById('next-container');
+    const a = document.createElement('a');
+    a.href = UrlRouter.buildContentUrl('percorso', step.next_step);
+    a.textContent = (nextRes.status === 'ok' ? nextRes.data.title : 'Tappa successiva') + ' →';
+    nContainer.appendChild(a);
+  }
+}());
+</script>
+
+</body>
+</html>

@@ -538,6 +538,168 @@
     ],
     "source_file": "questions/q-e-possibile-la-liberta.json"
   },
+  "q-esperienza-fine-io": {
+    "id": "q-esperienza-fine-io",
+    "scope": "hook",
+    "type": "hook",
+    "homepage_priority": 102,
+    "text": "Perché durante quell'esperienza non esisteva più un io?",
+    "introduction": "Siamo abituati a pensare che essere coscienti significhi essere un 'io' che pensa, sente e percepisce. Quando si verifica uno stato in cui la coscienza rimane viva ma il senso del sé individuale evapora, la mente comune fatica a comprenderlo.",
+    "problem": "Spiegare la differenza tra l'individualità psicologica contingente (ahamkāra) e la pura Coscienza testimone (Ātman) alla luce della tradizione, senza emettere sentenze sullo stato del singolo individuo.",
+    "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+    "target_core_path_id": "04-chi-sono-veramente",
+    "parent_question": null,
+    "specific_questions": [],
+    "concepts": [
+      "atman",
+      "sakshin"
+    ],
+    "passages": [
+      "kena-1-2",
+      "kena-1-3"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-esperienza-unita",
+      "q-esperienza-ritorno-persona"
+    ],
+    "source_file": "questions/q-esperienza-fine-io.json"
+  },
+  "q-esperienza-mondo-uno": {
+    "id": "q-esperienza-mondo-uno",
+    "scope": "hook",
+    "type": "hook",
+    "homepage_priority": 103,
+    "text": "Perché il mondo sembrava essere una cosa sola?",
+    "introduction": "Nella percezione comune vediamo una miriade di oggetti separati: alberi, case, persone, cieli. In certi momenti di rottura percettiva, la frammentazione svanisce e l'universo intero si mostra come una sola e identica trama vivente.",
+    "problem": "Comprendere il rapporto tra l'unità principiale e la molteplicità apparente (nāmarūpa), riconducendo l'intuizione al contesto della manifestazione universale.",
+    "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+    "target_core_path_id": "02-che-cosa-significa-realta",
+    "parent_question": null,
+    "specific_questions": [],
+    "concepts": [
+      "brahman",
+      "ekatva"
+    ],
+    "passages": [
+      "isha-1-1",
+      "katha-2-2-9"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-esperienza-unita",
+      "q-esperienza-non-duale-brahman"
+    ],
+    "source_file": "questions/q-esperienza-mondo-uno.json"
+  },
+  "q-esperienza-non-duale-brahman": {
+    "id": "q-esperienza-non-duale-brahman",
+    "scope": "hook",
+    "type": "hook",
+    "homepage_priority": 105,
+    "text": "Ho avuto un'esperienza non-duale: era il Brahman?",
+    "introduction": "Chi legge o scopre concetti orientali dopo un evento trasformativo tende spesso ad applicarvi subito etichette sacre o assolute: 'Ho visto Dio', 'Ero il Brahman', 'Ho toccato l'Infinito'.",
+    "problem": "Spiegare perché il Brahman non è uno stato mentale né un oggetto contemplato dalla mente o dai sensi, ma la sorgente trascendente e immanente della Realtà.",
+    "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+    "target_core_path_id": "06-che-cose-brahman",
+    "parent_question": null,
+    "specific_questions": [],
+    "concepts": [
+      "brahman",
+      "atman"
+    ],
+    "passages": [
+      "kena-1-4",
+      "kena-1-5"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-esperienza-unita",
+      "q-esperienza-fine-io"
+    ],
+    "source_file": "questions/q-esperienza-non-duale-brahman.json"
+  },
+  "q-esperienza-perche-finita": {
+    "id": "q-esperienza-perche-finita",
+    "scope": "hook",
+    "type": "hook",
+    "homepage_priority": 104,
+    "text": "Perché quell'esperienza è finita?",
+    "introduction": "Uno dei tratti più dolorosi o sconcertanti di queste esperienze è che svaniscono. Ci si ritrova di colpo nella normalità, con i vecchi pensieri, le preoccupazioni e la sensazione di separazione. Ci si chiede allora se si sia 'perso' qualcosa.",
+    "problem": "Distinguere nettamente tra un'esperienza nel tempo (che ha un inizio e una fine) e la Conoscenza metafisica permanente che non appartiene al dominio degli stati transitori.",
+    "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+    "target_core_path_id": "09-che-cosa-significa-conoscere",
+    "parent_question": null,
+    "specific_questions": [],
+    "concepts": [
+      "avidya",
+      "vidya"
+    ],
+    "passages": [
+      "kena-2-3",
+      "kena-2-4"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-esperienza-unita",
+      "q-esperienza-ritorno-persona"
+    ],
+    "source_file": "questions/q-esperienza-perche-finita.json"
+  },
+  "q-esperienza-ritorno-persona": {
+    "id": "q-esperienza-ritorno-persona",
+    "scope": "hook",
+    "type": "hook",
+    "homepage_priority": 106,
+    "text": "Perché dopo quell'esperienza continuo a sentirmi una persona?",
+    "introduction": "Anche dopo aver intuito una dimensione profonda e immensa, il giorno dopo ci si risveglia con lo stesso corpo, le stesse incombenze quotidiane, le stesse emozioni. Questo contrasto genera spesso delusione, senso di colpa o frustrazione.",
+    "problem": "Affrontare il tema della permanenza del corpo e dell'individualità psicologica (upādhi) e la distinzione vedāntica tra la liberazione in vita (jīvanmukti) e l'esperienza temporanea.",
+    "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+    "target_core_path_id": "10-che-cose-la-liberazione",
+    "parent_question": null,
+    "specific_questions": [],
+    "concepts": [
+      "jivanmukti",
+      "moksha-amritatva"
+    ],
+    "passages": [
+      "isha-1-2",
+      "katha-2-3-14"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-esperienza-perche-finita",
+      "q-esperienza-fine-io"
+    ],
+    "source_file": "questions/q-esperienza-ritorno-persona.json"
+  },
+  "q-esperienza-unita": {
+    "id": "q-esperienza-unita",
+    "scope": "hook",
+    "type": "hook",
+    "homepage_priority": 101,
+    "text": "Ho avuto un'esperienza di unità: che cosa significa?",
+    "introduction": "Un'esperienza in cui i confini abituali tra sé e il resto del mondo sembrano svanire può essere profondamente disorientante. Dal punto di vista della persona ordinaria, la realtà è sempre divisa tra 'io' e 'tutto il resto'. Quando questa divisione improvvisamente crolla, ci si trova di fronte a una domanda inevitabile: cosa è successo veramente?",
+    "problem": "Accogliere la testimonianza di un'esperienza di dissoluzione dei confini senza trasformarla in una diagnosi soggettiva o in un dogma, orientando verso l'indagine metafisica su ciò che è essenziale.",
+    "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+    "target_core_path_id": "01-che-cose-la-metafisica",
+    "parent_question": null,
+    "specific_questions": [],
+    "concepts": [
+      "ekatva",
+      "brahman"
+    ],
+    "passages": [
+      "isha-1-6",
+      "isha-1-7"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-esperienza-mondo-uno",
+      "q-esperienza-perche-finita"
+    ],
+    "source_file": "questions/q-esperienza-unita.json"
+  },
   "q-frutto-realizzazione-unita": {
     "id": "q-frutto-realizzazione-unita",
     "type": "specific",

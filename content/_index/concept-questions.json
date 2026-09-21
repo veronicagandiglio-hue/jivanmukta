@@ -10,6 +10,7 @@
   "moksha-amritatva": [
     "q-azione-rituale-versus-conoscenza",
     "q-cosa-accade-dopo-la-morte",
+    "q-esperienza-ritorno-persona",
     "q-qual-e-la-natura-della-liberazione"
   ],
   "isha": [
@@ -37,6 +38,9 @@
     "q-come-si-conosce-il-brahman",
     "q-come-si-conosce-il-tutto",
     "q-da-dove-ha-origine-il-cosmo",
+    "q-esperienza-mondo-uno",
+    "q-esperienza-non-duale-brahman",
+    "q-esperienza-unita",
     "q-in-che-senso-il-conoscitore-diviene-brahman",
     "q-kena-allegoria-yaksha",
     "q-kena-analogie-adhidaivata-adhyatma",
@@ -63,6 +67,8 @@
     "q-chi-sono-i-due-uccelli-sullo-stesso-albero",
     "q-cosa-accade-dopo-la-morte",
     "q-e-possibile-la-liberta",
+    "q-esperienza-fine-io",
+    "q-esperienza-non-duale-brahman",
     "q-frutto-realizzazione-unita",
     "q-identita-soham",
     "q-l-arco-del-pranava-e-il-bersaglio-di-brahman",
@@ -89,6 +95,7 @@
   "sakshin": [
     "q-che-cosa-significa-conoscere",
     "q-che-cose-il-se",
+    "q-esperienza-fine-io",
     "q-kena-analogie-adhidaivata-adhyatma",
     "q-kena-pratibodha-viditam",
     "q-kena-principio-animatore",
@@ -157,16 +164,24 @@
   ],
   "vidya": [
     "q-dialettica-vidya-avidya",
+    "q-esperienza-perche-finita",
     "q-lazione-vincola"
   ],
   "avidya": [
     "q-dialettica-vidya-avidya",
+    "q-esperienza-perche-finita",
     "q-lazione-vincola",
     "q-perche-soffriamo",
     "q-uccisori-del-se"
   ],
   "ekatva": [
+    "q-esperienza-mondo-uno",
+    "q-esperienza-unita",
     "q-frutto-realizzazione-unita"
+  ],
+  "jivanmukti": [
+    "q-esperienza-ritorno-persona",
+    "q-qual-e-la-natura-della-liberazione"
   ],
   "satya": [
     "q-identita-soham"
@@ -202,9 +217,6 @@
   ],
   "samnyasa-yoga": [
     "q-qual-e-il-valore-delle-opere-rituali"
-  ],
-  "jivanmukti": [
-    "q-qual-e-la-natura-della-liberazione"
   ],
   "svapna-e-susupti": [
     "q-quali-sono-gli-stati-di-coscienza"

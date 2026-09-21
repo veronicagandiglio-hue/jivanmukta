@@ -1,0 +1,39 @@
+{
+  "id": "06-che-cose-brahman",
+  "step": 6,
+  "step_number": 6,
+  "title": "Che cos'è Brahman?",
+  "lead": "Il termine fondamentale della metafisica vedāntica: la Realtà assoluta, infinita, senza secondo.",
+  "question_text": "Che cos'è Brahman?",
+  "editorial_response": "Se il termine Ātman risponde alla domanda su chi siamo noi nella nostra intimità più profonda, la parola Brahman è la risposta della tradizione vedāntica alla domanda su che cosa sia la Realtà universale nel suo complesso.\n\nAttenzione a non fare confusione con parole simili: Brahman non è il dio Brahmā (la divinità personificata della mitologia), e non è neppure il sacerdote (brahmino). La parola Brahman deriva da una radice sanscrita (bṛh) che significa «crescere, espandersi, essere immenso, non avere confini».\n\nBrahman è la Realtà Suprema: infinita, senza inizio, senza fine e senza un secondo principio al di fuori di sé (da cui il nome Advaita, che significa «non-due», non-dualità). Non è un individuo cosmico che crea le cose come un falegname fabbrica un tavolo; non è un re seduto su un trono nei cieli; non è un'entità che ha pensieri, preferenze, simpatie o antipatie.\n\nBrahman è sia trascendente (al di là di qualsiasi forma o nome concepibile) sia immanente (la sostanza stessa che costituisce ogni cosa).\n\nLe Upaniṣad usano una formula celeberrima per indicare la sua natura: Sat-Cit-Ānanda (Esistenza pura, Coscienza pura, Beatitudine infinita). Non sono tre proprietà separate, ma tre aspetti della medesima Realtà:\n- È l'Esistenza stessa, perché nulla può esistere al di fuori di Essa;\n- È la Coscienza stessa, perché è la luce che rende possibile ogni conoscenza;\n- È la Pienezza e la Beatitudine, perché non le manca nulla e non desidera nulla.\n\nCome chiariva Guénon, Brahman non può essere compreso dalla mente ordinaria come si comprende un concetto scientifico, perché la mente funziona dividendo e misurando. Ma ciò che è infinito e indiviso non può essere misurato.",
+  "sources_used": [
+    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
+    "Kena Upaniṣad, 1.4-5 (ciò che non può essere detto con parole né pensato con la mente)",
+    "Taittirīya Upaniṣad, 2.1.1 (satyaṃ jñānam anantaṃ brahma)"
+  ],
+  "guenon_sources": [
+    {
+      "author": "rene-guenon",
+      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
+      "chapter": "Capitolo I",
+      "status": "pending",
+      "note": "Riferimento alla nozione dottrinale di Brahman come Infinito metafisico privo di ogni determinazione esclusiva."
+    }
+  ],
+  "upanishad_passages": [
+    "kena-1-4",
+    "kena-1-5"
+  ],
+  "commentary_passages": [],
+  "related_concepts": [
+    "brahman",
+    "satya",
+    "purna"
+  ],
+  "related_questions": [
+    "q-che-cose-brahman",
+    "q-che-cosa-e-il-brahman-nella-taittiriya"
+  ],
+  "prev_step": "05-che-cose-il-se",
+  "next_step": "07-che-rapporto-ce-tra-atman-e-brahman"
+}

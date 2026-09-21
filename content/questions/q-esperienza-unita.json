@@ -1,0 +1,26 @@
+{
+  "id": "q-esperienza-unita",
+  "scope": "hook",
+  "type": "hook",
+  "homepage_priority": 101,
+  "text": "Ho avuto un'esperienza di unità: che cosa significa?",
+  "introduction": "Un'esperienza in cui i confini abituali tra sé e il resto del mondo sembrano svanire può essere profondamente disorientante. Dal punto di vista della persona ordinaria, la realtà è sempre divisa tra 'io' e 'tutto il resto'. Quando questa divisione improvvisamente crolla, ci si trova di fronte a una domanda inevitabile: cosa è successo veramente?",
+  "problem": "Accogliere la testimonianza di un'esperienza di dissoluzione dei confini senza trasformarla in una diagnosi soggettiva o in un dogma, orientando verso l'indagine metafisica su ciò che è essenziale.",
+  "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
+  "target_core_path_id": "01-che-cose-la-metafisica",
+  "parent_question": null,
+  "specific_questions": [],
+  "concepts": [
+    "ekatva",
+    "brahman"
+  ],
+  "passages": [
+    "isha-1-6",
+    "isha-1-7"
+  ],
+  "commentaries": [],
+  "related_questions": [
+    "q-esperienza-mondo-uno",
+    "q-esperienza-perche-finita"
+  ]
+}

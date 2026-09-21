@@ -4,15 +4,16 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light">
-<title>Advaita Vedānta — uno studio delle fonti</title>
+<title>Jivanmukta — Un orientamento metafisico e tradizionale</title>
 
 <!--
   ============================================================
-  HOMEPAGE — Advaita Vedānta
+  HOMEPAGE — JIVANMUKTA
   ============================================================
-  Markup strutturale e componenti d'interfaccia. Nessun contenuto
-  editoriale hardcoded: le domande e le relative costellazioni
-  vengono recuperate a runtime tramite js/content-engine.js.
+  Nuova architettura a due ingressi:
+    1. Per chi arriva da un'esperienza
+    2. Per chi vuole andare direttamente al nucleo
+  Percorso fondamentale in 10 tappe e accesso alle fonti primarie.
   ============================================================
 -->
 
@@ -32,15 +33,15 @@
 
   --font-text: 'Gentium Plus', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
 
-  --fs-question:  clamp(2rem, 4.5vw + 1rem, 3.4rem);
-  --fs-entry:     clamp(1.5rem, 2vw + 1rem, 2rem);
-  --fs-title:     1.375rem;
+  --fs-hero:      clamp(2.3rem, 5vw + 1rem, 3.8rem);
+  --fs-h2:        clamp(1.5rem, 2.5vw + 0.8rem, 2.1rem);
+  --fs-h3:        1.35rem;
   --fs-body:      1.125rem;
   --fs-note:      0.95rem;
   --fs-caption:   0.85rem;
 
-  --lh-tight:  1.25;
-  --lh-body:   1.7;
+  --lh-tight:  1.22;
+  --lh-body:   1.75;
 
   --sp-1: 0.375rem;
   --sp-2: 0.75rem;
@@ -49,21 +50,16 @@
   --sp-5: 3.25rem;
   --sp-6: 5rem;
   --sp-7: 7.5rem;
-  --sp-8: 10rem;
+  --sp-8: 9.5rem;
 
   --measure:   38rem;
-  --page-max:  60rem;
+  --page-max:  58rem;
 }
 
 *, *::before, *::after{ box-sizing: border-box; }
-html{ -webkit-text-size-adjust: 100%; }
-body{ margin: 0; }
-ul{ margin: 0; padding: 0; list-style: none; }
-a{ color: inherit; }
-h1,h2,p{ margin: 0; }
-button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; }
-
+html{ -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 body{
+  margin: 0;
   background: var(--color-bg);
   color: var(--color-ink);
   font-family: var(--font-text);
@@ -72,130 +68,225 @@ body{
   font-feature-settings: "onum" 1, "liga" 1;
 }
 
+ul{ margin: 0; padding: 0; list-style: none; }
+a{
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-underline-offset: 0.18em;
+}
+a:hover, a:focus-visible{
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
+h1, h2, h3, p{ margin: 0; }
+button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; text-align: left; }
+
 .page{
   display: grid;
   grid-template-columns: minmax(var(--sp-3), 1fr) minmax(0, var(--page-max)) minmax(var(--sp-3), 1fr);
   padding-block: var(--sp-5) var(--sp-7);
-  min-height: 100svh;
 }
 .page > *{ grid-column: 2; }
 .measure{ max-width: var(--measure); margin-inline: auto; }
 .block + .block{ margin-top: var(--sp-7); }
 
+/* Masthead */
 .masthead{
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   gap: var(--sp-3);
+  font-size: var(--fs-note);
+  border-bottom: 1px solid var(--color-rule);
+  padding-bottom: var(--sp-3);
 }
-.masthead__mark{ font-size: var(--fs-note); color: var(--color-ink-muted); }
-.masthead__index{ font-size: var(--fs-note); }
+.masthead__mark{ color: var(--color-ink-muted); }
+.masthead__nav{ display: flex; gap: var(--sp-3); }
 
+/* Hero */
 .hero{
-  margin-top: var(--sp-8);
+  margin-top: var(--sp-6);
 }
-.hero__name{
-  font-size: var(--fs-question);
+.hero__title{
+  font-size: var(--fs-hero);
   line-height: var(--lh-tight);
   font-weight: 400;
   letter-spacing: 0.01em;
 }
-.hero__desc{
-  margin-top: var(--sp-3);
-  max-width: 34ch;
+.hero__lead{
+  margin-top: var(--sp-4);
+  font-size: 1.25rem;
+  line-height: 1.6;
   color: var(--color-ink-muted);
 }
 
-.entries{
-  margin-top: var(--sp-6);
+/* Due Ingressi */
+.portals{
+  margin-top: var(--sp-7);
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--sp-6);
+}
+
+.portal-card{
+  background: var(--color-bg-raised);
+  padding: var(--sp-5);
+  border-left: 3px solid var(--color-accent);
   display: flex;
   flex-direction: column;
+  gap: var(--sp-3);
 }
-.entry{
-  border-top: 1px solid var(--color-rule);
-}
-.entry:last-child{ border-bottom: 1px solid var(--color-rule); }
 
-.entry__trigger{
-  display: block;
-  width: 100%;
-  text-align: left;
-  padding-block: var(--sp-3);
-  font-size: var(--fs-entry);
-  line-height: var(--lh-tight);
-  cursor: pointer;
-}
-.entry__trigger:hover,
-.entry__trigger:focus-visible{
+.portal-card__eyebrow{
+  font-size: var(--fs-caption);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: var(--color-accent);
+  font-weight: 700;
 }
-.entry__trigger:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 4px; }
 
-.entry__constellation{
-  overflow: hidden;
-  max-height: 0px;
+.portal-card__title{
+  font-size: var(--fs-h2);
+  line-height: var(--lh-tight);
+  font-weight: 400;
 }
-.entry__constellation__inner{
-  padding-bottom: var(--sp-4);
-  padding-left: 0.15em;
+
+.portal-card__desc{
+  font-size: var(--fs-body);
+  color: var(--color-ink);
+  line-height: var(--lh-body);
 }
-.entry__hint{
-  font-size: var(--fs-note);
-  color: var(--color-ink-faint);
-  font-style: italic;
-  max-width: 40ch;
-}
-.entry__list{
-  margin-top: var(--sp-3);
+
+.experience-questions{
+  margin-top: var(--sp-2);
   display: flex;
   flex-direction: column;
   gap: var(--sp-2);
 }
-.entry__list a{
-  font-size: var(--fs-title);
-  text-decoration: underline;
-  text-decoration-color: var(--color-rule);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.15em;
-}
-.entry__list a:hover,
-.entry__list a:focus-visible{
-  color: var(--color-accent);
-  text-decoration-color: currentColor;
-}
-.entry__list a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
-
-.secondary{
-  margin-top: var(--sp-7);
-}
-.secondary__label{
-  font-size: var(--fs-caption);
-  color: var(--color-ink-faint);
+.experience-questions li a{
+  font-size: var(--fs-body);
   font-style: italic;
+  color: var(--color-ink-muted);
 }
-.secondary__list{
+.experience-questions li a:hover{
+  color: var(--color-accent);
+}
+
+.editorial-stance-box{
   margin-top: var(--sp-2);
-  display: flex;
-  flex-wrap: wrap;
-  column-gap: var(--sp-4);
-  row-gap: var(--sp-1);
+  padding: var(--sp-3);
+  background: var(--color-bg);
+  border-left: 2px solid var(--color-rule);
+  font-size: var(--fs-note);
+  line-height: 1.65;
+  color: var(--color-ink);
 }
-.secondary__list a{
+
+.portal-card__cta{
+  margin-top: var(--sp-3);
+  align-self: flex-start;
+}
+.cta-button{
+  display: inline-block;
+  background: var(--color-accent);
+  color: #FAF8F5;
+  padding: var(--sp-2) var(--sp-4);
+  font-size: var(--fs-note);
+  text-decoration: none;
+  border-radius: 2px;
+  letter-spacing: 0.02em;
+}
+.cta-button:hover{
+  background: #2E384D;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+/* Percorso Fondamentale Panoramica */
+.path-section{
+  margin-top: var(--sp-8);
+  padding-top: var(--sp-5);
+  border-top: 1px solid var(--color-rule);
+}
+.path-section__title{
+  font-size: var(--fs-h2);
+  font-weight: 400;
+  margin-bottom: var(--sp-2);
+}
+.path-section__desc{
+  font-size: var(--fs-body);
+  color: var(--color-ink-muted);
+  margin-bottom: var(--sp-5);
+}
+
+.steps-list{
+  display: flex;
+  flex-direction: column;
+}
+.step-item{
+  padding-block: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+  display: grid;
+  grid-template-columns: 3.5rem 1fr;
+  gap: var(--sp-3);
+  align-items: baseline;
+}
+.step-item:last-child{
+  border-bottom: 1px solid var(--color-rule);
+}
+.step-item__num{
+  font-size: var(--fs-note);
+  color: var(--color-ink-faint);
+  font-family: monospace;
+}
+.step-item__content a{
+  font-size: 1.25rem;
+  font-weight: 700;
+  display: block;
+}
+.step-item__lead{
+  margin-top: var(--sp-1);
   font-size: var(--fs-note);
   color: var(--color-ink-muted);
-  text-decoration: underline;
-  text-decoration-color: var(--color-rule);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.15em;
-}
-.secondary__list a:hover,
-.secondary__list a:focus-visible{
-  color: var(--color-accent);
-  text-decoration-color: currentColor;
+  line-height: 1.5;
 }
 
-.footer{
+/* Sezione Fonti Primarie (Upaniṣad) */
+.sources-section{
   margin-top: var(--sp-7);
+}
+.sources-section__title{
+  font-size: var(--fs-h3);
+  font-weight: 700;
+  color: var(--color-ink-muted);
+  margin-bottom: var(--sp-2);
+}
+.sources-list{
+  margin-top: var(--sp-3);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: var(--sp-3);
+}
+.source-card{
+  background: var(--color-bg-raised);
+  padding: var(--sp-3);
+  border-top: 2px solid var(--color-rule);
+}
+.source-card a{
+  font-size: var(--fs-body);
+  font-weight: 700;
+  display: block;
+  margin-bottom: var(--sp-1);
+}
+.source-card__desc{
+  font-size: var(--fs-note);
+  color: var(--color-ink-faint);
+}
+
+/* Footer */
+.footer{
+  margin-top: var(--sp-8);
   padding-top: var(--sp-3);
   border-top: 1px solid var(--color-rule);
   display: flex;
@@ -205,21 +296,12 @@ body{
   color: var(--color-ink-faint);
 }
 
-@media (prefers-reduced-motion: no-preference){
-  .entry__trigger{ transition: color 150ms ease; }
-  .entry__constellation{ transition: max-height 320ms ease; }
-  .secondary__list a{ transition: color 150ms ease, text-decoration-color 150ms ease; }
-}
-
 @media (max-width: 640px){
-  :root{ --fs-body: 1.0625rem; }
-  .page{ padding-inline: var(--sp-3); padding-block: var(--sp-4) var(--sp-6); }
-  .page > *{ grid-column: 1 / -1; }
-  .hero{ margin-top: var(--sp-6); }
-  .block + .block{ margin-top: var(--sp-6); }
+  .page{ padding-inline: var(--sp-3); }
   .masthead{ flex-direction: column; align-items: flex-start; gap: var(--sp-1); }
+  .masthead__nav{ flex-direction: column; gap: var(--sp-1); }
+  .step-item{ grid-template-columns: 1fr; gap: var(--sp-1); }
   .footer{ flex-direction: column; gap: var(--sp-1); }
-  .secondary__list{ flex-direction: column; gap: var(--sp-2); }
 }
 </style>
 </head>
@@ -228,35 +310,94 @@ body{
 <div class="page">
 
   <header class="masthead">
-    <span class="masthead__mark">Advaita Vedānta — uno studio delle fonti</span>
-    <a class="masthead__index" href="#entries-container">indice delle domande</a>
+    <span class="masthead__mark">Jivanmukta</span>
+    <nav class="masthead__nav">
+      <a href="#percorso-indice">Il Percorso Fondamentale</a>
+      <a href="/catalogo.html?tipo=testi">I Testi Tradotti</a>
+      <a href="/catalogo.html?tipo=concetti">Concetti</a>
+    </nav>
   </header>
 
-  <!-- PRIMO SCHERMO -->
+  <!-- PRESENTAZIONE PRINCIPALE -->
   <section class="hero measure">
-    <h1 class="hero__name">Advaita Vedānta</h1>
-    <p class="hero__desc">
-      Un percorso attraverso le domande fondamentali e le fonti
-      della tradizione.
+    <h1 class="hero__title">Jivanmukta</h1>
+    <p class="hero__lead">
+      Un punto di partenza e di confronto per chi ha vissuto, o crede di aver vissuto,
+      un'esperienza che mette in crisi la normale percezione di sé e della realtà,
+      alla luce della metafisica e della tradizione non-duale del Vedānta.
     </p>
   </section>
 
-  <!-- LE DOMANDE FONDAMENTALI (recuperate dinamicamente dal Content Engine) -->
-  <nav class="entries measure" aria-label="Domande fondamentali" id="entries-container"></nav>
+  <!-- I DUE INGRESSI -->
+  <div class="portals measure">
 
-  <!-- ACCESSO SECONDARIO -->
-  <section class="secondary measure">
-    <p class="secondary__label">altri percorsi</p>
-    <ul class="secondary__list">
-      <li data-home-link="work"><a href="#">Leggere i testi</a></li>
-      <li data-home-link="author"><a href="#">Esplorare gli autori</a></li>
-      <li data-home-link="concept"><a href="#">Seguire un concetto</a></li>
-    </ul>
+    <!-- INGRESSO 1: PER CHI ARRIVA DA UN'ESPERIENZA -->
+    <section class="portal-card" aria-label="Ingresso esperienziale">
+      <span class="portal-card__eyebrow">Ingresso 1</span>
+      <h2 class="portal-card__title">Ti è accaduto qualcosa che non riesci a spiegare?</h2>
+      <p class="portal-card__desc">
+        Forse hai vissuto un momento improvviso di rottura della percezione ordinaria, oppure una trasformazione interiore che ha cambiato il tuo sguardo:
+      </p>
+
+      <ul class="experience-questions">
+        <li><a href="/domande/q-esperienza-unita">Hai avuto una sensazione in cui tutto sembrava essere Uno? →</a></li>
+        <li><a href="/domande/q-esperienza-fine-io">Il senso dell'«io» è sembrato dissolversi o svanire? →</a></li>
+        <li><a href="/domande/q-esperienza-perche-finita">Perché quell'esperienza straordinaria è finita? →</a></li>
+        <li><a href="/domande/q-esperienza-ritorno-persona">Perché dopo ti ritrovi a sentirti la solita persona? →</a></li>
+      </ul>
+
+      <div class="editorial-stance-box">
+        <strong>Il nostro principio di orientamento:</strong><br>
+        Non possiamo stabilire dal solo racconto che cosa sia stata la tua esperienza personale, né intendiamo diagnosticare ciò che hai vissuto. Possiamo però mostrarti come la tradizione metafisica distingue ciò che è essenziale da ciò che è transitorio, e quali testi possono aiutarti a riflettere.
+      </div>
+
+      <div class="portal-card__cta">
+        <a class="cta-button" href="/percorso/01-che-cose-la-metafisica">Comincia dalla metafisica →</a>
+      </div>
+    </section>
+
+    <!-- INGRESSO 2: PER CHI VUOLE ANDARE DIRETTAMENTE AL NUCLEO -->
+    <section class="portal-card" aria-label="Ingresso diretto al nucleo">
+      <span class="portal-card__eyebrow">Ingresso 2</span>
+      <h2 class="portal-card__title">Vuoi comprendere il Vedānta a partire dai suoi princìpi fondamentali?</h2>
+      <p class="portal-card__desc">
+        Non proponiamo un corso accademico o nozionistico, ma un'esposizione ordinata e progressiva del nucleo metafisico in 10 tappe: dalla natura della realtà fino alla scoperta dell'identità suprema (<em>Ātman = Brahman</em>) e alla liberazione in vita (<em>jīvanmukti</em>).
+      </p>
+
+      <div class="portal-card__cta">
+        <a class="cta-button" href="/percorso/01-che-cose-la-metafisica">Inizia dal principio →</a>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- PANORAMICA DELLE 10 TAPPE -->
+  <section class="path-section measure" id="percorso-indice">
+    <h2 class="path-section__title">Il Percorso Fondamentale</h2>
+    <p class="path-section__desc">
+      Dieci questioni metafisiche concatenate. Ogni tappa espone il principio in linguaggio chiaro e accessibile, verificandolo attraverso i passi delle Upaniṣad:
+    </p>
+
+    <div class="steps-list" id="steps-container">
+      <!-- Le 10 tappe vengono popolate dinamicamente -->
+    </div>
+  </section>
+
+  <!-- LE FONTI TRADOTTE -->
+  <section class="sources-section measure">
+    <h2 class="sources-section__title">Le fonti della tradizione</h2>
+    <p class="path-section__desc">
+      Il percorso non è una teoria astratta, ma si fonda sui testi sacri del Vedānta. Le 7 Upaniṣad già tradotte e commentate sono consultabili integralmente:
+    </p>
+
+    <div class="sources-list" id="works-container">
+      <!-- Opere caricate dinamicamente -->
+    </div>
   </section>
 
   <footer class="footer measure">
-    <span>Advaita Vedānta</span>
-    <span>uno studio delle fonti</span>
+    <span>Jivanmukta</span>
+    <span>Un orientamento metafisico e tradizionale</span>
   </footer>
 
 </div>
@@ -264,105 +405,64 @@ body{
 <script src="/js/url-router.js"></script>
 <script src="/js/content-engine.js"></script>
 <script>
-(function () {
+(async function () {
   'use strict';
 
-  const container = document.getElementById('entries-container');
-  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  // 1. Carica le 10 tappe del percorso
+  const stepsContainer = document.getElementById('steps-container');
+  const corePathResult = await ContentEngine.getEntities('core_path');
 
-  function createEl(tag, opts) {
-    opts = opts || {};
-    const el = document.createElement(tag);
-    if (opts.class) el.className = opts.class;
-    if (opts.text !== undefined) el.textContent = opts.text;
-    if (opts.href !== undefined) el.href = opts.href;
-    return el;
+  if (corePathResult.status === 'ok') {
+    const steps = corePathResult.data.sort((a, b) => a.step_number - b.step_number);
+    stepsContainer.replaceChildren();
+
+    steps.forEach((step) => {
+      const item = document.createElement('div');
+      item.className = 'step-item';
+
+      const num = document.createElement('span');
+      num.className = 'step-item__num';
+      num.textContent = String(step.step_number).padStart(2, '0');
+
+      const content = document.createElement('div');
+      content.className = 'step-item__content';
+
+      const link = document.createElement('a');
+      link.href = UrlRouter.buildContentUrl('percorso', step.id);
+      link.textContent = step.title;
+
+      const lead = document.createElement('p');
+      lead.className = 'step-item__lead';
+      lead.textContent = step.lead || '';
+
+      content.append(link, lead);
+      item.append(num, content);
+      stepsContainer.appendChild(item);
+    });
   }
 
-  function questionUrl(id) {
-    return UrlRouter.buildContentUrl('domande', id);
+  // 2. Carica le opere (Upaniṣad) tradotte
+  const worksContainer = document.getElementById('works-container');
+  const worksResult = await ContentEngine.getEntities('work');
+
+  if (worksResult.status === 'ok') {
+    worksContainer.replaceChildren();
+    worksResult.data.forEach((work) => {
+      const card = document.createElement('div');
+      card.className = 'source-card';
+
+      const link = document.createElement('a');
+      link.href = UrlRouter.buildContentUrl('testi', work.id);
+      link.textContent = work.title;
+
+      const desc = document.createElement('div');
+      desc.className = 'source-card__desc';
+      desc.textContent = work.author_attribution || 'Testo upaniṣadico della tradizione vedica';
+
+      card.append(link, desc);
+      worksContainer.appendChild(card);
+    });
   }
-
-  const HOME_LINKS = {
-    work: '/catalogo.html?tipo=testi',
-    author: '/catalogo.html?tipo=autori',
-    concept: '/catalogo.html?tipo=concetti'
-  };
-
-  async function loadHomeLinks() {
-    await Promise.all(Object.entries(HOME_LINKS).map(async ([kind, url]) => {
-      const item = document.querySelector('[data-home-link="' + kind + '"]');
-      const result = await ContentEngine.getEntities(kind);
-      if (!item || result.status !== 'ok' || !result.data.length) {
-        if (item) item.hidden = true;
-        return;
-      }
-      item.querySelector('a').href = url;
-    }));
-  }
-
-  async function loadHomeQuestions() {
-    // L'homepage mostra esclusivamente le grandi domande fondamentali globali
-    // di Jivanmukta, ordinate secondo la priorità editoriale.
-    const questionsResult = await ContentEngine.getEntities('question');
-    if (questionsResult.status !== 'ok') return;
-    
-    const allQuestions = questionsResult.data;
-    const globalQuestions = allQuestions
-      .filter((q) => q.scope === 'global')
-      .sort((a, b) => (a.homepage_priority || 999) - (b.homepage_priority || 999));
-
-    container.replaceChildren();
-
-    for (const question of globalQuestions) {
-
-      const entry = createEl('div', { class: 'entry' });
-      const trigger = createEl('button', { class: 'entry__trigger', text: question.text });
-      trigger.setAttribute('aria-expanded', 'false');
-
-      const constellation = createEl('div', { class: 'entry__constellation' });
-      const inner = createEl('div', { class: 'entry__constellation__inner' });
-      inner.append(createEl('p', { class: 'entry__hint', text: 'Questioni in cui questa domanda si specifica:' }));
-
-      const list = createEl('ul', { class: 'entry__list' });
-
-      // Raccoglie le domande figlie: sia da specific_questions sia da parent_question
-      const childIds = new Set(question.specific_questions || []);
-      allQuestions.forEach((q) => {
-        if (q.parent_question === question.id) childIds.add(q.id);
-      });
-
-      for (const sqId of childIds) {
-        const sqRes = await ContentEngine.getQuestion(sqId);
-        if (sqRes.status === 'ok') {
-          const li = document.createElement('li');
-          li.append(createEl('a', { href: questionUrl(sqRes.data.id), text: sqRes.data.text }));
-          list.append(li);
-        }
-      }
-
-      // Link diretto alla domanda principale
-      const liMain = document.createElement('li');
-      liMain.style.marginTop = 'var(--sp-2)';
-      liMain.append(createEl('a', { href: questionUrl(question.id), text: 'Esplora la domanda complessiva →' }));
-      list.append(liMain);
-
-      inner.append(list);
-      constellation.append(inner);
-      entry.append(trigger, constellation);
-      container.append(entry);
-
-      trigger.addEventListener('click', () => {
-        const isOpen = trigger.getAttribute('aria-expanded') === 'true';
-        trigger.setAttribute('aria-expanded', String(!isOpen));
-        if (reduce) return;
-        constellation.style.maxHeight = !isOpen ? constellation.scrollHeight + 'px' : '0px';
-      });
-    }
-  }
-
-  Promise.all([loadHomeQuestions(), loadHomeLinks()])
-    .catch((err) => console.error('Errore nel caricamento della homepage:', err));
 }());
 </script>
 

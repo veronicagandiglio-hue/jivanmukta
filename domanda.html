@@ -576,6 +576,15 @@ body{
     <p class="problem" id="problem-text"></p>
   </section>
 
+  <!-- ORIENTAMENTO ESPERIENZIALE (per domande-aggancio) -->
+  <section class="block measure" id="section-hook-stance" hidden>
+    <div class="editorial-stance-box" style="background: var(--color-bg-raised); padding: var(--sp-4); border-left: 3px solid var(--color-accent);">
+      <p style="font-size: var(--fs-caption); text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-accent); font-weight: 700; margin-bottom: var(--sp-2);">Principio di orientamento</p>
+      <p id="hook-stance-text" style="font-size: var(--fs-body); line-height: var(--lh-body); margin-bottom: var(--sp-3);"></p>
+      <div id="hook-stance-cta"></div>
+    </div>
+  </section>
+
 
   <!-- 4. PASSAGGI + concetti collegati a margine (mostrata solo se ci sono passaggi) -->
   <section class="block unit unit--aside" id="section-passages" hidden>
@@ -892,24 +901,49 @@ body{
         }
         view.append(ctx);
 
-        // 3. SPIEGAZIONE JIVANMUKTA (se presente)
+        // 3. SPIEGAZIONE ACCESSIBILE (con note incorporate)
         if (explanations && explanations.length) {
           explanations.forEach((exp) => {
             const expBox = createEl('div', { class: 'explanation-box' });
-            expBox.append(createEl('span', { class: 'voice-label voice-label--explanation', text: 'Spiegazione Jivanmukta' }));
+            expBox.append(createEl('span', { class: 'voice-label voice-label--explanation', text: 'Spiegazione accessibile' }));
             if (exp.title) {
               expBox.append(createEl('h4', { class: 'explanation-box__title', text: exp.title }));
             }
-            (exp.sections || []).forEach((sec) => {
-              const secEl = createEl('div', { class: 'explanation-section' });
-              if (sec.heading) {
-                secEl.append(createEl('p', { class: 'explanation-section__heading', text: sec.heading }));
-              }
-              secEl.append(createEl('p', { class: 'explanation-section__text', text: sec.text }));
-              expBox.append(secEl);
-            });
+            if (typeof exp.text === 'string') {
+              expBox.append(createEl('p', { class: 'explanation-section__text', text: exp.text }));
+            } else if (Array.isArray(exp.sections)) {
+              exp.sections.forEach((sec) => {
+                const secEl = createEl('div', { class: 'explanation-section' });
+                secEl.append(createEl('p', { class: 'explanation-section__text', text: sec.text }));
+                expBox.append(secEl);
+              });
+            }
+
+            // Note incorporate fluidamente nella spiegazione accessibile
+            if (notes && notes.length) {
+              notes.forEach((note) => {
+                const noteEl = createEl('p', { class: 'explanation-section__text' });
+                noteEl.style.marginTop = 'var(--sp-2)';
+                noteEl.style.color = 'var(--color-ink-muted)';
+                const label = note.term ? ('"' + note.term + '": ') : '';
+                noteEl.textContent = 'Nota di chiarimento: ' + label + note.text;
+                expBox.append(noteEl);
+              });
+            }
+
             view.append(expBox);
           });
+        } else if (notes && notes.length) {
+          const expBox = createEl('div', { class: 'explanation-box' });
+          expBox.append(createEl('span', { class: 'voice-label voice-label--explanation', text: 'Spiegazione accessibile' }));
+          notes.forEach((note) => {
+            const noteEl = createEl('p', { class: 'explanation-section__text' });
+            noteEl.style.marginTop = 'var(--sp-1)';
+            const label = note.term ? ('"' + note.term + '": ') : '';
+            noteEl.textContent = label + note.text;
+            expBox.append(noteEl);
+          });
+          view.append(expBox);
         }
 
         // 4. COMMENTARIO TRADIZIONALE DEL PASSAGGIO (se presente)
@@ -923,23 +957,6 @@ body{
             }
             view.append(commBox);
           });
-        }
-
-        // 5. NOTE TERMINOLOGICHE
-        if (notes.length) {
-          const notesLabel = createEl('span', { class: 'voice-label', text: 'Note terminologiche' });
-          notesLabel.style.marginTop = 'var(--sp-3)';
-          view.append(notesLabel);
-          const ol = document.createElement('ol');
-          ol.className = 'notes';
-          notes.forEach((note, i) => {
-            const li = document.createElement('li');
-            li.id = 'nota-' + passage.id + '-' + (i + 1);
-            li.append(createEl('span', { class: 'notes__num', text: (i + 1) + '.' }));
-            li.append(document.createTextNode(note.text));
-            ol.append(li);
-          });
-          view.append(ol);
         }
 
         passagesContainer.append(view);
@@ -1085,6 +1102,32 @@ body{
       byId('section-introduction').hidden = false;
     } else {
       byId('section-introduction').hidden = true;
+    }
+
+    // Gestione orientamento prudente per domande-aggancio esperienziali
+    const hookStanceEl = byId('section-hook-stance');
+    if (hookStanceEl) {
+      if (question.type === 'hook' || question.editorial_stance) {
+        hookStanceEl.hidden = false;
+        byId('hook-stance-text').textContent = question.editorial_stance || 'Non possiamo stabilire dal solo racconto che cosa sia stata un\'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.';
+        const ctaHost = byId('hook-stance-cta');
+        ctaHost.replaceChildren();
+        const targetStep = question.target_core_path_id || '01-che-cose-la-metafisica';
+        const a = createEl('a', {
+          href: UrlRouter.buildContentUrl('percorso', targetStep),
+          text: 'Comincia dal Percorso Fondamentale →'
+        });
+        a.style.display = 'inline-block';
+        a.style.background = 'var(--color-accent)';
+        a.style.color = '#FAF8F5';
+        a.style.padding = 'var(--sp-2) var(--sp-4)';
+        a.style.textDecoration = 'none';
+        a.style.fontSize = 'var(--fs-note)';
+        a.style.borderRadius = '2px';
+        ctaHost.appendChild(a);
+      } else {
+        hookStanceEl.hidden = true;
+      }
     }
 
     if (question.parent_question) {

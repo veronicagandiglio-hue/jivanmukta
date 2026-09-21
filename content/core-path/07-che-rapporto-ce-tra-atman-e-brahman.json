@@ -1,0 +1,40 @@
+{
+  "id": "07-che-rapporto-ce-tra-atman-e-brahman",
+  "step": 7,
+  "step_number": 7,
+  "title": "Che rapporto c'è tra Ātman e Brahman?",
+  "lead": "Il cuore e il vertice della non-dualità: Ātman = Brahman. L'identità suprema che scardina ogni separazione.",
+  "question_text": "Che rapporto c'è tra Ātman e Brahman?",
+  "editorial_response": "Siamo arrivati al cuore assoluto di Jivanmukta e dell'intera tradizione dell'Advaita Vedānta. Questa non è una teoria fra le altre, è la chiave di volta di tutta la metafisica non-duale.\n\nLa risposta alla domanda «che rapporto c'è tra il Sé più intimo dell'uomo (Ātman) e la Realtà Suprema dell'universo (Brahman)?» è sconvolgente nella sua semplicità:\n\nĀtman è Brahman.\n\nNon si tratta di una metafora poetica, né di una promessa di «fusione» futura. La tradizione non dice che la nostra anima è una particella che un giorno salirà al cielo per unirsi a Dio. Dice qualcosa di infinitamente più radicale: la Coscienza silenziosa che in questo momento legge queste parole, e il Principio infinito che regge le galassie, sono rigorosamente la medesima e unica Realtà.\n\nPerché? Riflettiamo con la massima semplicità: se togliamo da Ātman tutto ciò che è passeggero (il corpo con la sua forma, i ricordi, i pensieri, i limiti di tempo e di spazio), che cosa rimane? Rimane pura Coscienza infinita, senza confini. E se togliamo da Brahman ogni forma parziale, che cosa abbiamo? Pura Coscienza infinita, senza confini.\n\nDue cose che non hanno confini né attributi differenti non possono essere due cose diverse. Non c'è un muro, non c'è una frontiera che possa separare l'infinito dall'infinito. La formula sanscrita più celebre delle Upaniṣad lo dice con tre parole essenziali: Tat Tvam Asi («Quello sei tu»).\n\nGuénon spiegava con estrema chiarezza che la realizzazione di questa identità non è la creazione di qualcosa di nuovo (non «diventiamo» Brahman), ma la rimozione di un'illusione ottica: è come scoprire che l'acqua contenuta in una brocca e l'acqua del mare all'esterno sono sempre state semplicemente acqua.",
+  "sources_used": [
+    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
+    "Māṇḍūkya Upaniṣad, 2 (ayam ātmā brahma - questo Sé è Brahman)",
+    "Īśā Upaniṣad, 1.16 (so'ham asmi - Io sono Quello)"
+  ],
+  "guenon_sources": [
+    {
+      "author": "rene-guenon",
+      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
+      "chapter": "Capitolo IV",
+      "status": "pending",
+      "note": "Riferimento alla dottrina dell'Identità Suprema (l'assoluta coincidenza non-duale tra Ātman e Brahman)."
+    }
+  ],
+  "upanishad_passages": [
+    "mandukya-1-2",
+    "isha-1-16"
+  ],
+  "commentary_passages": [],
+  "related_concepts": [
+    "atman",
+    "brahman",
+    "ekatva",
+    "soham"
+  ],
+  "related_questions": [
+    "q-rapporto-se-brahman",
+    "q-in-che-senso-il-conoscitore-diviene-brahman"
+  ],
+  "prev_step": "06-che-cose-brahman",
+  "next_step": "08-perche-appare-la-molteplicita"
+}
