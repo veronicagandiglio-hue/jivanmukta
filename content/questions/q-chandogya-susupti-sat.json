@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-susupti-sat",
+  "scope": "local",
+  "type": "specific",
+  "text": "Perché lo stato di sonno profondo (suṣupti) viene descritto come riassorbimento nel proprio Sé?",
+  "problem": "Nel verso 6.8.1, Uddālaka svela l'etimologia dottrinale di svapiti («egli si è ricongiunto al proprio Sé»): nel sonno profondo, cessando le agitazioni della veglia e del sogno, la mente esausta si riassorbe nel fondo puro di Sat, offrendo una testimonianza quotidiana e universale della natura non duale dell'Ātman.",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "susupti",
+    "sat",
+    "atman"
+  ],
+  "passages": [
+    "chandogya-6-8-1",
+    "chandogya-6-8-2"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

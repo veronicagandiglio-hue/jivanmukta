@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-sarvam-asmi",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato metafisico della meditazione «Io sono tutto» (sarvam asmi) che conclude l'analisi del Sāman universale?",
+  "problem": "Al termine della rassegna delle partizioni cosmiche, la meditazione trascende la molteplicità degli oggetti particolari e concentra la coscienza sull'identità con l'intero manifestato (sarvātma-bhāva), spezzando l'illusione di un ego isolato e separato.",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "sarvatmabhava",
+    "saman",
+    "upasana"
+  ],
+  "passages": [
+    "chandogya-2-21-2",
+    "chandogya-2-21-4"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

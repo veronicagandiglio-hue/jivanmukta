@@ -1,0 +1,19 @@
+{
+  "id": "q-chandogya-verita-satyakama",
+  "scope": "local",
+  "type": "specific",
+  "text": "Per quale ragione l'adesione inflessibile alla verità (satya) qualifica Satyakāma come autentico brāhmaṇa?",
+  "problem": "Di fronte all'impossibilità di attestare la propria ascendenza nobiliare, la totale trasparenza veritiera di Satyakāma dimostra la purificazione interiore dell'intelletto, attestando che la natura del brāhmaṇa risiede nella rettitudine ontologica verso il vero e non nella convenzione sociale.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "satya",
+    "acarya"
+  ],
+  "passages": [
+    "chandogya-4-4-4",
+    "chandogya-4-4-5"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

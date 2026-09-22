@@ -12,6 +12,25 @@
     ],
     "source_file": "works/aitareya-upanisad.json"
   },
+  "chandogya-upanisad": {
+    "id": "chandogya-upanisad",
+    "title": "Chāndogya Upaniṣad",
+    "short_title": "Chāndogya",
+    "language": "sanscrito",
+    "editorial_units": [
+      "chandogya-santipatha",
+      "chandogya-adhyaya-1",
+      "chandogya-adhyaya-2",
+      "chandogya-adhyaya-3",
+      "chandogya-adhyaya-4",
+      "chandogya-adhyaya-5",
+      "chandogya-adhyaya-6",
+      "chandogya-adhyaya-7",
+      "chandogya-adhyaya-8",
+      "chandogya-adhyaya-8-parte-2"
+    ],
+    "source_file": "works/chandogya-upanisad.json"
+  },
   "isha-upanishad": {
     "id": "isha-upanishad",
     "title": "Īśāvāsyopaniṣad",

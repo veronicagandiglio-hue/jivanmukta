@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-purusa-yajna",
+  "scope": "local",
+  "type": "specific",
+  "text": "In che modo l'esistenza dell'essere umano viene trasfigurata in sacrificio continuo nel Puruṣa-yajña?",
+  "problem": "Nei Khaṇḍa 16 e 17, l'Upaniṣad non intende la vita come evento biologico privo di scopo, ma la trasfigura integralmente: le età dell'uomo sono le spremiture del Soma, i bisogni fisici sono la consacrazione ascetica (dīkṣā), e le supreme virtù etiche (verità, non-violenza, generosità) ne costituiscono i doni sacerdotali.",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "purusa-yajna",
+    "upasana"
+  ],
+  "passages": [
+    "chandogya-3-16-1",
+    "chandogya-3-17-1",
+    "chandogya-3-17-4"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

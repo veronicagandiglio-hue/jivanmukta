@@ -1,4 +1,45 @@
 {
+  "acarya": [
+    "conoscenza",
+    "acaryavan-puruso-veda"
+  ],
+  "conoscenza": [
+    "acarya",
+    "acaryavan-puruso-veda",
+    "ahara-suddhi",
+    "annamaya-manas",
+    "apaddharma",
+    "ativadin",
+    "avasthatraya",
+    "brahma-rtvik",
+    "brahmasamstha",
+    "mantravid-vs-atmavid",
+    "upasana",
+    "vidya-avidya"
+  ],
+  "acaryavan-puruso-veda": [
+    "acarya",
+    "conoscenza",
+    "liberazione"
+  ],
+  "liberazione": [
+    "acaryavan-puruso-veda",
+    "ahara-suddhi",
+    "asariira",
+    "atimrtyu",
+    "brahmasamstha",
+    "devayana",
+    "dharmaskandha",
+    "jyotis-uttama",
+    "mantravid-vs-atmavid",
+    "nadi",
+    "sakrd-diva",
+    "satyasankalpa",
+    "setu",
+    "svarajya",
+    "uttama-purusa",
+    "vairagya"
+  ],
   "adhyatma-yoga": [
     "buddhi-intelletto",
     "atman",
@@ -10,25 +51,44 @@
   ],
   "atman": [
     "adhyatma-yoga",
+    "akasa",
+    "annamaya-manas",
+    "asariira",
     "atma-han",
     "purna",
     "isha",
     "ekatva",
     "soham",
+    "avasthatraya",
+    "bhuman",
     "brahmavid-brahmaiva-bhavati",
     "buddhi-intelletto",
+    "dahara-vidya",
     "dva-suparna",
     "hridaya-guha",
     "jivanmukti",
+    "jyotis-interiore",
     "mahavakya",
+    "mantravid-vs-atmavid",
     "prajnana",
+    "prana-samvada",
     "prana",
     "pranava",
     "purusa",
     "purusha",
+    "sandilya-vidya",
+    "sarvatmabhava",
+    "sat",
     "satya",
+    "satyasankalpa",
+    "setu",
+    "susupti",
     "svapna-e-susupti",
+    "svarajya",
+    "tat-tvam-asi",
     "turiya",
+    "uttama-purusa",
+    "vaisvanara",
     "vijnanatman"
   ],
   "jivanmukti": [
@@ -36,35 +96,68 @@
     "moksha-amritatva",
     "atman"
   ],
-  "aksara": [
+  "ahara-suddhi": [
+    "conoscenza",
+    "liberazione"
+  ],
+  "akasa": [
     "brahman",
-    "purusha",
-    "para-e-apara-vidya",
-    "vijnanatman"
+    "atman"
   ],
   "brahman": [
+    "akasa",
     "aksara",
+    "animan",
     "asvattha-albero-cosmico",
+    "bhuman",
     "brahma-vidya",
     "sakshin",
     "vidita-avidita",
     "upadhi-upasana",
     "tadvana",
+    "brahmasamstha",
     "brahmavid-brahmaiva-bhavati",
+    "dahara-vidya",
     "deva-abhimana",
+    "devayana",
+    "ekamevadvitiyam",
     "hridaya-granthi",
+    "jyotis-interiore",
+    "jyotis-uttama",
+    "ka-kham",
+    "madhuvidya",
     "mahavakya",
     "moksha-amritatva",
+    "namarupa-nirvahita",
     "om-pranava",
+    "om",
     "para-e-apara-vidya",
     "pitriyana-e-devayana",
     "prajnana",
     "pranava",
     "purusa",
     "purusha",
+    "sakrd-diva",
+    "samvarga",
+    "sandilya-vidya",
+    "sarvatmabhava",
+    "sat",
     "satyam-eva-jayate",
+    "setu",
+    "sukha",
+    "tajjalan",
+    "tat-tvam-asi",
     "turiya",
+    "uttama-purusa",
+    "vacarambhana",
+    "vaisvanara",
     "vidya-e-avidya"
+  ],
+  "aksara": [
+    "brahman",
+    "purusha",
+    "para-e-apara-vidya",
+    "vijnanatman"
   ],
   "purusha": [
     "aksara",
@@ -75,8 +168,69 @@
     "atman",
     "sodasa-kala"
   ],
+  "alpa": [
+    "bhuman"
+  ],
+  "bhuman": [
+    "alpa",
+    "brahman",
+    "atman",
+    "sukha"
+  ],
+  "animan": [
+    "sat",
+    "brahman"
+  ],
+  "sat": [
+    "animan",
+    "ekamevadvitiyam",
+    "namarupa-nirvahita",
+    "brahman",
+    "atman",
+    "vacarambhana",
+    "susupti",
+    "tat-tvam-asi",
+    "trivrtkarana"
+  ],
+  "annamaya-manas": [
+    "atman",
+    "conoscenza"
+  ],
+  "apaddharma": [
+    "conoscenza"
+  ],
+  "asariira": [
+    "atman",
+    "liberazione"
+  ],
+  "asura-vidya": [
+    "vidya-avidya"
+  ],
+  "vidya-avidya": [
+    "asura-vidya",
+    "conoscenza",
+    "vidya-avidya"
+  ],
   "asvattha-albero-cosmico": [
     "brahman"
+  ],
+  "atimrtyu": [
+    "liberazione"
+  ],
+  "ativadin": [
+    "prana",
+    "conoscenza"
+  ],
+  "prana": [
+    "ativadin",
+    "mantha",
+    "pitriyana-e-devayana",
+    "prajapati",
+    "prana-samvada",
+    "rayi",
+    "atman",
+    "sodasa-kala",
+    "samvarga"
   ],
   "atma-han": [
     "atman",
@@ -118,9 +272,40 @@
     "ekatva",
     "purna"
   ],
+  "avasthatraya": [
+    "atman",
+    "conoscenza"
+  ],
   "vidya": [
     "avidya",
     "sambhuti-asambhuti"
+  ],
+  "sukha": [
+    "bhuman",
+    "brahman"
+  ],
+  "brahma-rtvik": [
+    "upasana",
+    "conoscenza"
+  ],
+  "upasana": [
+    "brahma-rtvik",
+    "chandas",
+    "dahara-vidya",
+    "dhyana",
+    "madhuvidya",
+    "mantha",
+    "om",
+    "pranagnihotra",
+    "purusa-yajna",
+    "saman",
+    "sandilya-vidya",
+    "sarvatmabhava",
+    "savana",
+    "stobha",
+    "udgitha",
+    "conoscenza",
+    "vrata"
   ],
   "brahma-vidya": [
     "brahman",
@@ -147,15 +332,54 @@
   "tadvana": [
     "brahman"
   ],
+  "brahmasamstha": [
+    "brahman",
+    "liberazione",
+    "conoscenza",
+    "dharmaskandha"
+  ],
   "brahmavid-brahmaiva-bhavati": [
     "brahman",
     "atman",
     "purusha",
     "samnyasa-yoga"
   ],
+  "chandas": [
+    "om",
+    "upasana"
+  ],
+  "om": [
+    "chandas",
+    "brahman",
+    "upasana",
+    "udgitha"
+  ],
+  "dahara-vidya": [
+    "brahman",
+    "atman",
+    "upasana",
+    "nadi"
+  ],
+  "devayana": [
+    "liberazione",
+    "brahman",
+    "pancagni-vidya",
+    "pitryana"
+  ],
+  "dharmaskandha": [
+    "brahmasamstha",
+    "liberazione"
+  ],
+  "dhyana": [
+    "upasana"
+  ],
   "dva-suparna": [
     "atman",
     "purusha"
+  ],
+  "ekamevadvitiyam": [
+    "sat",
+    "brahman"
   ],
   "tyaga": [
     "ekatva",
@@ -180,6 +404,17 @@
     "brahman",
     "sreyas-e-preyas"
   ],
+  "jyotis-interiore": [
+    "brahman",
+    "atman"
+  ],
+  "jyotis-uttama": [
+    "brahman",
+    "liberazione"
+  ],
+  "ka-kham": [
+    "brahman"
+  ],
   "karma-e-sacrificio": [
     "para-e-apara-vidya",
     "samnyasa-yoga"
@@ -189,31 +424,59 @@
     "aksara",
     "brahman"
   ],
+  "madhuvidya": [
+    "brahman",
+    "upasana"
+  ],
   "mahavakya": [
     "brahman",
     "atman",
-    "prajnana"
+    "prajnana",
+    "tat-tvam-asi"
   ],
   "prajnana": [
     "mahavakya",
     "brahman",
     "atman"
   ],
+  "mantha": [
+    "upasana",
+    "prana"
+  ],
+  "mantravid-vs-atmavid": [
+    "conoscenza",
+    "atman",
+    "liberazione"
+  ],
+  "nadi": [
+    "liberazione",
+    "dahara-vidya"
+  ],
+  "namarupa-nirvahita": [
+    "brahman",
+    "sat"
+  ],
   "om-pranava": [
     "brahman"
+  ],
+  "pancagni-vidya": [
+    "devayana",
+    "pitryana",
+    "vairagya"
+  ],
+  "pitryana": [
+    "pancagni-vidya",
+    "devayana"
+  ],
+  "vairagya": [
+    "pancagni-vidya",
+    "liberazione"
   ],
   "pitriyana-e-devayana": [
     "prana",
     "rayi",
     "brahman",
     "satyam-eva-jayate"
-  ],
-  "prana": [
-    "pitriyana-e-devayana",
-    "prajapati",
-    "rayi",
-    "atman",
-    "sodasa-kala"
   ],
   "rayi": [
     "pitriyana-e-devayana",
@@ -224,9 +487,22 @@
     "prana",
     "rayi"
   ],
+  "prana-samvada": [
+    "prana",
+    "atman"
+  ],
   "sodasa-kala": [
     "prana",
     "purusha"
+  ],
+  "pranagnihotra": [
+    "upasana",
+    "vaisvanara"
+  ],
+  "vaisvanara": [
+    "pranagnihotra",
+    "atman",
+    "brahman"
   ],
   "pranava": [
     "brahman",
@@ -236,14 +512,50 @@
   "pratistha": [
     "brahma-vidya"
   ],
+  "purusa-yajna": [
+    "upasana"
+  ],
   "purusa": [
     "atman",
     "brahman"
+  ],
+  "sakrd-diva": [
+    "brahman",
+    "liberazione"
+  ],
+  "saman": [
+    "upasana",
+    "udgitha"
+  ],
+  "udgitha": [
+    "saman",
+    "stobha",
+    "om",
+    "upasana"
   ],
   "sambhuti-asambhuti": [
     "vidya",
     "avidya",
     "purna"
+  ],
+  "samvarga": [
+    "brahman",
+    "prana"
+  ],
+  "sandilya-vidya": [
+    "brahman",
+    "atman",
+    "upasana",
+    "tajjalan"
+  ],
+  "sarvatmabhava": [
+    "atman",
+    "brahman",
+    "upasana"
+  ],
+  "vacarambhana": [
+    "sat",
+    "brahman"
   ],
   "satya": [
     "atman",
@@ -253,6 +565,18 @@
     "brahman",
     "pitriyana-e-devayana"
   ],
+  "satyasankalpa": [
+    "atman",
+    "liberazione"
+  ],
+  "savana": [
+    "upasana"
+  ],
+  "setu": [
+    "atman",
+    "brahman",
+    "liberazione"
+  ],
   "sreyas-e-preyas": [
     "vidya-e-avidya",
     "moksha-amritatva"
@@ -260,6 +584,14 @@
   "vidya-e-avidya": [
     "sreyas-e-preyas",
     "brahman"
+  ],
+  "stobha": [
+    "upasana",
+    "udgitha"
+  ],
+  "susupti": [
+    "sat",
+    "atman"
   ],
   "svapna-e-susupti": [
     "atman",
@@ -270,9 +602,34 @@
     "atman",
     "aksara"
   ],
+  "svarajya": [
+    "atman",
+    "liberazione"
+  ],
+  "tajjalan": [
+    "brahman",
+    "sandilya-vidya"
+  ],
+  "tat-tvam-asi": [
+    "sat",
+    "atman",
+    "brahman",
+    "mahavakya"
+  ],
+  "trivrtkarana": [
+    "sat"
+  ],
   "turiya": [
     "brahman",
     "atman",
     "pranava"
+  ],
+  "uttama-purusa": [
+    "atman",
+    "brahman",
+    "liberazione"
+  ],
+  "vrata": [
+    "upasana"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-scala-sanatkumara",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il metodo pedagogico della scala ascendente dei quindici principi insegnata da Sanatkumāra?",
+  "problem": "Sanatkumāra guida la mente di Nārada attraverso una graduale gerarchia ascendente (dal Nome alla Parola, alla Mente, fino allo Spazio, alla Memoria e al Prāṇa): ciascun grado viene rivelato superiore al precedente e propedeutico a esso, distogliendo l'intelletto dalla fissazione sul grossolano per condurlo verso la radice ultima dell'essere.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "upasana",
+    "conoscenza",
+    "prana"
+  ],
+  "passages": [
+    "chandogya-7-1-4",
+    "chandogya-7-15-1"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

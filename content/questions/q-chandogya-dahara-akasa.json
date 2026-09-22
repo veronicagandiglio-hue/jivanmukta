@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-dahara-akasa",
+  "scope": "local",
+  "type": "specific",
+  "text": "In che modo lo spazio sottile racchiuso nel loto del cuore (Dahara-ākāśa) coincide con l'immensità di Brahman?",
+  "problem": "Il testo introduce lo spazio cardiaco sgombrando il campo dall'equivoco di una limitazione fisica: la cavità del cuore non circoscrive l'Assoluto, ma funge da punto di convergenza contemplativo in cui si scopre che l'Ātman interiore è vasto quanto l'intero cosmo e racchiude in sé cielo, terra e tutti gli elementi.",
+  "parent_question": "q-che-cose-brahman",
+  "concepts": [
+    "dahara-vidya",
+    "brahman",
+    "atman"
+  ],
+  "passages": [
+    "chandogya-8-1-1",
+    "chandogya-8-1-3"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

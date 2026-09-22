@@ -1,0 +1,22 @@
+{
+  "id": "q-chandogya-fruizione-contemplativa-deva",
+  "scope": "local",
+  "type": "specific",
+  "text": "In che senso gli dèi «non mangiano né bevono», ma si appagano della pura visione del nettare?",
+  "problem": "Il testo distingue la nutrizione corporea grossolana dalla fruizione spirituale degli dèi, indicando che la soddisfazione più alta nel manifestato scaturisce dalla contemplazione visiva e intuitiva (darśana) dell'armonia divina.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "madhuvidya",
+    "upasana"
+  ],
+  "passages": [
+    "chandogya-3-6-1",
+    "chandogya-3-7-1",
+    "chandogya-3-8-1",
+    "chandogya-3-9-1",
+    "chandogya-3-10-1"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

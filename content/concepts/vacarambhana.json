@@ -1,0 +1,17 @@
+{
+  "id": "vacarambhana",
+  "name": "Vācārambhaṇa (Modificazione nominale)",
+  "transliteration": "vācārambhaṇa",
+  "gloss": "Il principio metafisico ed epistemologico formulato da Uddālaka (Chāndogya 6.1.4): ogni effetto o modificazione empirica è un semplice artificio verbale e convenzionale originato dal linguaggio, mentre la causa sostanziale sola è reale (mṛttikety eva satyam).",
+  "passages": [
+    "chandogya-6-1-4",
+    "chandogya-6-1-5",
+    "chandogya-6-1-6",
+    "chandogya-6-4-1"
+  ],
+  "related_concepts": [
+    "sat",
+    "brahman"
+  ],
+  "authors": []
+}

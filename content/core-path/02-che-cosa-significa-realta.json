@@ -33,5 +33,11 @@
     "q-che-cose-il-mondo"
   ],
   "prev_step": "01-che-cose-la-metafisica",
-  "next_step": "03-che-cose-l-assoluto"
+  "next_step": "03-che-cose-l-assoluto",
+  "curated_passages": [
+    {
+      "passage_id": "chandogya-6-1-4",
+      "why": "Formula il principio metafisico essenziale del Vācārambhaṇa: la distinzione tra la realtà ontologica immutabile della sostanza (l'argilla) e la transitorietà puramente nominale delle forme modificate (i vasi)."
+    }
+  ]
 }

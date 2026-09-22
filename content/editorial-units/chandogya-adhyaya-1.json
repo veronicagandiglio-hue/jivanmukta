@@ -1,0 +1,710 @@
+{
+  "id": "chandogya-adhyaya-1",
+  "work_id": "chandogya-upanisad",
+  "unit_locus": "1",
+  "unit_title": "Primo Adhyāya",
+  "sections": [
+    {
+      "section_locus": "1.1",
+      "section_title": "La meditazione sull'Udgītha come sillaba Oṃ ed essenza delle essenze",
+      "passages": [
+        {
+          "id": "chandogya-1-1-1",
+          "original": "ओमित्येतदक्षरमुद्गीथमुपासीत । ओमिति ह्युद्गायति तस्योपव्याख्यानम् ॥ १.१.१ ॥",
+          "translation": "Si mediti sulla sillaba Oṃ come Udgītha. Con Oṃ, infatti, si intona il canto. Segue la sua spiegazione.",
+          "source": "Chāndogya Upaniṣad, I.1.1"
+        },
+        {
+          "id": "chandogya-1-1-2",
+          "original": "एषां भूतानां पृथिवी रसः पृथिव्या अपो रसः । अपामोषधयो रस ओषधीनां पुरुषो रसः पुरुषस्य वाग्रसो वाच ऋग्रस ऋचः साम रसः साम्न उद्गीथो रसः ॥ १.१.२ ॥",
+          "translation": "Di tutti questi esseri la terra è l'essenza [rasa]; della terra l'essenza sono le acque; delle acque l'essenza sono le piante; delle piante l'essenza è l'essere umano [puruṣa]; dell'essere umano l'essenza è la parola; della parola l'essenza è il Ṛc; del Ṛc l'essenza è il Sāman; del Sāman l'essenza è l'Udgītha.",
+          "source": "Chāndogya Upaniṣad, I.1.2"
+        },
+        {
+          "id": "chandogya-1-1-3",
+          "original": "स एष रसानाꣳरसतमः परमः परार्ध्योऽष्टमो यदुद्गीथः ॥ १.१.३ ॥",
+          "translation": "Questo Udgītha è la quintessenza di tutte le essenze, il principio supremo, degno del grado più alto: esso è l'ottavo grado.",
+          "source": "Chāndogya Upaniṣad, I.1.3"
+        },
+        {
+          "id": "chandogya-1-1-4",
+          "original": "कतमा कतमर्क्कतमत्कतमत्साम कतमः कतम उद्गीथ इति विमृष्टं भवति ॥ १.१.४ ॥",
+          "translation": "Ci si chiede allora: «Che cos'è il Ṛc? Che cos'è il Sāman? Che cos'è l'Udgītha?». Così si avvia l'indagine.",
+          "source": "Chāndogya Upaniṣad, I.1.4"
+        },
+        {
+          "id": "chandogya-1-1-5",
+          "original": "वागेवर्क्प्राणः सामोमित्येतदक्षरमुद्गीथः । तद्वा एतन्मिथुनं यद्वाक्च प्राणश्चर्क्च साम च ॥ १.१.५ ॥",
+          "translation": "La parola è il Ṛc, il respiro vitale [prāṇa] è il Sāman, e la sillaba imperituro Oṃ è l'Udgītha. Questa è invero una coppia feconda: la parola e il respiro vitale, il Ṛc e il Sāman.",
+          "source": "Chāndogya Upaniṣad, I.1.5"
+        },
+        {
+          "id": "chandogya-1-1-6",
+          "original": "तदेतन्मिथुनमोमित्येतस्मिन्नक्षरे सꣳसृज्यते यदा वै मिथुनौ समागच्छत आपयतो वै तावन्योन्यस्य कामम् ॥ १.१.६ ॥",
+          "translation": "Questa coppia si congiunge nella sillaba Oṃ. Quando una coppia si unisce intimamente, ciascuno compie il desiderio dell'altro.",
+          "source": "Chāndogya Upaniṣad, I.1.6"
+        },
+        {
+          "id": "chandogya-1-1-7",
+          "original": "आपयिता ह वै कामानां भवति य एतदेवं विद्वानक्षरमुद्गीथमुपास्ते ॥ १.१.७ ॥",
+          "translation": "Diviene colui che esaudisce e colma i desideri chi, conoscendo questa realtà, medita sulla sillaba imperitura come Udgītha.",
+          "source": "Chāndogya Upaniṣad, I.1.7"
+        },
+        {
+          "id": "chandogya-1-1-8",
+          "original": "तद्वा एतदनुज्ञाक्षरं यद्धि किंचानुजानात्योमित्येव तदाहैषो एव समृद्धिर्यदनुज्ञा समर्धयिता ह वै कामानां भवति य एतदेवं विद्वानक्षरमुद्गीथमुपास्ते ॥ १.१.८ ॥",
+          "translation": "Questa è la sillaba dell'assenso: ogni volta che si acconsente a qualcosa, si pronuncia «Oṃ». L'assenso è pienezza e prosperità. Diviene dispensatore di pienezza nei desideri colui che, conoscendo questa realtà, medita sulla sillaba imperitura come Udgītha.",
+          "source": "Chāndogya Upaniṣad, I.1.8"
+        },
+        {
+          "id": "chandogya-1-1-9",
+          "original": "तेनेयं त्रयीविद्या वर्तते ओमित्याश्रावयत्योमिति शꣳसत्योमित्युद्गायत्येतस्यैवाक्षरस्यापचित्यै महिम्ना रसेन ॥ १.१.९ ॥",
+          "translation": "Mediante questa sillaba si compie la triplice sapienza vedica: con Oṃ si dà il segnale, con Oṃ si recita la lode, con Oṃ si intona il canto, in venerazione di questa stessa sillaba, per la sua maestà e per la sua essenza vitale.",
+          "source": "Chāndogya Upaniṣad, I.1.9"
+        },
+        {
+          "id": "chandogya-1-1-10",
+          "original": "तेनोभौ कुरुतो यश्चैतदेवं वेद यश्च न वेद । नाना तु विद्या चाविद्या च यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवतीति खल्वेतस्यैवाक्षरस्योपव्याख्यानं भवति ॥ १.१.१० ॥",
+          "translation": "Con essa agiscono entrambi: colui che possiede questa conoscenza e colui che non la possiede. Ma differenti sono la conoscenza e l'ignoranza: soltanto ciò che si compie con la retta conoscenza [vidyā], con fede [śraddhā] e con meditazione interiore [upaniṣad] diviene sommamente efficace. Questa è la spiegazione di questa sillaba.",
+          "source": "Chāndogya Upaniṣad, I.1.10"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.2",
+      "section_title": "La contesa tra Deva e Asura e la purezza immacolata del Prāṇa",
+      "passages": [
+        {
+          "id": "chandogya-1-2-1",
+          "original": "देवासुरा ह वै यत्र संयेतिरे उभये प्राजापत्यास्तद्ध देवा उद्गीथमाजह्रुरनेनैनानभिभविष्याम इति ॥ १.२.१ ॥",
+          "translation": "Quando gli dèi [Deva] e i dèmoni [Asura], entrambi stirpe di Prajāpati, entrarono in contesa tra loro, gli dèi presero a supporto l'Udgītha pensando: «Con questo sconfiggeremo i nostri avversari».",
+          "source": "Chāndogya Upaniṣad, I.2.1"
+        },
+        {
+          "id": "chandogya-1-2-2",
+          "original": "ते ह नासिक्यं प्राणमुद्गीथमुपासांचक्रिरे तꣳ हासुराः पाप्मना विविधुस्तस्मात्तेनोभयं जिघ्रति सुरभि च दुर्गन्धि च पाप्मना ह्येष विद्धः ॥ १.२.२ ॥",
+          "translation": "Essi meditarono sull'olfatto [il respiro che risiede nelle narici] come Udgītha. Ma gli Asura lo trafissero con il male; per questo motivo con esso si percepisce sia ciò che è profumato sia ciò che è maleodorante, poiché esso è stato contaminato dal male.",
+          "source": "Chāndogya Upaniṣad, I.2.2"
+        },
+        {
+          "id": "chandogya-1-2-3",
+          "original": "अथ ह वाचमुद्गीथमुपासांचक्रिरे ताꣳ हासुराः पाप्मना विविधुस्तस्मात्तयोभयं वदति सत्यं चानृतं च पाप्मना ह्येषा विद्धा ॥ १.२.३ ॥",
+          "translation": "Meditarono poi sulla parola come Udgītha. Ma gli Asura la trafissero con il male; per questo motivo con essa si proferisce sia la verità sia la menzogna, poiché essa è stata contaminata dal male.",
+          "source": "Chāndogya Upaniṣad, I.2.3"
+        },
+        {
+          "id": "chandogya-1-2-4",
+          "original": "अथ ह चक्षुरुद्गीथमुपासांचक्रिरे तद्धासुराः पाप्मना विविधुस्तस्मात्तेनोभयं पश्यति दर्शनीयं चादर्शनीयं च पाप्मना ह्येतद्विद्धम् ॥ १.२.४ ॥",
+          "translation": "Meditarono poi sulla vista come Udgītha. Ma gli Asura la trafissero con il male; per questo motivo con essa si vede sia ciò che è armonioso sia ciò che è deforme, poiché essa è stata contaminata dal male.",
+          "source": "Chāndogya Upaniṣad, I.2.4"
+        },
+        {
+          "id": "chandogya-1-2-5",
+          "original": "अथ ह श्रोत्रमुद्गीथमुपासांचक्रिरे तद्धासुराः पाप्मना विविधुस्तस्मात्तेनोभयꣳ श‍ृणोति श्रवणीयं चाश्रवणीयं च पाप्मना ह्येतद्विद्धम् ॥ १.२.५ ॥",
+          "translation": "Meditarono poi sull'udito come Udgītha. Ma gli Asura lo trafissero con il male; per questo motivo con esso si ascolta sia ciò che è gradito sia ciò che è sgradevole, poiché esso è stato contaminato dal male.",
+          "source": "Chāndogya Upaniṣad, I.2.5"
+        },
+        {
+          "id": "chandogya-1-2-6",
+          "original": "अथ ह मन उद्गीथमुपासांचक्रिरे तद्धासुराः पाप्मना विविधुस्तस्मात्तेनोभयꣳसंकल्पते संकल्पनीयंच चासंकल्पनीयं च पाप्मना ह्येतद्विद्धम् ॥ १.२.६ ॥",
+          "translation": "Meditarono poi sulla mente [manas] come Udgītha. Ma gli Asura la trafissero con il male; per questo motivo con essa si concepiscono sia intenzioni rette sia intenzioni corrotte, poiché essa è stata contaminata dal male.",
+          "source": "Chāndogya Upaniṣad, I.2.6"
+        },
+        {
+          "id": "chandogya-1-2-7",
+          "original": "अथ ह य एवायं मुख्यः प्राणस्तमुद्गीथमुपासांचक्रिरे तꣳहासुरा ऋत्वा विदध्वंसुर्यथाश्मानमाखणमृत्वा विध्वꣳसेतैवम् ॥ १.२.७ ॥",
+          "translation": "Meditarono infine sul soffio vitale principale [mukhya prāṇa] come Udgītha. Ma gli Asura, scagliandosi contro di esso, si infransero, proprio come una zolla di terra si frantuma scontrandosi contro una roccia compatta.",
+          "source": "Chāndogya Upaniṣad, I.2.7"
+        },
+        {
+          "id": "chandogya-1-2-8",
+          "original": "यथाश्मानमाखणमृत्वा विध्वꣳसत एवꣳ हैव स विध्वꣳसते य एवंविदि पापं कामyते यश्चैनमभिदासति स एषोऽश्माखणः ॥ १.२.८ ॥",
+          "translation": "Così come si frantuma chi si scaglia contro una roccia compatta, allo stesso modo viene annientato chiunque desideri il male per colui che possiede tale conoscenza o chi tenti di nuocergli: poiché costui è simile a una roccia impenetrabile.",
+          "source": "Chāndogya Upaniṣad, I.2.8"
+        },
+        {
+          "id": "chandogya-1-2-9",
+          "original": "नैवैतेन सुरभि न दुर्गन्धि विजानात्यपहतपाप्मा ह्येष तेन यदश्नाति यत्पिबति तेनेतरान्प्राणानवति एतमु एवान्ततोऽवित्त्वोत्क्रमति व्याददात्येवान्तत इति ॥ १.२.९ ॥",
+          "translation": "Con questo soffio principale non si percepisce né buon odore né cattivo odore, poiché esso è immune dal male. Mediante ciò che riceve come cibo e come bevanda, esso sostiene tutte le altre facoltà. E alla fine della vita, quando non riceve più sostentamento, esso si ritira e si diparte, lasciando la bocca spalancata.",
+          "source": "Chāndogya Upaniṣad, I.2.9"
+        },
+        {
+          "id": "chandogya-1-2-10",
+          "original": "तꣳ हाङ्गिरा उद्गीथमुपासांचक्र एतमु एवाङ्गिरसं मन्यन्तेऽङ्गानां यद्रसः ॥ १.२.१० ॥",
+          "translation": "Il saggio Aṅgiras meditò su questo soffio come Udgītha: perciò lo si ritiene essere Aṅgiras, in quanto è l'essenza vitale [rasa] di tutte le membra [aṅga].",
+          "source": "Chāndogya Upaniṣad, I.2.10"
+        },
+        {
+          "id": "chandogya-1-2-11",
+          "original": "तेन तꣳ ह बृहस्पतिरुद्गीथमुपासांचक्र एतमु एव बृहस्पतिं मन्यन्ते वाग्घि बृहती तस्या एष पतिः ॥ १.२.११ ॥",
+          "translation": "Bṛhaspati meditò su di esso come Udgītha: perciò lo si ritiene essere Bṛhaspati, poiché la parola è vasta [bṛhatī] ed esso ne è il signore [pati].",
+          "source": "Chāndogya Upaniṣad, I.2.11"
+        },
+        {
+          "id": "chandogya-1-2-12",
+          "original": "तेन तꣳ हायास्य उद्गीथमुपासांचक्र एतमु एवायास्यं मन्यन्त आस्याद्यदयते ॥ १.२.१२ ॥",
+          "translation": "Ayāsya meditò su di esso come Udgītha: perciò lo si ritiene essere Ayāsya, poiché trae origine e si muove dalla bocca [āsya].",
+          "source": "Chāndogya Upaniṣad, I.2.12"
+        },
+        {
+          "id": "chandogya-1-2-13",
+          "original": "तेन तꣳह बको दाल्भ्यो विदांचकार । स ह नैमिशीयानामुद्गाता बभूव स ह स्मैभ्यः कामानागायति ॥ १.२.१३ ॥",
+          "translation": "Baka Dālbhya conobbe questo principio vitale; egli divenne il cantore [udgātṛ] per i sacrificatori della foresta di Naimiṣa, e con il proprio canto procurava loro il compimento dei desideri.",
+          "source": "Chāndogya Upaniṣad, I.2.13"
+        },
+        {
+          "id": "chandogya-1-2-14",
+          "original": "आगाता ह वै कामानां भवति य एतदेवं विद्वानक्षरमुद्गीथमुपास्त इत्यध्यात्मम् ॥ १.२.१४ ॥",
+          "translation": "Diviene capace di ottenere con il canto l'esaudimento dei desideri colui che, conoscendo questa verità, medita sulla sillaba imperitura come Udgītha. Questo è l'insegnamento relativo al microcosmo [adhyātma].",
+          "source": "Chāndogya Upaniṣad, I.2.14"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.3",
+      "section_title": "L'Udgītha nel sole, nel respiro e l'analisi delle sue sillabe",
+      "passages": [
+        {
+          "id": "chandogya-1-3-1",
+          "original": "अथाधिदैवतं य एवासौ तपति तमुद्गीथमुपासीतोद्यन्वा एष प्रजाभ्य उद्गायति । उद्यꣳस्तमो भयमपहन्त्यपहन्ता ह वै भयस्य तमसो भवति य एवं वेद ॥ १.३.१ ॥",
+          "translation": "Ora l'insegnamento relativo alle potenze cosmiche [adhidaivata]: si mediti su colui che lassù risplende [il Sole] come Udgītha. Sorgendo, infatti, esso intona il canto per tutte le creature; sorgendo, dissipa le tenebre e la paura. Dissipatore della paura e delle tenebre diviene chi possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, I.3.1"
+        },
+        {
+          "id": "chandogya-1-3-2",
+          "original": "समान उ एवायं चासौ चोष्णोऽयमुष्णोऽसौ स्वर इतीममाचक्षते स्वर इति प्रत्यास्वर इत्यमुं तस्माद्वा एतमिमममुं चोद्गीथमुपासीत ॥ १.३.२ ॥",
+          "translation": "Questo soffio nel corpo e quel sole nel cielo sono simili: caldo è l'uno, caldo è l'altro; questo è detto moto continuo [svara], quello è detto moto che ritorna [pratyāsvara]. Perciò si mediti sull'uno e sull'altro come Udgītha.",
+          "source": "Chāndogya Upaniṣad, I.3.2"
+        },
+        {
+          "id": "chandogya-1-3-3",
+          "original": "अथ खलु व्यानमेवोद्गीथमुपासीत यद्वै प्राणिति स प्राणो यदपानिति सोऽपानः । अथ यः प्राणापानयोः संधिः स व्यानो यो व्यानः सा वाक् । तस्मादप्राणन्ननपानन्वाचमभिव्याहरति ॥ १.३.३ ॥",
+          "translation": "Si mediti poi sul soffio diffuso [vyāna] come Udgītha. Ciò per cui si espira è il prāṇa; ciò per cui si inspira è l'apāna. Il punto di congiunzione tra prāṇa e apāna è il vyāna; e ciò che è il vyāna è la parola. Perciò si proferisce la parola senza espirare e senza inspirare.",
+          "source": "Chāndogya Upaniṣad, I.3.3"
+        },
+        {
+          "id": "chandogya-1-3-4",
+          "original": "या वाक्सर्क्तस्मादप्राणन्ननपानन्नृचमभिव्याहरति यर्क्तत्साम तस्मादप्राणन्ननपानन्साम गायति यत्साम स उद्गीथस्तस्मादप्राणन्ननपानन्नुद्गायति ॥ १.३.४ ॥",
+          "translation": "Ciò che è la parola è il Ṛc: per questo si pronuncia il Ṛc senza espirare e senza inspirare; ciò che è il Ṛc è il Sāman: per questo si canta il Sāman senza espirare e senza inspirare; ciò che è il Sāman è l'Udgītha: per questo si intona l'Udgītha senza espirare e senza inspirare.",
+          "source": "Chāndogya Upaniṣad, I.3.4"
+        },
+        {
+          "id": "chandogya-1-3-5",
+          "original": "अतो यान्यन्यानि वीर्यवन्ति कर्माणि यथाग्नेर्मन्थनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानꣳस्तानि करोत्येतस्य हेतोर्व्यानमेवोद्गीथमुपासीत ॥ १.३.५ ॥",
+          "translation": "Anche le altre azioni che richiedono particolare concentrazione di forza, come accendere il fuoco per attrito, correre verso una meta o tendere un arco saldo, si compiono senza espirare e senza inspirare. Per questo motivo si mediti sul vyāna come Udgītha.",
+          "source": "Chāndogya Upaniṣad, I.3.5"
+        },
+        {
+          "id": "chandogya-1-3-6",
+          "original": "अथ खलूद्गीथाक्षराण्युपासीतोद्गीथ इति प्राण एवोत्प्राणेन ह्युत्तिष्ठति वाग्गीर्वाचो ह गिर इत्याचक्षतेऽन्नं थमन्ने हीदꣳसर्वꣳस्थितम् ॥ १.३.६ ॥",
+          "translation": "Si mediti poi sulle sillabe della parola 'Udgītha': 'ut', 'gī', 'tha'. Il respiro vitale è 'ut', poiché mediante il respiro ci si solleva [uttiṣṭhati]; la parola è 'gī', poiché le emissioni vocali sono dette canti [giraḥ]; il nutrimento è 'tha', poiché nel nutrimento tutto questo mondo si trova stabilito [sthitam].",
+          "source": "Chāndogya Upaniṣad, I.3.6"
+        },
+        {
+          "id": "chandogya-1-3-7",
+          "original": "द्यौरेवोदन्तरिक्षं गीः पृथिवी थमादित्य एवोद्वायुर्गीरग्निस्थꣳ सामवेद एवोद्यजुर्वेदो गीरृग्वेदस्थं दुग्धेऽस्मै वाग्दोहं यो वाचो दोहोऽन्नवानन्नादो भवति य एतान्येवं विद्वानुद्गीथाक्षराण्युपास्त उद्गीथ इति ॥ १.३.७ ॥",
+          "translation": "Il cielo è 'ut', lo spazio intermedio è 'gī', la terra è 'tha'. Il sole è 'ut', il vento è 'gī', il fuoco è 'tha'. Il Sāmaveda è 'ut', lo Yajurveda è 'gī', il Ṛgveda è 'tha'. La parola effonde il proprio latte a beneficio di colui che medita conoscendo così le sillabe dell'Udgītha; costui diviene ricco di nutrimento e capace di assimilarlo.",
+          "source": "Chāndogya Upaniṣad, I.3.7"
+        },
+        {
+          "id": "chandogya-1-3-8",
+          "original": "अथ खल्वाशीःसमृद्धिरुपसरणानीत्युपासीत येन साम्ना स्तोष्यन्स्यात्तत्सामोपधावेत् ॥ १.३.८ ॥",
+          "translation": "Ecco ora le condizioni che assicurano l'efficacia del voto. Si rifletta con attenzione sul canto [Sāman] mediante il quale si intende lodare.",
+          "source": "Chāndogya Upaniṣad, I.3.8"
+        },
+        {
+          "id": "chandogya-1-3-9",
+          "original": "यस्यामृचि तामृचं यदार्षेयं तमृषिं यां देवतामभिष्टोष्यन्स्यात्तां देवतामुपधावेत् ॥ १.३.९ ॥",
+          "translation": "Si rifletta sul versetto [Ṛc] in cui il canto è incorporato, sul veggente [ṛṣi] che ne ebbe l'intuizione e sulla divinità che si intende invocare.",
+          "source": "Chāndogya Upaniṣad, I.3.9"
+        },
+        {
+          "id": "chandogya-1-3-10",
+          "original": "येन च्छन्दसा स्तोष्यन्स्यात्तच्छन्द उपधावेद्येन स्तोमेन स्तोष्यमाणः स्यात्तꣳस्तोममुपधावेत् ॥ १.३.१० ॥",
+          "translation": "Si rifletta sul metro poetico con cui si compie la lode, e sulla forma metrica [stoma] che viene intonata.",
+          "source": "Chāndogya Upaniṣad, I.3.10"
+        },
+        {
+          "id": "chandogya-1-3-11",
+          "original": "यां दिशमभिष्टोष्यन्स्यात्तां दिशमुपधावेत् ॥ १.३.११ ॥",
+          "translation": "Si rifletta sulla direzione dello spazio verso cui si è rivolti nel pronunciare la lode.",
+          "source": "Chāndogya Upaniṣad, I.3.11"
+        },
+        {
+          "id": "chandogya-1-3-12",
+          "original": "आत्मानमन्तत उपसृत्य स्तुवीत कामं ध्यायन्नप्रमत्तोऽभ्याशो ह यदस्मै स कामः समृध्येत यत्कामः स्तुवीतेति यत्कामः स्तुवीतेति ॥ १.३.१२ ॥",
+          "translation": "Infine, raccogliendosi nel proprio Sé interiore [ātman], si intoni la lode meditando con intenzione lucida e costante: è certo che l'intenzione per la quale si compie la lode troverà pieno compimento, troverà pieno compimento.",
+          "source": "Chāndogya Upaniṣad, I.3.12"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.4",
+      "section_title": "La liberazione dalla morte mediante l'ingresso nella sillaba Oṃ",
+      "passages": [
+        {
+          "id": "chandogya-1-4-1",
+          "original": "ओमित्येतदक्षरमुद्गीथमुपासीतोमिति ह्युद्गायति तस्योपव्याख्यानम् ॥ १.४.१ ॥",
+          "translation": "Si mediti sulla sillaba Oṃ come Udgītha. Con Oṃ, infatti, si intona il canto. Segue la sua spiegazione.",
+          "source": "Chāndogya Upaniṣad, I.4.1"
+        },
+        {
+          "id": "chandogya-1-4-2",
+          "original": "देवा वै मृत्योर्बिभ्यतस्त्रयीं विद्यां प्राविशꣳस्ते छन्दोभिरच्छादयन्यदेभिरच्छादयꣳस्तच्छन्दसां छन्दस्त्वम् ॥ १.४.२ ॥",
+          "translation": "Gli dèi, temendo la morte, entrarono nella triplice sapienza vedica. Essi si coprirono con i metri sacri [chandas]; e poiché con essi si coprirono, i metri sono detti chandas.",
+          "source": "Chāndogya Upaniṣad, I.4.2"
+        },
+        {
+          "id": "chandogya-1-4-3",
+          "original": "तानु तत्र मृत्युर्यथा मत्स्यमुदके परिपश्येदेवं पर्यपश्यदृचि साम्नि यजुषि । ते नु विदित्वोर्ध्वा ऋचः साम्नो यजुषः स्वरमेव प्राविशन् ॥ १.४.३ ॥",
+          "translation": "La morte li scorse là, nel Ṛc, nel Sāman e nello Yajus, proprio come si scorge un pesce nell'acqua trasparente. Essi allora, resisi conto di ciò, si elevarono al di sopra del Ṛc, del Sāman e dello Yajus ed entrarono unicamente nel suono imperituro [svara].",
+          "source": "Chāndogya Upaniṣad, I.4.3"
+        },
+        {
+          "id": "chandogya-1-4-4",
+          "original": "यदा वा ऋचमाप्नोत्योमित्येवातिस्वरत्येवꣳसामैवं यजुरेष उ स्वरो यदेतदक्षरमेतदमृतमभयं तत्प्रविश्य देवा अमृता अभया अभवन् ॥ १.४.४ ॥",
+          "translation": "Quando si recita il Ṛc, si pronuncia Oṃ ad alta voce; lo stesso per il Sāman e per lo Yajus. Questo suono è invero questa sillaba imperitura [akṣara]: essa è immortale e priva di paura. Entrando in essa, gli dèi divennero immortali e privi di paura.",
+          "source": "Chāndogya Upaniṣad, I.4.4"
+        },
+        {
+          "id": "chandogya-1-4-5",
+          "original": "स य एतदेवं विद्वानक्षरं प्रणौत्येतदेवाक्षरꣳ स्वरममृतमभयं प्रविशति तत्प्रविश्य यदमृता देवास्तदमृतो भवति ॥ १.४.५ ॥",
+          "translation": "Colui che, conoscendo questa realtà, loda questa sillaba, entra in questa medesima sillaba sonora imperitura, immortale e priva di paura; ed essendovi entrato, diviene immortale così come divennero immortali gli dèi.",
+          "source": "Chāndogya Upaniṣad, I.4.5"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.5",
+      "section_title": "L'identità tra Udgītha e Praṇava nel sole e nel soffio vitale",
+      "passages": [
+        {
+          "id": "chandogya-1-5-1",
+          "original": "अथ खलु य उद्गीथः स प्रणवो यः प्रणवः स उद्गीथ इत्यसौ वा आदित्य उद्गीथ एष प्रणव ओमिति ह्येष स्वरन्नेति ॥ १.५.१ ॥",
+          "translation": "Ciò che è l'Udgītha è il Praṇava [Oṃ], e ciò che è il Praṇava è l'Udgītha. Lassù quel sole è l'Udgītha ed è il Praṇava: esso infatti si muove emettendo continuamente il suono «Oṃ».",
+          "source": "Chāndogya Upaniṣad, I.5.1"
+        },
+        {
+          "id": "chandogya-1-5-2",
+          "original": "एतमु एवाहमभ्यगासिषं तस्मान्मम त्वमेकोऽसीति ह कौषीतकिः पुत्रमुवाच रश्मीꣳस्त्वं पर्यावर्तयाद्बहवो वै ते भविष्यन्तीत्यधिदैवतम् ॥ १.५.२ ॥",
+          "translation": "«Io cantai le lodi di lui soltanto [del sole indiviso]: per questo tu sei il mio unico figlio», disse Kauṣītaki a suo figlio. «Tu invece medita sui suoi raggi nella loro molteplicità, e avrai molti figli». Questo per l'ordine cosmico [adhidaivata].",
+          "source": "Chāndogya Upaniṣad, I.5.2"
+        },
+        {
+          "id": "chandogya-1-5-3",
+          "original": "अथाध्यात्मं य एवायं मुख्यः प्राणस्तमुद्गीथमुपासीतोमिति ह्येष स्वरन्नेति ॥ १.५.३ ॥",
+          "translation": "Ora l'ordine corporeo interiore [adhyātma]: si mediti sul soffio vitale principale [mukhya prāṇa] come Udgītha: esso infatti procede emettendo interiormente il suono «Oṃ».",
+          "source": "Chāndogya Upaniṣad, I.5.3"
+        },
+        {
+          "id": "chandogya-1-5-4",
+          "original": "एतमु एवाहमभ्यगासिषं तस्मान्मम त्वमेकोऽसीति ह कौषीतकिः पुत्रमुवाच प्राणाꣳस्त्वं भूमानमभिगायताद्बहवो वै मे भविष्यन्तीति ॥ १.५.४ ॥",
+          "translation": "«Io cantai le lodi di lui solo: per questo tu sei il mio unico figlio», disse Kauṣītaki a suo figlio. «Tu invece canta le lodi dei molteplici soffi vitali nella loro pienezza, e ne deriverà per me una numerosa discendenza».",
+          "source": "Chāndogya Upaniṣad, I.5.4"
+        },
+        {
+          "id": "chandogya-1-5-5",
+          "original": "अथ खलु य उद्गीथः स प्रणवो यः प्रणवः स उद्गीथ इति होतृषदनाद्धैवापि दुरुद्गीथमनुसमाहरतीत्यनुसमाहरतीति ॥ १.५.५ ॥",
+          "translation": "Poiché ciò che è l'Udgītha è il Praṇava, e ciò che è il Praṇava è l'Udgītha, il sacerdote sacrificatore [hotṛ], dalla sua postazione rituale, rimedia e corregge anche ogni errore commesso nel canto dell'Udgītha, rimedia e corregge.",
+          "source": "Chāndogya Upaniṣad, I.5.5"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.6",
+      "section_title": "Ṛc e Sāman nell'ordine cosmico e il Puruṣa aureo nel Sole",
+      "passages": [
+        {
+          "id": "chandogya-1-6-1",
+          "original": "इयमेवर्गग्निः साम तदेतदेतस्यामृच्यध्यूढ़ꣳ साम तस्मादृच्यध्यूढꣳसाम गीयत इयमेव साग्निरमस्तत्साम ॥ १.६.१ ॥",
+          "translation": "Questa terra è il Ṛc, il fuoco è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc. Questa terra è 'sā', il fuoco è 'ama': insieme formano il 'Sāman'.",
+          "source": "Chāndogya Upaniṣad, I.6.1"
+        },
+        {
+          "id": "chandogya-1-6-2",
+          "original": "अन्तरिक्षमेवर्ग्वायुः साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयतेऽन्तरिक्षमेव सा वायुरमस्तत्साम ॥ १.६.२ ॥",
+          "translation": "Lo spazio intermedio è il Ṛc, il vento è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc. Lo spazio intermedio è 'sā', il vento è 'ama': insieme formano il 'Sāman'.",
+          "source": "Chāndogya Upaniṣad, I.6.2"
+        },
+        {
+          "id": "chandogya-1-6-3",
+          "original": "द्यौरेवर्गादित्यः साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते द्यौरेव सादित्योऽमस्तत्साम ॥ १.६.३ ॥",
+          "translation": "Il cielo è il Ṛc, il sole è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc. Il cielo è 'sā', il sole è 'ama': insieme formano il 'Sāman'.",
+          "source": "Chāndogya Upaniṣad, I.6.3"
+        },
+        {
+          "id": "chandogya-1-6-4",
+          "original": "नक्षत्रान्येवर्क्चन्द्रमाः साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते नक्षत्राण्येव सा चन्द्रमा अमस्तत्साम ॥ १.६.४ ॥",
+          "translation": "Le costellazioni sono il Ṛc, la luna è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc. Le costellazioni sono 'sā', la luna è 'ama': insieme formano il 'Sāman'.",
+          "source": "Chāndogya Upaniṣad, I.6.4"
+        },
+        {
+          "id": "chandogya-1-6-5",
+          "original": "अथ यदेतदादित्यस्य शुक्लं भाः सैवर्गथ यन्नीलं परः कृष्णं तत्साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते ॥ १.६.५ ॥",
+          "translation": "La luce bianca e splendente del sole è il Ṛc; il bagliore blu cupo e scurissimo che vi è oltre è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc.",
+          "source": "Chāndogya Upaniṣad, I.6.5"
+        },
+        {
+          "id": "chandogya-1-6-6",
+          "original": "अथ यदेवैतदादित्यस्य शुक्लं भाः सैव साथ यन्नीलं परः कृष्णं तदमस्तत्सामाथ य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आप्रणस्वात्सर्व एव सुवर्णः ॥ १.६.६ ॥",
+          "translation": "La luce bianca del sole è 'sā', il bagliore blu cupo è 'ama': insieme formano il 'Sāman'. Ora, colui che è visto dentro il sole è il Puruṣa aureo: dalla barba d'oro, dai capelli d'oro, fino alla punta delle unghie è interamente d'oro sfolgorante.",
+          "source": "Chāndogya Upaniṣad, I.6.6"
+        },
+        {
+          "id": "chandogya-1-6-7",
+          "original": "तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदिति नाम स एष सर्वेभ्यः पाप्मभ्य उदित उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद ॥ १.६.७ ॥",
+          "translation": "I Suoi occhi sono simili a un loto rosso splendente al sole del mattino. Il Suo nome è 'Ud' [l'Asceso]: Egli è infatti asceso e libero al di sopra di ogni male. Al di sopra di ogni male si innalza chi possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, I.6.7"
+        },
+        {
+          "id": "chandogya-1-6-8",
+          "original": "तस्यर्क्च साम च गेष्णौ तस्मादुद्गीथस्तस्मात्त्वेवोद्गातैतस्य हि गाता स एष ये चामुष्मात्पराञ्चो लोकास्तेषां चेष्टे देवकामानां चेत्यधिदैवतम् ॥ १.६.८ ॥",
+          "translation": "Il Ṛc e il Sāman sono i Suoi due cantici di lode: perciò Egli è l'Udgītha. Ed è per questo che il cantore è detto udgātṛ, poiché canta le lodi di Lui. Egli è il Signore supremo dei mondi posti oltre il sole e di tutti i desideri degli dèi. Questo per l'ordine cosmico.",
+          "source": "Chāndogya Upaniṣad, I.6.8"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.7",
+      "section_title": "Ṛc e Sāman nell'ordine corporeo e il Puruṣa nell'occhio",
+      "passages": [
+        {
+          "id": "chandogya-1-7-1",
+          "original": "अथाध्यात्मं वागेवर्क्प्राणः साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳसाम गीयते। वागेव सा प्राणोऽमस्तत्साम ॥ १.७.१ ॥",
+          "translation": "Ora l'ordine corporeo interiore: la parola è il Ṛc, il respiro vitale è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc. La parola è 'sā', il respiro vitale è 'ama': insieme formano il 'Sāman'.",
+          "source": "Chāndogya Upaniṣad, I.7.1"
+        },
+        {
+          "id": "chandogya-1-7-2",
+          "original": "चक्षुरेवर्गात्मा साम तदेतदेतस्यामृच्यध्यूढꣳसाम तस्मादृच्यध्यूढꣳसाम गीयते । चक्षुरेव सात्मामस्तत्साम ॥ १.७.२ ॥",
+          "translation": "L'occhio è il Ṛc, il riflesso cosciente [ātman] è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc. L'occhio è 'sā', il riflesso cosciente è 'ama': insieme formano il 'Sāman'.",
+          "source": "Chāndogya Upaniṣad, I.7.2"
+        },
+        {
+          "id": "chandogya-1-7-3",
+          "original": "श्रोत्रमेवर्ङ्मनः साम तदेतदेतस्यामृच्यध्यूढꣳसाम तस्मादृच्यध्यूढꣳसाम गीयते । श्रोत्रमेव सा मनोऽमस्तत्साम ॥ १.७.३ ॥",
+          "translation": "L'orecchio è il Ṛc, la mente è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc. L'orecchio è 'sā', la mente è 'ama': insieme formano il 'Sāman'.",
+          "source": "Chāndogya Upaniṣad, I.7.3"
+        },
+        {
+          "id": "chandogya-1-7-4",
+          "original": "अथ यदेतदक्ष्णः शुक्लं भाः सैवर्गथ यन्नीलं परः कृष्णं तत्साम तदेतदेतस्यामृच्यध्यूढꣳसाम तस्मादृच्यध्यूढꣳसाम गीयते । अथ यदेवैतदक्ष्णः शुक्लं भाः सैव साथ यन्नीलं परः कृष्णं तदमस्तत्साम ॥ १.७.४ ॥",
+          "translation": "La luce bianca dell'occhio è il Ṛc; la pupilla scura e profonda è il Sāman. Questo Sāman poggia su questo Ṛc: perciò il Sāman viene cantato poggiando sul Ṛc. La luce bianca è 'sā', il nero profondo è 'ama': insieme formano il 'Sāman'.",
+          "source": "Chāndogya Upaniṣad, I.7.4"
+        },
+        {
+          "id": "chandogya-1-7-5",
+          "original": "अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क्तत्साम तदुक्थं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम ॥ १.७.५ ॥",
+          "translation": "Ora, colui che è visto dentro l'occhio è il Ṛc, è il Sāman, è l'Uktha, è lo Yajus, è Brahman. La forma di costui è la medesima forma di colui che risiede nel sole; i cantici di lode di quello sono i cantici di lode di questo; il nome di quello è il nome di questo.",
+          "source": "Chāndogya Upaniṣad, I.7.5"
+        },
+        {
+          "id": "chandogya-1-7-6",
+          "original": "स एष ये चैतस्मादर्वाञ्चो लोकास्तेषां चेष्टे मनुष्यकामानां चेति तद्य इमे वीणायां गायन्त्येतं ते गायन्ति तस्मात्ते धनसनयः ॥ १.७.६ ॥",
+          "translation": "Egli è il Signore supremo dei mondi posti al di qua di questo regno e dei desideri degli uomini. Perciò coloro che cantano accompagnandosi con la cetra [vīṇā] cantano in verità le lodi di Lui solo; ed è per questo che ottengono ricchezze.",
+          "source": "Chāndogya Upaniṣad, I.7.6"
+        },
+        {
+          "id": "chandogya-1-7-7",
+          "original": "अथ य एतदेवं विद्वान्साम गायत्युभौ स गायति सोऽमुनैव स एष चामुष्मात्पराञ्चो लोकास्ताꣳश्चाप्नोति देवकामाꣳश्च ॥ १.७.७ ॥",
+          "translation": "Colui che, possedendo questa conoscenza, canta il Sāman, canta in verità le lodi di entrambi. Mediante il Puruṣa solare ottiene quei mondi che stanno oltre il sole e i desideri degli dèi;",
+          "source": "Chāndogya Upaniṣad, I.7.7"
+        },
+        {
+          "id": "chandogya-1-7-8",
+          "original": "अथानेनैव ये चैतस्मादर्वाञ्चो लोकास्ताꣳश्चाप्नोति मनुष्यकामाꣳश्च तस्मादु हैवंविदुद्गाता ब्रूयात् ॥ १.७.8 ॥",
+          "translation": "e mediante il Puruṣa nell'occhio ottiene i mondi terreni e i desideri degli uomini. Perciò il cantore che possiede tale conoscenza dica al sacrificatore:",
+          "source": "Chāndogya Upaniṣad, I.7.8"
+        },
+        {
+          "id": "chandogya-1-7-9",
+          "original": "कं ते काममागायानीत्येष ह्येव कामागानस्येष्टे य एवं विद्वान्साम गायति साम गायति ॥ १.७.९ ॥",
+          "translation": "«Quale desiderio desideri che io ti procuri con il canto?». Poiché possiede il pieno potere di compiere ogni desiderio colui che, conoscendo questa verità, intona il Sāman, intona il Sāman.",
+          "source": "Chāndogya Upaniṣad, I.7.9"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.8",
+      "section_title": "Il dibattito tra Pravāhaṇa Jaivali, Śilaka e Dālbhya sul fondamento del Sāman",
+      "passages": [
+        {
+          "id": "chandogya-1-8-1",
+          "original": "त्रयो होद्गीथे कुशला बभूवुः शिलकः शालावत्यश्चैकितायनो दाल्भ्यः प्रवाहणो जैवलिरिति ते होचुरूद्गीथे वै कुशलाः स्मो हन्तोद्गीथे कथां वदाम इति ॥ १.८.१ ॥",
+          "translation": "Tre maestri esperti nell'Udgītha si riunirono: Śilaka Śālāvatya, Caikitāyana Dālbhya e Pravāhaṇa Jaivali. Dissero: «Siamo esperti nell'Udgītha; ebbene, teniamo una discussione sull'Udgītha».",
+          "source": "Chāndogya Upaniṣad, I.8.1"
+        },
+        {
+          "id": "chandogya-1-8-2",
+          "original": "तथेति ह समुपविविशुः स ह प्रवाहणो जैवलिरुवाच भगवन्तावग्रे वदतां ब्राह्मणयोर्वदतोर्वाचं श्रोष्यामीति ॥ १.८.२ ॥",
+          "translation": "«Così sia», dissero, e sedettero insieme. Pravāhaṇa Jaivali disse: «Parlate voi due per primi, venerabili signori; ascolterò la parola di due brāhmaṇa che discutono».",
+          "source": "Chāndogya Upaniṣad, I.8.2"
+        },
+        {
+          "id": "chandogya-1-8-3",
+          "original": "स ह शिलकः शालावत्यश्चैकितायनं दाल्भ्यमुवाच हन्त त्वा पृच्छानीति पृच्छेति होवाच ॥ १.८.३ ॥",
+          "translation": "Śilaka Śālāvatya disse a Caikitāyana Dālbhya: «Ebbene, posso interrogarti?». «Interroga pure», rispose colui.",
+          "source": "Chāndogya Upaniṣad, I.8.3"
+        },
+        {
+          "id": "chandogya-1-8-4",
+          "original": "का साम्नो गतिरिति स्वर इति होवाच स्वरस्य का गतिरिति प्राण इति होवाच प्राणस्य का गतिरित्यन्नमिति होवाचान्नस्य का गतिरित्याप इति होवाच ॥ १.८.४ ॥",
+          "translation": "«Qual è il fondamento [gati] del Sāman?». «Il suono modulato [svara]», rispose. «Qual è il fondamento del suono?». «Il respiro vitale [prāṇa]», rispose. «Qual è il fondamento del respiro?». «Il nutrimento [anna]», rispose. «Qual è il fondamento del nutrimento?». «Le acque [āpas]», rispose.",
+          "source": "Chāndogya Upaniṣad, I.8.4"
+        },
+        {
+          "id": "chandogya-1-8-5",
+          "original": "अपां का गतिरित्यसौ लोक इति होवाचामुष्य लोकस्य का गतिरिति न स्वर्गं लोकमतिनयेदिति होवाच स्वर्गं वयं लोकं सामाभिसंस्थापयामः स्वर्गसंस्तावं हि सामेति ॥ १.८.५ ॥",
+          "translation": "«Qual è il fondamento delle acque?». «Quel mondo lassù [il cielo]», rispose. «Qual è il fondamento di quel mondo?». «Non si deve spingere l'indagine oltre il mondo celeste», rispose. «Noi stabiliamo il Sāman nel mondo celeste, poiché il Sāman è celebrato come coincidente con il cielo».",
+          "source": "Chāndogya Upaniṣad, I.8.5"
+        },
+        {
+          "id": "chandogya-1-8-6",
+          "original": "तं ह शिलकः शालावत्य उवाचाप्रतिष्ठितं वै किल ते दाल्भ्य साम यस्त्वेतर्हि ब्रूयान्मूर्धा ते विपतिष्यतीति मूर्धा ते विपतेदिति ॥ १.८.६ ॥",
+          "translation": "Śilaka Śālāvatya gli disse: «Invero, o Dālbhya, il tuo Sāman è privo di saldo fondamento. Se qualcuno ora ti dicesse: \"La tua testa cadrà\", la tua testa cadrebbe di certo».",
+          "source": "Chāndogya Upaniṣad, I.8.6"
+        },
+        {
+          "id": "chandogya-1-8-7",
+          "original": "हन्ताहं तद्भगवतो वेदानीति विद्धीति होवाचामुष्य लोकस्य का गतिरित्ययं लोक इति होवाचास्य लोकस्य का गतिरिति न प्रतिष्ठां लोकमतिनयेदिति होवाच प्रतिष्ठां वयं लोकं सामाभिसंस्थापयामः प्रतिष्ठासंस्तावं हि सामेति ॥ १.८.७ ॥",
+          "translation": "«Ebbene, vorrei apprendere questo da te, venerabile signore». «Apprendilo», rispose. «Qual è il fondamento di quel mondo celeste?». «Questo mondo terreno», rispose. «Qual è il fondamento di questo mondo?». «Non si deve spingere l'indagine oltre questo mondo di supporto», rispose. «Noi stabiliamo il Sāman in questo mondo di supporto, poiché il Sāman è celebrato come supporto».",
+          "source": "Chāndogya Upaniṣad, I.8.7"
+        },
+        {
+          "id": "chandogya-1-8-8",
+          "original": "तं ह प्रवाहणो जैवलिरुवाचान्तवद्वै किल ते शालावत्य साम यस्त्वेतर्हि ब्रूयान्मूर्धा ते विपतिष्यतीति मूर्धा ते विपतेदिति हन्ताहं तद्भगवतो वेदानीति विद्धीति होवाच ॥ १.८.८ ॥",
+          "translation": "Pravāhaṇa Jaivali gli disse: «Invero, o Śālāvatya, il tuo Sāman ha una fine [è limitato]. Se qualcuno ora ti dicesse: \"La tua testa cadrà\", la tua testa cadrebbe di certo». «Ebbene, vorrei apprendere questo da te, venerabile signore». «Apprendilo», rispose colui.",
+          "source": "Chāndogya Upaniṣad, I.8.8"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.9",
+      "section_title": "L'Ākāśa come fondamento ultimo e l'Udgītha supremo",
+      "passages": [
+        {
+          "id": "chandogya-1-9-1",
+          "original": "अस्य लोकस्य का गतिरित्याकाश इति होवाच । सर्वाणि ह वा इमानि भूतान्याकाशादेव समुत्पद्यन्त आकाशं प्रत्यस्तं यन्त्याकाशो ह्येवेभ्यो ज्यायानाकाशः परायणम् ॥ १.९.१ ॥",
+          "translation": "«Qual è il fondamento di questo mondo?». «Lo Spazio [Ākāśa]», rispose. «Tutti questi esseri scaturiscono invero dallo Spazio ed è nello Spazio che fanno ritorno; lo Spazio è infatti più vasto di tutti loro, lo Spazio è il supremo rifugio».",
+          "source": "Chāndogya Upaniṣad, I.9.1"
+        },
+        {
+          "id": "chandogya-1-9-2",
+          "original": "स एष परोवरीयानुद्गीथः स एषोऽनन्तः । परोवरीयो हास्य भवति परोवरीयसो ह लोकाञ्जयति य एतदेवं विद्वान्परोवरीयाꣳसमुद्गीथमुपास्ते ॥ १.९.२ ॥",
+          "translation": "«Questo Udgītha è superiore a ciò che è superiore [parovarīyas], esso è infinito. Superiore a ciò che è superiore diviene la sorte, e vince mondi sempre più elevati chi, conoscendo questa realtà, medita sull'Udgītha come supremo».",
+          "source": "Chāndogya Upaniṣad, I.9.2"
+        },
+        {
+          "id": "chandogya-1-9-3",
+          "original": "तं हैतमतिधन्वा शौनक उदरशाण्डिल्यायोक्त्वोवाच यावत्त एनं प्रजायामुद्गीथं वेदिष्यन्ते परोवरीयो ह भ्यस्तावदस्मिंल्लोके जीवनं भविष्यति ॥ १.९.३ ॥",
+          "translation": "Avendo esposto questo insegnamento a Udara-Śāṇḍilya, Atidhanvan Śaunaka disse: «Finché tra i tuoi discendenti conosceranno questo Udgītha, la loro vita in questo mondo sarà sempre più elevata;",
+          "source": "Chāndogya Upaniṣad, I.9.3"
+        },
+        {
+          "id": "chandogya-1-9-4",
+          "original": "तथामुष्मिँल्लोके लोक इति स य एतमेवं विद्वानुपास्ते परोवरीय एव हास्यास्मिँल्लोके जीवनं भवति तथामुष्मिँल्लोके लोक इति लोके लोक इति ॥ १.९.४ ॥",
+          "translation": "e altrettanto sarà il loro stato nel mondo ultraterreno». Chi possiede questa conoscenza e medita in tal modo ottiene una vita sempre più nobile in questo mondo, e altrettanto sarà nel mondo di lassù, sì, nel mondo di lassù.",
+          "source": "Chāndogya Upaniṣad, I.9.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.10",
+      "section_title": "La vicenda di Uṣasti Cākrāyaṇa e l'ammonimento ai sacerdoti",
+      "passages": [
+        {
+          "id": "chandogya-1-10-1",
+          "original": "मटचीहतेषु कुरुष्वाटिक्या सह जायायोषस्तिर्ह चाक्रायण इभ्यग्रामे प्रद्राणक उवास ॥ १.१०.१ ॥",
+          "translation": "Quando la terra dei Kuru fu devastata dalle cavallette, Uṣasti Cākrāyaṇa, insieme alla giovane sposa, viveva in estrema miseria nel villaggio di un possessore di elefanti.",
+          "source": "Chāndogya Upaniṣad, I.10.1"
+        },
+        {
+          "id": "chandogya-1-10-2",
+          "original": "स हेभ्यं कुल्माषान्खादन्तं बिभिक्षे तं होवाच नेतोऽन्ये विद्यन्ते यच्च ये म इम उपनिहिता इति ॥ १.१०.२ ॥",
+          "translation": "Egli mendicò dei legumi cotti da questo ricco che li stava mangiando. Quegli gli disse: «Non ne ho altri se non questi che sono stati posti davanti a me [e di cui sto mangiando]».",
+          "source": "Chāndogya Upaniṣad, I.10.2"
+        },
+        {
+          "id": "chandogya-1-10-3",
+          "original": "एषां मे देहीति ह प्रदात्तस्मै होवाच हन्तानुपानमित्युच्छिष्टं वै मे पीतं स्यादिति होवाच ॥ १.१०.३ ॥",
+          "translation": "«Dammene comunque una parte», disse Uṣasti. Quegli glieli diede e gli disse: «Ecco dell'acqua da bere». Ma Uṣasti rispose: «Se bevessi da essa, berrei ciò che è residuo impuro [ucchiṣṭa]».",
+          "source": "Chāndogya Upaniṣad, I.10.3"
+        },
+        {
+          "id": "chandogya-1-10-4",
+          "original": "न स्विदेतेऽप्युच्छिष्टा इति न वा अजीविष्यमिमानखादन्न्होवाच कामो म उदपानमिति ॥ १.१०.४ ॥",
+          "translation": "«Forse che anche questi legumi non sono residui impuri?», chiese il ricco. «Se non avessi mangiato questi legumi non sarei sopravvissuto», rispose Uṣasti; «per quanto riguarda l'acqua, invece, posso trovarne a piacimento altrove».",
+          "source": "Chāndogya Upaniṣad, I.10.4"
+        },
+        {
+          "id": "chandogya-1-10-5",
+          "original": "स ह खादित्वातिशेषाञ्जायाया आजहार साग्र एव सुभिक्षा बभूव तान्प्रतिगृह्य निदधौ ॥ १.१०.५ ॥",
+          "translation": "Avendo mangiato, portò i legumi rimasti alla sposa. Ma ella aveva già ricevuto cibo in elemosina prima di allora; prese dunque i legumi e li conservò.",
+          "source": "Chāndogya Upaniṣad, I.10.5"
+        },
+        {
+          "id": "chandogya-1-10-6",
+          "original": "स ह प्रातः संजिहान उवाच यद्बतान्नस्य लभेमहि लभेमहि धनमात्राꣳ राजासौ यक्ष्यते स मा सर्वैरात्विज्यैर्वृणीतेति ॥ १.१०.६ ॥",
+          "translation": "La mattina seguente, svegliandosi, Uṣasti disse: «Ahimè, se solo potessimo trovare un po' di cibo, potremmo ottenere del sostentamento! Quel re laggiù sta per celebrare un sacrificio; certamente mi sceglierebbe per tutte le funzioni sacerdotali».",
+          "source": "Chāndogya Upaniṣad, I.10.6"
+        },
+        {
+          "id": "chandogya-1-10-7",
+          "original": "तं जायोवाच हन्त पत इम एव कुल्माषा इति तान्खादित्वामुं यज्ञं विततं प्रतस्थे ॥ १.१०.७ ॥",
+          "translation": "La moglie gli disse: «Mio signore, ecco qui quegli stessi legumi». Egli, mangiatili, si mise in cammino verso quel rito sacrificale che era stato allestito.",
+          "source": "Chāndogya Upaniṣad, I.10.7"
+        },
+        {
+          "id": "chandogya-1-10-8",
+          "original": "तत्रोद्गातॄनास्तावे स्तोष्यमाणानुपोपविवेश स ह प्रस्तोतारमुवाच ॥ १.१०.८ ॥",
+          "translation": "Giunto là, prese posto vicino ai sacerdoti cantori riuniti nella loro sede [āstāva], che stavano per intonare gli inni di lode. Si rivolse quindi al prastotṛ:",
+          "source": "Chāndogya Upaniṣad, I.10.8"
+        },
+        {
+          "id": "chandogya-1-10-9",
+          "original": "प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता तां चेदविद्वांस्तोष्यसि मूर्धा ते विपतिष्यतीति ॥ १.१०.९ ॥",
+          "translation": "«O prastotṛ, se intonerai la lode introduttiva [prastāva] senza conoscere la divinità che a essa presiede, la tua testa cadrà».",
+          "source": "Chāndogya Upaniṣad, I.10.9"
+        },
+        {
+          "id": "chandogya-1-10-10",
+          "original": "एवमेवोद्गातारमुवाचोद्गातर्या देवतोद्गीथमन्वायत्ता तां चेदविद्वानुद्गास्यसि मूर्धा ते विपतिष्यतीति ॥ १.१०.१० ॥",
+          "translation": "Allo stesso modo disse all'udgātṛ: «O udgātṛ, se intonerai il canto principale [udgītha] senza conoscere la divinità che a esso presiede, la tua testa cadrà».",
+          "source": "Chāndogya Upaniṣad, I.10.10"
+        },
+        {
+          "id": "chandogya-1-10-11",
+          "original": "एवमेव प्रतिहर्तारमुवाच प्रतिहर्तर्या देवता प्रतिहारमन्वायत्ता तां चेदविद्वांः प्रतिहरिष्यसि मूर्धा ते विपतिष्यतीति ते ह तूष्णीं संविविशुरूपररामुः ॥ १.१०.११ ॥",
+          "translation": "Allo stesso modo disse al pratihartṛ: «O pratihartṛ, se intonerai la risposta antifonale [pratihāra] senza conoscere la divinità che a essa presiede, la tua testa cadrà». Tutti costoro rimasero in silenzio e sospesero l'ufficio.",
+          "source": "Chāndogya Upaniṣad, I.10.11"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.11",
+      "section_title": "La rivelazione delle divinità del Prastāva, dell'Udgītha e del Pratihāra",
+      "passages": [
+        {
+          "id": "chandogya-1-11-1",
+          "original": "अथ हैन यजमान उवाच भगवन्तं वा अहं विविदिषामीत्युषस्तिरस्मि चाक्रायण इति होवाच ॥ १.११.१ ॥",
+          "translation": "Il sacrificatore [il re] gli disse: «Vorrei sapere chi è il venerabile signore». «Io sono Uṣasti Cākrāyaṇa», rispose colui.",
+          "source": "Chāndogya Upaniṣad, I.11.1"
+        },
+        {
+          "id": "chandogya-1-11-2",
+          "original": "स होवाच भगवन्तं वा अहमेभिः सर्वैरात्विज्यैः पर्यैषिषं भगवतो वा मयान्यविद्योत्त्या ह्यन्ये वृताः ॥ १.११.२ ॥",
+          "translation": "Il re disse: «Io cercavo proprio la venerabile signoria per tutte queste funzioni sacrificali; ma non avendoti trovato, ho dovuto scegliere altri sacerdoti.",
+          "source": "Chāndogya Upaniṣad, I.11.2"
+        },
+        {
+          "id": "chandogya-1-11-3",
+          "original": "भगवाꣳस्त्वेव मे सर्वैरात्विज्यैर्भवेदिति तथेत्यथ ह्येत एव मयानुज्ञाताः स्तुवतां यावत्त्वेभ्यो धनं दद्यास्तावन्मम दद्या इति तथेति ह यजमान उवाच ॥ १.११.३ ॥",
+          "translation": "Che il venerabile signore sia dunque a capo di tutte le mie funzioni sacerdotali!». «Così sia», rispose Uṣasti; «questi sacerdoti continuino pure a cantare con il mio consenso, ma tu concedi a me un compenso pari a quanto darai a tutti loro insieme». «Così sia», acconsentì il sacrificatore.",
+          "source": "Chāndogya Upaniṣad, I.11.3"
+        },
+        {
+          "id": "chandogya-1-11-4",
+          "original": "अथ हैन प्रस्तोतोपससाद प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता तां चेदविद्वांस्तोष्यसि मूर्धा ते विपतिष्यतीति मा भगवानवोचत्कतमा सा देवतेति ॥ १.११.४ ॥",
+          "translation": "Allora il prastotṛ si accostò a lui e disse: «Il venerabile signore mi ha detto: \"O prastotṛ, se intonerai la lode introduttiva senza conoscere la divinità che a essa presiede, la tua testa cadrà\". Qual è dunque quella divinità?».",
+          "source": "Chāndogya Upaniṣad, I.11.4"
+        },
+        {
+          "id": "chandogya-1-11-5",
+          "original": "प्राण इति होवाच सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते सैषा देवता प्रस्तावमन्वायत्ता तां चेदविद्वांस्तोष्यो मूर्धा ते व्यपतिष्यत्तथोक्तस्य मयेति ॥ १.११.५ ॥",
+          "translation": "«Il Soffio Vitale [Prāṇa]», rispose Uṣasti. «Tutti questi esseri si dissolvono nel Prāṇa e dal Prāṇa risorgono. Questa è la divinità che presiede al prastāva: se tu avessi intonato la lode senza conoscerla, dopo che io ti avevo ammonito, la tua testa sarebbe caduta».",
+          "source": "Chāndogya Upaniṣad, I.11.5"
+        },
+        {
+          "id": "chandogya-1-11-6",
+          "original": "अथ हैनमुद्गातोपससादोद्गातर्या देवतोद्गीथमन्वायत्ता तां चेदविद्वानुद्गास्यसि मूर्धा ते विपतिष्यतीति मा भगवानवोचत्कतमा सा देवतेति ॥ १.११.६ ॥",
+          "translation": "Allora l'udgātṛ si accostò a lui e disse: «Il venerabile signore mi ha detto: \"O udgātṛ, se intonerai il canto principale senza conoscere la divinità che a esso presiede, la tua testa cadrà\". Qual è dunque quella divinità?».",
+          "source": "Chāndogya Upaniṣad, I.11.6"
+        },
+        {
+          "id": "chandogya-1-11-7",
+          "original": "आदित्य इति होवाच सर्वाणि ह वा इमानि भूतान्युच्चैः सन्तꣳ प्रशंसन्ति सैषा देवतोद्गीथमन्वायत्ता तां चेदविद्वानुदगास्यो मूर्धा ते व्यपतिष्यत्तथोक्तस्य मयेति ॥ १.११.७ ॥",
+          "translation": "«Il Sole [Āditya]», rispose Uṣasti. «Tutti questi esseri lodano colui che risplende nell'alto. Questa è la divinità che presiede all'udgītha: se tu avessi cantato l'udgītha senza conoscerla, dopo che io ti avevo ammonito, la tua testa sarebbe caduta».",
+          "source": "Chāndogya Upaniṣad, I.11.7"
+        },
+        {
+          "id": "chandogya-1-11-8",
+          "original": "अथ हैनं प्रतिहर्तोपससाद प्रतिहर्तर्या देवता प्रतिहारमन्वायत्ता तां चेदविद्वांः प्रतिहरिष्यसि मूर्धा ते विपतिष्यतीति मा भगवानवोचत्कतमा सा देवतेति ॥ १.११.८ ॥",
+          "translation": "Allora il pratihartṛ si accostò a lui e disse: «Il venerabile signore mi ha detto: \"O pratihartṛ, se intonerai la risposta antifonale senza conoscere la divinità che a essa presiede, la tua testa cadrà\". Qual è dunque quella divinità?».",
+          "source": "Chāndogya Upaniṣad, I.11.8"
+        },
+        {
+          "id": "chandogya-1-11-9",
+          "original": "अन्नमिति होवाच सर्वाणि ह वा इमानि भूतान्यन्नमेव प्रतिहरमाणानि जीवन्ति सैषा देवता प्रतिहारमन्वायत्ता तां चेदविद्वांः प्रत्यहरिष्यो मूर्धा ते व्यपतिष्यत्तथोक्तस्य मयेति ॥ १.११.९ ॥",
+          "translation": "«Il Nutrimento [Anna]», rispose Uṣasti. «Tutti questi esseri vivono prendendo [pratiharamāṇāḥ] per sé il nutrimento. Questa è la divinità che presiede al pratihāra: se tu avessi intonato la risposta senza conoscerla, dopo che io ti avevo ammonito, la tua testa sarebbe caduta».",
+          "source": "Chāndogya Upaniṣad, I.11.9"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.12",
+      "section_title": "Lo Śauva Udgītha: il canto simbolico per il nutrimento",
+      "passages": [
+        {
+          "id": "chandogya-1-12-1",
+          "original": "अथातः शौव उद्गीथस्तद्ध बको दाल्भ्यो ग्लावो वा मैत्रेयः स्वाध्यायमुद्वव्राज ॥ १.१२.१ ॥",
+          "translation": "Segue ora l'Udgītha canino [Śauva Udgītha]. Baka Dālbhya (oppure Glāva Maitreya) si recò in un luogo appartato per lo studio silenzioso dei Veda [svādhyāya].",
+          "source": "Chāndogya Upaniṣad, I.12.1"
+        },
+        {
+          "id": "chandogya-1-12-2",
+          "original": "तस्मै श्वा श्वेतः प्रादुर्बभूव तमन्ये श्वान उपसमेत्योचुरन्नं नो भगवानागायत्वशनायाम वा इति ॥ १.१२.२ ॥",
+          "translation": "Gli apparve un cane bianco. Altri cani gli si avvicinarono e gli dissero: «O venerabile signore, ottienici del cibo con il tuo canto; abbiamo fame!».",
+          "source": "Chāndogya Upaniṣad, I.12.2"
+        },
+        {
+          "id": "chandogya-1-12-3",
+          "original": "तान्र्होवाचेहैव मा प्रातरुपसमीयातेति स ह बको दाल्भ्यो ग्लावो वा मैत्रेयः प्रतिपालयांचकार ॥ १.१२.३ ॥",
+          "translation": "Quegli disse loro: «Riunitevi qui da me domattina». Baka Dālbhya (oppure Glāva Maitreya) si pose in attesa.",
+          "source": "Chāndogya Upaniṣad, I.12.3"
+        },
+        {
+          "id": "chandogya-1-12-4",
+          "original": "ते ह यथैवेदं बहिष्पवमानेन स्तोष्यमाणाः सꣳरब्धाः सर्पन्तीत्येवमाससृपुस्ते ह समुपविश्य हिञ्चक्रुः ॥ १.१२.४ ॥",
+          "translation": "Essi avanzarono procedendo l'uno dietro l'altro, proprio come i sacerdoti procedono uniti tenendosi alla veste di chi li precede quando stanno per intonare l'inno bahiṣpavamāna. Poi sedettero insieme ed emisero il suono introduttivo 'hiṅ'.",
+          "source": "Chāndogya Upaniṣad, I.12.4"
+        },
+        {
+          "id": "chandogya-1-12-5",
+          "original": "ॐ३ अदम ॐ३ पिबाम ॐ३ देवो वरुणः प्रजापतिः सविताऽन्नमिहाहरदन्नपतेऽन्नमिहाहरा३हरो३मिति ॥ १.१२.५ ॥",
+          "translation": "«Oṃ! Mangiamo! Oṃ! Beviamo! Oṃ! Il divino Varuṇa, Prajāpati e Savitṛ portino qui il nutrimento! O Signore del nutrimento [annapati], porta qui il cibo, portalo! Oṃ!».",
+          "source": "Chāndogya Upaniṣad, I.12.5"
+        }
+      ]
+    },
+    {
+      "section_locus": "1.13",
+      "section_title": "I suoni mistici (stobha) e il loro significato cosmico",
+      "passages": [
+        {
+          "id": "chandogya-1-13-1",
+          "original": "अयं वाव लोको हाउकारो वायुर्हाइकारश्चन्द्रमा अथकारः । आत्मेहकारोऽग्निरीकारः ॥ १.१३.१ ॥",
+          "translation": "Questo mondo terrestre è invero la sillaba 'hā-u'; il vento è la sillaba 'hā-i'; la luna è la sillaba 'atha'; il proprio sé corporeo è la sillaba 'iha'; il fuoco è la sillaba 'ī'.",
+          "source": "Chāndogya Upaniṣad, I.13.1"
+        },
+        {
+          "id": "chandogya-1-13-2",
+          "original": "आदित्य ऊकारो निहव एकारो विश्वे देवा औहोयिकारः । प्रजापतिर्हिङ्कारः प्राणः स्वरोऽन्नं या वाग्विराट् ॥ १.१३.२ ॥",
+          "translation": "Il sole è la sillaba 'ū'; l'invocazione di benvenuto è la sillaba 'e'; tutti gli dèi [Viśvedevāḥ] sono la sillaba 'au-ho-i'; Prajāpati è la sillaba 'hiṅ'; il soffio vitale è il suono modulato [svara]; il nutrimento è la sillaba 'yā'; la parola è il metro 'virāj'.",
+          "source": "Chāndogya Upaniṣad, I.13.2"
+        },
+        {
+          "id": "chandogya-1-13-3",
+          "original": "अनिरुक्तस्त्रयोदशः स्तोभः संचरो हुंकारः ॥ १.१३.३ ॥",
+          "translation": "Indefinibile è la tredicesima sillaba mistica [stobha], la vibrazione fluttuante 'huṁ'.",
+          "source": "Chāndogya Upaniṣad, I.13.3"
+        },
+        {
+          "id": "chandogya-1-13-4",
+          "original": "दुग्धेऽस्मै वाग्दोहं यो वाचो दोहोऽन्नवानन्नादो भवति य एतामेवꣳ साम्नामुपनिषदं वेदोपनिषदं वेद इति ॥ १.१३.४ ॥",
+          "translation": "La parola effonde il proprio latte a beneficio di colui che conosce questa dottrina segreta [upaniṣad] dei canti Sāman: costui diviene provvisto di nutrimento e capace di assimilarlo, colui che conosce questa dottrina segreta, che conosce questa dottrina segreta.",
+          "source": "Chāndogya Upaniṣad, I.13.4"
+        }
+      ]
+    }
+  ]
+}

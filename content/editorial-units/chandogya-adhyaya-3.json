@@ -1,0 +1,692 @@
+{
+  "id": "chandogya-adhyaya-3",
+  "work_id": "chandogya-upanisad",
+  "unit_locus": "3",
+  "unit_title": "Terzo Adhyāya",
+  "sections": [
+    {
+      "section_locus": "3.1",
+      "section_title": "La Madhuvidyā: il Sole come miele dei Deva e il nettare orientale del Ṛgveda",
+      "passages": [
+        {
+          "id": "chandogya-3-1-1",
+          "original": "ॐ असौ वा आदित्यो देवमधु तस्य द्यौरेव तिरश्चीनवंreflex / तिरश्चीनवंशोऽन्तरिक्षमपूपो मरीचयः पुत्राः ॥ ३.१.१ ॥",
+          "translation": "Oṃ. Quel sole lassù è invero il miele degli dèi [devamadhu]. La volta celeste ne è la trave obliqua; lo spazio intermedio è l'alveare; i raggi di luce ne sono le uova delle api.",
+          "source": "Chāndogya Upaniṣad, III.1.1"
+        },
+        {
+          "id": "chandogya-3-1-2",
+          "original": "तस्य ये प्राञ्चो रश्मयस्ता एवास्य प्राच्यो मधुनाड्यः । ऋच एव मधुकृत ऋग्वेद एव पुष्पं ता अमृता आपस्ता वा एता अमृता आपः ॥ ३.१.२ ॥",
+          "translation": "I raggi che si protendono a oriente sono le celle mellifere orientali di questo favo. Gli inni del Ṛgveda sono le api; il Ṛgveda è il fiore; le acque sacrificali sono il nettare. Invero quelle acque sono nettare d'immortalità.",
+          "source": "Chāndogya Upaniṣad, III.1.2"
+        },
+        {
+          "id": "chandogya-3-1-3",
+          "original": "ता ऋच एतमृग्वेदभभ्यतपंस्तस्याभितप्तस्य यशस्तेज इन्द्रियं वीर्यमन्नाद्यꣳ रसोऽजायत ॥ ३.१.३ ॥",
+          "translation": "Questi inni del Ṛgveda concentrarono il loro calore meditativo sul Ṛgveda: da esso, così riscaldato, scaturì l'essenza vitale sotto forma di gloria, splendore spirituale, vigore dei sensi, potenza virile e abbondanza di nutrimento.",
+          "source": "Chāndogya Upaniṣad, III.1.3"
+        },
+        {
+          "id": "chandogya-3-1-4",
+          "original": "तद्व्यक्षरत्तदादित्यमभितोऽश्रयत्तद्वा एतद्यदेतदादित्यस्य रोहितꣳ रूपम् ॥ ३.१.४ ॥",
+          "translation": "Questa essenza distillata scorse verso il sole e si raccolse attorno a esso: essa costituisce invero quella che è la forma rossa e brillante del sole.",
+          "source": "Chāndogya Upaniṣad, III.1.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.2",
+      "section_title": "Il nettare meridionale dello Yajurveda e la luce bianca del Sole",
+      "passages": [
+        {
+          "id": "chandogya-3-2-1",
+          "original": "अथ येऽस्य दक्षिणा रश्मयस्ता एवास्य दक्षिणा मधुनाड्यो यजूꣳष्येव मधुकृतो यजुर्वेद एव पुष्पं ता अमृता आपः ॥ ३.२.१ ॥",
+          "translation": "I raggi che si protendono a mezzogiorno sono le celle mellifere meridionali di questo favo. Le formule dello Yajurveda sono le api; lo Yajurveda è il fiore; le acque sacrificali sono il nettare.",
+          "source": "Chāndogya Upaniṣad, III.2.1"
+        },
+        {
+          "id": "chandogya-3-2-2",
+          "original": "तानि वा एतानि यजूꣳष्येतं यजुर्वेदभभ्यतपंस्तस्याभितप्तस्य यशस्तेज इन्द्रियं वीर्यमन्नाद्यꣳ रसोऽजायत ॥ ३.२.२ ॥",
+          "translation": "Queste formule dello Yajurveda concentrarono il loro calore meditativo sullo Yajurveda: da esso, così riscaldato, scaturì l'essenza vitale sotto forma di gloria, splendore spirituale, vigore dei sensi, potenza virile e nutrimento.",
+          "source": "Chāndogya Upaniṣad, III.2.2"
+        },
+        {
+          "id": "chandogya-3-2-3",
+          "original": "तद्व्यक्षरत्तदादित्यमभितोऽश्रयत्तद्वा एतद्यदेतदादित्यस्य शुक्लं रूपम् ॥ ३.२.३ ॥",
+          "translation": "Questa essenza distillata scorse verso il sole e si raccolse attorno a esso: essa costituisce invero quella che è la forma bianca e splendente del sole.",
+          "source": "Chāndogya Upaniṣad, III.2.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.3",
+      "section_title": "Il nettare occidentale del Sāmaveda e la luce scura del Sole",
+      "passages": [
+        {
+          "id": "chandogya-3-3-1",
+          "original": "अथ येऽस्य प्रत्यञ्चो रश्मयस्ता एवास्य प्रतीच्यो मधुनाड्यः सामान्येव मधुकृतः सामवेद एव पुष्पं ता अमृता आपः ॥ ३.३.१ ॥",
+          "translation": "I raggi che si protendono a occidente sono le celle mellifere occidentali di questo favo. I canti del Sāmaveda sono le api; il Sāmaveda è il fiore; le acque sacrificali sono il nettare.",
+          "source": "Chāndogya Upaniṣad, III.3.1"
+        },
+        {
+          "id": "chandogya-3-3-2",
+          "original": "तानि वा एतानि सामान्योतं सामवेदमभ्यतपंस्तस्याभितप्तस्य यशस्तेज इन्द्रियं वीर्यमन्नाद्यꣳ रसोऽजायत ॥ ३.३.२ ॥",
+          "translation": "Questi canti del Sāmaveda concentrarono il loro calore meditativo sul Sāmaveda: da esso, così riscaldato, scaturì l'essenza vitale sotto forma di gloria, splendore spirituale, vigore dei sensi, potenza virile e nutrimento.",
+          "source": "Chāndogya Upaniṣad, III.3.2"
+        },
+        {
+          "id": "chandogya-3-3-3",
+          "original": "तद्व्यक्षरत्तदादित्यमभितोऽश्रयत्तद्वा एतद्यदेतदादित्यस्य कृष्णꣳ रूपम् ॥ ३.३.३ ॥",
+          "translation": "Questa essenza distillata scorse verso il sole e si raccolse attorno a esso: essa costituisce invero quella che è la forma scura e profonda del sole.",
+          "source": "Chāndogya Upaniṣad, III.3.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.4",
+      "section_title": "Il nettare settentrionale dell'Atharvaveda e la luce profonda del Sole",
+      "passages": [
+        {
+          "id": "chandogya-3-4-1",
+          "original": "अथ येऽस्योदञ्चो रश्मयस्ता एवास्योदीच्यो मधुनाड्योऽथर्वाङ्गिरस एव मधुकृत इतिहासपुराणं पुष्पं ता अमृता आपः ॥ ३.४.१ ॥",
+          "translation": "I raggi che si protendono a settentrione sono le celle mellifere settentrionali di questo favo. Gli inni dell'Atharvaveda [Atharvāṅgirasaḥ] sono le api; la tradizione sacra e storica [Itihāsa-Purāṇa] è il fiore; le acque sacrificali sono il nettare.",
+          "source": "Chāndogya Upaniṣad, III.4.1"
+        },
+        {
+          "id": "chandogya-3-4-2",
+          "original": "ते वा एतेऽथर्वाङ्गिरस एतदितिहासपुराणमभ्यतपंस्तस्याभितप्तस्य यशस्तेज इन्द्रियं वीर्यमन्नाद्यꣳ रसोऽजायत ॥ ३.४.२ ॥",
+          "translation": "Questi inni dell'Atharvaveda concentrarono il loro calore meditativo sulla tradizione sacra: da essa, così riscaldata, scaturì l'essenza vitale sotto forma di gloria, splendore spirituale, vigore dei sensi, potenza virile e nutrimento.",
+          "source": "Chāndogya Upaniṣad, III.4.2"
+        },
+        {
+          "id": "chandogya-3-4-3",
+          "original": "तद्व्यक्षरत्तदादित्यमभितोऽश्रयत्तद्वा एतद्यदेतदादित्यस्य परः कृष्णꣳ रूपम् ॥ ३.४.३ ॥",
+          "translation": "Questa essenza distillata scorse verso il sole e si raccolse attorno a esso: essa costituisce invero quella che è la forma intensamente nera e abissale del sole.",
+          "source": "Chāndogya Upaniṣad, III.4.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.5",
+      "section_title": "Il nettare superiore delle dottrine segrete e il centro vibrante del Sole",
+      "passages": [
+        {
+          "id": "chandogya-3-5-1",
+          "original": "अथ येऽस्योर्ध्वा रश्मयस्ता एवास्योर्ध्वा मधुनाड्यो गुह्या एवादेशा मधुकृतो ब्रह्मैव पुष्पं ता अमृता आपः ॥ ३.५.१ ॥",
+          "translation": "I raggi che si protendono verso l'alto sono le celle mellifere superiori di questo favo. Gli insegnamenti segreti [guhyāḥ ādeśāḥ] sono le api; Brahman stesso è il fiore; le acque sacrificali sono il nettare.",
+          "source": "Chāndogya Upaniṣad, III.5.1"
+        },
+        {
+          "id": "chandogya-3-5-2",
+          "original": "ते वा एते गुह्या आदेशा एतद्ब्रह्माभ्यतपंस्तस्याभितप्तस्य यशस्तेज इन्द्रियं वीर्यमन्नाद्यꣳ रसोऽजायत ॥ ३.५.२ ॥",
+          "translation": "Questi insegnamenti segreti concentrarono il loro calore meditativo su Brahman: da esso, così riscaldato, scaturì l'essenza vitale sotto forma di gloria, splendore spirituale, vigore dei sensi, potenza virile e nutrimento.",
+          "source": "Chāndogya Upaniṣad, III.5.2"
+        },
+        {
+          "id": "chandogya-3-5-3",
+          "original": "तद्व्यक्षरत्तदादित्यमभितोऽश्रयत्तद्वा एतद्यदेतदादित्यस्य मध्ये क्षोभत इव ॥ ३.५.३ ॥",
+          "translation": "Questa essenza distillata scorse verso il sole e si raccolse attorno a esso: essa costituisce invero ciò che palpita e freme nel cuore stesso del sole.",
+          "source": "Chāndogya Upaniṣad, III.5.3"
+        },
+        {
+          "id": "chandogya-3-5-4",
+          "original": "ते वा एते रसानाꣳ रसा वेदा हि रसास्तेषामेते रसास्तानि वा एतान्यमृतानाममृतानि वेदा ह्यमृतास्तेषामेतान्यमृतानि ॥ ३.५.४ ॥",
+          "translation": "Questi cinque nettari sono invero l'essenza di tutte le essenze: i Veda sono le essenze, e queste sono le loro essenze distillate. Questi sono l'immortalità delle immortalità: i Veda sono gli immortali, e queste sono le loro realtà immortali.",
+          "source": "Chāndogya Upaniṣad, III.5.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.6",
+      "section_title": "La fruizione contemplativa dei Vasu e la sovranità orientale",
+      "passages": [
+        {
+          "id": "chandogya-3-6-1",
+          "original": "तद्यत्प्रथमममृतं तद्वसव उपजीवन्त्यग्निना मुखेन । न वै देवा अश्नन्ति न पिबन्त्येतदेवामृतं दृष्ट्वा तृप्यन्ति ॥ ३.६.१ ॥",
+          "translation": "Di questo primo nettare [la forma rossa] vivono i Vasu, avendo Agni alla loro testa. Gli dèi invero non mangiano né bevono: essi si appagano contemplando semplicemente questo nettare.",
+          "source": "Chāndogya Upaniṣad, III.6.1"
+        },
+        {
+          "id": "chandogya-3-6-2",
+          "original": "त एतदेव रूपमभिसंविशन्त्येतस्माद्रूपाददुद्यन्ति ॥ ३.६.२ ॥",
+          "translation": "Essi si riassorbono in questa medesima forma rossa ed emergono da questa medesima forma.",
+          "source": "Chāndogya Upaniṣad, III.6.2"
+        },
+        {
+          "id": "chandogya-3-6-3",
+          "original": "स य एतदेवममृतं वेद वसूनामेवैको भूत्वाऽग्नीनैव मुखेनेत्देवामृतं दृष्ट्वा तृप्यति स एतदेव रूपमभिसंविशत्येतस्माद्रूपादुदेति ॥ ३.६.३ ॥",
+          "translation": "Colui che conosce questo nettare immortale diviene uno dei Vasu e, avendo Agni alla sua testa, si appaga contemplando questo stesso nettare; si riassorbe in questa forma ed emerge da essa.",
+          "source": "Chāndogya Upaniṣad, III.6.3"
+        },
+        {
+          "id": "chandogya-3-6-4",
+          "original": "स यावदादित्यः पुरस्तादुदेता पश्चादस्तमेता वसूनामेव तावदाधिपत्यꣳ स्वाराज्यं पर्येता ॥ ३.६.४ ॥",
+          "translation": "Per tutto il tempo in cui il sole sorge a oriente e tramonta a occidente, costui consegue la sovranità autonoma [svārājya] e il dominio proprio dei Vasu.",
+          "source": "Chāndogya Upaniṣad, III.6.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.7",
+      "section_title": "La fruizione contemplativa dei Rudra e la sovranità meridionale",
+      "passages": [
+        {
+          "id": "chandogya-3-7-1",
+          "original": "अथ यद्द्वितीयममृतं तद्रुद्रा उपजीवन्तीन्द्रेण मुखेन न वै देवा अश्नन्ति न पिबन्त्येतदेवामृतं दृष्ट्वा तृप्यन्ति ॥ ३.७.१ ॥",
+          "translation": "Del secondo nettare [la forma bianca] vivono i Rudra, avendo Indra alla loro testa. Gli dèi invero non mangiano né bevono: essi si appagano contemplando semplicemente questo nettare.",
+          "source": "Chāndogya Upaniṣad, III.7.1"
+        },
+        {
+          "id": "chandogya-3-7-2",
+          "original": "त एतदेव रूपमभिसंविशन्त्येतस्माद्रूपादुद्यन्ति ॥ ३.७.२ ॥",
+          "translation": "Essi si riassorbono in questa medesima forma bianca ed emergono da questa medesima forma.",
+          "source": "Chāndogya Upaniṣad, III.7.2"
+        },
+        {
+          "id": "chandogya-3-7-3",
+          "original": "स य एतदेवममृतं वेद रुद्राणामेवैको भूत्वेन्द्रेणैव मुखेनेत्देवामृतं दृष्ट्वा तृप्यति स एतदेव रूपमभिसंविशत्येतस्माद्रूपादुदेति ॥ ३.७.३ ॥",
+          "translation": "Colui che conosce questo nettare immortale diviene uno dei Rudra e, avendo Indra alla sua testa, si appaga contemplando questo stesso nettare; si riassorbe in questa forma ed emerge da essa.",
+          "source": "Chāndogya Upaniṣad, III.7.3"
+        },
+        {
+          "id": "chandogya-3-7-4",
+          "original": "स यावदादित्यः पुरस्तादुदेता पश्चादस्तमेता द्विस्तावद्दक्षिणत उदेता पश्चादस्तमेता रुद्राणामेव तावदाधिपत्यꣳ स्वाराज्यं पर्येता ॥ ३.७.४ ॥",
+          "translation": "Per tutto il tempo in cui il sole sorge a mezzogiorno e tramonta a settentrione — per una durata doppia rispetto a quella precedente — costui consegue la sovranità autonoma e il dominio proprio dei Rudra.",
+          "source": "Chāndogya Upaniṣad, III.7.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.8",
+      "section_title": "La fruizione contemplativa degli Āditya e la sovranità occidentale",
+      "passages": [
+        {
+          "id": "chandogya-3-8-1",
+          "original": "अथ यत्तृतीयममृतं तदादित्या उपजीवन्ति वरुणेन मुखेन न वै देवा अश्नन्ति न पिबन्त्येतदेवामृतं दृष्ट्वा तृप्यन्ति ॥ ३.८.१ ॥",
+          "translation": "Del terzo nettare [la forma scura] vivono gli Āditya, avendo Varuṇa alla loro testa. Gli dèi invero non mangiano né bevono: essi si appagano contemplando semplicemente questo nettare.",
+          "source": "Chāndogya Upaniṣad, III.8.1"
+        },
+        {
+          "id": "chandogya-3-8-2",
+          "original": "त एतदेव रूपमभिसंविशन्त्येतस्माद्रूपादुद्यन्ति ॥ ३.८.२ ॥",
+          "translation": "Essi si riassorbono in questa medesima forma scura ed emergono da questa medesima forma.",
+          "source": "Chāndogya Upaniṣad, III.8.2"
+        },
+        {
+          "id": "chandogya-3-8-3",
+          "original": "स य एतदेवममृतं वेदादित्यानामेवैको भूत्वा वरुणेनैव मुखेनेत्देवामृतं दृष्ट्वा तृप्यति स एतदेव रूपमभिसंविशत्येतस्माद्रूपादुदेति ॥ ३.८.३ ॥",
+          "translation": "Colui che conosce questo nettare immortale diviene uno degli Āditya e, avendo Varuṇa alla sua testa, si appaga contemplando questo stesso nettare; si riassorbe in questa forma ed emerge da essa.",
+          "source": "Chāndogya Upaniṣad, III.8.3"
+        },
+        {
+          "id": "chandogya-3-8-4",
+          "original": "स यावदादित्य दक्षिणत उदेता पश्चादस्तमेता द्विस्तावत्पश्चादुदेता पुरस्तादस्तमेतादित्यानामेव तावदाधिपत्यꣳ स्वाराज्यं पर्येता ॥ ३.८.४ ॥",
+          "translation": "Per tutto il tempo in cui il sole sorge a occidente e tramonta a oriente — per una durata doppia rispetto a quella precedente — costui consegue la sovranità autonoma e il dominio proprio degli Āditya.",
+          "source": "Chāndogya Upaniṣad, III.8.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.9",
+      "section_title": "La fruizione contemplativa dei Marut e la sovranità settentrionale",
+      "passages": [
+        {
+          "id": "chandogya-3-9-1",
+          "original": "अथ यच्चतुर्थममृतं तन्मरुत उपजीवन्ति सोमेन मुखेन न वै देवा अश्नन्ति न पिबन्त्येतदेवामृतं दृष्ट्वा तृप्यन्ति ॥ ३.९.१ ॥",
+          "translation": "Del quarto nettare [la forma intensamente nera] vivono i Marut, avendo Soma alla loro testa. Gli dèi invero non mangiano né bevono: essi si appagano contemplando semplicemente questo nettare.",
+          "source": "Chāndogya Upaniṣad, III.9.1"
+        },
+        {
+          "id": "chandogya-3-9-2",
+          "original": "त एतदेव रूपमभिसंविशन्त्येतस्माद्रूपादुद्यन्ति ॥ ३.९.२ ॥",
+          "translation": "Essi si riassorbono in questa medesima forma ed emergono da questa medesima forma.",
+          "source": "Chāndogya Upaniṣad, III.9.2"
+        },
+        {
+          "id": "chandogya-3-9-3",
+          "original": "स य एतदेवममृतं वेद मरुतामेवैको भूत्वा सोमेनैव मुखेनेत्देवामृतं दृष्ट्वा तृप्यति स एतदेव रूपमभिसंविशत्येतस्माद्रूपादुदेति ॥ ३.९.३ ॥",
+          "translation": "Colui che conosce questo nettare immortale diviene uno dei Marut e, avendo Soma alla sua testa, si appaga contemplando questo stesso nettare; si riassorbe in questa forma ed emerge da essa.",
+          "source": "Chāndogya Upaniṣad, III.9.3"
+        },
+        {
+          "id": "chandogya-3-9-4",
+          "original": "स यावदादित्यः पश्चादुदेता पुरस्तादस्तमेता द्विस्तावदुत्तरत उदेता दक्षिणातस्तमेता मरुतामेव तावदाधिपत्यꣳ स्वाराज्यं पर्येता ॥ ३.९.४ ॥",
+          "translation": "Per tutto il tempo in cui il sole sorge a settentrione e tramonta a mezzogiorno — per una durata doppia rispetto a quella precedente — costui consegue la sovranità autonoma e il dominio proprio dei Marut.",
+          "source": "Chāndogya Upaniṣad, III.9.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.10",
+      "section_title": "La fruizione contemplativa dei Sādhya e la sovranità dello zenit",
+      "passages": [
+        {
+          "id": "chandogya-3-10-1",
+          "original": "अथ यत्पञ्चमममृतं तत्साध्या उपजीवन्ति ब्रह्मणा मुखेन न वै देवा अश्नन्ति न पिबन्त्येतदेवामृतं दृष्ट्वा तृप्यन्ति ॥ ३.१०.१ ॥",
+          "translation": "Del quinto nettare [il centro palpitante del sole] vivono i Sādhya, avendo Brahman alla loro testa. Gli dèi invero non mangiano né bevono: essi si appagano contemplando semplicemente questo nettare.",
+          "source": "Chāndogya Upaniṣad, III.10.1"
+        },
+        {
+          "id": "chandogya-3-10-2",
+          "original": "त एतदेव रूपमभिसंविशन्त्येतस्माद्रूपादुद्यन्ति ॥ ३.१०.२ ॥",
+          "translation": "Essi si riassorbono in questa medesima forma ed emergono da questa medesima forma.",
+          "source": "Chāndogya Upaniṣad, III.10.2"
+        },
+        {
+          "id": "chandogya-3-10-3",
+          "original": "स य एतदेवममृतं वेद साध्यानामेवैको भूत्वा ब्रह्मणैव मुखेनेत्देवामृतं दृष्ट्वा तृप्यति स एतदेव रूपमभिसंविशत्येतस्माद्रूपादुदेति ॥ ३.१०.३ ॥",
+          "translation": "Colui che conosce questo nettare immortale diviene uno dei Sādhya e, avendo Brahman alla sua testa, si appaga contemplando questo stesso nettare; si riassorbe in questa forma ed emerge da essa.",
+          "source": "Chāndogya Upaniṣad, III.10.3"
+        },
+        {
+          "id": "chandogya-3-10-4",
+          "original": "स यावदादित्य उत्तरत उदेता दक्षिणातस्तमेता द्विस्तावदूर्ध्व उदेताऽर्वागस्तमेता साध्यानामेव तावदाधिपत्यꣳ स्वाराज्यं पर्येता ॥ ३.१०.४ ॥",
+          "translation": "Per tutto il tempo in cui il sole sorge allo zenit e tramonta al nadir — per una durata doppia rispetto a quella precedente — costui consegue la sovranità autonoma e il dominio proprio dei Sādhya.",
+          "source": "Chāndogya Upaniṣad, III.10.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.11",
+      "section_title": "Il Sole eterno di Brahman privo di alba e tramonto e la trasmissione della dottrina",
+      "passages": [
+        {
+          "id": "chandogya-3-11-1",
+          "original": "अथ तत ऊर्ध्व उदेत्य नैवोदेता नास्तमेतैकल एव मध्ये स्थाता तदेष श्लोकः ॥ ३.११.१ ॥",
+          "translation": "Quindi, elevandosi oltre questo stato, il sole non sorge più né tramonta più: esso rimane immobile, solo, stabilito perennemente nel centro. A questo proposito vi è questo verso:",
+          "source": "Chāndogya Upaniṣad, III.11.1"
+        },
+        {
+          "id": "chandogya-3-11-2",
+          "original": "न वै तत्र न निम्लोच नोदियाय कदाचन । देवास्तेनाहꣳ सत्येन मा विराधिषि ब्रह्मणेति ॥ ३.११.२ ॥",
+          "translation": "«Colà il sole non tramonta e non sorge mai in alcun tempo. O dèi, che per questa verità io non sia mai privato della comunione con Brahman!».",
+          "source": "Chāndogya Upaniṣad, III.11.2"
+        },
+        {
+          "id": "chandogya-3-11-3",
+          "original": "न ह वा अस्मा उदेति न निम्लोचति सकृद्दिवा हैवास्मै भवति य एतामेवं ब्रह्मोपनिषदं वेद ॥ ३.११.३ ॥",
+          "translation": "Invero per colui che conosce questa dottrina segreta di Brahman [Brahmopaniṣad] il sole non sorge né tramonta mai: per lui vi è perennemente ed eternamente il Giorno [sakṛd divā haivāsmai bhavati].",
+          "source": "Chāndogya Upaniṣad, III.11.3"
+        },
+        {
+          "id": "chandogya-3-11-4",
+          "original": "तद्धैतद्ब्रह्मा प्रजापतय उवाच प्रजापतिर्मनवे मनुः प्रजाभ्यस्तद्धैतदुद्दालकायारुणये ज्येष्ठाय पुत्राय पिता ब्रह्म प्रोवाच ॥ ३.११.४ ॥",
+          "translation": "Questo insegnamento Brahmā lo rivelò a Prajāpati; Prajāpati lo trasmise a Manu; Manu lo insegnò alle creature. E a Uddālaka Āruṇi il padre trasmise questa dottrina su Brahman in quanto suo figlio primogenito.",
+          "source": "Chāndogya Upaniṣad, III.11.4"
+        },
+        {
+          "id": "chandogya-3-11-5",
+          "original": "इदं वाव तज्ज्येष्ठाय पुत्राय पिता ब्रह्म प्रब्रूयात्प्रणाय्याय वाऽन्तेवासिने ॥ ३.११.५ ॥",
+          "translation": "Un padre può trasmettere questa dottrina su Brahman unicamente al proprio figlio primogenito o a un discepolo degno e intimamente fidato.",
+          "source": "Chāndogya Upaniṣad, III.11.5"
+        },
+        {
+          "id": "chandogya-3-11-6",
+          "original": "नान्यस्मै कस्मैचन यद्यप्यस्मा इमामद्भिः परिगृहीतां धनस्य पूर्णां दद्यादेतदेव ततो भूय इत्येतदेव ततो भूय इति ॥ ३.११.६ ॥",
+          "translation": "A nessun altro deve essere comunicata, anche se costui gli offrisse in dono questa terra intera cinta dalle acque e ricolma di ogni ricchezza. Questo insegnamento è invero più grande di essa, sì, è infinitamente più grande.",
+          "source": "Chāndogya Upaniṣad, III.11.6"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.12",
+      "section_title": "La Gāyatrī-vidyā e la presenza di Brahman nello spazio del cuore",
+      "passages": [
+        {
+          "id": "chandogya-3-12-1",
+          "original": "गायत्री वा इदꣳ सर्वं भूतं यदिदं किंच वाग्वै गायत्री वाग्वा इदꣳ सर्वं भूतं गायति च त्रायते च ॥ ३.१२.१ ॥",
+          "translation": "La Gāyatrī è invero tutto questo universo manifestato, qualunque cosa esista. La parola è invero la Gāyatrī: la parola infatti canta [gāyati] e protegge [trāyate] tutti questi esseri.",
+          "source": "Chāndogya Upaniṣad, III.12.1"
+        },
+        {
+          "id": "chandogya-3-12-2",
+          "original": "या वै सा गायत्रीयमेव सा यायं पृथिव्यस्याꣳ हीदꣳ सर्वं भूतं प्रतिष्ठितमेतामेव नातिशीयते ॥ ३.१२.२ ॥",
+          "translation": "Ciò che è questa Gāyatrī è invero questa terra: su di essa infatti è stabilita la totalità degli esseri, e nessuno può oltrepassarla.",
+          "source": "Chāndogya Upaniṣad, III.12.2"
+        },
+        {
+          "id": "chandogya-3-12-3",
+          "original": "या वै सा पृथिवीयं वाव सा यदिदमस्मिन्पुरुषे शरीरमस्मिन्हीमे प्राणाः प्रतिष्ठिता एतदेव नातिशीयन्ते ॥ ३.१२.३ ॥",
+          "translation": "Ciò che è questa terra è invero questo corpo nell'essere umano: in esso infatti sono stabiliti i soffi vitali, e non possono oltrepassarlo.",
+          "source": "Chāndogya Upaniṣad, III.12.3"
+        },
+        {
+          "id": "chandogya-3-12-4",
+          "original": "यद्वाव तत्पुरुषे शरीरमिदं वाव तद्यदिदमस्मिन्नन्तःपुरुषे हृदयमस्मिन्हीमे प्राणाः प्रतिष्ठिता एतदेव नातिशीयन्ते ॥ ३.१२.४ ॥",
+          "translation": "Ciò che è questo corpo nell'essere umano è invero questo cuore all'interno dell'uomo: in esso infatti sono stabiliti i soffi vitali, e non possono oltrepassarlo.",
+          "source": "Chāndogya Upaniṣad, III.12.4"
+        },
+        {
+          "id": "chandogya-3-12-5",
+          "original": "सैषा चतुष्पदा षड्विधा गायत्री तदेतदृचाभ्यनूक्तम् ॥ ३.१२.५ ॥",
+          "translation": "Questa Gāyatrī ha quattro piedi ed è sestuplice nella sua natura. A questo proposito è stato dichiarato dal verso del Ṛgveda:",
+          "source": "Chāndogya Upaniṣad, III.12.5"
+        },
+        {
+          "id": "chandogya-3-12-6",
+          "original": "तावानस्य महिमा ततो ज्यायाꣳश्च पूरुषः । पादोऽस्य सर्वा भूतानि त्रिपादस्यामृतं दिवीति ॥ ३.१२.६ ॥",
+          "translation": "«Tale è la Sua grandezza, ma ancora più grande è il Puruṣa: un solo quarto di Lui è la totalità degli esseri; tre quarti di Lui costituiscono l'immortale nel cielo luminoso».",
+          "source": "Chāndogya Upaniṣad, III.12.6"
+        },
+        {
+          "id": "chandogya-3-12-7",
+          "original": "यद्वै तद्ब्रह्मेतीदं वाव तद्योऽयं बहिर्धा पुरुषादाकाशो यो वै बहिर्धा पुरुषादाकाशः ॥ ३.१२.७ ॥",
+          "translation": "Ciò che è chiamato Brahman è invero quello spazio [ākāśa] che si estende all'esterno dell'essere umano. E quello spazio che si estende all'esterno dell'uomo...",
+          "source": "Chāndogya Upaniṣad, III.12.7"
+        },
+        {
+          "id": "chandogya-3-12-8",
+          "original": "अयं वाव स योऽयमन्तःपुरुष आकाशो यो वै सोऽन्तःपुरुष आकाशः ॥ ३.१२.८ ॥",
+          "translation": "...è invero questo medesimo spazio che risiede all'interno dell'essere umano. E questo spazio all'interno dell'uomo...",
+          "source": "Chāndogya Upaniṣad, III.12.8"
+        },
+        {
+          "id": "chandogya-3-12-9",
+          "original": "अयं वाव स योऽयमन्तर्हृदय आकाशस्तदेतत्पूर्णमप्रवर्ति पूर्णामप्रवर्तिनीं श्रियं लभते य एवं वेद ॥ ३.१२.९ ॥",
+          "translation": "...è invero questo medesimo spazio che risiede nel segreto del cuore [antarhṛdaye ākāśaḥ]. Esso è la pienezza immutabile e impassibile [pūrṇam apravarti]. Consegue una pienezza perenne e incrollabile colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.12.9"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.13",
+      "section_title": "Le cinque porte del cuore e la Suprema Luce interiore",
+      "passages": [
+        {
+          "id": "chandogya-3-13-1",
+          "original": "तस्य ह वा एतस्य हृदयस्य पञ्च देवसुषयः स योऽस्य प्राङ् सुषिः स प्राणस्तच्चक्षुः स आदित्यस्तदेतत्तेजोऽन्नाद्यमित्युपासीत तेजस्व्यन्नादो भवति य एवं वेद ॥ ३.१३.१ ॥",
+          "translation": "Di questo cuore vi sono cinque aperture divine [devasuṣayaḥ]. L'apertura orientale è il respiro [prāṇa], che è la vista, che è il sole: su di essa si mediti come splendore e nutrimento. Rifulge di splendore ed è capace di assimilare il nutrimento colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.13.1"
+        },
+        {
+          "id": "chandogya-3-13-2",
+          "original": "अथ योऽस्य दक्षिणः सुषिः स व्यानस्तच्छ्रोत्रꣳ स चन्द्रमास्तदेतच्छ्रीश्च यशश्चेत्युपासीत श्रीमान्यशस्वी भवति य एवं वेद ॥ ३.१३.२ ॥",
+          "translation": "L'apertura meridionale è il soffio diffuso [vyāna], che è l'udito, che è la luna: su di essa si mediti come grazia e fama spirituale. Consegue grazia e fama colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.13.2"
+        },
+        {
+          "id": "chandogya-3-13-3",
+          "original": "अथ योऽस्य प्रत्यङ् सुषिः सोऽपानः सा वाक्सोऽग्निस्तदेतद्ब्रह्मवर्चसमन्नाद्यमित्युपासीत ब्रह्मवर्चस्यन्नादो भवति य एवं वेद ॥ ३.१३.३ ॥",
+          "translation": "L'apertura occidentale è il soffio discendente [apāna], che è la parola, che è il fuoco: su di essa si mediti come splendore sacro di Brahman [brahmavarcasa] e nutrimento. Rifulge di splendore sacro ed è capace di assimilare il nutrimento colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.13.3"
+        },
+        {
+          "id": "chandogya-3-13-4",
+          "original": "अथ योऽस्योदङ् सुषिः स समानस्तन्मनः स पर्जन्यस्तदेतत्कीर्तिश्च व्युष्टिश्चेत्युपासीत कीर्तिमान्व्युष्टिमान्भवति य एवं वेद ॥ ३.१३.४ ॥",
+          "translation": "L'apertura settentrionale è il soffio unificante [samāna], che è la mente, che è la pioggia: su di essa si mediti come rinomanza e bellezza luminosa. Consegue rinomanza e bellezza luminosa colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.13.4"
+        },
+        {
+          "id": "chandogya-3-13-5",
+          "original": "अथ योऽस्योर्ध्वः सुषिः स उदानः स वायुः स आकाशस्तदेतदोजश्च महश्चेत्युपासीतौजस्वी महस्वाद्भवति य एवं वेद ॥ ३.१३.५ ॥",
+          "translation": "L'apertura superiore è il soffio ascendente [udāna], che è il vento, che è lo spazio [ākāśa]: su di essa si mediti come vigore sovrano e grandezza. Diviene vigoroso e grande colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.13.5"
+        },
+        {
+          "id": "chandogya-3-13-6",
+          "original": "ते वा एते पञ्च ब्रह्मपुरुषाः स्वर्गस्य लोकस्य द्वारपाः स य एतानेवं पञ्च ब्रह्मपुरुषान्स्वर्गस्य लोकस्य द्वारपान्वेदास्य कुले वीरो जायते प्रतिपद्यते स्वर्गं लोकं य एतानेवं पञ्च ब्रह्मपुरुषान्स्वर्गस्य लोकस्य द्वारपान्वेद ॥ ३.१३.६ ॥",
+          "translation": "Questi sono i cinque ministri di Brahman [brahmapuruṣāḥ], i guardiani della porta del regno celeste. Colui che conosce questi cinque ministri di Brahman come guardiani della porta del cielo genera nella propria discendenza uomini valorosi e accede egli stesso al regno celeste.",
+          "source": "Chāndogya Upaniṣad, III.13.6"
+        },
+        {
+          "id": "chandogya-3-13-7",
+          "original": "अथ यदतः परो दिवो ज्योतिर्दीप्यते विश्वतः पृष्ठेषु सर्वतः पृष्ठेष्वनुत्तमेषूत्तमेषु लोकेष्विदं वाव तद्यदिदमस्मिन्नन्तः पुरुषे ज्योतिस्तस्यैषा दृष्टिः ॥ ३.१३.७ ॥",
+          "translation": "Ora, quella Luce che risplende al di là di questo cielo, al di sopra di ogni cosa, al di sopra della totalità dell'universo, nei mondi supremi oltre i quali non vi è nulla di più alto: questa Luce è invero la medesima Luce che risplende all'interno dell'essere umano [antaḥ puruṣe jyotiḥ]. Di essa questa è la visione diretta:",
+          "source": "Chāndogya Upaniṣad, III.13.7"
+        },
+        {
+          "id": "chandogya-3-13-8",
+          "original": "यत्रैतदस्मिञ्छरीरे संस्पर्शेनोष्णिमानं विजानाति तस्यैषा श्रुतिर्यत्रैतत्कर्णावपिगृह्य निनदमिव नदथुरिवाग्नेरिव ज्वलत उपश‍ृणोति तदेतद्दृष्टं च श्रुतं चेत्युपासीत चक्षुष्यः श्रुतो भवति य एवं वेद य एवं वेद ॥ ३.१३.८ ॥",
+          "translation": "quando in questo corpo si percepisce il calore vitale mediante il contatto. E di essa questo è l'ascolto: quando, turandosi le orecchie, si percepisce un suono simile a un rombo, a un mugghio o allo scoppiettio di un fuoco ardente. Su questa Luce si mediti come su ciò che è stato visto e udito; amato dallo sguardo e celebre diviene colui che possiede questa conoscenza, sì, colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.13.8"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.14",
+      "section_title": "La Śāṇḍilya-vidyā: l'identità tra il Sé interiore e il Brahman onnipresente",
+      "passages": [
+        {
+          "id": "chandogya-3-14-1",
+          "original": "सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत । अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्लोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत ॥ ३.१४.१ ॥",
+          "translation": "Tutto questo universo è invero Brahman: da Esso scaturisce, in Esso si dissolve e in Esso respira [tajjalān]. In pacata calma interiore si mediti su di Esso. L'uomo è invero costituito dalla propria intenzione meditativa [kratumaya]: quale è l'intenzione che egli coltiva in questo mondo, tale egli diviene una volta dipartito da qui. Ponga dunque fermamente la propria intenzione:",
+          "source": "Chāndogya Upaniṣad, III.14.1"
+        },
+        {
+          "id": "chandogya-3-14-2",
+          "original": "मनोमयः प्राणशरीरो भारूपः सत्यसंकल्प आकाशात्मा सर्वकर्मा सर्वकामः सर्वगन्धः सर्वरसः सर्वमिदमभ्यात्तोऽवाक्यनादरः ॥ ३.१४.२ ॥",
+          "translation": "Egli è formato di pura mente [manomayaḥ], ha per corpo il soffio vitale, ha forma di luce radiosa, ha volere infallibile [satyasaṅkalpaḥ], ha la natura pervasiva dello spazio [ākāśātmā]; da Lui procedono tutte le azioni, tutti i desideri puri, tutte le fragranze, tutti i sapori; Egli abbraccia la totalità di questo universo, privo di parola e libero da ogni brama;",
+          "source": "Chāndogya Upaniṣad, III.14.2"
+        },
+        {
+          "id": "chandogya-3-14-3",
+          "original": "एष म आत्माऽन्तर्हृदयेऽणीयान्व्रीहेर्वा यवाद्वा सर्षपाद्वा श्यामाकाद्वा श्यामाकतण्डुलाद्वैष म आत्माऽन्तर्हृदये ज्यायान्पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान्दिवो ज्यायानेभ्यो लोकेभ्यः ॥ ३.१४.३ ॥",
+          "translation": "questo è il mio Sé nel segreto del cuore: più minuto di un chicco di riso, o di orzo, o di un seme di senape, o di un granello di miglio, o del germe di un granello di miglio. Questo è il mio Sé nel segreto del cuore: più vasto della terra, più vasto dello spazio intermedio, più vasto del cielo, più vasto di tutti questi mondi messi insieme.",
+          "source": "Chāndogya Upaniṣad, III.14.3"
+        },
+        {
+          "id": "chandogya-3-14-4",
+          "original": "सर्वकर्मा सर्वकामः सर्वगन्धः सर्वरसः सर्वमिदमभ्यात्तोऽवाक्यनादर एष म आत्मान्तर्हृदय एतद्ब्रह्मैतमितः प्रेत्याभिसंभवितास्मीति यस्य स्यादद्धा न विचिकित्सास्तीति ह स्माह शाण्डिल्यः शाण्डिल्यः ॥ ३.१४.४ ॥",
+          "translation": "Colui dal quale procedono tutte le azioni, tutti i desideri, tutte le fragranze e tutti i sapori, che abbraccia questo universo intero, privo di parola e libero da brama: questo è il mio Sé nel segreto del cuore; questo è Brahman. «Dipartendomi da questo mondo, in Esso io entrerò»: colui che possiede questa incrollabile certezza non ha più alcun dubbio. Così disse Śāṇḍilya, così disse Śāṇḍilya.",
+          "source": "Chāndogya Upaniṣad, III.14.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.15",
+      "section_title": "La Kośa-vidyā: lo scrigno indeperibile dell'universo",
+      "passages": [
+        {
+          "id": "chandogya-3-15-1",
+          "original": "अन्तरिक्षोदरः कोशो भूमिबुध्नो न जीर्यति । दिशो ह्यस्य स्रक्तयो द्यौरस्योत्तरं बिलꣳ स एष कोशो वसुधानस्तस्मिन्विश्वमिदꣳ श्रितम् ॥ ३.१५.१ ॥",
+          "translation": "Lo scrigno che ha lo spazio intermedio per cavità e la terra per fondo non decade mai. I punti cardinali ne sono gli angoli; il cielo ne è l'apertura superiore. Questo scrigno è il ricettacolo di ogni ricchezza: in esso riposa l'intero universo.",
+          "source": "Chāndogya Upaniṣad, III.15.1"
+        },
+        {
+          "id": "chandogya-3-15-2",
+          "original": "तस्य प्राची दिग्जुहूर्नाम सहामाना नाम दक्षिणा राज्ञी नाम प्रतीची सुभूतोदीची तासां वायुर्वत्सः स य एतमेवं वायुं दिशां वत्सं वेद न पुत्ररोदं रोदिति सोऽहमेतमेवं वायुं दिशां वत्सं वेद मा पुत्ररोदं रुदम् ॥ ३.१५.२ ॥",
+          "translation": "Il suo lato orientale ha nome Juhū; quello meridionale Sahamānā; quello occidentale Rājñī; quello settentrionale Subhūtā. Il loro vitello è il vento [Vāyu]. Colui che conosce questo vento come vitello dei punti cardinali non piange mai per la perdita di un figlio. Io conosco questo vento come vitello dei punti cardinali: che io non debba mai piangere per la perdita di un figlio!",
+          "source": "Chāndogya Upaniṣad, III.15.2"
+        },
+        {
+          "id": "chandogya-3-15-3",
+          "original": "अरिष्टं कोशं प्रपद्येऽमुनाऽमुनाऽमुना । प्राणं प्रपद्येऽमुनाऽमुनाऽमुना । भूः प्रपद्येऽमुनाऽमुनाऽमुना । भुवः प्रपद्येऽमुनाऽमुनाऽमुना । स्वः प्रपद्येऽमुनाऽमुनाऽमुना ॥ ३.१५.३ ॥",
+          "translation": "Io prendo rifugio in questo scrigno incorruttibile per la salvezza di questo, di questo e di quest'altro mio bene. Prendo rifugio nel Soffio Vitale [Prāṇa]; prendo rifugio nella terra [Bhūḥ]; prendo rifugio nello spazio intermedio [Bhuvaḥ]; prendo rifugio nel cielo [Svaḥ].",
+          "source": "Chāndogya Upaniṣad, III.15.3"
+        },
+        {
+          "id": "chandogya-3-15-4",
+          "original": "स यदवोचं प्राणं प्रपद्य इति प्राणो वा इदꣳ सर्वं भूतं यदिदं किंच तमेव तत्प्रापत्सि ॥ ३.१५.४ ॥",
+          "translation": "Quando ho detto: «Prendo rifugio nel Prāṇa», poiché il Prāṇa è invero la totalità degli esseri, qualunque cosa esista, è in Esso solo che ho preso rifugio.",
+          "source": "Chāndogya Upaniṣad, III.15.4"
+        },
+        {
+          "id": "chandogya-3-15-5",
+          "original": "अथ यदवोचं भूः प्रपद्य इति पृथिवीं प्रपद्येऽन्तरिक्षं प्रपद्ये दिवं प्रपद्य इत्येव तदवोचम् ॥ ३.१५.५ ॥",
+          "translation": "E quando ho detto: «Prendo rifugio in Bhūḥ», ho inteso dire: «Prendo rifugio nella terra, prendo rifugio nello spazio intermedio, prendo rifugio nel cielo».",
+          "source": "Chāndogya Upaniṣad, III.15.5"
+        },
+        {
+          "id": "chandogya-3-15-6",
+          "original": "अथ यदवोचं भुवः प्रपद्य इत्यग्निं प्रपद्ये वायुं प्रपद्य आदित्यं प्रपद्य इत्येव तदवोचम् ॥ ३.१५.६ ॥",
+          "translation": "E quando ho detto: «Prendo rifugio in Bhuvaḥ», ho inteso dire: «Prendo rifugio nel fuoco, prendo rifugio nel vento, prendo rifugio nel sole».",
+          "source": "Chāndogya Upaniṣad, III.15.6"
+        },
+        {
+          "id": "chandogya-3-15-7",
+          "original": "अथ यदवोचं स्वः प्रपद्य इत्याग्वेदं प्रपद्ये यजुर्वेदं प्रपद्ये सामवेदं प्रपद्य इत्येव तदवोचन्तदवोचम् ॥ ३.१५.७ ॥",
+          "translation": "E quando ho detto: «Prendo rifugio in Svaḥ», ho inteso dire: «Prendo rifugio nel Ṛgveda, prendo rifugio nello Yajurveda, prendo rifugio nel Sāmaveda». Questo solo ho inteso dire, sì, questo ho inteso dire.",
+          "source": "Chāndogya Upaniṣad, III.15.7"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.16",
+      "section_title": "Il Puruṣa-yajña: l'esistenza umana come triplice sacrificio vitale",
+      "passages": [
+        {
+          "id": "chandogya-3-16-1",
+          "original": "पुरुषो वाव यज्ञस्तस्य यानि चतुर्विꣳशति वर्षाणि तत्प्रातःसवनं चतुर्विꣳशत्यक्षरा गायत्री गायत्रं प्रातःसवनं तदस्य वसवोऽन्वायत्ताः प्राणा वाव वसव एते हीदꣳ सर्वं वासयन्ति ॥ ३.१६.१ ॥",
+          "translation": "L'essere umano [puruṣa] è invero il sacrificio. I suoi primi ventiquattro anni di vita sono la spremitura mattutina [prātaḥsavana]: di ventiquattro sillabe è infatti formato il metro Gāyatrī, e al metro Gāyatrī appartiene la spremitura mattutina. A essa sono legati i Vasu; e i soffi vitali sono i Vasu, poiché essi fanno dimorare [vāsayanti] tutto questo universo.",
+          "source": "Chāndogya Upaniṣad, III.16.1"
+        },
+        {
+          "id": "chandogya-3-16-2",
+          "original": "तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा वसव इदं मे प्रातःसवनं माध्यंदिनꣳ सवनमनुसन्तनुतेति माहमन्तरा प्राणानां वसूनां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो ह भवति ॥ ३.१६.२ ॥",
+          "translation": "Se in questa prima età dell'esistenza egli è colto da una malattia, dica: «O soffi vitali che siete i Vasu, congiungete questa mia spremitura mattutina con la spremitura meridiana, affinché io, che sono il sacrificio, non sia interrotto prematuramente nel mezzo dei soffi vitali che sono i Vasu!». Così facendo, egli guarisce e supera la malattia.",
+          "source": "Chāndogya Upaniṣad, III.16.2"
+        },
+        {
+          "id": "chandogya-3-16-3",
+          "original": "अथ यानि चतुश्चत्वारिꣳशद्वर्षाणि तन्माध्यंदिनꣳ सवनं चतुश्चत्वारिꣳशदक्षरा त्रिष्टुब्त्रैष्टुभं माध्यंदिनꣳ सवनं तदस्य रुद्रा अन्वायत्ताः प्राणा वाव रुद्रा एते हीदꣳ सर्वꣳ रोदयन्ति ॥ ३.१६.३ ॥",
+          "translation": "I successivi quarantaquattro anni di vita sono la spremitura meridiana [mādhyaṁdina savana]: di quarantaquattro sillabe è infatti formato il metro Triṣṭubh, e al metro Triṣṭubh appartiene la spremitura meridiana. A essa sono legati i Rudra; e i soffi vitali sono i Rudra, poiché, dipartendosi dal corpo, fanno piangere [rodayanti] tutti quanti.",
+          "source": "Chāndogya Upaniṣad, III.16.3"
+        },
+        {
+          "id": "chandogya-3-16-4",
+          "original": "तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा रुद्रा इदं मे माध्यंदिनꣳ सवनं तृतीयसवनमनुसन्तनुतेति माहमन्तरा प्राणानां रुद्राणां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो ह भवति ॥ ३.१६.४ ॥",
+          "translation": "Se in questa seconda età egli è colto da malattia, dica: «O soffi vitali che siete i Rudra, congiungete questa mia spremitura meridiana con la terza spremitura, affinché io, che sono il sacrificio, non sia interrotto nel mezzo dei soffi vitali che sono i Rudra!». Così facendo, egli guarisce e supera la malattia.",
+          "source": "Chāndogya Upaniṣad, III.16.4"
+        },
+        {
+          "id": "chandogya-3-16-5",
+          "original": "अथ यान्यष्टाचत्वारिꣳशद्वर्षाणि तत्तृतीयसवनमष्टाचत्वारिꣳशदक्षरा जगती जागतं तृतीयसवनं तदस्यादित्या अन्वायत्ताः प्राणा वावादित्या एते हीदꣳ सर्वमाददते ॥ ३.१६.५ ॥",
+          "translation": "I successivi quarantotto anni di vita sono la terza spremitura [tṛtīyasavana]: di quarantotto sillabe è formato il metro Jagatī, e al metro Jagatī appartiene la terza spremitura. A essa sono legati gli Āditya; e i soffi vitali sono gli Āditya, poiché essi assorbono [ādadate] ogni cosa nell'universo.",
+          "source": "Chāndogya Upaniṣad, III.16.5"
+        },
+        {
+          "id": "chandogya-3-16-6",
+          "original": "तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा आदित्या इदं मे तृतीयसवनमायुरनुसन्तनुतेति माहमन्तरा प्राणानामादित्यानां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति ॥ ३.१६.६ ॥",
+          "translation": "Se in questa terza età egli è colto da malattia, dica: «O soffi vitali che siete gli Āditya, congiungete questa mia terza spremitura con la piena durata della vita, affinché io, che sono il sacrificio, non sia interrotto nel mezzo dei soffi vitali che sono gli Āditya!». Così facendo, egli guarisce e supera la malattia.",
+          "source": "Chāndogya Upaniṣad, III.16.6"
+        },
+        {
+          "id": "chandogya-3-16-7",
+          "original": "एतद्ध स्म वै तद्विद्वानाह महिदास ऐतरेयः स किं म एतदुपतपसि योऽहमनेन न प्रेष्यामीति स ह षोडशं वर्षशतमजीवत्प्र ह षोडशं वर्षशतं जीवति य एवं वेद ॥ ३.१६.७ ॥",
+          "translation": "Conoscendo questa verità, Mahīdāsa Aitareya diceva: «Perché mai tenti di affliggermi con la malattia, dal momento che io non perirò per causa sua?». Egli visse per centosedici anni; e fino a centosedici anni vive con pienezza colui che possiede tale conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.16.7"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.17",
+      "section_title": "La trasfigurazione delle azioni e l'insegnamento di Ghora Āṅgirasa a Kṛṣṇa Devakīputra",
+      "passages": [
+        {
+          "id": "chandogya-3-17-1",
+          "original": "स यदशिशिषति यत्पिपासति यन्न रमते ता अस्य दीक्षाः ॥ ३.१७.१ ॥",
+          "translation": "Quando l'uomo prova fame, quando ha sete, quando non gode di piaceri mondani: tutte queste privazioni costituiscono la sua consacrazione sacrificale [dīkṣā].",
+          "source": "Chāndogya Upaniṣad, III.17.1"
+        },
+        {
+          "id": "chandogya-3-17-2",
+          "original": "अथ यदश्नाति यत्पिबति यद्रमते तदुपसदैरेति ॥ ३.१७.२ ॥",
+          "translation": "Quando egli mangia, quando beve, quando prova gioia: tutto questo equivale per lui ai riti propiziatori intermedi [upasad].",
+          "source": "Chāndogya Upaniṣad, III.17.2"
+        },
+        {
+          "id": "chandogya-3-17-3",
+          "original": "अथ यद्धसति यज्जक्षति यन्मैथुनं चरति स्तुतशस्त्रैरेव तदेति ॥ ३.१७.३ ॥",
+          "translation": "Quando ride, quando banchetta festoso, quando si unisce alla donna: tutto questo equivale per lui ai canti di lode e alle recitazioni sacre [stuta-śastra].",
+          "source": "Chāndogya Upaniṣad, III.17.3"
+        },
+        {
+          "id": "chandogya-3-17-4",
+          "original": "अथ यत्तपो दानमार्जवमहिꣳसा सत्यवचनमिति ता अस्य दक्षिणाः ॥ ३.१७.४ ॥",
+          "translation": "E l'ascesi interiore [tapas], la carità generosa [dāna], la rettitudine [ārjava], la non-violenza [ahiṁsā] e la parola veritiera [satyavacana]: queste virtù sono i suoi doni sacerdotali [dakṣiṇā].",
+          "source": "Chāndogya Upaniṣad, III.17.4"
+        },
+        {
+          "id": "chandogya-3-17-5",
+          "original": "तस्मादाहुः सोष्यत्यसोष्टेति पुनरुत्पादनमेवास्य तन्मरणमेवास्यावभृथः ॥ ३.१७.५ ॥",
+          "translation": "Perciò si dice nel rito: «Egli spremerà il Soma», e «ha spremuto il Soma». La procreazione di una nuova vita è la sua spremitura sacra; la morte finale del corpo è il suo bagno lustrale conclusivo [avabhṛtha].",
+          "source": "Chāndogya Upaniṣad, III.17.5"
+        },
+        {
+          "id": "chandogya-3-17-6",
+          "original": "तद्धैतद्घोर आङ्गिरसः कृष्णाय देवकीपुत्रायोक्त्वोवाचापिपास एव स बभूव सोऽन्तवेलायामेतत्त्रयं प्रतिपद्येताक्षितमस्यच्युतमसि प्राणसंशितमसीति तत्रैते द्वे ऋचौ भवतः ॥ ३.१७.६ ॥",
+          "translation": "Il saggio Ghora Āṅgirasa, dopo aver spiegato questa dottrina a Kṛṣṇa, figlio di Devakī, gli disse: «Chi comprende ciò diviene del tutto libero dalla sete di rinascite». Nell'ora estrema della morte l'uomo deve rifugiarsi in queste tre verità: «Tu sei l'Imperituro [akṣitam asi]; Tu sei l'Immutabile [acyutam asi]; Tu sei l'Essenza affilata della Vita [prāṇasaṁśitam asi]». A questo proposito vi sono questi due versi:",
+          "source": "Chāndogya Upaniṣad, III.17.6"
+        },
+        {
+          "id": "chandogya-3-17-7",
+          "original": "यदादित्प्रत्नस्य रेतसो ज्योतिः पश्यन्ति वासरम् । परो यदिध्यते दिवा ॥ उद्वयं तमसस्परि ज्योतिः पश्यन्त उत्तरम् । स्वः पश्यन्त उत्तरं देवं देवत्रा सूर्यमगन्म ज्योतिरुत्तममिति ज्योतिरुत्तममिति ॥ ३.१७.७ ॥",
+          "translation": "«I saggi scorgono la primordiale sorgente di luce che rifulge perenne di giorno, ardendo al di là dell'alto cielo». «Elevandoci al di sopra delle tenebre, contemplando la Luce suprema, contemplando il cielo luminoso, siamo giunti a Sūrya, il Dio supremo tra gli dèi, la Luce suprema, sì, la Luce suprema!».",
+          "source": "Chāndogya Upaniṣad, III.17.7"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.18",
+      "section_title": "La contemplazione quadripartita di Brahman nella mente e nello spazio",
+      "passages": [
+        {
+          "id": "chandogya-3-18-1",
+          "original": "मनो ब्रह्मेत्युपासीतेत्यध्यात्ममथाधिदैवतमाकाशो ब्रह्मेत्युभयमादिष्टं भवत्यध्यात्मं चाधिदैवतं च ॥ ३.१८.१ ॥",
+          "translation": "Si mediti sulla mente [manas] come Brahman: questo per l'ordine interiore corporeo [adhyātma]. Ora per l'ordine cosmico [adhidaivata]: si mediti sullo spazio [ākāśa] come Brahman. Così viene esposto il duplice insegnamento, nel microcosmo e nel macrocosmo.",
+          "source": "Chāndogya Upaniṣad, III.18.1"
+        },
+        {
+          "id": "chandogya-3-18-2",
+          "original": "तदेतद्ब्रह्म चतुष्पाद्वाक्पादः प्राणः पादश्चक्षुः पादः श्रोत्रं पाद इत्यध्यात्ममथाधिदैवतमग्निः पादो वायुः पाद आदित्यः पादो दिशः पाद इत्युभयमेवादिष्टं भवत्यध्यात्मं चैवाधिदैवतं च ॥ ३.१८.२ ॥",
+          "translation": "Questo Brahman ha quattro piedi [quarti]. Nel microcosmo: la parola è un quarto, il respiro è un quarto, la vista è un quarto, l'udito è un quarto. Nel macrocosmo: il fuoco è un quarto, il vento è un quarto, il sole è un quarto, le direzioni dello spazio sono un quarto. Così viene esposto l'insegnamento relativo all'uomo e al cosmo.",
+          "source": "Chāndogya Upaniṣad, III.18.2"
+        },
+        {
+          "id": "chandogya-3-18-3",
+          "original": "वागेव ब्रह्मणश्चतुर्थः पादः सोऽग्निना ज्योतिषा भाति च तपति च भाति च तपति च कीर्त्या यशसा ब्रह्मवर्चसेन य एवं वेद ॥ ३.१८.३ ॥",
+          "translation": "La parola è il primo quarto di Brahman: essa splende e riscalda per mezzo del fuoco che è la sua luce. Splende e riscalda per rinomanza, gloria e splendore sacro di Brahman colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.18.3"
+        },
+        {
+          "id": "chandogya-3-18-4",
+          "original": "प्राण एव ब्रह्मणश्चतुर्थः पादः स वायुना ज्योतिषा भाति च तपति च भाति च तपति च कीर्त्या यशसा ब्रह्मवर्चसेन य एवं वेद ॥ ३.१८.४ ॥",
+          "translation": "Il respiro vitale è il secondo quarto di Brahman: esso splende e riscalda per mezzo del vento che è la sua luce. Splende e riscalda per rinomanza, gloria e splendore sacro di Brahman colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.18.4"
+        },
+        {
+          "id": "chandogya-3-18-5",
+          "original": "चक्षुरेव ब्रह्मणश्चतुर्थः पादः स आदित्येन ज्योतिषा भाति च तपति च भाति च तपति च कीर्त्या यशसा ब्रह्मवर्चसेन य एवं वेद ॥ ३.१८.५ ॥",
+          "translation": "La vista è il terzo quarto di Brahman: essa splende e riscalda per mezzo del sole che è la sua luce. Splende e riscalda per rinomanza, gloria e splendore sacro di Brahman colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.18.5"
+        },
+        {
+          "id": "chandogya-3-18-6",
+          "original": "श्रोत्रमेव ब्रह्मणश्चतुर्थः पादः स दिग्भिर्ज्योतिषा भाति च तपति च भाति च तपति च कीर्त्या यशसा ब्रह्मवर्चसेन य एवं वेद ॥ ३.१८.६ ॥",
+          "translation": "L'udito è il quarto quarto di Brahman: esso splende e riscalda per mezzo delle direzioni dello spazio che sono la sua luce. Splende e riscalda per rinomanza, gloria e splendore sacro di Brahman colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, III.18.6"
+        }
+      ]
+    },
+    {
+      "section_locus": "3.19",
+      "section_title": "La dottrina dell'Uovo cosmico e la nascita del Sole da Brahman",
+      "passages": [
+        {
+          "id": "chandogya-3-19-1",
+          "original": "आदित्यो ब्रह्मेत्यादेशस्तस्योपव्याख्यानमसदैवेदमग्र आसीत्तत्सदासीत्तत्समभवत्तदाण्डं निरवर्तत तत्संवत्सरस्य मात्रामशयित तन्निरभिद्यत ते आण्डकपाले रजतं च सुवर्णं चाभवताम् ॥ ३.१९.१ ॥",
+          "translation": "«Il Sole è Brahman»: questo è l'insegnamento. Segue la sua spiegazione: all'inizio questo universo era invero il non-manifesto [asat]; esso si manifestò come essere [sat]; prese consistenza corporea; si sviluppò nella forma di un uovo; rimase in gestazione per la durata di un anno cosmico; quindi si schiuse in due metà: l'una d'argento e l'altra d'oro.",
+          "source": "Chāndogya Upaniṣad, III.19.1"
+        },
+        {
+          "id": "chandogya-3-19-2",
+          "original": "तद्यद्रजतꣳ सेयं पृथिवी यत्सुवर्णं सा द्यौर्यज्जरायु ते पर्वता यदुल्बꣳ समेघो नीहारो या धमनयस्ता नद्यो यद्वास्तेयमुदकꣳ स समुद्रः ॥ ३.१९.२ ॥",
+          "translation": "La metà d'argento è questa terra; la metà d'oro è la volta celeste. La membrana esterna sono i monti; la membrana interna sono le nubi e le nebbie; i vasi sanguigni sono i fiumi; il liquido interno è l'oceano primordiale.",
+          "source": "Chāndogya Upaniṣad, III.19.2"
+        },
+        {
+          "id": "chandogya-3-19-3",
+          "original": "अथ यत्तदजायत सोऽसावादित्यस्तं जायमानं घोषा उलूलवोऽनूदतिष्ठन्सर्वाणि च भूतानि सर्वे च कामास्तस्मात्तस्योदयं प्रति प्रत्यायनं प्रति घोषा उलूलवोऽनूत्तिष्ठन्ति सर्वाणि च भूतानि सर्वे चैव कामाः ॥ ३.१९.३ ॥",
+          "translation": "Ciò che da quell'uovo nacque è quel sole lassù. Al suo sorgere si levarono grida gioiose di trionfo e comparvero tutti gli esseri e tutti i desideri. Per questo motivo, ogni volta che il sole sorge e ogni volta che ritorna al tramonto, si levano grida gioiose, si destano tutti gli esseri e rinascono tutti i desideri.",
+          "source": "Chāndogya Upaniṣad, III.19.3"
+        },
+        {
+          "id": "chandogya-3-19-4",
+          "original": "स य एतमेवं विद्वानादित्यं ब्रह्मेत्युपास्तेऽभ्याशो ह यदेनꣳ साधवो घोषा आ च गच्छेयुरुप च निम्रेडेरन्निम्रेडेरन् ॥ ३.१९.४ ॥",
+          "translation": "Colui che, possedendo tale conoscenza, medita sul Sole come Brahman, fa sì che suoni armoniosi e canti benefici convergano verso di lui e lo rallegrino continuamente, sì, lo rallegrino perennemente.",
+          "source": "Chāndogya Upaniṣad, III.19.4"
+        }
+      ]
+    }
+  ]
+}

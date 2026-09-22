@@ -1,0 +1,19 @@
+{
+  "id": "q-chandogya-pancagni-vairagya",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è lo scopo dottrinale dell'insegnamento sui cinque fuochi e sulla rinascita?",
+  "problem": "La dettagliata esposizione della discesa dell'anima attraverso i cinque fuochi e della sorte dolorosa delle creature nel saṁsāra ha come scopo primario quello di suscitare il disincanto (tasmāj jugupseta), poiché la percezione della transitorietà di ogni condizione fenomenica è il fondamento indispensabile per la ricerca della vera Conoscenza del Sé.",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "pancagni-vidya",
+    "vairagya"
+  ],
+  "passages": [
+    "chandogya-5-9-1",
+    "chandogya-5-10-8"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

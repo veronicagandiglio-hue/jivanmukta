@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-purusa-sole-e-occhio",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato metafisico dell'omologia tra il Puruṣa nel sole e il Puruṣa nell'occhio?",
+  "problem": "La Chāndogya Upaniṣad dimostra l'identità fondamentale tra il Reggitore cosmico (Īśvara) contemplato nel sole e il Principio cosciente testimonio presente nel cuore della visione individuale, gettando il fondamento per l'identità non duale tra Ātman e Brahman.",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "purusa",
+    "atman",
+    "brahman"
+  ],
+  "passages": [
+    "chandogya-1-6-6",
+    "chandogya-1-7-5"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

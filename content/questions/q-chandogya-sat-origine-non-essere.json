@@ -1,0 +1,19 @@
+{
+  "id": "q-chandogya-sat-origine-non-essere",
+  "scope": "local",
+  "type": "specific",
+  "text": "Per quale ragione l'Upaniṣad rigetta la tesi che l'universo sia scaturito dal non-essere (Asat)?",
+  "problem": "Nel verso 6.2.2, Uddālaka confuta la possibilità che l'Essere scaturisca dal Non-essere («Kathaṁ hy asataḥ saj jāyeta»): il nulla privo di consistenza non possiede potere causale, e la nozione di causa presuppone l'eternità dell'Essere puro, unico e non duale.",
+  "parent_question": "q-che-cose-l-assoluto",
+  "concepts": [
+    "sat",
+    "ekamevadvitiyam"
+  ],
+  "passages": [
+    "chandogya-6-2-1",
+    "chandogya-6-2-2"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

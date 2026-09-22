@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-bhuman-definizione",
+  "scope": "local",
+  "type": "specific",
+  "text": "In che modo l'assenza di alterità («dove non si vede altro») definisce l'Infinito (Bhūman) rispetto al Finito (Alpa)?",
+  "problem": "Nel celebre verso 7.24.1, Sanatkumāra identifica il Bhūman con la dimensione non duale in cui cade la triade di percipiente, percezione e percepito: ogni volta che un soggetto percepisce un oggetto come 'altro' da sé si è nel finito, che è mortale e foriero di sofferenza; la sola Pienezza priva di alterità è immortale e coincide con l'Assoluto.",
+  "parent_question": "q-che-cose-l-assoluto",
+  "concepts": [
+    "bhuman",
+    "alpa",
+    "brahman"
+  ],
+  "passages": [
+    "chandogya-7-23-1",
+    "chandogya-7-24-1"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

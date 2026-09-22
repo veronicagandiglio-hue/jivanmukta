@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-brahmasamstha-amrtatva",
+  "scope": "local",
+  "type": "specific",
+  "text": "Per quale ragione l'immortalità (amṛtatva) appartiene esclusivamente al Brahmasaṁstha, mentre le opere religiose conducono soltanto a mondi meritori?",
+  "problem": "Il testo distingue tassativamente tra i tre rami del dovere rituale ed etico (sacrificio, ascesi, discepolato), i cui frutti appartengono alla sfera transitoria del merito (puṇyaloka), e la condizione di colui che è stabilito in modo indiviso in Brahman (brahmasaṁstha), che solo consegue la liberazione incondizionata al di là di ogni divenire.",
+  "parent_question": "q-che-cose-la-liberazione",
+  "concepts": [
+    "brahmasamstha",
+    "dharmaskandha",
+    "liberazione",
+    "brahman"
+  ],
+  "passages": [
+    "chandogya-2-23-1"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

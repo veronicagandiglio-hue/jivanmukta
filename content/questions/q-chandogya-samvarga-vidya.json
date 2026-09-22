@@ -1,0 +1,22 @@
+{
+  "id": "q-chandogya-samvarga-vidya",
+  "scope": "local",
+  "type": "specific",
+  "text": "Che cosa rivela la dottrina dell'Assorbitore (Saṁvarga-vidyā) riguardo all'unità tra macrocosmo e microcosmo?",
+  "problem": "L'insegnamento di Raikva mostra come le manifestazioni esteriori del cosmo si risolvano nel Vento (Vāyu) e le facoltà cognitive interiori nel Respiro (Prāṇa): Vāyu e Prāṇa sono le due facce del medesimo principio mediatore che riconduce il molteplice all'Uno.",
+  "parent_question": "q-che-cose-brahman",
+  "concepts": [
+    "samvarga",
+    "prana",
+    "brahman"
+  ],
+  "passages": [
+    "chandogya-4-3-1",
+    "chandogya-4-3-2",
+    "chandogya-4-3-3",
+    "chandogya-4-3-4"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

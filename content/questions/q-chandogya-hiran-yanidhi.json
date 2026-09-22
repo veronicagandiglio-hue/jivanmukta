@@ -1,0 +1,19 @@
+{
+  "id": "q-chandogya-hiran-yanidhi",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato metafisico della similitudine del tesoro d'oro sepolto (Hiraṇyanidhi)?",
+  "problem": "Nel verso 8.3.2, Sanatkumāra/l'Upaniṣad paragona gli uomini a persone ignare che calpestano ogni giorno un tesoro aureo sepolto senza scoprirlo: allo stesso modo, tutte le creature entrano quotidianamente in Brahman durante il sonno profondo (suṣupti) senza rendersene conto, poiché sono velate dall'illusione dell'irreale (anṛta).",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "susupti",
+    "atman",
+    "brahman"
+  ],
+  "passages": [
+    "chandogya-8-3-2"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

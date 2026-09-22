@@ -103,6 +103,461 @@
     "editorial_status": "established",
     "source_file": "notes/note-bana.json"
   },
+  "note-chandogya-1-1-1-udgitha": {
+    "id": "note-chandogya-1-1-1-udgitha",
+    "passage_id": "chandogya-1-1-1",
+    "term": "Udgītha",
+    "text": "La sezione principale della melodia liturgica del Sāmaveda cantata dall'udgātṛ. Nel contesto upaniṣadico viene trasposta da elemento cerimoniale a supremo supporto contemplativo coincidente con la sillaba Oṃ.",
+    "source_file": "notes/note-chandogya-1-1-1-udgitha.json"
+  },
+  "note-chandogya-1-10-3-ucchista": {
+    "id": "note-chandogya-1-10-3-ucchista",
+    "passage_id": "chandogya-1-10-3",
+    "term": "Ucchiṣṭa",
+    "text": "Il residuo alimentare lasciato da un altro commensale o toccato dalla sua bocca, considerato ritualmente impuro dalla legge sacra brahmanica (smṛti). Il testo ne ammette il consumo esclusivamente in caso di pericolo mortale imminente (āpaddharma).",
+    "source_file": "notes/note-chandogya-1-10-3-ucchista.json"
+  },
+  "note-chandogya-1-12-1-sauva-udgitha": {
+    "id": "note-chandogya-1-12-1-sauva-udgitha",
+    "passage_id": "chandogya-1-12-1",
+    "term": "Śauva Udgītha",
+    "text": "L'«Udgītha canino»: visione allegorica in cui animali guidati da un cane bianco (incarnazione o manifestazione simbolica di una divinità) intonano un inno per il cibo, mostrando la corrispondenza tra il rito sacrificale e il moto naturale con cui tutti i viventi dipendono dal Principio divino per il sostentamento.",
+    "source_file": "notes/note-chandogya-1-12-1-sauva-udgitha.json"
+  },
+  "note-chandogya-1-13-3-stobha-anirukta": {
+    "id": "note-chandogya-1-13-3-stobha-anirukta",
+    "passage_id": "chandogya-1-13-3",
+    "term": "Anirukta",
+    "text": "Termine tecnico vedico che qualifica ciò che è «inespresso», «indefinibile» o «non concettualizzato», simboleggiante il fondo trascendente dell'Assoluto che non può essere racchiuso da alcuna formula formulata.",
+    "source_file": "notes/note-chandogya-1-13-3-stobha-anirukta.json"
+  },
+  "note-chandogya-1-2-7-mukhya-prana": {
+    "id": "note-chandogya-1-2-7-mukhya-prana",
+    "passage_id": "chandogya-1-2-7",
+    "term": "Mukhya Prāṇa",
+    "text": "Il soffio vitale principale che risiede nella bocca o nel cuore, distinto dalle funzioni sensorie particolari. Non essendo legato a un organo percettivo esposto all'attrazione e al rifiuto, rappresenta l'integrità del principio vivente immune dal male morale o fenomenico.",
+    "source_file": "notes/note-chandogya-1-2-7-mukhya-prana.json"
+  },
+  "note-chandogya-1-3-3-vyana": {
+    "id": "note-chandogya-1-3-3-vyana",
+    "passage_id": "chandogya-1-3-3",
+    "term": "Vyāna",
+    "text": "Uno dei cinque soffi vitali canonici; funge da legame e punto di quiete tra espirazione (prāṇa) e inspirazione (apāna), permettendo il compimento delle azioni che richiedono la momentanea ritenzione del respiro.",
+    "source_file": "notes/note-chandogya-1-3-3-vyana.json"
+  },
+  "note-chandogya-1-4-2-chandas": {
+    "id": "note-chandogya-1-4-2-chandas",
+    "passage_id": "chandogya-1-4-2",
+    "term": "Chandas",
+    "text": "I metri sacri vedici (Gāyatrī, Triṣṭubh, Jagatī, ecc.). Il testo valorizza l'etimologia dalla radice sanscrita 'chad' (coprire, velare, proteggere): i metri fungono da veste difensiva per le creature minacciate dalla mortalità, ma rappresentano una protezione ancora subordinata alla sillaba non composta Oṃ.",
+    "source_file": "notes/note-chandogya-1-4-2-chandas.json"
+  },
+  "note-chandogya-1-6-7-ud": {
+    "id": "note-chandogya-1-6-7-ud",
+    "passage_id": "chandogya-1-6-7",
+    "term": "Ud",
+    "text": "Nome esoterico del Puruṣa solare. 'Ud' significa 'asceso' o 'elevato al di sopra': il testo spiega che Egli è libero e trascendente rispetto a ogni imperfezione, attaccamento o male (sarvebhyaḥ pāpmabhya uditaḥ).",
+    "source_file": "notes/note-chandogya-1-6-7-ud.json"
+  },
+  "note-chandogya-1-7-5-purusa-aksini": {
+    "id": "note-chandogya-1-7-5-purusa-aksini",
+    "passage_id": "chandogya-1-7-5",
+    "term": "Puruṣa nell'occhio",
+    "text": "Il principio cosciente che illumina l'atto visivo interiore (il testimone della vista). Nel commentario di Śaṅkara si chiarisce che non si tratta di un'ombra o di un riflesso anatomico, bensì del Signore supremo (Īśvara/Brahman) che dimora nel cuore dell'individuo come Sé reale.",
+    "source_file": "notes/note-chandogya-1-7-5-purusa-aksini.json"
+  },
+  "note-chandogya-1-9-1-akasa": {
+    "id": "note-chandogya-1-9-1-akasa",
+    "passage_id": "chandogya-1-9-1",
+    "term": "Ākāśa",
+    "text": "Nel commentario di Śaṅkara e nei Brahma Sūtra (I.1.22: «ākāśas talliṅgāt»), si stabilisce in modo perentorio che qui Ākāśa non indica l'elemento grossolano o sottile dello spazio fisico, ma il Brahman supremo, in quanto unico principio dotato dei caratteri di causa prima, onnipervadenza e mèta ultima del riassorbimento universale.",
+    "source_file": "notes/note-chandogya-1-9-1-akasa.json"
+  },
+  "note-chandogya-2-1-1-sadhu": {
+    "id": "note-chandogya-2-1-1-sadhu",
+    "passage_id": "chandogya-2-1-1",
+    "term": "Sādhu",
+    "text": "Termine sanscrito che esprime ciò che è retto, benefico, armonico e conforme all'ordine universale (dharma). L'Upaniṣad stabilisce un'omofonia ed equivalenza ontologica tra Sāman e sādhu, fondando il canto liturgico sul principio metafisico del bene oggettivo.",
+    "source_file": "notes/note-chandogya-2-1-1-sadhu.json"
+  },
+  "note-chandogya-2-10-5-ventidue-sillabe": {
+    "id": "note-chandogya-2-10-5-ventidue-sillabe",
+    "passage_id": "chandogya-2-10-5",
+    "term": "Ventiduesima sillaba e superamento del sole",
+    "text": "Nella dottrina upaniṣadica il numero ventuno simboleggia l'intera estensione del cosmo manifesto (dodici mesi, cinque stagioni, tre mondi e il sole). La ventiduesima sillaba rappresenta ciò che trascende la manifestazione ciclica, indicando il conseguimento dell'immortalità incondizionata (nāka, viśoka).",
+    "source_file": "notes/note-chandogya-2-10-5-ventidue-sillabe.json"
+  },
+  "note-chandogya-2-13-1-vamadevya": {
+    "id": "note-chandogya-2-13-1-vamadevya",
+    "passage_id": "chandogya-2-13-1",
+    "term": "Vāmadevya Sāman e l'unione vitale",
+    "text": "Il Vāmadevya Sāman è liturgicamente connesso alla fecondità e alla nascita. Nella contemplazione upaniṣadica, la polarità complementare e l'unione vitale vengono sottratte all'angustia passionale e trasposte a simbolo della continua generazione e armonia con cui il Principio rinnova la manifestazione.",
+    "source_file": "notes/note-chandogya-2-13-1-vamadevya.json"
+  },
+  "note-chandogya-2-19-2-majjnah": {
+    "id": "note-chandogya-2-19-2-majjnah",
+    "passage_id": "chandogya-2-19-2",
+    "term": "Majjñaḥ",
+    "text": "Termine plurale sanscrito che denota il midollo e, per estensione, la carne o sostanza animale derivata da macellazione. L'astensione dal consumo di carne costituisce una disciplina essenziale per chi medita sul corpo umano come ricettacolo puro del canto sacro.",
+    "source_file": "notes/note-chandogya-2-19-2-majjnah.json"
+  },
+  "note-chandogya-2-21-4-sarvam-asmi": {
+    "id": "note-chandogya-2-21-4-sarvam-asmi",
+    "passage_id": "chandogya-2-21-4",
+    "term": "Sarvam asmīti",
+    "text": "«Io sono tutto»: formula contemplativa di fondamentale rilievo nell'esegesi vedāntica (Śaṅkara-bhāṣya). Esprime il sarvātma-bhāva (la consapevolezza dell'identità del Sé con la totalità dei mondi e degli esseri), che segna il vertice della purificazione mentale raggiungibile mediante l'upāsanā prima del sorgere della conoscenza pura dell'Assoluto privo di attributi.",
+    "source_file": "notes/note-chandogya-2-21-4-sarvam-asmi.json"
+  },
+  "note-chandogya-2-23-1-brahmasamstha": {
+    "id": "note-chandogya-2-23-1-brahmasamstha",
+    "passage_id": "chandogya-2-23-1",
+    "term": "Brahmasaṁstha",
+    "text": "Composto da Brahman e dalla radice sthā con il prefisso sam (dimorare stabilmente, essere fermamente fondato). Nel commentario di Śaṅkara e nei Brahma Sūtra (III.4.20) si chiarisce che tale termine non indica semplicemente un individuo pio all'interno delle attività ordinarie, ma qualifica colui che ha rinunciato all'illusione dell'agente rituale (il saṁnyāsin) ed è interamente dedito alla contemplazione dell'Assoluto, attingendo perciò la vera liberazione (amṛtatva) preclusa ai soli meriti dell'azione (karma).",
+    "source_file": "notes/note-chandogya-2-23-1-brahmasamstha.json"
+  },
+  "note-chandogya-2-23-3-sankuna": {
+    "id": "note-chandogya-2-23-3-sankuna",
+    "passage_id": "chandogya-2-23-3",
+    "term": "Śaṅkunā sarvāṇi parṇāni saṁtṛṇṇāni",
+    "text": "La similitudine della nervatura vegetale: come la venatura primaria attraversa, alimenta e tiene unite tutte le fibre della foglia, così l'Oṃkāra sostiene, unifica e pervade ogni suono articolato e la totalità dell'universo fenomenico.",
+    "source_file": "notes/note-chandogya-2-23-3-sankuna.json"
+  },
+  "note-chandogya-2-24-2-lokah-yajamanasya": {
+    "id": "note-chandogya-2-24-2-lokah-yajamanasya",
+    "passage_id": "chandogya-2-24-2",
+    "term": "Kva tarhi yajamānasya lokaḥ",
+    "text": "L'interrogativo dialettico dei maestri vedici: se i tre regni sono già posseduti dalle divinità delle tre spremiture (Vasu, Rudra, Āditya), quale luogo rimane per l'uomo? La risposta risiede nella conoscenza iniziatica dei Sāman che sblocca i chiavistelli (parigha) delle tre porte cosmiche.",
+    "source_file": "notes/note-chandogya-2-24-2-lokah-yajamanasya.json"
+  },
+  "note-chandogya-3-1-1-madhuvidya": {
+    "id": "note-chandogya-3-1-1-madhuvidya",
+    "passage_id": "chandogya-3-1-1",
+    "term": "Devamadhu",
+    "text": "Il «miele degli dèi»: potente metafora cosmologica in cui il sole visibile è contemplato come un favo sospeso nello spazio, i cui raggi sono celle nutritive riempite dalle essenze distillate dei quattro Veda e delle dottrine segrete.",
+    "source_file": "notes/note-chandogya-3-1-1-madhuvidya.json"
+  },
+  "note-chandogya-3-11-3-sakrd-diva": {
+    "id": "note-chandogya-3-11-3-sakrd-diva",
+    "passage_id": "chandogya-3-11-3",
+    "term": "Sakṛd divā haivāsmai bhavati",
+    "text": "«Per lui vi è perennemente giorno»: culminazione metafisica della Madhuvidyā. Nel commentario di Śaṅkara si chiarisce che per il conoscitore di Brahman il tempo ciclico cessa di esistere: non vi è più né ieri né domani, né alba né tramonto, poiché la coscienza è stabilita nella luce increata e non duale del Sé assoluto.",
+    "source_file": "notes/note-chandogya-3-11-3-sakrd-diva.json"
+  },
+  "note-chandogya-3-14-1-kratumayah": {
+    "id": "note-chandogya-3-14-1-kratumayah",
+    "passage_id": "chandogya-3-14-1",
+    "term": "Kratumayaḥ puruṣaḥ",
+    "text": "'Kratu' indica qui la ferma convinzione intellettuale, la meditazione continuativa e l'intenzione determinante dell'essere. Nel Vedānta l'attitudine interiore dominante nella vita conforma la natura della coscienza e determina lo stato conseguito al momento della morte.",
+    "source_file": "notes/note-chandogya-3-14-1-kratumayah.json"
+  },
+  "note-chandogya-3-14-1-tajjalan": {
+    "id": "note-chandogya-3-14-1-tajjalan",
+    "passage_id": "chandogya-3-14-1",
+    "term": "Tajjalān",
+    "text": "Formula celeberrima dell'esegesi vedāntica: composta da 'tat' (Quello), 'ja' (nato da Quello), 'la' (riassorbito in Quello) e 'an' (che respira o vive in Quello). Śaṅkara evidenzia che, poiché l'universo sorge, sussiste e svanisce unicamente in Brahman senza possedere alcuna realtà indipendente da Esso, 'tutto questo è in verità Brahman' e non vi è spazio per attaccamento o avversione.",
+    "source_file": "notes/note-chandogya-3-14-1-tajjalan.json"
+  },
+  "note-chandogya-3-14-3-aniyan-jyan": {
+    "id": "note-chandogya-3-14-3-aniyan-jyan",
+    "passage_id": "chandogya-3-14-3",
+    "term": "Aṇīyān ... Jyāyān",
+    "text": "L'apparente contraddizione tra l'estrema piccolezza (più sottile di un chicco di senape) e l'estrema vastità (più grande di tutti i mondi) esprime il rapporto tra l'immanenza dell'Ātman nel cuore umano come pura Coscienza testimonio e la sua universale infinità come Brahman onnicomprensivo.",
+    "source_file": "notes/note-chandogya-3-14-3-aniyan-jyan.json"
+  },
+  "note-chandogya-3-16-7-mahidasa": {
+    "id": "note-chandogya-3-16-7-mahidasa",
+    "passage_id": "chandogya-3-16-7",
+    "term": "Mahīdāsa Aitareya",
+    "text": "Celebre veggente e maestro vedico, tradizionalmente considerato il compilatore dell'Aitareya Brāhmaṇa e dell'Aitareya Āraṇyaka (e quindi dell'Aitareya Upaniṣad). Egli incarna la realizzazione dell'identità dell'individuo con il sacrificio cosmico, superando le infermità del corpo fisico fino a compiere 116 anni.",
+    "source_file": "notes/note-chandogya-3-16-7-mahidasa.json"
+  },
+  "note-chandogya-3-17-6-krishna-devakiputra": {
+    "id": "note-chandogya-3-17-6-krishna-devakiputra",
+    "passage_id": "chandogya-3-17-6",
+    "term": "Kṛṣṇa Devakīputra",
+    "text": "La più antica menzione testuale pervenuta di Kṛṣṇa, figlio di Devakī, in qualità di discepolo del saggio Ghora dell'antica stirpe degli Āṅgirasa. Il contenuto dell'istruzione — la trasfigurazione interiore del sacrificio e il superamento della rinascita mediante la conoscenza della Luce imperitura — anticipa gli insegnamenti cardine esposti nella Bhagavadgītā.",
+    "source_file": "notes/note-chandogya-3-17-6-krishna-devakiputra.json"
+  },
+  "note-chandogya-3-19-1-asat": {
+    "id": "note-chandogya-3-19-1-asat",
+    "passage_id": "chandogya-3-19-1",
+    "term": "Asad evedam agra āsīt",
+    "text": "«All'inizio questo universo era non-essere»: nell'esegesi advaitica (Śaṅkara-bhāṣya e Brahma Sūtra II.1.17) si dimostra che 'asat' non significa l'assoluto nulla ontologico, bensì lo stato originario privo di differenziazione in nomi e forme manifeste (avyākṛta-nāmarūpa), che precede l'articolazione cosciente del cosmo (sat).",
+    "source_file": "notes/note-chandogya-3-19-1-asat.json"
+  },
+  "note-chandogya-3-6-1-darsana": {
+    "id": "note-chandogya-3-6-1-darsana",
+    "passage_id": "chandogya-3-6-1",
+    "term": "Na vai devā aśnanti na pibanti",
+    "text": "«Gli dèi non mangiano né bevono»: principio dottrinale che sancisce l'immaterialità della fruizione negli stati celesti. A differenza degli esseri terreni vincolati all'assimilazione digestiva grossolana (apāna), i deva traggono appagamento dalla pura visione intuitiva (darśana) della gloria dell'Essere.",
+    "source_file": "notes/note-chandogya-3-6-1-darsana.json"
+  },
+  "note-chandogya-4-1-4-krta": {
+    "id": "note-chandogya-4-1-4-krta",
+    "passage_id": "chandogya-4-1-4",
+    "term": "Kṛta",
+    "text": "Il punteggio contrassegnato dal quattro nel tradizionale gioco dei dadi vedico, considerato il tiro supremo e perfetto che include in sé per addizione e assorbimento tutti i punteggi inferiori (il tre di Tretā, il due di Dvāpara e l'uno di Kali). Metafora tecnica usata per indicare il primato inclusivo della conoscenza metafisica di Brahman su ogni merito karmico frammentario.",
+    "source_file": "notes/note-chandogya-4-1-4-krta.json"
+  },
+  "note-chandogya-4-10-5-ka-kham": {
+    "id": "note-chandogya-4-10-5-ka-kham",
+    "passage_id": "chandogya-4-10-5",
+    "term": "Kaṁ brahma khaṁ brahma",
+    "text": "'Ka' indica comunemente la letizia o il piacere sensibile; 'Kha' indica lo spazio fisico o vuoto. Chiarisce Śaṅkara che se si dicesse solo 'Ka', Brahman verrebbe confuso con un piacere transitorio e grossolano; se si dicesse solo 'Kha', verrebbe inteso come spazio inerte e materiale. L'equazione reciproca ('ciò che è Ka è Kha, ciò che è Kha è Ka') esclude entrambe le limitazioni, rivelando che Brahman è beatitudine infinita e incorporea, e spazio cosciente di pura intelligenza.",
+    "source_file": "notes/note-chandogya-4-10-5-ka-kham.json"
+  },
+  "note-chandogya-4-15-1-aksi-purusa": {
+    "id": "note-chandogya-4-15-1-aksi-purusa",
+    "passage_id": "chandogya-4-15-1",
+    "term": "Ya eṣo 'kṣiṇi puruṣo dṛśyate",
+    "text": "Il 'Puruṣa visto nell'occhio': fondamento dell'Upakosala-vidyā. Non si tratta di un riflesso anatomico visibile sulla cornea altrui, ma del Soggetto trascendente e del Testimone cosciente dell'atto visivo interiore. È l'Ātman autentico, qualificato come 'amṛta' (immortale) e 'abhaya' (privo di paura).",
+    "source_file": "notes/note-chandogya-4-15-1-aksi-purusa.json"
+  },
+  "note-chandogya-4-15-6-devapatha": {
+    "id": "note-chandogya-4-15-6-devapatha",
+    "passage_id": "chandogya-4-15-6",
+    "term": "Devapathaḥ / Brahmapathaḥ",
+    "text": "La 'Via degli Dèi' (o cammino settentrionale). Secondo l'esegesi vedāntica (Brahma Sūtra IV.3) essa conduce il meditante che ha contemplato Brahman con attributi (saguṇa) alla sfera suprema dell'Assoluto (kramamukti o liberazione graduale), escludendo qualsiasi ricaduta nel ciclo della nascita terrena mortale (imāṁ mānavam āvartaṁ nāvartante).",
+    "source_file": "notes/note-chandogya-4-15-6-devapatha.json"
+  },
+  "note-chandogya-4-2-3-sudra": {
+    "id": "note-chandogya-4-2-3-sudra",
+    "passage_id": "chandogya-4-2-3",
+    "term": "Aha hāretvā śūdra",
+    "text": "Nel celebre commentario di Śaṅkara e nei Brahma Sūtra (I.3.34: «śug asya tad-anādara-śravaṇāt tad-ādravaṇāt sūcyate hi»), l'invettiva 'śūdra' rivolta da Raikva a Jānaśruti non denota l'appartenenza a una casta servile (Jānaśruti era infatti un sovrano kṣatriya che possedeva villaggi e scudieri), ma deriva etimologicamente da 'śuc' (dolore, mestizia): 'colui che è accorso mosso dal dolore di essere stato giudicato inferiore a un sapiente privo di beni'.",
+    "source_file": "notes/note-chandogya-4-2-3-sudra.json"
+  },
+  "note-chandogya-4-4-5-satya-brahmana": {
+    "id": "note-chandogya-4-4-5-satya-brahmana",
+    "passage_id": "chandogya-4-4-5",
+    "term": "Naitad abrāhmaṇo vivaktum arhati",
+    "text": "«Nessuno che non sia un vero brāhmaṇa saprebbe parlare così»: sentenza di capitale importanza dottrinale con cui Gautama accoglie Satyakāma Jābāla. Il testo sancisce che l'essenza dell'uomo sacro non coincide con un'etichetta esteriore o genealogica, ma si manifesta nella sincerità adamantina dell'intelletto fedele al vero (satya).",
+    "source_file": "notes/note-chandogya-4-4-5-satya-brahmana.json"
+  },
+  "note-chandogya-4-9-3-acaryadd-haiva-vidya": {
+    "id": "note-chandogya-4-9-3-acaryadd-haiva-vidya",
+    "passage_id": "chandogya-4-9-3",
+    "term": "Ācāryādd haiva vidyā viditā sādhiṣṭhaṁ prāpat",
+    "text": "Cardine metodologico del Vedānta ortodosso: la conoscenza appresa unicamente da intuizioni spontanee, studi solitari o rivelazioni parziali resta imperfetta finché non viene integrata e convalidata dal maestro tradizionale (l'Ācārya), solo veicolo autoritativo della continuità dottrinale non duale.",
+    "source_file": "notes/note-chandogya-4-9-3-acaryadd-haiva-vidya.json"
+  },
+  "note-chandogya-5-1-1-jyestha-srestha": {
+    "id": "note-chandogya-5-1-1-jyestha-srestha",
+    "passage_id": "chandogya-5-1-1",
+    "term": "Jyeṣṭhaś ca śreṣṭhaś ca",
+    "text": "Nel commentario di Śaṅkara si spiega che Prāṇa è 'jyeṣṭha' (il più antico cronologicamente) poiché opera nella fecondazione e nello sviluppo dell'embrione prima che occhio, orecchio e parola siano formati; ed è 'śreṣṭha' (il migliore qualitativamente) perché nessuna funzione corporea o intellettuale può sussistere senza il suo sostegno continuo.",
+    "source_file": "notes/note-chandogya-5-1-1-jyestha-srestha.json"
+  },
+  "note-chandogya-5-1-15-prana-namani": {
+    "id": "note-chandogya-5-1-15-prana-namani",
+    "passage_id": "chandogya-5-1-15",
+    "term": "Prāṇā ity evācakṣate",
+    "text": "«Li chiamano unicamente Prāṇa»: vertice dottrinale del capitolo. L'illusione mondana moltiplica gli organi attribuendo loro un'autonomia ontologica fittizia; l'insegnamento upaniṣadico riconduce la varietà delle funzioni all'unità dell'unico principio vitale.",
+    "source_file": "notes/note-chandogya-5-1-15-prana-namani.json"
+  },
+  "note-chandogya-5-10-8-tasmaj-jugupseta": {
+    "id": "note-chandogya-5-10-8-tasmaj-jugupseta",
+    "passage_id": "chandogya-5-10-8",
+    "term": "Tasmāj jugupseta",
+    "text": "«Perciò si provi ripugnanza/distacco»: chiave dottrinale dell'intero brano. Śaṅkara sottolinea che l'esposizione minuziosa delle rinascite non è fine a se stessa, ma mira a risvegliare il supremo distacco (vairāgya) dal saṁsāra, presupposto indispensabile per intraprendere la ricerca della liberazione pura (mokṣa).",
+    "source_file": "notes/note-chandogya-5-10-8-tasmaj-jugupseta.json"
+  },
+  "note-chandogya-5-11-1-ko-na-atma": {
+    "id": "note-chandogya-5-11-1-ko-na-atma",
+    "passage_id": "chandogya-5-11-1",
+    "term": "Ko na ātmā kiṁ brahma",
+    "text": "L'interrogativo cardinale: 'Chi è il nostro Sé? Che cos'è Brahman?'. Nel commentario di Śaṅkara si rileva che i due termini si determinano a vicenda: 'Ātman' evita che Brahman sia inteso come un ente esteriore o oggettivo, e 'Brahman' evita che l'Ātman sia confuso con l'ego corporeo finito.",
+    "source_file": "notes/note-chandogya-5-11-1-ko-na-atma.json"
+  },
+  "note-chandogya-5-18-1-pradesamatra": {
+    "id": "note-chandogya-5-18-1-pradesamatra",
+    "passage_id": "chandogya-5-18-1",
+    "term": "Prādeśamātram abhivimānam",
+    "text": "'Prādeśamātra' indica l'Ātman che si estende dal cielo (capo) alla terra (piedi) e che nel corpo è contemplato dal sommo della testa al mento; 'Abhivimāna' qualifica il Sé come privo di misura esterna (infinito) e al contempo riconosciuto come la propria identità immediata (pratyagātman).",
+    "source_file": "notes/note-chandogya-5-18-1-pradesamatra.json"
+  },
+  "note-chandogya-5-2-2-acamana": {
+    "id": "note-chandogya-5-2-2-acamana",
+    "passage_id": "chandogya-5-2-2",
+    "term": "Adbhiḥ paridadhati",
+    "text": "L'usanza rituale dell'ācamana (sorseggiare acqua prima e dopo il pasto) viene qui fondata metafisicamente: l'acqua funge da 'veste' del Prāṇa, proteggendone la sacralità prima di accogliere il cibo.",
+    "source_file": "notes/note-chandogya-5-2-2-acamana.json"
+  },
+  "note-chandogya-5-24-3-isikatulam": {
+    "id": "note-chandogya-5-24-3-isikatulam",
+    "passage_id": "chandogya-5-24-3",
+    "term": "Iṣīkātūlam",
+    "text": "Il bioccolo o ciuffo filamentoso della canna palustre: celebre immagine vedica usata per indicare la totale, istantanea e irreversibile distruzione delle tendenze karmiche pregresse per opera del fuoco della conoscenza metafisica.",
+    "source_file": "notes/note-chandogya-5-24-3-isikatulam.json"
+  },
+  "note-chandogya-5-3-7-ksatriya": {
+    "id": "note-chandogya-5-3-7-ksatriya",
+    "passage_id": "chandogya-5-3-7",
+    "term": "Prāg tvattaḥ kṣatreṣv eva",
+    "text": "L'osservazione di Pravāhaṇa Jaivali secondo cui la dottrina dei cinque fuochi e delle due vie non era mai stata conosciuta prima dai brāhmaṇa, ma apparteneva ai re kṣatriya: nell'esegesi tradizionale essa non denota un conflitto sociale, ma sottolinea l'esistenza di rami specialistici della sapienza legati al governo delle leggi del cosmo e del destino delle generazioni.",
+    "source_file": "notes/note-chandogya-5-3-7-ksatriya.json"
+  },
+  "note-chandogya-5-9-1-purusavacasa": {
+    "id": "note-chandogya-5-9-1-purusavacasa",
+    "passage_id": "chandogya-5-9-1",
+    "term": "Pañcamyām āhutāv āpaḥ puruṣavacasaḥ",
+    "text": "«Alla quinta oblazione le acque parlano con voce umana»: risposta al quinto quesito. L'elemento liquido sottile, che accompagna l'anima come veicolo delle tendenze latenti (saṁskāra), discende attraverso i cinque fuochi cosmici (cielo, pioggia, terra, padre, madre) fino a condensarsi nella nascita corporea dell'individuo.",
+    "source_file": "notes/note-chandogya-5-9-1-purusavacasa.json"
+  },
+  "note-chandogya-6-1-4-vacarambhana": {
+    "id": "note-chandogya-6-1-4-vacarambhana",
+    "passage_id": "chandogya-6-1-4",
+    "term": "Vācārambhaṇaṁ vikāro nāmadheyam",
+    "text": "«La modificazione è solo un nome fondato sulla parola»: celeberrimo aforisma metafisico su cui Śaṅkara fonda la dottrina del Vivartavāda (la non-realtà ontologica dell'effetto separato dalla causa). Il vaso d'argilla non è un'entità nuova o indipendente, ma una forma transitoria utile alla prassi empirica (vyavahāra); la sola realtà permanente è la sostanza causale (l'argilla), così come Brahman solo è reale e il cosmo è una sua apparenza modale.",
+    "source_file": "notes/note-chandogya-6-1-4-vacarambhana.json"
+  },
+  "note-chandogya-6-14-2-acaryavan": {
+    "id": "note-chandogya-6-14-2-acaryavan",
+    "passage_id": "chandogya-6-14-2",
+    "term": "Ācāryavān puruṣo veda",
+    "text": "«L'uomo che ha un maestro conosce»: aforisma fondamentale dell'epistemologia upaniṣadica. Nessuna riflessione intellettuale autonoma (tarka) né studio solitario dei testi può sciogliere la benda dell'ignoranza originaria senza l'intervento della trasmissione vivente di un Ācārya stabilito nella conoscenza di Brahman (śrotriya e brahmaniṣṭha).",
+    "source_file": "notes/note-chandogya-6-14-2-acaryavan.json"
+  },
+  "note-chandogya-6-16-1-parasum": {
+    "id": "note-chandogya-6-16-1-parasum",
+    "passage_id": "chandogya-6-16-1",
+    "term": "Paraśum asmai tapata",
+    "text": "L'ordalia dell'ascia arroventata (divyā) usata nell'antico diritto indiano. Nel contesto metafisico è impiegata da Uddālaka per spiegare perché il sapiente si liberi e l'ignorante rinasca, pur riassorbendosi entrambi nel medesimo Sat: chi è identificato con l'illusione (anṛta) subisce la bruciatura del saṁsāra; chi è identificato con il Vero (Satya) rimane incorruttibile e libero.",
+    "source_file": "notes/note-chandogya-6-16-1-parasum.json"
+  },
+  "note-chandogya-6-2-1-ekam-evadvitiyam": {
+    "id": "note-chandogya-6-2-1-ekam-evadvitiyam",
+    "passage_id": "chandogya-6-2-1",
+    "term": "Ekam evādvitīyam",
+    "text": "«Uno solo senza secondo»: formula cardine dell'Advaita. L'esegesi vedāntica dimostra che i tre termini negano ogni possibile partizione nell'Assoluto: 'ekam' (uno) nega le differenze tra individui della stessa natura (svajātīya-bheda); 'eva' (soltanto) nega le differenze interne tra parti o membra dell'Assoluto (svagata-bheda); 'advitīyam' (senza secondo) nega l'esistenza di qualsiasi altra realtà eterogenea al di fuori di Esso (vijātīya-bheda).",
+    "source_file": "notes/note-chandogya-6-2-1-ekam-evadvitiyam.json"
+  },
+  "note-chandogya-6-3-2-anena-jivena": {
+    "id": "note-chandogya-6-3-2-anena-jivena",
+    "passage_id": "chandogya-6-3-2",
+    "term": "Anena jīvenātmanā",
+    "text": "«Mediante questo Sé vivente»: passaggio cruciale per comprendere la natura dell'anima individuale (jīva). La Divinità non crea il jīva come entità estranea, ma entra Essa stessa nei corpi sotto forma di principio vivente cosciente, mostrando che l'essenza intima del jīva è Brahman stesso velato dalle limitazioni psicofisiche (upādhi).",
+    "source_file": "notes/note-chandogya-6-3-2-anena-jivena.json"
+  },
+  "note-chandogya-6-5-4-annamayam-manah": {
+    "id": "note-chandogya-6-5-4-annamayam-manah",
+    "passage_id": "chandogya-6-5-4",
+    "term": "Annamayaṁ hi somya manaḥ",
+    "text": "«La mente è costituita di cibo»: principio dell'epistemologia vedāntica ortodossa. La mente (antaḥkaraṇa), con i suoi pensieri e le sue memorie, appartiene all'ordine della natura sottile materiale ed è soggetta a deperimento e fluttuazione; l'Ātman non è la mente, ma la pura Coscienza testimone (Sākṣin) che ne illumina il funzionamento.",
+    "source_file": "notes/note-chandogya-6-5-4-annamayam-manah.json"
+  },
+  "note-chandogya-6-8-7-tat-tvam-asi": {
+    "id": "note-chandogya-6-8-7-tat-tvam-asi",
+    "passage_id": "chandogya-6-8-7",
+    "term": "Tat Tvam Asi",
+    "text": "Celeberrimo Mahāvākya del Sāmaveda ripetuto nove volte da Uddālaka ad Śvetaketu. Secondo l'interpretazione non duale di Śaṅkara, l'equazione 'Tat' (Quello: Brahman / Sat) e 'Tvam' (Tu: il principio cosciente interiore) non stabilisce un'unione o una trasformazione tra entità empiriche, ma elimina per sottrazione l'illusione della separazione: spogliato dei condizionamenti cosmici (Īśvaratva) e individuali (jīvatva), il Sé rivela la propria identità assoluta e immutabile con l'Essere puro.",
+    "source_file": "notes/note-chandogya-6-8-7-tat-tvam-asi.json"
+  },
+  "note-chandogya-7-1-3-tarati-sokam": {
+    "id": "note-chandogya-7-1-3-tarati-sokam",
+    "passage_id": "chandogya-7-1-3",
+    "term": "Tarati śokam ātmavit",
+    "text": "«Colui che conosce il Sé oltrepassa il dolore»: enunciato fondamentale del Vedānta. Śaṅkara nel suo commentario spiega che l'intero bagaglio delle scienze oggettive (la conoscenza empirica e rituale dei nomi e delle forme) lascia intatta l'ignoranza metafisica (avidyā), causa primaria della nozione di finitezza e quindi della sofferenza. Solo la conoscenza diretta dell'identità del Sé non duale distrugge la radice del dolore.",
+    "source_file": "notes/note-chandogya-7-1-3-tarati-sokam.json"
+  },
+  "note-chandogya-7-15-4-ativadin": {
+    "id": "note-chandogya-7-15-4-ativadin",
+    "passage_id": "chandogya-7-15-4",
+    "term": "Ativādin",
+    "text": "Composto da 'ati' (oltre) e 'vādin' (parlatore): indica colui la cui affermazione supera ogni determinazione inferiore. Nel contesto del verso 7.15 qualifica chi dichiara il primato del Prāṇa cosmico su tutte le forme fenomeniche; nei versi successivi (7.16) Sanatkumāra preciserà che il vero e supremo Ativādin è colui che proclama la sola Verità assoluta (Satya/Brahman).",
+    "source_file": "notes/note-chandogya-7-15-4-ativadin.json"
+  },
+  "note-chandogya-7-23-1-nalpe-sukham": {
+    "id": "note-chandogya-7-23-1-nalpe-sukham",
+    "passage_id": "chandogya-7-23-1",
+    "term": "Nālpe sukham asti bhūmaiva sukham",
+    "text": "«Non vi è felicità nel finito, la Pienezza sola è felicità»: pietra miliare della dottrina vedāntica. 'Alpa' (il piccolo, il frammentario) è sinonimo di saṁsāra e di finitudine temporale, in cui ogni piacere si rovescia inevitabilmente in dolore e decadimento; 'Bhūman' è la pienezza non duale dell'Assoluto priva di limiti e desideri, sola sede di pace eterna.",
+    "source_file": "notes/note-chandogya-7-23-1-nalpe-sukham.json"
+  },
+  "note-chandogya-7-24-1-yatra-nanyat-pasyati": {
+    "id": "note-chandogya-7-24-1-yatra-nanyat-pasyati",
+    "passage_id": "chandogya-7-24-1",
+    "term": "Yatra nānyat paśyati",
+    "text": "«Dove non si vede altro»: definizione rigorosa dello stato di non-dualità (advaita). Nel commentario di Śaṅkara si chiarisce che il Bhūman non è uno stato di sonno inerte o di trance inconscia, ma la totale assenza di alterità oggettiva (bheda), in cui la pura Coscienza risplende in se stessa senza la triade empirica di percipiente, percezione e percepito (tripuṭī).",
+    "source_file": "notes/note-chandogya-7-24-1-yatra-nanyat-pasyati.json"
+  },
+  "note-chandogya-7-26-2-ahara-suddhau": {
+    "id": "note-chandogya-7-26-2-ahara-suddhau",
+    "passage_id": "chandogya-7-26-2",
+    "term": "Āhāraśuddhau sattvaśuddhiḥ",
+    "text": "'Āhāra' deriva dalla radice 'hṛ' con prefisso 'ā' (assorbire, assumere). Nel Bhāṣya di Śaṅkara si stabilisce che esso non designa soltanto l'alimentazione biologica mondata da impurità esteriori, ma soprattutto l'assimilazione controllata delle impressioni sensoriali (oggetti di vista, udito, tatto) attraverso organi di senso disciplinati e purificati da passione (rāga) e avversione (dveṣa).",
+    "source_file": "notes/note-chandogya-7-26-2-ahara-suddhau.json"
+  },
+  "note-chandogya-7-26-2-granthinam": {
+    "id": "note-chandogya-7-26-2-granthinam",
+    "passage_id": "chandogya-7-26-2",
+    "term": "Sarvagranthīnāṁ vipramokṣaḥ",
+    "text": "«Lo scioglimento di tutti i nodi»: i nodi del cuore (hṛdaya-granthi) sono i grovigli dell'ignoranza originaria (avidyā), dei desideri egoici (kāma) e dell'identificazione erronea del Sé con il composto psicofisico (adhyāsa). La realizzazione del Bhūman dissolve questi legami donando la liberazione in vita (jīvanmukti).",
+    "source_file": "notes/note-chandogya-7-26-2-granthinam.json"
+  },
+  "note-chandogya-7-6-1-dhyanam": {
+    "id": "note-chandogya-7-6-1-dhyanam",
+    "passage_id": "chandogya-7-6-1",
+    "term": "Dhyāyati",
+    "text": "L'Upaniṣad attribuisce poeticamente l'atto del meditare (dhyāna) agli elementi naturali: la terra, le montagne, le acque e il cielo 'sembrano meditare' in virtù della loro saldezza silenziosa e imperturbabile, offrendo all'uomo l'archetipo naturale della contemplazione priva di oscillazioni.",
+    "source_file": "notes/note-chandogya-7-6-1-dhyanam.json"
+  },
+  "note-chandogya-8-1-1-dahara-akasa": {
+    "id": "note-chandogya-8-1-1-dahara-akasa",
+    "passage_id": "chandogya-8-1-1",
+    "term": "Daharo 'sminn antarākāśaḥ",
+    "text": "Lo 'spazio sottile' nel loto del cuore: tema di una celebre discussione nei Brahma Sūtra (I.3.14-21: 'dahara uttarebhyaḥ'). Śaṅkara dimostra in modo perentorio che questo spazio non denota né l'etere elementare materiale né l'anima individuale finita (jīva), ma il Brahman supremo, poiché a esso sono attribuiti caratteri esclusivamente divini come l'immensità cosmica, l'immortalità e l'essere libero da ogni peccato.",
+    "source_file": "notes/note-chandogya-8-1-1-dahara-akasa.json"
+  },
+  "note-chandogya-8-11-1-vinasam-eva": {
+    "id": "note-chandogya-8-11-1-vinasam-eva",
+    "passage_id": "chandogya-8-11-1",
+    "term": "Vināśam evāpīto bhavati",
+    "text": "«È come giunto a totale annientamento»: il geniale dubbio metafisico di Indra riguardo allo stato di sonno profondo (suṣupti). Nel sonno senza sogni cessa ogni cognizione oggettiva duale ('io sono questo, quello è un altro'); l'intelletto comune scambia erroneamente l'assenza di oggetti per la distruzione del soggetto, mentre in realtà la pura Coscienza testimone permane immutabile anche nel silenzio dei pensieri.",
+    "source_file": "notes/note-chandogya-8-11-1-vinasam-eva.json"
+  },
+  "note-chandogya-8-12-1-asarira": {
+    "id": "note-chandogya-8-12-1-asarira",
+    "passage_id": "chandogya-8-12-1",
+    "term": "Aśarīraṁ vāva santaṁ na priyāpriye spṛśataḥ",
+    "text": "«Chi è incorporeo non è sfiorato né dal piacere né dal dolore»: enunciato cardine dell'Advaita Vedānta ripreso costantemente da Śaṅkara nei Brahma Sūtra (I.1.4). Il piacere e il dolore empirici presuppongono l'identificazione erronea (adhyāsa) del Sé con il corpo e con la mente; quando l'Ātman è riconosciuto come incorporeo e privo di attributi, la sofferenza e la limitazione svaniscono radicalmente.",
+    "source_file": "notes/note-chandogya-8-12-1-asarira.json"
+  },
+  "note-chandogya-8-15-1-na-ca-punar-avartate": {
+    "id": "note-chandogya-8-15-1-na-ca-punar-avartate",
+    "passage_id": "chandogya-8-15-1",
+    "term": "Na ca punar āvartate",
+    "text": "«Non ritorna mai più»: formula conclusiva perentoria della Chāndogya Upaniṣad (ripetuta due volte per sancire la fine del testo sacro e la definitività della liberazione). Attesta che chi realizza la Conoscenza di Brahman estingue integralmente il ciclo della trasmigrazione (saṁsāra), conseguendo la pace assoluta e irreversibile dell'immortalità.",
+    "source_file": "notes/note-chandogya-8-15-1-na-ca-punar-avartate.json"
+  },
+  "note-chandogya-8-3-2-hiran-yanidhi": {
+    "id": "note-chandogya-8-3-2-hiran-yanidhi",
+    "passage_id": "chandogya-8-3-2",
+    "term": "Hiraṇyanidhim",
+    "text": "Il 'tesoro d'oro nascosto': splendida metafora della non-dualità immanente. L'Ātman non è una meta lontana nello spazio o nel tempo da conquistare con sforzi estrinseci, ma una ricchezza infinita già presente e posseduta nel fondo dell'essere, resa invisibile solo dalla mancata conoscenza (avidyā/anṛta).",
+    "source_file": "notes/note-chandogya-8-3-2-hiran-yanidhi.json"
+  },
+  "note-chandogya-8-4-1-setu": {
+    "id": "note-chandogya-8-4-1-setu",
+    "passage_id": "chandogya-8-4-1",
+    "term": "Setur vidhṛtiḥ",
+    "text": "'Setu' significa sia diga/argine sia ponte. Nel commentario di Śaṅkara si rileva la duplice valenza metafisica: come argine (vidhṛti), l'Ātman preserva l'ordine e la distinzione dei mondi creati impedendo che collassino; come ponte, Esso consente al ricercatore di oltrepassare l'oceano tempestoso della trasmigrazione e accedere alla sponda dell'immortalità.",
+    "source_file": "notes/note-chandogya-8-4-1-setu.json"
+  },
+  "note-chandogya-8-6-6-sushumna": {
+    "id": "note-chandogya-8-6-6-sushumna",
+    "passage_id": "chandogya-8-6-6",
+    "term": "Śataṁ caikā ca hṛdayasya nāḍyaḥ",
+    "text": "I 'centouno canali del cuore': fondamento della fisiologia sottile vedāntica e yogica. Il canale verticale che sale dal cuore alla sommità del capo corrisponde alla suṣumnā-nāḍī; l'uscita dell'energia cosciente attraverso il vertice cranico al momento della morte segna il compimento della liberazione (kramamukti o videhamukti), mentre le uscite attraverso gli altri canali mantengono l'essere nel ciclo delle rinascite.",
+    "source_file": "notes/note-chandogya-8-6-6-sushumna.json"
+  },
+  "note-chandogya-8-8-4-asura-upanisad": {
+    "id": "note-chandogya-8-8-4-asura-upanisad",
+    "passage_id": "chandogya-8-8-4",
+    "term": "Asurāṇāṁ hy eṣopaniṣat",
+    "text": "La 'dottrina segreta degli Asura': fondamentale demarcazione metafisica formulata dall'Upaniṣad. L'errore demoniaco (asurico) non consiste semplicemente in una malvagità morale, ma nell'illusione ontologica di identificare l'Ātman con il composto corporeo fisico (deha-ātma-buddhi), dedicando l'esistenza alla gratificazione della materia mortale.",
+    "source_file": "notes/note-chandogya-8-8-4-asura-upanisad.json"
+  },
   "note-hridaya-granthi": {
     "id": "note-hridaya-granthi",
     "term": "Hṛdayasya granthayaḥ",

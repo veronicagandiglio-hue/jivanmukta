@@ -1,0 +1,19 @@
+{
+  "id": "q-chandogya-svarajya-atmarati",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è la condizione del liberato che dimora unicamente nell'Ātman (Ātmarati, Svārāṭ)?",
+  "problem": "Riconoscendo che l'Ātman è ovunque (in alto, in basso, davanti, dietro), il sapiente non cerca più la gioia negli oggetti esteriori: trova diletto solo nel proprio Sé interiore, divenendo sovrano autonomo (svārāṭ), sciolto da ogni dipendenza o servitù mondana.",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "svarajya",
+    "atman",
+    "liberazione"
+  ],
+  "passages": [
+    "chandogya-7-25-2"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

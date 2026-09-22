@@ -1,0 +1,644 @@
+{
+  "id": "chandogya-adhyaya-2",
+  "work_id": "chandogya-upanisad",
+  "unit_locus": "2",
+  "unit_title": "Secondo Adhyāya",
+  "sections": [
+    {
+      "section_locus": "2.1",
+      "section_title": "La meditazione sul Sāman integro come rettitudine e bene",
+      "passages": [
+        {
+          "id": "chandogya-2-1-1",
+          "original": "समस्तस्य खलु साम्न उपासनꣳ साधु यत्खलु साधु तत्सामेत्याचक्षते यदसाधु तदसामेति ॥ २.१.१ ॥",
+          "translation": "La meditazione sull'intero Sāman [samastasya sāmnaḥ] è buona [sādhu]. Ciò che è retto e buono è detto Sāman; ciò che non è retto è detto non-Sāman.",
+          "source": "Chāndogya Upaniṣad, II.1.1"
+        },
+        {
+          "id": "chandogya-2-1-2",
+          "original": "तदुताप्याहुः साम्नैनमुपागादिति साधुनैनमुपागादित्येव तदाहुरसाम्नैनमुपागादित्यसाधुनैनमुपगादित्येव तदाहुः ॥ २.१.२ ॥",
+          "translation": "Per questo si dice comunemente nel mondo: «Egli si è accostato a lui con Sāman», intendendo che si è accostato con rettitudine e benevolenza; e si dice: «Si è accostato senza Sāman», intendendo che si è accostato in modo indebito e ostile.",
+          "source": "Chāndogya Upaniṣad, II.1.2"
+        },
+        {
+          "id": "chandogya-2-1-3",
+          "original": "अथोताप्याहुः साम नो बतेति यत्साधु भवति साधु बतेत्येव तदाहुरसाम नो बतेति यदसाधु भवत्यसाधु बतेत्येव तदाहुः ॥ २.१.३ ॥",
+          "translation": "E si dice ancora: «Questo è Sāman per noi», quando accade una cosa buona, intendendo che è un bene; e «questo è non-Sāman per noi», quando accade una cosa avversa, intendendo che è un male.",
+          "source": "Chāndogya Upaniṣad, II.1.3"
+        },
+        {
+          "id": "chandogya-2-1-4",
+          "original": "स य एतदेवं विद्वान्साधु सामेत्युपास्तेऽभ्याशो ह यदेनꣳ साधवो धर्मा आ च गच्छेयुरुप च नमेयुः ॥ २.१.४ ॥",
+          "translation": "Colui che, conoscendo questa verità, medita sul Sāman come ciò che è retto e buono, fa sì che le virtù rette e le qualità benefiche convergano verso di lui e gli si sottomettano.",
+          "source": "Chāndogya Upaniṣad, II.1.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.2",
+      "section_title": "Il Sāman a cinque forme nei mondi cosmici",
+      "passages": [
+        {
+          "id": "chandogya-2-2-1",
+          "original": "लोकेषु पञ्चविधꣳ सामोपासीत पृथिवी हिंकारः । अग्निः प्रस्तावोऽन्तरिक्षमुद्गीथ आदित्यः प्रतिहारो द्यौर्निधनमित्यूर्ध्वेषु ॥ २.२.१ ॥",
+          "translation": "Si mediti sul Sāman a cinque forme nei mondi in ordine ascendente: la terra è lo hiṅkāra, il fuoco è il prastāva, lo spazio intermedio è l'udgītha, il sole è il pratihāra, la volta celeste è il nidhana. Questo nei mondi dal basso verso l'alto.",
+          "source": "Chāndogya Upaniṣad, II.2.1"
+        },
+        {
+          "id": "chandogya-2-2-2",
+          "original": "अथावृत्तेषु द्यौर्हिंकार आदित्यः प्रस्तावोऽन्तरिक्षमुद्गीथोऽग्निः प्रतिहारः पृथिवी निधनम् ॥ २.२.२ ॥",
+          "translation": "Ora in ordine inverso e discendente: la volta celeste è lo hiṅkāra, il sole è il prastāva, lo spazio intermedio è l'udgītha, il fuoco è il pratihāra, la terra è il nidhana.",
+          "source": "Chāndogya Upaniṣad, II.2.2"
+        },
+        {
+          "id": "chandogya-2-2-3",
+          "original": "कल्पन्ते हास्मै लोका ऊर्ध्वाश्चावृत्ताश्च य एतदेवं विद्वाꣳल्लोकेषु पञ्चविधं सामोपास्ते ॥ २.२.३ ॥",
+          "translation": "I mondi, sia nell'ordine ascendente sia in quello discendente, divengono propizi e armoniosi per colui che, conoscendo questa realtà, medita sul Sāman a cinque forme nei mondi.",
+          "source": "Chāndogya Upaniṣad, II.2.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.3",
+      "section_title": "Il Sāman a cinque forme nella pioggia",
+      "passages": [
+        {
+          "id": "chandogya-2-3-1",
+          "original": "वृष्टौ पञ्चविधꣳ सामोपासीत पुरोवातो हिंकारो मेघो जायते स प्रस्तावो वर्षति स उद्गीथो विद्योतते स्तनयति स प्रतिहार उद्गृह्णाति तन्निधनम् ॥ २.३.१ ॥",
+          "translation": "Si mediti sul Sāman a cinque forme nella pioggia: il vento che precede è lo hiṅkāra; la nube che si forma è il prastāva; la pioggia che scende è l'udgītha; il lampo e il tuono sono il pratihāra; il cessare della pioggia è il nidhana.",
+          "source": "Chāndogya Upaniṣad, II.3.1"
+        },
+        {
+          "id": "chandogya-2-3-2",
+          "original": "वर्षति हास्मै वर्षयति ह य एतदेवं विद्वान्वृष्टौ पञ्चविधꣳसामोपास्ते ॥ २.३.२ ॥",
+          "translation": "Piove per lui ed egli è in grado di ottenere la pioggia benefica colui che, conoscendo questa realtà, medita sul Sāman a cinque forme nella pioggia.",
+          "source": "Chāndogya Upaniṣad, II.3.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.4",
+      "section_title": "Il Sāman a cinque forme nelle acque",
+      "passages": [
+        {
+          "id": "chandogya-2-4-1",
+          "original": "सर्वास्वप्सु पञ्चविधꣳसामोपासीत मेघो यत्सम्प्लवते स हिंकारो यद्वर्षति स प्रस्तावो याः प्राच्यः स्यन्दन्ते स उद्गीथो याः प्रतीच्यः स प्रतिहारः समुद्रो निधनम् ॥ २.४.१ ॥",
+          "translation": "Si mediti sul Sāman a cinque forme in tutte le acque: le nubi che si addensano sono lo hiṅkāra; ciò che cade come pioggia è il prastāva; i fiumi che scorrono verso oriente sono l'udgītha; quelli che scorrono verso occidente sono il pratihāra; l'oceano è il nidhana.",
+          "source": "Chāndogya Upaniṣad, II.4.1"
+        },
+        {
+          "id": "chandogya-2-4-2",
+          "original": "न हाप्सु प्रैत्यप्सुमान्भवति य एतदेवं विद्वान्सर्वास्वप्सु पञ्चविधꣳसामोपास्ते ॥ २.४.२ ॥",
+          "translation": "Egli non perisce nelle acque e diviene provvisto di acque abbondanti colui che, conoscendo questa realtà, medita sul Sāman a cinque forme in tutte le acque.",
+          "source": "Chāndogya Upaniṣad, II.4.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.5",
+      "section_title": "Il Sāman a cinque forme nelle stagioni",
+      "passages": [
+        {
+          "id": "chandogya-2-5-1",
+          "original": "ऋतुषु पञ्चविधꣳ सामोपासीत वसन्तो हिंकारः ग्रीष्मः प्रस्तावो वर्षा उद्गीथः शरत्प्रतिहारो हेमन्तो निधनम् ॥ २.५.१ ॥",
+          "translation": "Si mediti sul Sāman a cinque forme nelle stagioni: la primavera è lo hiṅkāra; l'estate è il prastāva; la stagione delle piogge è l'udgītha; l'autunno è il pratihāra; l'inverno è il nidhana.",
+          "source": "Chāndogya Upaniṣad, II.5.1"
+        },
+        {
+          "id": "chandogya-2-5-2",
+          "original": "कल्पन्ते हास्मा ऋतव ऋतुमान्भवति य एतदेवं विद्वानृतुषु पञ्चविधꣳ सामोपास्ते ॥ २.५.२ ॥",
+          "translation": "Le stagioni gli sono favorevoli e diviene ricco dei doni delle stagioni colui che, conoscendo questa realtà, medita sul Sāman a cinque forme nelle stagioni.",
+          "source": "Chāndogya Upaniṣad, II.5.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.6",
+      "section_title": "Il Sāman a cinque forme negli animali",
+      "passages": [
+        {
+          "id": "chandogya-2-6-1",
+          "original": "पशुषु पञ्चविधꣳ सामोपासीताजा हिंकारोऽवयः प्रस्तावो गाव उद्गीथोऽश्वाः प्रतिहारः पुरुषो निधनम् ॥ २.६.१ ॥",
+          "translation": "Si mediti sul Sāman a cinque forme negli animali: le capre sono lo hiṅkāra; le pecore sono il prastāva; i bovini sono l'udgītha; i cavalli sono il pratihāra; l'essere umano è il nidhana.",
+          "source": "Chāndogya Upaniṣad, II.6.1"
+        },
+        {
+          "id": "chandogya-2-6-2",
+          "original": "भवन्ति हास्य पशवः पशुमान्भवति य एतदेवं विद्वान्पशुषु पञ्चविधꣳ सामोपास्ते ॥ २.६.२ ॥",
+          "translation": "Gli animali gli sono sottomessi ed egli diviene ricco di bestiame colui che, conoscendo questa realtà, medita sul Sāman a cinque forme negli animali.",
+          "source": "Chāndogya Upaniṣad, II.6.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.7",
+      "section_title": "Il Sāman a cinque forme nei soffi vitali",
+      "passages": [
+        {
+          "id": "chandogya-2-7-1",
+          "original": "प्राणेषु पञ्चविधं परोवरीयः सामोपासीत प्राणो हिंकारो वाक्प्रस्तावश्चक्षुरुद्गीथः श्रोत्रं प्रतिहारो मनो निधनं परोवरीयाꣳसि वा एतानि ॥ २.७.१ ॥",
+          "translation": "Si mediti sul Sāman a cinque forme nei soffi vitali come il più eccellente [parovarīyas]: il respiro [prāṇa] è lo hiṅkāra; la parola è il prastāva; la vista è l'udgītha; l'udito è il pratihāra; la mente è il nidhana. Invero queste facoltà sono eccellenti.",
+          "source": "Chāndogya Upaniṣad, II.7.1"
+        },
+        {
+          "id": "chandogya-2-7-2",
+          "original": "परोवरीयो हास्य भवति परोवरीयसो ह लोकाञ्जयति य एतदेवं विद्वान्प्राणेषु पञ्चविधं परोवरीयः सामोपास्त इति तु पञ्चविधस्य ॥ २.७.२ ॥",
+          "translation": "Superiore a ciò che è superiore diviene la sua condizione, e vince mondi sempre più elevati colui che, conoscendo questa realtà, medita sul Sāman a cinque forme nei soffi vitali come il più eccellente. Questo per il Sāman a cinque forme.",
+          "source": "Chāndogya Upaniṣad, II.7.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.8",
+      "section_title": "Il Sāman a sette forme nella parola",
+      "passages": [
+        {
+          "id": "chandogya-2-8-1",
+          "original": "अथ सप्तविधस्य वाचि सप्तविध्ꣳ सामोपासीत यत्किंच वाचो हुमिति स हिंकारो यत्प्रेति स प्रस्तावो यदेति स आदिः ॥ २.८.१ ॥",
+          "translation": "Ora la meditazione sul Sāman a sette forme. Si mediti sul Sāman a sette forme nella parola: qualunque emissione vocale sia un 'huṁ' è lo hiṅkāra; ciò che comincia con 'pra' è il prastāva; ciò che comincia con 'ā' è l'ādi.",
+          "source": "Chāndogya Upaniṣad, II.8.1"
+        },
+        {
+          "id": "chandogya-2-8-2",
+          "original": "यदुदिति स उद्गीथो यत्प्रतीति स प्रतिहारो यदुपेति स उपद्रवो यन्नीति तन्निधनम् ॥ २.८.२ ॥",
+          "translation": "Ciò che comincia con 'ut' è l'udgītha; ciò che comincia con 'prati' è il pratihāra; ciò che comincia con 'upa' è l'upadrava; ciò che comincia con 'ni' è il nidhana.",
+          "source": "Chāndogya Upaniṣad, II.8.2"
+        },
+        {
+          "id": "chandogya-2-8-3",
+          "original": "दुग्धेऽस्मै वाग्दोहं यो वाचो दोहोऽन्नवानन्नादो भवति य एतदेवं विद्वान्वाचि सप्तविधꣳ सामोपास्ते ॥ २.८.३ ॥",
+          "translation": "La parola effonde il proprio latte a colui che medita conoscendo così il Sāman a sette forme nella parola; costui diviene ricco di nutrimento e capace di assimilarlo.",
+          "source": "Chāndogya Upaniṣad, II.8.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.9",
+      "section_title": "Il Sāman a sette forme nel corso solare",
+      "passages": [
+        {
+          "id": "chandogya-2-9-1",
+          "original": "अथ खल्वमुमादित्यꣳसप्तविधꣳ सामोपासीत सर्वदा समस्तेन साम मां प्रति मां प्रतीति सर्वेण समस्तेन साम ॥ २.९.१ ॥",
+          "translation": "Si mediti poi su quel sole come il Sāman a sette forme: esso è sempre uguale [sama] a se stesso, perciò è Sāman; ed è uguale rispetto a ciascuno che pensa «è rivolto verso di me, è rivolto verso di me», perciò è Sāman.",
+          "source": "Chāndogya Upaniṣad, II.9.1"
+        },
+        {
+          "id": "chandogya-2-9-2",
+          "original": "तस्मिन्निमानि सर्वाणि भूतान्यन्वायत्तानीति विद्यात्तस्य यत्पुरोदयात्स हिंकारस्तदस्य पशवोऽन्वायत्तास्तस्मात्ते हिं कुर्वन्ति हिंकारभाजिनो ह्येतस्य साम्नः ॥ २.९.२ ॥",
+          "translation": "Si sappia che tutti questi esseri dipendono da lui. Ciò che precede il suo sorgere è lo hiṅkāra: a questo momento sono legati gli animali, perciò essi emettono suoni [hiṁ] prima dell'alba, partecipi di questa parte del Sāman.",
+          "source": "Chāndogya Upaniṣad, II.9.2"
+        },
+        {
+          "id": "chandogya-2-9-3",
+          "original": "अथ यत्प्रथमोदिते स प्रस्तावस्तदस्य मनुष्या अन्वायत्तास्तस्मात्ते प्रस्तुतिकामाः प्रशꣳसाकामाः प्रस्तावभाजिनो ह्येतस्य साम्नः ॥ २.९.३ ॥",
+          "translation": "Ciò che è il primo momento del suo sorgere è il prastāva: a questo momento sono legati gli esseri umani, perciò essi desiderano lodi e offerte, partecipi del prastāva.",
+          "source": "Chāndogya Upaniṣad, II.9.3"
+        },
+        {
+          "id": "chandogya-2-9-4",
+          "original": "अथ यत्संगववेलायाꣳ स आदिस्तदस्य वयाꣳस्यन्वायत्तानि तस्मात्तान्यन्तरिक्षेऽनारम्बणान्यादायात्मानं परिपतन्त्यादिभाजीनि ह्येतस्य साम्नः ॥ २.९.४ ॥",
+          "translation": "Ciò che è l'ora in cui si raduna il gregge [saṁgava] è l'ādi: a questo momento sono legati gli uccelli, perciò essi si librano nello spazio sostenendo se stessi senza appoggio, partecipi dell'ādi.",
+          "source": "Chāndogya Upaniṣad, II.9.4"
+        },
+        {
+          "id": "chandogya-2-9-5",
+          "original": "अथ यत्सम्प्रतिमध्यंदिने स उद्गीथस्तदस्य देवा अन्वायत्तास्तस्मात्ते सत्तमाः प्राजापत्यानामुद्गीथभाजिनो ह्येतस्य साम्नः ॥ २.९.५ ॥",
+          "translation": "Ciò che è il pieno mezzogiorno è l'udgītha: a questo momento sono legati gli dèi [deva], perciò essi sono i più nobili tra i figli di Prajāpati, partecipi dell'udgītha.",
+          "source": "Chāndogya Upaniṣad, II.9.5"
+        },
+        {
+          "id": "chandogya-2-9-6",
+          "original": "अथ यदूर्ध्वं मध्यंदिनात्प्रागपराह्णात्स प्रतिहारस्तदस्य गर्भा अन्वायत्तास्तस्मात्ते प्रतिहृतानावपद्यन्ते प्रतिहारभाजिनो ह्येतस्य साम्नः ॥ २.९.६ ॥",
+          "translation": "Ciò che segue il mezzogiorno e precede il pomeriggio è il pratihāra: a questo momento sono legati gli embrioni, perciò essi rimangono trattenuti nell'utero senza cadere, partecipi del pratihāra.",
+          "source": "Chāndogya Upaniṣad, II.9.6"
+        },
+        {
+          "id": "chandogya-2-9-7",
+          "original": "अथ यदूर्ध्वमपराह्णात्प्रागस्तमयात्स उपद्रवस्तदस्यारण्या अन्वायत्तास्तस्मात्ते पुरुषं दृष्ट्वा कक्षꣳश्वभ्रमित्युपद्रवन्त्युपद्रवभाजिनो ह्येतस्य साम्नः ॥ २.९.७ ॥",
+          "translation": "Ciò che segue il pomeriggio e precede il tramonto è l'upadrava: a questo momento sono legati gli animali selvatici, perciò alla vista dell'uomo fuggono al riparo [upadravanti] verso le tane, partecipi dell'upadrava.",
+          "source": "Chāndogya Upaniṣad, II.9.7"
+        },
+        {
+          "id": "chandogya-2-9-8",
+          "original": "अथ यत्प्रथमास्तमिते तन्निधनं तदस्य पितरोऽन्वायत्तास्तस्मात्तान्निदधति निधनभाजिनो ह्येतस्य साम्न एवं खल्वमुमादित्यꣳ सप्तविधꣳ सामोपास्ते ॥ २.९.८ ॥",
+          "translation": "Ciò che accade subito dopo il tramonto è il nidhana: a questo momento sono legati i Padri [pitaraḥ], perciò a essi si depone [nidadhati] l'offerta funebre, partecipi del nidhana. Così invero si medita su quel sole come il Sāman a sette forme.",
+          "source": "Chāndogya Upaniṣad, II.9.8"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.10",
+      "section_title": "Il Sāman a sette forme che oltrepassa la morte",
+      "passages": [
+        {
+          "id": "chandogya-2-10-1",
+          "original": "अथ खल्वात्मसंमितमतिमृत्यु सप्तविधꣳ सामोपासीत हिंकार इति त्र्यक्षरं प्रस्ताव इति त्र्यक्षरं तत्समम् ॥ २.१०.१ ॥",
+          "translation": "Si mediti poi sul Sāman a sette forme commisurato al Sé [ātmasaṁmita] e che oltrepassa la morte [atimṛtyu]. 'Hiṅ-kā-ra' è formato da tre sillabe; 'pra-stā-va' è formato da tre sillabe: questo è uguale.",
+          "source": "Chāndogya Upaniṣad, II.10.1"
+        },
+        {
+          "id": "chandogya-2-10-2",
+          "original": "आदिरिति द्व्यक्षरं प्रतिहार इति चतुरक्षरं तत इहैकं तत्समम् ॥ २.१०.२ ॥",
+          "translation": "'Ā-di' è formato da due sillabe; 'pra-ti-hā-ra' è formato da quattro sillabe: togliendo una sillaba da qui e aggiungendola là, questo diventa uguale [tre e tre].",
+          "source": "Chāndogya Upaniṣad, II.10.2"
+        },
+        {
+          "id": "chandogya-2-10-3",
+          "original": "उद्गीथ इति त्र्यक्षरमुपद्रव इति चतुरक्षरं त्रिभिस्त्रिभिः समं भवत्यक्षरमतिशिष्यते त्र्यक्षरं तत्समम् ॥ २.१०.३ ॥",
+          "translation": "'Ud-gī-tha' è formato da tre sillabe; 'u-pa-dra-va' è formato da quattro sillabe: tre e tre sono uguali, e la sillaba che avanza viene aggiunta al nidhana per renderlo uguale.",
+          "source": "Chāndogya Upaniṣad, II.10.3"
+        },
+        {
+          "id": "chandogya-2-10-4",
+          "original": "निधनमिति त्र्यक्षरं तत्सममेव भवति तानि ह वा एतानि द्वाविꣳशतिरक्षराणि ॥ २.१०.४ ॥",
+          "translation": "'Ni-dha-na' è formato da tre sillabe, e con la sillaba aggiunta si ha l'uguaglianza. In totale queste sillabe sono ventidue.",
+          "source": "Chāndogya Upaniṣad, II.10.4"
+        },
+        {
+          "id": "chandogya-2-10-5",
+          "original": "एकविꣳशत्यादित्यमाप्नोत्येकविꣳशो वा इतोऽसावादित्यो द्वाविꣳशेन परमादित्याज्जयति तन्नाकं तद्विशोकम् ॥ २.१०.५ ॥",
+          "translation": "Con ventuno sillabe si raggiunge il sole — poiché a ventuno stadi da questo mondo si trova quel sole; con la ventiduesima si conquista ciò che è oltre il sole: quel regno di pura luce [nāka] privo di dolore [viśoka].",
+          "source": "Chāndogya Upaniṣad, II.10.5"
+        },
+        {
+          "id": "chandogya-2-10-6",
+          "original": "आप्नोती हादित्यस्य जयं परो हास्यादित्यजयाज्जयो भवति य एतदेवं विद्वानात्मसंमितमतिमृत्यु सप्तविधꣳ सामोपास्ते सामोपास्ते ॥ २.१०.६ ॥",
+          "translation": "Egli ottiene la vittoria sul sole e consegue una vittoria che trascende la vittoria del sole colui che, conoscendo questa realtà, medita sul Sāman a sette forme commisurato al Sé e che oltrepassa la morte, sì, sul Sāman.",
+          "source": "Chāndogya Upaniṣad, II.10.6"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.11",
+      "section_title": "La meditazione sul Gāyatra Sāman nei soffi vitali",
+      "passages": [
+        {
+          "id": "chandogya-2-11-1",
+          "original": "मनो हिंकारो वाक्प्रस्तावश्चक्षुरुद्गीथः श्रोत्रं प्रतिहारः प्राणो निधनमेतद्गायत्रं प्राणेषु प्रोतम् ॥ २.११.१ ॥",
+          "translation": "La mente è lo hiṅkāra; la parola è il prastāva; la vista è l'udgītha; l'udito è il pratihāra; il soffio vitale [prāṇa] è il nidhana. Questo è il Gāyatra Sāman intessuto nei soffi vitali.",
+          "source": "Chāndogya Upaniṣad, II.11.1"
+        },
+        {
+          "id": "chandogya-2-11-2",
+          "original": "स य एवमेतद्गायत्रं प्राणेषु प्रोतं वेद प्राणी भवति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या महामनाः स्यात्तद्व्रतम् ॥ २.११.२ ॥",
+          "translation": "Colui che conosce questo Gāyatra Sāman come intessuto nei soffi vitali diviene pieno di vigore vitale, giunge alla pienezza della vita, vive con splendore, diviene grande per discendenza e per bestiame, grande per fama. Il suo voto sia di essere magnanimo [mahāmanas].",
+          "source": "Chāndogya Upaniṣad, II.11.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.12",
+      "section_title": "La meditazione sul Rathantara Sāman nel fuoco",
+      "passages": [
+        {
+          "id": "chandogya-2-12-1",
+          "original": "अभिमन्थति स हिंकारो धूमो जायते स प्रस्तावो ज्वलति स उद्गीथोऽङ्गारा भवन्ति स प्रतिहार उपशाम्यति तन्निधनꣳ संशाम्यति तन्निधनमेतद्रथंतरमग्नौ प्रोतम् ॥ २.१२.१ ॥",
+          "translation": "Lo sfregare per accendere il fuoco è lo hiṅkāra; il fumo che si sprigiona è il prastāva; la fiamma che divampa è l'udgītha; i carboni ardenti sono il pratihāra; il placarsi del fuoco è il nidhana; l'estinguersi completo è il nidhana. Questo è il Rathantara Sāman intessuto nel fuoco.",
+          "source": "Chāndogya Upaniṣad, II.12.1"
+        },
+        {
+          "id": "chandogya-2-12-2",
+          "original": "स य एवमेतद्रथंतरमग्नौ प्रोतं वेद ब्रह्मवर्चस्यन्नादो भवति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या न प्रत्यङ्ङग्निमाचामेन्न निष्ठीवेत्तद्व्रतम् ॥ २.१२.२ ॥",
+          "translation": "Colui che conosce questo Rathantara Sāman come intessuto nel fuoco si riveste dello splendore sacro di Brahman [brahmavarcasa] e diviene capace di assimilare il nutrimento; compie l'intera durata della vita, vive con splendore, diviene grande per prole e per bestiame, grande per fama. Il suo voto sia di non sciacquarsi la bocca né sputare stando rivolto verso il fuoco.",
+          "source": "Chāndogya Upaniṣad, II.12.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.13",
+      "section_title": "La meditazione sul Vāmadevya Sāman nell'unione vitale",
+      "passages": [
+        {
+          "id": "chandogya-2-13-1",
+          "original": "उपमन्त्रयते स हिंकारो ज्ञपयते स प्रस्तावः स्त्रिया सह शेते स उद्गीथः प्रति स्त्रीं सह शेते स प्रतिहारः कालं गच्छति तन्निधनं पारं गच्छति तन्निधनमेतद्वामदेव्यं मिथुने प्रोतम् ॥ २.१३.१ ॥",
+          "translation": "L'invito reciproco è lo hiṅkāra; l'intesa che si manifesta è il prastāva; il congiungersi con la donna è l'udgītha; l'unione accogliente è il pratihāra; il tempo trascorso insieme è il nidhana; il compimento dell'atto è il nidhana. Questo è il Vāmadevya Sāman intessuto nell'unione della coppia.",
+          "source": "Chāndogya Upaniṣad, II.13.1"
+        },
+        {
+          "id": "chandogya-2-13-2",
+          "original": "स य एवमेतद्वामदेव्यं मिथुने प्रोतं वेद मिथुनी भवति मिथुनान्मिथुनात्प्रजायते सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या न कांचन परिहरेत्तद्व्रतम् ॥ २.१३.२ ॥",
+          "translation": "Colui che conosce questo Vāmadevya Sāman come intessuto nell'unione vitale non soffre isolamento e perpetua la fecondità generativa; compie l'intera durata della vita, vive con splendore, diviene grande per discendenza e per bestiame, grande per fama. Il suo voto sia di non respingere con disprezzo alcuna donna.",
+          "source": "Chāndogya Upaniṣad, II.13.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.14",
+      "section_title": "La meditazione sul Bṛhat Sāman nel corso solare",
+      "passages": [
+        {
+          "id": "chandogya-2-14-1",
+          "original": "उद्यन्हिंकार उदितः प्रस्तावो मध्यंदिन उद्गीथोऽपराह्णः प्रतिहारोऽस्तं यन्निधनमेतद्बृहदादित्ये प्रोतम् ॥ २.१४.१ ॥",
+          "translation": "Il sole al suo sorgere è lo hiṅkāra; già sorto è il prastāva; a mezzogiorno è l'udgītha; nel pomeriggio è il pratihāra; al momento del tramonto è il nidhana. Questo è il Bṛhat Sāman intessuto nel sole.",
+          "source": "Chāndogya Upaniṣad, II.14.1"
+        },
+        {
+          "id": "chandogya-2-14-2",
+          "original": "स य एवमेतद्बृहदादित्ये प्रोतं वेद तेजस्व्यन्नादो भवति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या तपन्तं न निन्देत्तद्व्रतम् ॥ २.१४.२ ॥",
+          "translation": "Colui che conosce questo Bṛhat Sāman come intessuto nel sole diviene radioso di vigore e capace di consumare il cibo; compie l'intera durata della vita, vive con splendore, diviene grande per prole e per bestiame, grande per fama. Il suo voto sia di non denigrare il sole che arde.",
+          "source": "Chāndogya Upaniṣad, II.14.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.15",
+      "section_title": "La meditazione sul Vairūpa Sāman nelle nubi e nella pioggia",
+      "passages": [
+        {
+          "id": "chandogya-2-15-1",
+          "original": "अभ्रं संप्लवते स हिंकारो मेघो जायते स प्रस्तावो वर्षति स उद्गीथो विद्योतते स्तनयति स प्रतिहार उद्गृह्णाति तन्निधनमेतद्वैरूपं पर्जन्ये प्रोतम् ॥ २.१५.१ ॥",
+          "translation": "Le nebbie che si addensano sono lo hiṅkāra; la nube che si forma è il prastāva; la pioggia che scende è l'udgītha; il lampo e il tuono sono il pratihāra; il rasserenarsi del cielo è il nidhana. Questo è il Vairūpa Sāman intessuto nella nube di pioggia [parjanya].",
+          "source": "Chāndogya Upaniṣad, II.15.1"
+        },
+        {
+          "id": "chandogya-2-15-2",
+          "original": "स य एवमेतद्वैरूपं पर्जन्ये प्रोतं वेद विरूपांश्च सुरूंपांश्च पशूनवरुन्धे सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या वर्षन्तं न निन्देत्तद्व्रतम् ॥ २.१५.२ ॥",
+          "translation": "Colui che conosce questo Vairūpa Sāman come intessuto nella pioggia acquisisce bestiame dalle forme molteplici e perfette; compie l'intera durata della vita, vive con splendore, diviene grande per prole e per bestiame, grande per fama. Il suo voto sia di non denigrare la pioggia che cade.",
+          "source": "Chāndogya Upaniṣad, II.15.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.16",
+      "section_title": "La meditazione sul Vairāja Sāman nelle stagioni",
+      "passages": [
+        {
+          "id": "chandogya-2-16-1",
+          "original": "वसन्तो हिंकारो ग्रीष्मः प्रस्तावो वर्षा उद्गीथः शरत्प्रतिहारो हेमन्तो निधनमेतद्वैराजमृतुषु प्रोतम् ॥ २.१६.१ ॥",
+          "translation": "La primavera è lo hiṅkāra; l'estate è il prastāva; la stagione delle piogge è l'udgītha; l'autunno è il pratihāra; l'inverno è il nidhana. Questo è il Vairāja Sāman intessuto nelle stagioni.",
+          "source": "Chāndogya Upaniṣad, II.16.1"
+        },
+        {
+          "id": "chandogya-2-16-2",
+          "original": "स य एवमेतद्वैराजमृतुषु प्रोतं वेद विराजति प्रजया पशुभिर्ब्रह्मवर्चसेन सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या ऋतून्न निन्देत्तद्व्रतम् ॥ २.१६.२ ॥",
+          "translation": "Colui che conosce questo Vairāja Sāman come intessuto nelle stagioni rifulge per prole, per bestiame e per splendore spirituale [brahmavarcasa]; compie l'intera durata della vita, vive con splendore, diviene grande per figli e per bestiame, grande per fama. Il suo voto sia di non denigrare le stagioni.",
+          "source": "Chāndogya Upaniṣad, II.16.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.17",
+      "section_title": "La meditazione sullo Śakvarī Sāman nei mondi",
+      "passages": [
+        {
+          "id": "chandogya-2-17-1",
+          "original": "पृथिवी हिंकारोऽन्तरिक्षं प्रस्तावो द्यौरुद्गीथो दिशः प्रतिहारः समुद्रो निधनमेताः शक्वर्यो लोकेषु प्रोताः ॥ २.१७.१ ॥",
+          "translation": "La terra è lo hiṅkāra; lo spazio intermedio è il prastāva; il cielo è l'udgītha; le direzioni dello spazio sono il pratihāra; l'oceano è il nidhana. Queste sono le melodie Śakvarī intessute nei mondi.",
+          "source": "Chāndogya Upaniṣad, II.17.1"
+        },
+        {
+          "id": "chandogya-2-17-2",
+          "original": "स य एवमेताः शक्वर्यो लोकेषु प्रोता वेद लोकी भवति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या लोकान्न निन्देत्तद्व्रतम् ॥ २.१७.२ ॥",
+          "translation": "Colui che conosce queste melodie Śakvarī come intessute nei mondi diviene padrone dei mondi; compie l'intera durata della vita, vive con splendore, diviene grande per discendenza e per bestiame, grande per fama. Il suo voto sia di non denigrare i mondi.",
+          "source": "Chāndogya Upaniṣad, II.17.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.18",
+      "section_title": "La meditazione sul Revatī Sāman negli animali",
+      "passages": [
+        {
+          "id": "chandogya-2-18-1",
+          "original": "अजा हिंकारोऽवयः प्रस्तावो गाव उद्गीथोऽश्वाः प्रतिहारः पुरुषो निधनमेता रेवत्यः पशुषु प्रोताः ॥ २.१८.१ ॥",
+          "translation": "Le capre sono lo hiṅkāra; le pecore sono il prastāva; i bovini sono l'udgītha; i cavalli sono il pratihāra; l'essere umano è il nidhana. Queste sono le melodie Revatī intessute negli animali.",
+          "source": "Chāndogya Upaniṣad, II.18.1"
+        },
+        {
+          "id": "chandogya-2-18-2",
+          "original": "स य एवमेता रेवत्यः पशुषु प्रोता वेद पशुमान्भवति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या पशून्न निन्देत्तद्व्रतम् ॥ २.१८.२ ॥",
+          "translation": "Colui che conosce queste melodie Revatī come intessute negli animali diviene ricco di bestiame; compie l'intera durata della vita, vive con splendore, diviene grande per prole e per bestiame, grande per fama. Il suo voto sia di non denigrare gli animali.",
+          "source": "Chāndogya Upaniṣad, II.18.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.19",
+      "section_title": "La meditazione sul Yajñāyajñīya Sāman nelle membra del corpo",
+      "passages": [
+        {
+          "id": "chandogya-2-19-1",
+          "original": "लोम हिंकारस्त्वक्प्रस्तावो मांसमुद्गीथोऽस्थि प्रतिहारो मज्जा निधनमेतद्यज्ञायज्ञीयमङ्गेषु प्रोतम् ॥ २.१९.१ ॥",
+          "translation": "I peli del corpo sono lo hiṅkāra; la pelle è il prastāva; la carne è l'udgītha; l'osso è il pratihāra; il midollo è il nidhana. Questo è il Yajñāyajñīya Sāman intessuto nelle membra del corpo.",
+          "source": "Chāndogya Upaniṣad, II.19.1"
+        },
+        {
+          "id": "chandogya-2-19-2",
+          "original": "स य एवमेतद्यज्ञायज्ञीयमङ्गेषु प्रोतं वेदाङ्गी भवति नाङ्गेन विहूर्छति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या संवत्सरं मज्ज्ञो नाश्नीयात्तद्व्रतं मज्ज्ञो नाश्नीयादिति वा ॥ २.१९.२ ॥",
+          "translation": "Colui che conosce questo Yajñāyajñīya Sāman come intessuto nelle membra possiede un corpo saldo e integro e non è menomato in alcun organo; compie l'intera durata della vita, vive con splendore, diviene grande per figli e per bestiame, grande per fama. Il suo voto sia di non mangiare carne per un anno intero, o di non mangiarne affatto.",
+          "source": "Chāndogya Upaniṣad, II.19.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.20",
+      "section_title": "La meditazione sul Rājana Sāman nelle divinità",
+      "passages": [
+        {
+          "id": "chandogya-2-20-1",
+          "original": "अग्निर्हिंकारो वायुः प्रस्ताव आदित्य उद्गीथो नक्षत्राणि प्रतिहारश्चन्द्रमा निधनमेतद्राजनं देवतासु प्रोतम् ॥ २.२०.१ ॥",
+          "translation": "Il fuoco è lo hiṅkāra; il vento è il prastāva; il sole è l'udgītha; le stelle sono il pratihāra; la luna è il nidhana. Questo è il Rājana Sāman intessuto nelle divinità.",
+          "source": "Chāndogya Upaniṣad, II.20.1"
+        },
+        {
+          "id": "chandogya-2-20-2",
+          "original": "स य एवमेतद्राजनं देवतासु प्रोतं वेदतासामेव देवतानाꣳ सलोकतां साष्टितां सायुज्यं गच्छति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या ब्राह्मणान्न निन्देत्तद्व्रतम् ॥ २.२०.२ ॥",
+          "translation": "Colui che conosce questo Rājana Sāman come intessuto nelle divinità consegue la dimora nel medesimo mondo di queste divinità, i loro medesimi poteri o la loro intima unione; compie l'intera durata della vita, vive con splendore, diviene grande per prole e per bestiame, grande per fama. Il suo voto sia di non denigrare i conoscitori del sacro [brāhmaṇa].",
+          "source": "Chāndogya Upaniṣad, II.20.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.21",
+      "section_title": "La meditazione sul Sāman universale presente in tutto (Sarvātma-bhāva)",
+      "passages": [
+        {
+          "id": "chandogya-2-21-1",
+          "original": "त्रयी विद्या हिंकारस्त्रय इमे लोकाः स प्रस्तावोऽग्निर्वायुरादित्यः स उद्गीथो नक्षत्राणि वयांसि मरीचयः स प्रतिहारः सर्पा गन्धर्वाः पितरस्तन्निधनमेतत्साम सर्वस्मिन्प्रोतम् ॥ २.२१.१ ॥",
+          "translation": "La triplice sapienza vedica è lo hiṅkāra; questi tre mondi sono il prastāva; il fuoco, il vento e il sole sono l'udgītha; le stelle, gli uccelli e i raggi luminosi sono il pratihāra; i serpenti, i musicisti celesti [gandharva] e i Padri [pitaraḥ] sono il nidhana. Questo è il Sāman intessuto in ogni cosa [sarvasmin protam].",
+          "source": "Chāndogya Upaniṣad, II.21.1"
+        },
+        {
+          "id": "chandogya-2-21-2",
+          "original": "स य एवमेतत्साम सर्वस्मिन्प्रोतं वेद सर्वं ह भवति ॥ २.२१.२ ॥",
+          "translation": "Colui che conosce questo Sāman come intessuto in ogni cosa diviene invero la totalità di tutto [sarvaṁ ha bhavati].",
+          "source": "Chāndogya Upaniṣad, II.21.2"
+        },
+        {
+          "id": "chandogya-2-21-3",
+          "original": "तदेष श्लोकः । यानि पञ्चधा त्रीणि त्रीणि तेभ्यो न ज्यायः परमन्यदस्ति ॥ २.२१.३ ॥",
+          "translation": "A questo proposito vi è questo verso: «Nulla vi è di più vasto o superiore a queste cinque serie, ciascuna formata da tre elementi».",
+          "source": "Chāndogya Upaniṣad, II.21.3"
+        },
+        {
+          "id": "chandogya-2-21-4",
+          "original": "यस्तद्वेद स वेद सर्वं सर्वा दिशो बलिमस्मै हरन्ति सर्वमस्मीत्युपासीत तद्व्रतं तद्व्रतम् ॥ २.२१.४ ॥",
+          "translation": "Chi conosce questo conosce la totalità; tutte le direzioni dello spazio gli recano tributo. Si mediti con la consapevolezza: «Io sono tutto» [sarvam asmīti]. Questo è il voto supremo, questo è il voto.",
+          "source": "Chāndogya Upaniṣad, II.21.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.22",
+      "section_title": "I diversi timbri vocali del Sāman e l'intenzione sacra delle lettere",
+      "passages": [
+        {
+          "id": "chandogya-2-22-1",
+          "original": "विनर्दि साम्नो वृणे पशव्यमित्यग्नेरुद्गीथोऽनिरुक्तः प्रजापतेर्निरुक्तः सोमस्य मृदु श्लक्ष्णं वायोः श्लक्ष्णं बलवदिन्द्रस्य क्रौञ्चं बृहस्पतेरपध्वान्तं वरुणस्य तान्सर्वानेवोपसेवेत वारुणं त्वेव वर्जयेत् ॥ २.२२.१ ॥",
+          "translation": "«Scelgo il timbro profondo [vinardi] del Sāman, favorevole al bestiame»: questo canto appartiene ad Agni. Il canto inespresso [anirukta] appartiene a Prajāpati; quello chiaramente espresso [nirukta] appartiene a Soma; quello dolce e morbido a Vāyu; quello morbido e possente a Indra; quello simile al richiamo dell'airone [krauñca] a Bṛhaspati; quello fesso e rotto a Varuṇa. Si pratichino tutti questi timbri, evitando tuttavia quello di Varuṇa.",
+          "source": "Chāndogya Upaniṣad, II.22.1"
+        },
+        {
+          "id": "chandogya-2-22-2",
+          "original": "अमृतत्वं देवेभ्य आगायानीत्यागायेत्स्वधां पितृभ्य आशां मनुष्येभ्यस्तृणोदकं पशुभ्यः स्वर्गं लोकं यजमानायान्नमात्मन आगायानीत्येतानि मनसा ध्यायन्नप्रमत्तो गायत ॥ २.२२.२ ॥",
+          "translation": "Si canti con questa intenzione: «Possa io procurare con il canto l'immortalità agli dèi, l'oblazione funebre [svadhā] ai Padri, la speranza agli uomini, l'erba e l'acqua agli animali, il regno celeste al sacrificatore e il nutrimento a me stesso». Meditando su queste intenzioni nella mente, si canti con attenzione vigile e priva di distrazione.",
+          "source": "Chāndogya Upaniṣad, II.22.2"
+        },
+        {
+          "id": "chandogya-2-22-3",
+          "original": "सर्वे स्वरा इन्द्रस्यात्मानः सर्व ऊष्माणः प्रजापतेरात्मानः सर्वे स्पर्शा मृत्योरात्मानः । तं यदि स्वरेषूपालभेतेन्द्रꣳ शरणं प्रपन्नोऽभूवं स त्वा प्रति वक्ष्यतीत्येनं ब्रूयात् ॥ २.२२.३ ॥",
+          "translation": "Tutte le vocali [svara] sono manifestazioni del corpo di Indra; tutte le sibilanti [ūṣman] sono manifestazioni del corpo di Prajāpati; tutte le consonanti occlusive [sparśa] sono manifestazioni del corpo della Morte [Mṛtyu]. Se qualcuno dovesse rimproverare il cantore per la pronuncia delle vocali, gli si dica: «Ho preso rifugio in Indra; egli ti risponderà».",
+          "source": "Chāndogya Upaniṣad, II.22.3"
+        },
+        {
+          "id": "chandogya-2-22-4",
+          "original": "अथ यद्येनमूष्मषूपालभेत प्रजापतिं शरणं प्रपन्नोऽभूवं स त्वा प्रति पेक्ष्यतीत्येनं ब्रूयादथ यद्येनꣳ स्पर्शेषूपालभेत मृत्युं शरणं प्रपन्नोऽभूवं स त्वा प्रति धक्ष्यतीत्येनं ब्रूयात् ॥ २.२२.४ ॥",
+          "translation": "E se qualcuno dovesse rimproverarlo per la pronuncia delle sibilanti, gli si dica: «Ho preso rifugio in Prajāpati; egli ti schiaccerà». E se qualcuno dovesse rimproverarlo per la pronuncia delle consonanti occlusive, gli si dica: «Ho preso rifugio nella Morte; essa ti brucerà».",
+          "source": "Chāndogya Upaniṣad, II.22.4"
+        },
+        {
+          "id": "chandogya-2-22-5",
+          "original": "सर्वे स्वरा घोषवन्तो बलवन्तो वक्तव्या इन्द्रे बलं ददानीति सर्व ऊष्माणोऽग्रस्ता अनििरस्ता विवृता वक्तव्याः प्रजापतेरात्मानं परिददानीति सर्वे स्पर्शा लेशेनानभिनिहिता वक्तव्या मृत्योरात्मानं परिहराणीति ॥ २.२२.५ ॥",
+          "translation": "Tutte le vocali devono essere pronunciate sonore e gagliarde, pensando: «Possa io conferire forza a Indra». Tutte le sibilanti devono essere pronunciate senza essere inghiottite né espulse bruscamente, bensì ben aperte, pensando: «Possa io offrire me stesso a Prajāpati». Tutte le consonanti occlusive devono essere pronunciate lentamente, senza confusione reciproca, pensando: «Possa io sottrarre il mio sé alla Morte».",
+          "source": "Chāndogya Upaniṣad, II.22.5"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.23",
+      "section_title": "I tre rami del dovere, l'immortalità del Brahmasaṁstha e l'origine dell'Oṃkāra",
+      "passages": [
+        {
+          "id": "chandogya-2-23-1",
+          "original": "त्रयो धर्मस्कन्धा यज्ञोऽध्ययनं दानमिति प्रथमस्तप एव द्वितीयो ब्रह्मचार्याचार्यकुलवासी तृतीयोऽत्यन्तमात्मानमाचार्यकुलेऽवसादयन्सर्व एते पुण्यलोका भवन्ति ब्रह्मसंस्थोऽमृतत्वमेति ॥ २.२३.१ ॥",
+          "translation": "Tre sono i rami del dovere sacro [dharmaskandhāḥ]: il primo è costituito dal sacrificio, dallo studio dei Veda e dalla carità generosa; il secondo è l'ascesi interiore [tapas]; il terzo è lo studente sacro [brahmacārin] che risiede stabilmente nella dimora del maestro, consumando l'intera vita presso la casa del maestro. Tutti costoro ottengono mondi meritori [puṇyalokāḥ]; ma colui che è saldamente stabilito in Brahman [brahmasaṁstha] ottiene l'immortalità [amṛtatvam].",
+          "source": "Chāndogya Upaniṣad, II.23.1"
+        },
+        {
+          "id": "chandogya-2-23-2",
+          "original": "प्रजापतिर्लोकानभ्यतपत्तेभ्योऽभितप्तेभ्यस्त्रयी विद्या सम्प्रास्रवत्तामभ्यतपत्तस्या अभितप्ताया एतान्यक्षराणि सम्प्रास्र्वन्त भूर्भुवः स्वरिति ॥ २.२३.२ ॥",
+          "translation": "Prajāpati concentrò il proprio ardore meditativo sui mondi: da essi, così riscaldati, scaturì la triplice sapienza vedica. Egli meditò su di essa: da essa, così riscaldata, scaturirono queste sillabe sacre: «Bhūḥ», «Bhuvaḥ», «Svaḥ».",
+          "source": "Chāndogya Upaniṣad, II.23.2"
+        },
+        {
+          "id": "chandogya-2-23-3",
+          "original": "तान्यभ्यतपत्तेभ्योऽभितप्तेभ्य ॐकारः सम्प्रास्रवत्तद्यथा शङ्कुना सर्वाणि पर्णानि संतृण्णान्येवमोंकारेण सर्वा वाक्संतृण्णोंकार एवेदं सर्वमोंकार एवेदं सर्वम् ॥ २.२३.३ ॥",
+          "translation": "Egli concentrò il proprio ardore su queste sillabe: da esse, così riscaldate, scaturì l'Oṃkāra. Proprio come tutte le parti di una foglia sono penetrate e tenute insieme dalla sua nervatura centrale, così l'intera parola è permeata e tenuta insieme dall'Oṃkāra. L'Oṃkāra è invero tutto questo, sì, l'Oṃkāra è tutto questo.",
+          "source": "Chāndogya Upaniṣad, II.23.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.24",
+      "section_title": "La conoscenza delle tre spremiture del Soma e la conquista dei mondi per il sacrificatore",
+      "passages": [
+        {
+          "id": "chandogya-2-24-1",
+          "original": "ब्रह्मवादिनो वदन्ति यद्वसूनां प्रातःसवनं रुद्राणां माध्यंदिनं सवनमादित्यानां च विश्वेषां च देवानां तृतीयसवनम् ॥ २.२४.१ ॥",
+          "translation": "I maestri che discutono di Brahman affermano: «La spremitura mattutina [prātaḥsavana] appartiene ai Vasu; la spremitura meridiana [mādhyaṁdina savana] appartiene ai Rudra; la terza spremitura, quella serale [tṛtīyasavana], appartiene agli Āditya e a tutti gli dèi [Viśvedevāḥ]».",
+          "source": "Chāndogya Upaniṣad, II.24.1"
+        },
+        {
+          "id": "chandogya-2-24-2",
+          "original": "क्व तर्हि यजमानस्य लोक इति स यस्तं न विद्यात्कथं कुर्यादथ विद्वान्कुर्यात् ॥ २.२४.२ ॥",
+          "translation": "«Dove si trova allora il mondo riservato al sacrificatore?». Colui che non conosce questo mistero, come potrebbe celebrare il sacrificio? Lo celebri soltanto chi possiede tale conoscenza.",
+          "source": "Chāndogya Upaniṣad, II.24.2"
+        },
+        {
+          "id": "chandogya-2-24-3",
+          "original": "पुरा प्रातरनुवाकस्योपाकरणाज्जघनेन गार्हपत्यस्योदङ्मुख उपविश्य स वासवं सामाभिगायति ॥ २.२४.३ ॥",
+          "translation": "Prima dell'inizio della recitazione mattutina, sedendo dietro il fuoco Gārhapatya e rivolto a settentrione, il sacrificatore intona il Sāman sacro ai Vasu:",
+          "source": "Chāndogya Upaniṣad, II.24.3"
+        },
+        {
+          "id": "chandogya-2-24-4",
+          "original": "लो३कद्वारमपावा३र्णू३३ पश्येम त्वा वयं वैरा३३३३३ हु३म् आ३३ ज्या३यो३आ ३२१११ इति ॥ २.२४.४ ॥",
+          "translation": "«Apri la porta di questo mondo terreno, affinché noi possiamo contemplarti per conseguire la sovranità!».",
+          "source": "Chāndogya Upaniṣad, II.24.4"
+        },
+        {
+          "id": "chandogya-2-24-5",
+          "original": "अथ जुहोति नमोऽग्नये पृथिवीक्षिते लोकक्षिते लोकं मे यजमानाय विन्दैष वै यजमानस्य लोक एतास्मि ॥ २.२४.५ ॥",
+          "translation": "Quindi offre l'oblazione dicendo: «Omaggio ad Agni che dimora sulla terra, che dimora nel mondo! Assicura un mondo a me che sacrifico: questo è invero il mondo del sacrificatore, e verso di esso io andrò!",
+          "source": "Chāndogya Upaniṣad, II.24.5"
+        },
+        {
+          "id": "chandogya-2-24-6",
+          "original": "अत्र यजमानः परस्तादायुषः स्वाहापजहि परिघमित्युक्त्वोत्तिष्ठति तस्मै वसवः प्रातःसवनं सम्प्रयच्छन्ति ॥ २.२४.६ ॥",
+          "translation": "Al compimento della presente vita, possa io giungere colà! Svāhā! Rimuovi il chiavistello che serra la porta!». Detto questo, egli si alza; e i Vasu gli donano il regno connesso alla spremitura mattutina.",
+          "source": "Chāndogya Upaniṣad, II.24.6"
+        },
+        {
+          "id": "chandogya-2-24-7",
+          "original": "पुरा माध्यंदिनस्य सवनस्योपाकरणाज्जघनेनाग्नीध्रीयस्योदङ्मुख उपविश्य स रौद्रं सामाभिगायति ॥ २.२४.७ ॥",
+          "translation": "Prima dell'inizio della spremitura meridiana, sedendo dietro il fuoco Āgnīdhra e rivolto a settentrione, il sacrificatore intona il Sāman sacro ai Rudra:",
+          "source": "Chāndogya Upaniṣad, II.24.7"
+        },
+        {
+          "id": "chandogya-2-24-8",
+          "original": "लो३कद्वारमपावा३र्णू३३ पश्येम त्वा वयं वैरा३३३३३ हु३म् आ३३ ज्या३यो३आ ३२१११ इति ॥ २.२४.८ ॥",
+          "translation": "«Apri la porta del mondo intermedio, affinché noi possiamo contemplarti per conseguire la sovranità!».",
+          "source": "Chāndogya Upaniṣad, II.24.8"
+        },
+        {
+          "id": "chandogya-2-24-9",
+          "original": "अथ जुहोति नमो वायवेऽन्तरिक्षक्षिते लोकक्षिते लोकं मे यजमानाय विन्दैष वै यजमानस्य लोक एतास्मि ॥ २.२४.९ ॥",
+          "translation": "Quindi offre l'oblazione dicendo: «Omaggio a Vāyu che dimora nello spazio intermedio, che dimora nel mondo! Assicura un mondo a me che sacrifico: questo è invero il mondo del sacrificatore, e verso di esso io andrò!",
+          "source": "Chāndogya Upaniṣad, II.24.9"
+        },
+        {
+          "id": "chandogya-2-24-10",
+          "original": "अत्र यजमानः परस्तादायुषः स्वाहापजहि परिघमित्युक्त्वोत्तिष्ठति तस्मै रुद्रा माध्यंदिनं सवनं सम्प्रयच्छन्ति ॥ २.२४.१० ॥",
+          "translation": "Al compimento della presente vita, possa io giungere colà! Svāhā! Rimuovi il chiavistello che serra la porta!». Detto questo, egli si alza; e i Rudra gli donano il regno connesso alla spremitura meridiana.",
+          "source": "Chāndogya Upaniṣad, II.24.10"
+        },
+        {
+          "id": "chandogya-2-24-11",
+          "original": "पुरा तृतीयसवनस्योपाकरणाज्जघनेनाहवनीयस्योदङ्मुख उपविश्य स आदित्यं स वैश्वदेवं सामाभिगायति ॥ २.२४.११ ॥",
+          "translation": "Prima dell'inizio della terza spremitura, sedendo dietro il fuoco Āhavanīya e rivolto a settentrione, il sacrificatore intona il Sāman sacro agli Āditya e a tutti gli dèi:",
+          "source": "Chāndogya Upaniṣad, II.24.11"
+        },
+        {
+          "id": "chandogya-2-24-12",
+          "original": "लो३कद्वारमपावा३र्णू३३ पश्येम त्वा वयं स्वारा३३३३३ हु३म् आ३३ ज्या३यो३आ ३२१११ इति ॥ २.२४.१२ ॥",
+          "translation": "«Apri la porta del mondo celeste, affinché noi possiamo contemplarti per conseguire il regno sovrano [svārājya]!».",
+          "source": "Chāndogya Upaniṣad, II.24.12"
+        },
+        {
+          "id": "chandogya-2-24-13",
+          "original": "आदित्यमथ वैश्वदेवं लो३कद्वारमपावा३र्णू३३ पश्येम त्वा वयं साम्रा३३३३३ हु३म् आ३३ ज्या३यो३आ ३२१११ इति ॥ २.२४.१३ ॥",
+          "translation": "Questo agli Āditya. Quindi, rivolgendosi a tutti gli dèi: «Aprite la porta del mondo celeste, affinché noi possiamo contemplarvi per conseguire la piena sovranità [sāmrājya]!».",
+          "source": "Chāndogya Upaniṣad, II.24.13"
+        },
+        {
+          "id": "chandogya-2-24-14",
+          "original": "अथ जुहोति नम आदित्येभ्यश्च विश्वेभ्यश्च देवेभ्यो दिविक्षिद्भ्यो लोकक्षिद्भ्यो लोकं मे यजमानाय विन्दत ॥ २.२४.१४ ॥",
+          "translation": "Quindi offre l'oblazione dicendo: «Omaggio agli Āditya e a tutti gli dèi che dimorano nel cielo, che dimorano nei mondi! Assicurate un mondo a me che celebro il sacrificio!",
+          "source": "Chāndogya Upaniṣad, II.24.14"
+        },
+        {
+          "id": "chandogya-2-24-15",
+          "original": "एष वै यजमानस्य लोक एतास्म्यत्र यजमानः परस्तादायुषः स्वाहापहत परिघमित्युक्त्वोत्तिष्ठति ॥ २.२४.१५ ॥",
+          "translation": "Questo è invero il mondo del sacrificatore, e verso di esso io andrò! Al termine della presente vita, possa io giungere colà! Svāhā! Rimuovete il chiavistello che serra la porta!». Detto questo, egli si alza.",
+          "source": "Chāndogya Upaniṣad, II.24.15"
+        },
+        {
+          "id": "chandogya-2-24-16",
+          "original": "तस्मा आदित्याश्च विश्वे च देवास्तृतीयसवनं सम्प्रयच्छन्त्येष ह वै यज्ञस्य मात्रां वेद य एवं वेद य एवं वेद ॥ २.२४.१६ ॥",
+          "translation": "A lui gli Āditya e tutti gli dèi donano il regno connesso alla terza spremitura. Conosce invero l'esatta misura del sacrificio colui che possiede questa conoscenza, sì, colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, II.24.16"
+        }
+      ]
+    }
+  ]
+}

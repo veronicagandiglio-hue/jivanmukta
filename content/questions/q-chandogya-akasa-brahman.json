@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-akasa-brahman",
+  "scope": "local",
+  "type": "specific",
+  "text": "In che senso l'Ākāśa (lo Spazio) viene indicato come il fondamento supremo dal quale scaturiscono e nel quale si dissolvono tutti gli esseri?",
+  "problem": "Nel dibattito tra i saggi, l'indagine sul fondamento del Sāman risale di grado in grado fino a superare il mondo fenomenico e celeste: l'Ākāśa non indica qui il semplice elemento fisico etereo, ma il Brahman stesso, unico rifugio incorporeo, illimitato e non perituro.",
+  "parent_question": "q-che-cose-brahman",
+  "concepts": [
+    "brahman",
+    "akasa",
+    "udgitha"
+  ],
+  "passages": [
+    "chandogya-1-9-1",
+    "chandogya-1-9-2"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

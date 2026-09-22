@@ -36,5 +36,23 @@
     "q-in-che-senso-il-conoscitore-diviene-brahman"
   ],
   "prev_step": "06-che-cose-brahman",
-  "next_step": "08-perche-appare-la-molteplicita"
+  "next_step": "08-perche-appare-la-molteplicita",
+  "curated_passages": [
+    {
+      "passage_id": "chandogya-3-14-3",
+      "why": "Sancisce l'identità fondamentale tra l'Ātman interiore al cuore (più sottile di un granello di senape) e Brahman (più vasto dell'intero cosmo), fondando la certezza liberatoria della non-dualità."
+    },
+    {
+      "passage_id": "chandogya-3-14-4",
+      "why": "Sancisce l'identità fondamentale tra l'Ātman interiore al cuore (più sottile di un granello di senape) e Brahman (più vasto dell'intero cosmo), fondando la certezza liberatoria della non-dualità."
+    },
+    {
+      "passage_id": "chandogya-6-8-7",
+      "why": "Enunciazione per eccellenza del Mahāvākya «Tat Tvam Asi» (Quello Tu Sei), che sancisce l'assoluta e indistruttibile identità metafisica tra il Sé interiore e l'Essere supremo."
+    },
+    {
+      "passage_id": "chandogya-6-16-3",
+      "why": "Enunciazione per eccellenza del Mahāvākya «Tat Tvam Asi» (Quello Tu Sei), che sancisce l'assoluta e indistruttibile identità metafisica tra il Sé interiore e l'Essere supremo."
+    }
+  ]
 }

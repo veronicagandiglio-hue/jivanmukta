@@ -33,5 +33,11 @@
     "q-distinzione-tra-sreyas-e-preyas"
   ],
   "prev_step": null,
-  "next_step": "02-che-cosa-significa-realta"
+  "next_step": "02-che-cosa-significa-realta",
+  "curated_passages": [
+    {
+      "passage_id": "chandogya-7-1-4",
+      "why": "Dichiara che tutte le scienze particolari, le arti e le discipline storiche sono meri 'nomi' convenzionali (nāmaivaitat), subordinati alla conoscenza metafisica del Principio immutabile."
+    }
+  ]
 }

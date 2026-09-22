@@ -1,0 +1,25 @@
+{
+  "id": "q-chandogya-dialettica-prajapati",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato pedagogico e filosofico dei quattro gradi dell'insegnamento di Prajāpati a Indra?",
+  "problem": "Prajāpati non impartisce la verità assoluta in modo dogmatico immediato, ma guida Indra attraverso una maieutica progressiva: 1) l'immagine riflessa (il corpo della veglia), accettata dal materialista Virocana ma rigettata da Indra per la sua caducità; 2) il soggetto del sogno, scartato perché soggetto a dolore e paura; 3) il sonno profondo, scartato perché privo di consapevolezza determinata e simile all'annientamento; 4) l'Ātman incorporeo (aśarīra), che illumina tutti gli stati rimanendo eternamente libero e sovrano.",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "avasthatraya",
+    "asura-vidya",
+    "asariira",
+    "atman"
+  ],
+  "passages": [
+    "chandogya-8-7-4",
+    "chandogya-8-8-4",
+    "chandogya-8-9-1",
+    "chandogya-8-10-2",
+    "chandogya-8-11-1",
+    "chandogya-8-12-1"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

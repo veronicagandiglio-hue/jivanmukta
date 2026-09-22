@@ -1,0 +1,19 @@
+{
+  "id": "q-chandogya-sarvam-khalvidam-brahma",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato metafisico dell'affermazione «Sarvaṁ khalvidaṁ brahma tajjalān»?",
+  "problem": "All'inizio della Śāṇḍilya-vidyā, l'Upaniṣad non intende formulare un panteismo naturalistico, ma rivela che ogni apparenza molteplice è in realtà Brahman, poiché da Esso trae origine, in Esso sussiste e in Esso si risolve, esigendo un'attitudine di pacato distacco (śānta upāsīta).",
+  "parent_question": "q-che-cose-brahman",
+  "concepts": [
+    "brahman",
+    "tajjalan",
+    "sandilya-vidya"
+  ],
+  "passages": [
+    "chandogya-3-14-1"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

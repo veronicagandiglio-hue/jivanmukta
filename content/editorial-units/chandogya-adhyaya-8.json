@@ -1,0 +1,248 @@
+{
+  "id": "chandogya-adhyaya-8",
+  "work_id": "chandogya-upanisad",
+  "unit_locus": "8",
+  "unit_title": "Ottavo Adhyāya",
+  "sections": [
+    {
+      "section_locus": "8.1",
+      "section_title": "La Dahara-vidyā: lo spazio infinito nel loto del cuore",
+      "passages": [
+        {
+          "id": "chandogya-8-1-1",
+          "original": "ॐ अथ यदिदमस्मिन्ब्रह्मपुरे दहरं पुण्डरीकं वेश्म दहरोऽस्मिन्नन्तराकाशस्तस्मिन्यदन्तस्तदन्वेष्टव्यं तद्वाव विजिज्ञासितव्यमिति ॥ ८.१.१ ॥",
+          "translation": "Oṃ. Ora, in questa città di Brahman [il corpo] vi è una piccola dimora a forma di loto [il cuore], e all'interno di essa vi è un piccolo spazio [dahara ākāśa]: ciò che risiede dentro di esso, quello deve essere cercato, quello invero deve essere conosciuto.",
+          "source": "Chāndogya Upaniṣad, VIII.1.1"
+        },
+        {
+          "id": "chandogya-8-1-2",
+          "original": "तं चेद्ब्रूयुर्यदिदमस्मिन्ब्रह्मपुरे दहरं पुण्डरीकं वेश्म दहरोऽस्मिन्नन्तराकाशः किं तदत्र विद्यते यदन्वेष्टव्यं यद्वाव विजिज्ञासितव्यमिति ॥ ८.१.२ ॥",
+          "translation": "Se gli chiedessero: «Poiché in questa città di Brahman vi è una piccola dimora a forma di loto, e in essa un piccolo spazio, che cosa vi è mai racchiuso dentro di esso che debba essere cercato e conosciuto?»,",
+          "source": "Chāndogya Upaniṣad, VIII.1.2"
+        },
+        {
+          "id": "chandogya-8-1-3",
+          "original": "स ब्रूयाद्यावान्वा अयमाकाशस्तावानेषोऽन्तर्हृदय आकाश उभे अस्मिन्द्यावापृथिवी अन्तरेव समाहिते उभावग्निश्च वायुश्च सूर्याचन्द्रमसावुभौ विद्युन्नक्षत्राणि यच्चास्येहास्ति यच्च नास्ति सर्वं तदस्मिन्समाहितमिति ॥ ८.१.३ ॥",
+          "translation": "egli risponda: «Tanto vasto quanto è questo spazio cosmico all'esterno, altrettanto vasto è questo spazio nel segreto del cuore: in esso sono contenuti sia il cielo sia la terra, sia il fuoco sia il vento, sia il sole sia la luna, la folgore e le stelle; sia ciò che a un uomo appartiene in questo mondo sia ciò che non gli appartiene: tutto è contenuto in questo spazio interiore!».",
+          "source": "Chāndogya Upaniṣad, VIII.1.3"
+        },
+        {
+          "id": "chandogya-8-1-4",
+          "original": "तं चेद्ब्रूयुरस्मिंश्चेदिदं ब्रह्मपुरे सर्वं समाहितꣳ सर्वाणि च भूतानि सर्वे च कामा यदैनज्जरा वाप्नोति प्रध्वंसते वा किं ततोऽतिशिष्यत इति ॥ ८.१.४ ॥",
+          "translation": "Se gli chiedessero: «Se in questa città di Brahman è contenuto tutto l'universo, tutte le creature e tutti i desideri, quando essa è colta dalla vecchiaia o viene distrutta alla morte, che cosa rimane mai di essa?»,",
+          "source": "Chāndogya Upaniṣad, VIII.1.4"
+        },
+        {
+          "id": "chandogya-8-1-5",
+          "original": "स ब्रूयान्नास्य जरयैतज्जीर्यति न वधेनास्य हन्यत एतत्सत्यं ब्रह्मपुरमस्मिन्कामाः समाहिता एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामः सत्यसंकल्पो यथा ह्येवेह प्रजा अन्वाविशन्ति यथानुशासनं यं यमन्तमभिकामा भवन्ति यं जनपदं यं भूमिभागं तं तमेवोपजीवन्ति ॥ ८.१.५ ॥",
+          "translation": "egli risponda: «Con la vecchiaia del corpo questo spazio non invecchia; con l'uccisione del corpo questo spazio non viene ucciso. Questa è la vera città di Brahman: in Essa sono contenuti tutti i desideri puri. Questo è l'Ātman: immune dal male, libero da vecchiaia, libero da morte, libero da dolore, libero da fame e da sete, il cui desiderio è il Vero [satyakāmaḥ], la cui volontà è infallibile [satyasaṅkalpaḥ]. Come in questo mondo i sudditi seguono gli ordini di un re e si stabiliscono in quella provincia o in quel territorio che desiderano, dipendendo da esso,",
+          "source": "Chāndogya Upaniṣad, VIII.1.5"
+        },
+        {
+          "id": "chandogya-8-1-6",
+          "original": "तद्यथेह कर्मजितो लोकः क्षीयत एवमेवामुत्र पुण्यजितो लोकः क्षीयते तद्य इहात्मानमननुविद्य व्रजन्त्येतांश्च सत्यान्कामांस्तेषाꣳ सर्वेषु लोकेष्वकामचारो भवत्यथ य इहात्मानमनुविद्य व्रजन्त्येतांश्च सत्यान्कांमास्तेषाꣳ सर्वेषु लोकेषु कामचारो भवति ॥ ८.१.६ ॥",
+          "translation": "e proprio come in questo mondo perisce il dominio acquistato con le fatiche delle azioni, allo stesso modo nel mondo ultraterreno perisce il cielo guadagnato con i meriti rituali. Coloro che dipartono da questa vita senza aver conosciuto l'Ātman e questi desideri conformi al Vero, costoro non hanno alcuna libertà in nessun mondo. Ma coloro che dipartono da qui avendo conosciuto l'Ātman e questi desideri conformi al Vero, costoro possiedono assoluta libertà in tutti i mondi».",
+          "source": "Chāndogya Upaniṣad, VIII.1.6"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.2",
+      "section_title": "La potenza della pura intenzione (Satyasaṅkalpa) del liberato",
+      "passages": [
+        {
+          "id": "chandogya-8-2-1",
+          "original": "स यदि पितृलोककामो भवति संकल्पादेवास्य पितरः समुत्तिष्ठन्ति तेन पितृलोकेन संपन्नो महीयते ॥ ८.२.१ ॥",
+          "translation": "Se egli desidera il mondo dei Padri, con la semplice intenzione [saṅkalpād eva] i Padri si levano dinanzi a lui; e ricongiunto a quel mondo dei Padri, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.1"
+        },
+        {
+          "id": "chandogya-8-2-2",
+          "original": "अथ यदि मातृलोककामो भवति संकल्पादेवास्य मातरः समुत्तिष्ठन्ति तेन मातृलोकेन संपन्नो महीयते ॥ ८.२.२ ॥",
+          "translation": "Se desidera il mondo delle Madri, con la semplice intenzione le Madri si levano dinanzi a lui; e ricongiunto a quel mondo delle Madri, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.2"
+        },
+        {
+          "id": "chandogya-8-2-3",
+          "original": "अथ यदि भ्रातृलोककामो भवति संकल्पादेवास्य भ्रातरः समुत्तिष्ठन्ति तेन भ्रातृलोकेन संपन्नो महीयते ॥ ८.२.३ ॥",
+          "translation": "Se desidera il mondo dei Fratelli, con la semplice intenzione i Fratelli si levano dinanzi a lui; e ricongiunto a quel mondo dei Fratelli, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.3"
+        },
+        {
+          "id": "chandogya-8-2-4",
+          "original": "अथ यदि स्वसृलोककामो भवति संकल्पादेवास्य स्वसारः समुत्तिष्ठन्ति तेन स्वसृलोकेन संपन्नो महीयते ॥ ८.२.४ ॥",
+          "translation": "Se desidera il mondo delle Sorelle, con la semplice intenzione le Sorelle si levano dinanzi a lui; e ricongiunto a quel mondo delle Sorelle, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.4"
+        },
+        {
+          "id": "chandogya-8-2-5",
+          "original": "अथ यदि सखिलोककामो भवति संकल्पादेवास्य सखायः समुत्तिष्ठन्ति तेन सखिलोकेन संपन्नो महीयते ॥ ८.२.५ ॥",
+          "translation": "Se desidera il mondo degli Amici, con la semplice intenzione gli Amici si levano dinanzi a lui; e ricongiunto a quel mondo degli Amici, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.5"
+        },
+        {
+          "id": "chandogya-8-2-6",
+          "original": "अथ यदि गन्धमाल्यलोककामो भवति संकल्पादेवास्य गन्धमाल्ये समुत्तिष्ठतस्तेन गन्धमाल्यलोकेन संपन्नो महीयते ॥ ८.२.६ ॥",
+          "translation": "Se desidera il mondo dei Profumi e delle Ghirlande, con la semplice intenzione profumi e ghirlande sorgono per lui; e ricongiunto a quel mondo, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.6"
+        },
+        {
+          "id": "chandogya-8-2-7",
+          "original": "अथ यदि अन्नपानलोककामो भवति संकल्पादेवास्यान्नपाने समुत्तिष्ठतस्तेनान्नपानलोकेन संपन्नो महीयते ॥ ८.२.७ ॥",
+          "translation": "Se desidera il mondo dei Cibi e delle Bevande, con la semplice intenzione cibi e bevande sorgono per lui; e ricongiunto a quel mondo, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.7"
+        },
+        {
+          "id": "chandogya-8-2-8",
+          "original": "अथ यदि गीतवादित्रलोककामो भवति संकल्पादेवास्य गीतवादित्रे समुत्तिष्ठतस्तेन गीतवादित्रलोकेन संपन्नो महीयते ॥ ८.२.८ ॥",
+          "translation": "Se desidera il mondo del Canto e della Musica, con la semplice intenzione canti e suoni d'armonia sorgono per lui; e ricongiunto a quel mondo, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.8"
+        },
+        {
+          "id": "chandogya-8-2-9",
+          "original": "अथ यदि स्त्रीलोककामो भवति संकल्पादेवास्य स्त्रियः समुत्तिष्ठन्ति तेन स्त्रीलोकेन संपन्नो महीयते ॥ ८.२.९ ॥",
+          "translation": "Se desidera il mondo delle Figure celesti femminili, con la semplice intenzione esse sorgono per lui; e ricongiunto a quel mondo, egli gode di sovrana pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.9"
+        },
+        {
+          "id": "chandogya-8-2-10",
+          "original": "यं यमन्तमभिकामो भवति यं कामं कामयते सोऽस्य संकल्पादेव समुत्तिष्ठति तेन संपन्नो महीयते ॥ ८.२.१० ॥",
+          "translation": "Qualunque orizzonte egli vagheggi, qualunque desiderio egli concepisca: per la semplice intenzione della sua volontà esso si manifesta; e fattolo proprio, egli rifulge nella pienezza.",
+          "source": "Chāndogya Upaniṣad, VIII.2.10"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.3",
+      "section_title": "Il tesoro d'oro nascosto e la vera natura del sonno profondo",
+      "passages": [
+        {
+          "id": "chandogya-8-3-1",
+          "original": "त इमे सत्याः कामा अनृतापिधानास्तेषाꣳ सत्यानां सतांमनृतमपिधानं यो यो ह्यास्यान्येति न तमिह दर्शनाय लभते ॥ ८.३.१ ॥",
+          "translation": "Questi desideri conformi al Vero sono quaggiù velati dall'irreale [anṛtāpidhānāḥ]: pur essendo reali ed eterni, essi hanno per velo ciò che non è vero. Per questo, chiunque dei suoi cari muoia e trapassi, l'uomo ordinario non può più vederlo in questo mondo.",
+          "source": "Chāndogya Upaniṣad, VIII.3.1"
+        },
+        {
+          "id": "chandogya-8-3-2",
+          "original": "अथ ये चास्येह जीवा ये च प्रेता यच्चान्यदिच्छन्न लभते सर्वं तदत्र गत्वा विन्दतेऽत्र ह्यस्यैते सत्याः कामा अनृतापिधानास्तद्यथापि हिरण्यनिधिं निहितमक्षेत्रज्ञा उपर्युपरि सञ्चरन्तो न विन्देयुरेवमेवेमाः सर्वाः प्रजा अहरहर्गच्छन्त्य एतं ब्रह्मलोकं न विन्दन्त्यनृतेन हि प्रत्यूढाः ॥ ८.३.२ ॥",
+          "translation": "Ma coloro che egli ama, siano essi ancora viventi o già dipartiti, e qualunque altra cosa brami senza poterla conseguire, tutto egli trova entrando in questo spazio del cuore: qui infatti risiedono questi desideri veri, sebbene velati dall'illusione. Proprio come coloro che ignorano il terreno calpestano giorno dopo giorno la terra senza scorgere un tesoro d'oro sepolto [hiraṇyanidhi] proprio sotto i loro piedi, allo stesso modo tutte queste creature, pur recandosi ogni giorno nel mondo di Brahman [nel sonno profondo], non Lo riconoscono, poiché sono trattenute e sviate dall'illusione dell'irreale.",
+          "source": "Chāndogya Upaniṣad, VIII.3.2"
+        },
+        {
+          "id": "chandogya-8-3-3",
+          "original": "स वा एष आत्मा हृदि तस्यैतदेव निरुक्तꣳ हृद्ययमिति तस्माद्धृदयमहरहर्वा एवंवित्स्वर्गं लोकमेति ॥ ८.३.३ ॥",
+          "translation": "Questo Ātman risiede nel cuore. Di esso questa è la spiegazione etimologica: 'hṛdi ayam' [Egli è nel cuore], perciò è detto 'hṛdayam' [il cuore]. Colui che possiede questa conoscenza accede ogni giorno al regno celeste.",
+          "source": "Chāndogya Upaniṣad, VIII.3.3"
+        },
+        {
+          "id": "chandogya-8-3-4",
+          "original": "अथ य एष संप्रसादोऽस्माच्छरीरात्समुत्थाय परं ज्योतिरुपसंपद्य स्वेन रूपेणाभिनिष्पद्यत एष आत्मेति होवाचैतदमृतमभयमेतद्ब्रह्मेति तस्य ह वा एतस्य ब्रह्मणो नाम सत्यमिति ॥ ८.३.४ ॥",
+          "translation": "Ora, quella serena quiete [samprasāda] che, sorgendo da questo corpo e accedendo alla Suprema Luce, rifulge nella propria forma autentica: «Questo è l'Ātman», disse il maestro; «Questo è l'Immortale, il Privo di paura: Questo è Brahman». E di questo Brahman il nome è 'Satyam' [la Verità].",
+          "source": "Chāndogya Upaniṣad, VIII.3.4"
+        },
+        {
+          "id": "chandogya-8-3-5",
+          "original": "तानि ह वा एतानि त्रीण्यक्षराणि सतीयमिति तद्यत्सत्तदमृतमथ यत्ति तन्मर्त्यमथ यद्यं तेनोभे यच्छति यदनेनोभे यच्छति तस्माद्यमहरहर्वा एवंवित्स्वर्गं लोकमेति ॥ ८.३.५ ॥",
+          "translation": "Invero questo nome è composto da tre sillabe: 'Sat-ti-yam'. Ciò che è 'Sat' è l'immortale; ciò che è 'ti' è il mortale transitorio; ciò che è 'yam' congiunge e governa entrambi. Poiché mediante questa sillaba si governano entrambi, essa è detta 'yam'. Colui che possiede questa conoscenza accede ogni giorno al regno celeste.",
+          "source": "Chāndogya Upaniṣad, VIII.3.5"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.4",
+      "section_title": "L'Ātman come argine cosmico (Setu) e ponte verso l'eterna luce",
+      "passages": [
+        {
+          "id": "chandogya-8-4-1",
+          "original": "अथ य आत्मा स सेतुर्विधृतिरेषां लोकानामसंभेदाय नैतं सेतुमहोरात्रे तरतो न जरा न मृत्युर्न शोको न सुकृतं न दुष्कृतꣳ सर्वे पाप्मानोऽतो निवर्तन्तेऽपहतपाप्मा ह्येष ब्रह्मलोकः ॥ ८.४.१ ॥",
+          "translation": "Ora, questo Ātman è invero l'argine e il ponte [setu], il sostegno che tiene separati e ordinati questi mondi affinché non collassino in confusione. Oltre questo argine non passano né il giorno né la notte, né la vecchiaia, né la morte, né il dolore, né le buone azioni, né le cattive azioni: tutte le colpe rifuggono da Esso, poiché questo mondo di Brahman è eternamente immune da ogni macchia di male.",
+          "source": "Chāndogya Upaniṣad, VIII.4.1"
+        },
+        {
+          "id": "chandogya-8-4-2",
+          "original": "तस्माद्वा एतं सेतुं तीर्त्वाऽन्धः सन्ननन्धो भवति विद्धः सन्नविद्धो भवत्युपतापी सन्ननुपतापी भवति तस्माद्वा एतं सेतुं तीर्त्वाऽपि नक्तमहरेवाभिनिष्पद्यते सकृद्विभातो ह्येवैष ब्रह्मलोकः ॥ ८.४.२ ॥",
+          "translation": "Perciò, oltrepassando questo argine, colui che è cieco cessa di essere cieco; colui che è ferito cessa di essere ferito; colui che è afflitto cessa di essere afflitto. Perciò, oltrepassando questo ponte, perfino la notte si trasforma in pieno giorno: poiché questo mondo di Brahman rifulge di luce perenne una volta per tutte [sakṛd vibhātaḥ].",
+          "source": "Chāndogya Upaniṣad, VIII.4.2"
+        },
+        {
+          "id": "chandogya-8-4-3",
+          "original": "तद्य एवैतं ब्रह्मलोकं ब्रह्मचर्येणानुविन्दन्ति तेषामेवैष ब्रह्मलोकस्तेषाꣳ सर्वेषु लोकेषु कामचारो भवति ॥ ८.४.३ ॥",
+          "translation": "Coloro che raggiungono questo mondo di Brahman mediante la disciplina pura della dedizione all'Assoluto [brahmacarya], a essi soli appartiene questo mondo di Brahman, ed essi possiedono assoluta libertà in tutti i mondi.",
+          "source": "Chāndogya Upaniṣad, VIII.4.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.5",
+      "section_title": "Il Brahmacarya come compimento supremo di ogni rito",
+      "passages": [
+        {
+          "id": "chandogya-8-5-1",
+          "original": "अथ यद्यज्ञ इत्याचक्षते ब्रह्मचर्यमेव तद्ब्रह्मचर्येण ह्येव यो ज्ञाता तं विन्दतेऽथ यदिष्टमित्याचक्षते ब्रह्मचर्यमेव तद्ब्रह्मचर्येण ह्येवेष्ट्वात्मानमनुविन्दते ॥ ८.५.१ ॥",
+          "translation": "Ciò che la gente chiama sacrificio [yajña] è invero Brahmacarya [la dedizione al Sé]: solo mediante il Brahmacarya, infatti, colui che conosce consegue quella Realtà. E ciò che la gente chiama opera meritoria [iṣṭa] è invero Brahmacarya: solo mediante il Brahmacarya, infatti, dopo aver cercato, si realizza l'Ātman.",
+          "source": "Chāndogya Upaniṣad, VIII.5.1"
+        },
+        {
+          "id": "chandogya-8-5-2",
+          "original": "अथ यत्सत्त्रायणमित्याचक्षते ब्रह्मचर्यमेव तद्ब्रह्मचर्येण ह्येव सत आत्मनस्त्राणं विन्दतेऽथ यन्मौनमित्याचक्षते ब्रह्मचर्यमेव तद्ब्रह्मचर्येण ह्येवात्मानमनुविद्य मनुते ॥ ८.५.२ ॥",
+          "translation": "Ciò che la gente chiama rito prolungato [sattrāyaṇa] è invero Brahmacarya: solo mediante il Brahmacarya infatti si consegue la protezione [trāṇa] dell'Essere reale [Sat]. E ciò che la gente chiama silenzio ascetico [mauna] è invero Brahmacarya: solo mediante il Brahmacarya infatti, dopo aver conosciuto l'Ātman, si medita stabilmente.",
+          "source": "Chāndogya Upaniṣad, VIII.5.2"
+        },
+        {
+          "id": "chandogya-8-5-3",
+          "original": "अथ यदनाशकायनमित्याचक्षते ब्रह्मचर्यमेव तदेष ह्यात्मा न नश्यति यं ब्रह्मचर्येणानुविन्दतेऽथ यदरण्यायनमित्याचक्षते ब्रह्मचर्यमेव तदरश्च ह वै ण्यश्चार्णवौ ब्रह्मलोके तृतीयस्यामितो दिवि तदमृतं मण्डं तदपराजिता पूर्ब्रह्मणः प्रभुविमितꣳ हिरण्मयम् ॥ ८.५.३ ॥",
+          "translation": "Ciò che la gente chiama digiuno [anāśakāyana] è invero Brahmacarya: questo Ātman infatti non perisce mai [na naśyati], ed è realizzato mediante il Brahmacarya. E ciò che la gente chiama ritiro nella foresta [araṇyāyana] è invero Brahmacarya: nel mondo di Brahman vi sono infatti i due oceani 'Ara' e 'Ṇya' nel terzo cielo; là vi è la sorgente che stilla nettare, là vi è la cittadella inespugnabile di Brahman [Aparājitā] e il palazzo aureo edificato dal Signore.",
+          "source": "Chāndogya Upaniṣad, VIII.5.3"
+        },
+        {
+          "id": "chandogya-8-5-4",
+          "original": "तद्य एवैतावरा च ण्यं चार्णवौ ब्रह्मलोके ब्रह्मचर्येणानुविन्दन्ति तेषामेवैष ब्रह्मलोकस्तेषाꣳ सर्वेषु लोकेषु कामचारो भवति ॥ ८.५.४ ॥",
+          "translation": "Coloro che scoprono questi due oceani spirituali nel mondo di Brahman mediante il Brahmacarya, a essi soli appartiene questo mondo di Brahman, ed essi godono di libertà assoluta in tutti i mondi.",
+          "source": "Chāndogya Upaniṣad, VIII.5.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.6",
+      "section_title": "I canali sottili del cuore (nāḍī), i raggi solari e la via di liberazione",
+      "passages": [
+        {
+          "id": "chandogya-8-6-1",
+          "original": "अथ या एता हृदयस्य नाड्यस्ताः पिङ्गलस्याणिम्नस्तिष्ठन्ति शुक्लस्य नीलस्य पीतस्य लोहितस्येत्यसौ वा आदित्यः पिङ्गल एष शुक्ल एष नील एष पीत एष लोहितः ॥ ८.६.१ ॥",
+          "translation": "Ora, questi canali sottili del cuore [nāḍyaḥ] sono ricolmi di un'essenza fluidica sottilissima che è bruna, bianca, azzurra, gialla e rossa. E quel sole lassù è invero bruno, è bianco, è azzurro, è giallo, è rosso.",
+          "source": "Chāndogya Upaniṣad, VIII.6.1"
+        },
+        {
+          "id": "chandogya-8-6-2",
+          "original": "तद्यथा महापथ आतत उभौ ग्रामौ गच्छतीमं चामुं चैवमेवैता आदित्यस्य रश्मय उभौ लोकौ गच्छन्तीमं चामुं चामुष्मादादित्यात्प्रतायन्ते ते आसा नाडीषु सृप्ता आभ्यो नाडीभ्यः प्रतायन्ते तेऽमुष्मिन्नादित्ये सृप्ताः ॥ ८.६.२ ॥",
+          "translation": "Proprio come una grande strada maestra collega due villaggi, questo vicino e quello lontano, allo stesso modo questi raggi del sole collegano entrambi i mondi, questo terrestre e quello celeste: scaturiscono da quel sole lassù e penetrano in questi canali del cuore; scaturiscono da questi canali del cuore e si ricollegano a quel sole lassù.",
+          "source": "Chāndogya Upaniṣad, VIII.6.2"
+        },
+        {
+          "id": "chandogya-8-6-3",
+          "original": "तद्यत्रैतत्सुप्तः समस्तः संप्रसन्नः स्वप्नं न विजानात्यासु तदा नाडीषु सृप्तो भवति तं न कश्चन पाप्मा स्पृशति तेजसा हि तदा संपन्नो भवति ॥ ८.६.३ ॥",
+          "translation": "Quando l'uomo riposa nel sonno profondo, interamente raccolto e sereno, senza scorgere alcun sogno, allora è penetrato in questi canali sottili: nessun male lo tocca, poiché allora egli è avvolto dalla pura luce solare interiore.",
+          "source": "Chāndogya Upaniṣad, VIII.6.3"
+        },
+        {
+          "id": "chandogya-8-6-4",
+          "original": "अथ यत्रैतदबलिमानं नीतो भवति तमभित आसीना आहुर्जानासि मां जानासि मामिति स यावदस्माच्छरीरादनुत्क्रान्तो भवति तावज्जानाति ॥ ८.६.४ ॥",
+          "translation": "Quando poi l'uomo è giunto all'estrema debolezza dell'agonia, coloro che gli siedono attorno chiedono: «Mi riconosci? Mi riconosci?». Finché non si è dipartito da questo corpo, egli li riconosce.",
+          "source": "Chāndogya Upaniṣad, VIII.6.4"
+        },
+        {
+          "id": "chandogya-8-6-5",
+          "original": "अथ यत्रैतदस्माच्छरीरादुत्क्रामत्यथैतैरेव रश्मिभिरूर्ध्वमाक्रमते स ओमिति वा होद्वा मीयते स यावत्क्षिप्येन्मनस्तावदादित्यं गच्छत्येतद्वै खलु लोकद्वारं विदुषां प्रपदनं निरोधोऽविदुषाम् ॥ ८.६.५ ॥",
+          "translation": "Ma quando infine si diparte da questo corpo, proprio mediante questi raggi solari ascende verso l'alto. Egli si eleva meditando sulla sillaba «Oṃ»; e nello spazio di un battito di mente giunge al sole. Quello è invero l'ingresso del mondo celeste: porta aperta per i conoscitori della verità, barriera invalicabile per gli ignoranti.",
+          "source": "Chāndogya Upaniṣad, VIII.6.5"
+        },
+        {
+          "id": "chandogya-8-6-6",
+          "original": "तदेष श्लोकः । शतं चैका च हृदयस्य नाड्यस्तासां मूर्धानमभिनिःसृतैका । तयोर्ध्वमायन्नमृतत्वमेति विष्वङ्ङन्या उत्क्रमणे भवन्ति विष्वङ्ङन्या उत्क्रमणे भवन्ति ॥ ८.६.६ ॥",
+          "translation": "A questo proposito vi è questo verso: «Centouno sono i canali sottili del cuore; tra essi uno solo [la suṣumnā] sale verso la sommità del capo. Risalendo per questo canale l'anima giunge all'immortalità [amṛtatvam eti]; gli altri canali divergono in tutte le direzioni, servendo unicamente per uscire verso nuove rinascite, servendo per uscire verso nuove rinascite».",
+          "source": "Chāndogya Upaniṣad, VIII.6.6"
+        }
+      ]
+    }
+  ]
+}

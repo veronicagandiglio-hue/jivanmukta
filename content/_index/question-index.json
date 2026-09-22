@@ -81,6 +81,876 @@
     "related_questions": [],
     "source_file": "questions/q-azione-senza-vincolo.json"
   },
+  "q-chandogya-ahara-suddhi-granthi": {
+    "id": "q-chandogya-ahara-suddhi-granthi",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo la purezza dell'assimilazione (Āhāra-śuddhi) conduce allo scioglimento di tutti i nodi del cuore?",
+    "problem": "Il verso conclusivo stabilisce la catena necessaria della realizzazione: la purificazione dell'assimilazione delle impressioni rende immacolata la mente; la purezza della mente desta la memoria ininterrotta della propria identità non duale; e tale memoria spezza definitivamente tutti i nodi dell'ignoranza radicati nel cuore.",
+    "parent_question": "q-che-cose-la-liberazione",
+    "concepts": [
+      "ahara-suddhi",
+      "conoscenza",
+      "liberazione"
+    ],
+    "passages": [
+      "chandogya-7-26-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-ahara-suddhi-granthi.json"
+  },
+  "q-chandogya-akasa-brahman": {
+    "id": "q-chandogya-akasa-brahman",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che senso l'Ākāśa (lo Spazio) viene indicato come il fondamento supremo dal quale scaturiscono e nel quale si dissolvono tutti gli esseri?",
+    "problem": "Nel dibattito tra i saggi, l'indagine sul fondamento del Sāman risale di grado in grado fino a superare il mondo fenomenico e celeste: l'Ākāśa non indica qui il semplice elemento fisico etereo, ma il Brahman stesso, unico rifugio incorporeo, illimitato e non perituro.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "brahman",
+      "akasa",
+      "udgitha"
+    ],
+    "passages": [
+      "chandogya-1-9-1",
+      "chandogya-1-9-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-akasa-brahman.json"
+  },
+  "q-chandogya-asariratva-piacere-dolore": {
+    "id": "q-chandogya-asariratva-piacere-dolore",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché finché si è identificati con il corpo non vi è scampo dal piacere e dal dolore, mentre l'Incorporeo ne è immune?",
+    "problem": "Nel verso 8.12.1, l'Upaniṣad stabilisce che il binomio di piacere empirico e dolore (priyāpriya) appartiene costitutivamente alla condizione corporea (saśarīratva): solo la discriminazione dell'Ātman come essenzialmente incorporeo (aśarīratva) estingue la vulnerabilità esistenziale, poiché il Testimone non possiede nervi, organi o individualità suscettibili di lesione.",
+    "parent_question": "q-che-cose-la-liberazione",
+    "concepts": [
+      "asariira",
+      "liberazione",
+      "atman"
+    ],
+    "passages": [
+      "chandogya-8-12-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-asariratva-piacere-dolore.json"
+  },
+  "q-chandogya-atimrtyu-saman": {
+    "id": "q-chandogya-atimrtyu-saman",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo la meditazione sulle ventidue sillabe del Sāman conduce oltre la sfera della morte?",
+    "problem": "L'analisi numerica e simbolica del Sāman a sette forme mostra come le prime ventuno sillabe corrispondano alla totalità cosmica culminante nel disco solare, mentre la ventiduesima trascende il dominio manifestato conducendo al piano incondizionato e privo di sofferenza.",
+    "parent_question": "q-che-cose-la-liberazione",
+    "concepts": [
+      "atimrtyu",
+      "saman",
+      "liberazione"
+    ],
+    "passages": [
+      "chandogya-2-10-5",
+      "chandogya-2-10-6"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-atimrtyu-saman.json"
+  },
+  "q-chandogya-bhuman-definizione": {
+    "id": "q-chandogya-bhuman-definizione",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'assenza di alterità («dove non si vede altro») definisce l'Infinito (Bhūman) rispetto al Finito (Alpa)?",
+    "problem": "Nel celebre verso 7.24.1, Sanatkumāra identifica il Bhūman con la dimensione non duale in cui cade la triade di percipiente, percezione e percepito: ogni volta che un soggetto percepisce un oggetto come 'altro' da sé si è nel finito, che è mortale e foriero di sofferenza; la sola Pienezza priva di alterità è immortale e coincide con l'Assoluto.",
+    "parent_question": "q-che-cose-l-assoluto",
+    "concepts": [
+      "bhuman",
+      "alpa",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-7-23-1",
+      "chandogya-7-24-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-bhuman-definizione.json"
+  },
+  "q-chandogya-brahmasamstha-amrtatva": {
+    "id": "q-chandogya-brahmasamstha-amrtatva",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per quale ragione l'immortalità (amṛtatva) appartiene esclusivamente al Brahmasaṁstha, mentre le opere religiose conducono soltanto a mondi meritori?",
+    "problem": "Il testo distingue tassativamente tra i tre rami del dovere rituale ed etico (sacrificio, ascesi, discepolato), i cui frutti appartengono alla sfera transitoria del merito (puṇyaloka), e la condizione di colui che è stabilito in modo indiviso in Brahman (brahmasaṁstha), che solo consegue la liberazione incondizionata al di là di ogni divenire.",
+    "parent_question": "q-che-cose-la-liberazione",
+    "concepts": [
+      "brahmasamstha",
+      "dharmaskandha",
+      "liberazione",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-2-23-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-brahmasamstha-amrtatva.json"
+  },
+  "q-chandogya-conoscenza-dell-uno": {
+    "id": "q-chandogya-conoscenza-dell-uno",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo conoscendo l'Uno (la Causa sostanziale) si conosce l'intero universo dei fenomeni?",
+    "problem": "All'inizio del sesto capitolo, Uddālaka interroga Śvetaketu sull'insegnamento per cui ciò che non è mai stato udito diviene udito e ciò che non è mai stato conosciuto diviene conosciuto: le tre analogie dell'argilla, dell'oro e del ferro dimostrano che gli effetti non sono realtà ontologiche nuove, ma mere denominazioni verbali della sostanza causale.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "vacarambhana",
+      "sat",
+      "conoscenza"
+    ],
+    "passages": [
+      "chandogya-6-1-3",
+      "chandogya-6-1-4",
+      "chandogya-6-1-5",
+      "chandogya-6-1-6"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-conoscenza-dell-uno.json"
+  },
+  "q-chandogya-dahara-akasa": {
+    "id": "q-chandogya-dahara-akasa",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo lo spazio sottile racchiuso nel loto del cuore (Dahara-ākāśa) coincide con l'immensità di Brahman?",
+    "problem": "Il testo introduce lo spazio cardiaco sgombrando il campo dall'equivoco di una limitazione fisica: la cavità del cuore non circoscrive l'Assoluto, ma funge da punto di convergenza contemplativo in cui si scopre che l'Ātman interiore è vasto quanto l'intero cosmo e racchiude in sé cielo, terra e tutti gli elementi.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "dahara-vidya",
+      "brahman",
+      "atman"
+    ],
+    "passages": [
+      "chandogya-8-1-1",
+      "chandogya-8-1-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-dahara-akasa.json"
+  },
+  "q-chandogya-dialettica-prajapati": {
+    "id": "q-chandogya-dialettica-prajapati",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato pedagogico e filosofico dei quattro gradi dell'insegnamento di Prajāpati a Indra?",
+    "problem": "Prajāpati non impartisce la verità assoluta in modo dogmatico immediato, ma guida Indra attraverso una maieutica progressiva: 1) l'immagine riflessa (il corpo della veglia), accettata dal materialista Virocana ma rigettata da Indra per la sua caducità; 2) il soggetto del sogno, scartato perché soggetto a dolore e paura; 3) il sonno profondo, scartato perché privo di consapevolezza determinata e simile all'annientamento; 4) l'Ātman incorporeo (aśarīra), che illumina tutti gli stati rimanendo eternamente libero e sovrano.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "avasthatraya",
+      "asura-vidya",
+      "asariira",
+      "atman"
+    ],
+    "passages": [
+      "chandogya-8-7-4",
+      "chandogya-8-8-4",
+      "chandogya-8-9-1",
+      "chandogya-8-10-2",
+      "chandogya-8-11-1",
+      "chandogya-8-12-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-dialettica-prajapati.json"
+  },
+  "q-chandogya-due-vie-post-mortem": {
+    "id": "q-chandogya-due-vie-post-mortem",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è la differenza fondamentale tra il cammino della luce (Devayāna) e il cammino del fumo (Pitṛyāna)?",
+    "problem": "Nel decimo Khaṇḍa, l'Upaniṣad distingue il destino di chi pratica la meditazione con fede (che ascende senza più fare ritorno nel ciclo umano) dal destino di chi compie mere opere rituali e pie (che sale al mondo lunare per poi ridiscendere sulla terra esaurito il merito karmico), evidenziando l'insufficienza dell'azione rituale per la liberazione definitiva.",
+    "parent_question": "q-che-cose-la-liberazione",
+    "concepts": [
+      "devayana",
+      "pitryana",
+      "liberazione"
+    ],
+    "passages": [
+      "chandogya-5-10-1",
+      "chandogya-5-10-3",
+      "chandogya-5-10-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-due-vie-post-mortem.json"
+  },
+  "q-chandogya-errore-meditazione-parziale": {
+    "id": "q-chandogya-errore-meditazione-parziale",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è l'errore insito nel meditare sull'Ātman attraverso un solo aspetto cosmico separato?",
+    "problem": "Nel confronto con i sei saggi, il re Aśvapati dimostra che considerare un singolo elemento del cosmo (il cielo, il sole, il vento, lo spazio, l'acqua o la terra) come l'intero Sé produce una visione frammentaria ed espone a gravi pericoli spirituali, poiché l'Ātman autentico è la totalità organica e indivisa.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "vaisvanara",
+      "atman"
+    ],
+    "passages": [
+      "chandogya-5-12-2",
+      "chandogya-5-17-2",
+      "chandogya-5-18-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-errore-meditazione-parziale.json"
+  },
+  "q-chandogya-fruizione-contemplativa-deva": {
+    "id": "q-chandogya-fruizione-contemplativa-deva",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che senso gli dèi «non mangiano né bevono», ma si appagano della pura visione del nettare?",
+    "problem": "Il testo distingue la nutrizione corporea grossolana dalla fruizione spirituale degli dèi, indicando che la soddisfazione più alta nel manifestato scaturisce dalla contemplazione visiva e intuitiva (darśana) dell'armonia divina.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "madhuvidya",
+      "upasana"
+    ],
+    "passages": [
+      "chandogya-3-6-1",
+      "chandogya-3-7-1",
+      "chandogya-3-8-1",
+      "chandogya-3-9-1",
+      "chandogya-3-10-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-fruizione-contemplativa-deva.json"
+  },
+  "q-chandogya-funzione-upasana": {
+    "id": "q-chandogya-funzione-upasana",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il ruolo dell'upāsanā (meditazione sui simboli come l'Udgītha) nella via della conoscenza?",
+    "problem": "Nel primo capitolo della Chāndogya Upaniṣad, la meditazione sulla sillaba Oṃ e sulle funzioni vitali non è fine a se stessa, ma serve a orientare la mente dal molteplice all'unità e a purificarla dai vincoli dell'azione meccanica.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "upasana",
+      "om",
+      "udgitha",
+      "vidya-avidya"
+    ],
+    "passages": [
+      "chandogya-1-1-1",
+      "chandogya-1-1-10",
+      "chandogya-1-2-14"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-funzione-upasana.json"
+  },
+  "q-chandogya-gandhara-acarya": {
+    "id": "q-chandogya-gandhara-acarya",
+    "scope": "local",
+    "type": "specific",
+    "text": "Che cosa insegna l'allegoria dell'uomo bendato condotto via da Gandhāra circa la funzione dell'Ācārya?",
+    "problem": "L'uomo bendato e abbandonato nella selva rappresenta il jīva strappato alla propria patria metafisica e accecato dalle bende dell'ignoranza e dei desideri: nessuna speculazione solitaria può salvarlo finché un maestro compassionevole non rimuove la benda e gli mostra la via della retta conoscenza.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "acaryavan-puruso-veda",
+      "conoscenza",
+      "liberazione"
+    ],
+    "passages": [
+      "chandogya-6-14-1",
+      "chandogya-6-14-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-gandhara-acarya.json"
+  },
+  "q-chandogya-hiran-yanidhi": {
+    "id": "q-chandogya-hiran-yanidhi",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico della similitudine del tesoro d'oro sepolto (Hiraṇyanidhi)?",
+    "problem": "Nel verso 8.3.2, Sanatkumāra/l'Upaniṣad paragona gli uomini a persone ignare che calpestano ogni giorno un tesoro aureo sepolto senza scoprirlo: allo stesso modo, tutte le creature entrano quotidianamente in Brahman durante il sonno profondo (suṣupti) senza rendersene conto, poiché sono velate dall'illusione dell'irreale (anṛta).",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "susupti",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-8-3-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-hiran-yanidhi.json"
+  },
+  "q-chandogya-jyotis-uttama": {
+    "id": "q-chandogya-jyotis-uttama",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato del passaggio oltre le tenebre verso la Suprema Luce (jyotir uttamam) nell'ora della morte?",
+    "problem": "L'insegnamento di Ghora Āṅgirasa a Kṛṣṇa Devakīputra culmina nell'invocazione della Suprema Luce increata: per colui che riconosce il Sé come imperituro e immutabile, il dissolversi del corpo non segna la fine dell'essere, ma l'approdo consapevole alla sorgente radiosa di ogni realtà.",
+    "parent_question": "q-che-cose-la-liberazione",
+    "concepts": [
+      "jyotis-uttama",
+      "liberazione",
+      "atman"
+    ],
+    "passages": [
+      "chandogya-3-17-6",
+      "chandogya-3-17-7"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-jyotis-uttama.json"
+  },
+  "q-chandogya-ka-kham-brahman": {
+    "id": "q-chandogya-ka-kham-brahman",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'equazione reciproca «ciò che è Ka è Kha, ciò che è Kha è Ka» definisce la Realtà di Brahman?",
+    "problem": "I fuochi rivelano a Upakosala che Brahman è Beatitudine (Ka) e Spazio (Kha): presi isolatamente, 'Ka' potrebbe essere confuso con il piacere sensibile transitorio e 'Kha' con il vuoto materiale esteriore; qualificandosi a vicenda, indicano che la Beatitudine di Brahman è incorporea e infinita come lo spazio, e che lo Spazio di Brahman è pura Coscienza beata.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "ka-kham",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-4-10-4",
+      "chandogya-4-10-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-ka-kham-brahman.json"
+  },
+  "q-chandogya-luce-oltre-il-cielo-e-nell-uomo": {
+    "id": "q-chandogya-luce-oltre-il-cielo-e-nell-uomo",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo la Luce che risplende oltre tutti i cieli cosmici si identifica con la luce che dimora nell'uomo?",
+    "problem": "Nel verso 3.13.7, la Chāndogya Upaniṣad stabilisce la perfetta equivalenza tra la Realtà suprema trascendente che illumina i mondi più alti e il Principio cosciente immanente nel corpo, abbattendo ogni cesura tra macrocosmo e microcosmo.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "jyotis-interiore",
+      "brahman",
+      "atman"
+    ],
+    "passages": [
+      "chandogya-3-13-7",
+      "chandogya-3-13-8"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-luce-oltre-il-cielo-e-nell-uomo.json"
+  },
+  "q-chandogya-madhuvidya-sole-eterno": {
+    "id": "q-chandogya-madhuvidya-sole-eterno",
+    "scope": "local",
+    "type": "specific",
+    "text": "Che cosa simboleggia il Sole immobile che non sorge né tramonta mai per il conoscitore di Brahman?",
+    "problem": "Al culmine della Madhuvidyā, l'Upaniṣad trascende il moto ciclico del sole naturale per rivelare il Sole intelligibile dell'Assoluto: per chi realizza l'identità con Brahman, la dimensione del tempo ciclico si annulla nello splendore immutabile dell'Eterno Presente.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "madhuvidya",
+      "sakrd-diva",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-3-11-1",
+      "chandogya-3-11-2",
+      "chandogya-3-11-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-madhuvidya-sole-eterno.json"
+  },
+  "q-chandogya-omkara-sintesi-linguaggio": {
+    "id": "q-chandogya-omkara-sintesi-linguaggio",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico della nervatura fogliare assunta a simbolo dell'Oṃkāra?",
+    "problem": "La similitudine della venatura che tiene unita ogni parte della foglia illustra che la sillaba Oṃ non è un semplice termine fonetico tra gli altri, ma la matrice e la sostanza intelligibile immanente a ogni espressione verbale e a ogni grado della manifestazione cosmica («Oṃkāra evedaṁ sarvam»).",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "om",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-2-23-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-omkara-sintesi-linguaggio.json"
+  },
+  "q-chandogya-pancagni-vairagya": {
+    "id": "q-chandogya-pancagni-vairagya",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è lo scopo dottrinale dell'insegnamento sui cinque fuochi e sulla rinascita?",
+    "problem": "La dettagliata esposizione della discesa dell'anima attraverso i cinque fuochi e della sorte dolorosa delle creature nel saṁsāra ha come scopo primario quello di suscitare il disincanto (tasmāj jugupseta), poiché la percezione della transitorietà di ogni condizione fenomenica è il fondamento indispensabile per la ricerca della vera Conoscenza del Sé.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "pancagni-vidya",
+      "vairagya"
+    ],
+    "passages": [
+      "chandogya-5-9-1",
+      "chandogya-5-10-8"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-pancagni-vairagya.json"
+  },
+  "q-chandogya-purusa-nell-occhio-immacolato": {
+    "id": "q-chandogya-purusa-nell-occhio-immacolato",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché il Puruṣa nell'occhio viene qualificato come immune dall'aderenza delle azioni, a somiglianza della foglia di loto?",
+    "problem": "Satyakāma rivela che l'Ātman autentico è il Testimone incorporeo dell'atto visivo: così come le gocce d'acqua e di burro scorrono via dall'occhio senza bagnarlo o alterarlo, parimenti le contaminazioni karmiche del mondo fenomenico non intaccano il Sé non duale.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-4-14-3",
+      "chandogya-4-15-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-purusa-nell-occhio-immacolato.json"
+  },
+  "q-chandogya-purusa-sole-e-occhio": {
+    "id": "q-chandogya-purusa-sole-e-occhio",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico dell'omologia tra il Puruṣa nel sole e il Puruṣa nell'occhio?",
+    "problem": "La Chāndogya Upaniṣad dimostra l'identità fondamentale tra il Reggitore cosmico (Īśvara) contemplato nel sole e il Principio cosciente testimonio presente nel cuore della visione individuale, gettando il fondamento per l'identità non duale tra Ātman e Brahman.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "purusa",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-1-6-6",
+      "chandogya-1-7-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-purusa-sole-e-occhio.json"
+  },
+  "q-chandogya-purusa-yajna": {
+    "id": "q-chandogya-purusa-yajna",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'esistenza dell'essere umano viene trasfigurata in sacrificio continuo nel Puruṣa-yajña?",
+    "problem": "Nei Khaṇḍa 16 e 17, l'Upaniṣad non intende la vita come evento biologico privo di scopo, ma la trasfigura integralmente: le età dell'uomo sono le spremiture del Soma, i bisogni fisici sono la consacrazione ascetica (dīkṣā), e le supreme virtù etiche (verità, non-violenza, generosità) ne costituiscono i doni sacerdotali.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "purusa-yajna",
+      "upasana"
+    ],
+    "passages": [
+      "chandogya-3-16-1",
+      "chandogya-3-17-1",
+      "chandogya-3-17-4"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-purusa-yajna.json"
+  },
+  "q-chandogya-rito-senza-conoscenza": {
+    "id": "q-chandogya-rito-senza-conoscenza",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché compiere le funzioni sacre senza la conoscenza della divinità interiore conduce alla caduta spirituale?",
+    "problem": "L'episodio di Uṣasti Cākrāyaṇa dimostra che l'azione liturgica o fenomenica compiuta nell'ignoranza del Principio animatore non solo è priva di reale efficacia liberatoria, ma espone l'officiante alla frammentazione e alla rovina interiore.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "conoscenza",
+      "prana",
+      "vidya-avidya"
+    ],
+    "passages": [
+      "chandogya-1-10-9",
+      "chandogya-1-10-10",
+      "chandogya-1-10-11",
+      "chandogya-1-11-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-rito-senza-conoscenza.json"
+  },
+  "q-chandogya-saman-rettitudine-armonia": {
+    "id": "q-chandogya-saman-rettitudine-armonia",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato intrinseco del Sāman come principio di equanimità e rettitudine universale?",
+    "problem": "Il secondo capitolo dimostra che il Sāman non è una mera convenzione musicale, ma coincide con ciò che è retto, imparziale e conforme all'ordine reale (sādhu/sama), unificando microcosmo corporeo e macrocosmo naturale.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "saman",
+      "upasana"
+    ],
+    "passages": [
+      "chandogya-2-1-1",
+      "chandogya-2-1-2",
+      "chandogya-2-9-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-saman-rettitudine-armonia.json"
+  },
+  "q-chandogya-samvarga-vidya": {
+    "id": "q-chandogya-samvarga-vidya",
+    "scope": "local",
+    "type": "specific",
+    "text": "Che cosa rivela la dottrina dell'Assorbitore (Saṁvarga-vidyā) riguardo all'unità tra macrocosmo e microcosmo?",
+    "problem": "L'insegnamento di Raikva mostra come le manifestazioni esteriori del cosmo si risolvano nel Vento (Vāyu) e le facoltà cognitive interiori nel Respiro (Prāṇa): Vāyu e Prāṇa sono le due facce del medesimo principio mediatore che riconduce il molteplice all'Uno.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "samvarga",
+      "prana",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-4-3-1",
+      "chandogya-4-3-2",
+      "chandogya-4-3-3",
+      "chandogya-4-3-4"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-samvarga-vidya.json"
+  },
+  "q-chandogya-sarvam-asmi": {
+    "id": "q-chandogya-sarvam-asmi",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico della meditazione «Io sono tutto» (sarvam asmi) che conclude l'analisi del Sāman universale?",
+    "problem": "Al termine della rassegna delle partizioni cosmiche, la meditazione trascende la molteplicità degli oggetti particolari e concentra la coscienza sull'identità con l'intero manifestato (sarvātma-bhāva), spezzando l'illusione di un ego isolato e separato.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "sarvatmabhava",
+      "saman",
+      "upasana"
+    ],
+    "passages": [
+      "chandogya-2-21-2",
+      "chandogya-2-21-4"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-sarvam-asmi.json"
+  },
+  "q-chandogya-sarvam-khalvidam-brahma": {
+    "id": "q-chandogya-sarvam-khalvidam-brahma",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico dell'affermazione «Sarvaṁ khalvidaṁ brahma tajjalān»?",
+    "problem": "All'inizio della Śāṇḍilya-vidyā, l'Upaniṣad non intende formulare un panteismo naturalistico, ma rivela che ogni apparenza molteplice è in realtà Brahman, poiché da Esso trae origine, in Esso sussiste e in Esso si risolve, esigendo un'attitudine di pacato distacco (śānta upāsīta).",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "brahman",
+      "tajjalan",
+      "sandilya-vidya"
+    ],
+    "passages": [
+      "chandogya-3-14-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-sarvam-khalvidam-brahma.json"
+  },
+  "q-chandogya-sat-origine-non-essere": {
+    "id": "q-chandogya-sat-origine-non-essere",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per quale ragione l'Upaniṣad rigetta la tesi che l'universo sia scaturito dal non-essere (Asat)?",
+    "problem": "Nel verso 6.2.2, Uddālaka confuta la possibilità che l'Essere scaturisca dal Non-essere («Kathaṁ hy asataḥ saj jāyeta»): il nulla privo di consistenza non possiede potere causale, e la nozione di causa presuppone l'eternità dell'Essere puro, unico e non duale.",
+    "parent_question": "q-che-cose-l-assoluto",
+    "concepts": [
+      "sat",
+      "ekamevadvitiyam"
+    ],
+    "passages": [
+      "chandogya-6-2-1",
+      "chandogya-6-2-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-sat-origine-non-essere.json"
+  },
+  "q-chandogya-scala-sanatkumara": {
+    "id": "q-chandogya-scala-sanatkumara",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il metodo pedagogico della scala ascendente dei quindici principi insegnata da Sanatkumāra?",
+    "problem": "Sanatkumāra guida la mente di Nārada attraverso una graduale gerarchia ascendente (dal Nome alla Parola, alla Mente, fino allo Spazio, alla Memoria e al Prāṇa): ciascun grado viene rivelato superiore al precedente e propedeutico a esso, distogliendo l'intelletto dalla fissazione sul grossolano per condurlo verso la radice ultima dell'essere.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "upasana",
+      "conoscenza",
+      "prana"
+    ],
+    "passages": [
+      "chandogya-7-1-4",
+      "chandogya-7-15-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-scala-sanatkumara.json"
+  },
+  "q-chandogya-setu-ponte": {
+    "id": "q-chandogya-setu-ponte",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per quale ragione l'Ātman viene qualificato come «Argine e Ponte» (Setu) dell'universo?",
+    "problem": "L'Ātman funge da diga cosmica (vidhṛti) che impedisce ai mondi di confondersi e collassare nel caos, e al tempo stesso opera come ponte sacro che consente al conoscitore di attraversare l'oceano del divenire per approdare alla sfera in cui la notte svanisce nel Giorno perenne di Brahman.",
+    "parent_question": "q-che-cose-la-liberazione",
+    "concepts": [
+      "setu",
+      "atman",
+      "liberazione"
+    ],
+    "passages": [
+      "chandogya-8-4-1",
+      "chandogya-8-4-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-setu-ponte.json"
+  },
+  "q-chandogya-superamento-morte-om": {
+    "id": "q-chandogya-superamento-morte-om",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'ingresso nella sillaba Oṃ supera il limite della protezione offerta dai metri sacri?",
+    "problem": "Il testo illustra come i metri e i riti esteriori lascino l'officiante ancora esposto alla morte; solo l'elevazione al suono imperituro e non composto (Oṃ) realizza l'invulnerabilità e l'immortalità metafisica.",
+    "parent_question": "q-che-cose-la-liberazione",
+    "concepts": [
+      "om",
+      "chandas",
+      "liberazione"
+    ],
+    "passages": [
+      "chandogya-1-4-2",
+      "chandogya-1-4-3",
+      "chandogya-1-4-4"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-superamento-morte-om.json"
+  },
+  "q-chandogya-supremazia-prana": {
+    "id": "q-chandogya-supremazia-prana",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo la contesa tra gli organi di senso rivela che tutte le facoltà non sono entità autonome ma meri strumenti del Prāṇa?",
+    "problem": "Nel quinto capitolo (5.1), la prova dell'assenza degli organi dimostra che il corpo continua a vivere privo di vista, udito, parola o pensiero concettuale, mentre il distacco del Prāṇa comporta l'immediata disgregazione dell'intero composto vivente, provando che la vita e l'esperienza cosciente dipendono da un unico Principio animatore.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "prana",
+      "prana-samvada"
+    ],
+    "passages": [
+      "chandogya-5-1-7",
+      "chandogya-5-1-12",
+      "chandogya-5-1-15"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-supremazia-prana.json"
+  },
+  "q-chandogya-susupti-sat": {
+    "id": "q-chandogya-susupti-sat",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché lo stato di sonno profondo (suṣupti) viene descritto come riassorbimento nel proprio Sé?",
+    "problem": "Nel verso 6.8.1, Uddālaka svela l'etimologia dottrinale di svapiti («egli si è ricongiunto al proprio Sé»): nel sonno profondo, cessando le agitazioni della veglia e del sogno, la mente esausta si riassorbe nel fondo puro di Sat, offrendo una testimonianza quotidiana e universale della natura non duale dell'Ātman.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "susupti",
+      "sat",
+      "atman"
+    ],
+    "passages": [
+      "chandogya-6-8-1",
+      "chandogya-6-8-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-susupti-sat.json"
+  },
+  "q-chandogya-svarajya-atmarati": {
+    "id": "q-chandogya-svarajya-atmarati",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è la condizione del liberato che dimora unicamente nell'Ātman (Ātmarati, Svārāṭ)?",
+    "problem": "Riconoscendo che l'Ātman è ovunque (in alto, in basso, davanti, dietro), il sapiente non cerca più la gioia negli oggetti esteriori: trova diletto solo nel proprio Sé interiore, divenendo sovrano autonomo (svārāṭ), sciolto da ogni dipendenza o servitù mondana.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "svarajya",
+      "atman",
+      "liberazione"
+    ],
+    "passages": [
+      "chandogya-7-25-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-svarajya-atmarati.json"
+  },
+  "q-chandogya-tarati-sokam-atmavid": {
+    "id": "q-chandogya-tarati-sokam-atmavid",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché l'immensa erudizione enciclopedica lascia Nārada nel dolore, e solo la conoscenza del Sé può liberarlo?",
+    "problem": "Nārada enumera l'intero spettro delle scienze sacre e profane antiche ammettendo di essere soltanto un 'mantravid' (conoscitore di testi) e non un 'ātmavid' (conoscitore del Sé): l'erudizione oggettiva opera all'interno del dominio fenomenico dei nomi e delle forme (nāmarūpa), incapace di estirpare l'ignoranza originaria che causa l'angoscia esistenziale.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "mantravid-vs-atmavid",
+      "conoscenza",
+      "atman"
+    ],
+    "passages": [
+      "chandogya-7-1-2",
+      "chandogya-7-1-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-tarati-sokam-atmavid.json"
+  },
+  "q-chandogya-tat-tvam-asi": {
+    "id": "q-chandogya-tat-tvam-asi",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico esatto della formula «Tat Tvam Asi» ripetuta nove volte?",
+    "problem": "Il Mahāvākya non esprime una divinizzazione dell'ego psicologico né un'astrazione panteistica: attraverso il metodo della jahad-ajahal-lakṣaṇā chiarito da Śaṅkara, la formula spoglia 'Tat' (Brahman) dagli attributi cosmici di causa ed emanazione, e spoglia 'Tvam' (l'individuo) dalle limitazioni empiriche del corpo e della mente, rivelando l'identità assoluta e indivisa della loro comune natura di pura Coscienza/Essere.",
+    "parent_question": "q-che-rapporto-ce-tra-atman-e-brahman",
+    "concepts": [
+      "tat-tvam-asi",
+      "sat",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-6-8-7",
+      "chandogya-6-12-3",
+      "chandogya-6-13-3",
+      "chandogya-6-16-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-tat-tvam-asi.json"
+  },
+  "q-chandogya-vaisvanara-pradesamatra": {
+    "id": "q-chandogya-vaisvanara-pradesamatra",
+    "scope": "local",
+    "type": "specific",
+    "text": "Che cosa significano i termini Prādeśamātra e Abhivimāna attribuiti all'Ātman Vaiśvānara?",
+    "problem": "L'Upaniṣad definisce il Sé universale come 'Prādeśamātra' (misurato dal cielo alla terra nel macrocosmo, e dal capo al mento nel corpo) e 'Abhivimāna' (riconosciuto come la propria identità immediata / infinito oltre ogni misura), rivelando la perfetta coincidenza tra cosmo universale e coscienza interiore.",
+    "parent_question": "q-che-cose-il-se",
+    "concepts": [
+      "vaisvanara",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "chandogya-5-18-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-vaisvanara-pradesamatra.json"
+  },
+  "q-chandogya-verita-satyakama": {
+    "id": "q-chandogya-verita-satyakama",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per quale ragione l'adesione inflessibile alla verità (satya) qualifica Satyakāma come autentico brāhmaṇa?",
+    "problem": "Di fronte all'impossibilità di attestare la propria ascendenza nobiliare, la totale trasparenza veritiera di Satyakāma dimostra la purificazione interiore dell'intelletto, attestando che la natura del brāhmaṇa risiede nella rettitudine ontologica verso il vero e non nella convenzione sociale.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "satya",
+      "acarya"
+    ],
+    "passages": [
+      "chandogya-4-4-4",
+      "chandogya-4-4-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-verita-satyakama.json"
+  },
+  "q-chandogya-vrata-non-disprezzo": {
+    "id": "q-chandogya-vrata-non-disprezzo",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché le diverse sezioni meditative impongono come regola sacra (vrata) di non denigrare l'ambito contemplato?",
+    "problem": "Il precetto di non disprezzare il fuoco, la donna, il sole, le nubi, le stagioni o gli animali scaturisce dal riconoscimento che, una volta compresa la presenza del Principio universale in ciascuna forma, nessun grado della manifestazione può più essere trattato come indegno o profano.",
+    "parent_question": "q-che-cosa-significa-conoscere",
+    "concepts": [
+      "vrata",
+      "upasana"
+    ],
+    "passages": [
+      "chandogya-2-12-2",
+      "chandogya-2-13-2",
+      "chandogya-2-14-2",
+      "chandogya-2-16-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-chandogya-vrata-non-disprezzo.json"
+  },
   "q-che-cosa-e-il-brahman-nella-taittiriya": {
     "id": "q-che-cosa-e-il-brahman-nella-taittiriya",
     "type": "great",
@@ -127,7 +997,8 @@
       "kena-2-4",
       "kena-2-5",
       "kena-1-3",
-      "kena-1-4"
+      "kena-1-4",
+      "chandogya-1-1-10"
     ],
     "commentaries": [
       "comm-kena-soggetto-trascendente",
@@ -138,6 +1009,16 @@
       "q-rapporto-se-brahman"
     ],
     "source_file": "questions/q-che-cosa-significa-conoscere.json"
+  },
+  "q-che-cosa-significa-realta": {
+    "id": "q-che-cosa-significa-realta",
+    "passages": [
+      "chandogya-6-1-4",
+      "chandogya-6-2-1"
+    ],
+    "type": "great",
+    "text": "Che cosa significa la realtà nella dottrina della Chāndogya Upaniṣad?",
+    "source_file": "questions/q-che-cosa-significa-realta.json"
   },
   "q-che-cosa-sono-i-cinque-involucri": {
     "id": "q-che-cosa-sono-i-cinque-involucri",
@@ -184,7 +1065,8 @@
       "kena-1-5",
       "isha-1-shanti",
       "isha-1-18",
-      "aitareya-3-1-3"
+      "aitareya-3-1-3",
+      "chandogya-1-9-1"
     ],
     "commentaries": [],
     "related_questions": [
@@ -277,7 +1159,9 @@
       "isha-1-8",
       "isha-1-3",
       "aitareya-1-1-1",
-      "aitareya-3-1-2"
+      "aitareya-3-1-2",
+      "chandogya-1-6-7",
+      "chandogya-1-7-5"
     ],
     "commentaries": [],
     "related_questions": [
@@ -286,6 +1170,16 @@
       "q-perche-soffriamo"
     ],
     "source_file": "questions/q-che-cose-il-se.json"
+  },
+  "q-che-cose-l-assoluto": {
+    "id": "q-che-cose-l-assoluto",
+    "passages": [
+      "chandogya-6-2-1",
+      "chandogya-6-2-2"
+    ],
+    "type": "great",
+    "text": "Che cos'è l'Assoluto secondo la Chāndogya Upaniṣad?",
+    "source_file": "questions/q-che-cose-l-assoluto.json"
   },
   "q-che-cose-l-atman": {
     "id": "q-che-cose-l-atman",
@@ -321,9 +1215,21 @@
     "passages": [
       "aitareya-2-1-5",
       "aitareya-2-1-6",
-      "aitareya-3-1-4"
+      "aitareya-3-1-4",
+      "chandogya-1-4-4",
+      "chandogya-1-4-5"
     ],
     "source_file": "questions/q-che-cose-la-liberazione.json"
+  },
+  "q-che-rapporto-ce-tra-atman-e-brahman": {
+    "id": "q-che-rapporto-ce-tra-atman-e-brahman",
+    "passages": [
+      "chandogya-3-14-3",
+      "chandogya-3-14-4"
+    ],
+    "type": "great",
+    "text": "Qual è il rapporto tra Ātman e Brahman secondo la Chāndogya Upaniṣad?",
+    "source_file": "questions/q-che-rapporto-ce-tra-atman-e-brahman.json"
   },
   "q-chi-e-il-purusha-delle-sedici-parti": {
     "id": "q-chi-e-il-purusha-delle-sedici-parti",
@@ -395,7 +1301,9 @@
     "problem": "Indagare la vera identita del soggetto oltre il corpo, le facolta percettive e la mente, riconoscendo il Se come pura Coscienza.",
     "passages": [
       "aitareya-1-3-11",
-      "aitareya-3-1-1"
+      "aitareya-3-1-1",
+      "chandogya-1-2-7",
+      "chandogya-1-2-9"
     ],
     "source_file": "questions/q-chi-sono-veramente.json"
   },
@@ -762,7 +1670,9 @@
       "isha-1-6",
       "isha-1-7",
       "aitareya-1-3-13",
-      "aitareya-3-1-3"
+      "aitareya-3-1-3",
+      "chandogya-2-21-2",
+      "chandogya-2-21-4"
     ],
     "commentaries": [],
     "related_questions": [
@@ -1160,7 +2070,9 @@
     "problem": "Comprendere come la molteplicita dei mondi, degli organi e delle funzioni emerga senza intaccare l'unita originaria dell'Atman.",
     "passages": [
       "aitareya-1-1-2",
-      "aitareya-1-2-4"
+      "aitareya-1-2-4",
+      "chandogya-6-2-3",
+      "chandogya-6-3-2"
     ],
     "source_file": "questions/q-perche-appare-la-molteplicita.json"
   },

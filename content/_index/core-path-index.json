@@ -35,6 +35,12 @@
     ],
     "prev_step": null,
     "next_step": "02-che-cosa-significa-realta",
+    "curated_passages": [
+      {
+        "passage_id": "chandogya-7-1-4",
+        "why": "Dichiara che tutte le scienze particolari, le arti e le discipline storiche sono meri 'nomi' convenzionali (nāmaivaitat), subordinati alla conoscenza metafisica del Principio immutabile."
+      }
+    ],
     "source_file": "core-path/01-che-cose-la-metafisica.json"
   },
   "02-che-cosa-significa-realta": {
@@ -73,6 +79,12 @@
     ],
     "prev_step": "01-che-cose-la-metafisica",
     "next_step": "03-che-cose-l-assoluto",
+    "curated_passages": [
+      {
+        "passage_id": "chandogya-6-1-4",
+        "why": "Formula il principio metafisico essenziale del Vācārambhaṇa: la distinzione tra la realtà ontologica immutabile della sostanza (l'argilla) e la transitorietà puramente nominale delle forme modificate (i vasi)."
+      }
+    ],
     "source_file": "core-path/02-che-cosa-significa-realta.json"
   },
   "03-che-cose-l-assoluto": {
@@ -115,6 +127,22 @@
       {
         "passage_id": "aitareya-1-1-1",
         "why": "Afferma l'esistenza primordiale dell'Ātman come Realtà unica e non duale, escludendo qualsiasi principio separato prima della manifestazione."
+      },
+      {
+        "passage_id": "chandogya-3-11-1",
+        "why": "Descrive il Principio supremo come immobile al centro (ekala eva madhye sthātā), al di là di ogni polarità spaziale e alternanza temporale."
+      },
+      {
+        "passage_id": "chandogya-6-2-1",
+        "why": "Enuncia il fondamento primo dell'Advaita Vedānta: «All'inizio vi era soltanto l'Essere, uno solo senza secondo» (Sadeva somyedam agra āsīd ekam evādvitīyam)."
+      },
+      {
+        "passage_id": "chandogya-7-23-1",
+        "why": "Rivela la natura dell'Assoluto come Bhūman (la Pienezza Infinita): dimensione non duale in cui non si vede né conosce altro da sé, sola sorgente di vera beatitudine immortale."
+      },
+      {
+        "passage_id": "chandogya-7-24-1",
+        "why": "Rivela la natura dell'Assoluto come Bhūman (la Pienezza Infinita): dimensione non duale in cui non si vede né conosce altro da sé, sola sorgente di vera beatitudine immortale."
       }
     ],
     "source_file": "core-path/03-che-cose-l-assoluto.json"
@@ -159,6 +187,62 @@
       {
         "passage_id": "aitareya-1-3-11",
         "why": "Formula l'interrogativo essenziale «chi sono io?», separando radicalmente il soggetto cosciente dalle facoltà sensorie e operative del corpo."
+      },
+      {
+        "passage_id": "chandogya-1-7-5",
+        "why": "Afferma l'identità del soggetto percipiente interiore (il Puruṣa nell'occhio) con il Principio sovrano macrocosmico e con Brahman, superando la falsa identificazione con il veicolo corporeo."
+      },
+      {
+        "passage_id": "chandogya-2-7-1",
+        "why": "Orienta la comprensione dell'interiorità ordinando gerarchicamente i sensi e i soffi vitali verso la mente e il principio vitale centrale come fondamento della coscienza individuale."
+      },
+      {
+        "passage_id": "chandogya-2-21-4",
+        "why": "Enuncia la formula meditativa «Io sono tutto» (sarvam asmīti), superando l'auto-identificazione individuale per affermare l'unità della coscienza con la totalità dei mondi."
+      },
+      {
+        "passage_id": "chandogya-3-13-7",
+        "why": "Identifica la Luce suprema che risplende oltre tutti i mondi celesti con la Luce cosciente presente all'interno della persona umana."
+      },
+      {
+        "passage_id": "chandogya-3-17-6",
+        "why": "Definisce l'identità autentica dell'uomo all'istante del trapasso attraverso le tre formule di certezza ontologica: «Tu sei l'Imperituro, Tu sei l'Immutabile, Tu sei l'Essenza della Vita»."
+      },
+      {
+        "passage_id": "chandogya-4-15-1",
+        "why": "Identifica il Sé con il Puruṣa immanente nell'occhio, proclamando la Sua natura immortale (amṛta) e priva di paura (abhaya)."
+      },
+      {
+        "passage_id": "chandogya-5-1-12",
+        "why": "Mostra come l'estirpazione del soffio vitale sradichi istantaneamente tutti i sensi particolari, provando che l'identità del vivente non risiede negli strumenti esteriori."
+      },
+      {
+        "passage_id": "chandogya-5-18-1",
+        "why": "Formula l'intuizione del Sé universale (Vaiśvānara) che supera l'identificazione frammentaria, realizzando l'esperienza di nutrirsi e vivere attraverso tutti i mondi, tutti gli esseri e tutti i sé."
+      },
+      {
+        "passage_id": "chandogya-6-11-3",
+        "why": "Afferma categoricamente l'immortalità del principio cosciente: il composto corporeo perisce quando abbandonato dalla vita, ma il Jīva non muore mai."
+      },
+      {
+        "passage_id": "chandogya-7-25-2",
+        "why": "Descrive la vera identità del soggetto come Ātman onnipervadente (Ātmādeśa), proclamando la libertà sovrana (Svārājya) di chi trova appagamento unicamente nel Sé."
+      },
+      {
+        "passage_id": "chandogya-8-1-5",
+        "why": "Definisce l'Ātman autentico spogliato di ogni fragilità: immune dal male, libero da vecchiaia, morte, dolore, fame e sete, dotato di volere infallibile."
+      },
+      {
+        "passage_id": "chandogya-8-12-1",
+        "why": "Spoglia l'identità autentica dell'uomo da ogni strumento percettivo: l'occhio, l'udito, la parola e la mente non sono il Sé, ma semplici strumenti al servizio del Testimone cosciente incorporeo."
+      },
+      {
+        "passage_id": "chandogya-8-12-4",
+        "why": "Spoglia l'identità autentica dell'uomo da ogni strumento percettivo: l'occhio, l'udito, la parola e la mente non sono il Sé, ma semplici strumenti al servizio del Testimone cosciente incorporeo."
+      },
+      {
+        "passage_id": "chandogya-8-12-5",
+        "why": "Spoglia l'identità autentica dell'uomo da ogni strumento percettivo: l'occhio, l'udito, la parola e la mente non sono il Sé, ma semplici strumenti al servizio del Testimone cosciente incorporeo."
       }
     ],
     "source_file": "core-path/04-chi-sono-veramente.json"
@@ -200,6 +284,28 @@
     ],
     "prev_step": "04-chi-sono-veramente",
     "next_step": "06-che-cose-brahman",
+    "curated_passages": [
+      {
+        "passage_id": "chandogya-1-2-7",
+        "why": "Presenta il principio centrale vitale come immune dalla contaminazione del male e superiore alla polarità sensoriale degli organi empirici, prefigurando la purezza dell'Ātman."
+      },
+      {
+        "passage_id": "chandogya-1-2-9",
+        "why": "Presenta il principio centrale vitale come immune dalla contaminazione del male e superiore alla polarità sensoriale degli organi empirici, prefigurando la purezza dell'Ātman."
+      },
+      {
+        "passage_id": "chandogya-5-1-15",
+        "why": "Risolve la molteplicità degli organi sensoriali e mentali nell'unità inscindibile del Principio vivente («non sono chiamati occhi né orecchie, ma Prāṇa»), ponendo la base per la discriminazione del Sé."
+      },
+      {
+        "passage_id": "chandogya-5-11-1",
+        "why": "Apre la celebre indagine fondamentale: «Qual è il nostro Sé? Che cos'è Brahman?» (Ko na ātmā kiṁ brahma)."
+      },
+      {
+        "passage_id": "chandogya-8-7-1",
+        "why": "Enuncia la celebre definizione del Sé immacolato proclamata da Prajāpati: immune dal peccato, libero da vecchiaia, morte, dolore, fame e sete, la cui volontà è la Verità."
+      }
+    ],
     "source_file": "core-path/05-che-cose-il-se.json"
   },
   "06-che-cose-brahman": {
@@ -244,6 +350,58 @@
       {
         "passage_id": "aitareya-3-1-3",
         "why": "Enuncia il Mahāvākya «Prajñānaṁ Brahma», identificando la natura di Brahman con la pura Coscienza che fonda l'intera manifestazione."
+      },
+      {
+        "passage_id": "chandogya-1-9-1",
+        "why": "Definisce la natura del Principio supremo sotto il simbolo dell'Ākāśa: causa efficiente e materiale da cui tutti gli esseri scaturiscono, in cui sussistono e nel quale infine fanno ritorno."
+      },
+      {
+        "passage_id": "chandogya-2-23-3",
+        "why": "Proclama l'identità fondamentale tra l'Oṃkāra e la totalità dell'essere («Oṃkāra evedaṁ sarvam»), rivelando la sillaba sacra come essenza intima e sostegno di ogni parola e forma."
+      },
+      {
+        "passage_id": "chandogya-3-11-3",
+        "why": "Rivela la natura di Brahman come Luce immutabile ed eterno Giorno interiore (sakṛd-divā), in cui ogni nozione di tempo, sorgere e tramontare fenomenico è definitivamente superata."
+      },
+      {
+        "passage_id": "chandogya-3-14-1",
+        "why": "Formula uno dei vertici metafisici dell'Advaita Vedānta: «Tutto questo universo è invero Brahman» (Sarvaṁ khalvidaṁ brahma), definendo l'Assoluto come sola realtà, causa materiale ed efficiente della totalità."
+      },
+      {
+        "passage_id": "chandogya-3-18-1",
+        "why": "Presenta la meditazione fondamentale di Brahman contemplato come mente (manas) nel microcosmo interiore e come spazio incorporeo (ākāśa) nel macrocosmo universale."
+      },
+      {
+        "passage_id": "chandogya-4-5-2",
+        "why": "Articola la contemplazione dei quattro quarti (sedici parti) di Brahman attraverso la totalità delle dimensioni cosmiche: radiosità spaziale, infinitudine materiale, luce energetica e ricettacolo interiore cosciente."
+      },
+      {
+        "passage_id": "chandogya-4-6-2",
+        "why": "Articola la contemplazione dei quattro quarti (sedici parti) di Brahman attraverso la totalità delle dimensioni cosmiche: radiosità spaziale, infinitudine materiale, luce energetica e ricettacolo interiore cosciente."
+      },
+      {
+        "passage_id": "chandogya-4-7-2",
+        "why": "Articola la contemplazione dei quattro quarti (sedici parti) di Brahman attraverso la totalità delle dimensioni cosmiche: radiosità spaziale, infinitudine materiale, luce energetica e ricettacolo interiore cosciente."
+      },
+      {
+        "passage_id": "chandogya-4-8-2",
+        "why": "Articola la contemplazione dei quattro quarti (sedici parti) di Brahman attraverso la totalità delle dimensioni cosmiche: radiosità spaziale, infinitudine materiale, luce energetica e ricettacolo interiore cosciente."
+      },
+      {
+        "passage_id": "chandogya-4-10-5",
+        "why": "Definisce Brahman unificando l'infinita vastità incorporea dello Spazio (Kha) con l'incondizionata Beatitudine dell'Essere (Ka)."
+      },
+      {
+        "passage_id": "chandogya-5-24-3",
+        "why": "Mostra come la conoscenza dell'Ātman Vaiśvānara distrugga all'istante ogni residuo di limitazione karmica, come il fuoco consuma il soffice piumino di una canna."
+      },
+      {
+        "passage_id": "chandogya-6-13-2",
+        "why": "Dimostra attraverso la similitudine del sale disciolto nell'acqua la pervasività invisibile ma totale dell'Essere puro in ogni parte della manifestazione."
+      },
+      {
+        "passage_id": "chandogya-8-1-3",
+        "why": "Rivela la natura di Brahman nel cuore: l'infinità dello spazio interiore che accoglie e trascende la totalità del cosmo, del cielo e della terra."
       }
     ],
     "source_file": "core-path/06-che-cose-brahman.json"
@@ -287,6 +445,24 @@
     ],
     "prev_step": "06-che-cose-brahman",
     "next_step": "08-perche-appare-la-molteplicita",
+    "curated_passages": [
+      {
+        "passage_id": "chandogya-3-14-3",
+        "why": "Sancisce l'identità fondamentale tra l'Ātman interiore al cuore (più sottile di un granello di senape) e Brahman (più vasto dell'intero cosmo), fondando la certezza liberatoria della non-dualità."
+      },
+      {
+        "passage_id": "chandogya-3-14-4",
+        "why": "Sancisce l'identità fondamentale tra l'Ātman interiore al cuore (più sottile di un granello di senape) e Brahman (più vasto dell'intero cosmo), fondando la certezza liberatoria della non-dualità."
+      },
+      {
+        "passage_id": "chandogya-6-8-7",
+        "why": "Enunciazione per eccellenza del Mahāvākya «Tat Tvam Asi» (Quello Tu Sei), che sancisce l'assoluta e indistruttibile identità metafisica tra il Sé interiore e l'Essere supremo."
+      },
+      {
+        "passage_id": "chandogya-6-16-3",
+        "why": "Enunciazione per eccellenza del Mahāvākya «Tat Tvam Asi» (Quello Tu Sei), che sancisce l'assoluta e indistruttibile identità metafisica tra il Sé interiore e l'Essere supremo."
+      }
+    ],
     "source_file": "core-path/07-che-rapporto-ce-tra-atman-e-brahman.json"
   },
   "08-perche-appare-la-molteplicita": {
@@ -328,6 +504,16 @@
     ],
     "prev_step": "07-che-rapporto-ce-tra-atman-e-brahman",
     "next_step": "09-che-cosa-significa-conoscere",
+    "curated_passages": [
+      {
+        "passage_id": "chandogya-2-21-1",
+        "why": "Mostra come l'intera compagine dei mondi, delle facoltà, degli esseri visibili e invisibili costituisca un'unica trama ordinata e intessuta nell'armonia del Sāman."
+      },
+      {
+        "passage_id": "chandogya-6-3-2",
+        "why": "Chiarisce che la molteplicità dei nomi e delle forme sorge dall'ingresso dell'unico Principio (Sat) sotto forma di Jīvātman nella trama dei principi cosmici."
+      }
+    ],
     "source_file": "core-path/08-perche-appare-la-molteplicita.json"
   },
   "09-che-cosa-significa-conoscere": {
@@ -368,6 +554,32 @@
     ],
     "prev_step": "08-perche-appare-la-molteplicita",
     "next_step": "10-che-cose-la-liberazione",
+    "curated_passages": [
+      {
+        "passage_id": "chandogya-1-1-10",
+        "why": "Stabilisce la differenza radicale tra l'azione compiuta con intelligenza interiore e l'atto meccanico nell'ignoranza, indicando nella meditazione e nella retta comprensione la vera sorgente di efficacia spirituale."
+      },
+      {
+        "passage_id": "chandogya-1-11-5",
+        "why": "Evidenzia che la retta azione e il rito trovano la loro ragion d'essere unicamente nell'intelletto illuminato che riconosce il Principio vitale immanente a tutte le creature."
+      },
+      {
+        "passage_id": "chandogya-4-4-5",
+        "why": "Definisce l'indispensabilità della veridicità morale come presupposto della conoscenza e stabilisce l'autorità insostituibile dell'insegnamento trasmesso vivente dall'Ācārya per il compimento supremo."
+      },
+      {
+        "passage_id": "chandogya-4-9-3",
+        "why": "Definisce l'indispensabilità della veridicità morale come presupposto della conoscenza e stabilisce l'autorità insostituibile dell'insegnamento trasmesso vivente dall'Ācārya per il compimento supremo."
+      },
+      {
+        "passage_id": "chandogya-6-14-2",
+        "why": "Stabilisce la celebre massima «Ācāryavān puruṣo veda»: solo colui che riceve la trasmissione vivente dal maestro dissipa la benda dell'ignoranza e trova la via di ritorno alla Patria dell'Essere."
+      },
+      {
+        "passage_id": "chandogya-7-1-3",
+        "why": "Fissa la celeberrima massima «tarati śokam ātmavit» (il conoscitore del Sé oltrepassa il dolore), distinguendo la mera erudizione testuale (mantravid) dalla conoscenza liberatrice del Sé."
+      }
+    ],
     "source_file": "core-path/09-che-cosa-significa-conoscere.json"
   },
   "10-che-cose-la-liberazione": {
@@ -419,6 +631,58 @@
       {
         "passage_id": "aitareya-2-1-6",
         "why": "Descrive l'emancipazione immediata dal ciclo delle rinascite attraverso l'intuizione metafisica del saggio Vāmadeva."
+      },
+      {
+        "passage_id": "chandogya-1-4-4",
+        "why": "Mostra che l'immortalità e l'assenza di paura (abhaya) non si raggiungono tramite la mera conformità rituale, ma attraverso l'ingresso cosciente nella sillaba imperitura priva di dualità."
+      },
+      {
+        "passage_id": "chandogya-2-10-5",
+        "why": "Definisce il compimento liberatorio come superamento della sfera solare fenomenica, raggiungendo lo stato immutabile e privo di afflizione (viśoka) oltre ogni limitazione temporale."
+      },
+      {
+        "passage_id": "chandogya-2-10-6",
+        "why": "Definisce il compimento liberatorio come superamento della sfera solare fenomenica, raggiungendo lo stato immutabile e privo di afflizione (viśoka) oltre ogni limitazione temporale."
+      },
+      {
+        "passage_id": "chandogya-2-23-1",
+        "why": "Fissa la netta distinzione tra i frutti karmici transitori del dovere sacro (puṇyaloka) e l'immortalità assoluta (amṛtatva), riservata a chi dimora stabilmente nella conoscenza di Brahman senza dipendere dall'azione."
+      },
+      {
+        "passage_id": "chandogya-3-17-7",
+        "why": "Esprime l'atto culminante della liberazione come superamento definitivo delle tenebre dell'ignoranza (tamas) per accedere alla Suprema Luce increata (jyotir uttamam)."
+      },
+      {
+        "passage_id": "chandogya-4-15-6",
+        "why": "Descrive l'esito della via luminosa degli dèi (Devayāna), che conduce definitivamente oltre il ciclo delle rinascite terrene."
+      },
+      {
+        "passage_id": "chandogya-5-10-1",
+        "why": "Illustra la radicale distinzione tra la liberazione graduale (Devayāna) e la prigionia della rinascita (Pitṛyāna e terzo stato), indicando nel distacco radicale dal saṁsāra (tasmāj jugupseta) la premessa indispensabile per la liberazione."
+      },
+      {
+        "passage_id": "chandogya-5-10-8",
+        "why": "Illustra la radicale distinzione tra la liberazione graduale (Devayāna) e la prigionia della rinascita (Pitṛyāna e terzo stato), indicando nel distacco radicale dal saṁsāra (tasmāj jugupseta) la premessa indispensabile per la liberazione."
+      },
+      {
+        "passage_id": "chandogya-7-26-2",
+        "why": "Formula la catena della liberazione: dall'āhāra-śuddhi alla memoria perenne del Sé, fino allo scioglimento totale di tutti i nodi del cuore e alla visione oltre le tenebre."
+      },
+      {
+        "passage_id": "chandogya-8-4-1",
+        "why": "Descrive il superamento definitivo delle dualità terrene attraverso l'Ātman-ponte (Setu), oltre il quale anche la notte si trasforma nell'eterna luce immutabile."
+      },
+      {
+        "passage_id": "chandogya-8-4-2",
+        "why": "Descrive il superamento definitivo delle dualità terrene attraverso l'Ātman-ponte (Setu), oltre il quale anche la notte si trasforma nell'eterna luce immutabile."
+      },
+      {
+        "passage_id": "chandogya-8-12-3",
+        "why": "Descrive il risveglio finale dell'anima nella propria forma autentica (svena rūpeṇa) e sancisce la solenne conclusione dell'Upaniṣad: il conseguimento del mondo di Brahman e il non-ritorno al ciclo della morte."
+      },
+      {
+        "passage_id": "chandogya-8-15-1",
+        "why": "Descrive il risveglio finale dell'anima nella propria forma autentica (svena rūpeṇa) e sancisce la solenne conclusione dell'Upaniṣad: il conseguimento del mondo di Brahman e il non-ritorno al ciclo della morte."
       }
     ],
     "source_file": "core-path/10-che-cose-la-liberazione.json"

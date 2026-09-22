@@ -1,0 +1,674 @@
+{
+  "id": "chandogya-adhyaya-5",
+  "work_id": "chandogya-upanisad",
+  "unit_locus": "5",
+  "unit_title": "Quinto Adhyāya",
+  "sections": [
+    {
+      "section_locus": "5.1",
+      "section_title": "La contesa tra le facoltà e la supremazia sovrana del Prāṇa",
+      "passages": [
+        {
+          "id": "chandogya-5-1-1",
+          "original": "ॐ यो ह वै ज्येष्ठं च श्रेष्ठं च वेद ज्येष्ठश्च ह वै श्रेष्ठश्च स्वानां भवति प्राणो वाव ज्येष्ठश्च श्रेष्ठश्च ॥ ५.१.१ ॥",
+          "translation": "Oṃ. Chi conosce il più antico [jyeṣṭha] e il più eccellente [śreṣṭha] diviene il più antico e il più eccellente tra i suoi pari. Il Soffio Vitale [Prāṇa] è invero il più antico e il più eccellente.",
+          "source": "Chāndogya Upaniṣad, V.1.1"
+        },
+        {
+          "id": "chandogya-5-1-2",
+          "original": "यो ह वै वसिष्ठं वेद वसिष्ठो ह स्वानां भवति वाग्वाव वसिष्ठः ॥ ५.१.२ ॥",
+          "translation": "Chi conosce il più splendido e ricco [vasiṣṭha] diviene il più splendido e ricco tra i suoi pari. La parola [vāc] è invero ciò che è più splendido e ricco.",
+          "source": "Chāndogya Upaniṣad, V.1.2"
+        },
+        {
+          "id": "chandogya-5-1-3",
+          "original": "यो ह वै प्रतिष्ठां वेद प्रति ह तिष्ठत्यस्मिंश्च लोकेऽमुष्मिंश्च चक्षुर्वाव प्रतिष्ठा ॥ ५.१.३ ॥",
+          "translation": "Chi conosce la salda dimora [pratiṣṭhā] si stabilisce saldamente in questo mondo e nel mondo ultraterreno. La vista [cakṣus] è invero la salda dimora.",
+          "source": "Chāndogya Upaniṣad, V.1.3"
+        },
+        {
+          "id": "chandogya-5-1-4",
+          "original": "यो ह वै संपदं वेद संहास्मै कामाः पद्यन्ते यं कामं कामयते श्रोत्रं वाव संपत् ॥ ५.१.४ ॥",
+          "translation": "Chi conosce il compimento perfetto [saṁpad] ottiene l'adempimento di tutti i desideri che può concepire. L'udito [śrotra] è invero il compimento perfetto.",
+          "source": "Chāndogya Upaniṣad, V.1.4"
+        },
+        {
+          "id": "chandogya-5-1-5",
+          "original": "यो ह वा आयतनं वेदायतनꣳ ह स्वानां भवति मनो वाव आयतनम् ॥ ५.१.५ ॥",
+          "translation": "Chi conosce il ricettacolo [āyatana] diviene il ricettacolo e il rifugio tra i suoi pari. La mente [manas] è invero il ricettacolo.",
+          "source": "Chāndogya Upaniṣad, V.1.5"
+        },
+        {
+          "id": "chandogya-5-1-6",
+          "original": "अथ ह प्राणा अहंश्रेयसि व्यूदिरेऽहꣳ श्रेयानस्म्यहꣳ श्रेयानस्मीति ॥ ५.१.६ ॥",
+          "translation": "Ora, le facoltà vitali entrarono in disputa circa la propria superiorità, ciascuna proclamando: «Io sono la più eccellente! Io sono la più eccellente!».",
+          "source": "Chāndogya Upaniṣad, V.1.6"
+        },
+        {
+          "id": "chandogya-5-1-7",
+          "original": "ते ह प्राणाः प्रजापतिं पितरमेत्योचुर्भगवन्को नः श्रेष्ठ इति तान्होवाच यस्मिन्व उत्क्रान्ते शरीरं पापिष्ठतरमिव दृश्येत स वः श्रेष्ठ इति ॥ ५.१.७ ॥",
+          "translation": "Queste facoltà si recarono dal loro progenitore Prajāpati e gli chiesero: «Venerabile signore, chi di noi è la più eccellente?». Egli rispose loro: «Quella tra voi dipartendosi dalla quale il corpo appare nel modo più deturpato e corrotto, quella è tra voi la più eccellente».",
+          "source": "Chāndogya Upaniṣad, V.1.7"
+        },
+        {
+          "id": "chandogya-5-1-8",
+          "original": "सा ह वागुच्चक्राम सा संवत्सरं प्रोष्य प्रोच्य प्रविवेश कथमशकत मदृते जीवितुमिति यथा कला अवदन्तो वाचा प्राणन्तः प्राणेन पश्यन्तश्चक्षुषा श‍ृण्वन्तः श्रोत्रेण ध्यायन्तो मनसैवं हेति प्रविवेश ह वाक् ॥ ५.१.८ ॥",
+          "translation": "La parola si dipartì dal corpo. Dopo aver vissuto lontana per un anno intero, ritornò e chiese: «Come avete potuto vivere senza di me?». Le altre risposero: «Come vivono i muti, non parlando con la voce ma respirando con il respiro, vedendo con gli occhi, udendo con le orecchie e pensando con la mente: così abbiamo vissuto». Allora la parola rientrò nel corpo.",
+          "source": "Chāndogya Upaniṣad, V.1.8"
+        },
+        {
+          "id": "chandogya-5-1-9",
+          "original": "तद्ध चक्षुरुच्चक्राम तत्संवत्सरं प्रोष्य प्रोच्य प्रविवेश कथमशकत मदृते जीवितुमिति यथान्धा अपश्यन्तश्चक्षुषा प्राणन्तः प्राणेन वदन्तो वाचा श‍ृण्वन्तः श्रोत्रेण ध्यायन्तो मनसैवं हेति प्रविवेश ह चक्षुः ॥ ५.१.९ ॥",
+          "translation": "La vista si dipartì dal corpo. Dopo aver vissuto lontana per un anno intero, ritornò e chiese: «Come avete potuto vivere senza di me?». Le altre risposero: «Come vivono i ciechi, non vedendo con gli occhi ma respirando con il respiro, parlando con la voce, udendo con le orecchie e pensando con la mente: così abbiamo vissuto». Allora la vista rientrò nel corpo.",
+          "source": "Chāndogya Upaniṣad, V.1.9"
+        },
+        {
+          "id": "chandogya-5-1-10",
+          "original": "तद्ध श्रोत्रमुच्चक्राम तत्संवत्सरं प्रोष्य प्रोच्य प्रविवेश कथमशकत मदृते जीवितुमिति यथा बधिरा अश‍ृण्वन्तः श्रोत्रेण प्राणन्तः प्राणेन वदन्तो वाचा पश्यन्तश्चक्षुषा ध्यायन्तो मनसैवं हेति प्रविवेश ह श्रोत्रम् ॥ ५.१.१० ॥",
+          "translation": "L'udito si dipartì dal corpo. Dopo aver vissuto lontano per un anno intero, ritornò e chiese: «Come avete potuto vivere senza di me?». Le altre risposero: «Come vivono i sordi, non udendo con le orecchie ma respirando con il respiro, parlando con la voce, vedendo con gli occhi e pensando con la mente: così abbiamo vissuto». Allora l'udito rientrò nel corpo.",
+          "source": "Chāndogya Upaniṣad, V.1.10"
+        },
+        {
+          "id": "chandogya-5-1-11",
+          "original": "तद्ध मन उच्चक्राम तत्संवत्सरं प्रोष्य प्रोच्य प्रविवेश कथमशकत मदृते जीवितुमिति यथा बाला अमनसो यूथ्या इव प्राणन्तः प्राणेन वदन्तो वाचा पश्यन्तश्चक्षुषा श‍ृण्वन्तः श्रोत्रेणैवं हेति प्रविवेश ह मनः ॥ ५.१.११ ॥",
+          "translation": "La mente si dipartì dal corpo. Dopo aver vissuto lontana per un anno intero, ritornò e chiese: «Come avete potuto vivere senza di me?». Le altre risposero: «Come vivono i fanciulli privi di ragione, respirando con il respiro, parlando con la voce, vedendo con gli occhi e udendo con le orecchie: così abbiamo vissuto». Allora la mente rientrò nel corpo.",
+          "source": "Chāndogya Upaniṣad, V.1.11"
+        },
+        {
+          "id": "chandogya-5-1-12",
+          "original": "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्तꣳ हाभिसमेत्योचुर्भगवन्नेधि त्वं नः श्रेष्ठोऽसि मोत्क्रमीरिति ॥ ५.१.१२ ॥",
+          "translation": "Poi il Soffio Vitale [Prāṇa] si accinse a dipartirsi. Proprio come un fiero destriero sradica violentemente i picchetti cui sono legate le sue zampe, così esso sradicò tutte le altre facoltà. Esse allora si radunarono attorno a lui e gridarono: «Venerabile signore, rimani! Tu solo sei il più eccellente tra noi; non dipartirti!».",
+          "source": "Chāndogya Upaniṣad, V.1.12"
+        },
+        {
+          "id": "chandogya-5-1-13",
+          "original": "अथ हैनं वागुवाच यदहं वसिष्ठास्मि त्वं तद्वसिष्ठोऽसीत्यथ हैनं चक्षुरुवाच यदहं प्रतिष्ठास्मि त्वं तत्प्रतिष्ठासीति ॥ ५.१.१३ ॥",
+          "translation": "Allora la parola gli disse: «Ciò per cui io sono la più splendida e ricca, è per te che sei il più splendido e ricco». Poi la vista gli disse: «Ciò per cui io sono la salda dimora, è per te che sei la salda dimora».",
+          "source": "Chāndogya Upaniṣad, V.1.13"
+        },
+        {
+          "id": "chandogya-5-1-14",
+          "original": "अथ हैनꣳ श्रोत्रमुवाच यदहं संपदस्मि त्वं तत्संपदसीत्यथ हैनं मन उवाच यदहमायतनमस्मि त्वं तदायतनमसीति ॥ ५.१.१४ ॥",
+          "translation": "Poi l'udito gli disse: «Ciò per cui io sono il compimento perfetto, è per te che sei il compimento perfetto». Poi la mente gli disse: «Ciò per cui io sono il ricettacolo, è per te che sei il ricettacolo».",
+          "source": "Chāndogya Upaniṣad, V.1.14"
+        },
+        {
+          "id": "chandogya-5-1-15",
+          "original": "न वै वाचो न चक्षूंषि न श्रोत्राणि न मनांसीत्याचक्षते प्राणा इत्येवाचक्षते प्राणो ह्येवैतानि सर्वाणि भवति ॥ ५.१.१५ ॥",
+          "translation": "Per questo motivo nel mondo non le chiamano 'le parole', né 'le viste', né 'gli uditi', né 'le menti', ma le chiamano unicamente 'i Prāṇa' [i soffi vitali]; poiché il Soffio Vitale è invero tutte queste facoltà.",
+          "source": "Chāndogya Upaniṣad, V.1.15"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.2",
+      "section_title": "Il nutrimento e la veste del Prāṇa e il rito del Mantha per la grandezza",
+      "passages": [
+        {
+          "id": "chandogya-5-2-1",
+          "original": "स होवाच किं मेऽन्नं भविष्यतीति यत्किंचिदिदमा श्वभ्य आ शकुनिभ्य इति होचुस्तद्वा एतदनस्यान्नमनो ह वै नाम प्रत्यक्षं न ह वा एवंविदि किंचनानन्नं भवतीति ॥ ५.२.१ ॥",
+          "translation": "Il Prāṇa chiese: «Quale sarà il mio nutrimento?». Le facoltà risposero: «Qualunque cosa esista in questo mondo, perfino il cibo dei cani e degli uccelli». Tutto questo è invero il nutrimento di Ana [il principio vivente]: 'Ana' è infatti il suo nome manifesto. Per colui che possiede questa conoscenza nulla esiste che non sia nutrimento.",
+          "source": "Chāndogya Upaniṣad, V.2.1"
+        },
+        {
+          "id": "chandogya-5-2-2",
+          "original": "स होवाच किं मे वासो भविष्यतीत्याप इति होचुस्तस्माद्वा एतदशिष्यन्तः पुरस्ताच्चोपरिष्टाच्चाद्भिः परिदधति लम्भुको ह वासो भवत्यनग्नो ह भवति ॥ ५.२.२ ॥",
+          "translation": "Il Prāṇa chiese: «Quale sarà la mia veste?». Esse risposero: «Le acque». Per questo motivo coloro che stanno per mangiare avvolgono il Prāṇa con l'acqua prima e dopo il pasto: chi fa questo ottiene vesti e non rimane nudo.",
+          "source": "Chāndogya Upaniṣad, V.2.2"
+        },
+        {
+          "id": "chandogya-5-2-3",
+          "original": "तद्धैतत्सत्यकामो जाबालो गोश्रुतये वैयाघ्रपद्यायोक्त्वोवाच यद्यप्येनच्छुष्काय स्थाणवे ब्रूयाज्जायेरन्नेवास्मिञ्छाखाः प्ररोहेयुः पलाशानीति ॥ ५.२.३ ॥",
+          "translation": "Satyakāma Jābāla, avendo trasmesso questa dottrina a Gośruti Vaiyāghrapadya, gli disse: «Se si proclamasse questo insegnamento persino a un tronco d'albero secco e inaridito, vi spunterebbero rami e germoglierebbero foglie!».",
+          "source": "Chāndogya Upaniṣad, V.2.3"
+        },
+        {
+          "id": "chandogya-5-2-4",
+          "original": "अथ यदि महज्जिगमिषेदामावास्यायां दीक्षित्वा पौर्णमास्याꣳ रात्रौ सर्वौषधस्य मन्थं दधिमधुनोरुपमथ्य ज्येष्ठाय श्रेष्ठाय स्वाहेत्यग्नावाज्यस्य हुत्वा मन्थे संपातमवनयेत् ॥ ५.२.४ ॥",
+          "translation": "Ora, se qualcuno desidera conseguire la grandezza spirituale [mahat], dopo essersi consacrato nella notte di luna nuova, nella notte di plenilunio mescoli una pozione [mantha] di tutte le erbe con latte cagliato e miele; quindi offra burro chiarificato nel fuoco dicendo: «Svāhā al più antico e al più eccellente!», e versi il residuo gocciolante dell'oblazione nella pozione.",
+          "source": "Chāndogya Upaniṣad, V.2.4"
+        },
+        {
+          "id": "chandogya-5-2-5",
+          "original": "वसिष्ठाय स्वाहेत्यग्नावाज्यस्य हुत्वा मन्थे संपातमवनयेत्प्रतिष्ठायै स्वाहेत्यग्नावाज्यस्य हुत्वा मन्थे संपातमवनयेत्संपदे स्वाहेत्यग्नावाज्यस्य हुत्वा मन्थे संपातमवनयेदायतनाय स्वाहेत्यग्नावाज्यस्य हुत्वा मन्थे संपातमवनयेत् ॥ ५.२.५ ॥",
+          "translation": "Offra nel fuoco dicendo: «Svāhā al più splendido e ricco!», e versi il residuo nella pozione; offra dicendo: «Svāhā alla salda dimora!», e versi il residuo; offra dicendo: «Svāhā al compimento perfetto!», e versi il residuo; offra dicendo: «Svāhā al ricettacolo!», e versi il residuo nella pozione.",
+          "source": "Chāndogya Upaniṣad, V.2.5"
+        },
+        {
+          "id": "chandogya-5-2-6",
+          "original": "अथ प्रतिसृप्याञ्जलौ मन्थमाधाय जपत्यमो नामास्यमा हि ते सर्वमिदꣳ स हि ज्येष्ठः श्रेष्ठो राजाधिपतिः स मा ज्यैष्ठ्यꣳ श्रैष्ठ्यꣳ राज्यमाधिपत्यं गमयत्वहमेवेदं सर्वमसानीति ॥ ५.२.६ ॥",
+          "translation": "Quindi, arretrando un poco e prendendo la pozione nell'incavo delle mani, reciti a bassa voce: «Tu hai nome Ama [il Soffio vitale], poiché in te risiede questo universo intero. Egli è invero il più antico, il più eccellente, il sovrano e il supremo signore: possa Egli condurmi all'antichità spirituale, all'eccellenza, alla sovranità e al dominio universale, affinché io stesso sia tutto questo universo!».",
+          "source": "Chāndogya Upaniṣad, V.2.6"
+        },
+        {
+          "id": "chandogya-5-2-7",
+          "original": "अथ खल्वेतयर्चा पच्छ आचामति तत्सवितुर्वृणीमह इत्याचामति वयं देवस्य भोजनमित्याचामति श्रेष्ठꣳ सर्वधातममित्याचामति तुरं भगस्य धीमहीति सर्वं पिबति कं संनिर्णिज्य कंसं वा चमसं वा पश्चादग्नेः संविशति चर्मणि वा स्थण्डिले वा वाचंयमोऽप्रसाहः स यदि स्त्रियं पश्येत्स समृद्धं कर्मेति विद्यात् ॥ ५.२.७ ॥",
+          "translation": "Poi egli sorseggia la pozione quarto per quarto recitando il verso sacro: «Noi desideriamo questo splendore di Savitṛ» — e beve; «il nutrimento del Dio» — e beve; «il più eccellente, che tutto sostiene» — e beve; «meditiamo sul rapido splendore di Bhaga» — e beve tutto il rimanente. Lavata la coppa di metallo o di legno, si corica a occidente del fuoco su una pelle o sulla nuda terra, silenzioso e raccolto. Se in sogno vede una donna, sappia che il rito ha ottenuto pieno compimento.",
+          "source": "Chāndogya Upaniṣad, V.2.7"
+        },
+        {
+          "id": "chandogya-5-2-8",
+          "original": "तदेष श्लोकः । यदा कर्मसु काम्येषु स्त्रियं स्वप्नेषु पश्यति । समृद्धिं तत्र जानीयात्तस्मिन्स्वप्ननिदर्शने तस्मिन्स्वप्ननिदर्शने ॥ ५.२.८ ॥",
+          "translation": "A questo proposito vi è questo verso: «Quando durante l'esecuzione di riti volti a uno scopo l'uomo scorge in sogno una donna, riconosca il compimento del rito in quella visione onirica, sì, in quella visione onirica».",
+          "source": "Chāndogya Upaniṣad, V.2.8"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.3",
+      "section_title": "I cinque quesiti di Pravāhaṇa Jaivali a Śvetaketu",
+      "passages": [
+        {
+          "id": "chandogya-5-3-1",
+          "original": "श्वेतकेतुर्हारुणेयः पञ्चालानां समितिमेयाय तꣳ ह प्रवाहणो जैवलिरुवाच कुमारानु त्वाशिषत्पितेत्यनु हि भगव इति ॥ ५.३.१ ॥",
+          "translation": "Śvetaketu Āruṇeya si recò all'assemblea dei Pañcāla. Il re Pravāhaṇa Jaivali gli disse: «O giovane, tuo padre ti ha forse istruito?». «Sì, venerabile signore, mi ha istruito», rispose egli.",
+          "source": "Chāndogya Upaniṣad, V.3.1"
+        },
+        {
+          "id": "chandogya-5-3-2",
+          "original": "वेत्थ यदितोऽधि प्रजाः प्रयन्तीति न भगव इति वेत्थ यथा पुनरावर्तन्ता३ इति न भगव इति वेत्थ पथोर्देवयानस्य पितृयाणस्य च व्यावर्तना३ इति न भगव इति ॥ ५.३.२ ॥",
+          "translation": "Il re gli chiese: «Sai dove vanno le creature dipartendosi da questo mondo?». «No, venerabile signore». «Sai come esse ritornano di nuovo in questo mondo?». «No, venerabile signore». «Sai dove si separano i due sentieri, la Via degli Dèi [Devayāna] e la Via dei Padri [Pitṛyāna]?». «No, venerabile signore».",
+          "source": "Chāndogya Upaniṣad, V.3.2"
+        },
+        {
+          "id": "chandogya-5-3-3",
+          "original": "वेत्थ यथाऽसौ लोको न संपूर्यता३ इति न भगव इति वेत्थ यथा पञ्चम्यामाहुतावापः पुरुषवचसो भवन्तीति नैव भगव इति ॥ ५.३.३ ॥",
+          "translation": "«Sai perché quel mondo lassù non si riempie mai del tutto?». «No, venerabile signore». «Sai come, alla quinta oblazione, le acque vengono chiamate con voce umana [puruṣavacasaḥ]?». «No, affatto, venerabile signore».",
+          "source": "Chāndogya Upaniṣad, V.3.3"
+        },
+        {
+          "id": "chandogya-5-3-4",
+          "original": "अथ नु किं ब्रूथा अनुशिष्टोऽस्मीति यो हीमानि न विद्यात्कथं सोऽनुशिष्टो ब्रुवीतेति स हायस्तः पितुरर्धमेयाय तꣳहोवाचाननुशिष्य वाव किल मा भगवानब्रवीदनु त्वाशिषमिति ॥ ५.३.४ ॥",
+          "translation": "«E allora perché hai detto di essere stato istruito? Come potrebbe dirsi istruito chi ignora queste verità?». Śvetaketu, turbato e confuso, tornò da suo padre e gli disse: «Senza avermi affatto istruito, la signoria tua mi aveva detto: \"Ti ho istruito!\"».",
+          "source": "Chāndogya Upaniṣad, V.3.4"
+        },
+        {
+          "id": "chandogya-5-3-5",
+          "original": "पञ्च मा प्रश्नान् राजन्यबन्धुरप्राक्षीत्तेषां नैकंचनाशकं विवक्तुमिति स होवाच यथा मा त्वं तदैतानवदो यथाहमेषां नैकंचन वेद यद्यहमिमानवेदिष्यं कथं ते नावक्ष्यमिति ॥ ५.३.५ ॥",
+          "translation": "«Quel kṣatriya mi ha posto cinque domande, e di nessuna di esse sono stato in grado di dare la spiegazione». Il padre rispose: «Come tu me le hai appena riferite, sappi che io stesso non ne conosco alcuna. Se io le avessi conosciute, come avrei potuto non insegnartele?».",
+          "source": "Chāndogya Upaniṣad, V.3.5"
+        },
+        {
+          "id": "chandogya-5-3-6",
+          "original": "स ह गौतमो राज्ञोऽर्धमेयाय तस्मै ह प्राप्तायार्हां चकार स ह प्रातः सभाग उदियाय तꣳ होवाच मानुषस्य भगवन्गौतम वित्तस्य वरं वृणीथा इति स होवाच तवैव राजन्मानुषं वित्तं यामेव कुमारस्यान्ते वाचमभाषथास्तामेव मे ब्रूहीति ॥ ५.३.६ ॥",
+          "translation": "Allora Gautama [il padre] si recò alla corte del re. Quando giunse, il re gli rese i dovuti onori. Il mattino seguente, quando il re entrò nella sala dell'assemblea, gli disse: «Chiedi in dono, venerabile Gautama, ricchezze umane!». Ma quegli rispose: «I beni umani rimangano pure a te, o re! Rivelami invece quelle parole che hai pronunciato dinanzi al mio giovane figlio!».",
+          "source": "Chāndogya Upaniṣad, V.3.6"
+        },
+        {
+          "id": "chandogya-5-3-7",
+          "original": "स ह कृच्छ्री बभूव तꣳ ह चिरं वसेत्याज्ञापयांचकार तं होवाच यथा मा त्वं गौतमावदो यथेयं न प्राक्त्वत्तः पुरा विद्या ब्राह्मणान्गच्छति तस्मादु सर्वेषु लोकेषु क्षत्रस्यैव प्रशासनमभूदिति तस्मै होवाच ॥ ५.३.७ ॥",
+          "translation": "Il re rimase turbato. Gli impose di risiedere presso di lui per lungo tempo, poi gli disse: «Poiché tu me lo chiedi così, o Gautama, e poiché questa sapienza prima di te non è mai giunta ai brāhmaṇa, per questo motivo in tutti i mondi il governo è appartenuto alla stirpe guerriera». E cominciò a istruirlo così:",
+          "source": "Chāndogya Upaniṣad, V.3.7"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.4",
+      "section_title": "Il primo fuoco: il mondo celeste e l'offerta della fede",
+      "passages": [
+        {
+          "id": "chandogya-5-4-1",
+          "original": "असौ वाव लोको गौतमाग्निस्तस्यादित्य एव समिद्रश्मयो धूमोऽहरर्चिश्चन्द्रमा अङ्गारा नक्षत्राणि विस्फुलिङ्गाः ॥ ५.४.१ ॥",
+          "translation": "«Quel mondo celeste lassù è invero il fuoco, o Gautama. Di questo fuoco il sole è il combustibile; i raggi sono il fumo; il giorno è la fiamma; la luna sono i carboni ardenti; le stelle sono le scintille.",
+          "source": "Chāndogya Upaniṣad, V.4.1"
+        },
+        {
+          "id": "chandogya-5-4-2",
+          "original": "तस्मिन्नेतस्मिन्नग्नौ देवाः श्रद्धां जुह्वति तस्या आहुतेः सोमो राजा संभवति ॥ ५.४.२ ॥",
+          "translation": "In questo fuoco gli dèi offrono come oblazione la Fede [śraddhā]: da questa oblazione nasce il Re Soma.",
+          "source": "Chāndogya Upaniṣad, V.4.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.5",
+      "section_title": "Il secondo fuoco: la sfera atmosferica e l'offerta del Re Soma",
+      "passages": [
+        {
+          "id": "chandogya-5-5-1",
+          "original": "पर्जन्यो वाव गौतमाग्निस्तस्य वायुरेव समिदभ्रं धूमो विद्युदर्चिरशनिरङ्गारा ह्रादुनयो विस्फुलिङ्गाः ॥ ५.५.१ ॥",
+          "translation": "La sfera della pioggia [Parjanya] è invero il fuoco, o Gautama. Il vento ne è il combustibile; la nube è il fumo; il lampo è la fiamma; la folgore sono i carboni ardenti; i tuoni sono le scintille.",
+          "source": "Chāndogya Upaniṣad, V.5.1"
+        },
+        {
+          "id": "chandogya-5-5-2",
+          "original": "तस्मिन्नेतस्मिन्नग्नौ देवाः सोमꣳ राजानं जुह्वति तस्या आहुतेर्वर्षं संभवति ॥ ५.५.२ ॥",
+          "translation": "In questo fuoco gli dèi offrono come oblazione il Re Soma: da questa oblazione nasce la pioggia.",
+          "source": "Chāndogya Upaniṣad, V.5.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.6",
+      "section_title": "Il terzo fuoco: la terra e l'offerta della pioggia",
+      "passages": [
+        {
+          "id": "chandogya-5-6-1",
+          "original": "पृथिवी वाव गौतमाग्निस्तस्याः संवत्सर एव समिदाकाशो धूमो रात्रिरर्चिर्दिशोऽङ्गारा अवान्तरदिशो विस्फुलिङ्गाः ॥ ५.६.१ ॥",
+          "translation": "La terra è invero il fuoco, o Gautama. Il corso dell'anno ne è il combustibile; lo spazio atmosferico è il fumo; la notte è la fiamma; i punti cardinali sono i carboni ardenti; le direzioni intermedie sono le scintille.",
+          "source": "Chāndogya Upaniṣad, V.6.1"
+        },
+        {
+          "id": "chandogya-5-6-2",
+          "original": "तस्मिन्नेतस्मिन्नग्नौ देवा वर्षं जुह्वति तस्या आहुतेरन्नं संभवति ॥ ५.६.२ ॥",
+          "translation": "In questo fuoco gli dèi offrono come oblazione la pioggia: da questa oblazione nasce il nutrimento [anna].",
+          "source": "Chāndogya Upaniṣad, V.6.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.7",
+      "section_title": "Il quarto fuoco: l'uomo e l'offerta del nutrimento",
+      "passages": [
+        {
+          "id": "chandogya-5-7-1",
+          "original": "पुरुषो वाव गौतमाग्निस्तस्य वागेव समित्प्राणो धूमो जिह्वार्चिश्चक्षुरङ्गाराः श्रोत्रं विस्फुलिङ्गाः ॥ ५.७.१ ॥",
+          "translation": "L'uomo è invero il fuoco, o Gautama. La parola ne è il combustibile; il respiro è il fumo; la lingua è la fiamma; gli occhi sono i carboni ardenti; le orecchie sono le scintille.",
+          "source": "Chāndogya Upaniṣad, V.7.1"
+        },
+        {
+          "id": "chandogya-5-7-2",
+          "original": "तस्मिन्नेतस्मिन्नग्नौ देवा अन्नं जुह्वति तस्या आहुते रेतः संभवति ॥ ५.७.२ ॥",
+          "translation": "In questo fuoco gli dèi offrono come oblazione il nutrimento: da questa oblazione nasce il seme vitale [retaḥ].",
+          "source": "Chāndogya Upaniṣad, V.7.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.8",
+      "section_title": "Il quinto fuoco: la donna e l'offerta del seme vitale",
+      "passages": [
+        {
+          "id": "chandogya-5-8-1",
+          "original": "योषा वाव गौतमाग्निस्तस्या उपस्थ एव समिद्यदुपमन्त्रयते स धूमो योनिरर्चिर्यदन्तः करोति तेऽङ्गारा अभिनन्दा विस्फुलिङ्गाः ॥ ५.८.१ ॥",
+          "translation": "La donna è invero il fuoco, o Gautama. Il grembo generatore ne è il combustibile; l'invito amoroso è il fumo; la matrice è la fiamma; l'atto dell'unione sono i carboni ardenti; i fremiti di piacere sono le scintille.",
+          "source": "Chāndogya Upaniṣad, V.8.1"
+        },
+        {
+          "id": "chandogya-5-8-2",
+          "original": "तस्मिन्नेतस्मिन्नग्नौ देवा रेतो जुह्वति तस्या आहुतेर्गर्भः संभवति ॥ ५.८.२ ॥",
+          "translation": "In questo fuoco gli dèi offrono come oblazione il seme vitale: da questa oblazione nasce l'embrione.",
+          "source": "Chāndogya Upaniṣad, V.8.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.9",
+      "section_title": "La formazione dell'essere umano e il compimento del ciclo vitale",
+      "passages": [
+        {
+          "id": "chandogya-5-9-1",
+          "original": "इति तु पञ्चम्यामाहुतावापः पुरुषवचसो भवन्तीति स उल्बावृतो गर्भो दश वा नव वा मासानन्तः शयित्वा यावद्वाथ जायते ॥ ५.९.१ ॥",
+          "translation": "Così dunque, alla quinta oblazione, le acque vengono chiamate con voce umana. Quell'embrione avvolto nel sacco amniotico riposa nell'utero per nove o dieci mesi, o per il tempo prescritto, e quindi nasce.",
+          "source": "Chāndogya Upaniṣad, V.9.1"
+        },
+        {
+          "id": "chandogya-5-9-2",
+          "original": "स जातो यावदायुषं जीवति तं प्रेतं दिष्टमितोऽग्नय एव हरन्ति यत एवेतो यतः संभूतो भवति ॥ ५.९.२ ॥",
+          "translation": "Una volta nato, egli vive per l'intera durata della sua vita; e quando muore secondo il suo destino, da questo mondo lo conducono proprio al fuoco da cui è venuto e da cui ha avuto origine.",
+          "source": "Chāndogya Upaniṣad, V.9.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.10",
+      "section_title": "I due sentieri post-mortem (Devayāna e Pitṛyāna) e la necessità del distacco",
+      "passages": [
+        {
+          "id": "chandogya-5-10-1",
+          "original": "तद्य इत्थं विदुर्ये चेमेऽरण्ये श्रद्धा तप इत्युपासते तेऽर्चिषमभिसंभवन्त्यर्चिषोऽहरह्न आपूर्यमाणपक्षमपूर्यमाणपक्षाद्यान्षडुदङ्ङेति मासांस्तान् ॥ ५.१०.१ ॥",
+          "translation": "Coloro che conoscono questa dottrina dei cinque fuochi, e coloro che nella foresta meditano con fede pura e ascesi [śraddhā tapa itу upāsate], ascendono al raggio di luce; dalla luce al giorno; dal giorno alla quindicina di luna crescente; dalla quindicina crescente ai sei mesi in cui il sole sale verso nord;",
+          "source": "Chāndogya Upaniṣad, V.10.1"
+        },
+        {
+          "id": "chandogya-5-10-2",
+          "original": "मासेभ्यः संवत्सरꣳ संवत्सरादादित्यमादित्याच्चन्द्रमसं चन्द्रमसो विद्युतं तत्पुरुषोऽमानवः स एनान्ब्रह्म गमयत्येष देवयानः पन्था इति ॥ ५.१०.२ ॥",
+          "translation": "da questi mesi all'anno; dall'anno al sole; dal sole alla luna; dalla luna al lampo: là vi è una Guida non umana [puruṣo 'mānavaḥ], che conduce queste anime a Brahman. Questa è la Via degli Dèi [Devayāna].",
+          "source": "Chāndogya Upaniṣad, V.10.2"
+        },
+        {
+          "id": "chandogya-5-10-3",
+          "original": "अथ य इमे ग्राम इष्टापूर्ते दत्तमित्युपासते ते धूममभिसंभवन्ति धूमान्रात्रिꣳ रात्रेरपरपक्षमपरपक्षाद्यान्षड्दक्षिणैति मासांस्तान्नैते संवत्सरमभिप्राप्नुवन्ति ॥ ५.१०.३ ॥",
+          "translation": "Ma coloro che nei villaggi compiono sacrifici rituali [iṣṭa], opere di pubblica utilità [pūrta] ed elemosine [datta], ascendono invece al fumo; dal fumo alla notte; dalla notte alla quindicina calante; dalla quindicina calante ai sei mesi in cui il sole scende verso sud: costoro non raggiungono l'anno;",
+          "source": "Chāndogya Upaniṣad, V.10.3"
+        },
+        {
+          "id": "chandogya-5-10-4",
+          "original": "मासेभ्यः पितृलोकं पितृलोकादाकाशमाकाशाच्चन्द्रमसमेष सोमो राजा तद्देवानामन्नं तं देवा भक्षयन्ति ॥ ५.१०.४ ॥",
+          "translation": "da quei mesi passano al mondo dei Padri [Pitṛloka]; dal mondo dei Padri allo spazio; dallo spazio alla luna. Quello è il Re Soma: esso è il nutrimento degli dèi, e gli dèi se ne cibano.",
+          "source": "Chāndogya Upaniṣad, V.10.4"
+        },
+        {
+          "id": "chandogya-5-10-5",
+          "original": "तस्मिन्यावत्सम्पातमुषित्वाऽथैतमेवाध्वानं पुनर्निवर्तन्ते यथेतमाकाशमाकाशाद्वायुं वायुर्भूत्वा धूमो भवति धूमो भूत्वाऽभ्रं भवति ॥ ५.१०.५ ॥",
+          "translation": "Dimorando colà per tutto il tempo in cui dura il residuo delle loro buone azioni [yāvat saṁpātam], essi ritornano quindi indietro per la medesima via: entrano nello spazio; dallo spazio passano al vento; divenuti vento si trasformano in fumo; divenuti fumo si trasformano in nebbia;",
+          "source": "Chāndogya Upaniṣad, V.10.5"
+        },
+        {
+          "id": "chandogya-5-10-6",
+          "original": "अभ्रं भूत्वा मेघो भवति मेघो भूत्वा वर्षति त इह व्रीhiyavā ओषधिवनस्पतयस्तिलमाषा इति जायन्तेऽतो वै खलु दुर्निष्प्रपतरं यो यो ह्यन्नमत्ति यो रेतः सिञ्चति तद्भूय एव भवति ॥ ५.१०.६ ॥",
+          "translation": "divenuti nebbia si trasformano in nube temporalesca; divenuti nube cadono come pioggia; rinascono quaggiù come riso, orzo, erbe, alberi, sesamo e fagioli. Da questa condizione è invero assai difficile uscire: chiunque si cibi di questo alimento ed emetta il seme, colui essi divengono.",
+          "source": "Chāndogya Upaniṣad, V.10.6"
+        },
+        {
+          "id": "chandogya-5-10-7",
+          "original": "तद्य इह रमणीयचरणा अभ्याशो ह यत्ते रमणीयां योनिमापद्येरन्ब्राह्मणयोनिं वा क्षत्रिययोनिं वा वैश्ययोनिं वाथ य इह कपूयचरणा अभ्याशो ह यत्ते कपूयां योनिमापद्येरञ्श्वयोनिं वा सूकरयोनिं वा चाण्डालयोनिं वा ॥ ५.१०.७ ॥",
+          "translation": "Tra costoro, quelli che hanno avuto una condotta retta e pura [ramaṇīyacaraṇāḥ] entrano prontamente in una matrice nobile: nella matrice di un brāhmaṇa, o di uno kṣatriya, o di un vaiśya. Ma coloro che hanno avuto una condotta empia e perversa [kapūyacaraṇāḥ] entrano prontamente in una matrice degradata: nella matrice di un cane, o di un maiale, o di un caṇḍāla.",
+          "source": "Chāndogya Upaniṣad, V.10.7"
+        },
+        {
+          "id": "chandogya-5-10-8",
+          "original": "अथैतयोः पथोर्न कतरेणचन तानीमानि क्षुद्राण्यसकृदावर्तीनि भूतानि भवन्ति जायस्व म्रियस्वेत्येतत्तृतीयꣳ स्थानं तेनासौ लोको न संपूर्यते तस्माज्जुगुप्सेत तदेष श्लोकः ॥ ५.१०.८ ॥",
+          "translation": "Ma coloro che non percorrono nessuno di questi due sentieri divengono queste minuscole creature che rinascono continuamente, soggette al decreto: «Nasci e muori! [jāyasva mriyasva]». Questo è il terzo stato. Per questo motivo quel mondo lassù non si riempie mai. Perciò si provi ripugnanza e distacco [tasmāj jugupseta] verso questo ciclo! A questo proposito vi è questo verso:",
+          "source": "Chāndogya Upaniṣad, V.10.8"
+        },
+        {
+          "id": "chandogya-5-10-9",
+          "original": "स्तेनो हिरण्यस्य सुरां पिबंश्च गुरोस्तल्पमावसन्ब्रह्महा चैते पतन्ति चत्वारः पञ्चमश्चाꣳस्तैरिति ॥ ५.१०.९ ॥",
+          "translation": "«Colui che ruba l'oro, colui che beve liquori inebrianti, colui che profana il letto del maestro spirituale e colui che uccide un brāhmaṇa: questi quattro precipitano, e come quinto precipita colui che si associa con essi».",
+          "source": "Chāndogya Upaniṣad, V.10.9"
+        },
+        {
+          "id": "chandogya-5-10-10",
+          "original": "अथ ह य एतानेवं पञ्चाग्नीन्वेद न सह तैरप्याचरन्पाप्मना लिप्यते शुद्धः पूतः पुण्यलोको भवति य एवं वेद य एवं वेद ॥ ५.१०.१० ॥",
+          "translation": "Ma colui che conosce in questo modo i cinque fuochi, anche se viene a contatto con costoro non è macchiato dal male: egli rimane puro, immacolato e padrone di un mondo meritorio, colui che possiede questa conoscenza, sì, colui che possiede questa conoscenza.",
+          "source": "Chāndogya Upaniṣad, V.10.10"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.11",
+      "section_title": "La ricerca dell'Ātman universale e l'incontro con il re Aśvapati Kaikeya",
+      "passages": [
+        {
+          "id": "chandogya-5-11-1",
+          "original": "प्राचीनशाल औपमन्यवः सत्ययज्ञः पौलुषिरिन्द्रद्युम्नो भाल्लवेयो जनः शार्कराक्ष्यो बुडिल आश्वतराश्विस्ते हैते महाशाला महाश्रोत्रियाः समेत्य मीमांसां चक्रुः को न आत्मा किं ब्रह्मेति ॥ ५.११.१ ॥",
+          "translation": "Prācīnaśāla Aupamanyava, Satyayajña Pauluṣi, Indradyumna Bhāllaveya, Jana Śārkarākṣya e Buḍila Āśvatarāśvi: costoro erano tutti eminenti capifamiglia e dotti conoscitori dei Veda. Riunitisi insieme, avviarono questa indagine: «Qual è il nostro Sé? Che cos'è Brahman?».",
+          "source": "Chāndogya Upaniṣad, V.11.1"
+        },
+        {
+          "id": "chandogya-5-11-2",
+          "original": "ते ह सम्पादयांचक्रुरुद्दालको वै भगवन्तोऽयमारुणिः सम्प्रतीममात्मानं वैश्वानरमध्येति तं हन्ताभ्यागच्छामेति तं हाभ्याजग्मुः ॥ ५.११.२ ॥",
+          "translation": "Essi giunsero a questa conclusione: «O venerabili, Uddālaka Āruṇi studia attualmente questo Sé universale [Ātman Vaiśvānara]. Ebbene, andiamo da lui!». E si recarono da lui.",
+          "source": "Chāndogya Upaniṣad, V.11.2"
+        },
+        {
+          "id": "chandogya-5-11-3",
+          "original": "स ह सम्पादयांचकार प्रक्ष्यन्ति मामिमे महाशाला महाश्रोत्रियास्तेभ्यो न सर्वमिव प्रतिपत्स्ये हन्ताहमन्यमभ्यनुशासानीति ॥ ५.११.३ ॥",
+          "translation": "Uddālaka considerò tra sé: «Questi insigni capifamiglia e grandi conoscitori dei Veda mi interrogheranno, ma io non sarò in grado di spiegare loro ogni cosa compiutamente. Ebbene, indicherò loro un altro maestro».",
+          "source": "Chāndogya Upaniṣad, V.11.3"
+        },
+        {
+          "id": "chandogya-5-11-4",
+          "original": "तान्होवाचाश्वपतिर्वै भगवन्तोऽयं कैकेयः सम्प्रतीममात्मानं वैश्वानरमध्येति तं हन्ताभ्यागच्छामेति तं हाभ्याजग्मुः ॥ ५.११.४ ॥",
+          "translation": "Egli disse loro: «O venerabili signori, il re Aśvapati Kaikeya conosce e studia attualmente questo Sé universale. Ebbene, andiamo da lui!». E si recarono da lui.",
+          "source": "Chāndogya Upaniṣad, V.11.4"
+        },
+        {
+          "id": "chandogya-5-11-5",
+          "original": "तेभ्यो ह प्राप्तेभ्यः पृथगर्हाणि कारयांचकार स ह प्रातः संजिहान उवाच न मे स्तेनो जनपदे न कदर्यो न मद्यपो नानाहिताग्निर्नाविद्वान्न स्वैरी स्वैरिणी कुतो यक्ष्यमाणो वै भगवन्तोऽहमस्मि यावदेकैकस्मा ऋत्विजे धनं दास्यामि तावद्भगवद्भ्यो दास्यामि वसन्तु भगवन्त इति ॥ ५.११.५ ॥",
+          "translation": "Quando giunsero, il re fece allestire per ciascuno di loro onori separati. Il mattino seguente, alzatosi, disse loro: «Nel mio regno non vi è ladro, non vi è avaro, non vi è bevitore di liquori, non vi è alcuno che trascuri il fuoco sacrificale, né vi è alcun ignorante, né adultero né adultera. O venerabili signori, io sto per celebrare un sacrificio solenne: donerò a ciascuno di voi una ricchezza pari a quella che concederò a ogni officiante. Rimanete qui, o venerabili!».",
+          "source": "Chāndogya Upaniṣad, V.11.5"
+        },
+        {
+          "id": "chandogya-5-11-6",
+          "original": "ते होचुर्येन हैवार्थेन पुरुषश्चरेत्तꣳ हैव वदेदात्मानमेवेमं वैश्वानरं सम्प्रत्यध्येषि तमेव नो ब्रूहीति ॥ ५.११.६ ॥",
+          "translation": "Essi risposero: «Per quel preciso scopo per cui un uomo si mette in cammino, di quello soltanto deve parlare. Tu conosci e studi attualmente questo Sé universale: rivelalo a noi!».",
+          "source": "Chāndogya Upaniṣad, V.11.6"
+        },
+        {
+          "id": "chandogya-5-11-7",
+          "original": "तान्होवाच प्रातर्वः प्रतिवक्तास्मीति ते ह समित्पाणयः पूर्वाह्ने प्रतिचक्रमिरे तान्हानुपनीयैवैतदुवाच ॥ ५.११.७ ॥",
+          "translation": "Il re disse loro: «Domattina vi darò risposta». Il mattino seguente essi ritornarono recando la legna sacrificale nelle mani come discepoli. E il re, senza esigere riti preliminari d'iniziazione, parlò loro così:",
+          "source": "Chāndogya Upaniṣad, V.11.7"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.12",
+      "section_title": "L'Ātman come cielo luminoso (Sutejas): il capo",
+      "passages": [
+        {
+          "id": "chandogya-5-12-1",
+          "original": "औपमन्यव कं त्वमात्मानमुपास्स इति दिवमेव भगवो राजन्निति होवाचैष वै सुतेजा आत्मा वैश्वानरो यं त्वमात्मानमुपास्से तस्मात्तव सुतं प्रसुतमासुतं कुले दृश्यते ॥ ५.१२.१ ॥",
+          "translation": "Il re chiese: «O Aupamanyava, su quale forma dell'Ātman tu mediti?». «Sulla volta celeste, o venerabile re», rispose egli. Il re disse: «Questo Sé universale su cui tu mediti è invero Sutejas [il Radioso]. Per questo nella tua famiglia si vedono spremiture ordinarie, abbondanti e continue di Soma;",
+          "source": "Chāndogya Upaniṣad, V.12.1"
+        },
+        {
+          "id": "chandogya-5-12-2",
+          "original": "अत्स्यन्नं पश्यसि प्रियमत्त्यन्नं पश्यति प्रियं भवत्यस्य ब्रह्मवर्चसं कुले य एतमेवमात्मानं वैश्वानरमुपास्ते मूर्धा त्वेष आत्मन इति होवाच मूर्धा ते व्यपतिष्यद्यन्मां नागमिष्य इति ॥ ५.१२.२ ॥",
+          "translation": "e tu ti cibi del nutrimento e scorgi ciò che ti è caro. Consuma il cibo, scorge ciò che gli è caro e nella sua stirpe rifulge lo splendore di Brahman colui che medita in tal modo sul Sé universale. Tuttavia questo cielo non è che il capo del Sé: la tua testa sarebbe caduta se tu non fossi venuto da me!».",
+          "source": "Chāndogya Upaniṣad, V.12.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.13",
+      "section_title": "L'Ātman come sole multiforme (Viśvarūpa): l'occhio",
+      "passages": [
+        {
+          "id": "chandogya-5-13-1",
+          "original": "अथ होवाच सत्ययज्ञं पौलुषिं प्राचीनयोग्य कं त्वमात्मानमुपास्स इत्यादित्यमेव भगवो राजन्निति होवाचैष वै विश्वरूप आत्मा वैश्वानरो यं त्वमात्मानमुपास्से तस्मात्तव बहु विश्वरूपं कुले दृश्यते ॥ ५.१३.१ ॥",
+          "translation": "Poi disse a Satyayajña Pauluṣi: «O Prācīnayogya, su quale forma dell'Ātman tu mediti?». «Sul sole, o venerabile re», rispose. Il re disse: «Questo Sé universale su cui tu mediti è invero Viśvarūpa [l'Onniforme]. Perciò nella tua casa si scorgono molti beni multiformi:",
+          "source": "Chāndogya Upaniṣad, V.13.1"
+        },
+        {
+          "id": "chandogya-5-13-2",
+          "original": "प्रवृत्तोऽश्वतरीरथो दासी निष्कोऽत्स्यन्नं पश्यसि प्रियमत्त्यन्नं पश्यति प्रियं भवत्यस्य ब्रह्मवर्चसं कुले य एतमेवमात्मानं वैश्वानरमुपास्ते चक्षुष्ट्वेतदात्मन इति होवाचान्धोऽभविष्यो यन्मां नागमिष्य इति ॥ ५.१३.२ ॥",
+          "translation": "un carro tirato da mule, ancelle e collane d'oro. Tu ti cibi del nutrimento e scorgi ciò che ti è caro. Consuma il cibo e rifulge di splendore colui che medita in tal modo sul Sé universale. Tuttavia questo sole non è che l'occhio del Sé: saresti diventato cieco se tu non fossi venuto da me!».",
+          "source": "Chāndogya Upaniṣad, V.13.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.14",
+      "section_title": "L'Ātman come vento dai percorsi molteplici (Pṛthagvartman): il soffio vitale",
+      "passages": [
+        {
+          "id": "chandogya-5-14-1",
+          "original": "अथ होवाचेन्द्रद्युम्नं भाल्लवेयं वैयाघ्रपद्य कं त्वमात्मानमुपास्स इति वायुमेव भगवो राजन्निति होवाचैष वै पृथग्वर्त्मात्मा वैश्वानरो यं त्वमात्मानमुपास्से तस्मात्त्वां पृथग्बलय आयन्ति पृथग्रथश्रेणयोऽनुयन्ति ॥ ५.१४.१ ॥",
+          "translation": "Poi disse a Indradyumna Bhāllaveya: «O Vaiyāghrapadya, su quale forma dell'Ātman tu mediti?». «Sul vento, o venerabile re», rispose. Il re disse: «Questo Sé universale su cui tu mediti è invero Pṛthagvartman [Colui che ha sentieri molteplici]. Perciò a te giungono tributi da diverse vie e ti seguono schiere di carri;",
+          "source": "Chāndogya Upaniṣad, V.14.1"
+        },
+        {
+          "id": "chandogya-5-14-2",
+          "original": "अत्स्यन्नं पश्यसि प्रियमत्त्यन्नं पश्यति प्रियं भवत्यस्य ब्रह्मवर्चसं कुले य एतमेवमात्मानं वैश्वानरमुपास्ते प्राणस्त्वेव आत्मन इति होवाच प्राणस्त उदक्रमिष्यद्यन्मां नागमिष्य इति ॥ ५.१४.२ ॥",
+          "translation": "e tu ti cibi del nutrimento e scorgi ciò che ti è caro. Consuma il cibo e rifulge di splendore colui che medita in tal modo sul Sé universale. Tuttavia questo vento non è che il respiro del Sé: il tuo soffio vitale si sarebbe dipartito se tu non fossi venuto da me!».",
+          "source": "Chāndogya Upaniṣad, V.14.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.15",
+      "section_title": "L'Ātman come spazio vasto (Bahula): il corpo",
+      "passages": [
+        {
+          "id": "chandogya-5-15-1",
+          "original": "अथ होवाच जनꣳशार्कराक्ष्यं कं त्वमात्मानमुपास्स इत्याकाशमेव भगवो राजन्निति होवाचैष वै बहुल आत्मा वैश्वानरो यं त्वमात्मानमुपास्से तस्मात्त्वं बहुलोऽसि प्रजया च धनेन च ॥ ५.१५.१ ॥",
+          "translation": "Poi disse a Jana Śārkarākṣya: «Su quale forma dell'Ātman tu mediti?». «Sullo spazio [ākāśa], o venerabile re», rispose. Il re disse: «Questo Sé universale su cui tu mediti è invero Bahula [l'Immenso]. Perciò tu sei ricco e abbondante di prole e di beni;",
+          "source": "Chāndogya Upaniṣad, V.15.1"
+        },
+        {
+          "id": "chandogya-5-15-2",
+          "original": "अत्स्यन्नं पश्यसि प्रियमत्त्यन्नं पश्यति प्रियं भवत्यस्य ब्रह्मवर्चसं कुले य एतमेवमात्मानं वैश्वानरमुपास्ते सन्देहस्त्वेव आत्मन इति होवाच सन्देहस्ते व्यशीर्यद्यन्मां नागमिष्य इति ॥ ५.१५.२ ॥",
+          "translation": "e tu ti cibi del nutrimento e scorgi ciò che ti è caro. Consuma il cibo e rifulge di splendore colui che medita in tal modo sul Sé universale. Tuttavia questo spazio non è che il tronco del Sé: il tuo corpo si sarebbe decomposto se tu non fossi venuto da me!».",
+          "source": "Chāndogya Upaniṣad, V.15.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.16",
+      "section_title": "L'Ātman come ricchezza d'acque (Rayi): la vescica",
+      "passages": [
+        {
+          "id": "chandogya-5-16-1",
+          "original": "अथ होवाच बुडिलमाश्वतराश्विं वैयाघ्रपद्य कं त्वमात्मानमुपास्स इत्यप एव भगवो राजन्निति होवाचैष वै रयिरात्मा वैश्वानरो यं त्वमात्मानमुपास्से तस्मात्त्वꣳ रयिमान्पुष्टिमानसि ॥ ५.१६.१ ॥",
+          "translation": "Poi disse a Buḍila Āśvatarāśvi: «O Vaiyāghrapadya, su quale forma dell'Ātman tu mediti?». «Sulle acque, o venerabile re», rispose. Il re disse: «Questo Sé universale su cui tu mediti è invero Rayi [la Ricchezza]. Perciò tu sei provvisto di ricchezza e di vigore;",
+          "source": "Chāndogya Upaniṣad, V.16.1"
+        },
+        {
+          "id": "chandogya-5-16-2",
+          "original": "अत्स्यन्नं पश्यसि प्रियमत्त्यन्नं पश्यति प्रियं भवत्यस्य ब्रह्मवर्चसं कुले य एतमेवमात्मानं वैश्वानरमुपास्ते बस्तिस्त्वेष आत्मन इति होवाच बस्तिस्ते व्यभेत्स्यद्यन्मां नागमिष्य इति ॥ ५.१६.२ ॥",
+          "translation": "e tu ti cibi del nutrimento e scorgi ciò che ti è caro. Consuma il cibo e rifulge di splendore colui che medita in tal modo sul Sé universale. Tuttavia queste acque non sono che la vescica del Sé: la tua vescica si sarebbe lacerata se tu non fossi venuto da me!».",
+          "source": "Chāndogya Upaniṣad, V.16.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.17",
+      "section_title": "L'Ātman come terra di saldo sostegno (Pratiṣṭhā): i piedi",
+      "passages": [
+        {
+          "id": "chandogya-5-17-1",
+          "original": "अथ होवाचोद्दालकमारुणिं गौतम कं त्वमात्मानमुपास्स इति पृथिवीमेव भगवो राजन्निति होवाचैष वै प्रतिष्ठात्मा वैश्वानरो यं त्वमात्मानमुपास्से तस्मात्त्वं प्रतिष्ठितोऽसि प्रजया च पशुभिश्च ॥ ५.१७.१ ॥",
+          "translation": "Poi disse a Uddālaka Āruṇi: «O Gautama, su quale forma dell'Ātman tu mediti?». «Sulla terra, o venerabile re», rispose. Il re disse: «Questo Sé universale su cui tu mediti è invero Pratiṣṭhā [il Saldo Sostegno]. Perciò tu sei saldamente stabilito in prole e in bestiame;",
+          "source": "Chāndogya Upaniṣad, V.17.1"
+        },
+        {
+          "id": "chandogya-5-17-2",
+          "original": "अत्स्यन्नं पश्यसि प्रियमत्त्यन्नं पश्यति प्रियं भवत्यस्य ब्रह्मवर्चसं कुले य एतमेवमात्मानं वैश्वानरमुपास्ते पादौ त्वेतावात्मन इति होवाच पादौ ते व्यम्लास्येतां यन्मां नागमिष्य इति ॥ ५.१७.२ ॥",
+          "translation": "e tu ti cibi del nutrimento e scorgi ciò che ti è caro. Consuma il cibo e rifulge di splendore colui che medita in tal modo sul Sé universale. Tuttavia questa terra non è che i piedi del Sé: i tuoi piedi si sarebbero atrofizzati se tu non fossi venuto da me!».",
+          "source": "Chāndogya Upaniṣad, V.17.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.18",
+      "section_title": "L'Ātman Vaiśvānara cosmico indiviso (Prādeśamātra e Abhivimāna)",
+      "passages": [
+        {
+          "id": "chandogya-5-18-1",
+          "original": "तान्होवाचैते वै खलु यूयं पृथगिवेममात्मानं वैश्वानरं विद्वांसोऽन्नमत्थ यस्त्वेतमेवं प्रादेशमात्रमभिविमानमात्मानं वैश्वानरमुपास्ते स सर्वेषु लोकेषु सर्वेषु भूतेषु सर्वेष्वात्मस्वन्नमत्ति ॥ ५.१८.१ ॥",
+          "translation": "Il re disse loro: «Voi tutti vi cibate del nutrimento conoscendo questo Sé universale come se fosse frammentato in parti separate. Ma colui che medita su questo Ātman Vaiśvānara come esteso dal cielo alla terra [prādeśamātra] e identico al Sé infinito [abhivimāna], costui consuma il cibo in tutti i mondi, in tutte le creature e in tutti i sé.",
+          "source": "Chāndogya Upaniṣad, V.18.1"
+        },
+        {
+          "id": "chandogya-5-18-2",
+          "original": "तस्य ह वा एतस्यात्मनो वैश्वानरस्य मूर्धैव सुतेजाश्चक्षुर्विश्वरूपः प्राणः पृथग्वर्त्मात्मा सन्देहो बहुलो बस्तिरेव रयिः पृथिव्येव पादावुर एव वेदिर्लोमानि बर्हिर्हृदयं गार्हपत्यो मनोऽन्वाहार्यपचन आस्यमाहवनीयः ॥ ५.१८.२ ॥",
+          "translation": "Di questo medesimo Ātman Vaiśvānara il cielo radioso è il capo; il sole multiforme è l'occhio; il vento dai molti percorsi è il soffio vitale; lo spazio immenso è il tronco; le acque sono la vescica; la terra sono i piedi. Il suo petto è l'altare sacrificale; i suoi peli sono l'erba sacra; il suo cuore è il fuoco Gārhapatya; la sua mente è il fuoco Anvāhāryapacana; la sua bocca è il fuoco Āhavanīya».",
+          "source": "Chāndogya Upaniṣad, V.18.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.19",
+      "section_title": "L'offerta interiore a Prāṇa",
+      "passages": [
+        {
+          "id": "chandogya-5-19-1",
+          "original": "तद्यद्भक्तं प्रथममागच्छेत्तद्धोमीयꣳ स यां प्रथमामाहुतिं जुहुयात्तां जुहुयात्प्राणाय स्वाहेति प्राणस्तृप्यति ॥ ५.१९.१ ॥",
+          "translation": "Perciò, il primo boccone di cibo che giunge deve fungere da oblazione. Quella prima oblazione che egli offre, la offra dicendo: «Svāhā al Prāṇa!»: così il Prāṇa si appaga.",
+          "source": "Chāndogya Upaniṣad, V.19.1"
+        },
+        {
+          "id": "chandogya-5-19-2",
+          "original": "प्राणे तृप्यति चक्षुस्तृप्यति चक्षुषि तृप्यत्यादित्यस्तृप्यत्यादित्ये तृप्यति द्यौस्तृप्यति दिवि तृप्यन्त्यां यत्किंच द्यौश्चादित्यश्चाधितिष्ठतस्तत्तृप्यति तस्यानुतृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेनेति ॥ ५.१९.२ ॥",
+          "translation": "Appagandosi il Prāṇa, si appaga la vista; appagandosi la vista, si appaga il sole; appagandosi il sole, si appaga il cielo; appagandosi il cielo, si appaga tutto ciò su cui il cielo e il sole dominano; e all'appagarsi di quello, egli stesso si appaga di prole, bestiame, nutrimento, splendore e gloria spirituale.",
+          "source": "Chāndogya Upaniṣad, V.19.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.20",
+      "section_title": "L'offerta interiore a Vyāna",
+      "passages": [
+        {
+          "id": "chandogya-5-20-1",
+          "original": "अथ यां द्वितीयां जुहुयात्तां जुहुयाद्व्यानाय स्वाहेति व्यानस्तृप्यति ॥ ५.२०.१ ॥",
+          "translation": "La seconda oblazione che egli offre, la offra dicendo: «Svāhā al Vyāna!»: così il Vyāna si appaga.",
+          "source": "Chāndogya Upaniṣad, V.20.1"
+        },
+        {
+          "id": "chandogya-5-20-2",
+          "original": "व्याने तृप्यति श्रोत्रं तृप्यति श्रोत्रे तृप्यति चन्द्रमास्तृप्यति चन्द्रमसि तृप्यति दिशस्तृप्यन्ति दिक्षु तृप्यन्तीषु यत्किंच दिशश्च चन्द्रमाश्चाधितिष्ठन्ति तत्तृप्यति तस्यानुतृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेनेति ॥ ५.२०.२ ॥",
+          "translation": "Appagandosi il Vyāna, si appaga l'udito; appagandosi l'udito, si appaga la luna; appagandosi la luna, si appagano i punti cardinali; appagandosi i punti cardinali, si appaga tutto ciò su cui le direzioni e la luna dominano; e a quell'appagarsi, egli stesso si appaga di prole, bestiame, nutrimento, splendore e gloria spirituale.",
+          "source": "Chāndogya Upaniṣad, V.20.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.21",
+      "section_title": "L'offerta interiore ad Apāna",
+      "passages": [
+        {
+          "id": "chandogya-5-21-1",
+          "original": "अथ यां तृतीयां जुहुयात्तां जुहुयादपानाय स्वाहेत्यपानस्तृप्यति ॥ ५.२१.१ ॥",
+          "translation": "La terza oblazione che egli offre, la offra dicendo: «Svāhā all'Apāna!»: così l'Apāna si appaga.",
+          "source": "Chāndogya Upaniṣad, V.21.1"
+        },
+        {
+          "id": "chandogya-5-21-2",
+          "original": "अपाने तृप्यति वाक्तृप्यति वाचि तृप्यन्त्यामग्निस्तृप्यत्यग्नौ तृप्यति पृथिवी तृप्यति पृथिव्यां तृप्यन्त्यां यत्किंच पृथिवी चाग्निश्चाधितिष्ठतस्तत्तृप्यति तस्यानुतृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेनेति ॥ ५.२१.२ ॥",
+          "translation": "Appagandosi l'Apāna, si appaga la parola; appagandosi la parola, si appaga il fuoco; appagandosi il fuoco, si appaga la terra; appagandosi la terra, si appaga tutto ciò su cui la terra e il fuoco dominano; e a quell'appagarsi, egli stesso si appaga di prole, bestiame, nutrimento, splendore e gloria spirituale.",
+          "source": "Chāndogya Upaniṣad, V.21.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.22",
+      "section_title": "L'offerta interiore a Samāna",
+      "passages": [
+        {
+          "id": "chandogya-5-22-1",
+          "original": "अथ यां चतुर्थीं जुहुयात्तां जुहुयात्समानाय स्वाहेति समानस्तृप्यति ॥ ५.२२.१ ॥",
+          "translation": "La quarta oblazione che egli offre, la offra dicendo: «Svāhā al Samāna!»: così il Samāna si appaga.",
+          "source": "Chāndogya Upaniṣad, V.22.1"
+        },
+        {
+          "id": "chandogya-5-22-2",
+          "original": "समाने तृप्यति मनस्तृप्यति मनसि तृप्यति पर्जन्यस्तृप्यति पर्जन्ये तृप्यति विद्युत्तृप्यति Vidyuti tṛpyantyāṁ yatkiñca vidyuc ca parjanyaś cādhitiṣṭhatas tat tṛpyati tasyānu tṛptiṁ tṛpyati prajayā paśubhir annādyena tejasā brahmavarcaseneti ॥ ५.२२.२ ॥",
+          "translation": "Appagandosi il Samāna, si appaga la mente; appagandosi la mente, si appaga la pioggia; appagandosi la pioggia, si appaga la folgore; appagandosi la folgore, si appaga tutto ciò su cui la folgore e la pioggia dominano; e a quell'appagarsi, egli stesso si appaga di prole, bestiame, nutrimento, splendore e gloria spirituale.",
+          "source": "Chāndogya Upaniṣad, V.22.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.23",
+      "section_title": "L'offerta interiore a Udāna",
+      "passages": [
+        {
+          "id": "chandogya-5-23-1",
+          "original": "अथ यां पञ्चमीं जुहुयात्तां जुहुयादुदानाय स्वाहेत्युदानस्तृप्यति ॥ ५.२३.१ ॥",
+          "translation": "La quinta oblazione che egli offre, la offra dicendo: «Svāhā all'Udāna!»: così l'Udāna si appaga.",
+          "source": "Chāndogya Upaniṣad, V.23.1"
+        },
+        {
+          "id": "chandogya-5-23-2",
+          "original": "उदाने तृप्यति त्वक्तृप्यति त्वचि तृप्यन्त्यां वायुस्तृप्यति वायौ तृप्यत्याकाशस्तृप्यत्याकाशे तृप्यति yatkiñca vāyuś cākāśaś cādhitiṣṭhatas tat tṛpyati tasyānu tṛptiṁ tṛpyati prajayā paśubhir annādyena tejasā brahmavarcaseneti ॥ ५.२३.२ ॥",
+          "translation": "Appagandosi l'Udāna, si appaga il tatto e la pelle; appagandosi la pelle, si appaga il vento; appagandosi il vento, si appaga lo spazio; appagandosi lo spazio, si appaga tutto ciò su cui il vento e lo spazio dominano; e all'appagarsi di quello, egli stesso si appaga di prole, bestiame, nutrimento, splendore e gloria spirituale.",
+          "source": "Chāndogya Upaniṣad, V.23.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "5.24",
+      "section_title": "L'Agnihotra universale: il consumo dei peccati e il nutrimento di tutti gli esseri",
+      "passages": [
+        {
+          "id": "chandogya-5-24-1",
+          "original": "स य इदमविद्वानग्निहोत्रं जुहोति यथाङ्गारानपोह्य भस्मनि जुहुयात्तादृक्तत्स्यात् ॥ ५.२४.१ ॥",
+          "translation": "Colui che celebra l'Agnihotra esteriore senza conoscere questa verità è simile a colui che, allontanando i carboni ardenti, versa la propria oblazione sulla cenere fredda.",
+          "source": "Chāndogya Upaniṣad, V.24.1"
+        },
+        {
+          "id": "chandogya-5-24-2",
+          "original": "अथ य एतदेवं विद्वानग्निहोत्रं जुहोति तस्य सर्वेषु लोकेषु सर्वेषु भूतेषु सर्वेष्वात्मसु हुतं भवति ॥ ५.२४.२ ॥",
+          "translation": "Ma colui che celebra l'Agnihotra conoscendo questa verità, compie la propria oblazione in tutti i mondi, in tutte le creature e in tutti i sé.",
+          "source": "Chāndogya Upaniṣad, V.24.2"
+        },
+        {
+          "id": "chandogya-5-24-3",
+          "original": "तद्यथेषीकातूलमग्नौ प्रोतं प्रदूयेतैवं हास्य सर्वे पाप्मानः प्रदूयन्ते य एतदेवं विद्वानग्निहोत्रं जुहोति ॥ ५.२४.३ ॥",
+          "translation": "Proprio come il soffice piumino di una canna [iṣīkātūlam] gettato nel fuoco viene interamente e istantaneamente consumato, allo stesso modo tutti i peccati di costui vengono interamente bruciati, per colui che celebra l'Agnihotra possedendo tale conoscenza.",
+          "source": "Chāndogya Upaniṣad, V.24.3"
+        },
+        {
+          "id": "chandogya-5-24-4",
+          "original": "तस्मादु हैवंविद्यद्यपि चाण्डालायोच्छिष्टं प्रयच्छेदात्मनि हैवास्य तद्वैश्वानरे हुतꣳ स्यादिति तदेष श्लोकः । यथेह क्षुधिता बाला मातरं पर्युपासते । एवं सर्वाणि भूतान्यग्निहोत्रमुपासत इत्यग्निहोत्रमुपासत इति ॥ ५.२४.४ ॥",
+          "translation": "Per questo motivo, se un tale conoscitore donasse persino a un caṇḍāla [reietto] il residuo del proprio cibo, ciò varrebbe come un'oblazione offerta al Sé universale [Ātman Vaiśvānara]. A questo proposito vi è questo verso: «Come in questo mondo i fanciulli affamati si stringono attorno alla madre, così tutte le creature attendono l'Agnihotra interiore, sì, attendono l'Agnihotra».",
+          "source": "Chāndogya Upaniṣad, V.24.4"
+        }
+      ]
+    }
+  ]
+}

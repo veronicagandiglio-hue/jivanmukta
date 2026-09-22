@@ -1,0 +1,20 @@
+{
+  "id": "chandogya-santipatha",
+  "work_id": "chandogya-upanisad",
+  "unit_locus": "0",
+  "unit_title": "Invocazione iniziale di pace",
+  "sections": [
+    {
+      "section_locus": "0.1",
+      "section_title": "Śāntipāṭha del Sāmaveda",
+      "passages": [
+        {
+          "id": "chandogya-santi-1",
+          "original": "ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि । सर्वं ब्रह्मौपनिषदं माहं ब्रह्म निराकुर्यां मा मा ब्रह्म निराकरोदनिराकरणमस्त्वनिराकरणं मेऽस्तु । तदात्मनि निरते य उपनिषत्सु धर्मास्ते मyि सन्तु ते मयि सन्तु ॥ ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+          "translation": "Possano le mie membra rinvigorirsi, assieme alla parola, al respiro vitale, alla vista, all'udito, alla forza e a tutte le facoltà sensoriali. Tutto è il Brahman rivelato nelle Upaniṣad. Possa io non rinnegare mai Brahman, possa Brahman non abbandonare mai me. Non vi sia rifiuto, non vi sia allontanamento alcuno da parte mia. Tutte le virtù interiori celebrate nelle Upaniṣad dimorino in me che sono dedito al Sé, dimorino in me! Oṃ, pace, pace, pace!",
+          "source": "Chāndogya Upaniṣad, Śāntipāṭha"
+        }
+      ]
+    }
+  ]
+}

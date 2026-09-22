@@ -1,0 +1,230 @@
+{
+  "id": "chandogya-adhyaya-8-parte-2",
+  "work_id": "chandogya-upanisad",
+  "unit_locus": "8",
+  "unit_title": "Ottavo Adhyāya (Seconda Parte)",
+  "sections": [
+    {
+      "section_locus": "8.7",
+      "section_title": "L'annuncio di Prajāpati e la venuta di Indra e Virocana",
+      "passages": [
+        {
+          "id": "chandogya-8-7-1",
+          "original": "य आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामः सत्यसंकल्पः सोऽन्वेष्टव्यः स विजिज्ञासितव्यः स सर्वांश्च लोकानाप्नोति सर्वांश्च कामान्यस्तमात्मानमनुविद्य विजानातीति ह प्रजापतिरुवाच ॥ ८.७.१ ॥",
+          "translation": "«L'Ātman è immune dal male, libero da vecchiaia, libero da morte, libero da dolore, libero da fame e da sete; i Suoi desideri sono conformi al Vero [satyakāmaḥ], la Sua volontà è infallibile [satyasaṅkalpaḥ]: Egli deve essere cercato, Egli deve essere conosciuto. Ottiene tutti i mondi e l'adempimento di tutti i desideri colui che, avendo cercato questo Sé, Lo conosce pienamente». Così proclamò Prajāpati.",
+          "source": "Chāndogya Upaniṣad, VIII.7.1"
+        },
+        {
+          "id": "chandogya-8-7-2",
+          "original": "तद्धोभये देवासुरा अनुबुबुधिरे ते होचुर्हन्त तमात्मानमन्विच्छामो यमात्मानमन्विष्य सर्वांश्च लोकानाप्नोति सर्वांश्च कामानितीन्द्रो हाइव देवानामभिप्रवव्राज विरोचनोऽसुराणां तौ हासंविदानावेव समित्पाणी प्रजापतिसकाशमाजग्मतुः ॥ ८.७.२ ॥",
+          "translation": "Sia gli dèi [Deva] sia i dèmoni [Asura] appresero questa parola. Dissero: «Ebbene, cerchiamo quell'Ātman, cercando il quale si ottengono tutti i mondi e tutti i desideri!». Allora Indra tra gli dèi e Virocana tra gli Asura partirono; e senza essersi accordati tra loro, si presentarono entrambi al cospetto di Prajāpati recando la legna sacrificale nelle mani.",
+          "source": "Chāndogya Upaniṣad, VIII.7.2"
+        },
+        {
+          "id": "chandogya-8-7-3",
+          "original": "तौ ह द्वात्रिंशतं वर्षाणि ब्रह्मचर्यमूषतुस्तौ ह प्रजापतिरुवाच किमिच्छन्तावास्तमिति तौ होचतुर्य आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामः सत्यसंकल्पः सोऽन्वेष्टव्यः स विजिज्ञासितव्यः स सर्वांश्च लोकानाप्नोति सर्वांश्च कामान्यस्तमात्मानमनुविद्य विजानातीति भगवतो वचो वेदयन्ते तमिच्छन्तावास्वा इति ॥ ८.७.३ ॥",
+          "translation": "Essi vissero là per trentadue anni praticando il Brahmacarya. Prajāpati chiese loro: «Desiderando che cosa avete dimorato qui?». Essi risposero: «\"L'Ātman è immune dal male, libero da vecchiaia, libero da morte, libero da dolore, libero da fame e da sete, i Suoi desideri sono conformi al Vero, la Sua volontà è infallibile: Egli deve essere cercato e conosciuto; ottiene tutti i mondi e tutti i desideri chi Lo conosce\". Questa parola della venerabile signoria tua è stata riferita: desiderando questo Sé noi abbiamo dimorato qui».",
+          "source": "Chāndogya Upaniṣad, VIII.7.3"
+        },
+        {
+          "id": "chandogya-8-7-4",
+          "original": "तौ ह प्रजापतिरुवाच य एषोऽक्षिणि पुरुषो दृश्यत एष आत्मेति होवाचैतदमृतमभयमेतद्ब्रह्मेत्यथ योऽयं भगवोऽप्सु परिख्यायते यश्चायमादर्शे कतम एष इत्येष उ एवैषु सर्वेष्वन्तेषु परिख्यायत इति होवाच ॥ ८.७.४ ॥",
+          "translation": "Prajāpati disse loro: «Colui che è visto dentro l'occhio è l'Ātman: Egli è l'Immortale, il Privo di paura; Egli è Brahman». Essi chiesero: «Venerabile signore, colui che è scorto riflesso nell'acqua e colui che è scorto nello specchio, quale dei due è costui?». Prajāpati rispose: «Proprio costui è scorto riflesso in tutti questi supporti».",
+          "source": "Chāndogya Upaniṣad, VIII.7.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.8",
+      "section_title": "La falsa dottrina del corpo come Sé e l'appagamento di Virocana",
+      "passages": [
+        {
+          "id": "chandogya-8-8-1",
+          "original": "उदशरावे आत्मानमवेक्ष्य यदात्मनो न विजानीथस्तन्मे प्रब्रूतमिति तौ होदशरावेऽवेक्षांचक्राते तौ ह प्रजापतिरुवाच किं पश्यथ इति तौ होचतुः सर्वमेवेदमावां भगव आत्मानं पश्याव आ लोमभ्य आ नखेभ्यः प्रतिरूपमिति ॥ ८.८.१ ॥",
+          "translation": "Prajāpati disse: «Guardatevi in una coppa d'acqua, e ditemi ciò che dell'Ātman non riuscite a comprendere». Essi guardarono nella coppa d'acqua. Prajāpati chiese: «Che cosa vedete?». Essi risposero: «O signore, vediamo l'intero nostro sé, un riflesso esatto fino ai peli del corpo e fino alle unghie».",
+          "source": "Chāndogya Upaniṣad, VIII.8.1"
+        },
+        {
+          "id": "chandogya-8-8-2",
+          "original": "तौ ह प्रजापतिरुवाच साध्वलंकृतौ सुवसनौ परिष्कृतौ भूत्वोदशरावेऽवेक्षेथामिति तौ ह साध्वलंकृतौ सुवसनौ परिष्कृतौ भूत्वोदशरावेऽवेक्षांचक्राते तौ ह प्रजापतिरुवाच किं पश्यथ इति ॥ ८.८.२ ॥",
+          "translation": "Prajāpati disse loro: «Adornatevi con cura, indossate le vostre vesti migliori, rendetevi eleganti e poi guardate di nuovo nella coppa d'acqua». Essi si adornarono, vestirono con cura, si resero eleganti e guardarono nella coppa d'acqua. Prajāpati chiese loro: «Che cosa vedete?».",
+          "source": "Chāndogya Upaniṣad, VIII.8.2"
+        },
+        {
+          "id": "chandogya-8-8-3",
+          "original": "तौ होचतुर्यथैव आवां भगवन्ते साध्वलंकृतौ सुवसनौ परिष्कृतौ स्व एवमेवेमौ भगवन्तः साध्वलंकृतौ सुवसनौ परिष्कृतावित्येष आत्मेति होवाचैतदमृतमभयमेतद्ब्रह्मेति तौ ह शान्तहृदयौ प्रवव्रजतुः ॥ ८.८.३ ॥",
+          "translation": "Essi risposero: «Proprio come noi due siamo qui ben adornati, ben vestiti ed eleganti, o signore, allo stesso modo queste due figure riflesse sono ben adornate, ben vestite ed eleganti». Prajāpati disse: «Questo è l'Ātman, questo è l'Immortale, il Privo di paura: questo è Brahman». Essi si allontanarono con il cuore appagato.",
+          "source": "Chāndogya Upaniṣad, VIII.8.3"
+        },
+        {
+          "id": "chandogya-8-8-4",
+          "original": "तौ ह संप्रेक्ष्य प्रजापतिरुवाचानुपलभ्यात्मानमननुविद्य व्रजतो यतर एतदुपनिषदो भविष्यन्ति देवा वाऽसुरा वा ते पराभविष्यन्तीति स ह शान्तहृदय एव विरोचनोऽसुराञ्जगाम तेभ्यो हैतामुपनिषदं प्रोवाचात्मैवेह महय्य आत्मा परिचर्य आत्मानमेवेह महयन्नात्मानं परिचरन्नुभौ लोकाववाप्नोतीमं चामुं चेति ॥ ८.८.४ ॥",
+          "translation": "Prajāpati, osservandoli mentre si allontanavano, disse: «Costoro se ne vanno senza aver compreso e senza aver trovato il vero Sé. Coloro che seguiranno questa dottrina segreta [upaniṣad], siano essi dèi o dèmoni, andranno in rovina». Virocana, con il cuore del tutto appagato, ritornò tra gli Asura ed espose loro questa dottrina: «Il corpo soltanto [il sé fisico] deve essere glorificato quaggiù, il corpo deve essere servito! Glorificando il corpo e servendo il corpo in questo mondo, si ottengono entrambi i mondi, questo e l'ultraterreno!».",
+          "source": "Chāndogya Upaniṣad, VIII.8.4"
+        },
+        {
+          "id": "chandogya-8-8-5",
+          "original": "तस्मादप्यद्येहाददानमश्रद्दधानमयजमानमाहुरासुरो बतेत्यसुराणां ह्येषोपनिषत्प्रेतस्य शरीरं भिक्षया वसनेनालंकारेणेति सस्कुर्वन्त्येतेन ह्यमुं लोकं जेष्यन्तो मन्यन्ते ॥ ८.८.५ ॥",
+          "translation": "Per questo motivo ancora oggi nel mondo, di colui che non dona, che è privo di fede e che non celebra sacrifici, si dice: «Ahimè, costui è un Asura!», poiché tale è la dottrina degli Asura. Essi ornano il cadavere di un defunto con profumi, vesti e monili, credendo che con ciò conquisteranno il mondo ultraterreno.",
+          "source": "Chāndogya Upaniṣad, VIII.8.5"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.9",
+      "section_title": "Il dubbio di Indra sul corpo e il ritorno da Prajāpati",
+      "passages": [
+        {
+          "id": "chandogya-8-9-1",
+          "original": "अथ हेन्द्रोऽप्राप्यैव देवानेतद्भयं ददर्श यथैव खल्वयमस्मिञ्छरीरे साध्वलंकृते साध्वलंकृतो भवति सुवसने सुवसनः परिष्कृते परिष्कृत एवमेवायमस्मिन्नन्धेऽन्धो भवति स्रामे स्रामः परिवृक्णे परिवृक्णोऽस्यैव शरीरस्य नाशमन्वेष नश्यति नाहमत्र भोग्यं पश्यामीति ॥ ८.९.१ ॥",
+          "translation": "Ma Indra, prima ancora di raggiungere gli dèi, scorse questo pericolo: «Proprio come questo riflesso diviene ben adornato quando il corpo è ben adornato, ben vestito quando il corpo è ben vestito, elegante quando il corpo è elegante; allo stesso modo esso diviene cieco se il corpo è cieco, zoppo se il corpo è zoppo, mutilato se il corpo è mutilato; e alla dissoluzione di questo corpo, esso perisce assieme a esso. Non scorgo in questo alcuna utilità salvifica!».",
+          "source": "Chāndogya Upaniṣad, VIII.9.1"
+        },
+        {
+          "id": "chandogya-8-9-2",
+          "original": "स समित्पाणिः पुनरेजाय तं ह प्रजापतिरुवाच मघवन्यच्छान्तहृदयः प्राव्राजीः सार्धं विरोचनेन किमिच्छन्पुनरागा इति स होवाच यथैव खल्वयं भगवोऽस्मिञ्छरीरे साध्वलंकृते साध्वलंकृतो भवति सुवसने सुवसनः परिष्कृते परिष्कृत एवमेवायमस्मिन्नन्धेऽन्धो भवति स्रामे स्रामः परिवृक्णे परिवृक्णोऽस्यैव शरीरस्य नाशमन्वेष नश्यति नाहमत्र भोग्यं पश्यामीति ॥ ८.९.२ ॥",
+          "translation": "Egli ritornò con la legna sacrificale nelle mani. Prajāpati gli disse: «O Maghavan [Indra], poiché te ne eri andato con il cuore appagato insieme a Virocana, desiderando che cosa sei ritornato?». Egli rispose: «Venerabile signore, se il corpo è ben adornato, anche il riflesso è ben adornato; ma se il corpo è cieco, zoppo o perisce, anche questo riflesso perisce con esso. Io non scorgo in ciò alcuna vera realtà!».",
+          "source": "Chāndogya Upaniṣad, VIII.9.2"
+        },
+        {
+          "id": "chandogya-8-9-3",
+          "original": "एवमेवैष मघवन्निति होवाचैतं त्वेव ते भूयोऽनुव्याख्यास्यामि वसापराणि द्वात्रिंशतं वर्षाणीति स हापराणि द्वात्रिंशतं वर्षाण्युवास तस्मै होवाच ॥ ८.९.३ ॥",
+          "translation": "Prajāpati disse: «È proprio così, o Maghavan. Tuttavia te Lo spiegherò ulteriormente: risiedi qui per altri trentadue anni». Egli visse là come discepolo per altri trentadue anni; e quindi Prajāpati gli parlò così:",
+          "source": "Chāndogya Upaniṣad, VIII.9.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.10",
+      "section_title": "La seconda istruzione: il Sé nello stato di sogno e il limite del dolore",
+      "passages": [
+        {
+          "id": "chandogya-8-10-1",
+          "original": "य एष स्वप्ने महीयमानश्चरत्येष आत्मेति होवाचैतदमृतमभयमेतद्ब्रह्मेति स ह शान्तहृदयः प्रवव्राज स हाप्राप्यैव देवानेतद्भयं ददर्श तद्यद्यपीदं शरीरमन्धं भवत्यनन्धः स भवति यदि स्राममस्रामो नैवैषोऽस्य दोषेण दुष्यति ॥ ८.१०.१ ॥",
+          "translation": "«Colui che si muove glorioso nello stato di sogno [svapna], questo è l'Ātman», disse Prajāpati; «questo è l'Immortale, il Privo di paura: questo è Brahman». Indra si allontanò con il cuore appagato; ma prima ancora di raggiungere gli dèi scorse questo pericolo: «È vero che anche se questo corpo fisico è cieco, il soggetto del sogno non è cieco; se il corpo è zoppo, quegli non è zoppo; non è intaccato dai difetti del corpo;",
+          "source": "Chāndogya Upaniṣad, VIII.10.1"
+        },
+        {
+          "id": "chandogya-8-10-2",
+          "original": "न वधेनास्य हन्यते नास्य स्राम्येण स्रामो घ्नन्ति त्वेवैनं विच्छादयन्तीवाप्रियेव भवत्यपि रोदीतीव नाहमत्र भोग्यं पश्यामीति ॥ ८.१०.२ ॥",
+          "translation": "non viene ucciso quando il corpo viene ucciso, né diviene zoppo per la zoppia del corpo; e tuttavia in sogno sembra che venga colpito, sembra che venga inseguito, sperimenta cose spiacevoli e perfino piange! Non scorgo in questo alcuna utilità salvifica!».",
+          "source": "Chāndogya Upaniṣad, VIII.10.2"
+        },
+        {
+          "id": "chandogya-8-10-3",
+          "original": "स समित्पाणिः पुनरेजाय तं ह प्रजापतिरुवाच मघवन्यच्छान्तहृदयः प्राव्राजीः किमिच्छन्पुनरागा इति स होवाच तद्यद्यपीदं भगवः शरीरमन्धं भवत्यनन्धः स भवति यदि स्राममस्रामो नैवैषोऽस्य दोषेण दुष्यति ॥ ८.१०.३ ॥",
+          "translation": "Egli ritornò con la legna sacrificale nelle mani. Prajāpati gli disse: «O Maghavan, poiché te ne eri andato con il cuore appagato, desiderando che cosa sei ritornato?». Indra rispose: «È vero, o signore, che il soggetto del sogno non perisce con le menomazioni fisiche del corpo;",
+          "source": "Chāndogya Upaniṣad, VIII.10.3"
+        },
+        {
+          "id": "chandogya-8-10-4",
+          "original": "न वधेनास्य हन्यते नास्य स्राम्येण स्रामो घ्नन्ति त्वेवैनं विच्छादयन्तीवाप्रियेव भवत्यपि रोदीतीव नाहमत्र भोग्यं पश्यामीत्येवमेवैष मघवन्निति होवाचैतं त्वेव ते भूयोऽनुव्याख्यास्यामि वसापराणि द्वात्रिंशतं वर्षाणीति स हापराणि द्वात्रिंशतं वर्षाण्युवास तस्मै होवाच ॥ ८.१०.४ ॥",
+          "translation": "eppure sembra che venga percosso, sembra che fugga perseguitato, patisce il dolore e piange. Io non scorgo in ciò alcuna vera realtà!». Prajāpati disse: «È proprio così, o Maghavan. Tuttavia te Lo spiegherò ulteriormente: risiedi qui per altri trentadue anni». Egli visse là come discepolo per altri trentadue anni; e quindi Prajāpati gli parlò così:",
+          "source": "Chāndogya Upaniṣad, VIII.10.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.11",
+      "section_title": "La terza istruzione: il sonno profondo e l'illusione dell'annichilimento",
+      "passages": [
+        {
+          "id": "chandogya-8-11-1",
+          "original": "तद्यत्रैतत्सुप्तः समस्तः संप्रसन्नः स्वप्नं न विजानात्येष आत्मेति होवाचैतदमृतमभयमेतद्ब्रह्मेति स ह शान्तहृदयः प्रवव्राज स हाप्राप्यैव देवानेतद्भयं ददर्श नाह खल्वयमेव संप्रत्यात्मानं जानात्ययमहमस्मीति नो एवेमानि भूतानि विनाशमेवापीतो भवति नाहमत्र भोग्यं पश्यामीति ॥ ८.११.१ ॥",
+          "translation": "«Quando l'uomo riposa nel sonno profondo [suṣupti], interamente raccolto e sereno, senza scorgere alcun sogno: questo è l'Ātman», disse Prajāpati; «questo è l'Immortale, il Privo di paura: questo è Brahman». Indra si allontanò con il cuore appagato; ma prima ancora di raggiungere gli dèi scorse questo pericolo: «Invero, in quello stato egli non riconosce se stesso dicendo: \"Questo sono io!\", né riconosce queste creature. È giunto come a un totale annientamento [vināśam evāpīto bhavati]! Non scorgo in questo alcuna utilità salvifica!».",
+          "source": "Chāndogya Upaniṣad, VIII.11.1"
+        },
+        {
+          "id": "chandogya-8-11-2",
+          "original": "स समित्पाणिः पुनरेजाय तं ह प्रजापतिरुवाच मघवन्यच्छान्तहृदयः प्राव्राजीः किमिच्छन्पुनरागा इति स होवाच नाह खल्वयं भगव एवं संप्रत्यात्मानं जानात्ययमहमस्मीति नो एवेमानि भूतानि विनाशमेवापीतो भवति नाहमत्र भोग्यं पश्यामीति ॥ ८.११.२ ॥",
+          "translation": "Egli ritornò con la legna sacrificale nelle mani. Prajāpati gli disse: «O Maghavan, poiché te ne eri andato con il cuore appagato, desiderando che cosa sei ritornato?». Indra rispose: «Invero, venerabile signore, colà nel sonno profondo non si sa più \"Io sono questo\", né si riconosce alcun essere: si è come dissolti nel nulla! Non scorgo in ciò alcuna vera realtà!».",
+          "source": "Chāndogya Upaniṣad, VIII.11.2"
+        },
+        {
+          "id": "chandogya-8-11-3",
+          "original": "एवमेवैष मघवन्निति होवाचैतं त्वेव ते भूयोऽनुव्याख्यास्यामि नो एवान्यत्रैतस्माद्वसापराणि पञ्च वर्षाणीति स हापराणि पञ्च वर्षाण्युवास तान्येकशतं संपेदुरेतत्तद्यदाहुरेकशतं ह वै वर्षाणि मघवान्प्रजापतौ ब्रह्मचर्यमुवास तस्मै होवाच ॥ ८.११.३ ॥",
+          "translation": "Prajāpati disse: «È proprio così, o Maghavan. Tuttavia te Lo spiegherò ulteriormente, e non vi è altra verità all'infuori di questa. Risiedi qui ancora per cinque anni». Egli visse là come discepolo per altri cinque anni: e così si compirono centouno anni di discepolato. È a questo proposito che si dice: «Per centouno anni invero Indra visse come studente sacro presso Prajāpati». Quindi Prajāpati gli parlò così:",
+          "source": "Chāndogya Upaniṣad, VIII.11.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.12",
+      "section_title": "La rivelazione finale: l'Ātman incorporeo (Aśarīra), la Suprema Luce e il Testimone",
+      "passages": [
+        {
+          "id": "chandogya-8-12-1",
+          "original": "मघवन्मर्त्यं वा इदꣳ शरीरमात्तं मृत्युना तदस्यामृतस्याशरीरस्यात्मनोऽधिष्ठानमात्तो वै सशरीरः प्रियाप्रियाभ्यां न वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्त्यशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः ॥ ८.१२.१ ॥",
+          "translation": "«O Maghavan, mortale è invero questo corpo fisico, ghermito dalla morte; eppure esso è la dimora terrena di questo Ātman immortale e incorporeo [aśarīrasyātmanaḥ]. L'uomo, finché si identifica con il corpo, è in balia del piacere e del dolore [priyāpriyābhyām]; finché si è identificati con il corpo non vi è scampo alcuno dal piacere e dal dolore. Ma quando si dimora come Incorporeo [aśarīra], né il piacere né il dolore possono più sfiorare l'essere!",
+          "source": "Chāndogya Upaniṣad, VIII.12.1"
+        },
+        {
+          "id": "chandogya-8-12-2",
+          "original": "अशरीरो वायुरभ्रं विद्युत्स्तनयित्नुरशरीराण्येतानि तद्यथैतान्यमुष्मादाकाशात्समुत्थाय परं ज्योतिरुपसंपद्य स्वेन रूपेणाभिनिष्पद्यन्ते ॥ ८.१२.२ ॥",
+          "translation": "Incorporeo è il vento; le nubi, il lampo e il tuono sono incorporei. Come questi, sorgendo dallo spazio atmosferico e raggiungendo la suprema luce solare, si manifestano nella loro forma splendente autentica,",
+          "source": "Chāndogya Upaniṣad, VIII.12.2"
+        },
+        {
+          "id": "chandogya-8-12-3",
+          "original": "एवमेवैष संप्रसादोऽस्माच्छरीरात्समुत्थाय परं ज्योतिरुपसंपद्य स्वेन रूपेणाभिनिष्पद्यते स उत्तमपुरुषः स तत्र पर्येति जक्षत्क्रीडन्रममाणः स्त्रीभिर्वा यानैर्वा ज्ञातिभिर्वा नोपजनꣳ स्मरन्निदꣳ शरीरꣳ स यथा प्रयोग्य आचरणे युक्त एवमेवायमस्मिञ्छरीरे प्राणो युक्तः ॥ ८.१२.३ ॥",
+          "translation": "allo stesso modo questa serena quiete cosciente [samprasāda], sorgendo da questo corpo e accedendo alla Suprema Luce, rifulge nella propria forma essenziale [svena rūpeṇābhiniṣpadyate]. Quello è il Puruṣa supremo [uttama puruṣa]! Egli si muove colà ridendo, giocando, rallegrandosi — sia con visioni celesti, sia con carri, sia con gli spiriti affini —, senza più serbare memoria di questo involucro corporeo nato dalla nascita carnale. Come un cavallo è attaccato al carro, così il soffio vitale è preposto a questo corpo.",
+          "source": "Chāndogya Upaniṣad, VIII.12.3"
+        },
+        {
+          "id": "chandogya-8-12-4",
+          "original": "अथ यत्रैतदाकाशमनुविषण्णं चक्षुः स चाक्षुषः पुरुषो दर्शनाय चक्षुरथ यो वेदेदं जिघ्राणीति स आत्मा गन्धाय घ्राणमथ यो वेदेदमभिव्याहराणीति स आत्माऽभिव्याहाराय वागथ यो वेदेदꣳ श‍ृण्वानीति स आत्मा श्रवणाय श्रोत्रम् ॥ ८.१२.४ ॥",
+          "translation": "Ora, dove l'occhio è volto verso lo spazio, Colui che risiede nell'occhio è il Puruṣa cosciente, e l'occhio non è che lo strumento per vedere. Colui che è consapevole: \"Voglio odorare questo\", è l'Ātman, e l'olfatto non è che lo strumento per odorare. Colui che è consapevole: \"Voglio pronunciare questo\", è l'Ātman, e la voce non è che lo strumento per parlare. Colui che è consapevole: \"Voglio udire questo\", è l'Ātman, e l'orecchio non è che lo strumento per ascoltare.",
+          "source": "Chāndogya Upaniṣad, VIII.12.4"
+        },
+        {
+          "id": "chandogya-8-12-5",
+          "original": "अथ यो वेदेदं मन्वानीति स आत्मा मनोऽस्य दैवं चक्षुः स वा एष एतेन दैवेन चक्षुषा मनसैतान्कामान्पश्यन्रमते य एते ब्रह्मलोके ॥ ८.१२.५ ॥",
+          "translation": "E colui che è consapevole: \"Voglio pensare questo\", è l'Ātman: la mente [manas] è il Suo occhio divino [daivaṁ cakṣuḥ]. Con questo occhio divino, con la mente pura, contemplando questi desideri spirituali che risiedono nel mondo di Brahman, Egli gioisce eternamente.",
+          "source": "Chāndogya Upaniṣad, VIII.12.5"
+        },
+        {
+          "id": "chandogya-8-12-6",
+          "original": "तं वा एतं देवा आत्मानमुपासते तस्मात्तेषाꣳ सर्वे च लोका आत्ताः सर्वे च कामाः स सर्वाꣳश्च लोकानाप्नोति सर्वाꣳश्च कामान्यस्तमात्मानमनुविद्य विजानातीति ह प्रजापतिरुवाच प्रजापतिरुवाच ॥ ८.१२.६ ॥",
+          "translation": "Gli dèi invero meditano su questo Ātman supremo: per questo motivo a essi appartengono tutti i mondi e tutti i desideri. Ottiene tutti i mondi e l'adempimento di tutti i desideri colui che, avendo cercato questo Sé, Lo conosce pienamente». Così proclamò Prajāpati, così proclamò Prajāpati.",
+          "source": "Chāndogya Upaniṣad, VIII.12.6"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.13",
+      "section_title": "La preghiera dell'anima che si libera come la luna dalla bocca di Rāhu",
+      "passages": [
+        {
+          "id": "chandogya-8-13-1",
+          "original": "श्यामाच्छबलं प्रपद्ये शबलाच्छ्यामं प्रपद्येऽश्व इव रोमाणि विधूय पापं चन्द्र इव राहोर्मुखात्प्रमुच्य धूत्वा शरीरमकृतं कृतात्मा ब्रह्मलोकमभिसंभवामीत्यभिसंभवामीति ॥ ८.१३.१ ॥",
+          "translation": "Dall'oscurità del non-manifesto passo alla chiara luce differenziata; dalla luce differenziata ritorno all'oscurità dell'Assoluto. Come un cavallo scuote la polvere dalla propria criniera, così scrollando via da me ogni residuo di male, come la luna che si libera e splende uscendo dalla bocca del mostro Rāhu nell'eclissi, deponendo questo corpo mortale, io, avendo compiuto la realizzazione del Sé [kṛtātmā], accedo al mondo increato di Brahman [akṛtaṁ brahmalokam], sì, accedo a esso per sempre!",
+          "source": "Chāndogya Upaniṣad, VIII.13.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.14",
+      "section_title": "L'Ākāśa manifestatore dei nomi e delle forme e la glorificazione di Brahman",
+      "passages": [
+        {
+          "id": "chandogya-8-14-1",
+          "original": "आकाशो वै नाम नामरूपयोर्निर्वहिता ते यदन्तरा तद्ब्रह्म तदमृतं स आत्मा प्रजापतेः सभां वेश्म प्रपद्ये यशोऽहं भवामि ब्राह्मणानां यशो राज्ञां यशो विशां यशोऽहमनुप्रापत्सि स हाservice / स हाहं यशसां यशः श्येतामदत्कामदत्के श्येतं लिन्दु माऽभिगां लिन्दु माऽभिगाम् ॥ ८.१४.१ ॥",
+          "translation": "Ciò che è chiamato Spazio [Ākāśa] è invero il manifestatore dei nomi e delle forme [nāmarūpayor nirvahitā]. Ciò al cui interno essi risiedono, e che tuttavia ne rimane intatto e trascendente: Quello è Brahman, Quello è l'Immortale, Quello è l'Ātman! «Possa io accedere all'assemblea e alla dimora di Prajāpati; possa io divenire la gloria splendente dei brāhmaṇa, la gloria dei re, la gloria del popolo; possa io raggiungere la pura gloria! Io che sono la gloria di ogni gloria, possa io non ricadere mai più nel grembo materno, viscido, sdrucciolevole e privo di denti, possa io non ricadervi mai più!».",
+          "source": "Chāndogya Upaniṣad, VIII.14.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "8.15",
+      "section_title": "La conclusione della Chāndogya Upaniṣad: la trasmissione della dottrina e il non-ritorno",
+      "passages": [
+        {
+          "id": "chandogya-8-15-1",
+          "original": "तद्धैतद्ब्रह्मा प्रजापतय उवाच प्रजापतिर्मनवे मनुः प्रजाभ्य आचार्यकुलाद्वेदमधीत्य यथाविधानं गुरोः कर्मातिशेषेणाभिसमावृत्य कुटुम्बे शुचौ देशे स्वाध्यायमधीयानो धर्मिकान्विदधदात्मनि सर्वैन्द्रियाणि संप्रतिष्ठाप्याहिꣳसन्त्सर्वभूतान्यन्यत्र तीर्थेभ्यः स खल्वेवं वर्तयन्यावदायुषं ब्रह्मलोकमभिसंपद्यते न च पुनरावर्तते न च पुनरावर्तते ॥ ८.१५.१ ॥",
+          "translation": "Questo insegnamento Brahmā lo rivelò a Prajāpati; Prajāpati lo trasmise a Manu; Manu lo annunciò alle creature umane. Chi ha appreso il Veda presso la dimora di un Ācārya secondo la regola sacra, servendo il maestro nei tempi liberi dallo studio; e ritornato a casa, stabilito come capofamiglia in un luogo puro, recita e medita regolarmente i testi sacri, educa discepoli retti, ritrae tutte le proprie facoltà sensoriali nel Sé, e pratica la non-violenza [ahiṁsā] verso tutti gli esseri viventi salvo che nei doveri prescritti dalla sacra legge: costui, conducendo tale vita per l'intera durata dei suoi giorni, al termine dell'esistenza accede al mondo di Brahman e non ritorna più nel ciclo delle rinascite, non ritorna mai più!",
+          "source": "Chāndogya Upaniṣad, VIII.15.1"
+        }
+      ]
+    }
+  ]
+}

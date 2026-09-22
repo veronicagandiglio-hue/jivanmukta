@@ -34,5 +34,27 @@
     "q-chi-sono-i-due-uccelli-sullo-stesso-albero"
   ],
   "prev_step": "04-chi-sono-veramente",
-  "next_step": "06-che-cose-brahman"
+  "next_step": "06-che-cose-brahman",
+  "curated_passages": [
+    {
+      "passage_id": "chandogya-1-2-7",
+      "why": "Presenta il principio centrale vitale come immune dalla contaminazione del male e superiore alla polarità sensoriale degli organi empirici, prefigurando la purezza dell'Ātman."
+    },
+    {
+      "passage_id": "chandogya-1-2-9",
+      "why": "Presenta il principio centrale vitale come immune dalla contaminazione del male e superiore alla polarità sensoriale degli organi empirici, prefigurando la purezza dell'Ātman."
+    },
+    {
+      "passage_id": "chandogya-5-1-15",
+      "why": "Risolve la molteplicità degli organi sensoriali e mentali nell'unità inscindibile del Principio vivente («non sono chiamati occhi né orecchie, ma Prāṇa»), ponendo la base per la discriminazione del Sé."
+    },
+    {
+      "passage_id": "chandogya-5-11-1",
+      "why": "Apre la celebre indagine fondamentale: «Qual è il nostro Sé? Che cos'è Brahman?» (Ko na ātmā kiṁ brahma)."
+    },
+    {
+      "passage_id": "chandogya-8-7-1",
+      "why": "Enuncia la celebre definizione del Sé immacolato proclamata da Prajāpati: immune dal peccato, libero da vecchiaia, morte, dolore, fame e sete, la cui volontà è la Verità."
+    }
+  ]
 }

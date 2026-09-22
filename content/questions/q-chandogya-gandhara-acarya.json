@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-gandhara-acarya",
+  "scope": "local",
+  "type": "specific",
+  "text": "Che cosa insegna l'allegoria dell'uomo bendato condotto via da Gandhāra circa la funzione dell'Ācārya?",
+  "problem": "L'uomo bendato e abbandonato nella selva rappresenta il jīva strappato alla propria patria metafisica e accecato dalle bende dell'ignoranza e dei desideri: nessuna speculazione solitaria può salvarlo finché un maestro compassionevole non rimuove la benda e gli mostra la via della retta conoscenza.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "acaryavan-puruso-veda",
+    "conoscenza",
+    "liberazione"
+  ],
+  "passages": [
+    "chandogya-6-14-1",
+    "chandogya-6-14-2"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

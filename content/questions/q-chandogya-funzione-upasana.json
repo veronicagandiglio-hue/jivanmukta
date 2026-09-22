@@ -1,0 +1,22 @@
+{
+  "id": "q-chandogya-funzione-upasana",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il ruolo dell'upāsanā (meditazione sui simboli come l'Udgītha) nella via della conoscenza?",
+  "problem": "Nel primo capitolo della Chāndogya Upaniṣad, la meditazione sulla sillaba Oṃ e sulle funzioni vitali non è fine a se stessa, ma serve a orientare la mente dal molteplice all'unità e a purificarla dai vincoli dell'azione meccanica.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "upasana",
+    "om",
+    "udgitha",
+    "vidya-avidya"
+  ],
+  "passages": [
+    "chandogya-1-1-1",
+    "chandogya-1-1-10",
+    "chandogya-1-2-14"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

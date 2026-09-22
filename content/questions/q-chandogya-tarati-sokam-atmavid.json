@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-tarati-sokam-atmavid",
+  "scope": "local",
+  "type": "specific",
+  "text": "Perché l'immensa erudizione enciclopedica lascia Nārada nel dolore, e solo la conoscenza del Sé può liberarlo?",
+  "problem": "Nārada enumera l'intero spettro delle scienze sacre e profane antiche ammettendo di essere soltanto un 'mantravid' (conoscitore di testi) e non un 'ātmavid' (conoscitore del Sé): l'erudizione oggettiva opera all'interno del dominio fenomenico dei nomi e delle forme (nāmarūpa), incapace di estirpare l'ignoranza originaria che causa l'angoscia esistenziale.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "mantravid-vs-atmavid",
+    "conoscenza",
+    "atman"
+  ],
+  "passages": [
+    "chandogya-7-1-2",
+    "chandogya-7-1-3"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

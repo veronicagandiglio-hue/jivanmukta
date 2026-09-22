@@ -1,4 +1,36 @@
 {
+  "acarya": {
+    "id": "acarya",
+    "name": "Ācārya",
+    "transliteration": "ācārya",
+    "gloss": "Il maestro spirituale autentico che incarna la tradizione; nell'epistemologia tradizionale la conoscenza metafisica trasmessa oralmente e vivente nella relazione maestro-discepolo è la sola dotata di piena efficacia liberatoria (sādhiṣṭham).",
+    "passages": [
+      "chandogya-4-4-3",
+      "chandogya-4-9-2",
+      "chandogya-4-9-3"
+    ],
+    "related_concepts": [
+      "conoscenza"
+    ],
+    "authors": [],
+    "source_file": "concepts/acarya.json"
+  },
+  "acaryavan-puruso-veda": {
+    "id": "acaryavan-puruso-veda",
+    "name": "Ācāryavān Puruṣo Veda",
+    "transliteration": "ācāryavān puruṣo veda",
+    "gloss": "«L'uomo che ha un maestro conosce la Verità»: principio metodologico primario dell'Advaita Vedānta secondo cui la liberazione dal velo dell'illusione cosmica richiede la guida vivente di un Ācārya qualificato, come l'uomo bendato di Gandhāra necessita che qualcuno gli tolga la benda.",
+    "passages": [
+      "chandogya-6-14-2"
+    ],
+    "related_concepts": [
+      "acarya",
+      "conoscenza",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/acaryavan-puruso-veda.json"
+  },
   "adhyatma-yoga": {
     "id": "adhyatma-yoga",
     "name": "Adhyātma-yoga",
@@ -21,6 +53,36 @@
     ],
     "source_file": "concepts/adhyatma-yoga.json"
   },
+  "ahara-suddhi": {
+    "id": "ahara-suddhi",
+    "name": "Āhāra-śuddhi",
+    "transliteration": "āhāra-śuddhi",
+    "gloss": "La purificazione dell'assimilazione (non solo del cibo biologico, ma dell'insieme delle impressioni sensoriali e mentali accolte dall'esterno); conduce alla limpidezza della coscienza interiore (sattva-śuddhi), da cui scaturisce la memoria perenne del Sé e lo scioglimento totale di tutti i nodi dell'ignoranza nel cuore.",
+    "passages": [
+      "chandogya-7-26-2"
+    ],
+    "related_concepts": [
+      "conoscenza",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/ahara-suddhi.json"
+  },
+  "akasa": {
+    "id": "akasa",
+    "name": "Ākāśa",
+    "transliteration": "ākāśa",
+    "gloss": "Lo Spazio o Etere cosmico; nel contesto metafisico primario dell'Advaita designa il Brahman stesso in quanto Principio incorporeo, infinito e onnipervadente dal quale ogni essere scaturisce e nel quale ogni essere si riassorbe.",
+    "passages": [
+      "chandogya-1-9-1"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman"
+    ],
+    "authors": [],
+    "source_file": "concepts/akasa.json"
+  },
   "aksara": {
     "id": "aksara",
     "name": "Akṣara",
@@ -42,6 +104,100 @@
     ],
     "source_file": "concepts/aksara.json"
   },
+  "alpa": {
+    "id": "alpa",
+    "name": "Alpa (Il Finito)",
+    "transliteration": "alpa",
+    "gloss": "La sfera della finitezza, della parzialità e della frammentazione empirica; il dominio in cui vi è dualità di percipiente e percepito («dove si vede altro, si ode altro, si conosce altro»), per sua natura mortale e privo di autentica beatitudine.",
+    "passages": [
+      "chandogya-7-23-1",
+      "chandogya-7-24-1"
+    ],
+    "related_concepts": [
+      "bhuman"
+    ],
+    "authors": [],
+    "source_file": "concepts/alpa.json"
+  },
+  "animan": {
+    "id": "animan",
+    "name": "Aṇiman (L'Essenza sottilissima)",
+    "transliteration": "aṇiman",
+    "gloss": "L'invisibile e impercettibile sottigliezza spirituale dell'Essere puro (Sat), che elude i sensi e la presa dell'intelletto comune ma costituisce la sostanza causale e il supporto immanente dell'intero universo manifestato.",
+    "passages": [
+      "chandogya-6-8-7",
+      "chandogya-6-12-2",
+      "chandogya-6-13-2"
+    ],
+    "related_concepts": [
+      "sat",
+      "brahman"
+    ],
+    "authors": [],
+    "source_file": "concepts/animan.json"
+  },
+  "annamaya-manas": {
+    "id": "annamaya-manas",
+    "name": "Mente materiale (Annamaya-manas)",
+    "transliteration": "annamaya-manas",
+    "gloss": "La constatazione che la mente empirica, l'intelletto e la memoria non costituiscono il Sé immortale, ma sono strumenti sottili formati e nutriti dall'essenza del cibo materiale («Annamayaṁ hi somya manaḥ»).",
+    "passages": [
+      "chandogya-6-5-4",
+      "chandogya-6-6-5",
+      "chandogya-6-7-6"
+    ],
+    "related_concepts": [
+      "atman",
+      "conoscenza"
+    ],
+    "authors": [],
+    "source_file": "concepts/annamaya-manas.json"
+  },
+  "apaddharma": {
+    "id": "apaddharma",
+    "name": "Āpaddharma",
+    "transliteration": "āpaddharma",
+    "gloss": "Norma tradizionale che consente deroghe eccezionali ai divieti rituali e alimentari in condizioni di estremo pericolo di vita (āpad), allo scopo di preservare l'organismo corporeo quale veicolo indispensabile per il compimento dei doveri sacri e la ricerca della conoscenza.",
+    "passages": [
+      "chandogya-1-10-3",
+      "chandogya-1-10-4"
+    ],
+    "related_concepts": [
+      "conoscenza"
+    ],
+    "authors": [],
+    "source_file": "concepts/apaddharma.json"
+  },
+  "asariira": {
+    "id": "asariira",
+    "name": "Aśarīra (L'Incorporeo)",
+    "transliteration": "aśarīra",
+    "gloss": "La condizione ontologica essenziale dell'Ātman, priva di qualsiasi rivestimento corporeo grossolano o sottile; quando si realizza la natura incorporea del Sé, le oscillazioni mondane di piacere empirico e dolore (priyāpriye) non possono più toccare la coscienza.",
+    "passages": [
+      "chandogya-8-12-1"
+    ],
+    "related_concepts": [
+      "atman",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/asariira.json"
+  },
+  "asura-vidya": {
+    "id": "asura-vidya",
+    "name": "Asura-vidyā (La concezione materialistica del corpo come Sé)",
+    "transliteration": "asura-vidyā",
+    "gloss": "L'illusione perversa, incarnata da Virocana, che identifica l'Ātman con l'involucro corporeo mortale e visibile (deha-ātma-vāda), riducendo la vita all'abbellimento, al nutrimento e alla glorificazione della materia transitoria.",
+    "passages": [
+      "chandogya-8-8-4",
+      "chandogya-8-8-5"
+    ],
+    "related_concepts": [
+      "vidya-avidya"
+    ],
+    "authors": [],
+    "source_file": "concepts/asura-vidya.json"
+  },
   "asvattha-albero-cosmico": {
     "id": "asvattha-albero-cosmico",
     "name": "Aśvattha cosmico",
@@ -57,6 +213,37 @@
       "yama"
     ],
     "source_file": "concepts/asvattha-albero-cosmico.json"
+  },
+  "atimrtyu": {
+    "id": "atimrtyu",
+    "name": "Atimṛtyu",
+    "transliteration": "atimṛtyu",
+    "gloss": "Il superamento della morte e dell'ordine temporale transitorio mediante la meditazione contemplativa che trascende persino la sfera cosmica del sole per raggiungere il regno incondizionato.",
+    "passages": [
+      "chandogya-2-10-1",
+      "chandogya-2-10-5",
+      "chandogya-2-10-6"
+    ],
+    "related_concepts": [
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/atimrtyu.json"
+  },
+  "ativadin": {
+    "id": "ativadin",
+    "name": "Ativādin",
+    "transliteration": "ativādin",
+    "gloss": "Colui la cui parola oltrepassa ogni limite e convenzione del discorso ordinario; chi conosce il Prāṇa universale è un ativādin nel dominio del manifestato, preludio a colui che dichiara la Verità suprema (Satya/Brahman).",
+    "passages": [
+      "chandogya-7-15-4"
+    ],
+    "related_concepts": [
+      "prana",
+      "conoscenza"
+    ],
+    "authors": [],
+    "source_file": "concepts/ativadin.json"
   },
   "atma-han": {
     "id": "atma-han",
@@ -102,6 +289,25 @@
     ],
     "source_file": "concepts/atman.json"
   },
+  "avasthatraya": {
+    "id": "avasthatraya",
+    "name": "Avasthātraya (L'esame dei tre stati)",
+    "transliteration": "avasthātraya",
+    "gloss": "L'analisi dialettica progressiva dei tre stati empirici (veglia/riflesso corporeo, sogno, sonno profondo) compiuta da Indra sotto la guida di Prajāpati, volta a discriminare il Testimone incorporeo assoluto (Turīya/Uttamapuruṣa) che permane immutabile al di là di ciascuno di essi.",
+    "passages": [
+      "chandogya-8-8-1",
+      "chandogya-8-9-1",
+      "chandogya-8-10-1",
+      "chandogya-8-11-1",
+      "chandogya-8-12-3"
+    ],
+    "related_concepts": [
+      "atman",
+      "conoscenza"
+    ],
+    "authors": [],
+    "source_file": "concepts/avasthatraya.json"
+  },
   "avidya": {
     "id": "avidya",
     "name": "Avidyā",
@@ -122,6 +328,43 @@
       "adi-shankara"
     ],
     "source_file": "concepts/avidya.json"
+  },
+  "bhuman": {
+    "id": "bhuman",
+    "name": "Bhūman",
+    "transliteration": "bhūman",
+    "gloss": "La Pienezza Infinita, l'Incondizionato e l'Immenso; la Realtà suprema non duale in cui non sussiste alcuna divisione tra soggetto percipiente, atto percettivo e oggetto percepito («dove non si vede altro, non si ode altro, non si conosce altro»), coincidente con la sola vera Beatitudine immortale.",
+    "passages": [
+      "chandogya-7-23-1",
+      "chandogya-7-24-1",
+      "chandogya-7-24-2"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman",
+      "alpa",
+      "sukha"
+    ],
+    "authors": [],
+    "source_file": "concepts/bhuman.json"
+  },
+  "brahma-rtvik": {
+    "id": "brahma-rtvik",
+    "name": "Sacerdote Brahma (Officiante silenzioso)",
+    "transliteration": "brahmā ṛtvik",
+    "gloss": "L'officiante sacrificale che vigila sull'intero rito mediante la mente concentrata e il silenzio interiore; rappresenta la conoscenza sovraintendente che risana ogni errore operativo mediante le tre Vyāhṛti.",
+    "passages": [
+      "chandogya-4-16-1",
+      "chandogya-4-16-2",
+      "chandogya-4-17-8",
+      "chandogya-4-17-10"
+    ],
+    "related_concepts": [
+      "upasana",
+      "conoscenza"
+    ],
+    "authors": [],
+    "source_file": "concepts/brahma-rtvik.json"
   },
   "brahma-vidya": {
     "id": "brahma-vidya",
@@ -174,6 +417,22 @@
     ],
     "source_file": "concepts/brahman.json"
   },
+  "brahmasamstha": {
+    "id": "brahmasamstha",
+    "name": "Brahmasaṁstha",
+    "transliteration": "brahmasaṁstha",
+    "gloss": "Colui la cui coscienza è unicamente e stabilmente fondata in Brahman. Nell'esegesi advaitica ortodossa (Śaṅkara) qualifica il rinunciante (saṁnyāsin) che, abbandonata ogni identificazione con i doveri rituali e la dualità delle opere, dimora senza distrazione nella conoscenza non duale del Sé, conseguendo la liberazione immortale (amṛtatva).",
+    "passages": [
+      "chandogya-2-23-1"
+    ],
+    "related_concepts": [
+      "brahman",
+      "liberazione",
+      "conoscenza"
+    ],
+    "authors": [],
+    "source_file": "concepts/brahmasamstha.json"
+  },
   "brahmavid-brahmaiva-bhavati": {
     "id": "brahmavid-brahmaiva-bhavati",
     "name": "Brahmavid brahmaiva bhavati",
@@ -215,6 +474,48 @@
     ],
     "source_file": "concepts/buddhi-intelletto.json"
   },
+  "chandas": {
+    "id": "chandas",
+    "name": "Chandas",
+    "transliteration": "chandas",
+    "gloss": "I metri sacri della liturgia vedica, etimologicamente intesi come «rivestimenti» che offrono un riparo provvisorio dalla finitezza terrena senza tuttavia donare l'immortalità assoluta riservata alla conoscenza del Principio.",
+    "passages": [
+      "chandogya-1-4-2",
+      "chandogya-1-4-3"
+    ],
+    "related_concepts": [
+      "om",
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/chandas.json"
+  },
+  "conoscenza": {
+    "id": "conoscenza",
+    "passages": [
+      "chandogya-6-1-3",
+      "chandogya-6-1-4"
+    ],
+    "source_file": "concepts/conoscenza.json"
+  },
+  "dahara-vidya": {
+    "id": "dahara-vidya",
+    "name": "Dahara-vidyā",
+    "transliteration": "dahara-vidyā",
+    "gloss": "La contemplazione metafisica dello spazio sottile incorporeo che risiede nel loto del cuore (dahara ākāśa), rivelato come identico all'infinità di Brahman, libero da vecchiaia, morte e dolore, custode dei desideri conformi al Vero.",
+    "passages": [
+      "chandogya-8-1-1",
+      "chandogya-8-1-3",
+      "chandogya-8-1-5"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman",
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/dahara-vidya.json"
+  },
   "deva-abhimana": {
     "id": "deva-abhimana",
     "name": "Devābhimāna",
@@ -236,6 +537,51 @@
     ],
     "source_file": "concepts/deva-abhimana.json"
   },
+  "devayana": {
+    "id": "devayana",
+    "name": "Devayāna",
+    "transliteration": "devayāna",
+    "gloss": "La Via degli Dèi o cammino solare ascendente attraverso cui l'anima del conoscitore di Brahman con attributi (saguṇa) ascende oltre le sfere cosmiche, guidata da un essere sovrumano verso la liberazione progressiva (kramamukti), senza più ricadere nel ciclo delle rinascite umane.",
+    "passages": [
+      "chandogya-4-15-5",
+      "chandogya-4-15-6"
+    ],
+    "related_concepts": [
+      "liberazione",
+      "brahman"
+    ],
+    "authors": [],
+    "source_file": "concepts/devayana.json"
+  },
+  "dharmaskandha": {
+    "id": "dharmaskandha",
+    "name": "Dharmaskandha",
+    "transliteration": "dharmaskandha",
+    "gloss": "I tre rami o ordini del dovere sacro basati sull'azione (sacrificio e carità del capofamiglia, ascesi dell'eremita, discepolato continuo). L'Upaniṣad stabilisce che essi fruttano unicamente mondi meritori finiti (puṇyaloka), contrapposti all'immortalità incondizionata che appartiene in via esclusiva al Brahmasaṁstha.",
+    "passages": [
+      "chandogya-2-23-1"
+    ],
+    "related_concepts": [
+      "brahmasamstha",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/dharmaskandha.json"
+  },
+  "dhyana": {
+    "id": "dhyana",
+    "name": "Dhyāna (Meditazione costante)",
+    "transliteration": "dhyāna",
+    "gloss": "La concentrazione contemplativa continua e imperturbabile dell'intelletto; nella Chāndogya è assunta come principio cosmico di maestosa stabilità, visibile nell'immobilità silenziosa della terra, delle montagne e del cielo.",
+    "passages": [
+      "chandogya-7-6-1"
+    ],
+    "related_concepts": [
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/dhyana.json"
+  },
   "dva-suparna": {
     "id": "dva-suparna",
     "name": "Dvā Suparṇā",
@@ -255,6 +601,22 @@
       "shankara"
     ],
     "source_file": "concepts/dva-suparna.json"
+  },
+  "ekamevadvitiyam": {
+    "id": "ekamevadvitiyam",
+    "name": "Ekam Evādvitīyam (Uno solo senza secondo)",
+    "transliteration": "ekam evādvitīyam",
+    "gloss": "Espressione fondamentale dell'Advaita Vedānta che esclude categoricamente qualsiasi differenziazione nell'Assoluto: esclude la differenza tra enti della stessa specie (svajātīya), tra specie diverse (vijātīya) e interna alle proprie parti (svagata).",
+    "passages": [
+      "chandogya-6-2-1",
+      "chandogya-6-2-2"
+    ],
+    "related_concepts": [
+      "sat",
+      "brahman"
+    ],
+    "authors": [],
+    "source_file": "concepts/ekamevadvitiyam.json"
   },
   "ekatva": {
     "id": "ekatva",
@@ -359,6 +721,52 @@
     ],
     "source_file": "concepts/jivanmukti.json"
   },
+  "jyotis-interiore": {
+    "id": "jyotis-interiore",
+    "name": "Luce interiore (Antaḥ-puruṣa-jyotis)",
+    "transliteration": "antaḥ-puruṣa-jyotis",
+    "gloss": "La Suprema Luce spirituale che rifulge al di là di tutti i mondi celesti e che è rigorosamente identica alla pura Coscienza testimonio che dimora all'interno dell'essere umano.",
+    "passages": [
+      "chandogya-3-13-7",
+      "chandogya-3-13-8"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman"
+    ],
+    "authors": [],
+    "source_file": "concepts/jyotis-interiore.json"
+  },
+  "jyotis-uttama": {
+    "id": "jyotis-uttama",
+    "name": "Suprema Luce (Jyotir uttamam)",
+    "transliteration": "jyotir uttamam",
+    "gloss": "La Luce trascendente increata e non duale che risiede oltre ogni oscurità cosmica e ignoranza (tamas), meta dell'ascesa spirituale del conoscitore al momento del trapasso corporeo.",
+    "passages": [
+      "chandogya-3-17-7"
+    ],
+    "related_concepts": [
+      "brahman",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/jyotis-uttama.json"
+  },
+  "ka-kham": {
+    "id": "ka-kham",
+    "name": "Ka e Kha",
+    "transliteration": "kaṁ-kham",
+    "gloss": "L'enunciazione sintetica della natura di Brahman data dai fuochi a Upakosala: 'Ka' (la pura beatitudine priva di contingenza mondana) e 'Kha' (lo spazio incorporeo, illimitato e spirituale). Qualificandosi a vicenda, escludono il piacere sensorio ordinario e lo spazio fisico materiale.",
+    "passages": [
+      "chandogya-4-10-4",
+      "chandogya-4-10-5"
+    ],
+    "related_concepts": [
+      "brahman"
+    ],
+    "authors": [],
+    "source_file": "concepts/ka-kham.json"
+  },
   "karma-e-sacrificio": {
     "id": "karma-e-sacrificio",
     "name": "Karma e Yajña",
@@ -408,6 +816,23 @@
     ],
     "source_file": "concepts/liberazione.json"
   },
+  "madhuvidya": {
+    "id": "madhuvidya",
+    "name": "Madhuvidyā",
+    "transliteration": "madhuvidyā",
+    "gloss": "La «dottrina del miele»: contemplazione simbolica del Sole come arnia cosmica e miele degli dèi, le cui diverse direzioni condensano i Veda fino a risolversi nel Sole eterno di Brahman immobile al centro.",
+    "passages": [
+      "chandogya-3-1-1",
+      "chandogya-3-5-4",
+      "chandogya-3-11-3"
+    ],
+    "related_concepts": [
+      "brahman",
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/madhuvidya.json"
+  },
   "mahavakya": {
     "id": "mahavakya",
     "name": "Mahāvākya",
@@ -423,6 +848,38 @@
     ],
     "authors": [],
     "source_file": "concepts/mahavakya.json"
+  },
+  "mantha": {
+    "id": "mantha",
+    "name": "Mantha",
+    "transliteration": "mantha",
+    "gloss": "Rito sacrificale interiore e mistura rituale a base di erbe, latte cagliato e miele, prescritto per colui che desidera realizzare la grandezza spirituale (mahat) identificandosi con le qualità sovrane del Prāṇa universale.",
+    "passages": [
+      "chandogya-5-2-4",
+      "chandogya-5-2-6"
+    ],
+    "related_concepts": [
+      "upasana",
+      "prana"
+    ],
+    "authors": [],
+    "source_file": "concepts/mantha.json"
+  },
+  "mantravid-vs-atmavid": {
+    "id": "mantravid-vs-atmavid",
+    "name": "Mantravid e Ātmavid",
+    "transliteration": "mantravid-ātmavid",
+    "gloss": "La distinzione capitale formulata da Nārada: il conoscitore di formule, testi e scienze empiriche (mantravid) rimane confinato al dominio dei nomi e immerso nel dolore (śoka), mentre solo colui che realizza il Sé (ātmavid) attraversa l'oceano della sofferenza (tarati śokam ātmavit).",
+    "passages": [
+      "chandogya-7-1-3"
+    ],
+    "related_concepts": [
+      "conoscenza",
+      "atman",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/mantravid-vs-atmavid.json"
   },
   "moksha-amritatva": {
     "id": "moksha-amritatva",
@@ -446,6 +903,38 @@
     ],
     "source_file": "concepts/moksha-amritatva.json"
   },
+  "nadi": {
+    "id": "nadi",
+    "name": "Nāḍī (Canali sottili del cuore)",
+    "transliteration": "nāḍī",
+    "gloss": "La fitta rete di canali energetici sottili che collegano il centro del cuore con i raggi del sole macrocosmico; tra di essi, la centounesima nāḍī ascendente (suṣumnā) conduce alla sommità del capo (brahmarandhra) consentendo l'uscita liberatoria verso l'immortalità.",
+    "passages": [
+      "chandogya-8-6-1",
+      "chandogya-8-6-2",
+      "chandogya-8-6-6"
+    ],
+    "related_concepts": [
+      "liberazione",
+      "dahara-vidya"
+    ],
+    "authors": [],
+    "source_file": "concepts/nadi.json"
+  },
+  "namarupa-nirvahita": {
+    "id": "namarupa-nirvahita",
+    "name": "Nāmarūpa-nirvahitā (Manifestatore dei nomi e delle forme)",
+    "transliteration": "nāmarūpa-nirvahitā",
+    "gloss": "Definizione di Brahman sotto il simbolo dell'Ākāśa incorporeo, che manifesta e sostiene l'intera compagine cosmica dei nomi e delle forme rimanendo intrinsecamente incontaminato e trascendente rispetto a essi.",
+    "passages": [
+      "chandogya-8-14-1"
+    ],
+    "related_concepts": [
+      "brahman",
+      "sat"
+    ],
+    "authors": [],
+    "source_file": "concepts/namarupa-nirvahita.json"
+  },
   "om-pranava": {
     "id": "om-pranava",
     "name": "Praṇava Oṃ",
@@ -463,6 +952,42 @@
       "yama"
     ],
     "source_file": "concepts/om-pranava.json"
+  },
+  "om": {
+    "id": "om",
+    "name": "Oṃ",
+    "transliteration": "oṃ",
+    "gloss": "La sillaba imperitura (akṣara) e Praṇava, espressione fonica primordiale e supporto simbolico eminente per la contemplazione di Brahman.",
+    "passages": [
+      "chandogya-1-1-1",
+      "chandogya-1-1-5",
+      "chandogya-1-1-8",
+      "chandogya-1-1-9"
+    ],
+    "related_concepts": [
+      "brahman",
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/om.json"
+  },
+  "pancagni-vidya": {
+    "id": "pancagni-vidya",
+    "name": "Pañcāgni-vidyā",
+    "transliteration": "pañcāgni-vidyā",
+    "gloss": "La «dottrina dei cinque fuochi» (mondo celeste, pioggia, terra, uomo, donna): esposizione cosmologica tradizionale che descrive il ciclo delle transmigrazioni dell'anima e l'incorporazione delle acque sottili nell'essere umano, finalizzata a suscitare il distacco (vairāgya) dal divenire.",
+    "passages": [
+      "chandogya-5-4-1",
+      "chandogya-5-9-1",
+      "chandogya-5-10-10"
+    ],
+    "related_concepts": [
+      "devayana",
+      "pitryana",
+      "vairagya"
+    ],
+    "authors": [],
+    "source_file": "concepts/pancagni-vidya.json"
   },
   "para-e-apara-vidya": {
     "id": "para-e-apara-vidya",
@@ -504,6 +1029,23 @@
     ],
     "source_file": "concepts/pitriyana-e-devayana.json"
   },
+  "pitryana": {
+    "id": "pitryana",
+    "name": "Pitṛyāna",
+    "transliteration": "pitṛyāna",
+    "gloss": "La «Via dei Padri» o cammino del fumo, percorso post-mortem riservato a coloro che compiono riti sacrificali, opere pie e carità esteriore; conduce alla sfera lunare ove si gode il frutto meritorio per poi ridiscendere nella rinascita terrena una volta esaurito il karma.",
+    "passages": [
+      "chandogya-5-3-2",
+      "chandogya-5-10-3",
+      "chandogya-5-10-5"
+    ],
+    "related_concepts": [
+      "devayana",
+      "pancagni-vidya"
+    ],
+    "authors": [],
+    "source_file": "concepts/pitryana.json"
+  },
   "prajapati": {
     "id": "prajapati",
     "name": "Prajāpati",
@@ -542,6 +1084,23 @@
     "authors": [],
     "source_file": "concepts/prajnana.json"
   },
+  "prana-samvada": {
+    "id": "prana-samvada",
+    "name": "Prāṇa-saṁvāda",
+    "transliteration": "prāṇa-saṁvāda",
+    "gloss": "La celebre contesa dialogica tra gli organi di senso e il soffio vitale primario presente nelle principali Upaniṣad; allegoria metafisica che dimostra l'assoluta subordinazione di tutte le facoltà psicofisiche al Principio vitale che le anima.",
+    "passages": [
+      "chandogya-5-1-6",
+      "chandogya-5-1-12",
+      "chandogya-5-1-15"
+    ],
+    "related_concepts": [
+      "prana",
+      "atman"
+    ],
+    "authors": [],
+    "source_file": "concepts/prana-samvada.json"
+  },
   "prana": {
     "id": "prana",
     "name": "Prāṇa",
@@ -567,6 +1126,23 @@
       "kausalya"
     ],
     "source_file": "concepts/prana.json"
+  },
+  "pranagnihotra": {
+    "id": "pranagnihotra",
+    "name": "Prāṇāgnihotra",
+    "transliteration": "prāṇāgnihotra",
+    "gloss": "La trasposizione interiore dell'Agnihotra vedico: l'atto del nutrirsi viene trasfigurato in oblazione sacra offerta ai cinque soffi vitali e al fuoco universale di Vaiśvānara immanente al corpo.",
+    "passages": [
+      "chandogya-5-19-1",
+      "chandogya-5-24-1",
+      "chandogya-5-24-2"
+    ],
+    "related_concepts": [
+      "upasana",
+      "vaisvanara"
+    ],
+    "authors": [],
+    "source_file": "concepts/pranagnihotra.json"
   },
   "pranava": {
     "id": "pranava",
@@ -624,6 +1200,22 @@
       "adi-shankara"
     ],
     "source_file": "concepts/purna.json"
+  },
+  "purusa-yajna": {
+    "id": "purusa-yajna",
+    "name": "Puruṣa-yajña",
+    "transliteration": "puruṣa-yajña",
+    "gloss": "La vita dell'essere umano concepita e trasfigurata come liturgia sacrificale continua, in cui i periodi biologici dell'esistenza, i bisogni fisici e le virtù interiori corrispondono alle fasi e alle offerte del rito solenne.",
+    "passages": [
+      "chandogya-3-16-1",
+      "chandogya-3-17-1",
+      "chandogya-3-17-4"
+    ],
+    "related_concepts": [
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/purusa-yajna.json"
   },
   "purusa": {
     "id": "purusa",
@@ -688,6 +1280,23 @@
     ],
     "source_file": "concepts/rayi.json"
   },
+  "sakrd-diva": {
+    "id": "sakrd-diva",
+    "name": "Giorno eterno (Sakṛd-divā)",
+    "transliteration": "sakṛd-divā",
+    "gloss": "La condizione atemporale e non duale del conoscitore di Brahman, in cui il sole fenomenico cessa di sorgere e di tramontare, essendo trasceso ogni dualismo di tempo, divenire e ignoranza.",
+    "passages": [
+      "chandogya-3-11-1",
+      "chandogya-3-11-2",
+      "chandogya-3-11-3"
+    ],
+    "related_concepts": [
+      "brahman",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/sakrd-diva.json"
+  },
   "sakshin": {
     "id": "sakshin",
     "name": "Sākṣin / Pratibodha",
@@ -706,6 +1315,24 @@
       "adi-shankara"
     ],
     "source_file": "concepts/sakshin.json"
+  },
+  "saman": {
+    "id": "saman",
+    "name": "Sāman",
+    "transliteration": "sāman",
+    "gloss": "La melodia liturgica e principio universale di armonia, equanimità (sama) e rettitudine ontologica (sādhu), assunta come matrice contemplativa che pervade la totalità dei mondi, delle stagioni e dei soffi.",
+    "passages": [
+      "chandogya-2-1-1",
+      "chandogya-2-2-1",
+      "chandogya-2-7-1",
+      "chandogya-2-9-1"
+    ],
+    "related_concepts": [
+      "upasana",
+      "udgitha"
+    ],
+    "authors": [],
+    "source_file": "concepts/saman.json"
   },
   "sambhuti-asambhuti": {
     "id": "sambhuti-asambhuti",
@@ -748,6 +1375,77 @@
     ],
     "source_file": "concepts/samnyasa-yoga.json"
   },
+  "samvarga": {
+    "id": "samvarga",
+    "name": "Saṁvarga",
+    "transliteration": "saṁvarga",
+    "gloss": "Il principio dell'Assorbimento o Riassorbimento: Vāyu nel macrocosmo riassorbe fuoco, sole, luna e acque; Prāṇa nel microcosmo riassorbe parola, vista, udito e mente. Essi simboleggiano la funzione di sintesi universale propria del Principio supremo.",
+    "passages": [
+      "chandogya-4-3-1",
+      "chandogya-4-3-2",
+      "chandogya-4-3-3",
+      "chandogya-4-3-4"
+    ],
+    "related_concepts": [
+      "brahman",
+      "prana"
+    ],
+    "authors": [],
+    "source_file": "concepts/samvarga.json"
+  },
+  "sandilya-vidya": {
+    "id": "sandilya-vidya",
+    "name": "Śāṇḍilya-vidyā",
+    "transliteration": "śāṇḍilya-vidyā",
+    "gloss": "Fondamentale dottrina metafisica upaniṣadica (Chāndogya 3.14) che rivela la totale identità tra Brahman («Sarvaṁ khalvidaṁ brahma»), la causa prima universale (tajjalān) e l'Ātman interiore che risiede nel segreto del cuore.",
+    "passages": [
+      "chandogya-3-14-1",
+      "chandogya-3-14-2",
+      "chandogya-3-14-3",
+      "chandogya-3-14-4"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman",
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/sandilya-vidya.json"
+  },
+  "sarvatmabhava": {
+    "id": "sarvatmabhava",
+    "name": "Sarvātma-bhāva",
+    "transliteration": "sarvātma-bhāva",
+    "gloss": "La condizione contemplativa e metafisica in cui il soggetto realizza di essere identico alla totalità dell'universo manifesto e non manifesto; culmine dell'upāsanā vedica e soglia immediata della realizzazione non duale.",
+    "passages": [
+      "chandogya-2-21-2",
+      "chandogya-2-21-4"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/sarvatmabhava.json"
+  },
+  "sat": {
+    "id": "sat",
+    "name": "Sat (L'Essere puro)",
+    "transliteration": "sat",
+    "gloss": "La Realtà ultima non duale, assoluta ed eterna, anteriore a qualsiasi determinazione di nome e forma («Sadeva somyedam agra āsīd ekam evādvitīyam»); fondamento e sostanza immutabile di ogni apparenza manifestata.",
+    "passages": [
+      "chandogya-6-2-1",
+      "chandogya-6-2-2"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman",
+      "vacarambhana"
+    ],
+    "authors": [],
+    "source_file": "concepts/sat.json"
+  },
   "satya": {
     "id": "satya",
     "name": "Satya",
@@ -784,6 +1482,55 @@
       "shankara"
     ],
     "source_file": "concepts/satyam-eva-jayate.json"
+  },
+  "satyasankalpa": {
+    "id": "satyasankalpa",
+    "name": "Satyasaṅkalpa (Volontà infallibile conforme al Vero)",
+    "transliteration": "satyasaṅkalpa",
+    "gloss": "Attributo proprio dell'Ātman e del liberato la cui volontà, essendo una con la Realtà assoluta, si attua immediatamente senza ostacolo né ritardo fenomenico.",
+    "passages": [
+      "chandogya-8-1-5",
+      "chandogya-8-2-1",
+      "chandogya-8-2-10"
+    ],
+    "related_concepts": [
+      "atman",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/satyasankalpa.json"
+  },
+  "savana": {
+    "id": "savana",
+    "name": "Savana",
+    "transliteration": "savana",
+    "gloss": "Le tre libagioni e spremiture solenni del succo del Soma (mattutina, meridiana e serale) che scandiscono il sacrificio vedico, associate rispettivamente ai Vasu, ai Rudra, agli Āditya e ai tre gradi cosmici della manifestazione.",
+    "passages": [
+      "chandogya-2-24-1",
+      "chandogya-2-24-16"
+    ],
+    "related_concepts": [
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/savana.json"
+  },
+  "setu": {
+    "id": "setu",
+    "name": "Setu (L'Argine e Ponte cosmico)",
+    "transliteration": "setu",
+    "gloss": "L'Ātman concepito come diga e ponte metafisico che preserva l'ordine inviolabile dei mondi e congiunge la sponda del divenire temporale con la sponda della luce immortale di Brahman, oltre la quale non passano morte né afflizione.",
+    "passages": [
+      "chandogya-8-4-1",
+      "chandogya-8-4-2"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/setu.json"
   },
   "sodasa-kala": {
     "id": "sodasa-kala",
@@ -846,6 +1593,55 @@
     ],
     "source_file": "concepts/sreyas-e-preyas.json"
   },
+  "stobha": {
+    "id": "stobha",
+    "name": "Stobha",
+    "transliteration": "stobha",
+    "gloss": "Sillabe e suoni liturgici apparentemente asemantici intercalati nella salmodia del Sāmaveda, interpretati meditativamente come simboli di precise potenze cosmiche e metafisiche.",
+    "passages": [
+      "chandogya-1-13-1",
+      "chandogya-1-13-2",
+      "chandogya-1-13-3"
+    ],
+    "related_concepts": [
+      "upasana",
+      "udgitha"
+    ],
+    "authors": [],
+    "source_file": "concepts/stobha.json"
+  },
+  "sukha": {
+    "id": "sukha",
+    "name": "Sukha (Beatitudine)",
+    "transliteration": "sukha",
+    "gloss": "La pura beatitudine ontologica intrinseca alla natura dell'Assoluto; l'Upaniṣad stabilisce che il finito non racchiude alcuna felicità duratura (nālpe sukham asti), essendo la sola Pienezza Infinita (Bhūman) vera Beatitudine.",
+    "passages": [
+      "chandogya-7-22-1",
+      "chandogya-7-23-1"
+    ],
+    "related_concepts": [
+      "bhuman",
+      "brahman"
+    ],
+    "authors": [],
+    "source_file": "concepts/sukha.json"
+  },
+  "susupti": {
+    "id": "susupti",
+    "name": "Suṣupti (Sonno profondo)",
+    "transliteration": "suṣupti",
+    "gloss": "Lo stato di sonno profondo privo di sogni (svapnānta) in cui ogni attività mentale ed egoica si acquieta e l'individuo sperimenta un riassorbimento temporaneo naturale nell'Essere puro (svam apīto bhavati), sebbene ancora velato dall'ignoranza causale (avidyā).",
+    "passages": [
+      "chandogya-6-8-1",
+      "chandogya-6-8-2"
+    ],
+    "related_concepts": [
+      "sat",
+      "atman"
+    ],
+    "authors": [],
+    "source_file": "concepts/susupti.json"
+  },
   "svapna-e-susupti": {
     "id": "svapna-e-susupti",
     "name": "Svapna e Suṣupti",
@@ -866,6 +1662,21 @@
     ],
     "source_file": "concepts/svapna-e-susupti.json"
   },
+  "svarajya": {
+    "id": "svarajya",
+    "name": "Svārājya (Sovranità autonoma)",
+    "transliteration": "svārājya",
+    "gloss": "La condizione del liberato che, avendo realizzato la propria identità con l'Ātman onnipervadente, diviene re di se stesso (svārāṭ), non dipendendo da alcun sovrano esteriore e godendo di incondizionata libertà in tutti i mondi.",
+    "passages": [
+      "chandogya-7-25-2"
+    ],
+    "related_concepts": [
+      "atman",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/svarajya.json"
+  },
   "tadvana": {
     "id": "tadvana",
     "name": "Tadvana",
@@ -881,6 +1692,62 @@
       "vedic-rishis"
     ],
     "source_file": "concepts/tadvana.json"
+  },
+  "tajjalan": {
+    "id": "tajjalan",
+    "name": "Tajjalān",
+    "transliteration": "tajjalān",
+    "gloss": "Parola sintetica sanscrita formata da tad-ja (generato da Quello), tad-la (dissolto in Quello) e tad-ana (sostenuto e vivificato da Quello), compendio della triplice causalità esclusiva di Brahman nei confronti del cosmo.",
+    "passages": [
+      "chandogya-3-14-1"
+    ],
+    "related_concepts": [
+      "brahman",
+      "sandilya-vidya"
+    ],
+    "authors": [],
+    "source_file": "concepts/tajjalan.json"
+  },
+  "tat-tvam-asi": {
+    "id": "tat-tvam-asi",
+    "name": "Tat Tvam Asi (Quello Tu Sei)",
+    "transliteration": "tat tvam asi",
+    "gloss": "Il supremo Mahāvākya del Sāmaveda enunciato nove volte da Uddālaka ad Śvetaketu; stabilisce l'assoluta identità ontologica non duale tra 'Tat' (Brahman/Sat, la Realtà suprema non condizionata) e 'Tvam' (l'Ātman autentico, il Testimone incorporeo dell'individuo spogliato degli upādhi corporei e mentali).",
+    "passages": [
+      "chandogya-6-8-7",
+      "chandogya-6-9-4",
+      "chandogya-6-10-3",
+      "chandogya-6-11-3",
+      "chandogya-6-12-3",
+      "chandogya-6-13-3",
+      "chandogya-6-14-3",
+      "chandogya-6-15-3",
+      "chandogya-6-16-3"
+    ],
+    "related_concepts": [
+      "sat",
+      "atman",
+      "brahman",
+      "mahavakya"
+    ],
+    "authors": [],
+    "source_file": "concepts/tat-tvam-asi.json"
+  },
+  "trivrtkarana": {
+    "id": "trivrtkarana",
+    "name": "Trivṛtkaraṇa (Triplicazione cosmica)",
+    "transliteration": "trivṛtkaraṇa",
+    "gloss": "Il processo cosmologico attraverso cui i tre elementi primordiali (fuoco/luce, acqua, terra/cibo) si combinano ciascuno in tre parti per produrre gli oggetti materiali e i veicoli organici del mondo fenomenico.",
+    "passages": [
+      "chandogya-6-3-3",
+      "chandogya-6-3-4",
+      "chandogya-6-4-1"
+    ],
+    "related_concepts": [
+      "sat"
+    ],
+    "authors": [],
+    "source_file": "concepts/trivrtkarana.json"
   },
   "turiya": {
     "id": "turiya",
@@ -921,6 +1788,24 @@
     ],
     "source_file": "concepts/tyaga.json"
   },
+  "udgitha": {
+    "id": "udgitha",
+    "name": "Udgītha",
+    "transliteration": "udgītha",
+    "gloss": "La porzione principale del canto liturgico del Sāmaveda, trasposta sul piano metafisico come veicolo di contemplazione unificatrice coincidente con Oṃ.",
+    "passages": [
+      "chandogya-1-1-1",
+      "chandogya-1-1-2",
+      "chandogya-1-2-1",
+      "chandogya-1-3-1"
+    ],
+    "related_concepts": [
+      "om",
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/udgitha.json"
+  },
   "upadhi-upasana": {
     "id": "upadhi-upasana",
     "name": "Upādhi-upāsanā",
@@ -943,6 +1828,91 @@
     ],
     "source_file": "concepts/upadhi-upasana.json"
   },
+  "upasana": {
+    "id": "upasana",
+    "name": "Upāsanā",
+    "transliteration": "upāsanā",
+    "gloss": "Meditazione concentrata e contemplazione su un supporto simbolico prescritta dai testi tradizionali, finalizzata alla purificazione della mente (citta-śuddhi) e propedeutica alla conoscenza non duale.",
+    "passages": [
+      "chandogya-1-1-1",
+      "chandogya-1-1-10",
+      "chandogya-1-2-14",
+      "chandogya-1-3-1"
+    ],
+    "related_concepts": [
+      "om",
+      "conoscenza"
+    ],
+    "authors": [],
+    "source_file": "concepts/upasana.json"
+  },
+  "uttama-purusa": {
+    "id": "uttama-purusa",
+    "name": "Uttama Puruṣa (Il Puruṣa Supremo)",
+    "transliteration": "uttama puruṣa",
+    "gloss": "La Coscienza testimoniale che, superata l'illusione corporea, rifulge nella propria forma essenziale immutabile (svena rūpeṇa), coincidendo con il Brahman trascendente e non duale.",
+    "passages": [
+      "chandogya-8-12-3"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "liberazione"
+    ],
+    "authors": [],
+    "source_file": "concepts/uttama-purusa.json"
+  },
+  "vacarambhana": {
+    "id": "vacarambhana",
+    "name": "Vācārambhaṇa (Modificazione nominale)",
+    "transliteration": "vācārambhaṇa",
+    "gloss": "Il principio metafisico ed epistemologico formulato da Uddālaka (Chāndogya 6.1.4): ogni effetto o modificazione empirica è un semplice artificio verbale e convenzionale originato dal linguaggio, mentre la causa sostanziale sola è reale (mṛttikety eva satyam).",
+    "passages": [
+      "chandogya-6-1-4",
+      "chandogya-6-1-5",
+      "chandogya-6-1-6",
+      "chandogya-6-4-1"
+    ],
+    "related_concepts": [
+      "sat",
+      "brahman"
+    ],
+    "authors": [],
+    "source_file": "concepts/vacarambhana.json"
+  },
+  "vairagya": {
+    "id": "vairagya",
+    "name": "Vairāgya",
+    "transliteration": "vairāgya",
+    "gloss": "Il disincanto e distacco interiore da ogni frutto mondano o celeste, fondato sulla lucida comprensione della caducità e della sofferenza insite in tutti gli stati della trasmigrazione (saṁsāra).",
+    "passages": [
+      "chandogya-5-10-8"
+    ],
+    "related_concepts": [
+      "liberazione",
+      "pancagni-vidya"
+    ],
+    "authors": [],
+    "source_file": "concepts/vairagya.json"
+  },
+  "vaisvanara": {
+    "id": "vaisvanara",
+    "name": "Vaiśvānara",
+    "transliteration": "vaiśvānara",
+    "gloss": "L'Ātman universale comune a tutti gli esseri; abbraccia la totalità della manifestazione dal cielo alla terra (Puruṣa cosmico) e dimora nel cuore dell'uomo come principio vitale e fuoco interiore.",
+    "passages": [
+      "chandogya-5-11-1",
+      "chandogya-5-18-1",
+      "chandogya-5-18-2",
+      "chandogya-5-24-2"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [],
+    "source_file": "concepts/vaisvanara.json"
+  },
   "vidita-avidita": {
     "id": "vidita-avidita",
     "name": "Vidita e Avidita",
@@ -960,6 +1930,21 @@
       "adi-shankara"
     ],
     "source_file": "concepts/vidita-avidita.json"
+  },
+  "vidya-avidya": {
+    "id": "vidya-avidya",
+    "name": "Vidyā e Avidyā",
+    "transliteration": "vidyā-avidyā",
+    "gloss": "La polarità fondamentale tra conoscenza metafisica / comprensione del significato interiore e ignoranza / mera esecuzione meccanica dell'atto esteriore.",
+    "passages": [
+      "chandogya-1-1-10"
+    ],
+    "related_concepts": [
+      "conoscenza",
+      "vidya-avidya"
+    ],
+    "authors": [],
+    "source_file": "concepts/vidya-avidya.json"
   },
   "vidya-e-avidya": {
     "id": "vidya-e-avidya",
@@ -1018,5 +2003,29 @@
       "sauryayani"
     ],
     "source_file": "concepts/vijnanatman.json"
+  },
+  "vrata": {
+    "id": "vrata",
+    "name": "Vrata",
+    "transliteration": "vrata",
+    "gloss": "Voto e disciplina di condotta interiore legato all'atto meditativo. Nelle sezioni sul Sāman impone di non denigrare né considerare profano alcun elemento naturale o corporeo assunto come supporto della sacralità universale.",
+    "passages": [
+      "chandogya-2-11-2",
+      "chandogya-2-12-2",
+      "chandogya-2-13-2",
+      "chandogya-2-14-2",
+      "chandogya-2-15-2",
+      "chandogya-2-16-2",
+      "chandogya-2-17-2",
+      "chandogya-2-18-2",
+      "chandogya-2-19-2",
+      "chandogya-2-20-2",
+      "chandogya-2-21-4"
+    ],
+    "related_concepts": [
+      "upasana"
+    ],
+    "authors": [],
+    "source_file": "concepts/vrata.json"
   }
 }

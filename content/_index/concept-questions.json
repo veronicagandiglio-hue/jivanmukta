@@ -1,6 +1,21 @@
 {
   "atman": [
     "q-aitareya-organi-e-se",
+    "q-chandogya-asariratva-piacere-dolore",
+    "q-chandogya-dahara-akasa",
+    "q-chandogya-dialettica-prajapati",
+    "q-chandogya-errore-meditazione-parziale",
+    "q-chandogya-hiran-yanidhi",
+    "q-chandogya-jyotis-uttama",
+    "q-chandogya-luce-oltre-il-cielo-e-nell-uomo",
+    "q-chandogya-purusa-nell-occhio-immacolato",
+    "q-chandogya-purusa-sole-e-occhio",
+    "q-chandogya-setu-ponte",
+    "q-chandogya-susupti-sat",
+    "q-chandogya-svarajya-atmarati",
+    "q-chandogya-tarati-sokam-atmavid",
+    "q-chandogya-tat-tvam-asi",
+    "q-chandogya-vaisvanara-pradesamatra",
     "q-che-cosa-e-il-brahman-nella-taittiriya",
     "q-che-cosa-sono-i-cinque-involucri",
     "q-che-cose-il-prana",
@@ -28,6 +43,21 @@
   ],
   "brahman": [
     "q-aitareya-prajnanam-brahma",
+    "q-chandogya-akasa-brahman",
+    "q-chandogya-bhuman-definizione",
+    "q-chandogya-brahmasamstha-amrtatva",
+    "q-chandogya-dahara-akasa",
+    "q-chandogya-hiran-yanidhi",
+    "q-chandogya-ka-kham-brahman",
+    "q-chandogya-luce-oltre-il-cielo-e-nell-uomo",
+    "q-chandogya-madhuvidya-sole-eterno",
+    "q-chandogya-omkara-sintesi-linguaggio",
+    "q-chandogya-purusa-nell-occhio-immacolato",
+    "q-chandogya-purusa-sole-e-occhio",
+    "q-chandogya-samvarga-vidya",
+    "q-chandogya-sarvam-khalvidam-brahma",
+    "q-chandogya-tat-tvam-asi",
+    "q-chandogya-vaisvanara-pradesamatra",
     "q-che-cosa-e-il-brahman-nella-taittiriya",
     "q-che-cosa-significa-conoscere",
     "q-che-cosa-sono-i-cinque-involucri",
@@ -87,6 +117,193 @@
     "q-e-possibile-la-liberta",
     "q-lazione-vincola"
   ],
+  "ahara-suddhi": [
+    "q-chandogya-ahara-suddhi-granthi"
+  ],
+  "conoscenza": [
+    "q-chandogya-ahara-suddhi-granthi",
+    "q-chandogya-conoscenza-dell-uno",
+    "q-chandogya-gandhara-acarya",
+    "q-chandogya-rito-senza-conoscenza",
+    "q-chandogya-scala-sanatkumara",
+    "q-chandogya-tarati-sokam-atmavid"
+  ],
+  "liberazione": [
+    "q-chandogya-ahara-suddhi-granthi",
+    "q-chandogya-asariratva-piacere-dolore",
+    "q-chandogya-atimrtyu-saman",
+    "q-chandogya-brahmasamstha-amrtatva",
+    "q-chandogya-due-vie-post-mortem",
+    "q-chandogya-gandhara-acarya",
+    "q-chandogya-jyotis-uttama",
+    "q-chandogya-setu-ponte",
+    "q-chandogya-superamento-morte-om",
+    "q-chandogya-svarajya-atmarati"
+  ],
+  "akasa": [
+    "q-chandogya-akasa-brahman"
+  ],
+  "udgitha": [
+    "q-chandogya-akasa-brahman",
+    "q-chandogya-funzione-upasana"
+  ],
+  "asariira": [
+    "q-chandogya-asariratva-piacere-dolore",
+    "q-chandogya-dialettica-prajapati"
+  ],
+  "atimrtyu": [
+    "q-chandogya-atimrtyu-saman"
+  ],
+  "saman": [
+    "q-chandogya-atimrtyu-saman",
+    "q-chandogya-saman-rettitudine-armonia",
+    "q-chandogya-sarvam-asmi"
+  ],
+  "bhuman": [
+    "q-chandogya-bhuman-definizione"
+  ],
+  "alpa": [
+    "q-chandogya-bhuman-definizione"
+  ],
+  "brahmasamstha": [
+    "q-chandogya-brahmasamstha-amrtatva"
+  ],
+  "dharmaskandha": [
+    "q-chandogya-brahmasamstha-amrtatva"
+  ],
+  "vacarambhana": [
+    "q-chandogya-conoscenza-dell-uno"
+  ],
+  "sat": [
+    "q-chandogya-conoscenza-dell-uno",
+    "q-chandogya-sat-origine-non-essere",
+    "q-chandogya-susupti-sat",
+    "q-chandogya-tat-tvam-asi"
+  ],
+  "dahara-vidya": [
+    "q-chandogya-dahara-akasa"
+  ],
+  "avasthatraya": [
+    "q-chandogya-dialettica-prajapati"
+  ],
+  "asura-vidya": [
+    "q-chandogya-dialettica-prajapati"
+  ],
+  "devayana": [
+    "q-chandogya-due-vie-post-mortem"
+  ],
+  "pitryana": [
+    "q-chandogya-due-vie-post-mortem"
+  ],
+  "vaisvanara": [
+    "q-chandogya-errore-meditazione-parziale",
+    "q-chandogya-vaisvanara-pradesamatra"
+  ],
+  "madhuvidya": [
+    "q-chandogya-fruizione-contemplativa-deva",
+    "q-chandogya-madhuvidya-sole-eterno"
+  ],
+  "upasana": [
+    "q-chandogya-fruizione-contemplativa-deva",
+    "q-chandogya-funzione-upasana",
+    "q-chandogya-purusa-yajna",
+    "q-chandogya-saman-rettitudine-armonia",
+    "q-chandogya-sarvam-asmi",
+    "q-chandogya-scala-sanatkumara",
+    "q-chandogya-vrata-non-disprezzo"
+  ],
+  "om": [
+    "q-chandogya-funzione-upasana",
+    "q-chandogya-omkara-sintesi-linguaggio",
+    "q-chandogya-superamento-morte-om"
+  ],
+  "vidya-avidya": [
+    "q-chandogya-funzione-upasana",
+    "q-chandogya-rito-senza-conoscenza"
+  ],
+  "acaryavan-puruso-veda": [
+    "q-chandogya-gandhara-acarya"
+  ],
+  "susupti": [
+    "q-chandogya-hiran-yanidhi",
+    "q-chandogya-susupti-sat"
+  ],
+  "jyotis-uttama": [
+    "q-chandogya-jyotis-uttama"
+  ],
+  "ka-kham": [
+    "q-chandogya-ka-kham-brahman"
+  ],
+  "jyotis-interiore": [
+    "q-chandogya-luce-oltre-il-cielo-e-nell-uomo"
+  ],
+  "sakrd-diva": [
+    "q-chandogya-madhuvidya-sole-eterno"
+  ],
+  "pancagni-vidya": [
+    "q-chandogya-pancagni-vairagya"
+  ],
+  "vairagya": [
+    "q-chandogya-pancagni-vairagya"
+  ],
+  "purusa": [
+    "q-chandogya-purusa-sole-e-occhio"
+  ],
+  "purusa-yajna": [
+    "q-chandogya-purusa-yajna"
+  ],
+  "prana": [
+    "q-chandogya-rito-senza-conoscenza",
+    "q-chandogya-samvarga-vidya",
+    "q-chandogya-scala-sanatkumara",
+    "q-chandogya-supremazia-prana",
+    "q-che-cose-il-prana",
+    "q-da-dove-ha-origine-il-cosmo",
+    "q-polarita-primordiale-prana-rayi"
+  ],
+  "samvarga": [
+    "q-chandogya-samvarga-vidya"
+  ],
+  "sarvatmabhava": [
+    "q-chandogya-sarvam-asmi"
+  ],
+  "tajjalan": [
+    "q-chandogya-sarvam-khalvidam-brahma"
+  ],
+  "sandilya-vidya": [
+    "q-chandogya-sarvam-khalvidam-brahma"
+  ],
+  "ekamevadvitiyam": [
+    "q-chandogya-sat-origine-non-essere"
+  ],
+  "setu": [
+    "q-chandogya-setu-ponte"
+  ],
+  "chandas": [
+    "q-chandogya-superamento-morte-om"
+  ],
+  "prana-samvada": [
+    "q-chandogya-supremazia-prana"
+  ],
+  "svarajya": [
+    "q-chandogya-svarajya-atmarati"
+  ],
+  "mantravid-vs-atmavid": [
+    "q-chandogya-tarati-sokam-atmavid"
+  ],
+  "tat-tvam-asi": [
+    "q-chandogya-tat-tvam-asi"
+  ],
+  "satya": [
+    "q-chandogya-verita-satyakama",
+    "q-identita-soham"
+  ],
+  "acarya": [
+    "q-chandogya-verita-satyakama"
+  ],
+  "vrata": [
+    "q-chandogya-vrata-non-disprezzo"
+  ],
   "vidita-avidita": [
     "q-che-cosa-significa-conoscere",
     "q-che-cose-brahman",
@@ -119,11 +336,6 @@
   "sambhuti-asambhuti": [
     "q-che-cose-il-mondo",
     "q-dialettica-sambhuti-asambhuti"
-  ],
-  "prana": [
-    "q-che-cose-il-prana",
-    "q-da-dove-ha-origine-il-cosmo",
-    "q-polarita-primordiale-prana-rayi"
   ],
   "purusha": [
     "q-che-cose-l-atman",
@@ -191,9 +403,6 @@
   "jivanmukti": [
     "q-esperienza-ritorno-persona",
     "q-qual-e-la-natura-della-liberazione"
-  ],
-  "satya": [
-    "q-identita-soham"
   ],
   "soham": [
     "q-identita-soham"

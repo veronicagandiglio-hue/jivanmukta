@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-errore-meditazione-parziale",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è l'errore insito nel meditare sull'Ātman attraverso un solo aspetto cosmico separato?",
+  "problem": "Nel confronto con i sei saggi, il re Aśvapati dimostra che considerare un singolo elemento del cosmo (il cielo, il sole, il vento, lo spazio, l'acqua o la terra) come l'intero Sé produce una visione frammentaria ed espone a gravi pericoli spirituali, poiché l'Ātman autentico è la totalità organica e indivisa.",
+  "parent_question": "q-chi-sono-veramente",
+  "concepts": [
+    "vaisvanara",
+    "atman"
+  ],
+  "passages": [
+    "chandogya-5-12-2",
+    "chandogya-5-17-2",
+    "chandogya-5-18-1"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

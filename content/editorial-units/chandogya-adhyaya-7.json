@@ -1,0 +1,470 @@
+{
+  "id": "chandogya-adhyaya-7",
+  "work_id": "chandogya-upanisad",
+  "unit_locus": "7",
+  "unit_title": "Settimo Adhyāya",
+  "sections": [
+    {
+      "section_locus": "7.1",
+      "section_title": "La confessione di Nārada e il Nome come primo grado",
+      "passages": [
+        {
+          "id": "chandogya-7-1-1",
+          "original": "ॐ अधीहि भगव इति होपससाद सनत्कुमारं नारदस्तं होवाच यद्वेत्थ तेन मोपसीद ततस्त ऊर्ध्वं वक्ष्यामीति ॥ ७.१.१ ॥",
+          "translation": "Oṃ. Nārada si accostò a Sanatkumāra dicendo: «Istruiscimi, o venerabile signore!». Quegli gli rispose: «Dimmi ciò che già conosci; oltre quello io ti istruirò».",
+          "source": "Chāndogya Upaniṣad, VII.1.1"
+        },
+        {
+          "id": "chandogya-7-1-2",
+          "original": "स होवाच ऋग्वेदं भगवोऽध्येमि यजुर्वेदꣳ सामवेदमाथर्वणं चतुर्थमितिहासपुराणं पञ्चमं वेदानां वेदं पित्र्यं राशिं दैवं निधिं वाकोवाक्यमेकायनं देवविद्यां ब्रह्मविद्यां भूतविद्यां क्षत्रविद्यां नक्षत्रविद्यां सर्पदेवजनविद्यामेतद्भगवोऽध्येमि ॥ ७.१.२ ॥",
+          "translation": "Nārada disse: «O venerabile signore, io ho studiato il Ṛgveda, lo Yajurveda, il Sāmaveda, l'Atharvaveda come quarto, le narrazioni storiche e mitiche [Itihāsa-Purāṇa] come quinto Veda, la grammatica [la sapienza dei Veda], i riti per i Padri, il calcolo matematico, l'arte dei presagi, la cronologia, la logica, l'etica e la politica, la dottrina degli dèi, la scienza delle formule sacre, la demonologia, l'arte militare, l'astronomia, la scienza dei serpenti e le belle arti. Questo, o venerabile, io conosco.",
+          "source": "Chāndogya Upaniṣad, VII.1.2"
+        },
+        {
+          "id": "chandogya-7-1-3",
+          "original": "सोऽहं भगवो मन्त्रविदेवास्मि नात्मविच्छ्रुतं ह्येव मे भगवद्दृशेभ्यस्तरति शोकमात्मविदिति सोऽहं भगवः शोचामि तं मा भगवाञ्छोकस्य पारं तारयत्विति तं होवाच यद्वै किंचैतदध्यगीष्ठा नामैवैतत् ॥ ७.१.३ ॥",
+          "translation": "Eppure, o signore, io sono soltanto un conoscitore di testi e formule [mantravid], non un conoscitore del Sé [nātmavid]. Ho infatti udito da maestri venerabili simili a te che colui che conosce il Sé oltrepassa il dolore [tarati śokam ātmavit]. E io, o venerabile, sono afflitto dal dolore: traghettami, ti prego, oltre la sponda della sofferenza!». Sanatkumāra gli disse: «Invero, tutto ciò che hai studiato non è altro che un Nome [nāmaivaitat].",
+          "source": "Chāndogya Upaniṣad, VII.1.3"
+        },
+        {
+          "id": "chandogya-7-1-4",
+          "original": "नाम वा ऋग्वेदो यजुर्वेदः सामवेद आथर्वणश्चतुर्थ इतिहासपुराणः पञ्चमो वेदानां वेदः पित्र्यो राशिर्दैवो निधिर्वाकोवाक्यमेकायनं देवविद्या ब्रह्मविद्या भूतविद्या क्षत्रविद्या नक्षत्रविद्या सर्पदेवजनविद्या नामैवैतन्नामोपास्वेति ॥ ७.१.४ ॥",
+          "translation": "Il Ṛgveda è un Nome, lo Yajurveda è un Nome, il Sāmaveda è un Nome, l'Atharvaveda è un Nome, l'Itihāsa-Purāṇa, la grammatica, il calcolo, la logica, l'astronomia e tutte queste scienze non sono che un Nome. Medita sul Nome come Brahman!",
+          "source": "Chāndogya Upaniṣad, VII.1.4"
+        },
+        {
+          "id": "chandogya-7-1-5",
+          "original": "स यो नाम ब्रह्मेत्युपास्ते यावन्नाम्नो गतं तत्रास्य यथाकामचारो भवति यो नाम ब्रह्मेत्युपास्तेऽस्ति भगवो नाम्नो भूय इति नाम्नो वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.१.५ ॥",
+          "translation": "Colui che medita sul Nome come Brahman ottiene piena libertà di movimento entro tutto l'ambito in cui il Nome si estende, colui che medita sul Nome come Brahman». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore al Nome?». «Certamente vi è qualcosa superiore al Nome», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.1.5"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.2",
+      "section_title": "La Parola (Vāc) superiore al Nome",
+      "passages": [
+        {
+          "id": "chandogya-7-2-1",
+          "original": "वाग्वाव नाम्नो भूयसी वाग्वा ऋग्वेदं विज्ञापयति यजुर्वेदꣳ सामवेदमाथर्वणं चतुर्थमितिहासपुराणं पञ्चमं वेदानां वेदं पित्र्यꣳ राशिं दैवं निधिं वाकोवाक्यमेकायनं देवविद्यां ब्रह्मविद्यां भूतविद्यां क्षत्रविद्यां नक्षत्रविद्यां सर्पदेवजनविद्यां दिवं च पृथिवीं च वायुं चाकाशं चापश्च तेजश्च देवाꣳश्च मनुष्याꣳश्च पशूꣳश्च वयाꣳसि च तृणवनस्पतीञ्श्वापदान्याकीटपतङ्गपिपीलकं धर्मं चाधर्मं च सत्यं चानृतं च साधु चासाधु च हृदयज्ञं चाहृदयज्ञं च यद्वै वाङ्नाभविष्यन्न धर्मो नाधर्मो व्यज्ञापयिष्यन्न सत्यं नानृतं न साधु नासाधु न हृदयज्ञो नाहृदयज्ञो वागेवैतत्सर्वं विज्ञापयति वाचमुपास्वेति ॥ ७.२.१ ॥",
+          "translation": "«La Parola [Vāc] è invero superiore al Nome. È la parola che rende manifesto il Ṛgveda, lo Yajurveda, il Sāmaveda e tutte le scienze; la parola rende noti il cielo, la terra, il vento, lo spazio, le acque, il fuoco, gli dèi, gli uomini, gli animali, gli uccelli, le erbe, il retto e l'ingiusto, il vero e il falso, il bene e il male, ciò che è gradito al cuore e ciò che non lo è. Se non vi fosse la parola, non si conoscerebbe né il bene né il male, né il vero né il falso. La parola fa conoscere tutto questo: medita sulla Parola!",
+          "source": "Chāndogya Upaniṣad, VII.2.1"
+        },
+        {
+          "id": "chandogya-7-2-2",
+          "original": "स यो वाचं ब्रह्मेत्युपास्ते यावद्वाचो गतं तत्रास्य यथाकामचारो भवति यो वाचं ब्रह्मेत्युपास्तेऽस्ति भगवो वाचो भूय इति वाचो वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.२.२ ॥",
+          "translation": "Colui che medita sulla Parola come Brahman ottiene piena libertà di movimento entro tutto l'ambito in cui la Parola si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore alla Parola?». «Certamente vi è qualcosa superiore alla Parola», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.2.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.3",
+      "section_title": "La Mente (Manas) superiore alla Parola",
+      "passages": [
+        {
+          "id": "chandogya-7-3-1",
+          "original": "मनो वाव वाचो भूयो यथा वै द्वे वामलके द्वे वा कोले द्वौ वाऽक्षौ मुष्टिरनुभवत्येवं वाचं च नाम च मनोऽनुभवति स यदा मनसा मनस्यति मन्त्रानधीयीयेत्यथाधीते कर्माणि कुर्वीयेत्यथ कुरुते पुत्रांश्च पशूꣳश्चेच्छीयेत्यथेच्छत इमं च लोकममुं चेच्छीयेत्यथेच्छते मनो ह्यात्मा मनो हि लोको मनो हि ब्रह्म मन उपास्वेति ॥ ७.३.१ ॥",
+          "translation": "«La Mente [Manas] è invero superiore alla Parola. Proprio come un pugno chiuso può racchiudere due frutti di mirabolano, due prugne o due dadi, così la mente racchiude in sé sia la parola sia il nome. Quando un uomo decide con la mente: \"Voglio recitare i testi sacri\", allora li recita; quando pensa: \"Voglio compiere le azioni\", allora le compie; quando pensa: \"Desidero figli e bestiame\", allora li cerca; quando pensa: \"Desidero questo mondo e il mondo ultraterreno\", allora li ricerca. La mente è l'essenza dell'azione, la mente è il mondo, la mente è Brahman: medita sulla Mente!",
+          "source": "Chāndogya Upaniṣad, VII.3.1"
+        },
+        {
+          "id": "chandogya-7-3-2",
+          "original": "स यो मनो ब्रह्मेत्युपास्ते यावन्मनसो गतं तत्रास्य यथाकामचारो भवति यो मनो ब्रह्मेत्युपास्तेऽस्ति भगवो मनसो भूय इति मनसो वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.३.२ ॥",
+          "translation": "Colui che medita sulla Mente come Brahman ottiene piena libertà di movimento entro tutto l'ambito in cui la Mente si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore alla Mente?». «Certamente vi è qualcosa superiore alla Mente», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.3.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.4",
+      "section_title": "La Volontà determinata (Saṅkalpa) superiore alla Mente",
+      "passages": [
+        {
+          "id": "chandogya-7-4-1",
+          "original": "संकल्पो वाव मनसो भूयान्यदा वै संकल्पयतेऽथ मनस्यतिatha वाचं प्रेरयति तां नाम्नि प्रेरयति नाम्नि मन्त्रा एकं भवन्ति मन्त्रेषु कर्माणि ॥ ७.४.१ ॥",
+          "translation": "«La Volontà determinata [Saṅkalpa] è invero superiore alla Mente. Quando infatti l'uomo formula un'intenzione deliberata, allora la mente pensa; quindi stimola la parola, e la parola si esprime nel nome; nel nome si condensano i mantra sacri, e nei mantra si compiono le azioni.",
+          "source": "Chāndogya Upaniṣad, VII.4.1"
+        },
+        {
+          "id": "chandogya-7-4-2",
+          "original": "तानि ह वा एतानि संकल्पैकायनानि संकल्पात्मकानि संकल्पे प्रतिष्ठितानि समक्लृपतां द्यावापृथिवी समकम्पतां वायुश्चाकाशं च समकल्पन्तापश्च तेजश्च तेषाꣳ संकॢप्त्यै वर्षꣳ संकल्पते वर्षस्य संकॢप्त्या अन्नं संकल्पतेऽन्नस्य संकॢप्त्यै प्राणाः संकल्पन्ते प्राणानां संकॢप्त्यै मन्त्राः संकल्पन्ते मन्त्राणां संकॢप्त्यै कर्माणि संकल्पन्ते कर्मणां संकॢप्त्यै लोकः संकल्पते लोकस्य संकॢप्त्यै सर्वं संकल्पते स एष संकल्पः संकल्पमुपास्वेति ॥ ७.४.२ ॥",
+          "translation": "Tutte queste cose hanno nella volontà il loro punto di convergenza, sono formate di volontà e poggiano sulla volontà. Con volontà concorde il cielo e la terra sussistono stabili, il vento e lo spazio rimangono saldi, le acque e il fuoco operano in armonia. In conformità alla loro armonia piove la pioggia, dalla pioggia sorge il cibo, dal cibo sorgono i soffi vitali, dai soffi i mantra, dai mantra le azioni sacre, dalle azioni i mondi, e nei mondi tutto trova compimento. Tale è la Volontà: medita sulla Volontà!",
+          "source": "Chāndogya Upaniṣad, VII.4.2"
+        },
+        {
+          "id": "chandogya-7-4-3",
+          "original": "स यः संकल्पं ब्रह्मेत्युपास्ते संकॢप्तान्ह वै स लोकांध्रुवान्ध्रुवः प्रतिष्ठितान्प्रतिष्ठितोऽव्यथमानानव्यथमानोऽभिसिद्ध्यति यावत्संकल्पस्य गतं तत्रास्य यथाकामचारो भवति यः संकल्पं ब्रह्मेत्युपास्तेऽस्ति भगवः संकल्पाद्भूय इति संकल्पाद्वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.४.३ ॥",
+          "translation": "Colui che medita sulla Volontà come Brahman ottiene mondi saldi, stabili e liberi da angoscia, e possiede piena libertà di movimento entro tutto l'ambito in cui la Volontà si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore alla Volontà?». «Certamente vi è qualcosa superiore alla Volontà», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.4.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.5",
+      "section_title": "L'Intelligenza riflessiva (Citta) superiore alla Volontà",
+      "passages": [
+        {
+          "id": "chandogya-7-5-1",
+          "original": "चित्तं वाव संकल्पाद्भूयो यदा वै चेतयतेऽथ संकल्पयतेऽथ मनस्यतिatha वाचं प्रेरयति तां नाम्नि प्रेरयति नाम्नि मन्त्रा एकं भवन्ति मन्त्रेषु कर्माणि ॥ ७.५.१ ॥",
+          "translation": "«L'Intelligenza riflessiva [Citta] è invero superiore alla Volontà. Quando infatti l'uomo percepisce e riflette interiormente, solo allora formula un'intenzione; quindi la mente pensa, muove la parola verso il nome, e dal nome scaturiscono i mantra e le azioni.",
+          "source": "Chāndogya Upaniṣad, VII.5.1"
+        },
+        {
+          "id": "chandogya-7-5-2",
+          "original": "तानि ह वा एतानि चित्तैकायनानि चित्तात्मानि चित्ते प्रतिष्ठितानि तस्माद्यद्यपि बहुविदमचित्तो भवति नायमस्तीत्येवैनमाहुर्यदयं किंचिद्वेद यद्वयं विद्वान्नेत्थमचित्तः स्यादित्यथ यद्यल्पविच्चित्तवान्भवति तस्मा एवोत शुश्रूषन्ते चित्तं ह्येवैषामेकायनं चित्तमात्मा चित्तं प्रतिष्ठा चित्तमुपास्वेति ॥ ७.५.२ ॥",
+          "translation": "Tutte queste cose convergono nell'intelligenza riflessiva, sono formate da essa e in essa risiedono. Perciò, se un uomo conosce molti testi ma è privo di riflessione interiore [acitta], la gente dice di lui: \"Costui non vale nulla; se sapesse davvero, non sarebbe così privo di discernimento!\". Se invece uno sa poco ma possiede intelligenza riflessiva, tutti desiderano ascoltarlo. L'intelligenza riflessiva è il loro sostegno: medita sull'Intelligenza riflessiva!",
+          "source": "Chāndogya Upaniṣad, VII.5.2"
+        },
+        {
+          "id": "chandogya-7-5-3",
+          "original": "स यश्चित्तं ब्रह्मेत्युपास्ते चित्तान्र्ह वै स लोकांध्रुवान्ध्रुवः प्रतिष्ठितान्प्रतिष्ठितोऽव्यथमानानव्यथमानोऽभिसिद्ध्यति यावच्चित्तस्य गतं तत्रास्य यथाकामचारो भवति यश्चित्तं ब्रह्मेत्युपास्तेऽस्ति भगवश्चित्ताद्भूय इति चित्ताद्वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.५.३ ॥",
+          "translation": "Colui che medita sull'Intelligenza riflessiva come Brahman ottiene mondi saldi e stabili, e possiede piena libertà di movimento entro tutto l'ambito in cui l'Intelligenza si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore all'Intelligenza riflessiva?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.5.3"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.6",
+      "section_title": "La Meditazione costante (Dhyāna) superiore all'Intelligenza",
+      "passages": [
+        {
+          "id": "chandogya-7-6-1",
+          "original": "ध्यानं वाव चित्ताद्भूयो ध्यायतीव पृथिवी ध्यायतीवान्तरिक्षं ध्यायतीव द्यौर्ध्यायन्तीवापो ध्यायन्तीव पर्वता ध्यायन्तीव देवमनुष्यास्तस्माद्य इह मनुष्याणां महत्तां प्राप्नुवन्ति ध्यानैकाꣳशा इवैव ते भवन्त्यथ येऽल्पाः कलहिनः पिशुना उपवादिनस्तेऽथ ये महान्तः ध्यानैकाꣳशा इवैव ते भवन्ति ध्यानमुपास्वेति ॥ ७.६.१ ॥",
+          "translation": "«La Meditazione costante [Dhyāna] è invero superiore all'Intelligenza riflessiva. Sembra quasi che la terra mediti nella sua immobilità; sembra che lo spazio intermedio mediti; sembra che il cielo mediti; sembra che le acque meditino; sembra che le montagne meditino salde; sembra che gli dèi e gli uomini meditino. Per questo motivo coloro che tra gli uomini raggiungono la vera grandezza sembrano possedere una parte di questa calma meditativa; mentre gli uomini meschini sono rissosi, calunniatori e pettegoli. I grandi uomini sono maestri di meditazione: medita sulla Meditazione!",
+          "source": "Chāndogya Upaniṣad, VII.6.1"
+        },
+        {
+          "id": "chandogya-7-6-2",
+          "original": "स यो ध्यानं ब्रह्मेत्युपास्ते यावद्ध्यानस्य गतं तत्रास्य यथाकामचारो भवति यो ध्यानं ब्रह्मेत्युपास्तेऽस्ति भगवो ध्यानाद्भूय इति ध्यानाद्वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.६.२ ॥",
+          "translation": "Colui che medita sulla Meditazione come Brahman ottiene piena libertà di movimento entro tutto l'ambito in cui la Meditazione si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore alla Meditazione?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.6.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.7",
+      "section_title": "Il Discernimento conoscitivo (Vijñāna) superiore alla Meditazione",
+      "passages": [
+        {
+          "id": "chandogya-7-7-1",
+          "original": "विज्ञानं वाव ध्यानाद्भूयो विज्ञानेन वा ऋग्वेदं विजानाति यजुर्वेदꣳ सामवेदमाथर्वणं चतुर्थमितिहासपुराणं पञ्चमं वेदानां वेदं पित्र्यꣳ राशिं दैवं निधिं वाकोवाक्यमेकायनं देवविद्यां ब्रह्मविद्यां भूतविद्यां क्षत्रविद्यां नक्षत्रविद्यां सर्पदेवजनविद्यां दिवं च पृथिवीं च वायुं चाकाशं चापश्च तेजश्च देवाꣳश्च मनुष्याꣳश्च पशूꣳश्च वयाꣳसि च तृणवनस्पतीञ्श्वापदान्याकीटपतङ्गपिपीलकं धर्मं चाधर्मं च सत्यं चानृतं च साधु चासाधु च हृदयज्ञं चाहृदयज्ञं चान्नं च रसं चेमं च लोकममुं च विज्ञानेनैव विजानाति विज्ञानमुपास्वेति ॥ ७.७.१ ॥",
+          "translation": "«Il Discernimento conoscitivo [Vijñāna] è invero superiore alla Meditazione. È mediante il discernimento che si comprende il senso del Ṛgveda, dello Yajurveda, del Sāmaveda e di tutte le scienze; mediante il discernimento si comprende il cielo, la terra, gli elementi, il retto e l'ingiusto, il vero e il falso, il bene e il male, questo mondo e il mondo ultraterreno. Solo mediante il discernimento si comprende tutto questo: medita sul Discernimento!",
+          "source": "Chāndogya Upaniṣad, VII.7.1"
+        },
+        {
+          "id": "chandogya-7-7-2",
+          "original": "स यो विज्ञानं ब्रह्मेत्युपास्ते विज्ञानवतो वै स लोकाञ्ज्ञानवतोऽभिसिद्ध्यति यावद्विज्ञानस्य गतं तत्रास्य यथाकामचारो भवति यो विज्ञानं ब्रह्मेत्युपास्तेऽस्ति भगवो विज्ञानाद्भूय इति विज्ञानाद्वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.७.२ ॥",
+          "translation": "Colui che medita sul Discernimento conoscitivo come Brahman consegue mondi ricolmi di luce e sapienza, e ottiene piena libertà di movimento entro tutto l'ambito in cui il Discernimento si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore al Discernimento?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.7.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.8",
+      "section_title": "La Forza (Bala) superiore al Discernimento",
+      "passages": [
+        {
+          "id": "chandogya-7-8-1",
+          "original": "बलं वाव विज्ञानाद्भूयः शतं ह विज्ञानवतामेको बलवानाकम्पयते स यदा बली भवत्यथोत्थाता भवत्युत्तिष्ठन्परिचरिता भवति परिचरन्नुपसत्ता भवत्युपसीदन्द्रष्टा भवति श्रोता भवति मन्ता भवति बोद्धा भवति कर्ता भवति विज्ञाता भवति बलेन वै पृथिवी तिष्ठति बलेनान्तरिक्षं बलेन द्यौर्बलेन पर्वता बलेन देवमनुष्या बलेन पशवश्च वयांसि च तृणवनस्पतयः श्वापदान्याकीटपतङ्गपिपीलकं बलेन लोकस्तिष्ठति बलमुपास्वेति ॥ ७.८.१ ॥",
+          "translation": "«La Forza vitale [Bala] è invero superiore al Discernimento. Un solo uomo forte fa tremare cento uomini dotati di mero discernimento intellettuale. Quando un uomo possiede forza, egli si alza vigoroso; alzandosi serve i saggi; servendoli si accosta al loro insegnamento; accostandosi diviene capace di vedere, di ascoltare, di riflettere, di comprendere, di agire e di discriminare la verità. Per la forza la terra sussiste ferma, per la forza lo spazio intermedio, il cielo, le montagne, gli dèi e gli uomini, gli animali e le piante rimangono stabili. Il mondo intero poggia sulla forza: medita sulla Forza!",
+          "source": "Chāndogya Upaniṣad, VII.8.1"
+        },
+        {
+          "id": "chandogya-7-8-2",
+          "original": "स यो बलं ब्रह्मेत्युपास्ते यावद्बलस्य गतं तत्रास्य यथाकामचारो भवति यो बलं ब्रह्मेत्युपास्तेऽस्ति भगवो बलाद्भूय इति बलाद्वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.८.२ ॥",
+          "translation": "Colui che medita sulla Forza come Brahman ottiene piena libertà di movimento entro tutto l'ambito in cui la Forza si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore alla Forza?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.8.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.9",
+      "section_title": "Il Nutrimento (Anna) superiore alla Forza",
+      "passages": [
+        {
+          "id": "chandogya-7-9-1",
+          "original": "अन्नं वाव बलाद्भूयस्तस्माद्यद्यपि दश रात्रीर्नाश्नीयाद्यद्यु ह जीवेदथ वाऽद्रष्टाऽश्रोताऽमन्ताऽबोद्धाऽकर्ताऽविज्ञाता भवत्यथाऽन्नस्यायै द्रष्टा भवति श्रोता भवति मन्ता भवति बोद्धा भवति कर्ता भवति विज्ञाता भवत्यन्नमुपास्वेति ॥ ७.९.१ ॥",
+          "translation": "«Il Nutrimento [Anna] è invero superiore alla Forza. Se un uomo non mangiasse per dieci notti, anche qualora sopravvivesse non sarebbe più in grado di vedere, di udire, di pensare, di comprendere, di agire né di discernere. Ma non appena assume cibo, egli torna a vedere, a udire, a pensare, a comprendere, ad agire e a discernere. Medita sul Nutrimento!",
+          "source": "Chāndogya Upaniṣad, VII.9.1"
+        },
+        {
+          "id": "chandogya-7-9-2",
+          "original": "स योऽन्नं ब्रह्मेत्युपास्तेऽन्नवतो वै स लोकाञ्पानवतोऽभिसिद्ध्यति यावदन्नस्य गतं तत्रास्य यथाकामचारो भवति योऽन्नं ब्रह्मेत्युपास्तेऽस्ति भगवोऽन्नाद्भूय इत्यन्नाद्वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.९.२ ॥",
+          "translation": "Colui che medita sul Nutrimento come Brahman ottiene mondi ricolmi di cibo e bevande, e possiede piena libertà di movimento entro tutto l'ambito in cui il Nutrimento si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore al Nutrimento?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.9.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.10",
+      "section_title": "L'Acqua (Āpas) superiore al Nutrimento",
+      "passages": [
+        {
+          "id": "chandogya-7-10-1",
+          "original": "आपो वावान्नाद्भूयस्यस्तस्माद्यदा सुवृष्टिर्न भवति व्याधीयन्ते प्राणा अन्नं कनीयो भविष्यतीत्यथ यदा सुवृष्टिर्भवति प्रमुद्यन्ति प्राणा अन्नं बहु भविष्यतीत्याप एवेमा मूर्ता येयं पृथिवी यदन्तरिक्षं यद्द्यौर्यत्पर्वता यद्देवमनुष्या यत्पशवश्च वयांसि च तृणवनस्पतयः श्वापदान्याकीटपतङ्गपिपीलकमाप एवेमा मूर्ता अप उपास्वेति ॥ ७.१०.१ ॥",
+          "translation": "«L'Acqua [Āpas] è invero superiore al Nutrimento. Quando manca la pioggia benefica, gli esseri viventi cadono nell'angoscia pensando: \"Il cibo scarseggerà!\". Ma quando cade la pioggia abbondante, i soffi vitali esultano pensando: \"Il cibo sarà copioso!\". L'acqua condensata è questa terra, è lo spazio atmosferico, è il cielo, le montagne, gli dèi e gli uomini, gli animali e le piante: tutto ciò non è che acqua che ha assunto forma corporea. Medita sull'Acqua!",
+          "source": "Chāndogya Upaniṣad, VII.10.1"
+        },
+        {
+          "id": "chandogya-7-10-2",
+          "original": "स योऽपो ब्रह्मेत्युपास्ते आप्नोति सर्वान्कामांस्तृप्तिमान्भवति यावदपां गतं तत्रास्य यथाकामचारो भवति योऽपो ब्रह्मेत्युपास्तेऽस्ति भगवोऽद्भ्यो भूय इत्यद्भ्यो वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.१०.२ ॥",
+          "translation": "Colui che medita sull'Acqua come Brahman realizza ogni desiderio e ottiene piena soddisfazione vitale, godendo di libertà di movimento entro tutto l'ambito in cui l'Acqua si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore all'Acqua?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.10.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.11",
+      "section_title": "Il Calore (Tejas) superiore all'Acqua",
+      "passages": [
+        {
+          "id": "chandogya-7-11-1",
+          "original": "तेजो वावाद्भ्यो भूयस्तद्वा एतद्वायुमाविश्य आकाशमतिपत्य तपत्यथाहुरुष्णं वत तपति वर्षिष्यति वा इति तेज एव तत्पूर्वं दर्शयित्वाऽथापः सृजते तदेतदूर्ध्वाभिश्च तिरश्चीनाभिश्च विद्युद्भी र्हादाश्चरन्ति तस्मादाहुर्विद्योतते स्तनयति वर्षिष्यति वा इति तेज एव तत्पूर्वं दर्शयित्वाऽथापः सृजते तेज उपास्वेति ॥ ७.११.१ ॥",
+          "translation": "«Il Calore luminoso [Tejas] è invero superiore all'Acqua. Esso riscalda il vento ed entra nello spazio etereo; allora la gente dice: \"Fa caldo, arde l'aria: certamente pioverà!\". Il calore si manifesta per primo, e subito dopo genera le acque. I lampi solcano il cielo verso l'alto e l'orizzonte tra i rombi del tuono; allora la gente dice: \"Lampeggia e tuona: pioverà!\". Il calore si manifesta per primo, e quindi produce le acque: medita sul Calore!",
+          "source": "Chāndogya Upaniṣad, VII.11.1"
+        },
+        {
+          "id": "chandogya-7-11-2",
+          "original": "स यस्तेजो ब्रह्मेत्युपास्ते तेजस्वी वै स तेजस्वतो लोकाञ्भास्वतोऽपहततमस्कानभिसिद्ध्यति यावत्तेजसो गतं तत्रास्य यथाकामचारो भवति यस्तेजो ब्रह्मेत्युपास्तेऽस्ति भगवस्तेजसो भूय इति तेजसो वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.११.२ ॥",
+          "translation": "Colui che medita sul Calore come Brahman diviene radioso e conquista mondi splendenti, luminosi e liberi dalle tenebre, ottenendo libertà di movimento entro tutto l'ambito in cui il Calore si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore al Calore?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.11.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.12",
+      "section_title": "Lo Spazio (Ākāśa) superiore al Calore",
+      "passages": [
+        {
+          "id": "chandogya-7-12-1",
+          "original": "आकाशो वाव तेजसो भूयानाकाशे वै सूर्याचन्द्रमसावुभौ विद्युन्नक्षत्राण्यग्निराकाशेनाह्वयत्याकाशेन श‍ृणोत्याकाशेन प्रतिश‍ृणोत्याकाशे रमत आकाशे न रमत आकाशे जायत आकाशमभिजायत आकाशमुपास्वेति ॥ ७.१२.१ ॥",
+          "translation": "«Lo Spazio [Ākāśa] è invero superiore al Calore. Nello spazio risiedono il sole e la luna, la folgore, le stelle e il fuoco; attraverso lo spazio si chiama un altro essere, attraverso lo spazio si ode e si risponde; nello spazio si gioisce e nello spazio si soffre l'isolamento; nello spazio si nasce e verso lo spazio si cresce germogliando: medita sullo Spazio!",
+          "source": "Chāndogya Upaniṣad, VII.12.1"
+        },
+        {
+          "id": "chandogya-7-12-2",
+          "original": "स य आकाशं ब्रह्मेत्युपास्त आकाशवतो वै स लोकान्प्रकाशवतोऽसंबाधानुरुगायवतोऽभिसिद्ध्यति यावदाकाशस्य गतं तत्रास्य यथाकामचारो भवति य आकाशं ब्रह्मेत्युपास्तेऽस्ति भगवदाकाशाद्भूय इत्याकाशाद्वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.१२.२ ॥",
+          "translation": "Colui che medita sullo Spazio come Brahman ottiene mondi immensi, radiosi, liberi da angustie e senza confini, e gode di piena libertà di movimento entro tutto l'ambito in cui lo Spazio si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore allo Spazio?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.12.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.13",
+      "section_title": "La Memoria (Smara) superiore allo Spazio",
+      "passages": [
+        {
+          "id": "chandogya-7-13-1",
+          "original": "स्मरो वावाकाशाद्भूयस्तस्माद्यद्यपि बहव आसीरन्न स्मरन्तो नैव ते कंचन श‍ृणुयुर्न मन्वीरन्न विजानीरन्यदा वाव ते स्मरेयुरथ श‍ृणुयुरथ मन्वीरन्नथ विजानीरन्स्मरेण वै पुत्रान्विजानाति स्मरेण पशून्स्मरमुपास्वेति ॥ ७.१३.१ ॥",
+          "translation": "«La Memoria [Smara] è invero superiore allo Spazio. Se molti uomini fossero riuniti insieme nello spazio ma fossero privi di memoria, non udrebbero nulla, non penserebbero nulla e non comprenderebbero nulla. Ma quando la memoria torna in loro, allora odono, pensano e comprendono. Per la memoria un uomo riconosce i propri figli, per la memoria riconosce il bestiame: medita sulla Memoria!",
+          "source": "Chāndogya Upaniṣad, VII.13.1"
+        },
+        {
+          "id": "chandogya-7-13-2",
+          "original": "स यः स्मरं ब्रह्मेत्युपास्ते यावत्स्मरस्य गतं तत्रास्य यथाकामचारो भवति यः स्मरं ब्रह्मेत्युपास्तेऽस्ति भगवः स्मराद्भूय इति स्मराद्वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.१३.२ ॥",
+          "translation": "Colui che medita sulla Memoria come Brahman ottiene piena libertà di movimento entro tutto l'ambito in cui la Memoria si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore alla Memoria?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.13.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.14",
+      "section_title": "La Speranza/Aspirazione (Āśā) superiore alla Memoria",
+      "passages": [
+        {
+          "id": "chandogya-7-14-1",
+          "original": "आशा वाव स्मराद्भूयस्याशेद्धो वै स्मरो मन्त्रानधीते कर्माणि कुरुते पुत्रांश्च पशूꣳश्चेच्छत इमं च लोकममुं चेच्छत्याशामुपास्वेति ॥ ७.१४.१ ॥",
+          "translation": "«La Speranza ardente [Āśā] è invero superiore alla Memoria. Accesa dalla speranza la memoria recita i testi sacri, compie le azioni virtuose, desidera figli e ricchezze, brama questo mondo e il mondo ultraterreno: medita sulla Speranza!",
+          "source": "Chāndogya Upaniṣad, VII.14.1"
+        },
+        {
+          "id": "chandogya-7-14-2",
+          "original": "स य आशां ब्रह्मेत्युपास्त आशया हास्य सर्वे कामाः समृद्ध्यन्त्यमोघा हास्याशिषो भवन्ति यावदाशाया गतं तत्रास्य यथाकामचारो भवति य आशां ब्रह्मेत्युपास्तेऽस्ति भगव आशाया भूय इत्याशाया वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ ७.१४.२ ॥",
+          "translation": "Colui che medita sulla Speranza come Brahman vede tutti i suoi desideri realizzarsi per mezzo della speranza, e le sue preghiere non rimangono mai vane; egli gode di libertà di movimento entro tutto l'ambito in cui la Speranza si estende». Nārada chiese: «Venerabile signore, vi è forse qualcosa superiore alla Speranza?». «Certamente vi è qualcosa superiore», rispose quegli. «Che la venerabile signoria me lo riveli!».",
+          "source": "Chāndogya Upaniṣad, VII.14.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.15",
+      "section_title": "Il Soffio Vitale (Prāṇa) come perno universale e l'Ativādin",
+      "passages": [
+        {
+          "id": "chandogya-7-15-1",
+          "original": "प्राणो वाव आशाया भूयान्यथा वा अरा नाभौ समर्पिता एवमस्मिन्प्राणे सर्वं समर्पितं प्राणः प्राणेन याति प्राणः प्राणं ददाति प्राणाय ददाति प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ॥ ७.१५.१ ॥",
+          "translation": "«Il Soffio Vitale [Prāṇa] è invero superiore alla Speranza. Proprio come i raggi di una ruota sono tutti fissati al mozzo centrale, allo stesso modo in questo Prāṇa tutto questo universo è fissato. Il Prāṇa si muove mediante il Prāṇa; il Prāṇa dona la vita al Prāṇa; dona al Prāṇa. Il Prāṇa è il padre, il Prāṇa è la madre, il Prāṇa è il fratello, il Prāṇa è la sorella, il Prāṇa è il maestro spirituale, il Prāṇa è il sapiente brāhmaṇa.",
+          "source": "Chāndogya Upaniṣad, VII.15.1"
+        },
+        {
+          "id": "chandogya-7-15-2",
+          "original": "स यदि पितरं वा मातरं वा भ्रातरं वा स्वसारं वाऽऽचार्यं वा ब्राह्मणं वा किंचिद्भृशमिव प्रत्याह धिक्त्वाऽस्त्वित्येवैनमाहुः पितृहा वै त्वमसि मातृहा वै त्वमसि भ्रातृहा वै त्वमसि स्वसृहा वै त्वमस्याचार्यहा वै त्वमसि ब्राह्मणहा वै त्वमसीति ॥ ७.१५.२ ॥",
+          "translation": "Se uno risponde aspramente al padre, alla madre, al fratello, alla sorella, al maestro o a un sapiente mentre il Prāṇa è in loro presente, la gente gli dice: \"Vergogna su di te! Tu sei un parricida, un matricida, un fratricida, un uccisore del maestro!\".",
+          "source": "Chāndogya Upaniṣad, VII.15.2"
+        },
+        {
+          "id": "chandogya-7-15-3",
+          "original": "अथ यद्यप्येनानुत्क्रान्तप्राणाञ्छूलेन समासं व्यतिषंदहेन्नैवैनं ब्रूयुः पितृहाऽसीति न मातृहाऽसीति न भ्रातृहाऽसीति न स्वसृहाऽसीति नाचार्यहाऽसीति न ब्राह्मणहाऽसीति प्राणो ह्येवैतानि सर्वाणि भवति ॥ ७.१५.३ ॥",
+          "translation": "Ma se, una volta che il Prāṇa è uscito dal corpo, uno bruciasse i loro cadaveri su una pira funeraria trafiggendoli con un attizzatoio, nessuno gli direbbe: \"Tu sei un parricida, un matricida, un uccisore del maestro!\". Poiché il Prāṇa soltanto è invero tutte queste persone.",
+          "source": "Chāndogya Upaniṣad, VII.15.3"
+        },
+        {
+          "id": "chandogya-7-15-4",
+          "original": "स वा एष एवं पश्यन्नेवं मन्वान एवं विजानन्नतिवादी भवति तं चेद्ब्रूयुरतिवाद्यसीत्यतिवाद्यस्मीति ब्रूयान्नापह्रवीत ॥ ७.१५.४ ॥",
+          "translation": "Colui che così vede, così riflette e così comprende diviene un Ativādin [uno che parla oltrepassando ogni limite ordinario]. E se gli dicessero: \"Tu sei un Ativādin!\", egli risponda: \"Sì, sono un Ativādin!\", e non lo neghi affatto».",
+          "source": "Chāndogya Upaniṣad, VII.15.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.16",
+      "section_title": "La Verità (Satya) come fondamento del vero Ativādin",
+      "passages": [
+        {
+          "id": "chandogya-7-16-1",
+          "original": "एष तु वा अतिवदति यः सत्येनातिवदति सोऽहं भगवः सत्येनातिवदानीति सत्यं त्वेव विजिज्ञासितव्यमिति सत्यं भगवो विजिज्ञास इति ॥ ७.१६.१ ॥",
+          "translation": "«Ma in verità oltrepassa ogni limite nel parlare colui che proclama la Verità [Satya]». Nārada disse: «Possa io allora, o venerabile signore, oltrepassare ogni limite proclamando la Verità!». Sanatkumāra rispose: «La Verità soltanto deve essere ricercata e conosciuta». «Venerabile signore, io desidero ardentemente conoscere la Verità!».",
+          "source": "Chāndogya Upaniṣad, VII.16.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.17",
+      "section_title": "Il Discernimento conoscitivo (Vijñāna) della Verità",
+      "passages": [
+        {
+          "id": "chandogya-7-17-1",
+          "original": "यदा वै विजानात्यथ सत्यं वदति नाविजानन्सत्यं वदति विजानन्नेव सत्यं वदति विज्ञानं त्वेव विजिज्ञासितव्यमिति विज्ञानं भगवो विजिज्ञास इति ॥ ७.१७.१ ॥",
+          "translation": "«Quando infatti un uomo discerne con retta conoscenza [vijānāti], allora proclama la Verità; chi non discerne non proclama la Verità: soltanto chi discerne proclama la Verità. Il Discernimento conoscitivo [Vijñāna] soltanto deve essere ricercato e conosciuto». «Venerabile signore, io desidero ardentemente conoscere il Discernimento!».",
+          "source": "Chāndogya Upaniṣad, VII.17.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.18",
+      "section_title": "Il Pensiero riflessivo (Mati)",
+      "passages": [
+        {
+          "id": "chandogya-7-18-1",
+          "original": "यदा वै मनुतेऽथ विजानाति नामन्वानो विजानाति मत्वैव विजानाति मतिस्त्वेव विजिज्ञासितव्येति मतिं भगवो विजिज्ञास इति ॥ ७.१८.१ ॥",
+          "translation": "«Quando infatti un uomo riflette profondamente [manute], allora discerne; chi non riflette non discerne: soltanto chi riflette discerne. Il Pensiero riflessivo [Mati] soltanto deve essere ricercato e conosciuto». «Venerabile signore, io desidero ardentemente conoscere il Pensiero riflessivo!».",
+          "source": "Chāndogya Upaniṣad, VII.18.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.19",
+      "section_title": "La Fede salda (Śraddhā)",
+      "passages": [
+        {
+          "id": "chandogya-7-19-1",
+          "original": "यदा वै श्रद्दधात्यथ मनुते नाश्रद्दधन्मनुते श्रद्दधदेव मनुते श्रद्धा त्वेव विजिज्ञासितव्येति श्रद्धां भगवो विजिज्ञास इति ॥ ७.१९.१ ॥",
+          "translation": "«Quando infatti un uomo ha fede sincera [śraddadhāti], allora riflette; chi non ha fede non riflette: soltanto chi ha fede riflette. La Fede [Śraddhā] soltanto deve essere ricercata e conosciuta». «Venerabile signore, io desidero ardentemente conoscere la Fede!».",
+          "source": "Chāndogya Upaniṣad, VII.19.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.20",
+      "section_title": "La Dedizione costante (Niṣṭhā)",
+      "passages": [
+        {
+          "id": "chandogya-7-20-1",
+          "original": "यदा वै निस्तिष्ठत्यथ श्रद्दधाति नानिस्तिष्ठञ्छ्रद्दधाति निस्तिष्ठन्नेव श्रद्दधाति निष्ठा त्वेव विजिज्ञासितव्येति निष्ठां भगवो विजिज्ञास इति ॥ ७.२०.१ ॥",
+          "translation": "«Quando infatti un uomo si dedica con perseveranza al maestro [nistiṣṭhati], allora ha fede; chi non si dedica con perseveranza non ha fede: soltanto chi si dedica con perseveranza ha fede. La Dedizione costante [Niṣṭhā] soltanto deve essere ricercata e conosciuta». «Venerabile signore, io desidero ardentemente conoscere la Dedizione!».",
+          "source": "Chāndogya Upaniṣad, VII.20.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.21",
+      "section_title": "L'Azione interiore (Kṛti)",
+      "passages": [
+        {
+          "id": "chandogya-7-21-1",
+          "original": "यदा वै करोत्यथ निस्तिष्ठति नाकृत्वा निस्तिष्ठति कृत्वैव निस्तिष्ठति कृतिस्त्वेव विजिज्ञासितव्येति कृतिं भगवो विजिज्ञास इति ॥ ७.२१.१ ॥",
+          "translation": "«Quando infatti un uomo compie l'azione interiore di controllo dei sensi [karoti], allora si dedica con perseveranza; senza compiere l'azione non vi è perseveranza: soltanto chi compie l'azione si dedica con perseveranza. L'Azione interiore [Kṛti] soltanto deve essere ricercata e conosciuta». «Venerabile signore, io desidero ardentemente conoscere l'Azione interiore!».",
+          "source": "Chāndogya Upaniṣad, VII.21.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.22",
+      "section_title": "La Beatitudine interiore (Sukha)",
+      "passages": [
+        {
+          "id": "chandogya-7-22-1",
+          "original": "यदा वै सुखं लभतेऽथ करोति नासुखं लब्ध्वा करोति सुखमेव लब्ध्वा करोति सुखं त्वेव विजिज्ञासितव्यमिति सुखं भगवो विजिज्ञास इति ॥ ७.२२.१ ॥",
+          "translation": "«Quando infatti un uomo consegue la Beatitudine [Sukha], allora agisce; senza aver conseguito la beatitudine non si agisce: soltanto avendo conseguito la beatitudine si agisce. La Beatitudine soltanto deve essere ricercata e conosciuta». «Venerabile signore, io desidero ardentemente conoscere la Beatitudine!».",
+          "source": "Chāndogya Upaniṣad, VII.22.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.23",
+      "section_title": "La Rivelazione del Bhūman: la Pienezza Infinita è Beatitudine",
+      "passages": [
+        {
+          "id": "chandogya-7-23-1",
+          "original": "यो वै भूमा तत्सुखं नाल्पे सुखमस्ति भूमैव सुखं भूमा त्वेव विजिज्ञासितव्य इति भूमानं भगवो विजिज्ञास इति ॥ ७.२३.१ ॥",
+          "translation": "«Ciò che è la Pienezza Infinita [Bhūman], Quello è la Beatitudine [Sukha]; non vi è beatitudine nel finito e nel piccolo [nālpe sukham asti]: la Pienezza Infinita sola è la Beatitudine. E la Pienezza Infinita deve essere ricercata e conosciuta». «Venerabile signore, io desidero ardentemente conoscere la Pienezza Infinita!».",
+          "source": "Chāndogya Upaniṣad, VII.23.1"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.24",
+      "section_title": "La definizione metafisica del Bhūman e l'Alpa (il Finito)",
+      "passages": [
+        {
+          "id": "chandogya-7-24-1",
+          "original": "यत्र नान्यत्पश्यति नान्यच्छृणोति नान्यद्विजानाति स भूमाथ यत्रान्यत्पश्यत्यन्यच्छृणोत्यन्यद्विजानाति तदल्पं यो वै भूमा तदमृतमथ यदल्पं तन्मर्त्यꣳ स भगवः कस्मिन्प्रतिष्ठित इति स्वे महिम्रि यदि वा न महिम्रीति ॥ ७.२४.१ ॥",
+          "translation": "«Là dove non si vede altro, dove non si ode altro, dove non si conosce altro: quello è il Bhūman [l'Infinito non duale]. Ma là dove si vede un altro da sé, dove si ode un altro da sé, dove si conosce un altro da sé: quello è il finito [alpa]. Ciò che è il Bhūman è immortale [amṛtam]; ciò che è il finito è mortale [martyam]». Nārada chiese: «Venerabile signore, su che cosa poggia questo Bhūman?». Sanatkumāra rispose: «Poggia sulla propria maestà [sve mahimni], o piuttosto neppure sulla maestà!",
+          "source": "Chāndogya Upaniṣad, VII.24.1"
+        },
+        {
+          "id": "chandogya-7-24-2",
+          "original": "गोअश्वमिह महिमेत्याचक्षते हस्तिहिरण्यं दासभार्यं क्षेत्राण्यायतनानीति नाहमेवं ब्रवीमि ब्रवीमीति होवाचान्यो ह्यन्यस्मिन्प्रतिष्ठित इति ॥ ७.२४.२ ॥",
+          "translation": "In questo mondo la gente chiama maestà il possesso di bovini e cavalli, di elefanti e oro, di servi e spose, di terre e dimore. Ma io non parlo di questo!», disse il maestro. «Poiché in quel caso un oggetto finito poggia su un altro oggetto finito».",
+          "source": "Chāndogya Upaniṣad, VII.24.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.25",
+      "section_title": "L'Ahaṅkārādeśa e l'Ātmādeśa: l'onnipervadenza e la sovranità autonoma (Svārājya)",
+      "passages": [
+        {
+          "id": "chandogya-7-25-1",
+          "original": "स एवाधस्तात्स उपरिष्टात्स पश्चात्स पुरस्तात्स दक्षिणतः स उत्तरतः स एवेदꣳ सर्वमित्यथातोऽहंकारादेश एवाहमेवाधस्तादहमुपरिष्टादहं पश्चादहं पुरस्तादहं दक्षिणतोऽहमुत्तरतोऽहमेवेदꣳ सर्वमिति ॥ ७.२५.१ ॥",
+          "translation": "«Esso soltanto è in basso, Esso è in alto, Esso è dietro, Esso è davanti, Esso è a destra, Esso è a sinistra: Esso soltanto è tutto questo universo! Segue ora l'insegnamento relativo all'Io puro [Ahaṅkārādeśa]: Io soltanto sono in basso, Io sono in alto, Io sono dietro, Io sono davanti, Io sono a destra, Io sono a sinistra: Io soltanto sono tutto questo universo!",
+          "source": "Chāndogya Upaniṣad, VII.25.1"
+        },
+        {
+          "id": "chandogya-7-25-2",
+          "original": "अथात आत्मादेश एवात्मैवाधस्तादात्मोपरिष्टादात्मा पश्चादात्मा पुरस्तादात्मा दक्षिणत आत्मोत्तरत आत्मैवेदꣳ सर्वमिति स वा एष एवं पश्यन्नेवं मन्वान एवं विजानन्नात्मरतिरात्मक्रीड आत्ममिथुन आत्मानन्दः स स्वराड्भवति तस्य सर्वेषु लोकेषु कामचारो भवति । अथ येऽन्यथातो विदुरन्यराजानस्ते क्षय्यलोका भवन्ति तेषां सर्वेषु लोकेष्वकामचारो भवति ॥ ७.२५.२ ॥",
+          "translation": "Segue ora l'insegnamento relativo al Sé [Ātmādeśa]: l'Ātman soltanto è in basso, l'Ātman è in alto, l'Ātman è dietro, l'Ātman è davanti, l'Ātman è a destra, l'Ātman è a sinistra: l'Ātman soltanto è tutto questo universo! Colui che così vede, così riflette e così comprende, trova diletto solo nel Sé [ātmaratiḥ], gioca con il Sé, si unisce al Sé, gode della beatitudine del Sé: costui diviene sovrano di se stesso [svārāṭ] e possiede assoluta libertà di movimento in tutti i mondi. Ma coloro che conoscono diversamente da questo sono soggetti a signori estranei, abitano mondi perituri e non hanno alcuna libertà in nessun mondo».",
+          "source": "Chāndogya Upaniṣad, VII.25.2"
+        }
+      ]
+    },
+    {
+      "section_locus": "7.26",
+      "section_title": "La scaturigine di tutto dall'Ātman e la purificazione interiore (Āhāra-śuddhi)",
+      "passages": [
+        {
+          "id": "chandogya-7-26-1",
+          "original": "तस्य ह वा एतस्यैवं पश्यत एवं मन्वानस्यैवं विजानत आत्मतः प्राण आत्मत आशा आत्मतः स्मर आत्मत आकाश आत्मतस्तेज आत्मत आप आत्मत आविर्भावतिरोभावावात्मतोऽन्नमात्मतो बलमात्मतो विज्ञानमात्मतो ध्यानमात्मतश्चित्तमात्मतः संकल्प आत्मतो मन आत्मतो वागात्मतो नामात्मतो मन्त्रा आत्मतः कर्माण्यात्मत एवेदꣳ सर्वमिति ॥ ७.२६.१ ॥",
+          "translation": "«Per colui che così vede, così riflette e così comprende, dall'Ātman scaturisce il soffio vitale, dall'Ātman la speranza, dall'Ātman la memoria, dall'Ātman lo spazio, dall'Ātman il calore, dall'Ātman le acque, dall'Ātman la manifestazione e il riassorbimento, dall'Ātman il cibo, dall'Ātman la forza, dall'Ātman il discernimento, dall'Ātman la meditazione, dall'Ātman l'intelligenza riflessiva, dall'Ātman la volontà, dall'Ātman la mente, dall'Ātman la parola, dall'Ātman il nome, dall'Ātman i mantra, dall'Ātman le azioni sacre: dall'Ātman soltanto scaturisce tutto questo universo!",
+          "source": "Chāndogya Upaniṣad, VII.26.1"
+        },
+        {
+          "id": "chandogya-7-26-2",
+          "original": "तदेष श्लोकः । न पश्यो मृत्युं पश्यति न रोगं नोत दुःखताम् । सर्वꣳ ह पश्यः पश्यति सर्वमाप्नोति सर्वश इति । स एकधा भवति त्रिधा भवति पञ्चधा सप्तधा नवधा चैव पुनश्चैकादशः स्मृतः शतं च दश चैकश्च सहस्राणि च विंशतिः । आहारशुद्धौ सत्त्वशुद्धिः सत्त्वशुद्धौ ध्रुवा स्मृतिः स्मृतिलम्भे सर्वग्रन्थीनां विप्रमोक्षस्तस्मै मृदितकषायाय तमसस्पारं दर्शयति भगवान्सनत्कुमारस्तं स्कन्द इत्याचक्षते तं स्कन्द इत्याचक्षते ॥ ७.२६.२ ॥",
+          "translation": "A questo proposito vi è questo verso: \"Colui che vede la Realtà non vede la morte, non vede la malattia né alcuna sofferenza; colui che vede la Realtà vede il Tutto e ottiene il Tutto in ogni modo\". Egli diviene uno, diviene triplice, quintuplo, settuplo, nonuplo, e poi undici, centoundici e ventimila volte molteplice. Nella purezza dell'assimilazione vi è la purezza dell'essere interiore [āhāraśuddhau sattvaśuddhiḥ]; nella purezza dell'essere interiore vi è la memoria costante del Sé; e ottenuta la memoria costante, si ha lo scioglimento totale di tutti i nodi del cuore. A Nārada, le cui impurità interiori erano state interamente consumate, il venerabile Sanatkumāra mostrò la sponda al di là delle tenebre. Costui è chiamato Skanda, sì, è chiamato Skanda».",
+          "source": "Chāndogya Upaniṣad, VII.26.2"
+        }
+      ]
+    }
+  ]
+}

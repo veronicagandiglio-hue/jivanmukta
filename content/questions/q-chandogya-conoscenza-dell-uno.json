@@ -1,0 +1,22 @@
+{
+  "id": "q-chandogya-conoscenza-dell-uno",
+  "scope": "local",
+  "type": "specific",
+  "text": "In che modo conoscendo l'Uno (la Causa sostanziale) si conosce l'intero universo dei fenomeni?",
+  "problem": "All'inizio del sesto capitolo, Uddālaka interroga Śvetaketu sull'insegnamento per cui ciò che non è mai stato udito diviene udito e ciò che non è mai stato conosciuto diviene conosciuto: le tre analogie dell'argilla, dell'oro e del ferro dimostrano che gli effetti non sono realtà ontologiche nuove, ma mere denominazioni verbali della sostanza causale.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "vacarambhana",
+    "sat",
+    "conoscenza"
+  ],
+  "passages": [
+    "chandogya-6-1-3",
+    "chandogya-6-1-4",
+    "chandogya-6-1-5",
+    "chandogya-6-1-6"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

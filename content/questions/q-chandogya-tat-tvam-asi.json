@@ -1,0 +1,23 @@
+{
+  "id": "q-chandogya-tat-tvam-asi",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato metafisico esatto della formula «Tat Tvam Asi» ripetuta nove volte?",
+  "problem": "Il Mahāvākya non esprime una divinizzazione dell'ego psicologico né un'astrazione panteistica: attraverso il metodo della jahad-ajahal-lakṣaṇā chiarito da Śaṅkara, la formula spoglia 'Tat' (Brahman) dagli attributi cosmici di causa ed emanazione, e spoglia 'Tvam' (l'individuo) dalle limitazioni empiriche del corpo e della mente, rivelando l'identità assoluta e indivisa della loro comune natura di pura Coscienza/Essere.",
+  "parent_question": "q-che-rapporto-ce-tra-atman-e-brahman",
+  "concepts": [
+    "tat-tvam-asi",
+    "sat",
+    "atman",
+    "brahman"
+  ],
+  "passages": [
+    "chandogya-6-8-7",
+    "chandogya-6-12-3",
+    "chandogya-6-13-3",
+    "chandogya-6-16-3"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

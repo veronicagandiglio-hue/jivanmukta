@@ -1,0 +1,20 @@
+{
+  "id": "q-chandogya-saman-rettitudine-armonia",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato intrinseco del Sāman come principio di equanimità e rettitudine universale?",
+  "problem": "Il secondo capitolo dimostra che il Sāman non è una mera convenzione musicale, ma coincide con ciò che è retto, imparziale e conforme all'ordine reale (sādhu/sama), unificando microcosmo corporeo e macrocosmo naturale.",
+  "parent_question": "q-che-cosa-significa-conoscere",
+  "concepts": [
+    "saman",
+    "upasana"
+  ],
+  "passages": [
+    "chandogya-2-1-1",
+    "chandogya-2-1-2",
+    "chandogya-2-9-1"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}
