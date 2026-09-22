@@ -1,4 +1,280 @@
 {
+  "aitareya-adhyaya-1": {
+    "id": "aitareya-adhyaya-1",
+    "work_id": "aitareya-upanisad",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "sections": [
+      {
+        "section_locus": "1.1",
+        "section_title": "La creazione dei mondi e la formazione del Puruṣa",
+        "passages": [
+          {
+            "id": "aitareya-1-1-1",
+            "original": "आत्मा वा इदमेक एवाग्र आसीन्नान्यत्किञ्चचन । स ईक्षत लोकान्नु सृजा इति ॥ १ ॥",
+            "translation": "All'inizio questo universo era soltanto l'Ātman, uno solo; null'altro vi era di attivo. Egli considerò: «Voglio emanare i mondi».",
+            "source": "Aitareya Upaniṣad, I.1.1"
+          },
+          {
+            "id": "aitareya-1-1-2",
+            "original": "स इमाँल्लोकानसृजत । अम्भो मरीचीर्मापोऽदोऽम्भः परेण दिवं द्यौः प्रतिष्ठाऽन्तरिक्षं मरीचयः । पृथिवी मरो या अधस्तात्त आपः ॥ २ ॥",
+            "translation": "Egli emanò questi mondi: Ambhas [le acque superiori], Marīci [la sfera della luce], Mara [la terra dei mortali] e Āpas [le acque inferiori]. Quello è Ambhas, oltre il cielo: il cielo ne è il supporto; lo spazio intermedio è Marīci; la terra è Mara; ciò che si trova al di sotto sono le acque, Āpas.",
+            "source": "Aitareya Upaniṣad, I.1.2"
+          },
+          {
+            "id": "aitareya-1-1-3",
+            "original": "स ईक्षतेमे नु लोका लोकपालान्नु सृजा इति ॥ सोऽद्भ्य एव पुरुषं समुद्धृत्यामूर्छयत् ॥ ३ ॥",
+            "translation": "Egli considerò: «Ecco i mondi. Voglio ora emanare i custodi dei mondi». Trasse allora dalle acque stesse una forma d'uomo [Puruṣa] e le diede consistenza.",
+            "source": "Aitareya Upaniṣad, I.1.3"
+          },
+          {
+            "id": "aitareya-1-1-4",
+            "original": "तमभ्यतपत्तस्याभितप्तस्य मुखं निरभिद्यत यथाऽण्डं मुखाद्वाग्वाचोऽग्निर्नासिके निरभिद्येतं नासिकाभ्यां प्राणः । प्राणाद्वायुरक्षिणी निरभिद्येतमक्षिभ्यां चक्षुश्चक्षुष आदित्यः कर्णौ निरभिद्येतां कर्णाभ्यां श्रोत्रं श्रोत्रद्दिशस्त्वङ्निरभिद्यत त्वचो लोमानि लोमभ्य ओषधिवनस्पतयो हृदयं निरभिद्यत हृदयान्मनो मनसश्चन्द्रमा नाभिर्निरभिद्यत नाभ्या अपानोऽपानान्मृत्युः शिश्नं निरभिद्यत शिश्नाद्रेतो रेतस आपः ॥ ४ ॥",
+            "translation": "Egli lo riscaldò con il proprio ardore interiore [tapas]. Quando fu così riscaldato, la sua bocca si aprì, come un uovo; dalla bocca scaturì la parola, e dalla parola il fuoco [Agni]. Poi si aprirono le narici; dalle narici scaturì il soffio vitale [prāṇa], e dal soffio vitale il vento [Vāyu]. Si aprirono gli occhi; dagli occhi scaturì la vista, e dalla vista il sole [Āditya]. Si aprirono le orecchie; dalle orecchie scaturì l'udito, e dall'udito le direzioni dello spazio [diś]. Si formò la pelle; dalla pelle scaturirono i peli, e dai peli le erbe e gli alberi. Si formò il cuore; dal cuore scaturì la mente [manas], e dalla mente la luna [Candramas]. Si formò l'ombelico; dall'ombelico scaturì il soffio discendente [apāna], e dall'apāna la morte [Mṛtyu]. Si formò l'organo generatore; dall'organo generatore scaturì il seme vitale, e dal seme le acque [āpas].",
+            "source": "Aitareya Upaniṣad, I.1.4"
+          }
+        ]
+      },
+      {
+        "section_locus": "1.2",
+        "section_title": "L'assegnazione delle funzioni e l'abitazione nel corpo",
+        "passages": [
+          {
+            "id": "aitareya-1-2-1",
+            "original": "ता एता देवता सृष्टा अस्मिन्महत्यर्णवे प्रापतन् । तमशनापिपासाभ्यामन्ववार्जत् । ता एनमब्रुवन्नायतनं नः प्रजानीहि यस्मिन्प्रतिष्ठिता अन्नमदामेति ॥ १ ॥",
+            "translation": "Queste divinità, così emanate, caddero in questo grande oceano [del divenire]. Egli le sottomise alla fame e alla sete. Esse gli dissero: «Assegnaci una dimora in cui, stando stabilite, possiamo cibarci».",
+            "source": "Aitareya Upaniṣad, I.2.1"
+          },
+          {
+            "id": "aitareya-1-2-2",
+            "original": "ताभ्यो गामानयत्ता अब्रुवन्न वै नोऽयमलमिति । ताभ्योऽश्वमानयत्ता अब्रुवन्न वै नोऽयमलमिति ॥ २ ॥",
+            "translation": "Condusse loro un bovino. Esse dissero: «Questo non è certo sufficiente per noi». Condusse loro un cavallo. Esse dissero: «Questo non è certo sufficiente per noi».",
+            "source": "Aitareya Upaniṣad, I.2.2"
+          },
+          {
+            "id": "aitareya-1-2-3",
+            "original": "ताभ्यः पुरुषमानयत्ता अब्रुवन् सुकृतं बतेति पुरुषो वाव सुकृतम् । ता अब्रवीद्यथायतनं प्रविशतेति ॥ ३ ॥",
+            "translation": "Condusse loro un essere umano [puruṣa]. Esse dissero: «Oh, questo è davvero ben fatto!». L'essere umano è invero un'opera ben compiuta. Egli disse loro: «Entrate ciascuna nella rispettiva dimora».",
+            "source": "Aitareya Upaniṣad, I.2.3"
+          },
+          {
+            "id": "aitareya-1-2-4",
+            "original": "अग्निर्वाग्भूत्वा मुखं प्राविशद्वायुः प्राणो भूत्वा नासिके प्राविशदादित्यश्चक्षुर्भूत्वाऽक्षिणी प्राविशद्दिशः श्रोत्रं भूत्वा कर्णौ प्राविशन्नोषधिवनस्पतयो लोमानि भूत्वा त्वचं प्राविशंश्चन्द्रमा मनो भूत्वा हृदयं प्राविशन्मृत्युरपानो भूत्वा नाभिं प्राविशदापो रेतो भूत्वा शिश्नं प्राविशन् ॥ ४ ॥",
+            "translation": "Il fuoco, divenuto parola, entrò nella bocca; il vento, divenuto soffio vitale, entrò nelle narici; il sole, divenuto vista, entrò negli occhi; le direzioni dello spazio, divenute udito, entrarono nelle orecchie; le erbe e gli alberi, divenuti peli, entrarono nella pelle; la luna, divenuta mente, entrò nel cuore; la morte, divenuta soffio discendente, entrò nell'ombelico; le acque, divenute seme vitale, entrarono nell'organo generatore.",
+            "source": "Aitareya Upaniṣad, I.2.4"
+          },
+          {
+            "id": "aitareya-1-2-5",
+            "original": "तमशनायापिपासे अब्रूतामावाभ्यामभिप्रजानीहीति ते अब्रवीदेतास्वेव वां देवतास्वाभजाम्येतासु भागिन्यौ करोमीति । तस्माद्यस्यै कस्यै च देवतायै हविर्गृह्यते भागिन्यावेवास्यामशनायापिपासे भवतः ॥ ५ ॥",
+            "translation": "La fame e la sete gli dissero: «Assegna una dimora anche a noi due». Egli rispose loro: «Vi assegno una parte proprio in queste divinità, vi rendo partecipi di esse». Per questo motivo, a qualunque divinità si offra un'oblazione, la fame e la sete vi prendono parte.",
+            "source": "Aitareya Upaniṣad, I.2.5"
+          }
+        ]
+      },
+      {
+        "section_locus": "1.3",
+        "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+        "passages": [
+          {
+            "id": "aitareya-1-3-1",
+            "original": "स ईक्षतेमे नु लोकाश्च लोकपालाश्चान्नमेभ्यः सृजा इति ॥ १ ॥",
+            "translation": "Egli considerò: «Ecco i mondi e i custodi dei mondi. Emanerò ora del nutrimento per loro».",
+            "source": "Aitareya Upaniṣad, I.3.1"
+          },
+          {
+            "id": "aitareya-1-3-2",
+            "original": "सोऽपोऽभ्यतपत्ताभ्योऽभितप्ताभ्यो मूर्तिरजायत । या वै सा मूर्तिरजायतान्नं वै तत् ॥ २ ॥",
+            "translation": "Egli riscaldò con il proprio ardore le acque; dalle acque così riscaldate scaturì una forma solida. Quella forma solida che si produsse è invero il nutrimento.",
+            "source": "Aitareya Upaniṣad, I.3.2"
+          },
+          {
+            "id": "aitareya-1-3-3",
+            "original": "तदेनत्सृष्टं पराङ्त्यजिघांसत्तद्वाचाऽजिघृक्षत् तन्नाशक्नोद्वाचा ग्रहीतुम् । स यद्धैनद्वाचाऽग्रहैष्यदभिव्याहृत्य हैवान्नमत्रप्स्यत् ॥ ३ ॥",
+            "translation": "Questo nutrimento, una volta emanato, cercò di fuggire via. Egli tentò di afferrarlo con la parola, ma non riuscì ad afferrarlo con la parola. Se infatti lo avesse afferrato con la parola, basterebbe pronunciare il cibo per saziarsene.",
+            "source": "Aitareya Upaniṣad, I.3.3"
+          },
+          {
+            "id": "aitareya-1-3-4",
+            "original": "तत्प्राणेनाजिघृक्षत् तन्नाशक्नोत्प्राणेन ग्रहीतुम् । स यद्धैनत्प्राणेनाग्रहैष्यदभिप्राण्य हैवान्नमत्रप्स्यत् ॥ ४ ॥",
+            "translation": "Tentò di afferrarlo con l'olfatto, ma non riuscì ad afferrarlo con l'olfatto. Se lo avesse afferrato con l'olfatto, basterebbe odorare il cibo per saziarsene.",
+            "source": "Aitareya Upaniṣad, I.3.4"
+          },
+          {
+            "id": "aitareya-1-3-5",
+            "original": "तच्चक्षुषाऽजिघृक्षत् तन्नाशक्नोच्चक्षुषा ग्रहीतुम् । स यद्धैनच्चक्षुषाऽग्रहैष्यद्दृष्ट्वा हैवानमत्रप्स्यत् ॥ ५ ॥",
+            "translation": "Tentò di afferrarlo con la vista, ma non riuscì ad afferrarlo con la vista. Se lo avesse afferrato con la vista, basterebbe vedere il cibo per saziarsene.",
+            "source": "Aitareya Upaniṣad, I.3.5"
+          },
+          {
+            "id": "aitareya-1-3-6",
+            "original": "तच्छ्रोत्रेणाजिघृक्षत् तन्नाशक्नोच्छ्रोत्रेण ग्रहीतुम् । स यद्धैनच्छ्रोत्रेनाग्रहैष्यच्छ्रुत्वा हैवान्नमत्रप्स्यत् ॥ ६ ॥",
+            "translation": "Tentò di afferrarlo con l'udito, ma non riuscì ad afferrarlo con l'udito. Se lo avesse afferrato con l'udito, basterebbe udire il cibo per saziarsene.",
+            "source": "Aitareya Upaniṣad, I.3.6"
+          },
+          {
+            "id": "aitareya-1-3-7",
+            "original": "तत्त्वचाऽजिघृक्षत् तन्नाशक्नोत्त्वचा ग्रहीतुम् । स यद्धैनत्त्वचाऽग्रहैष्यत् स्पृष्ट्वा हैवान्नमत्रप्स्यत् ॥ ७ ॥",
+            "translation": "Tentò di afferrarlo con il tatto, ma non riuscì ad afferrarlo con il tatto. Se lo avesse afferrato con il tatto, basterebbe toccare il cibo per saziarsene.",
+            "source": "Aitareya Upaniṣad, I.3.7"
+          },
+          {
+            "id": "aitareya-1-3-8",
+            "original": "तन्मनसाऽजिघृक्षत् तन्नाशक्नोन्मनसा ग्रहीतुम् । स यद्धैनन्मनसाऽग्रहैष्यद्ध्यात्वा हैवान्नमत्रप्स्यत् ॥ ८ ॥",
+            "translation": "Tentò di afferrarlo con la mente, ma non riuscì ad afferrarlo con la mente. Se lo avesse afferrato con la mente, basterebbe pensare al cibo per saziarsene.",
+            "source": "Aitareya Upaniṣad, I.3.8"
+          },
+          {
+            "id": "aitareya-1-3-9",
+            "original": "तच्छिश्नेनाजिघृक्षत् तन्नाशक्नोच्छिश्नेन ग्रहीतुम् । स यद्धैनच्छिश्नेनाग्रहैष्यद्वित्सृज्य हैवानमत्रप्स्यत् ॥ ९ ॥",
+            "translation": "Tentò di afferrarlo con l'organo generatore, ma non riuscì ad afferrarlo con l'organo generatore. Se lo avesse afferrato con l'organo generatore, basterebbe emettere il seme per saziarsene.",
+            "source": "Aitareya Upaniṣad, I.3.9"
+          },
+          {
+            "id": "aitareya-1-3-10",
+            "original": "तदपानेनाजिघृक्षत् तदावयत् सैषोऽन्नस्य ग्रहो यद्वायुरनायुर्वा एष यद्वायुः ॥ १० ॥",
+            "translation": "Tentò allora di afferrarlo con il soffio discendente [apāna], e lo afferrò. Questo apāna è colui che trattiene il nutrimento; questo soffio vitale è invero colui che vive di cibo.",
+            "source": "Aitareya Upaniṣad, I.3.10"
+          },
+          {
+            "id": "aitareya-1-3-11",
+            "original": "स ईक्षत कथं न्विदं मदृते स्यादिति स ईक्षत कतरेण प्रपद्या इति । स ईक्षत यदि वाचाऽभिव्याहृतं यदि प्राणेनाभिप्राणितं यदि चक्षुषा दृष्टं यदि श्रोत्रेण श्रुतं यदि त्वचा स्पृष्टं यदि मनसा ध्यातं यद्यपानेनाभ्यपानितं यदि शिश्नेन विसृष्टमथ कोऽहमिति ॥ ११ ॥",
+            "translation": "Egli considerò: «Come potrebbe sussistere tutto questo senza di me?». E considerò: «Per quale via dovrò entrarvi?». Considerò ancora: «Se la parola è espressa dalla voce, se l'odore è percepito dal respiro, se la forma è vista dall'occhio, se il suono è udito dall'orecchio, se il contatto è sentito dalla pelle, se l'oggetto è pensato dalla mente, se l'assimilazione avviene per l'apāna, se l'emissione avviene per l'organo generatore: allora chi sono io?»",
+            "source": "Aitareya Upaniṣad, I.3.11"
+          },
+          {
+            "id": "aitareya-1-3-12",
+            "original": "स एतमेव सीमानं विदर्यैतया द्वारा प्रापद्यत । सैषा विदृतिर्नाम द्वास्तदेतन्नाऽन्दनम् । तस्य त्रय आवसथास्त्रयः स्वप्ना अयमावसथोऽयमावसथोऽयमावसथ इति ॥ १२ ॥",
+            "translation": "Fendendo la sutura alla sommità del capo, per questa porta Egli vi entrò. Questa porta ha nome Vidṛti [la fenditura]; essa è la dimora della beatitudine [nāndana]. Di Lui vi sono tre sedi e tre stati di sogno: questa è la prima dimora, questa è la seconda dimora, questa è la terza dimora.",
+            "source": "Aitareya Upaniṣad, I.3.12"
+          },
+          {
+            "id": "aitareya-1-3-13",
+            "original": "स जातो भूतान्यभिव्यैख्यत् किमिहान्यं वावदिषदिति । स एतमेव पुरुषं ब्रह्म ततममपश्यत् । इदमदर्शनमिती ३ ॥ १३ ॥",
+            "translation": "Una volta penetrato nei corpi, Egli contemplò gli esseri: «Chi mai parlerebbe qui di un altro da me?». E vide questo stesso Puruṣa come il Brahman onnipervadente. Disse: «Ho visto Questo!» [idam adarśam].",
+            "source": "Aitareya Upaniṣad, I.3.13"
+          },
+          {
+            "id": "aitareya-1-3-14",
+            "original": "तस्मादिदन्द्रो नामेदन्द्रो ह वै नाम तमिदन्द्रं सन्तमिन्द्र इत्याचक्षते परोक्षेण । परोक्षप्रिया इव हि देवाः परोक्षप्रिया इव हि देवाः ॥ १४ ॥",
+            "translation": "Perciò Egli ha nome Idandra: Idandra è invero il Suo nome. E, pur essendo Idandra [«Colui che vede questo»], lo chiamano 'Indra' per via indiretta. Poiché le divinità amano ciò che è allusivo, le divinità amano ciò che è allusivo.",
+            "source": "Aitareya Upaniṣad, I.3.14"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-adhyaya-2": {
+    "id": "aitareya-adhyaya-2",
+    "work_id": "aitareya-upanisad",
+    "unit_locus": "2",
+    "unit_title": "Secondo Adhyāya",
+    "sections": [
+      {
+        "section_locus": "2.1",
+        "section_title": "Le tre nascite e la liberazione di Vāmadeva",
+        "passages": [
+          {
+            "id": "aitareya-2-1-1",
+            "original": "पुरुषे ह वा अयमादितो गर्भो भवति यदेतद्रेतः । तदेतत्सर्वेभ्योऽङ्गेभ्यस्तेजः सम्भूतमात्मन्येवऽऽत्मानं बिभर्ति तद्यदा स्त्रियां सिञ्चत्यथैनज्जनयति तदस्य प्रथमं जन्म ॥ १ ॥",
+            "translation": "Nell'uomo primariamente questo embrione sussiste come seme vitale. Esso è il vigore [tejas] tratto da tutte le membra del corpo; l'uomo porta così il proprio sé in se stesso. Quando lo riversa nella donna, lo genera: questa è la sua prima nascita.",
+            "source": "Aitareya Upaniṣad, II.1.1"
+          },
+          {
+            "id": "aitareya-2-1-2",
+            "original": "तत्स्त्रिया आत्मभूयं गच्छति यथा स्वमङ्गं तथा । तस्मादेनां न हिनस्ति । साऽस्यैतमात्मानमत्र गतं भावयति ॥ २ ॥",
+            "translation": "Esso diviene tutt'uno con la donna, proprio come una parte del suo stesso corpo; perciò essa non ne riceve danno. La donna nutre e custodisce questo sé di lui che è giunto in lei.",
+            "source": "Aitareya Upaniṣad, II.1.2"
+          },
+          {
+            "id": "aitareya-2-1-3",
+            "original": "सा भावयित्री भावयितव्या भवति । तं स्त्री गर्भ बिभर्ति । सोऽग्र एव कुमारं जन्मनोऽग्रेऽधिभावयति । स यत्कुमारं जन्मनोऽग्रेऽधिभावयत्यात्मानमेव तद्भावयत्येषां लोकानां सन्तत्या । एवं सन्तता हीमे लोकास्तदस्य द्वितीयं जन्म ॥ ३ ॥",
+            "translation": "Colei che nutre il germe deve essere a sua volta nutrita e custodita. La donna porta il grembo. Il padre si prende cura del figlio prima e dopo la nascita; e nel prendersi cura del figlio prima e dopo la nascita, egli nutre in verità il proprio sé per la continuità di questi mondi. Così infatti si perpetuano questi mondi: questa è la sua seconda nascita.",
+            "source": "Aitareya Upaniṣad, II.1.3"
+          },
+          {
+            "id": "aitareya-2-1-4",
+            "original": "सोऽस्यायमात्मा पुण्येभ्यः कर्मभ्यः प्रतिधीयते । अथास्यायामितर आत्मा कृतकृत्यो वयोगतः प्रैति । स इतः प्रयन्नेव पुनर्जायते तदस्य तृतीयं जन्म ॥ ४ ॥",
+            "translation": "Questo suo figlio, che è il suo stesso sé, è deputato al compimento delle azioni rette e sacre; poi l'altro suo sé [il padre], compiuto il proprio ufficio e giunto al termine dell'età, muore. E dipartendosi da questo mondo, egli nasce di nuovo: questa è la sua terza nascita.",
+            "source": "Aitareya Upaniṣad, II.1.4"
+          },
+          {
+            "id": "aitareya-2-1-5",
+            "original": "तदुक्तमृषिणा गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा शतं मा पुर आयसीररक्षन्नधः श्येनो जवसा निरदीयमिति । गर्भ एवैतच्छयानो वामदेव एवमुवाच ॥ ५ ॥",
+            "translation": "A questo proposito fu dichiarato dal saggio [il ṛṣi Vāmadeva]: «Mentre ero ancora nel grembo materno, ho conosciuto tutte le nascite degli dèi; cento fortezze di ferro mi trattenevano prigioniero, ma come un falco con rapido slancio me ne sono liberato e sono volato via». Così parlò Vāmadeva mentre ancora giaceva nel grembo materno.",
+            "source": "Aitareya Upaniṣad, II.1.5"
+          },
+          {
+            "id": "aitareya-2-1-6",
+            "original": "स एवं विद्वानस्माच्छरीरभेदादूर्ध्व उत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान् कामानाप्त्वाऽमृतः समभवत् समभवत् ॥ ६ ॥",
+            "translation": "Egli, possedendo tale conoscenza, al dissolvimento di questo corpo si innalzò verso l'alto e, ottenuto ogni compimento nel supremo regno luminoso, divenne immortale, divenne immortale.",
+            "source": "Aitareya Upaniṣad, II.1.6"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/aitareya-adhyaya-2.json"
+  },
+  "aitareya-adhyaya-3": {
+    "id": "aitareya-adhyaya-3",
+    "work_id": "aitareya-upanisad",
+    "unit_locus": "3",
+    "unit_title": "Terzo Adhyāya",
+    "sections": [
+      {
+        "section_locus": "3.1",
+        "section_title": "La natura dell'Ātman e la Coscienza come Brahman",
+        "passages": [
+          {
+            "id": "aitareya-3-1-1",
+            "original": "कोऽयमात्मेति वयमुपास्महे कतरः स आत्मा । येन वा पश्यति येन वा शृणोति येन वा गन्धानाजिघ्रति येन वा वाचं व्याकरोति येन वा स्वादु चास्वादु च विजानाति ॥ १ ॥",
+            "translation": "«Chi è questo Sé che noi veneriamo? Quale dei due è il Sé? È forse colui mediante il quale si vede, mediante il quale si ode, mediante il quale si percepiscono gli odori, mediante il quale si articola la parola, oppure mediante il quale si distingue ciò che è saporito da ciò che non lo è?»",
+            "source": "Aitareya Upaniṣad, III.1.1"
+          },
+          {
+            "id": "aitareya-3-1-2",
+            "original": "यदेतद्धृदयं मनश्चैतत् । सञ्ज्ञानमाज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिधृर्तिमतिर्मनीषा जूतिः स्मृतिः सङ्कल्पः क्रतुरसुः कामो वश इति । सर्वाण्येवैतानि प्रज्ञानस्य नामधेयानि भवन्ति ॥ २ ॥",
+            "translation": "Ciò che è il cuore e ciò che è la mente; la consapevolezza, la percezione ordinata, la conoscenza analitica, la comprensione profonda, la saggezza, la visione, la fermezza, la riflessione, l'intelletto, l'inquietudine, la memoria, l'intenzione, la volontà, la vitalità, il desiderio e l'attaccamento: tutte queste facoltà non sono che nomi e determinazioni della pura Coscienza [Prajñāna].",
+            "source": "Aitareya Upaniṣad, III.1.2"
+          },
+          {
+            "id": "aitareya-3-1-3",
+            "original": "एष ब्रह्मैष इन्द्र एष प्रजापतिरेते सर्वे देवा इमानि च पञ्चमहाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्षुद्रमिश्राणीव । बीजानीतराणि चेतराणि चाण्डजानि च जारुजानि च स्वेदजानि चोद्भिज्जानि चाश्वा गावः पुरुषा हस्तिनो यत्किञ्चेदं प्राणि जङ्गमं च पतत्रि च यच्च स्थावरं सर्वं तत्प्रज्ञानेत्रं प्रज्ञाने प्रतिष्ठितं प्रज्ञानेत्रो लोकः प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म ॥ ३ ॥",
+            "translation": "Egli è Brahman, Egli è Indra, Egli è Prajāpati, Egli è tutti questi dèi; e questi cinque grandi elementi: terra, vento, spazio etereo, acque e luce; e tutti questi esseri minuscoli e molteplici; e i diversi semi, ciò che nasce dall'uovo, ciò che nasce dal grembo materno, ciò che nasce dal calore e dall'umidità, e ciò che spunta dalla terra; i cavalli, i bovini, gli uomini, gli elefanti, e qualunque essere vivente che si muova o voli, o che sia immobile: tutto questo ha come guida la Coscienza, è fondato nella Coscienza. Il mondo ha come guida la Coscienza; la Coscienza ne è il fondamento. La pura Coscienza è Brahman [Prajñānaṁ Brahma].",
+            "source": "Aitareya Upaniṣad, III.1.3"
+          },
+          {
+            "id": "aitareya-3-1-4",
+            "original": "स एतेन प्राज्ञेनाऽऽत्मनाऽस्माल्लोकादुत्क्रम्यामुष्मिन्स्वर्गे लोके सर्वान् कामानाप्त्वाऽमृतः समभवत् समभवत् ॥ ४ ॥",
+            "translation": "Egli, mediante questo Sé cosciente [Prajña Ātman], dipartendosi da questo mondo e avendo ottenuto ogni compimento nel supremo regno luminoso, divenne immortale, divenne immortale.",
+            "source": "Aitareya Upaniṣad, III.1.4"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/aitareya-adhyaya-3.json"
+  },
+  "aitareya-santipatha": {
+    "id": "aitareya-santipatha",
+    "work_id": "aitareya-upanisad",
+    "unit_locus": "0",
+    "unit_title": "Invocazione iniziale di pace",
+    "sections": [
+      {
+        "section_locus": "0.1",
+        "section_title": "Śāntipāṭha",
+        "passages": [
+          {
+            "id": "aitareya-santi-1",
+            "original": "वाङ् मे मनसि प्रतिष्ठिता मनो मे वाचि प्रतिष्ठितमाविरावीर्म एधि ॥ वेदस्य म आणीस्थः श्रुतं मे मा प्रहासीरनेनाधीतेनाहोरात्रान् सन्दधाम्यृतं वदिष्यामि सत्यं वदिष्यामि ॥ तन्मामवतु तद्वक्तारमवत्ववतु मामवतु वक्तारमवतु वक्तारम् ॥ ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+            "translation": "La mia parola sia stabilita nella mente, la mia mente sia stabilita nella parola. O Luce manifesta, manifestati a me! Siate per me entrambi il sostegno della conoscenza dei Veda. Ciò che ho ascoltato non mi abbandoni. Mediante questo studio congiungo i giorni e le notti. Proferirò il giusto, proferirò il vero. Possa Quello proteggere me, possa Quello proteggere colui che insegna; protegga me, protegga il maestro, protegga il maestro! Oṃ, pace, pace, pace!",
+            "source": "Aitareya Upaniṣad, Śāntipāṭha"
+          }
+        ]
+      }
+    ],
+    "source_file": "editorial-units/aitareya-santipatha.json"
+  },
   "isha-1": {
     "id": "isha-1",
     "work_id": "isha-upanishad",

@@ -111,6 +111,12 @@
     ],
     "prev_step": "02-che-cosa-significa-realta",
     "next_step": "04-chi-sono-veramente",
+    "curated_passages": [
+      {
+        "passage_id": "aitareya-1-1-1",
+        "why": "Afferma l'esistenza primordiale dell'Ātman come Realtà unica e non duale, escludendo qualsiasi principio separato prima della manifestazione."
+      }
+    ],
     "source_file": "core-path/03-che-cose-l-assoluto.json"
   },
   "04-chi-sono-veramente": {
@@ -149,6 +155,12 @@
     ],
     "prev_step": "03-che-cose-l-assoluto",
     "next_step": "05-che-cose-il-se",
+    "curated_passages": [
+      {
+        "passage_id": "aitareya-1-3-11",
+        "why": "Formula l'interrogativo essenziale «chi sono io?», separando radicalmente il soggetto cosciente dalle facoltà sensorie e operative del corpo."
+      }
+    ],
     "source_file": "core-path/04-chi-sono-veramente.json"
   },
   "05-che-cose-il-se": {
@@ -228,6 +240,12 @@
     ],
     "prev_step": "05-che-cose-il-se",
     "next_step": "07-che-rapporto-ce-tra-atman-e-brahman",
+    "curated_passages": [
+      {
+        "passage_id": "aitareya-3-1-3",
+        "why": "Enuncia il Mahāvākya «Prajñānaṁ Brahma», identificando la natura di Brahman con la pura Coscienza che fonda l'intera manifestazione."
+      }
+    ],
     "source_file": "core-path/06-che-cose-brahman.json"
   },
   "07-che-rapporto-ce-tra-atman-e-brahman": {
@@ -393,6 +411,16 @@
     ],
     "prev_step": "09-che-cosa-significa-conoscere",
     "next_step": null,
+    "curated_passages": [
+      {
+        "passage_id": "aitareya-2-1-5",
+        "why": "Descrive l'emancipazione immediata dal ciclo delle rinascite attraverso l'intuizione metafisica del saggio Vāmadeva."
+      },
+      {
+        "passage_id": "aitareya-2-1-6",
+        "why": "Descrive l'emancipazione immediata dal ciclo delle rinascite attraverso l'intuizione metafisica del saggio Vāmadeva."
+      }
+    ],
     "source_file": "core-path/10-che-cose-la-liberazione.json"
   }
 }

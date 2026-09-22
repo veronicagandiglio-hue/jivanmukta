@@ -1,4 +1,17 @@
 {
+  "aitareya-upanisad": {
+    "id": "aitareya-upanisad",
+    "title": "Aitareya Upaniṣad",
+    "short_title": "Aitareya",
+    "language": "sanscrito",
+    "editorial_units": [
+      "aitareya-santipatha",
+      "aitareya-adhyaya-1",
+      "aitareya-adhyaya-2",
+      "aitareya-adhyaya-3"
+    ],
+    "source_file": "works/aitareya-upanisad.json"
+  },
   "isha-upanishad": {
     "id": "isha-upanishad",
     "title": "Īśāvāsyopaniṣad",

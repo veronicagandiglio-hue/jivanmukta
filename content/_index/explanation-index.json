@@ -1,4 +1,480 @@
 {
+  "expl-aitareya-1-1-1": {
+    "id": "expl-aitareya-1-1-1",
+    "target_type": "passage",
+    "target_id": "aitareya-1-1-1",
+    "title": "L'unità primordiale dell'Ātman",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il testo apre la trattazione cosmologica affermando che all'origine sussiste unicamente il Sé (Ātman), senza dualità né compagni. La manifestazione dei mondi non deriva da una trasformazione materiale o da una causa esterna, ma scaturisce da una deliberazione cosciente (īkṣaṇa) propria del Principio."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-1-1.json"
+  },
+  "expl-aitareya-1-1-2": {
+    "id": "expl-aitareya-1-1-2",
+    "target_type": "passage",
+    "target_id": "aitareya-1-1-2",
+    "title": "I quattro ambiti della manifestazione cosmica",
+    "sections": [
+      {
+        "heading": "",
+        "text": "L'Ātman ordina la manifestazione in quattro regioni simboliche: Ambhas (le acque trascendenti al di là del cielo), Marīci (lo spazio luminoso intermedio), Mara (la terra dei mortali) e Āpas (le acque inferiori). L'intero spettro dell'universo fenomenico viene così collocato in una gerarchia oggettiva."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-1-2.json"
+  },
+  "expl-aitareya-1-1-3": {
+    "id": "expl-aitareya-1-1-3",
+    "target_type": "passage",
+    "target_id": "aitareya-1-1-3",
+    "title": "La formazione del Puruṣa archetipico",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Per dotare i mondi di potenze reggitrici, l'Ātman estrae dalle acque primordiali una forma archetipica umana (Puruṣa) e le conferisce determinazione. Il Puruṣa funge da mediatore cosmico e modello ontologico per ogni successiva differenziazione corporea e sensoriale."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-1-3.json"
+  },
+  "expl-aitareya-1-1-4": {
+    "id": "expl-aitareya-1-1-4",
+    "target_type": "passage",
+    "target_id": "aitareya-1-1-4",
+    "title": "La differenziazione degli organi e dei reggitori cosmici",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Attraverso il calore meditativo (tapas), il Puruṣa si schiude in sedi corporee distinte. Da ciascuna cavità scaturisce una facoltà operativa e, da questa, il rispettivo principio cosmico (la parola e il fuoco, il respiro e il vento, la vista e il sole). Microcosmo umano e macrocosmo universale sono così mostrati come corrispettivi e inseparabili."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-1-4.json"
+  },
+  "expl-aitareya-1-2-1": {
+    "id": "expl-aitareya-1-2-1",
+    "target_type": "passage",
+    "target_id": "aitareya-1-2-1",
+    "title": "La caduta nell'oceano del divenire e il bisogno",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Le potenze cosmiche scaturite dal Puruṣa entrano nell'oceano dell'esistenza manifesta e vengono toccate dalla fame e dalla sete. La condizione individuale e fenomenica si caratterizza immediatamente per l'incompletezza, la carenza e la necessità di un supporto corporeo per sussistere."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-2-1.json"
+  },
+  "expl-aitareya-1-2-2": {
+    "id": "expl-aitareya-1-2-2",
+    "target_type": "passage",
+    "target_id": "aitareya-1-2-2",
+    "title": "L'inadeguatezza dei supporti animali",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Le divinità cercano una dimora in cui stabilirsi per nutrirsi. Le forme del bovino e del cavallo vengono rifiutate poiché parziali e non idonee a integrare la totalità delle funzioni conoscitive e operative richieste dall'ordine cosmico."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-2-2.json"
+  },
+  "expl-aitareya-1-2-3": {
+    "id": "expl-aitareya-1-2-3",
+    "target_type": "passage",
+    "target_id": "aitareya-1-2-3",
+    "title": "La perfezione funzionale dell'essere umano",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Viene offerta la forma umana, accolta con favore unanime come «ben fatta» (sukṛtam). Nell'insegnamento tradizionale, il corpo umano costituisce il supporto privilegiato dell'esperienza poiché è il solo veicolo in cui la conoscenza discriminativa e la ricerca della liberazione possono attuarsi compiutamente."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-2-3.json"
+  },
+  "expl-aitareya-1-2-4": {
+    "id": "expl-aitareya-1-2-4",
+    "target_type": "passage",
+    "target_id": "aitareya-1-2-4",
+    "title": "L'ingresso delle potenze cosmiche negli organi umani",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Ciascun principio cosmico entra nella corrispondente sede corporea trasformandosi nella relativa funzione: il fuoco diviene parola nella bocca, il vento respiro nelle narici, il sole vista negli occhi. L'essere umano non è un frammento isolato, ma la sintesi vivente di tutte le potenze che reggono l'universo."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-2-4.json"
+  },
+  "expl-aitareya-1-2-5": {
+    "id": "expl-aitareya-1-2-5",
+    "target_type": "passage",
+    "target_id": "aitareya-1-2-5",
+    "title": "L'universalità della tensione e del desiderio nel manifestato",
+    "sections": [
+      {
+        "heading": "",
+        "text": "La fame e la sete non ricevono una sede anatomica isolata, ma vengono rese partecipi di tutte le facoltà. Il bisogno di nutrimento e la spinta verso l'esterno appartengono alla natura stessa di ogni principio che opera nella sfera del condizionato."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-2-5.json"
+  },
+  "expl-aitareya-1-3-1": {
+    "id": "expl-aitareya-1-3-1",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-1",
+    "title": "L'emanazione della sussistenza materiale",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Costituiti i mondi e i corpi che li abitano, l'Ātman provvede alla produzione del cibo (anna). L'esistenza fenomenica incarnata non può conservarsi senza un principio materiale di nutrimento che ne compensi il continuo consumo."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-1.json"
+  },
+  "expl-aitareya-1-3-10": {
+    "id": "expl-aitareya-1-3-10",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-10",
+    "title": "L'assimilazione del cibo per mezzo dell'apāna",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il nutrimento viene infine trattenuto e incorporato dall'apāna, il soffio discendente che presiede alla digestione e all'assorbimento vitale. L'apāna è perciò identificato come il vero ricevitore del cibo, colui che sostiene fisicamente la continuità del composto corporeo."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-10.json"
+  },
+  "expl-aitareya-1-3-11": {
+    "id": "expl-aitareya-1-3-11",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-11",
+    "title": "Il quesito metafisico fondamentale: «Chi sono io?»",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Questo passo rappresenta il perno dottrinale dell'Upaniṣad. Constatando che ciascuna facoltà opera la propria funzione specifica, l'Ātman si interroga sul proprio ruolo e sulla propria via d'ingresso: se ogni atto è già compiuto dagli organi sensoriali, che cosa rimane del Sé? L'interrogativo rivela che il Sé non è alcuno degli strumenti psicofisici, ma il soggetto trascendente senza il quale l'intero aggregato non avrebbe né senso né esistenza."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-11.json"
+  },
+  "expl-aitareya-1-3-12": {
+    "id": "expl-aitareya-1-3-12",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-12",
+    "title": "L'ingresso per la sutura cranica e i tre stati",
+    "sections": [
+      {
+        "heading": "",
+        "text": "L'Ātman penetra nell'essere umano rompendo la sommità del capo attraverso la porta detta Vidṛti (la fenditura), punto di accesso supremo e sede della beatitudine. Il testo assegna all'esperienza incarnata tre sedi corporee e tre stati di veglia, sogno e sonno profondo, che la prospettiva tradizionale qualifica tutti come «sogni» poiché velati dall'illusione della molteplicità."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-12.json"
+  },
+  "expl-aitareya-1-3-13": {
+    "id": "expl-aitareya-1-3-13",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-13",
+    "title": "Il riconoscimento del Puruṣa come Brahman",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Entrato nei corpi, il Sé scruta gli esseri per verificare se sussista qualcosa di estraneo a Sé e scopre l'assoluta non-dualità: riconosce questo medesimo Puruṣa presente in tutti come il Brahman immutabile e diffuso ovunque. La formula «Ho visto Questo» testimonia l'intuizione diretta della Realtà priva di alterità."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-13.json"
+  },
+  "expl-aitareya-1-3-14": {
+    "id": "expl-aitareya-1-3-14",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-14",
+    "title": "Il nome esoterico Idandra e il velamento della verità",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il Sé viene designato con il nome segreto Idandra («Colui che vede questo»), ma viene chiamato popolarmente Indra per via indiretta. L'insegnamento tradizionale rileva che le verità metafisiche più elevate si esprimono attraverso il simbolo e l'allusione (parokṣa) per proteggere la dottrina suprema dalla degradazione letteralistica."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-14.json"
+  },
+  "expl-aitareya-1-3-2": {
+    "id": "expl-aitareya-1-3-2",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-2",
+    "title": "La formazione densa del nutrimento dalle acque",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Applicando il calore meditativo (tapas) alle acque primordiali, si genera una materia solida e determinata, che è il cibo. Il nutrimento rappresenta il grado più denso della manifestazione corporea, indispensabile alla stabilità della forma vivente."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-2.json"
+  },
+  "expl-aitareya-1-3-3": {
+    "id": "expl-aitareya-1-3-3",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-3",
+    "title": "L'inefficacia della parola nell'afferrare il cibo",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il corpo cerca di assimilare il nutrimento attraverso i diversi organi. Il tentativo di catturarlo con la voce fallisce: nominare o pronunciare verbalmente il cibo non produce alcun sostentamento effettivo, mostrando la separazione tra designazione concettuale e assimilazione reale."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-3.json"
+  },
+  "expl-aitareya-1-3-4": {
+    "id": "expl-aitareya-1-3-4",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-4",
+    "title": "L'inadeguatezza della percezione olfattiva",
+    "sections": [
+      {
+        "heading": "",
+        "text": "L'organismo tenta di assorbire il cibo mediante il soffio dell'olfatto, ma la semplice percezione degli odori non sazia la fame. Le facoltà sensoriali percepiscono le qualità dell'oggetto senza poterne trarre la sostanza vitale."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-4.json"
+  },
+  "expl-aitareya-1-3-5": {
+    "id": "expl-aitareya-1-3-5",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-5",
+    "title": "L'inadeguatezza della vista",
+    "sections": [
+      {
+        "heading": "",
+        "text": "La vista registra la forma e il colore dell'alimento, ma non è in grado di incorporarlo. Guardare il nutrimento non basta a garantire la sussistenza dell'organismo vivente."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-5.json"
+  },
+  "expl-aitareya-1-3-6": {
+    "id": "expl-aitareya-1-3-6",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-6",
+    "title": "L'inadeguatezza dell'udito",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il canale uditivo riceve soltanto le vibrazioni sonore connesse all'oggetto. L'ascolto non costituisce mezzo di appropriazione materiale della sostanza nutritiva."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-6.json"
+  },
+  "expl-aitareya-1-3-7": {
+    "id": "expl-aitareya-1-3-7",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-7",
+    "title": "L'inadeguatezza del contatto tattile",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Anche il contatto della pelle percepisce la consistenza dell'oggetto esteriore ma non può integrarlo all'interno del corpo. Il tatto registra la presenza materiale senza risolverne il bisogno nutritivo."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-7.json"
+  },
+  "expl-aitareya-1-3-8": {
+    "id": "expl-aitareya-1-3-8",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-8",
+    "title": "L'inadeguatezza del pensiero mentale",
+    "sections": [
+      {
+        "heading": "",
+        "text": "La mente (manas) può rappresentare, desiderare o immaginare il nutrimento, ma l'atto mentale da solo non estingue la fame fisiologica né nutre le membra."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-8.json"
+  },
+  "expl-aitareya-1-3-9": {
+    "id": "expl-aitareya-1-3-9",
+    "target_type": "passage",
+    "target_id": "aitareya-1-3-9",
+    "title": "L'inadeguatezza della funzione procreativa",
+    "sections": [
+      {
+        "heading": "",
+        "text": "L'organo riproduttivo presiede all'emissione e alla trasmissione della vita verso l'esterno, non alla conservazione interna dell'individuo. La sua azione non può fungere da presa sul cibo."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-1-3-9.json"
+  },
+  "expl-aitareya-2-1-1": {
+    "id": "expl-aitareya-2-1-1",
+    "target_type": "passage",
+    "target_id": "aitareya-2-1-1",
+    "title": "La prima nascita nel seme del padre",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il secondo capitolo descrive il ciclo naturale della trasmigrazione e del divenire. La prima nascita dell'individuo coincide con la formazione del seme nel corpo del genitore: il seme concentra il vigore (tejas) di tutti gli organi, cosicché l'uomo porta e custodisce in se stesso il proprio riflesso corporeo prima di trasmetterlo."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-2-1-1.json"
+  },
+  "expl-aitareya-2-1-2": {
+    "id": "expl-aitareya-2-1-2",
+    "target_type": "passage",
+    "target_id": "aitareya-2-1-2",
+    "title": "L'assimilazione dell'embrione nel grembo",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il germe vitale si insedia nel grembo materno divenendo indissolubile dal corpo della donna come una sua parte integrante. La madre accoglie e custodisce il sé del compagno che si prepara a una nuova esistenza manifestata."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-2-1-2.json"
+  },
+  "expl-aitareya-2-1-3": {
+    "id": "expl-aitareya-2-1-3",
+    "target_type": "passage",
+    "target_id": "aitareya-2-1-3",
+    "title": "La seconda nascita: la venuta al mondo del figlio",
+    "sections": [
+      {
+        "heading": "",
+        "text": "La nascita fisica del figlio nel mondo fenomenico costituisce la sua seconda nascita. Nel sostenere la madre e allevare la prole, il genitore assicura la continuità della stirpe e il perpetuarsi della manifestazione nel tempo."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-2-1-3.json"
+  },
+  "expl-aitareya-2-1-4": {
+    "id": "expl-aitareya-2-1-4",
+    "target_type": "passage",
+    "target_id": "aitareya-2-1-4",
+    "title": "La terza nascita: il trapasso e la rinascita individuale",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Compiuti i propri doveri sacri e tramandata la propria funzione al figlio, l'individuo anziano abbandona il veicolo fisico. Diparte da questa vita per assumere una nuova nascita in conformità alle proprie azioni (karma): questo ritorno nell'esistenza costituisce la terza nascita dell'essere non liberato."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-2-1-4.json"
+  },
+  "expl-aitareya-2-1-5": {
+    "id": "expl-aitareya-2-1-5",
+    "target_type": "passage",
+    "target_id": "aitareya-2-1-5",
+    "title": "Il risveglio di Vāmadeva dalla prigione del corpo",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Viene richiamato il celebre verso del saggio Vāmadeva per indicare che la catena delle rinascite può essere spezzata unicamente dalla conoscenza del Sé. Pur trovandosi ancora nel grembo materno, il saggio comprese la natura transitoria di tutte le forme e spezzò le «cento fortezze di ferro» — le identificazioni con il corpo — liberandosi con la rapidità e l'indipendenza di un falco."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-2-1-5.json"
+  },
+  "expl-aitareya-2-1-6": {
+    "id": "expl-aitareya-2-1-6",
+    "target_type": "passage",
+    "target_id": "aitareya-2-1-6",
+    "title": "Il conseguimento dell'immortalità",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Grazie a questa intuizione metafisica radicale, Vāmadeva, abbandonati i vincoli del corpo fisico, trascese ogni condizionamento mondano e conseguì la liberazione immortale (amṛtatva). La ripetizione finale sancisce la definitività e l'irreversibilità di questo compimento."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-2-1-6.json"
+  },
+  "expl-aitareya-3-1-1": {
+    "id": "expl-aitareya-3-1-1",
+    "target_type": "passage",
+    "target_id": "aitareya-3-1-1",
+    "title": "L'indagine sulla sede e sull'identità dell'Ātman",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il terzo capitolo avvia la ricerca suprema della dottrina: quale sia il Sé oggetto di meditazione e di conoscenza. Il testo si chiede se l'Ātman coincida con le facoltà che vedono, odono, parlano o gustano, invitando a separare con rigore il soggetto testimonio dalle funzioni empiriche che esso illumina."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-3-1-1.json"
+  },
+  "expl-aitareya-3-1-2": {
+    "id": "expl-aitareya-3-1-2",
+    "target_type": "passage",
+    "target_id": "aitareya-3-1-2",
+    "title": "Le facoltà mentali come determinazioni della Coscienza pura",
+    "sections": [
+      {
+        "heading": "",
+        "text": "Il cuore e la mente, assieme a tutte le loro manifestazioni — percezione, intelligenza, memoria, intenzione, volontà e desiderio — non costituiscono entità a sé stanti. Sono tutti semplici nomi ed espressioni funzionali della pura Coscienza (Prajñāna), la quale rimane immutabile al fondo di ogni attività psichica."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-3-1-2.json"
+  },
+  "expl-aitareya-3-1-3": {
+    "id": "expl-aitareya-3-1-3",
+    "target_type": "passage",
+    "target_id": "aitareya-3-1-3",
+    "title": "Prajñānaṁ Brahma: la proclamazione dell'identità assoluta",
+    "sections": [
+      {
+        "heading": "",
+        "text": "In questo vertice dell'Upaniṣad viene formulato uno dei quattro Mahāvākya fondamentali del Vedānta: «Prajñānaṁ Brahma» (la pura Coscienza è Brahman). Dalle divinità reggitrici ai cinque elementi fisici, dagli esseri animati a quelli immobili, l'intera creazione ha nella Coscienza la sua guida e il suo unico fondamento sostanziale."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-3-1-3.json"
+  },
+  "expl-aitareya-3-1-4": {
+    "id": "expl-aitareya-3-1-4",
+    "target_type": "passage",
+    "target_id": "aitareya-3-1-4",
+    "title": "L'immortalità raggiunta attraverso il Sé cosciente",
+    "sections": [
+      {
+        "heading": "",
+        "text": "L'insegnamento si conclude attestando il fine supremo dell'esistenza: colui che riconosce la propria vera natura come questo Sé di pura Coscienza supera i legami con l'ordine fenomenico e, al dissolversi del composto corporeo, consegue l'immortalità immutabile e non duale."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-3-1-4.json"
+  },
+  "expl-aitareya-santi-1": {
+    "id": "expl-aitareya-santi-1",
+    "target_type": "passage",
+    "target_id": "aitareya-santi-1",
+    "title": "L'accordo tra mente e parola nella ricerca della verità",
+    "sections": [
+      {
+        "heading": "",
+        "text": "L'invocazione di pace (Śāntipāṭha) comune ai testi del Ṛgveda pone l'accento sulla cooperazione tra la mente (manas) e la facoltà espressiva (vāc). La purificazione e l'unificazione degli strumenti conoscitivi sono la condizione preliminare affinché l'ascolto dell'insegnamento metafisico non vada disperso e conduca alla retta comprensione della Realtà."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-aitareya-santi-1.json"
+  },
   "expl-isha-1-1": {
     "id": "expl-isha-1-1",
     "target_type": "passage",

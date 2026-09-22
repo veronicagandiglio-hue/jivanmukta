@@ -33,5 +33,11 @@
     "q-che-cosa-sono-i-cinque-involucri"
   ],
   "prev_step": "03-che-cose-l-assoluto",
-  "next_step": "05-che-cose-il-se"
+  "next_step": "05-che-cose-il-se",
+  "curated_passages": [
+    {
+      "passage_id": "aitareya-1-3-11",
+      "why": "Formula l'interrogativo essenziale «chi sono io?», separando radicalmente il soggetto cosciente dalle facoltà sensorie e operative del corpo."
+    }
+  ]
 }

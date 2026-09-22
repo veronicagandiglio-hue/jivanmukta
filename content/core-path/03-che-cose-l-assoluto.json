@@ -33,5 +33,11 @@
     "q-natura-brahman-purna"
   ],
   "prev_step": "02-che-cosa-significa-realta",
-  "next_step": "04-chi-sono-veramente"
+  "next_step": "04-chi-sono-veramente",
+  "curated_passages": [
+    {
+      "passage_id": "aitareya-1-1-1",
+      "why": "Afferma l'esistenza primordiale dell'Ātman come Realtà unica e non duale, escludendo qualsiasi principio separato prima della manifestazione."
+    }
+  ]
 }

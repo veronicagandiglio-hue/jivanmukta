@@ -38,5 +38,15 @@
     "q-frutto-realizzazione-unita"
   ],
   "prev_step": "09-che-cosa-significa-conoscere",
-  "next_step": null
+  "next_step": null,
+  "curated_passages": [
+    {
+      "passage_id": "aitareya-2-1-5",
+      "why": "Descrive l'emancipazione immediata dal ciclo delle rinascite attraverso l'intuizione metafisica del saggio Vāmadeva."
+    },
+    {
+      "passage_id": "aitareya-2-1-6",
+      "why": "Descrive l'emancipazione immediata dal ciclo delle rinascite attraverso l'intuizione metafisica del saggio Vāmadeva."
+    }
+  ]
 }

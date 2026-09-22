@@ -1,4 +1,45 @@
 {
+  "q-aitareya-organi-e-se": {
+    "id": "q-aitareya-organi-e-se",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che rapporto si trovano gli organi sensoriali e le facoltà cognitive rispetto all'Ātman?",
+    "problem": "L'Aitareya Upaniṣad mostra che le attività percettive e intellettive sono strumenti intermedi che dipendono interamente dalla Coscienza, senza che il Sé possa mai identificarsi con uno di essi.",
+    "parent_question": "q-chi-sono-veramente",
+    "concepts": [
+      "atman",
+      "prajnana"
+    ],
+    "passages": [
+      "aitareya-1-3-11",
+      "aitareya-3-1-1",
+      "aitareya-3-1-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-aitareya-organi-e-se.json"
+  },
+  "q-aitareya-prajnanam-brahma": {
+    "id": "q-aitareya-prajnanam-brahma",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico dell'affermazione «Prajñānaṁ Brahma»?",
+    "problem": "L'Upaniṣad ricompone l'intera manifestazione nella pura Coscienza (Prajñāna), proclamando che tale Coscienza non è una funzione psicologica individuale, ma la Realtà assoluta stessa.",
+    "parent_question": "q-che-cose-brahman",
+    "concepts": [
+      "brahman",
+      "prajnana",
+      "mahavakya"
+    ],
+    "passages": [
+      "aitareya-3-1-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-aitareya-prajnanam-brahma.json"
+  },
   "q-azione-rituale-versus-conoscenza": {
     "id": "q-azione-rituale-versus-conoscenza",
     "type": "specific",
@@ -142,7 +183,8 @@
       "kena-1-4",
       "kena-1-5",
       "isha-1-shanti",
-      "isha-1-18"
+      "isha-1-18",
+      "aitareya-3-1-3"
     ],
     "commentaries": [],
     "related_questions": [
@@ -233,7 +275,9 @@
       "isha-1-6",
       "isha-1-7",
       "isha-1-8",
-      "isha-1-3"
+      "isha-1-3",
+      "aitareya-1-1-1",
+      "aitareya-3-1-2"
     ],
     "commentaries": [],
     "related_questions": [
@@ -267,6 +311,19 @@
       "q-cosa-accade-dopo-la-morte"
     ],
     "source_file": "questions/q-che-cose-l-atman.json"
+  },
+  "q-che-cose-la-liberazione": {
+    "id": "q-che-cose-la-liberazione",
+    "scope": "global",
+    "type": "great",
+    "text": "Che cos'e la liberazione?",
+    "problem": "Chiarire in che modo la conoscenza del Se sciolga l'identificazione con il corpo e conduca all'immortalita.",
+    "passages": [
+      "aitareya-2-1-5",
+      "aitareya-2-1-6",
+      "aitareya-3-1-4"
+    ],
+    "source_file": "questions/q-che-cose-la-liberazione.json"
   },
   "q-chi-e-il-purusha-delle-sedici-parti": {
     "id": "q-chi-e-il-purusha-delle-sedici-parti",
@@ -329,6 +386,18 @@
     "commentaries": [],
     "related_questions": [],
     "source_file": "questions/q-chi-sono-i-due-uccelli-sullo-stesso-albero.json"
+  },
+  "q-chi-sono-veramente": {
+    "id": "q-chi-sono-veramente",
+    "scope": "global",
+    "type": "great",
+    "text": "Chi sono veramente?",
+    "problem": "Indagare la vera identita del soggetto oltre il corpo, le facolta percettive e la mente, riconoscendo il Se come pura Coscienza.",
+    "passages": [
+      "aitareya-1-3-11",
+      "aitareya-3-1-1"
+    ],
+    "source_file": "questions/q-chi-sono-veramente.json"
   },
   "q-come-si-conosce-il-brahman": {
     "id": "q-come-si-conosce-il-brahman",
@@ -691,7 +760,9 @@
     ],
     "passages": [
       "isha-1-6",
-      "isha-1-7"
+      "isha-1-7",
+      "aitareya-1-3-13",
+      "aitareya-3-1-3"
     ],
     "commentaries": [],
     "related_questions": [
@@ -1080,6 +1151,18 @@
       "q-natura-atman-paradossi"
     ],
     "source_file": "questions/q-natura-brahman-purna.json"
+  },
+  "q-perche-appare-la-molteplicita": {
+    "id": "q-perche-appare-la-molteplicita",
+    "scope": "global",
+    "type": "great",
+    "text": "Perche appare la molteplicita?",
+    "problem": "Comprendere come la molteplicita dei mondi, degli organi e delle funzioni emerga senza intaccare l'unita originaria dell'Atman.",
+    "passages": [
+      "aitareya-1-1-2",
+      "aitareya-1-2-4"
+    ],
+    "source_file": "questions/q-perche-appare-la-molteplicita.json"
   },
   "q-perche-soffriamo": {
     "id": "q-perche-soffriamo",

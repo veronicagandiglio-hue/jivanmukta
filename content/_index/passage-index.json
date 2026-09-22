@@ -1,4 +1,548 @@
 {
+  "aitareya-santi-1": {
+    "id": "aitareya-santi-1",
+    "original": "वाङ् मे मनसि प्रतिष्ठिता मनो मे वाचि प्रतिष्ठितमाविरावीर्म एधि ॥ वेदस्य म आणीस्थः श्रुतं मे मा प्रहासीरनेनाधीतेनाहोरात्रान् सन्दधाम्यृतं वदिष्यामि सत्यं वदिष्यामि ॥ तन्मामवतु तद्वक्तारमवत्ववतु मामवतु वक्तारमवतु वक्तारम् ॥ ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+    "translation": "La mia parola sia stabilita nella mente, la mia mente sia stabilita nella parola. O Luce manifesta, manifestati a me! Siate per me entrambi il sostegno della conoscenza dei Veda. Ciò che ho ascoltato non mi abbandoni. Mediante questo studio congiungo i giorni e le notti. Proferirò il giusto, proferirò il vero. Possa Quello proteggere me, possa Quello proteggere colui che insegna; protegga me, protegga il maestro, protegga il maestro! Oṃ, pace, pace, pace!",
+    "source": "Aitareya Upaniṣad, Śāntipāṭha",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-santipatha",
+    "unit_locus": "0",
+    "unit_title": "Invocazione iniziale di pace",
+    "section_locus": "0.1",
+    "section_title": "Śāntipāṭha",
+    "locus": "0.1",
+    "index_in_section": 0,
+    "sequence": 0,
+    "source_file": "editorial-units/aitareya-santipatha.json"
+  },
+  "aitareya-1-1-1": {
+    "id": "aitareya-1-1-1",
+    "original": "आत्मा वा इदमेक एवाग्र आसीन्नान्यत्किञ्चचन । स ईक्षत लोकान्नु सृजा इति ॥ १ ॥",
+    "translation": "All'inizio questo universo era soltanto l'Ātman, uno solo; null'altro vi era di attivo. Egli considerò: «Voglio emanare i mondi».",
+    "source": "Aitareya Upaniṣad, I.1.1",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.1",
+    "section_title": "La creazione dei mondi e la formazione del Puruṣa",
+    "locus": "1.1",
+    "index_in_section": 0,
+    "sequence": 1,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-1-2": {
+    "id": "aitareya-1-1-2",
+    "original": "स इमाँल्लोकानसृजत । अम्भो मरीचीर्मापोऽदोऽम्भः परेण दिवं द्यौः प्रतिष्ठाऽन्तरिक्षं मरीचयः । पृथिवी मरो या अधस्तात्त आपः ॥ २ ॥",
+    "translation": "Egli emanò questi mondi: Ambhas [le acque superiori], Marīci [la sfera della luce], Mara [la terra dei mortali] e Āpas [le acque inferiori]. Quello è Ambhas, oltre il cielo: il cielo ne è il supporto; lo spazio intermedio è Marīci; la terra è Mara; ciò che si trova al di sotto sono le acque, Āpas.",
+    "source": "Aitareya Upaniṣad, I.1.2",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.1",
+    "section_title": "La creazione dei mondi e la formazione del Puruṣa",
+    "locus": "1.1",
+    "index_in_section": 1,
+    "sequence": 2,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-1-3": {
+    "id": "aitareya-1-1-3",
+    "original": "स ईक्षतेमे नु लोका लोकपालान्नु सृजा इति ॥ सोऽद्भ्य एव पुरुषं समुद्धृत्यामूर्छयत् ॥ ३ ॥",
+    "translation": "Egli considerò: «Ecco i mondi. Voglio ora emanare i custodi dei mondi». Trasse allora dalle acque stesse una forma d'uomo [Puruṣa] e le diede consistenza.",
+    "source": "Aitareya Upaniṣad, I.1.3",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.1",
+    "section_title": "La creazione dei mondi e la formazione del Puruṣa",
+    "locus": "1.1",
+    "index_in_section": 2,
+    "sequence": 3,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-1-4": {
+    "id": "aitareya-1-1-4",
+    "original": "तमभ्यतपत्तस्याभितप्तस्य मुखं निरभिद्यत यथाऽण्डं मुखाद्वाग्वाचोऽग्निर्नासिके निरभिद्येतं नासिकाभ्यां प्राणः । प्राणाद्वायुरक्षिणी निरभिद्येतमक्षिभ्यां चक्षुश्चक्षुष आदित्यः कर्णौ निरभिद्येतां कर्णाभ्यां श्रोत्रं श्रोत्रद्दिशस्त्वङ्निरभिद्यत त्वचो लोमानि लोमभ्य ओषधिवनस्पतयो हृदयं निरभिद्यत हृदयान्मनो मनसश्चन्द्रमा नाभिर्निरभिद्यत नाभ्या अपानोऽपानान्मृत्युः शिश्नं निरभिद्यत शिश्नाद्रेतो रेतस आपः ॥ ४ ॥",
+    "translation": "Egli lo riscaldò con il proprio ardore interiore [tapas]. Quando fu così riscaldato, la sua bocca si aprì, come un uovo; dalla bocca scaturì la parola, e dalla parola il fuoco [Agni]. Poi si aprirono le narici; dalle narici scaturì il soffio vitale [prāṇa], e dal soffio vitale il vento [Vāyu]. Si aprirono gli occhi; dagli occhi scaturì la vista, e dalla vista il sole [Āditya]. Si aprirono le orecchie; dalle orecchie scaturì l'udito, e dall'udito le direzioni dello spazio [diś]. Si formò la pelle; dalla pelle scaturirono i peli, e dai peli le erbe e gli alberi. Si formò il cuore; dal cuore scaturì la mente [manas], e dalla mente la luna [Candramas]. Si formò l'ombelico; dall'ombelico scaturì il soffio discendente [apāna], e dall'apāna la morte [Mṛtyu]. Si formò l'organo generatore; dall'organo generatore scaturì il seme vitale, e dal seme le acque [āpas].",
+    "source": "Aitareya Upaniṣad, I.1.4",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.1",
+    "section_title": "La creazione dei mondi e la formazione del Puruṣa",
+    "locus": "1.1",
+    "index_in_section": 3,
+    "sequence": 4,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-2-1": {
+    "id": "aitareya-1-2-1",
+    "original": "ता एता देवता सृष्टा अस्मिन्महत्यर्णवे प्रापतन् । तमशनापिपासाभ्यामन्ववार्जत् । ता एनमब्रुवन्नायतनं नः प्रजानीहि यस्मिन्प्रतिष्ठिता अन्नमदामेति ॥ १ ॥",
+    "translation": "Queste divinità, così emanate, caddero in questo grande oceano [del divenire]. Egli le sottomise alla fame e alla sete. Esse gli dissero: «Assegnaci una dimora in cui, stando stabilite, possiamo cibarci».",
+    "source": "Aitareya Upaniṣad, I.2.1",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.2",
+    "section_title": "L'assegnazione delle funzioni e l'abitazione nel corpo",
+    "locus": "1.2",
+    "index_in_section": 0,
+    "sequence": 5,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-2-2": {
+    "id": "aitareya-1-2-2",
+    "original": "ताभ्यो गामानयत्ता अब्रुवन्न वै नोऽयमलमिति । ताभ्योऽश्वमानयत्ता अब्रुवन्न वै नोऽयमलमिति ॥ २ ॥",
+    "translation": "Condusse loro un bovino. Esse dissero: «Questo non è certo sufficiente per noi». Condusse loro un cavallo. Esse dissero: «Questo non è certo sufficiente per noi».",
+    "source": "Aitareya Upaniṣad, I.2.2",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.2",
+    "section_title": "L'assegnazione delle funzioni e l'abitazione nel corpo",
+    "locus": "1.2",
+    "index_in_section": 1,
+    "sequence": 6,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-2-3": {
+    "id": "aitareya-1-2-3",
+    "original": "ताभ्यः पुरुषमानयत्ता अब्रुवन् सुकृतं बतेति पुरुषो वाव सुकृतम् । ता अब्रवीद्यथायतनं प्रविशतेति ॥ ३ ॥",
+    "translation": "Condusse loro un essere umano [puruṣa]. Esse dissero: «Oh, questo è davvero ben fatto!». L'essere umano è invero un'opera ben compiuta. Egli disse loro: «Entrate ciascuna nella rispettiva dimora».",
+    "source": "Aitareya Upaniṣad, I.2.3",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.2",
+    "section_title": "L'assegnazione delle funzioni e l'abitazione nel corpo",
+    "locus": "1.2",
+    "index_in_section": 2,
+    "sequence": 7,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-2-4": {
+    "id": "aitareya-1-2-4",
+    "original": "अग्निर्वाग्भूत्वा मुखं प्राविशद्वायुः प्राणो भूत्वा नासिके प्राविशदादित्यश्चक्षुर्भूत्वाऽक्षिणी प्राविशद्दिशः श्रोत्रं भूत्वा कर्णौ प्राविशन्नोषधिवनस्पतयो लोमानि भूत्वा त्वचं प्राविशंश्चन्द्रमा मनो भूत्वा हृदयं प्राविशन्मृत्युरपानो भूत्वा नाभिं प्राविशदापो रेतो भूत्वा शिश्नं प्राविशन् ॥ ४ ॥",
+    "translation": "Il fuoco, divenuto parola, entrò nella bocca; il vento, divenuto soffio vitale, entrò nelle narici; il sole, divenuto vista, entrò negli occhi; le direzioni dello spazio, divenute udito, entrarono nelle orecchie; le erbe e gli alberi, divenuti peli, entrarono nella pelle; la luna, divenuta mente, entrò nel cuore; la morte, divenuta soffio discendente, entrò nell'ombelico; le acque, divenute seme vitale, entrarono nell'organo generatore.",
+    "source": "Aitareya Upaniṣad, I.2.4",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.2",
+    "section_title": "L'assegnazione delle funzioni e l'abitazione nel corpo",
+    "locus": "1.2",
+    "index_in_section": 3,
+    "sequence": 8,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-2-5": {
+    "id": "aitareya-1-2-5",
+    "original": "तमशनायापिपासे अब्रूतामावाभ्यामभिप्रजानीहीति ते अब्रवीदेतास्वेव वां देवतास्वाभजाम्येतासु भागिन्यौ करोमीति । तस्माद्यस्यै कस्यै च देवतायै हविर्गृह्यते भागिन्यावेवास्यामशनायापिपासे भवतः ॥ ५ ॥",
+    "translation": "La fame e la sete gli dissero: «Assegna una dimora anche a noi due». Egli rispose loro: «Vi assegno una parte proprio in queste divinità, vi rendo partecipi di esse». Per questo motivo, a qualunque divinità si offra un'oblazione, la fame e la sete vi prendono parte.",
+    "source": "Aitareya Upaniṣad, I.2.5",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.2",
+    "section_title": "L'assegnazione delle funzioni e l'abitazione nel corpo",
+    "locus": "1.2",
+    "index_in_section": 4,
+    "sequence": 9,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-1": {
+    "id": "aitareya-1-3-1",
+    "original": "स ईक्षतेमे नु लोकाश्च लोकपालाश्चान्नमेभ्यः सृजा इति ॥ १ ॥",
+    "translation": "Egli considerò: «Ecco i mondi e i custodi dei mondi. Emanerò ora del nutrimento per loro».",
+    "source": "Aitareya Upaniṣad, I.3.1",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 0,
+    "sequence": 10,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-2": {
+    "id": "aitareya-1-3-2",
+    "original": "सोऽपोऽभ्यतपत्ताभ्योऽभितप्ताभ्यो मूर्तिरजायत । या वै सा मूर्तिरजायतान्नं वै तत् ॥ २ ॥",
+    "translation": "Egli riscaldò con il proprio ardore le acque; dalle acque così riscaldate scaturì una forma solida. Quella forma solida che si produsse è invero il nutrimento.",
+    "source": "Aitareya Upaniṣad, I.3.2",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 1,
+    "sequence": 11,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-3": {
+    "id": "aitareya-1-3-3",
+    "original": "तदेनत्सृष्टं पराङ्त्यजिघांसत्तद्वाचाऽजिघृक्षत् तन्नाशक्नोद्वाचा ग्रहीतुम् । स यद्धैनद्वाचाऽग्रहैष्यदभिव्याहृत्य हैवान्नमत्रप्स्यत् ॥ ३ ॥",
+    "translation": "Questo nutrimento, una volta emanato, cercò di fuggire via. Egli tentò di afferrarlo con la parola, ma non riuscì ad afferrarlo con la parola. Se infatti lo avesse afferrato con la parola, basterebbe pronunciare il cibo per saziarsene.",
+    "source": "Aitareya Upaniṣad, I.3.3",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 2,
+    "sequence": 12,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-4": {
+    "id": "aitareya-1-3-4",
+    "original": "तत्प्राणेनाजिघृक्षत् तन्नाशक्नोत्प्राणेन ग्रहीतुम् । स यद्धैनत्प्राणेनाग्रहैष्यदभिप्राण्य हैवान्नमत्रप्स्यत् ॥ ४ ॥",
+    "translation": "Tentò di afferrarlo con l'olfatto, ma non riuscì ad afferrarlo con l'olfatto. Se lo avesse afferrato con l'olfatto, basterebbe odorare il cibo per saziarsene.",
+    "source": "Aitareya Upaniṣad, I.3.4",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 3,
+    "sequence": 13,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-5": {
+    "id": "aitareya-1-3-5",
+    "original": "तच्चक्षुषाऽजिघृक्षत् तन्नाशक्नोच्चक्षुषा ग्रहीतुम् । स यद्धैनच्चक्षुषाऽग्रहैष्यद्दृष्ट्वा हैवानमत्रप्स्यत् ॥ ५ ॥",
+    "translation": "Tentò di afferrarlo con la vista, ma non riuscì ad afferrarlo con la vista. Se lo avesse afferrato con la vista, basterebbe vedere il cibo per saziarsene.",
+    "source": "Aitareya Upaniṣad, I.3.5",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 4,
+    "sequence": 14,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-6": {
+    "id": "aitareya-1-3-6",
+    "original": "तच्छ्रोत्रेणाजिघृक्षत् तन्नाशक्नोच्छ्रोत्रेण ग्रहीतुम् । स यद्धैनच्छ्रोत्रेनाग्रहैष्यच्छ्रुत्वा हैवान्नमत्रप्स्यत् ॥ ६ ॥",
+    "translation": "Tentò di afferrarlo con l'udito, ma non riuscì ad afferrarlo con l'udito. Se lo avesse afferrato con l'udito, basterebbe udire il cibo per saziarsene.",
+    "source": "Aitareya Upaniṣad, I.3.6",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 5,
+    "sequence": 15,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-7": {
+    "id": "aitareya-1-3-7",
+    "original": "तत्त्वचाऽजिघृक्षत् तन्नाशक्नोत्त्वचा ग्रहीतुम् । स यद्धैनत्त्वचाऽग्रहैष्यत् स्पृष्ट्वा हैवान्नमत्रप्स्यत् ॥ ७ ॥",
+    "translation": "Tentò di afferrarlo con il tatto, ma non riuscì ad afferrarlo con il tatto. Se lo avesse afferrato con il tatto, basterebbe toccare il cibo per saziarsene.",
+    "source": "Aitareya Upaniṣad, I.3.7",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 6,
+    "sequence": 16,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-8": {
+    "id": "aitareya-1-3-8",
+    "original": "तन्मनसाऽजिघृक्षत् तन्नाशक्नोन्मनसा ग्रहीतुम् । स यद्धैनन्मनसाऽग्रहैष्यद्ध्यात्वा हैवान्नमत्रप्स्यत् ॥ ८ ॥",
+    "translation": "Tentò di afferrarlo con la mente, ma non riuscì ad afferrarlo con la mente. Se lo avesse afferrato con la mente, basterebbe pensare al cibo per saziarsene.",
+    "source": "Aitareya Upaniṣad, I.3.8",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 7,
+    "sequence": 17,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-9": {
+    "id": "aitareya-1-3-9",
+    "original": "तच्छिश्नेनाजिघृक्षत् तन्नाशक्नोच्छिश्नेन ग्रहीतुम् । स यद्धैनच्छिश्नेनाग्रहैष्यद्वित्सृज्य हैवानमत्रप्स्यत् ॥ ९ ॥",
+    "translation": "Tentò di afferrarlo con l'organo generatore, ma non riuscì ad afferrarlo con l'organo generatore. Se lo avesse afferrato con l'organo generatore, basterebbe emettere il seme per saziarsene.",
+    "source": "Aitareya Upaniṣad, I.3.9",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 8,
+    "sequence": 18,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-10": {
+    "id": "aitareya-1-3-10",
+    "original": "तदपानेनाजिघृक्षत् तदावयत् सैषोऽन्नस्य ग्रहो यद्वायुरनायुर्वा एष यद्वायुः ॥ १० ॥",
+    "translation": "Tentò allora di afferrarlo con il soffio discendente [apāna], e lo afferrò. Questo apāna è colui che trattiene il nutrimento; questo soffio vitale è invero colui che vive di cibo.",
+    "source": "Aitareya Upaniṣad, I.3.10",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 9,
+    "sequence": 19,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-11": {
+    "id": "aitareya-1-3-11",
+    "original": "स ईक्षत कथं न्विदं मदृते स्यादिति स ईक्षत कतरेण प्रपद्या इति । स ईक्षत यदि वाचाऽभिव्याहृतं यदि प्राणेनाभिप्राणितं यदि चक्षुषा दृष्टं यदि श्रोत्रेण श्रुतं यदि त्वचा स्पृष्टं यदि मनसा ध्यातं यद्यपानेनाभ्यपानितं यदि शिश्नेन विसृष्टमथ कोऽहमिति ॥ ११ ॥",
+    "translation": "Egli considerò: «Come potrebbe sussistere tutto questo senza di me?». E considerò: «Per quale via dovrò entrarvi?». Considerò ancora: «Se la parola è espressa dalla voce, se l'odore è percepito dal respiro, se la forma è vista dall'occhio, se il suono è udito dall'orecchio, se il contatto è sentito dalla pelle, se l'oggetto è pensato dalla mente, se l'assimilazione avviene per l'apāna, se l'emissione avviene per l'organo generatore: allora chi sono io?»",
+    "source": "Aitareya Upaniṣad, I.3.11",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 10,
+    "sequence": 20,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-12": {
+    "id": "aitareya-1-3-12",
+    "original": "स एतमेव सीमानं विदर्यैतया द्वारा प्रापद्यत । सैषा विदृतिर्नाम द्वास्तदेतन्नाऽन्दनम् । तस्य त्रय आवसथास्त्रयः स्वप्ना अयमावसथोऽयमावसथोऽयमावसथ इति ॥ १२ ॥",
+    "translation": "Fendendo la sutura alla sommità del capo, per questa porta Egli vi entrò. Questa porta ha nome Vidṛti [la fenditura]; essa è la dimora della beatitudine [nāndana]. Di Lui vi sono tre sedi e tre stati di sogno: questa è la prima dimora, questa è la seconda dimora, questa è la terza dimora.",
+    "source": "Aitareya Upaniṣad, I.3.12",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 11,
+    "sequence": 21,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-13": {
+    "id": "aitareya-1-3-13",
+    "original": "स जातो भूतान्यभिव्यैख्यत् किमिहान्यं वावदिषदिति । स एतमेव पुरुषं ब्रह्म ततममपश्यत् । इदमदर्शनमिती ३ ॥ १३ ॥",
+    "translation": "Una volta penetrato nei corpi, Egli contemplò gli esseri: «Chi mai parlerebbe qui di un altro da me?». E vide questo stesso Puruṣa come il Brahman onnipervadente. Disse: «Ho visto Questo!» [idam adarśam].",
+    "source": "Aitareya Upaniṣad, I.3.13",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 12,
+    "sequence": 22,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-1-3-14": {
+    "id": "aitareya-1-3-14",
+    "original": "तस्मादिदन्द्रो नामेदन्द्रो ह वै नाम तमिदन्द्रं सन्तमिन्द्र इत्याचक्षते परोक्षेण । परोक्षप्रिया इव हि देवाः परोक्षप्रिया इव हि देवाः ॥ १४ ॥",
+    "translation": "Perciò Egli ha nome Idandra: Idandra è invero il Suo nome. E, pur essendo Idandra [«Colui che vede questo»], lo chiamano 'Indra' per via indiretta. Poiché le divinità amano ciò che è allusivo, le divinità amano ciò che è allusivo.",
+    "source": "Aitareya Upaniṣad, I.3.14",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-1",
+    "unit_locus": "1",
+    "unit_title": "Primo Adhyāya",
+    "section_locus": "1.3",
+    "section_title": "La creazione del nutrimento e l'ingresso dell'Ātman",
+    "locus": "1.3",
+    "index_in_section": 13,
+    "sequence": 23,
+    "source_file": "editorial-units/aitareya-adhyaya-1.json"
+  },
+  "aitareya-2-1-1": {
+    "id": "aitareya-2-1-1",
+    "original": "पुरुषे ह वा अयमादितो गर्भो भवति यदेतद्रेतः । तदेतत्सर्वेभ्योऽङ्गेभ्यस्तेजः सम्भूतमात्मन्येवऽऽत्मानं बिभर्ति तद्यदा स्त्रियां सिञ्चत्यथैनज्जनयति तदस्य प्रथमं जन्म ॥ १ ॥",
+    "translation": "Nell'uomo primariamente questo embrione sussiste come seme vitale. Esso è il vigore [tejas] tratto da tutte le membra del corpo; l'uomo porta così il proprio sé in se stesso. Quando lo riversa nella donna, lo genera: questa è la sua prima nascita.",
+    "source": "Aitareya Upaniṣad, II.1.1",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-2",
+    "unit_locus": "2",
+    "unit_title": "Secondo Adhyāya",
+    "section_locus": "2.1",
+    "section_title": "Le tre nascite e la liberazione di Vāmadeva",
+    "locus": "2.1",
+    "index_in_section": 0,
+    "sequence": 24,
+    "source_file": "editorial-units/aitareya-adhyaya-2.json"
+  },
+  "aitareya-2-1-2": {
+    "id": "aitareya-2-1-2",
+    "original": "तत्स्त्रिया आत्मभूयं गच्छति यथा स्वमङ्गं तथा । तस्मादेनां न हिनस्ति । साऽस्यैतमात्मानमत्र गतं भावयति ॥ २ ॥",
+    "translation": "Esso diviene tutt'uno con la donna, proprio come una parte del suo stesso corpo; perciò essa non ne riceve danno. La donna nutre e custodisce questo sé di lui che è giunto in lei.",
+    "source": "Aitareya Upaniṣad, II.1.2",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-2",
+    "unit_locus": "2",
+    "unit_title": "Secondo Adhyāya",
+    "section_locus": "2.1",
+    "section_title": "Le tre nascite e la liberazione di Vāmadeva",
+    "locus": "2.1",
+    "index_in_section": 1,
+    "sequence": 25,
+    "source_file": "editorial-units/aitareya-adhyaya-2.json"
+  },
+  "aitareya-2-1-3": {
+    "id": "aitareya-2-1-3",
+    "original": "सा भावयित्री भावयितव्या भवति । तं स्त्री गर्भ बिभर्ति । सोऽग्र एव कुमारं जन्मनोऽग्रेऽधिभावयति । स यत्कुमारं जन्मनोऽग्रेऽधिभावयत्यात्मानमेव तद्भावयत्येषां लोकानां सन्तत्या । एवं सन्तता हीमे लोकास्तदस्य द्वितीयं जन्म ॥ ३ ॥",
+    "translation": "Colei che nutre il germe deve essere a sua volta nutrita e custodita. La donna porta il grembo. Il padre si prende cura del figlio prima e dopo la nascita; e nel prendersi cura del figlio prima e dopo la nascita, egli nutre in verità il proprio sé per la continuità di questi mondi. Così infatti si perpetuano questi mondi: questa è la sua seconda nascita.",
+    "source": "Aitareya Upaniṣad, II.1.3",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-2",
+    "unit_locus": "2",
+    "unit_title": "Secondo Adhyāya",
+    "section_locus": "2.1",
+    "section_title": "Le tre nascite e la liberazione di Vāmadeva",
+    "locus": "2.1",
+    "index_in_section": 2,
+    "sequence": 26,
+    "source_file": "editorial-units/aitareya-adhyaya-2.json"
+  },
+  "aitareya-2-1-4": {
+    "id": "aitareya-2-1-4",
+    "original": "सोऽस्यायमात्मा पुण्येभ्यः कर्मभ्यः प्रतिधीयते । अथास्यायामितर आत्मा कृतकृत्यो वयोगतः प्रैति । स इतः प्रयन्नेव पुनर्जायते तदस्य तृतीयं जन्म ॥ ४ ॥",
+    "translation": "Questo suo figlio, che è il suo stesso sé, è deputato al compimento delle azioni rette e sacre; poi l'altro suo sé [il padre], compiuto il proprio ufficio e giunto al termine dell'età, muore. E dipartendosi da questo mondo, egli nasce di nuovo: questa è la sua terza nascita.",
+    "source": "Aitareya Upaniṣad, II.1.4",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-2",
+    "unit_locus": "2",
+    "unit_title": "Secondo Adhyāya",
+    "section_locus": "2.1",
+    "section_title": "Le tre nascite e la liberazione di Vāmadeva",
+    "locus": "2.1",
+    "index_in_section": 3,
+    "sequence": 27,
+    "source_file": "editorial-units/aitareya-adhyaya-2.json"
+  },
+  "aitareya-2-1-5": {
+    "id": "aitareya-2-1-5",
+    "original": "तदुक्तमृषिणा गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा शतं मा पुर आयसीररक्षन्नधः श्येनो जवसा निरदीयमिति । गर्भ एवैतच्छयानो वामदेव एवमुवाच ॥ ५ ॥",
+    "translation": "A questo proposito fu dichiarato dal saggio [il ṛṣi Vāmadeva]: «Mentre ero ancora nel grembo materno, ho conosciuto tutte le nascite degli dèi; cento fortezze di ferro mi trattenevano prigioniero, ma come un falco con rapido slancio me ne sono liberato e sono volato via». Così parlò Vāmadeva mentre ancora giaceva nel grembo materno.",
+    "source": "Aitareya Upaniṣad, II.1.5",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-2",
+    "unit_locus": "2",
+    "unit_title": "Secondo Adhyāya",
+    "section_locus": "2.1",
+    "section_title": "Le tre nascite e la liberazione di Vāmadeva",
+    "locus": "2.1",
+    "index_in_section": 4,
+    "sequence": 28,
+    "source_file": "editorial-units/aitareya-adhyaya-2.json"
+  },
+  "aitareya-2-1-6": {
+    "id": "aitareya-2-1-6",
+    "original": "स एवं विद्वानस्माच्छरीरभेदादूर्ध्व उत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान् कामानाप्त्वाऽमृतः समभवत् समभवत् ॥ ६ ॥",
+    "translation": "Egli, possedendo tale conoscenza, al dissolvimento di questo corpo si innalzò verso l'alto e, ottenuto ogni compimento nel supremo regno luminoso, divenne immortale, divenne immortale.",
+    "source": "Aitareya Upaniṣad, II.1.6",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-2",
+    "unit_locus": "2",
+    "unit_title": "Secondo Adhyāya",
+    "section_locus": "2.1",
+    "section_title": "Le tre nascite e la liberazione di Vāmadeva",
+    "locus": "2.1",
+    "index_in_section": 5,
+    "sequence": 29,
+    "source_file": "editorial-units/aitareya-adhyaya-2.json"
+  },
+  "aitareya-3-1-1": {
+    "id": "aitareya-3-1-1",
+    "original": "कोऽयमात्मेति वयमुपास्महे कतरः स आत्मा । येन वा पश्यति येन वा शृणोति येन वा गन्धानाजिघ्रति येन वा वाचं व्याकरोति येन वा स्वादु चास्वादु च विजानाति ॥ १ ॥",
+    "translation": "«Chi è questo Sé che noi veneriamo? Quale dei due è il Sé? È forse colui mediante il quale si vede, mediante il quale si ode, mediante il quale si percepiscono gli odori, mediante il quale si articola la parola, oppure mediante il quale si distingue ciò che è saporito da ciò che non lo è?»",
+    "source": "Aitareya Upaniṣad, III.1.1",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-3",
+    "unit_locus": "3",
+    "unit_title": "Terzo Adhyāya",
+    "section_locus": "3.1",
+    "section_title": "La natura dell'Ātman e la Coscienza come Brahman",
+    "locus": "3.1",
+    "index_in_section": 0,
+    "sequence": 30,
+    "source_file": "editorial-units/aitareya-adhyaya-3.json"
+  },
+  "aitareya-3-1-2": {
+    "id": "aitareya-3-1-2",
+    "original": "यदेतद्धृदयं मनश्चैतत् । सञ्ज्ञानमाज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिधृर्तिमतिर्मनीषा जूतिः स्मृतिः सङ्कल्पः क्रतुरसुः कामो वश इति । सर्वाण्येवैतानि प्रज्ञानस्य नामधेयानि भवन्ति ॥ २ ॥",
+    "translation": "Ciò che è il cuore e ciò che è la mente; la consapevolezza, la percezione ordinata, la conoscenza analitica, la comprensione profonda, la saggezza, la visione, la fermezza, la riflessione, l'intelletto, l'inquietudine, la memoria, l'intenzione, la volontà, la vitalità, il desiderio e l'attaccamento: tutte queste facoltà non sono che nomi e determinazioni della pura Coscienza [Prajñāna].",
+    "source": "Aitareya Upaniṣad, III.1.2",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-3",
+    "unit_locus": "3",
+    "unit_title": "Terzo Adhyāya",
+    "section_locus": "3.1",
+    "section_title": "La natura dell'Ātman e la Coscienza come Brahman",
+    "locus": "3.1",
+    "index_in_section": 1,
+    "sequence": 31,
+    "source_file": "editorial-units/aitareya-adhyaya-3.json"
+  },
+  "aitareya-3-1-3": {
+    "id": "aitareya-3-1-3",
+    "original": "एष ब्रह्मैष इन्द्र एष प्रजापतिरेते सर्वे देवा इमानि च पञ्चमहाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्षुद्रमिश्राणीव । बीजानीतराणि चेतराणि चाण्डजानि च जारुजानि च स्वेदजानि चोद्भिज्जानि चाश्वा गावः पुरुषा हस्तिनो यत्किञ्चेदं प्राणि जङ्गमं च पतत्रि च यच्च स्थावरं सर्वं तत्प्रज्ञानेत्रं प्रज्ञाने प्रतिष्ठितं प्रज्ञानेत्रो लोकः प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म ॥ ३ ॥",
+    "translation": "Egli è Brahman, Egli è Indra, Egli è Prajāpati, Egli è tutti questi dèi; e questi cinque grandi elementi: terra, vento, spazio etereo, acque e luce; e tutti questi esseri minuscoli e molteplici; e i diversi semi, ciò che nasce dall'uovo, ciò che nasce dal grembo materno, ciò che nasce dal calore e dall'umidità, e ciò che spunta dalla terra; i cavalli, i bovini, gli uomini, gli elefanti, e qualunque essere vivente che si muova o voli, o che sia immobile: tutto questo ha come guida la Coscienza, è fondato nella Coscienza. Il mondo ha come guida la Coscienza; la Coscienza ne è il fondamento. La pura Coscienza è Brahman [Prajñānaṁ Brahma].",
+    "source": "Aitareya Upaniṣad, III.1.3",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-3",
+    "unit_locus": "3",
+    "unit_title": "Terzo Adhyāya",
+    "section_locus": "3.1",
+    "section_title": "La natura dell'Ātman e la Coscienza come Brahman",
+    "locus": "3.1",
+    "index_in_section": 2,
+    "sequence": 32,
+    "source_file": "editorial-units/aitareya-adhyaya-3.json"
+  },
+  "aitareya-3-1-4": {
+    "id": "aitareya-3-1-4",
+    "original": "स एतेन प्राज्ञेनाऽऽत्मनाऽस्माल्लोकादुत्क्रम्यामुष्मिन्स्वर्गे लोके सर्वान् कामानाप्त्वाऽमृतः समभवत् समभवत् ॥ ४ ॥",
+    "translation": "Egli, mediante questo Sé cosciente [Prajña Ātman], dipartendosi da questo mondo e avendo ottenuto ogni compimento nel supremo regno luminoso, divenne immortale, divenne immortale.",
+    "source": "Aitareya Upaniṣad, III.1.4",
+    "work_id": "aitareya-upanisad",
+    "unit_id": "aitareya-adhyaya-3",
+    "unit_locus": "3",
+    "unit_title": "Terzo Adhyāya",
+    "section_locus": "3.1",
+    "section_title": "La natura dell'Ātman e la Coscienza come Brahman",
+    "locus": "3.1",
+    "index_in_section": 3,
+    "sequence": 33,
+    "source_file": "editorial-units/aitareya-adhyaya-3.json"
+  },
   "isha-1-shanti": {
     "id": "isha-1-shanti",
     "original": "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
@@ -13,7 +557,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 0,
-    "sequence": 0,
+    "sequence": 34,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-1": {
@@ -30,7 +574,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 1,
-    "sequence": 1,
+    "sequence": 35,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-2": {
@@ -47,7 +591,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 2,
-    "sequence": 2,
+    "sequence": 36,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-3": {
@@ -64,7 +608,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 3,
-    "sequence": 3,
+    "sequence": 37,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-4": {
@@ -81,7 +625,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 4,
-    "sequence": 4,
+    "sequence": 38,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-5": {
@@ -98,7 +642,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 5,
-    "sequence": 5,
+    "sequence": 39,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-6": {
@@ -115,7 +659,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 6,
-    "sequence": 6,
+    "sequence": 40,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-7": {
@@ -132,7 +676,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 7,
-    "sequence": 7,
+    "sequence": 41,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-8": {
@@ -149,7 +693,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 8,
-    "sequence": 8,
+    "sequence": 42,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-9": {
@@ -166,7 +710,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 9,
-    "sequence": 9,
+    "sequence": 43,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-10": {
@@ -183,7 +727,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 10,
-    "sequence": 10,
+    "sequence": 44,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-11": {
@@ -200,7 +744,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 11,
-    "sequence": 11,
+    "sequence": 45,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-12": {
@@ -217,7 +761,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 12,
-    "sequence": 12,
+    "sequence": 46,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-13": {
@@ -234,7 +778,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 13,
-    "sequence": 13,
+    "sequence": 47,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-14": {
@@ -251,7 +795,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 14,
-    "sequence": 14,
+    "sequence": 48,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-15": {
@@ -268,7 +812,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 15,
-    "sequence": 15,
+    "sequence": 49,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-16": {
@@ -285,7 +829,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 16,
-    "sequence": 16,
+    "sequence": 50,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-17": {
@@ -302,7 +846,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 17,
-    "sequence": 17,
+    "sequence": 51,
     "source_file": "editorial-units/isha-1.json"
   },
   "isha-1-18": {
@@ -319,7 +863,7 @@
     "section_title": "Sezione Unica",
     "locus": "Mantra 1-18 e Śānti-pāṭha",
     "index_in_section": 18,
-    "sequence": 18,
+    "sequence": 52,
     "source_file": "editorial-units/isha-1.json"
   },
   "katha-1-1-0": {
@@ -336,7 +880,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 0,
-    "sequence": 19,
+    "sequence": 53,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-1": {
@@ -353,7 +897,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 1,
-    "sequence": 20,
+    "sequence": 54,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-2": {
@@ -370,7 +914,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 2,
-    "sequence": 21,
+    "sequence": 55,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-3": {
@@ -387,7 +931,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 3,
-    "sequence": 22,
+    "sequence": 56,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-4": {
@@ -404,7 +948,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 4,
-    "sequence": 23,
+    "sequence": 57,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-5": {
@@ -421,7 +965,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 5,
-    "sequence": 24,
+    "sequence": 58,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-6": {
@@ -438,7 +982,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 6,
-    "sequence": 25,
+    "sequence": 59,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-7": {
@@ -455,7 +999,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 7,
-    "sequence": 26,
+    "sequence": 60,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-8": {
@@ -472,7 +1016,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 8,
-    "sequence": 27,
+    "sequence": 61,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-9": {
@@ -489,7 +1033,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 9,
-    "sequence": 28,
+    "sequence": 62,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-10": {
@@ -506,7 +1050,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 10,
-    "sequence": 29,
+    "sequence": 63,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-11": {
@@ -523,7 +1067,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 11,
-    "sequence": 30,
+    "sequence": 64,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-12": {
@@ -540,7 +1084,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 12,
-    "sequence": 31,
+    "sequence": 65,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-13": {
@@ -557,7 +1101,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 13,
-    "sequence": 32,
+    "sequence": 66,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-14": {
@@ -574,7 +1118,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 14,
-    "sequence": 33,
+    "sequence": 67,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-15": {
@@ -591,7 +1135,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 15,
-    "sequence": 34,
+    "sequence": 68,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-16": {
@@ -608,7 +1152,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 16,
-    "sequence": 35,
+    "sequence": 69,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-17": {
@@ -625,7 +1169,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 17,
-    "sequence": 36,
+    "sequence": 70,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-18": {
@@ -642,7 +1186,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 18,
-    "sequence": 37,
+    "sequence": 71,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-19": {
@@ -659,7 +1203,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 19,
-    "sequence": 38,
+    "sequence": 72,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-20": {
@@ -676,7 +1220,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 20,
-    "sequence": 39,
+    "sequence": 73,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-21": {
@@ -693,7 +1237,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 21,
-    "sequence": 40,
+    "sequence": 74,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-22": {
@@ -710,7 +1254,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 22,
-    "sequence": 41,
+    "sequence": 75,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-23": {
@@ -727,7 +1271,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 23,
-    "sequence": 42,
+    "sequence": 76,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-24": {
@@ -744,7 +1288,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 24,
-    "sequence": 43,
+    "sequence": 77,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-25": {
@@ -761,7 +1305,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 25,
-    "sequence": 44,
+    "sequence": 78,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-26": {
@@ -778,7 +1322,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 26,
-    "sequence": 45,
+    "sequence": 79,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-27": {
@@ -795,7 +1339,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 27,
-    "sequence": 46,
+    "sequence": 80,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-28": {
@@ -812,7 +1356,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 28,
-    "sequence": 47,
+    "sequence": 81,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-1-29": {
@@ -829,7 +1373,7 @@
     "section_title": "La discesa di Naciketas e i tre doni",
     "locus": "I.1.0-29",
     "index_in_section": 29,
-    "sequence": 48,
+    "sequence": 82,
     "source_file": "editorial-units/katha-1-1.json"
   },
   "katha-1-2-1": {
@@ -846,7 +1390,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 0,
-    "sequence": 49,
+    "sequence": 83,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-2": {
@@ -863,7 +1407,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 1,
-    "sequence": 50,
+    "sequence": 84,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-3": {
@@ -880,7 +1424,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 2,
-    "sequence": 51,
+    "sequence": 85,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-4": {
@@ -897,7 +1441,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 3,
-    "sequence": 52,
+    "sequence": 86,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-5": {
@@ -914,7 +1458,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 4,
-    "sequence": 53,
+    "sequence": 87,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-6": {
@@ -931,7 +1475,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 5,
-    "sequence": 54,
+    "sequence": 88,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-7": {
@@ -948,7 +1492,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 6,
-    "sequence": 55,
+    "sequence": 89,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-8": {
@@ -965,7 +1509,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 7,
-    "sequence": 56,
+    "sequence": 90,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-9": {
@@ -982,7 +1526,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 8,
-    "sequence": 57,
+    "sequence": 91,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-10": {
@@ -999,7 +1543,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 9,
-    "sequence": 58,
+    "sequence": 92,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-11": {
@@ -1016,7 +1560,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 10,
-    "sequence": 59,
+    "sequence": 93,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-12": {
@@ -1033,7 +1577,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 11,
-    "sequence": 60,
+    "sequence": 94,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-13": {
@@ -1050,7 +1594,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 12,
-    "sequence": 61,
+    "sequence": 95,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-14": {
@@ -1067,7 +1611,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 13,
-    "sequence": 62,
+    "sequence": 96,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-15": {
@@ -1084,7 +1628,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 14,
-    "sequence": 63,
+    "sequence": 97,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-16": {
@@ -1101,7 +1645,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 15,
-    "sequence": 64,
+    "sequence": 98,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-17": {
@@ -1118,7 +1662,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 16,
-    "sequence": 65,
+    "sequence": 99,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-18": {
@@ -1135,7 +1679,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 17,
-    "sequence": 66,
+    "sequence": 100,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-19": {
@@ -1152,7 +1696,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 18,
-    "sequence": 67,
+    "sequence": 101,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-20": {
@@ -1169,7 +1713,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 19,
-    "sequence": 68,
+    "sequence": 102,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-21": {
@@ -1186,7 +1730,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 20,
-    "sequence": 69,
+    "sequence": 103,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-22": {
@@ -1203,7 +1747,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 21,
-    "sequence": 70,
+    "sequence": 104,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-23": {
@@ -1220,7 +1764,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 22,
-    "sequence": 71,
+    "sequence": 105,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-24": {
@@ -1237,7 +1781,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 23,
-    "sequence": 72,
+    "sequence": 106,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-2-25": {
@@ -1254,7 +1798,7 @@
     "section_title": "La via della Conoscenza e l'ineffabile Sé",
     "locus": "I.2.1-25",
     "index_in_section": 24,
-    "sequence": 73,
+    "sequence": 107,
     "source_file": "editorial-units/katha-1-2.json"
   },
   "katha-1-3-1": {
@@ -1271,7 +1815,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 0,
-    "sequence": 74,
+    "sequence": 108,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-2": {
@@ -1288,7 +1832,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 1,
-    "sequence": 75,
+    "sequence": 109,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-3": {
@@ -1305,7 +1849,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 2,
-    "sequence": 76,
+    "sequence": 110,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-4": {
@@ -1322,7 +1866,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 3,
-    "sequence": 77,
+    "sequence": 111,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-5": {
@@ -1339,7 +1883,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 4,
-    "sequence": 78,
+    "sequence": 112,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-6": {
@@ -1356,7 +1900,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 5,
-    "sequence": 79,
+    "sequence": 113,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-7": {
@@ -1373,7 +1917,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 6,
-    "sequence": 80,
+    "sequence": 114,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-8": {
@@ -1390,7 +1934,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 7,
-    "sequence": 81,
+    "sequence": 115,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-9": {
@@ -1407,7 +1951,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 8,
-    "sequence": 82,
+    "sequence": 116,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-10": {
@@ -1424,7 +1968,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 9,
-    "sequence": 83,
+    "sequence": 117,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-11": {
@@ -1441,7 +1985,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 10,
-    "sequence": 84,
+    "sequence": 118,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-12": {
@@ -1458,7 +2002,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 11,
-    "sequence": 85,
+    "sequence": 119,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-13": {
@@ -1475,7 +2019,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 12,
-    "sequence": 86,
+    "sequence": 120,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-14": {
@@ -1492,7 +2036,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 13,
-    "sequence": 87,
+    "sequence": 121,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-15": {
@@ -1509,7 +2053,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 14,
-    "sequence": 88,
+    "sequence": 122,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-16": {
@@ -1526,7 +2070,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 15,
-    "sequence": 89,
+    "sequence": 123,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-1-3-17": {
@@ -1543,7 +2087,7 @@
     "section_title": "Il governo del veicolo psicosomatico e la Meta suprema",
     "locus": "I.3.1-17",
     "index_in_section": 16,
-    "sequence": 90,
+    "sequence": 124,
     "source_file": "editorial-units/katha-1-3.json"
   },
   "katha-2-1-1": {
@@ -1560,7 +2104,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 0,
-    "sequence": 91,
+    "sequence": 125,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-2": {
@@ -1577,7 +2121,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 1,
-    "sequence": 92,
+    "sequence": 126,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-3": {
@@ -1594,7 +2138,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 2,
-    "sequence": 93,
+    "sequence": 127,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-4": {
@@ -1611,7 +2155,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 3,
-    "sequence": 94,
+    "sequence": 128,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-5": {
@@ -1628,7 +2172,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 4,
-    "sequence": 95,
+    "sequence": 129,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-6": {
@@ -1645,7 +2189,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 5,
-    "sequence": 96,
+    "sequence": 130,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-7": {
@@ -1662,7 +2206,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 6,
-    "sequence": 97,
+    "sequence": 131,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-8": {
@@ -1679,7 +2223,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 7,
-    "sequence": 98,
+    "sequence": 132,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-9": {
@@ -1696,7 +2240,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 8,
-    "sequence": 99,
+    "sequence": 133,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-10": {
@@ -1713,7 +2257,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 9,
-    "sequence": 100,
+    "sequence": 134,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-11": {
@@ -1730,7 +2274,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 10,
-    "sequence": 101,
+    "sequence": 135,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-12": {
@@ -1747,7 +2291,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 11,
-    "sequence": 102,
+    "sequence": 136,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-13": {
@@ -1764,7 +2308,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 12,
-    "sequence": 103,
+    "sequence": 137,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-14": {
@@ -1781,7 +2325,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 13,
-    "sequence": 104,
+    "sequence": 138,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-1-15": {
@@ -1798,7 +2342,7 @@
     "section_title": "Lo sguardo interiore e l'unità dell'Essere",
     "locus": "II.1.1-15",
     "index_in_section": 14,
-    "sequence": 105,
+    "sequence": 139,
     "source_file": "editorial-units/katha-2-1.json"
   },
   "katha-2-2-1": {
@@ -1815,7 +2359,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 0,
-    "sequence": 106,
+    "sequence": 140,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-2": {
@@ -1832,7 +2376,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 1,
-    "sequence": 107,
+    "sequence": 141,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-3": {
@@ -1849,7 +2393,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 2,
-    "sequence": 108,
+    "sequence": 142,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-4": {
@@ -1866,7 +2410,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 3,
-    "sequence": 109,
+    "sequence": 143,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-5": {
@@ -1883,7 +2427,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 4,
-    "sequence": 110,
+    "sequence": 144,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-6": {
@@ -1900,7 +2444,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 5,
-    "sequence": 111,
+    "sequence": 145,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-7": {
@@ -1917,7 +2461,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 6,
-    "sequence": 112,
+    "sequence": 146,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-8": {
@@ -1934,7 +2478,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 7,
-    "sequence": 113,
+    "sequence": 147,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-9": {
@@ -1951,7 +2495,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 8,
-    "sequence": 114,
+    "sequence": 148,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-10": {
@@ -1968,7 +2512,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 9,
-    "sequence": 115,
+    "sequence": 149,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-11": {
@@ -1985,7 +2529,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 10,
-    "sequence": 116,
+    "sequence": 150,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-12": {
@@ -2002,7 +2546,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 11,
-    "sequence": 117,
+    "sequence": 151,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-13": {
@@ -2019,7 +2563,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 12,
-    "sequence": 118,
+    "sequence": 152,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-14": {
@@ -2036,7 +2580,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 13,
-    "sequence": 119,
+    "sequence": 153,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-2-15": {
@@ -2053,7 +2597,7 @@
     "section_title": "L'immanenza sovrana e la Trascendenza incorruttibile",
     "locus": "II.2.1-15",
     "index_in_section": 14,
-    "sequence": 120,
+    "sequence": 154,
     "source_file": "editorial-units/katha-2-2.json"
   },
   "katha-2-3-1": {
@@ -2070,7 +2614,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 0,
-    "sequence": 121,
+    "sequence": 155,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-2": {
@@ -2087,7 +2631,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 1,
-    "sequence": 122,
+    "sequence": 156,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-3": {
@@ -2104,7 +2648,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 2,
-    "sequence": 123,
+    "sequence": 157,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-4": {
@@ -2121,7 +2665,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 3,
-    "sequence": 124,
+    "sequence": 158,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-5": {
@@ -2138,7 +2682,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 4,
-    "sequence": 125,
+    "sequence": 159,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-6": {
@@ -2155,7 +2699,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 5,
-    "sequence": 126,
+    "sequence": 160,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-7": {
@@ -2172,7 +2716,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 6,
-    "sequence": 127,
+    "sequence": 161,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-8": {
@@ -2189,7 +2733,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 7,
-    "sequence": 128,
+    "sequence": 162,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-9": {
@@ -2206,7 +2750,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 8,
-    "sequence": 129,
+    "sequence": 163,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-10": {
@@ -2223,7 +2767,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 9,
-    "sequence": 130,
+    "sequence": 164,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-11": {
@@ -2240,7 +2784,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 10,
-    "sequence": 131,
+    "sequence": 165,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-12": {
@@ -2257,7 +2801,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 11,
-    "sequence": 132,
+    "sequence": 166,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-13": {
@@ -2274,7 +2818,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 12,
-    "sequence": 133,
+    "sequence": 167,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-14": {
@@ -2291,7 +2835,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 13,
-    "sequence": 134,
+    "sequence": 168,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-15": {
@@ -2308,7 +2852,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 14,
-    "sequence": 135,
+    "sequence": 169,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-16": {
@@ -2325,7 +2869,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 15,
-    "sequence": 136,
+    "sequence": 170,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-17": {
@@ -2342,7 +2886,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 16,
-    "sequence": 137,
+    "sequence": 171,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-18": {
@@ -2359,7 +2903,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 17,
-    "sequence": 138,
+    "sequence": 172,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "katha-2-3-19": {
@@ -2376,7 +2920,7 @@
     "section_title": "La recisione dei nodi del cuore e la Liberazione in vita",
     "locus": "II.3.1-19",
     "index_in_section": 18,
-    "sequence": 139,
+    "sequence": 173,
     "source_file": "editorial-units/katha-2-3.json"
   },
   "kena-shanti": {
@@ -2393,7 +2937,7 @@
     "section_title": "Invocazione di Pace",
     "locus": "Śānti-pāṭha",
     "index_in_section": 0,
-    "sequence": 140,
+    "sequence": 174,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-1": {
@@ -2410,7 +2954,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 0,
-    "sequence": 141,
+    "sequence": 175,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-2": {
@@ -2427,7 +2971,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 1,
-    "sequence": 142,
+    "sequence": 176,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-3": {
@@ -2444,7 +2988,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 2,
-    "sequence": 143,
+    "sequence": 177,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-4": {
@@ -2461,7 +3005,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 3,
-    "sequence": 144,
+    "sequence": 178,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-5": {
@@ -2478,7 +3022,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 4,
-    "sequence": 145,
+    "sequence": 179,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-6": {
@@ -2495,7 +3039,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 5,
-    "sequence": 146,
+    "sequence": 180,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-7": {
@@ -2512,7 +3056,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 6,
-    "sequence": 147,
+    "sequence": 181,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-8": {
@@ -2529,7 +3073,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 7,
-    "sequence": 148,
+    "sequence": 182,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-1-9": {
@@ -2546,7 +3090,7 @@
     "section_title": "Primo Khaṇḍa",
     "locus": "I.1-9",
     "index_in_section": 8,
-    "sequence": 149,
+    "sequence": 183,
     "source_file": "editorial-units/kena-1.json"
   },
   "kena-2-1": {
@@ -2563,7 +3107,7 @@
     "section_title": "Secondo Khaṇḍa",
     "locus": "II.1-5",
     "index_in_section": 0,
-    "sequence": 150,
+    "sequence": 184,
     "source_file": "editorial-units/kena-2.json"
   },
   "kena-2-2": {
@@ -2580,7 +3124,7 @@
     "section_title": "Secondo Khaṇḍa",
     "locus": "II.1-5",
     "index_in_section": 1,
-    "sequence": 151,
+    "sequence": 185,
     "source_file": "editorial-units/kena-2.json"
   },
   "kena-2-3": {
@@ -2597,7 +3141,7 @@
     "section_title": "Secondo Khaṇḍa",
     "locus": "II.1-5",
     "index_in_section": 2,
-    "sequence": 152,
+    "sequence": 186,
     "source_file": "editorial-units/kena-2.json"
   },
   "kena-2-4": {
@@ -2614,7 +3158,7 @@
     "section_title": "Secondo Khaṇḍa",
     "locus": "II.1-5",
     "index_in_section": 3,
-    "sequence": 153,
+    "sequence": 187,
     "source_file": "editorial-units/kena-2.json"
   },
   "kena-2-5": {
@@ -2631,7 +3175,7 @@
     "section_title": "Secondo Khaṇḍa",
     "locus": "II.1-5",
     "index_in_section": 4,
-    "sequence": 154,
+    "sequence": 188,
     "source_file": "editorial-units/kena-2.json"
   },
   "kena-3-1": {
@@ -2648,7 +3192,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 0,
-    "sequence": 155,
+    "sequence": 189,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-2": {
@@ -2665,7 +3209,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 1,
-    "sequence": 156,
+    "sequence": 190,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-3": {
@@ -2682,7 +3226,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 2,
-    "sequence": 157,
+    "sequence": 191,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-4": {
@@ -2699,7 +3243,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 3,
-    "sequence": 158,
+    "sequence": 192,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-5": {
@@ -2716,7 +3260,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 4,
-    "sequence": 159,
+    "sequence": 193,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-6": {
@@ -2733,7 +3277,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 5,
-    "sequence": 160,
+    "sequence": 194,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-7": {
@@ -2750,7 +3294,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 6,
-    "sequence": 161,
+    "sequence": 195,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-8": {
@@ -2767,7 +3311,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 7,
-    "sequence": 162,
+    "sequence": 196,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-9": {
@@ -2784,7 +3328,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 8,
-    "sequence": 163,
+    "sequence": 197,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-10": {
@@ -2801,7 +3345,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 9,
-    "sequence": 164,
+    "sequence": 198,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-11": {
@@ -2818,7 +3362,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 10,
-    "sequence": 165,
+    "sequence": 199,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-3-12": {
@@ -2835,7 +3379,7 @@
     "section_title": "Terzo Khaṇḍa",
     "locus": "III.1-12",
     "index_in_section": 11,
-    "sequence": 166,
+    "sequence": 200,
     "source_file": "editorial-units/kena-3.json"
   },
   "kena-4-1": {
@@ -2852,7 +3396,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 0,
-    "sequence": 167,
+    "sequence": 201,
     "source_file": "editorial-units/kena-4.json"
   },
   "kena-4-2": {
@@ -2869,7 +3413,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 1,
-    "sequence": 168,
+    "sequence": 202,
     "source_file": "editorial-units/kena-4.json"
   },
   "kena-4-3": {
@@ -2886,7 +3430,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 2,
-    "sequence": 169,
+    "sequence": 203,
     "source_file": "editorial-units/kena-4.json"
   },
   "kena-4-4": {
@@ -2903,7 +3447,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 3,
-    "sequence": 170,
+    "sequence": 204,
     "source_file": "editorial-units/kena-4.json"
   },
   "kena-4-5": {
@@ -2920,7 +3464,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 4,
-    "sequence": 171,
+    "sequence": 205,
     "source_file": "editorial-units/kena-4.json"
   },
   "kena-4-6": {
@@ -2937,7 +3481,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 5,
-    "sequence": 172,
+    "sequence": 206,
     "source_file": "editorial-units/kena-4.json"
   },
   "kena-4-7": {
@@ -2954,7 +3498,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 6,
-    "sequence": 173,
+    "sequence": 207,
     "source_file": "editorial-units/kena-4.json"
   },
   "kena-4-8": {
@@ -2971,7 +3515,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 7,
-    "sequence": 174,
+    "sequence": 208,
     "source_file": "editorial-units/kena-4.json"
   },
   "kena-4-9": {
@@ -2988,7 +3532,7 @@
     "section_title": "Quarto Khaṇḍa",
     "locus": "IV.1-9",
     "index_in_section": 8,
-    "sequence": 175,
+    "sequence": 209,
     "source_file": "editorial-units/kena-4.json"
   },
   "mandukya-1-0": {
@@ -3004,7 +3548,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 0,
-    "sequence": 176,
+    "sequence": 210,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-1": {
@@ -3020,7 +3564,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 1,
-    "sequence": 177,
+    "sequence": 211,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-2": {
@@ -3036,7 +3580,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 2,
-    "sequence": 178,
+    "sequence": 212,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-3": {
@@ -3052,7 +3596,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 3,
-    "sequence": 179,
+    "sequence": 213,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-4": {
@@ -3068,7 +3612,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 4,
-    "sequence": 180,
+    "sequence": 214,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-5": {
@@ -3084,7 +3628,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 5,
-    "sequence": 181,
+    "sequence": 215,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-6": {
@@ -3100,7 +3644,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 6,
-    "sequence": 182,
+    "sequence": 216,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-7": {
@@ -3116,7 +3660,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 7,
-    "sequence": 183,
+    "sequence": 217,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-8": {
@@ -3132,7 +3676,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 8,
-    "sequence": 184,
+    "sequence": 218,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-9": {
@@ -3148,7 +3692,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 9,
-    "sequence": 185,
+    "sequence": 219,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-10": {
@@ -3164,7 +3708,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 10,
-    "sequence": 186,
+    "sequence": 220,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-11": {
@@ -3180,7 +3724,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 11,
-    "sequence": 187,
+    "sequence": 221,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-12": {
@@ -3196,7 +3740,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 12,
-    "sequence": 188,
+    "sequence": 222,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mandukya-1-13": {
@@ -3212,7 +3756,7 @@
     "section_locus": "I.0-I.13",
     "section_title": "Invocazione, dodici mantra e chiusura",
     "index_in_section": 13,
-    "sequence": 189,
+    "sequence": 223,
     "source_file": "editorial-units/mandukya-1.json"
   },
   "mundaka-1-1-0": {
@@ -3228,7 +3772,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 0,
-    "sequence": 190,
+    "sequence": 224,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-1": {
@@ -3244,7 +3788,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 1,
-    "sequence": 191,
+    "sequence": 225,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-2": {
@@ -3260,7 +3804,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 2,
-    "sequence": 192,
+    "sequence": 226,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-3": {
@@ -3276,7 +3820,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 3,
-    "sequence": 193,
+    "sequence": 227,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-4": {
@@ -3292,7 +3836,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 4,
-    "sequence": 194,
+    "sequence": 228,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-5": {
@@ -3308,7 +3852,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 5,
-    "sequence": 195,
+    "sequence": 229,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-6": {
@@ -3324,7 +3868,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 6,
-    "sequence": 196,
+    "sequence": 230,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-7": {
@@ -3340,7 +3884,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 7,
-    "sequence": 197,
+    "sequence": 231,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-8": {
@@ -3356,7 +3900,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 8,
-    "sequence": 198,
+    "sequence": 232,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-1-9": {
@@ -3372,7 +3916,7 @@
     "section_locus": "I.1",
     "section_title": "Primo Muṇḍaka, Primo Khaṇḍa (I.1.0 – I.1.9)",
     "index_in_section": 9,
-    "sequence": 199,
+    "sequence": 233,
     "source_file": "editorial-units/mundaka-1-1.json"
   },
   "mundaka-1-2-1": {
@@ -3388,7 +3932,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 0,
-    "sequence": 200,
+    "sequence": 234,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-2": {
@@ -3404,7 +3948,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 1,
-    "sequence": 201,
+    "sequence": 235,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-3": {
@@ -3420,7 +3964,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 2,
-    "sequence": 202,
+    "sequence": 236,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-4": {
@@ -3436,7 +3980,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 3,
-    "sequence": 203,
+    "sequence": 237,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-5": {
@@ -3452,7 +3996,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 4,
-    "sequence": 204,
+    "sequence": 238,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-6": {
@@ -3468,7 +4012,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 5,
-    "sequence": 205,
+    "sequence": 239,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-7": {
@@ -3484,7 +4028,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 6,
-    "sequence": 206,
+    "sequence": 240,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-8": {
@@ -3500,7 +4044,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 7,
-    "sequence": 207,
+    "sequence": 241,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-9": {
@@ -3516,7 +4060,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 8,
-    "sequence": 208,
+    "sequence": 242,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-10": {
@@ -3532,7 +4076,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 9,
-    "sequence": 209,
+    "sequence": 243,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-11": {
@@ -3548,7 +4092,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 10,
-    "sequence": 210,
+    "sequence": 244,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-12": {
@@ -3564,7 +4108,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 11,
-    "sequence": 211,
+    "sequence": 245,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-1-2-13": {
@@ -3580,7 +4124,7 @@
     "section_locus": "I.2",
     "section_title": "Primo Muṇḍaka, Secondo Khaṇḍa (I.2.1 – I.2.13)",
     "index_in_section": 12,
-    "sequence": 212,
+    "sequence": 246,
     "source_file": "editorial-units/mundaka-1-2.json"
   },
   "mundaka-2-1-1": {
@@ -3596,7 +4140,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 0,
-    "sequence": 213,
+    "sequence": 247,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-2": {
@@ -3612,7 +4156,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 1,
-    "sequence": 214,
+    "sequence": 248,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-3": {
@@ -3628,7 +4172,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 2,
-    "sequence": 215,
+    "sequence": 249,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-4": {
@@ -3644,7 +4188,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 3,
-    "sequence": 216,
+    "sequence": 250,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-5": {
@@ -3660,7 +4204,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 4,
-    "sequence": 217,
+    "sequence": 251,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-6": {
@@ -3676,7 +4220,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 5,
-    "sequence": 218,
+    "sequence": 252,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-7": {
@@ -3692,7 +4236,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 6,
-    "sequence": 219,
+    "sequence": 253,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-8": {
@@ -3708,7 +4252,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 7,
-    "sequence": 220,
+    "sequence": 254,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-9": {
@@ -3724,7 +4268,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 8,
-    "sequence": 221,
+    "sequence": 255,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-1-10": {
@@ -3740,7 +4284,7 @@
     "section_locus": "II.1",
     "section_title": "Secondo Muṇḍaka, Primo Khaṇḍa (II.1.1 – II.1.10)",
     "index_in_section": 9,
-    "sequence": 222,
+    "sequence": 256,
     "source_file": "editorial-units/mundaka-2-1.json"
   },
   "mundaka-2-2-1": {
@@ -3756,7 +4300,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 0,
-    "sequence": 223,
+    "sequence": 257,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-2": {
@@ -3772,7 +4316,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 1,
-    "sequence": 224,
+    "sequence": 258,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-3": {
@@ -3788,7 +4332,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 2,
-    "sequence": 225,
+    "sequence": 259,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-4": {
@@ -3804,7 +4348,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 3,
-    "sequence": 226,
+    "sequence": 260,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-5": {
@@ -3820,7 +4364,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 4,
-    "sequence": 227,
+    "sequence": 261,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-6": {
@@ -3836,7 +4380,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 5,
-    "sequence": 228,
+    "sequence": 262,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-7": {
@@ -3852,7 +4396,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 6,
-    "sequence": 229,
+    "sequence": 263,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-8": {
@@ -3868,7 +4412,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 7,
-    "sequence": 230,
+    "sequence": 264,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-9": {
@@ -3884,7 +4428,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 8,
-    "sequence": 231,
+    "sequence": 265,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-10": {
@@ -3900,7 +4444,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 9,
-    "sequence": 232,
+    "sequence": 266,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-2-2-11": {
@@ -3916,7 +4460,7 @@
     "section_locus": "II.2",
     "section_title": "Secondo Muṇḍaka, Secondo Khaṇḍa (II.2.1 – II.2.11)",
     "index_in_section": 10,
-    "sequence": 233,
+    "sequence": 267,
     "source_file": "editorial-units/mundaka-2-2.json"
   },
   "mundaka-3-1-1": {
@@ -3932,7 +4476,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 0,
-    "sequence": 234,
+    "sequence": 268,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-2": {
@@ -3948,7 +4492,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 1,
-    "sequence": 235,
+    "sequence": 269,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-3": {
@@ -3964,7 +4508,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 2,
-    "sequence": 236,
+    "sequence": 270,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-4": {
@@ -3980,7 +4524,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 3,
-    "sequence": 237,
+    "sequence": 271,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-5": {
@@ -3996,7 +4540,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 4,
-    "sequence": 238,
+    "sequence": 272,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-6": {
@@ -4012,7 +4556,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 5,
-    "sequence": 239,
+    "sequence": 273,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-7": {
@@ -4028,7 +4572,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 6,
-    "sequence": 240,
+    "sequence": 274,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-8": {
@@ -4044,7 +4588,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 7,
-    "sequence": 241,
+    "sequence": 275,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-9": {
@@ -4060,7 +4604,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 8,
-    "sequence": 242,
+    "sequence": 276,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-1-10": {
@@ -4076,7 +4620,7 @@
     "section_locus": "III.1",
     "section_title": "Terzo Muṇḍaka, Primo Khaṇḍa (III.1.1 – III.1.10)",
     "index_in_section": 9,
-    "sequence": 243,
+    "sequence": 277,
     "source_file": "editorial-units/mundaka-3-1.json"
   },
   "mundaka-3-2-1": {
@@ -4092,7 +4636,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 0,
-    "sequence": 244,
+    "sequence": 278,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-2": {
@@ -4108,7 +4652,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 1,
-    "sequence": 245,
+    "sequence": 279,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-3": {
@@ -4124,7 +4668,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 2,
-    "sequence": 246,
+    "sequence": 280,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-4": {
@@ -4140,7 +4684,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 3,
-    "sequence": 247,
+    "sequence": 281,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-5": {
@@ -4156,7 +4700,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 4,
-    "sequence": 248,
+    "sequence": 282,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-6": {
@@ -4172,7 +4716,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 5,
-    "sequence": 249,
+    "sequence": 283,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-7": {
@@ -4188,7 +4732,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 6,
-    "sequence": 250,
+    "sequence": 284,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-8": {
@@ -4204,7 +4748,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 7,
-    "sequence": 251,
+    "sequence": 285,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-9": {
@@ -4220,7 +4764,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 8,
-    "sequence": 252,
+    "sequence": 286,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-10": {
@@ -4236,7 +4780,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 9,
-    "sequence": 253,
+    "sequence": 287,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-11": {
@@ -4252,7 +4796,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 10,
-    "sequence": 254,
+    "sequence": 288,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "mundaka-3-2-12": {
@@ -4268,7 +4812,7 @@
     "section_locus": "III.2",
     "section_title": "Terzo Muṇḍaka, Secondo Khaṇḍa (III.2.1 – III.2.12)",
     "index_in_section": 11,
-    "sequence": 255,
+    "sequence": 289,
     "source_file": "editorial-units/mundaka-3-2.json"
   },
   "prashna-1-0": {
@@ -4285,7 +4829,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 0,
-    "sequence": 256,
+    "sequence": 290,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-1": {
@@ -4302,7 +4846,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 1,
-    "sequence": 257,
+    "sequence": 291,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-2": {
@@ -4319,7 +4863,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 2,
-    "sequence": 258,
+    "sequence": 292,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-3": {
@@ -4336,7 +4880,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 3,
-    "sequence": 259,
+    "sequence": 293,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-4": {
@@ -4353,7 +4897,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 4,
-    "sequence": 260,
+    "sequence": 294,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-5": {
@@ -4370,7 +4914,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 5,
-    "sequence": 261,
+    "sequence": 295,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-6": {
@@ -4387,7 +4931,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 6,
-    "sequence": 262,
+    "sequence": 296,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-7": {
@@ -4404,7 +4948,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 7,
-    "sequence": 263,
+    "sequence": 297,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-8": {
@@ -4421,7 +4965,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 8,
-    "sequence": 264,
+    "sequence": 298,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-9": {
@@ -4438,7 +4982,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 9,
-    "sequence": 265,
+    "sequence": 299,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-10": {
@@ -4455,7 +4999,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 10,
-    "sequence": 266,
+    "sequence": 300,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-11": {
@@ -4472,7 +5016,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 11,
-    "sequence": 267,
+    "sequence": 301,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-12": {
@@ -4489,7 +5033,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 12,
-    "sequence": 268,
+    "sequence": 302,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-13": {
@@ -4506,7 +5050,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 13,
-    "sequence": 269,
+    "sequence": 303,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-14": {
@@ -4523,7 +5067,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 14,
-    "sequence": 270,
+    "sequence": 304,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-15": {
@@ -4540,7 +5084,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 15,
-    "sequence": 271,
+    "sequence": 305,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-1-16": {
@@ -4557,7 +5101,7 @@
     "section_title": "La domanda di Kabandhī e la cosmogonia di Prajāpati",
     "locus": "I.0-16",
     "index_in_section": 16,
-    "sequence": 272,
+    "sequence": 306,
     "source_file": "editorial-units/prashna-1.json"
   },
   "prashna-2-1": {
@@ -4574,7 +5118,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 0,
-    "sequence": 273,
+    "sequence": 307,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-2": {
@@ -4591,7 +5135,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 1,
-    "sequence": 274,
+    "sequence": 308,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-3": {
@@ -4608,7 +5152,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 2,
-    "sequence": 275,
+    "sequence": 309,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-4": {
@@ -4625,7 +5169,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 3,
-    "sequence": 276,
+    "sequence": 310,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-5": {
@@ -4642,7 +5186,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 4,
-    "sequence": 277,
+    "sequence": 311,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-6": {
@@ -4659,7 +5203,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 5,
-    "sequence": 278,
+    "sequence": 312,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-7": {
@@ -4676,7 +5220,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 6,
-    "sequence": 279,
+    "sequence": 313,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-8": {
@@ -4693,7 +5237,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 7,
-    "sequence": 280,
+    "sequence": 314,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-9": {
@@ -4710,7 +5254,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 8,
-    "sequence": 281,
+    "sequence": 315,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-10": {
@@ -4727,7 +5271,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 9,
-    "sequence": 282,
+    "sequence": 316,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-11": {
@@ -4744,7 +5288,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 10,
-    "sequence": 283,
+    "sequence": 317,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-12": {
@@ -4761,7 +5305,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 11,
-    "sequence": 284,
+    "sequence": 318,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-2-13": {
@@ -4778,7 +5322,7 @@
     "section_title": "La disputa delle facoltà e la sovranità del Soffio vitale",
     "locus": "II.1-13",
     "index_in_section": 12,
-    "sequence": 285,
+    "sequence": 319,
     "source_file": "editorial-units/prashna-2.json"
   },
   "prashna-3-1": {
@@ -4795,7 +5339,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 0,
-    "sequence": 286,
+    "sequence": 320,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-2": {
@@ -4812,7 +5356,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 1,
-    "sequence": 287,
+    "sequence": 321,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-3": {
@@ -4829,7 +5373,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 2,
-    "sequence": 288,
+    "sequence": 322,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-4": {
@@ -4846,7 +5390,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 3,
-    "sequence": 289,
+    "sequence": 323,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-5": {
@@ -4863,7 +5407,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 4,
-    "sequence": 290,
+    "sequence": 324,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-6": {
@@ -4880,7 +5424,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 5,
-    "sequence": 291,
+    "sequence": 325,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-7": {
@@ -4897,7 +5441,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 6,
-    "sequence": 292,
+    "sequence": 326,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-8": {
@@ -4914,7 +5458,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 7,
-    "sequence": 293,
+    "sequence": 327,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-9": {
@@ -4931,7 +5475,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 8,
-    "sequence": 294,
+    "sequence": 328,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-10": {
@@ -4948,7 +5492,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 9,
-    "sequence": 295,
+    "sequence": 329,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-11": {
@@ -4965,7 +5509,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 10,
-    "sequence": 296,
+    "sequence": 330,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-3-12": {
@@ -4982,7 +5526,7 @@
     "section_title": "La domanda di Kausalya e la ripartizione dei soffi vitali",
     "locus": "III.1-12",
     "index_in_section": 11,
-    "sequence": 297,
+    "sequence": 331,
     "source_file": "editorial-units/prashna-3.json"
   },
   "prashna-4-1": {
@@ -4999,7 +5543,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 0,
-    "sequence": 298,
+    "sequence": 332,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-2": {
@@ -5016,7 +5560,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 1,
-    "sequence": 299,
+    "sequence": 333,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-3": {
@@ -5033,7 +5577,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 2,
-    "sequence": 300,
+    "sequence": 334,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-4": {
@@ -5050,7 +5594,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 3,
-    "sequence": 301,
+    "sequence": 335,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-5": {
@@ -5067,7 +5611,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 4,
-    "sequence": 302,
+    "sequence": 336,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-6": {
@@ -5084,7 +5628,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 5,
-    "sequence": 303,
+    "sequence": 337,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-7": {
@@ -5101,7 +5645,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 6,
-    "sequence": 304,
+    "sequence": 338,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-8": {
@@ -5118,7 +5662,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 7,
-    "sequence": 305,
+    "sequence": 339,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-9": {
@@ -5135,7 +5679,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 8,
-    "sequence": 306,
+    "sequence": 340,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-10": {
@@ -5152,7 +5696,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 9,
-    "sequence": 307,
+    "sequence": 341,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-4-11": {
@@ -5169,7 +5713,7 @@
     "section_title": "La domanda di Sauryāyaṇī e la reintegrazione in Akṣara",
     "locus": "IV.1-11",
     "index_in_section": 10,
-    "sequence": 308,
+    "sequence": 342,
     "source_file": "editorial-units/prashna-4.json"
   },
   "prashna-5-1": {
@@ -5186,7 +5730,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 0,
-    "sequence": 309,
+    "sequence": 343,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-2": {
@@ -5203,7 +5747,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 1,
-    "sequence": 310,
+    "sequence": 344,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-3": {
@@ -5220,7 +5764,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 2,
-    "sequence": 311,
+    "sequence": 345,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-4": {
@@ -5237,7 +5781,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 3,
-    "sequence": 312,
+    "sequence": 346,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-5": {
@@ -5254,7 +5798,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 4,
-    "sequence": 313,
+    "sequence": 347,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-6": {
@@ -5271,7 +5815,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 5,
-    "sequence": 314,
+    "sequence": 348,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-5-7": {
@@ -5288,7 +5832,7 @@
     "section_title": "La domanda di Satyakāma e l'ascesa metafisica tramite Oṃ",
     "locus": "V.1-7",
     "index_in_section": 6,
-    "sequence": 315,
+    "sequence": 349,
     "source_file": "editorial-units/prashna-5.json"
   },
   "prashna-6-1": {
@@ -5305,7 +5849,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 0,
-    "sequence": 316,
+    "sequence": 350,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-2": {
@@ -5322,7 +5866,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 1,
-    "sequence": 317,
+    "sequence": 351,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-3": {
@@ -5339,7 +5883,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 2,
-    "sequence": 318,
+    "sequence": 352,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-4": {
@@ -5356,7 +5900,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 3,
-    "sequence": 319,
+    "sequence": 353,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-5": {
@@ -5373,7 +5917,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 4,
-    "sequence": 320,
+    "sequence": 354,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-6": {
@@ -5390,7 +5934,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 5,
-    "sequence": 321,
+    "sequence": 355,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-7": {
@@ -5407,7 +5951,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 6,
-    "sequence": 322,
+    "sequence": 356,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-8": {
@@ -5424,7 +5968,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 7,
-    "sequence": 323,
+    "sequence": 357,
     "source_file": "editorial-units/prashna-6.json"
   },
   "prashna-6-9": {
@@ -5441,7 +5985,7 @@
     "section_title": "La domanda di Sukeśā e la dissoluzione delle parti nel Puruṣa",
     "locus": "VI.1-9",
     "index_in_section": 8,
-    "sequence": 324,
+    "sequence": 358,
     "source_file": "editorial-units/prashna-6.json"
   },
   "taittiriya-1-1-1": {
@@ -5457,7 +6001,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 0,
-    "sequence": 325,
+    "sequence": 359,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-2-1": {
@@ -5473,7 +6017,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 1,
-    "sequence": 326,
+    "sequence": 360,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-3-1": {
@@ -5489,7 +6033,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 2,
-    "sequence": 327,
+    "sequence": 361,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-3-2": {
@@ -5505,7 +6049,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 3,
-    "sequence": 328,
+    "sequence": 362,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-3-3": {
@@ -5521,7 +6065,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 4,
-    "sequence": 329,
+    "sequence": 363,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-3-4": {
@@ -5537,7 +6081,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 5,
-    "sequence": 330,
+    "sequence": 364,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-4-1": {
@@ -5553,7 +6097,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 6,
-    "sequence": 331,
+    "sequence": 365,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-4-2": {
@@ -5569,7 +6113,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 7,
-    "sequence": 332,
+    "sequence": 366,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-4-3": {
@@ -5585,7 +6129,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 8,
-    "sequence": 333,
+    "sequence": 367,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-5-1": {
@@ -5601,7 +6145,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 9,
-    "sequence": 334,
+    "sequence": 368,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-5-2": {
@@ -5617,7 +6161,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 10,
-    "sequence": 335,
+    "sequence": 369,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-5-3": {
@@ -5633,7 +6177,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 11,
-    "sequence": 336,
+    "sequence": 370,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-6-1": {
@@ -5649,7 +6193,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 12,
-    "sequence": 337,
+    "sequence": 371,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-6-2": {
@@ -5665,7 +6209,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 13,
-    "sequence": 338,
+    "sequence": 372,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-7-1": {
@@ -5681,7 +6225,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 14,
-    "sequence": 339,
+    "sequence": 373,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-8-1": {
@@ -5697,7 +6241,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 15,
-    "sequence": 340,
+    "sequence": 374,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-9-1": {
@@ -5713,7 +6257,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 16,
-    "sequence": 341,
+    "sequence": 375,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-10-1": {
@@ -5729,7 +6273,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 17,
-    "sequence": 342,
+    "sequence": 376,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-11-1": {
@@ -5745,7 +6289,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 18,
-    "sequence": 343,
+    "sequence": 377,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-11-2": {
@@ -5761,7 +6305,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 19,
-    "sequence": 344,
+    "sequence": 378,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-11-3": {
@@ -5777,7 +6321,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 20,
-    "sequence": 345,
+    "sequence": 379,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-11-4": {
@@ -5793,7 +6337,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 21,
-    "sequence": 346,
+    "sequence": 380,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-1-12-1": {
@@ -5809,7 +6353,7 @@
     "section_locus": "I.1-I.12",
     "section_title": "Śīkṣāvallī",
     "index_in_section": 22,
-    "sequence": 347,
+    "sequence": 381,
     "source_file": "editorial-units/taittiriya-1.json"
   },
   "taittiriya-2-0-1": {
@@ -5825,7 +6369,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 0,
-    "sequence": 348,
+    "sequence": 382,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-1-1": {
@@ -5841,7 +6385,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 1,
-    "sequence": 349,
+    "sequence": 383,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-2-1": {
@@ -5857,7 +6401,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 2,
-    "sequence": 350,
+    "sequence": 384,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-3-1": {
@@ -5873,7 +6417,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 3,
-    "sequence": 351,
+    "sequence": 385,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-4-1": {
@@ -5889,7 +6433,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 4,
-    "sequence": 352,
+    "sequence": 386,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-5-1": {
@@ -5905,7 +6449,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 5,
-    "sequence": 353,
+    "sequence": 387,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-6-1": {
@@ -5921,7 +6465,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 6,
-    "sequence": 354,
+    "sequence": 388,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-7-1": {
@@ -5937,7 +6481,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 7,
-    "sequence": 355,
+    "sequence": 389,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-8-1": {
@@ -5953,7 +6497,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 8,
-    "sequence": 356,
+    "sequence": 390,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-8-2": {
@@ -5969,7 +6513,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 9,
-    "sequence": 357,
+    "sequence": 391,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-8-3": {
@@ -5985,7 +6529,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 10,
-    "sequence": 358,
+    "sequence": 392,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-8-4": {
@@ -6001,7 +6545,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 11,
-    "sequence": 359,
+    "sequence": 393,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-8-5": {
@@ -6017,7 +6561,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 12,
-    "sequence": 360,
+    "sequence": 394,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-9-1": {
@@ -6033,7 +6577,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 13,
-    "sequence": 361,
+    "sequence": 395,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-2-9-2": {
@@ -6049,7 +6593,7 @@
     "section_locus": "II.0-II.9",
     "section_title": "Brahmānandavallī",
     "index_in_section": 14,
-    "sequence": 362,
+    "sequence": 396,
     "source_file": "editorial-units/taittiriya-2.json"
   },
   "taittiriya-3-0-1": {
@@ -6065,7 +6609,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 0,
-    "sequence": 363,
+    "sequence": 397,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-1-1": {
@@ -6081,7 +6625,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 1,
-    "sequence": 364,
+    "sequence": 398,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-2-1": {
@@ -6097,7 +6641,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 2,
-    "sequence": 365,
+    "sequence": 399,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-3-1": {
@@ -6113,7 +6657,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 3,
-    "sequence": 366,
+    "sequence": 400,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-4-1": {
@@ -6129,7 +6673,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 4,
-    "sequence": 367,
+    "sequence": 401,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-5-1": {
@@ -6145,7 +6689,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 5,
-    "sequence": 368,
+    "sequence": 402,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-6-1": {
@@ -6161,7 +6705,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 6,
-    "sequence": 369,
+    "sequence": 403,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-7-1": {
@@ -6177,7 +6721,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 7,
-    "sequence": 370,
+    "sequence": 404,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-8-1": {
@@ -6193,7 +6737,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 8,
-    "sequence": 371,
+    "sequence": 405,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-9-1": {
@@ -6209,7 +6753,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 9,
-    "sequence": 372,
+    "sequence": 406,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-10-1": {
@@ -6225,7 +6769,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 10,
-    "sequence": 373,
+    "sequence": 407,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-10-2": {
@@ -6241,7 +6785,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 11,
-    "sequence": 374,
+    "sequence": 408,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-10-3": {
@@ -6257,7 +6801,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 12,
-    "sequence": 375,
+    "sequence": 409,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-10-4": {
@@ -6273,7 +6817,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 13,
-    "sequence": 376,
+    "sequence": 410,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-10-5": {
@@ -6289,7 +6833,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 14,
-    "sequence": 377,
+    "sequence": 411,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-10-6": {
@@ -6305,7 +6849,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 15,
-    "sequence": 378,
+    "sequence": 412,
     "source_file": "editorial-units/taittiriya-3.json"
   },
   "taittiriya-3-10-7": {
@@ -6321,7 +6865,7 @@
     "section_locus": "III.0-III.10",
     "section_title": "Bhṛguvallī",
     "index_in_section": 16,
-    "sequence": 379,
+    "sequence": 413,
     "source_file": "editorial-units/taittiriya-3.json"
   }
 }

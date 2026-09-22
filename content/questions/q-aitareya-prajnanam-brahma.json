@@ -1,0 +1,19 @@
+{
+  "id": "q-aitareya-prajnanam-brahma",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato metafisico dell'affermazione «Prajñānaṁ Brahma»?",
+  "problem": "L'Upaniṣad ricompone l'intera manifestazione nella pura Coscienza (Prajñāna), proclamando che tale Coscienza non è una funzione psicologica individuale, ma la Realtà assoluta stessa.",
+  "parent_question": "q-che-cose-brahman",
+  "concepts": [
+    "brahman",
+    "prajnana",
+    "mahavakya"
+  ],
+  "passages": [
+    "aitareya-3-1-3"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

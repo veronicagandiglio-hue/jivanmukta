@@ -1,0 +1,20 @@
+{
+  "id": "aitareya-santipatha",
+  "work_id": "aitareya-upanisad",
+  "unit_locus": "0",
+  "unit_title": "Invocazione iniziale di pace",
+  "sections": [
+    {
+      "section_locus": "0.1",
+      "section_title": "Śāntipāṭha",
+      "passages": [
+        {
+          "id": "aitareya-santi-1",
+          "original": "वाङ् मे मनसि प्रतिष्ठिता मनो मे वाचि प्रतिष्ठितमाविरावीर्म एधि ॥ वेदस्य म आणीस्थः श्रुतं मे मा प्रहासीरनेनाधीतेनाहोरात्रान् सन्दधाम्यृतं वदिष्यामि सत्यं वदिष्यामि ॥ तन्मामवतु तद्वक्तारमवत्ववतु मामवतु वक्तारमवतु वक्तारम् ॥ ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+          "translation": "La mia parola sia stabilita nella mente, la mia mente sia stabilita nella parola. O Luce manifesta, manifestati a me! Siate per me entrambi il sostegno della conoscenza dei Veda. Ciò che ho ascoltato non mi abbandoni. Mediante questo studio congiungo i giorni e le notti. Proferirò il giusto, proferirò il vero. Possa Quello proteggere me, possa Quello proteggere colui che insegna; protegga me, protegga il maestro, protegga il maestro! Oṃ, pace, pace, pace!",
+          "source": "Aitareya Upaniṣad, Śāntipāṭha"
+        }
+      ]
+    }
+  ]
+}

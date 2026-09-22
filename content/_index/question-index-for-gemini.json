@@ -1,5 +1,34 @@
 [
   {
+    "id": "q-aitareya-organi-e-se",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che rapporto si trovano gli organi sensoriali e le facoltà cognitive rispetto all'Ātman?",
+    "problem": "L'Aitareya Upaniṣad mostra che le attività percettive e intellettive sono strumenti intermedi che dipendono interamente dalla Coscienza, senza che il Sé possa mai identificarsi con uno di essi.",
+    "introduction": null,
+    "parent_question": "q-chi-sono-veramente",
+    "child_questions": [],
+    "concepts": [
+      "atman",
+      "prajnana"
+    ]
+  },
+  {
+    "id": "q-aitareya-prajnanam-brahma",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico dell'affermazione «Prajñānaṁ Brahma»?",
+    "problem": "L'Upaniṣad ricompone l'intera manifestazione nella pura Coscienza (Prajñāna), proclamando che tale Coscienza non è una funzione psicologica individuale, ma la Realtà assoluta stessa.",
+    "introduction": null,
+    "parent_question": "q-che-cose-brahman",
+    "child_questions": [],
+    "concepts": [
+      "brahman",
+      "prajnana",
+      "mahavakya"
+    ]
+  },
+  {
     "id": "q-azione-rituale-versus-conoscenza",
     "scope": "local",
     "type": "specific",
@@ -85,6 +114,7 @@
     "introduction": "Brahman è il nome che la tradizione dell'Advaita Vedānta dà alla Realtà ultima, al Principio supremo e non-duale che è la sorgente, il sostegno e la sostanza di ogni cosa. Non è un dio nel senso corrente della parola: non è una divinità tra le altre, non è una potenza del cosmo, non è un essere che si trova «da qualche parte». Brahman è ciò senza di cui nulla potrebbe esistere, nulla potrebbe essere conosciuto, nulla potrebbe muoversi o agire. Le Upaniṣad non lo descrivono come un oggetto della conoscenza, ma come il Principio che rende possibile ogni conoscenza. Questa è già la prima difficoltà: Brahman non è qualcosa che possiamo afferrare con il pensiero, perché è il pensiero stesso che Brahman illumina e muove. Le domande che seguono esplorano questo paradosso attraverso i testi della tradizione.",
     "parent_question": null,
     "child_questions": [
+      "q-aitareya-prajnanam-brahma",
       "q-kena-allegoria-yaksha",
       "q-kena-non-oggettivabilita-brahman",
       "q-kena-principio-animatore",
@@ -159,6 +189,17 @@
     ]
   },
   {
+    "id": "q-che-cose-la-liberazione",
+    "scope": "global",
+    "type": "great",
+    "text": "Che cos'e la liberazione?",
+    "problem": "Chiarire in che modo la conoscenza del Se sciolga l'identificazione con il corpo e conduca all'immortalita.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": []
+  },
+  {
     "id": "q-chi-e-il-purusha-delle-sedici-parti",
     "scope": "local",
     "type": "great",
@@ -202,6 +243,19 @@
       "atman",
       "purusha"
     ]
+  },
+  {
+    "id": "q-chi-sono-veramente",
+    "scope": "global",
+    "type": "great",
+    "text": "Chi sono veramente?",
+    "problem": "Indagare la vera identita del soggetto oltre il corpo, le facolta percettive e la mente, riconoscendo il Se come pura Coscienza.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [
+      "q-aitareya-organi-e-se"
+    ],
+    "concepts": []
   },
   {
     "id": "q-come-si-conosce-il-brahman",
@@ -690,6 +744,17 @@
       "purna",
       "atman"
     ]
+  },
+  {
+    "id": "q-perche-appare-la-molteplicita",
+    "scope": "global",
+    "type": "great",
+    "text": "Perche appare la molteplicita?",
+    "problem": "Comprendere come la molteplicita dei mondi, degli organi e delle funzioni emerga senza intaccare l'unita originaria dell'Atman.",
+    "introduction": null,
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": []
   },
   {
     "id": "q-perche-soffriamo",

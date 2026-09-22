@@ -20,8 +20,11 @@
     "dva-suparna",
     "hridaya-guha",
     "jivanmukti",
+    "mahavakya",
+    "prajnana",
     "prana",
     "pranava",
+    "purusa",
     "purusha",
     "satya",
     "svapna-e-susupti",
@@ -50,11 +53,14 @@
     "brahmavid-brahmaiva-bhavati",
     "deva-abhimana",
     "hridaya-granthi",
+    "mahavakya",
     "moksha-amritatva",
     "om-pranava",
     "para-e-apara-vidya",
     "pitriyana-e-devayana",
+    "prajnana",
     "pranava",
+    "purusa",
     "purusha",
     "satyam-eva-jayate",
     "turiya",
@@ -183,6 +189,16 @@
     "aksara",
     "brahman"
   ],
+  "mahavakya": [
+    "brahman",
+    "atman",
+    "prajnana"
+  ],
+  "prajnana": [
+    "mahavakya",
+    "brahman",
+    "atman"
+  ],
   "om-pranava": [
     "brahman"
   ],
@@ -219,6 +235,10 @@
   ],
   "pratistha": [
     "brahma-vidya"
+  ],
+  "purusa": [
+    "atman",
+    "brahman"
   ],
   "sambhuti-asambhuti": [
     "vidya",

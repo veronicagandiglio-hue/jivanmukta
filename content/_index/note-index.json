@@ -21,6 +21,34 @@
     "editorial_status": "established",
     "source_file": "notes/note-adhidaivata-adhyatma.json"
   },
+  "note-aitareya-1-1-2-mondi": {
+    "id": "note-aitareya-1-1-2-mondi",
+    "passage_id": "aitareya-1-1-2",
+    "term": "Ambhas, Marīci, Mara, Āpas",
+    "text": "I quattro mondi indicano i piani gerarchici della cosmologia upaniṣadica: il dominio trascendente sopra i cieli, lo spazio luminoso intermedio, la sfera terrestre soggetta alla morte e il regno delle acque primordiali inferiori.",
+    "source_file": "notes/note-aitareya-1-1-2-mondi.json"
+  },
+  "note-aitareya-1-3-12-vidrti": {
+    "id": "note-aitareya-1-3-12-vidrti",
+    "passage_id": "aitareya-1-3-12",
+    "term": "Vidṛti",
+    "text": "La «fenditura» corrisponde alla sutura sagittale alla sommità del cranio (brahmarandhra), considerata nella fisiologia sottile tradizionale la via attraverso cui il Principio accede al corpo e da cui il liberato ascende oltre la manifestazione condizionata.",
+    "source_file": "notes/note-aitareya-1-3-12-vidrti.json"
+  },
+  "note-aitareya-1-3-14-idandra": {
+    "id": "note-aitareya-1-3-14-idandra",
+    "passage_id": "aitareya-1-3-14",
+    "term": "Idandra",
+    "text": "Nome esoterico formato da «idam» (questo) e dalla radice verbale «dṛś» (vedere): indica Colui che percepisce direttamente e nell'immediatezza la presenza dell'Assoluto in ogni essere.",
+    "source_file": "notes/note-aitareya-1-3-14-idandra.json"
+  },
+  "note-aitareya-3-1-3-prajnanam-brahma": {
+    "id": "note-aitareya-3-1-3-prajnanam-brahma",
+    "passage_id": "aitareya-3-1-3",
+    "term": "Prajñānaṁ Brahma",
+    "text": "Uno dei quattro grandi enunciati (Mahāvākya) del canone vedāntico, appartenente al Ṛgveda. Sancisce che l'essenza della Realtà suprema non condizionata (Brahman) è Coscienza pura e testimonio immutabile di ogni esperienza.",
+    "source_file": "notes/note-aitareya-3-1-3-prajnanam-brahma.json"
+  },
   "note-angusthamatra": {
     "id": "note-angusthamatra",
     "term": "Aṅguṣṭhamātraḥ Puruṣaḥ",
