@@ -1,4 +1,11 @@
 {
+  "bu-4-2-4": [
+    "abhaya",
+    "neti-neti"
+  ],
+  "bu-4-4-25": [
+    "abhaya"
+  ],
   "chandogya-4-4-3": [
     "acarya"
   ],
@@ -29,8 +36,26 @@
     "adhyatma-yoga",
     "vidya-e-avidya"
   ],
+  "bu-3-7-23": [
+    "adrsto-drasta",
+    "antaryamin",
+    "ato-nyad-artam"
+  ],
+  "bu-3-8-11": [
+    "adrsto-drasta"
+  ],
+  "bu-4-3-32": [
+    "advaita-drashta",
+    "parama-ananda"
+  ],
+  "bu-1-4-10": [
+    "aham-brahmasmi"
+  ],
   "chandogya-7-26-2": [
     "ahara-suddhi"
+  ],
+  "bu-4-4-7": [
+    "ahinirlvayani"
   ],
   "chandogya-1-9-1": [
     "akasa"
@@ -58,6 +83,22 @@
     "alpa",
     "bhuman"
   ],
+  "bu-2-4-2": [
+    "amrtatva"
+  ],
+  "bu-2-4-3": [
+    "amrtatva"
+  ],
+  "bu-4-5-3": [
+    "amrtatva"
+  ],
+  "bu-4-5-4": [
+    "amrtatva"
+  ],
+  "bu-4-5-15": [
+    "amrtatva",
+    "neti-neti"
+  ],
   "chandogya-6-8-7": [
     "animan",
     "tat-tvam-asi"
@@ -77,14 +118,57 @@
   "chandogya-6-7-6": [
     "annamaya-manas"
   ],
+  "bu-3-7-1": [
+    "antaryamin",
+    "sutratman"
+  ],
+  "bu-3-7-2": [
+    "antaryamin",
+    "sutratman"
+  ],
+  "bu-3-7-3": [
+    "antaryamin"
+  ],
+  "bu-3-7-14": [
+    "antaryamin"
+  ],
+  "bu-3-7-15": [
+    "antaryamin"
+  ],
+  "bu-3-7-22": [
+    "antaryamin"
+  ],
   "chandogya-1-10-3": [
     "apaddharma"
   ],
   "chandogya-1-10-4": [
     "apaddharma"
   ],
+  "bu-4-3-14": [
+    "asanga-purusa"
+  ],
+  "bu-4-3-15": [
+    "asanga-purusa"
+  ],
+  "bu-4-3-17": [
+    "asanga-purusa"
+  ],
+  "bu-4-3-18": [
+    "asanga-purusa"
+  ],
   "chandogya-8-12-1": [
     "asariira"
+  ],
+  "bu-1-1-1": [
+    "ashvamedha"
+  ],
+  "bu-1-1-2": [
+    "ashvamedha"
+  ],
+  "bu-1-2-7": [
+    "ashvamedha",
+    "kama",
+    "mrtyu"
   ],
   "chandogya-8-8-4": [
     "asura-vidya"
@@ -106,6 +190,19 @@
   ],
   "chandogya-7-15-4": [
     "ativadin"
+  ],
+  "bu-3-1-3": [
+    "ativimukti",
+    "mrtyu"
+  ],
+  "bu-3-1-4": [
+    "ativimukti"
+  ],
+  "bu-3-1-5": [
+    "ativimukti"
+  ],
+  "bu-3-1-6": [
+    "ativimukti"
   ],
   "isha-1-3": [
     "atma-han"
@@ -131,6 +228,24 @@
   "isha-1-16": [
     "atman",
     "soham"
+  ],
+  "bu-3-4-2": [
+    "ato-nyad-artam",
+    "dristeh-drasta",
+    "sakshad-aparokshat",
+    "sarvantara"
+  ],
+  "bu-3-5-1": [
+    "ato-nyad-artam",
+    "balya-panditya-mauna",
+    "esana-traya",
+    "mrtyu",
+    "sakshad-aparokshat",
+    "sarvantara"
+  ],
+  "bu-3-9-26": [
+    "aupanisada-purusa",
+    "neti-neti"
   ],
   "chandogya-8-8-1": [
     "avasthatraya"
@@ -161,6 +276,15 @@
     "karman",
     "vidya"
   ],
+  "bu-4-5-14": [
+    "avinashi-anucchitti"
+  ],
+  "bu-2-5-19": [
+    "ayam-atma-brahma"
+  ],
+  "bu-1-4-2": [
+    "bhaya"
+  ],
   "chandogya-7-24-2": [
     "bhuman"
   ],
@@ -189,6 +313,10 @@
   ],
   "kena-4-7": [
     "brahma-vidya"
+  ],
+  "bu-4-4-6": [
+    "brahmaiva-san-brahmapyeti",
+    "karma-legge"
   ],
   "kena-1-2": [
     "brahman",
@@ -271,6 +399,15 @@
     "dahara-vidya",
     "satyasankalpa"
   ],
+  "bu-5-2-1": [
+    "dama-dana-daya"
+  ],
+  "bu-5-2-2": [
+    "dama-dana-daya"
+  ],
+  "bu-5-2-3": [
+    "dama-dana-daya"
+  ],
   "kena-3-2": [
     "deva-abhimana"
   ],
@@ -286,8 +423,24 @@
   "chandogya-4-15-6": [
     "devayana"
   ],
+  "bu-1-4-14": [
+    "dharma",
+    "sat-asat"
+  ],
+  "bu-2-5-11": [
+    "dharma"
+  ],
   "chandogya-7-6-1": [
     "dhyana"
+  ],
+  "bu-4-3-23": [
+    "dristir-avinashini"
+  ],
+  "bu-4-3-30": [
+    "dristir-avinashini"
+  ],
+  "bu-4-3-31": [
+    "dristir-avinashini"
   ],
   "mundaka-3-1-1": [
     "dva-suparna"
@@ -305,6 +458,86 @@
   "chandogya-6-2-2": [
     "ekamevadvitiyam",
     "sat"
+  ],
+  "bu-4-1-2": [
+    "ekapad-brahma"
+  ],
+  "bu-4-1-3": [
+    "ekapad-brahma"
+  ],
+  "bu-4-1-4": [
+    "ekapad-brahma"
+  ],
+  "bu-4-1-5": [
+    "ekapad-brahma"
+  ],
+  "bu-4-1-6": [
+    "ekapad-brahma"
+  ],
+  "bu-4-1-7": [
+    "ekapad-brahma",
+    "hrdaya-centro"
+  ],
+  "bu-3-2-1": [
+    "graha-atigraha"
+  ],
+  "bu-3-2-2": [
+    "graha-atigraha"
+  ],
+  "bu-3-2-3": [
+    "graha-atigraha"
+  ],
+  "bu-3-2-4": [
+    "graha-atigraha"
+  ],
+  "bu-3-2-5": [
+    "graha-atigraha"
+  ],
+  "bu-3-2-6": [
+    "graha-atigraha"
+  ],
+  "bu-3-2-7": [
+    "graha-atigraha"
+  ],
+  "bu-3-2-8": [
+    "graha-atigraha"
+  ],
+  "bu-3-2-9": [
+    "graha-atigraha"
+  ],
+  "bu-5-15-1": [
+    "hiranmaya-patra"
+  ],
+  "bu-2-1-19": [
+    "hita-nadis"
+  ],
+  "bu-3-9-19": [
+    "hrdaya-centro"
+  ],
+  "bu-3-9-20": [
+    "hrdaya-centro"
+  ],
+  "bu-3-9-21": [
+    "hrdaya-centro"
+  ],
+  "bu-3-9-22": [
+    "hrdaya-centro"
+  ],
+  "bu-3-9-23": [
+    "hrdaya-centro"
+  ],
+  "bu-3-9-24": [
+    "hrdaya-centro"
+  ],
+  "bu-4-2-3": [
+    "hrdaya-centro",
+    "indha-viraj"
+  ],
+  "bu-5-3-1": [
+    "hrdaya-centro"
+  ],
+  "bu-5-6-1": [
+    "hrdaya-centro"
   ],
   "mundaka-2-1-10": [
     "hridaya-granthi"
@@ -332,9 +565,21 @@
     "hridaya-guha",
     "purusha"
   ],
+  "bu-4-2-2": [
+    "indha-viraj"
+  ],
   "isha-1-1": [
     "isha",
     "tyaga"
+  ],
+  "bu-6-4-24": [
+    "jatakarma"
+  ],
+  "bu-6-4-25": [
+    "jatakarma"
+  ],
+  "bu-6-4-26": [
+    "jatakarma"
   ],
   "katha-2-2-1": [
     "jivanmukti",
@@ -354,6 +599,11 @@
   "chandogya-3-13-8": [
     "jyotis-interiore"
   ],
+  "bu-1-3-28": [
+    "jyotis-tamas",
+    "mrtyu",
+    "sat-asat"
+  ],
   "chandogya-3-17-7": [
     "jyotis-uttama"
   ],
@@ -362,6 +612,26 @@
   ],
   "chandogya-4-10-5": [
     "ka-kham"
+  ],
+  "bu-1-2-1": [
+    "kama",
+    "mrtyu"
+  ],
+  "bu-1-2-4": [
+    "kama",
+    "mrtyu"
+  ],
+  "bu-1-2-6": [
+    "kama"
+  ],
+  "bu-1-4-3": [
+    "kama"
+  ],
+  "bu-1-4-15": [
+    "kama"
+  ],
+  "bu-1-4-17": [
+    "kama"
   ],
   "mundaka-1-2-1": [
     "karma-e-sacrificio"
@@ -376,12 +646,24 @@
     "karma-e-sacrificio",
     "para-e-apara-vidya"
   ],
+  "bu-3-2-13": [
+    "karma-legge"
+  ],
+  "bu-4-4-2": [
+    "karma-legge"
+  ],
+  "bu-4-4-5": [
+    "karma-legge"
+  ],
   "isha-1-2": [
     "karman"
   ],
   "isha-1-18": [
     "karman",
     "purna"
+  ],
+  "bu-3-8-10": [
+    "kripana"
   ],
   "aitareya-2-1-5": [
     "liberazione"
@@ -391,6 +673,21 @@
   ],
   "aitareya-3-1-4": [
     "liberazione"
+  ],
+  "bu-2-5-1": [
+    "madhu-vidya"
+  ],
+  "bu-2-5-14": [
+    "madhu-vidya"
+  ],
+  "bu-2-5-15": [
+    "madhu-vidya"
+  ],
+  "bu-2-5-16": [
+    "madhu-vidya"
+  ],
+  "bu-2-5-17": [
+    "madhu-vidya"
   ],
   "chandogya-3-1-1": [
     "madhuvidya"
@@ -415,6 +712,9 @@
   "chandogya-7-1-3": [
     "mantravid-vs-atmavid"
   ],
+  "bu-2-5-18": [
+    "maya"
+  ],
   "katha-1-2-8": [
     "moksha-amritatva"
   ],
@@ -423,6 +723,100 @@
   ],
   "katha-2-1-1": [
     "moksha-amritatva"
+  ],
+  "bu-1-2-5": [
+    "mrtyu"
+  ],
+  "bu-1-3-7": [
+    "mrtyu",
+    "papman"
+  ],
+  "bu-1-3-9": [
+    "mrtyu"
+  ],
+  "bu-1-3-10": [
+    "mrtyu",
+    "papman"
+  ],
+  "bu-1-3-11": [
+    "mrtyu"
+  ],
+  "bu-1-3-12": [
+    "mrtyu"
+  ],
+  "bu-1-3-13": [
+    "mrtyu"
+  ],
+  "bu-1-3-14": [
+    "mrtyu"
+  ],
+  "bu-1-3-15": [
+    "mrtyu"
+  ],
+  "bu-1-3-16": [
+    "mrtyu"
+  ],
+  "bu-1-5-2": [
+    "mrtyu",
+    "saptanna"
+  ],
+  "bu-1-5-21": [
+    "mrtyu"
+  ],
+  "bu-1-5-23": [
+    "mrtyu"
+  ],
+  "bu-2-3-1": [
+    "mrtyu",
+    "murta-amurta",
+    "sat-asat"
+  ],
+  "bu-2-3-2": [
+    "mrtyu",
+    "murta-amurta",
+    "sat-asat"
+  ],
+  "bu-2-3-4": [
+    "mrtyu",
+    "murta-amurta",
+    "sat-asat"
+  ],
+  "bu-3-2-10": [
+    "mrtyu",
+    "punar-mrtyu"
+  ],
+  "bu-3-3-2": [
+    "mrtyu"
+  ],
+  "bu-3-9-14": [
+    "mrtyu"
+  ],
+  "bu-3-9-28": [
+    "mrtyu",
+    "vijnanam-anandam-brahma"
+  ],
+  "bu-5-5-2": [
+    "mrtyu",
+    "satya-brahman"
+  ],
+  "bu-5-9-1": [
+    "mrtyu"
+  ],
+  "bu-5-10-1": [
+    "mrtyu"
+  ],
+  "bu-5-11-1": [
+    "mrtyu",
+    "parama-tapas"
+  ],
+  "bu-5-15-3": [
+    "mrtyu"
+  ],
+  "bu-2-3-3": [
+    "murta-amurta"
+  ],
+  "bu-2-3-5": [
+    "murta-amurta"
   ],
   "chandogya-8-6-1": [
     "nadi"
@@ -435,6 +829,33 @@
   ],
   "chandogya-8-14-1": [
     "namarupa-nirvahita"
+  ],
+  "bu-1-4-7": [
+    "namarupa"
+  ],
+  "bu-1-6-1": [
+    "namarupa",
+    "traya-rupa"
+  ],
+  "bu-1-6-2": [
+    "namarupa",
+    "traya-rupa"
+  ],
+  "bu-1-6-3": [
+    "namarupa",
+    "sat-asat",
+    "traya-rupa"
+  ],
+  "bu-4-4-19": [
+    "neha-nanasti-kimcana"
+  ],
+  "bu-2-3-6": [
+    "neti-neti",
+    "sat-asat",
+    "satyasya-satyam"
+  ],
+  "bu-4-4-22": [
+    "neti-neti"
   ],
   "katha-1-2-15": [
     "om-pranava"
@@ -468,11 +889,59 @@
   "chandogya-5-10-10": [
     "pancagni-vidya"
   ],
+  "bu-1-3-2": [
+    "papman"
+  ],
+  "bu-1-3-3": [
+    "papman"
+  ],
+  "bu-1-3-4": [
+    "papman"
+  ],
+  "bu-1-3-5": [
+    "papman"
+  ],
+  "bu-1-3-6": [
+    "papman"
+  ],
   "mundaka-1-1-4": [
     "para-e-apara-vidya"
   ],
   "mundaka-1-1-5": [
     "para-e-apara-vidya"
+  ],
+  "bu-4-3-33": [
+    "parama-ananda"
+  ],
+  "bu-2-6-1": [
+    "parampara"
+  ],
+  "bu-2-6-2": [
+    "parampara"
+  ],
+  "bu-2-6-3": [
+    "parampara"
+  ],
+  "bu-4-6-1": [
+    "parampara"
+  ],
+  "bu-4-6-2": [
+    "parampara"
+  ],
+  "bu-4-6-3": [
+    "parampara"
+  ],
+  "bu-6-5-1": [
+    "parampara"
+  ],
+  "bu-6-5-2": [
+    "parampara"
+  ],
+  "bu-6-5-3": [
+    "parampara"
+  ],
+  "bu-6-5-4": [
+    "parampara"
   ],
   "prashna-1-9": [
     "pitriyana-e-devayana",
@@ -481,6 +950,12 @@
   ],
   "prashna-1-10": [
     "pitriyana-e-devayana"
+  ],
+  "bu-6-2-2": [
+    "pitriyana"
+  ],
+  "bu-6-2-16": [
+    "pitriyana"
   ],
   "chandogya-5-3-2": [
     "pitryana"
@@ -522,6 +997,15 @@
   "chandogya-5-1-15": [
     "prana-samvada"
   ],
+  "bu-6-3-4": [
+    "prana-vidya"
+  ],
+  "bu-6-3-7": [
+    "prana-vidya"
+  ],
+  "bu-6-3-12": [
+    "prana-vidya"
+  ],
   "prashna-1-5": [
     "prana",
     "rayi"
@@ -561,6 +1045,9 @@
   "mundaka-2-2-6": [
     "pranava"
   ],
+  "bu-3-8-9": [
+    "prasasana"
+  ],
   "kena-4-8": [
     "pratistha"
   ],
@@ -569,6 +1056,9 @@
   ],
   "isha-1-shanti": [
     "purna"
+  ],
+  "bu-5-1-1": [
+    "purnam"
   ],
   "chandogya-3-16-1": [
     "purusa-yajna"
@@ -603,14 +1093,41 @@
   "katha-2-3-8": [
     "purusha"
   ],
+  "bu-6-4-1": [
+    "putramantha"
+  ],
+  "bu-6-4-2": [
+    "putramantha",
+    "stri-yajna"
+  ],
+  "bu-6-4-3": [
+    "putramantha",
+    "stri-yajna"
+  ],
+  "bu-6-4-14": [
+    "putramantha"
+  ],
+  "bu-6-4-17": [
+    "putramantha"
+  ],
+  "bu-6-4-18": [
+    "putramantha"
+  ],
   "prashna-2-5": [
     "rayi"
+  ],
+  "bu-4-4-23": [
+    "sadhana-catushtaya"
   ],
   "chandogya-3-11-1": [
     "sakrd-diva"
   ],
   "chandogya-3-11-2": [
     "sakrd-diva"
+  ],
+  "bu-3-4-1": [
+    "sakshad-aparokshat",
+    "sarvantara"
   ],
   "chandogya-2-1-1": [
     "saman"
@@ -642,6 +1159,9 @@
   "mundaka-3-2-6": [
     "samnyasa-yoga"
   ],
+  "bu-1-5-17": [
+    "sampratti"
+  ],
   "chandogya-4-3-1": [
     "samvarga"
   ],
@@ -653,6 +1173,13 @@
   ],
   "chandogya-4-3-4": [
     "samvarga"
+  ],
+  "bu-4-3-8": [
+    "sandhya-sthana",
+    "svayam-jyotis"
+  ],
+  "bu-4-3-9": [
+    "sandhya-sthana"
   ],
   "chandogya-3-14-1": [
     "sandilya-vidya",
@@ -667,12 +1194,40 @@
   "chandogya-3-14-4": [
     "sandilya-vidya"
   ],
+  "bu-2-2-3": [
+    "sapta-rsayah"
+  ],
+  "bu-2-2-4": [
+    "sapta-rsayah"
+  ],
+  "bu-1-5-1": [
+    "saptanna"
+  ],
+  "bu-1-5-3": [
+    "saptanna"
+  ],
   "chandogya-2-21-2": [
     "sarvatmabhava"
   ],
   "chandogya-2-21-4": [
     "sarvatmabhava",
     "vrata"
+  ],
+  "bu-2-1-20": [
+    "sat-asat",
+    "satyasya-satyam"
+  ],
+  "bu-2-5-12": [
+    "sat-asat"
+  ],
+  "bu-3-8-8": [
+    "sat-asat"
+  ],
+  "bu-5-4-1": [
+    "satya-brahman"
+  ],
+  "bu-5-5-1": [
+    "satya-brahman"
   ],
   "isha-1-15": [
     "satya"
@@ -704,6 +1259,15 @@
   "chandogya-8-4-2": [
     "setu"
   ],
+  "bu-2-2-1": [
+    "shishu-prana"
+  ],
+  "bu-2-4-5": [
+    "shravana-manana-nididhyasana"
+  ],
+  "bu-4-5-6": [
+    "shravana-manana-nididhyasana"
+  ],
   "prashna-6-1": [
     "sodasa-kala"
   ],
@@ -715,6 +1279,12 @@
   ],
   "prashna-6-6": [
     "sodasa-kala"
+  ],
+  "bu-4-3-21": [
+    "sokantara"
+  ],
+  "bu-4-3-22": [
+    "sokantara"
   ],
   "katha-1-2-1": [
     "sreyas-e-preyas"
@@ -756,8 +1326,20 @@
   "prashna-4-6": [
     "svapna-e-susupti"
   ],
+  "bu-2-1-18": [
+    "svapna"
+  ],
   "chandogya-7-25-2": [
     "svarajya"
+  ],
+  "bu-4-3-5": [
+    "svayam-jyotis"
+  ],
+  "bu-4-3-6": [
+    "svayam-jyotis"
+  ],
+  "bu-4-3-13": [
+    "svayam-jyotis"
   ],
   "kena-4-6": [
     "tadvana"
@@ -796,6 +1378,15 @@
     "trivrtkarana",
     "vacarambhana"
   ],
+  "bu-5-14-4": [
+    "turiya-pada-gayatri"
+  ],
+  "bu-5-14-7": [
+    "turiya-pada-gayatri"
+  ],
+  "bu-5-14-8": [
+    "turiya-pada-gayatri"
+  ],
   "mandukya-1-7": [
     "turiya"
   ],
@@ -822,6 +1413,15 @@
   "chandogya-1-2-14": [
     "upasana"
   ],
+  "bu-4-3-35": [
+    "utkranti"
+  ],
+  "bu-4-3-36": [
+    "utkranti"
+  ],
+  "bu-4-3-38": [
+    "utkranti"
+  ],
   "chandogya-6-1-5": [
     "vacarambhana"
   ],
@@ -842,6 +1442,18 @@
   ],
   "katha-1-2-5": [
     "vidya-e-avidya"
+  ],
+  "bu-2-4-12": [
+    "vijnanaghana"
+  ],
+  "bu-2-1-16": [
+    "vijnanamaya-purusa"
+  ],
+  "bu-2-1-17": [
+    "vijnanamaya-purusa"
+  ],
+  "bu-2-4-14": [
+    "vijnatar"
   ],
   "chandogya-2-11-2": [
     "vrata"

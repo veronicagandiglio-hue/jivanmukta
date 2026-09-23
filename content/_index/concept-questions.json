@@ -1,6 +1,37 @@
 {
   "atman": [
     "q-aitareya-organi-e-se",
+    "q-bu-amore-del-se-atmanastu-kamaya",
+    "q-bu-amrta-satyena-channam",
+    "q-bu-animale-degli-dei",
+    "q-bu-antaryamin-governo-interiore",
+    "q-bu-atman-caro-preyah",
+    "q-bu-ayam-atma-brahma-significato",
+    "q-bu-dinamica-trapasso-frutto",
+    "q-bu-disciplina-interiore-shanto-dantah",
+    "q-bu-estinzione-desideri-brahma-apyeiti",
+    "q-bu-hrdaya-radice-direzioni",
+    "q-bu-inconoscibilita-del-conoscitore",
+    "q-bu-incontaminabilita-asanga",
+    "q-bu-invisibile-veggente-solitudine",
+    "q-bu-madhu-vidya-interdipendenza",
+    "q-bu-maitreyi-seconda-versione-differenza",
+    "q-bu-morte-del-liberato-prana",
+    "q-bu-namarupa-avyakrita",
+    "q-bu-natura-luce-autonoma",
+    "q-bu-neti-neti-apofasi",
+    "q-bu-origine-paura-dualita",
+    "q-bu-permanenza-visione-senza-oggetti",
+    "q-bu-prova-uomo-addormentato",
+    "q-bu-radice-metafisica-abhaya",
+    "q-bu-sakshad-aparokshad-brahma",
+    "q-bu-satyasya-satyam-ragno-scintille",
+    "q-bu-stato-sonno-profondo-susupti",
+    "q-bu-superamento-sei-onde-esana",
+    "q-bu-trascendenza-sonno-profondo-sokantara",
+    "q-bu-trayam-nama-rupa-karma",
+    "q-bu-veggente-della-vista",
+    "q-bu-velo-aureo-verita-soham",
     "q-chandogya-asariratva-piacere-dolore",
     "q-chandogya-dahara-akasa",
     "q-chandogya-dialettica-prajapati",
@@ -43,6 +74,27 @@
   ],
   "brahman": [
     "q-aitareya-prajnanam-brahma",
+    "q-bu-aksara-apofasi-negazioni",
+    "q-bu-albero-radice-rinascita",
+    "q-bu-animale-degli-dei",
+    "q-bu-aupanisada-purusa-definizione",
+    "q-bu-ayam-atma-brahma-significato",
+    "q-bu-critica-ekapad-brahma",
+    "q-bu-due-forme-brahman-murta-amurta",
+    "q-bu-estinzione-desideri-brahma-apyeiti",
+    "q-bu-gerarchia-ananda-goccia",
+    "q-bu-limite-indagine-gargi",
+    "q-bu-madhu-vidya-interdipendenza",
+    "q-bu-morte-del-liberato-prana",
+    "q-bu-neti-neti-apofasi",
+    "q-bu-perche-oggetti-non-sono-brahman",
+    "q-bu-purnam-invarianza-assoluto",
+    "q-bu-quarto-piede-gayatri-parorajas",
+    "q-bu-riduzione-dei-molteplici-all-uno",
+    "q-bu-ruolo-maya-molteplicita",
+    "q-bu-satya-anrta-inclusione",
+    "q-bu-satyasya-satyam-ragno-scintille",
+    "q-bu-vamsa-materno-significato",
     "q-chandogya-akasa-brahman",
     "q-chandogya-bhuman-definizione",
     "q-chandogya-brahmasamstha-amrtatva",
@@ -117,6 +169,286 @@
     "q-e-possibile-la-liberta",
     "q-lazione-vincola"
   ],
+  "aksara": [
+    "q-bu-aksara-apofasi-negazioni",
+    "q-bu-kripana-brahmana-distinzione",
+    "q-bu-prasasana-ordine-cosmico",
+    "q-come-si-conosce-il-tutto",
+    "q-dissoluzione-delle-parti-nell-oceano-del-se",
+    "q-qual-e-la-differenza-tra-para-e-apara-vidya",
+    "q-quali-sono-gli-stati-di-coscienza"
+  ],
+  "sat-asat": [
+    "q-bu-aksara-apofasi-negazioni",
+    "q-bu-amrta-satyena-channam",
+    "q-bu-asato-ma-sadgamaya",
+    "q-bu-due-forme-brahman-murta-amurta",
+    "q-bu-satyasya-satyam-ragno-scintille"
+  ],
+  "vijnanam-anandam-brahma": [
+    "q-bu-albero-radice-rinascita"
+  ],
+  "mrtyu": [
+    "q-bu-albero-radice-rinascita",
+    "q-bu-asato-ma-sadgamaya",
+    "q-bu-graha-atigraha-legame",
+    "q-bu-illusione-molteplicita-morte",
+    "q-bu-malattia-morte-ascesi",
+    "q-bu-mrtyu-origine-manifestazione",
+    "q-bu-prana-asura-vittoria",
+    "q-bu-vrata-prana"
+  ],
+  "prana": [
+    "q-bu-amrta-satyena-channam",
+    "q-bu-dinamica-trapasso-frutto",
+    "q-bu-mantha-significato-metafisico",
+    "q-bu-morte-del-liberato-prana",
+    "q-bu-prana-asura-vittoria",
+    "q-bu-primato-prana-disputa",
+    "q-bu-prova-uomo-addormentato",
+    "q-bu-riduzione-dei-molteplici-all-uno",
+    "q-bu-saptanna-significato",
+    "q-bu-shishu-camasa-simbolismo",
+    "q-bu-sutratman-filo-cosmico",
+    "q-bu-vrata-prana",
+    "q-chandogya-rito-senza-conoscenza",
+    "q-chandogya-samvarga-vidya",
+    "q-chandogya-scala-sanatkumara",
+    "q-chandogya-supremazia-prana",
+    "q-che-cose-il-prana",
+    "q-da-dove-ha-origine-il-cosmo",
+    "q-polarita-primordiale-prana-rayi"
+  ],
+  "aham-brahmasmi": [
+    "q-bu-animale-degli-dei"
+  ],
+  "antaryamin": [
+    "q-bu-antaryamin-governo-interiore",
+    "q-bu-invisibile-veggente-solitudine"
+  ],
+  "jyotis-tamas": [
+    "q-bu-asato-ma-sadgamaya"
+  ],
+  "upasana": [
+    "q-bu-atman-caro-preyah",
+    "q-bu-natura-sacrificio-cosmico",
+    "q-bu-perche-oggetti-non-sono-brahman",
+    "q-chandogya-fruizione-contemplativa-deva",
+    "q-chandogya-funzione-upasana",
+    "q-chandogya-purusa-yajna",
+    "q-chandogya-saman-rettitudine-armonia",
+    "q-chandogya-sarvam-asmi",
+    "q-chandogya-scala-sanatkumara",
+    "q-chandogya-vrata-non-disprezzo"
+  ],
+  "aupanisada-purusa": [
+    "q-bu-aupanisada-purusa-definizione"
+  ],
+  "neti-neti": [
+    "q-bu-aupanisada-purusa-definizione",
+    "q-bu-inconoscibilita-del-conoscitore",
+    "q-bu-maitreyi-seconda-versione-differenza",
+    "q-bu-neti-neti-apofasi",
+    "q-bu-radice-metafisica-abhaya"
+  ],
+  "ayam-atma-brahma": [
+    "q-bu-ayam-atma-brahma-significato"
+  ],
+  "ekapad-brahma": [
+    "q-bu-critica-ekapad-brahma"
+  ],
+  "devayana": [
+    "q-bu-devayana-pitriyana-differenza",
+    "q-chandogya-due-vie-post-mortem"
+  ],
+  "pitriyana": [
+    "q-bu-devayana-pitriyana-differenza"
+  ],
+  "karma-legge": [
+    "q-bu-devayana-pitriyana-differenza",
+    "q-bu-pancagni-cinque-fuochi",
+    "q-bu-segreto-del-karma"
+  ],
+  "utkranti": [
+    "q-bu-dinamica-trapasso-frutto"
+  ],
+  "sadhana-catushtaya": [
+    "q-bu-disciplina-interiore-shanto-dantah"
+  ],
+  "murta-amurta": [
+    "q-bu-due-forme-brahman-murta-amurta"
+  ],
+  "brahmaiva-san-brahmapyeti": [
+    "q-bu-estinzione-desideri-brahma-apyeiti"
+  ],
+  "putramantha": [
+    "q-bu-figlia-sapiente-rito",
+    "q-bu-sacralizzazione-generazione"
+  ],
+  "parama-ananda": [
+    "q-bu-gerarchia-ananda-goccia"
+  ],
+  "graha-atigraha": [
+    "q-bu-graha-atigraha-legame"
+  ],
+  "hrdaya-centro": [
+    "q-bu-hrdaya-radice-direzioni"
+  ],
+  "neha-nanasti-kimcana": [
+    "q-bu-illusione-molteplicita-morte"
+  ],
+  "vijnatar": [
+    "q-bu-inconoscibilita-del-conoscitore"
+  ],
+  "asanga-purusa": [
+    "q-bu-incontaminabilita-asanga"
+  ],
+  "adrsto-drasta": [
+    "q-bu-invisibile-veggente-solitudine"
+  ],
+  "kripana": [
+    "q-bu-kripana-brahmana-distinzione"
+  ],
+  "madhu-vidya": [
+    "q-bu-madhu-vidya-interdipendenza"
+  ],
+  "avinashi-anucchitti": [
+    "q-bu-maitreyi-seconda-versione-differenza"
+  ],
+  "parama-tapas": [
+    "q-bu-malattia-morte-ascesi"
+  ],
+  "prana-vidya": [
+    "q-bu-mantha-significato-metafisico"
+  ],
+  "mantha": [
+    "q-bu-mantha-significato-metafisico"
+  ],
+  "kama": [
+    "q-bu-mrtyu-origine-manifestazione"
+  ],
+  "prajapati": [
+    "q-bu-mrtyu-origine-manifestazione",
+    "q-bu-natura-sacrificio-cosmico",
+    "q-da-dove-ha-origine-il-cosmo",
+    "q-polarita-primordiale-prana-rayi"
+  ],
+  "namarupa": [
+    "q-bu-namarupa-avyakrita",
+    "q-bu-trayam-nama-rupa-karma"
+  ],
+  "svayam-jyotis": [
+    "q-bu-natura-luce-autonoma"
+  ],
+  "ashvamedha": [
+    "q-bu-natura-sacrificio-cosmico"
+  ],
+  "satyasya-satyam": [
+    "q-bu-neti-neti-apofasi",
+    "q-bu-satyasya-satyam-ragno-scintille"
+  ],
+  "bhaya": [
+    "q-bu-origine-paura-dualita"
+  ],
+  "pancagni-vidya": [
+    "q-bu-pancagni-cinque-fuochi",
+    "q-chandogya-pancagni-vairagya"
+  ],
+  "dristir-avinashini": [
+    "q-bu-permanenza-visione-senza-oggetti"
+  ],
+  "papman": [
+    "q-bu-prana-asura-vittoria"
+  ],
+  "prasasana": [
+    "q-bu-prasasana-ordine-cosmico"
+  ],
+  "vijnanamaya-purusa": [
+    "q-bu-prova-uomo-addormentato"
+  ],
+  "purnam": [
+    "q-bu-purnam-invarianza-assoluto"
+  ],
+  "turiya-pada-gayatri": [
+    "q-bu-quarto-piede-gayatri-parorajas"
+  ],
+  "abhaya": [
+    "q-bu-radice-metafisica-abhaya"
+  ],
+  "maya": [
+    "q-bu-ruolo-maya-molteplicita"
+  ],
+  "stri-yajna": [
+    "q-bu-sacralizzazione-generazione"
+  ],
+  "sakshad-aparokshat": [
+    "q-bu-sakshad-aparokshad-brahma"
+  ],
+  "sarvantara": [
+    "q-bu-sakshad-aparokshad-brahma"
+  ],
+  "saptanna": [
+    "q-bu-saptanna-significato"
+  ],
+  "satya-brahman": [
+    "q-bu-satya-anrta-inclusione"
+  ],
+  "punar-mrtyu": [
+    "q-bu-segreto-del-karma"
+  ],
+  "sapta-rsayah": [
+    "q-bu-shishu-camasa-simbolismo"
+  ],
+  "shishu-prana": [
+    "q-bu-shishu-camasa-simbolismo"
+  ],
+  "susupti": [
+    "q-bu-stato-sonno-profondo-susupti",
+    "q-bu-trascendenza-sonno-profondo-sokantara",
+    "q-chandogya-hiran-yanidhi",
+    "q-chandogya-susupti-sat"
+  ],
+  "hita-nadis": [
+    "q-bu-stato-sonno-profondo-susupti"
+  ],
+  "esana-traya": [
+    "q-bu-superamento-sei-onde-esana"
+  ],
+  "balya-panditya-mauna": [
+    "q-bu-superamento-sei-onde-esana"
+  ],
+  "sutratman": [
+    "q-bu-sutratman-filo-cosmico"
+  ],
+  "sokantara": [
+    "q-bu-trascendenza-sonno-profondo-sokantara"
+  ],
+  "traya-rupa": [
+    "q-bu-trayam-nama-rupa-karma"
+  ],
+  "dama-dana-daya": [
+    "q-bu-triplice-da-etica-metafisica"
+  ],
+  "parampara": [
+    "q-bu-vamsa-materno-significato"
+  ],
+  "dristeh-drasta": [
+    "q-bu-veggente-della-vista"
+  ],
+  "ato-nyad-artam": [
+    "q-bu-veggente-della-vista"
+  ],
+  "hiranmaya-patra": [
+    "q-bu-velo-aureo-verita-soham"
+  ],
+  "soham": [
+    "q-bu-velo-aureo-verita-soham",
+    "q-identita-soham"
+  ],
+  "vrata": [
+    "q-bu-vrata-prana",
+    "q-chandogya-vrata-non-disprezzo"
+  ],
   "ahara-suddhi": [
     "q-chandogya-ahara-suddhi-granthi"
   ],
@@ -189,9 +521,6 @@
   "asura-vidya": [
     "q-chandogya-dialettica-prajapati"
   ],
-  "devayana": [
-    "q-chandogya-due-vie-post-mortem"
-  ],
   "pitryana": [
     "q-chandogya-due-vie-post-mortem"
   ],
@@ -202,15 +531,6 @@
   "madhuvidya": [
     "q-chandogya-fruizione-contemplativa-deva",
     "q-chandogya-madhuvidya-sole-eterno"
-  ],
-  "upasana": [
-    "q-chandogya-fruizione-contemplativa-deva",
-    "q-chandogya-funzione-upasana",
-    "q-chandogya-purusa-yajna",
-    "q-chandogya-saman-rettitudine-armonia",
-    "q-chandogya-sarvam-asmi",
-    "q-chandogya-scala-sanatkumara",
-    "q-chandogya-vrata-non-disprezzo"
   ],
   "om": [
     "q-chandogya-funzione-upasana",
@@ -224,10 +544,6 @@
   "acaryavan-puruso-veda": [
     "q-chandogya-gandhara-acarya"
   ],
-  "susupti": [
-    "q-chandogya-hiran-yanidhi",
-    "q-chandogya-susupti-sat"
-  ],
   "jyotis-uttama": [
     "q-chandogya-jyotis-uttama"
   ],
@@ -240,9 +556,6 @@
   "sakrd-diva": [
     "q-chandogya-madhuvidya-sole-eterno"
   ],
-  "pancagni-vidya": [
-    "q-chandogya-pancagni-vairagya"
-  ],
   "vairagya": [
     "q-chandogya-pancagni-vairagya"
   ],
@@ -251,15 +564,6 @@
   ],
   "purusa-yajna": [
     "q-chandogya-purusa-yajna"
-  ],
-  "prana": [
-    "q-chandogya-rito-senza-conoscenza",
-    "q-chandogya-samvarga-vidya",
-    "q-chandogya-scala-sanatkumara",
-    "q-chandogya-supremazia-prana",
-    "q-che-cose-il-prana",
-    "q-da-dove-ha-origine-il-cosmo",
-    "q-polarita-primordiale-prana-rayi"
   ],
   "samvarga": [
     "q-chandogya-samvarga-vidya"
@@ -300,9 +604,6 @@
   ],
   "acarya": [
     "q-chandogya-verita-satyakama"
-  ],
-  "vrata": [
-    "q-chandogya-vrata-non-disprezzo"
   ],
   "vidita-avidita": [
     "q-che-cosa-significa-conoscere",
@@ -365,19 +666,9 @@
     "q-come-si-conosce-il-brahman",
     "q-metodo-dello-yoga-metafisico-nel-vedanta"
   ],
-  "aksara": [
-    "q-come-si-conosce-il-tutto",
-    "q-dissoluzione-delle-parti-nell-oceano-del-se",
-    "q-qual-e-la-differenza-tra-para-e-apara-vidya",
-    "q-quali-sono-gli-stati-di-coscienza"
-  ],
   "para-e-apara-vidya": [
     "q-come-si-conosce-il-tutto",
     "q-qual-e-la-differenza-tra-para-e-apara-vidya"
-  ],
-  "prajapati": [
-    "q-da-dove-ha-origine-il-cosmo",
-    "q-polarita-primordiale-prana-rayi"
   ],
   "rayi": [
     "q-da-dove-ha-origine-il-cosmo",
@@ -403,9 +694,6 @@
   "jivanmukti": [
     "q-esperienza-ritorno-persona",
     "q-qual-e-la-natura-della-liberazione"
-  ],
-  "soham": [
-    "q-identita-soham"
   ],
   "brahmavid-brahmaiva-bhavati": [
     "q-in-che-senso-il-conoscitore-diviene-brahman"

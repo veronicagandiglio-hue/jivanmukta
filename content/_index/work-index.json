@@ -12,6 +12,27 @@
     ],
     "source_file": "works/aitareya-upanisad.json"
   },
+  "brihadaranyaka-upanishad": {
+    "id": "brihadaranyaka-upanishad",
+    "title": "Bṛhadāraṇyaka Upaniṣad",
+    "short_title": "Bṛhadāraṇyaka",
+    "language": "sa",
+    "attribution": "Śukla Yajurveda (Vājasaneyī Saṃhitā)",
+    "editorial_note": [
+      "Upaniṣad maggiore dello Śukla Yajurveda, articolata in sei Adhyāya e quarantasette Brāhmaṇa.",
+      "Espone la cosmologia vedica, la dottrina dell'Ātman-Brahman, il metodo della negazione e gli insegnamenti di Yājñavalkya.",
+      "Il testo è strutturato secondo la trasmissione tradizionale e il commentario di Śaṅkarācārya."
+    ],
+    "editorial_units": [
+      "bu-adhyaya-1",
+      "bu-adhyaya-2",
+      "bu-adhyaya-3",
+      "bu-adhyaya-4",
+      "bu-adhyaya-5",
+      "bu-adhyaya-6"
+    ],
+    "source_file": "works/brihadaranyaka-upanishad.json"
+  },
   "chandogya-upanisad": {
     "id": "chandogya-upanisad",
     "title": "Chāndogya Upaniṣad",

@@ -1,0 +1,445 @@
+{
+  "id": "bu-adhyaya-2",
+  "work_id": "brihadaranyaka-upanishad",
+  "unit_locus": "Adhyāya 2",
+  "unit_title": "Capitolo II —\nMadhu-kāṇḍa: La natura trascendente dell'Ātman e l'insegnamento di Ajātaśatru",
+  "sections": [
+    {
+      "section_locus": "2.1",
+      "section_title": "Gārgya-Ajātaśatru-brāhmaṇa: Il dialogo tra il saggio orgoglioso e il re saggio\nsulla natura incondizionata del Sé",
+      "passages": [
+        {
+          "id": "bu-2-1-1",
+          "original": "दृप्तबालाकिर्हानूचानो गार्ग्य आस । स होवाचाजातशत्रुं काश्यं ब्रह्म\nते ब्रवाणीति । स होवाचाजातशत्रुः सहस्रमेतस्यां वाचि दद्मः, जनको जनक इति वै जना\nधावन्तीति ॥ १ ॥",
+          "translation": "Vi era un tempo il superbo Bālāki della stirpe\ndei Gārgya, uomo eloquente e versato nei testi. Egli disse ad Ajātaśatru, re di\nKāśi: «Voglio annunciarti il Brahman». Ajātaśatru rispose: «Mille vacche ti\noffriamo per questa sola parola. Ognuno accorre gridando: 'Janaka! Janaka!', [ma\nsappi che anche qui vi è chi ascolta la dottrina]».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.1.1"
+        },
+        {
+          "id": "bu-2-1-2",
+          "original": "स होवाच गार्ग्यः य\nएवासावादित्ये पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा\nमैतस्मिन्संवदिष्ठाः । अतिष्ठाः सर्वेषां भूतानां मूर्धा राजेति वा अहमेतमुपास इति\n। स य एतमेवमुपास्तेऽतिष्ठाः सर्वेषां भूतानां मूर्धा राजा भवति ॥ २ ॥",
+          "translation": "Gārgya disse: «Quell'essere (puruṣa) che risiede nel sole, esso\nio contemplo come Brahman». Ajātaśatru rispose: «No, non parlarmi di esso! Io lo\ncontemplo soltanto come il Sovrano supremo, il capo e il re di tutti gli esseri.\nChi lo contempla in tal modo diviene sovrano supremo, capo e re di tutte le\ncreature».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.2"
+        },
+        {
+          "id": "bu-2-1-3",
+          "original": "स होवाच गार्ग्यः य एवासौ चन्द्रे पुरुष एतमेवाहं ब्रह्मोपास इति । स\nहोवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठाः । बृहन् पाण्डरवासाः सोमो राजेति वा\nअहमेतमुपास इति । स य एतमेवमुपास्तेऽहरहर्ह सुतः प्रसुतो भवति । नास्यान्नं क्षीयते\n॥ ३ ॥",
+          "translation": "Gārgya disse: «Quell'essere che risiede nella luna, esso\nio contemplo come Brahman». Ajātaśatru rispose: «No, non parlarmi di esso! Io lo\ncontemplo come il vasto re Soma, avvolto in candide vesti. Chi lo contempla in\ntal modo ottiene giorno dopo giorno la spremitura sacra del Soma, e il suo\nnutrimento non viene mai meno».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.3"
+        },
+        {
+          "id": "bu-2-1-4",
+          "original": "स होवाच गार्ग्यः य एवासौ विद्युति पुरुष एतमेवाहं\nब्रह्मोपास इति । स होवाचाजातशत्रुर्मा मैतस्मिन् संवदिष्ठाः । तेजस्वीति वा\nअहमेतमुपास इति । स य एतमेवमुपास्ते तेजस्वी ह भवति । तेजस्विनी हास्य प्रजा भवति ॥\n४ ॥",
+          "translation": "Gārgya disse: «Quell'essere che risiede nel fulmine, esso\nio contemplo come Brahman». Ajātaśatru rispose: «No, non parlarmi di esso! Io lo\ncontemplo come il principio luminoso. Chi lo contempla in tal modo diviene\nrisplendente, e luminosa diviene la sua discendenza».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.1.4"
+        },
+        {
+          "id": "bu-2-1-5",
+          "original": "स होवाच गार्ग्यः य\nएवायमाकाशे पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा मैतस्मिन्\nसंवदिष्ठाः । पूर्णमप्रवर्तीति वा अहमेतमुपास इति । स य एतमेवमुपास्ते पूर्यते\nप्रजया पशुभिर्नास्यास्माल्लोकात्प्रजोद्वर्तते ॥ ५ ॥",
+          "translation": "Gārgya\ndisse: «Quell'essere che risiede nello spazio etereo (ākāśa), esso io contemplo\ncome Brahman». Ajātaśatru rispose: «No, non parlarmi di esso! Io lo contemplo\ncome la pienezza immota. Chi lo contempla in tal modo è colmato di prole e di\nbestiame, e la sua discendenza non si estingue mai da questo mondo».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.5"
+        },
+        {
+          "id": "bu-2-1-6",
+          "original": "स होवाच\nगार्ग्यः य एवायं वायौ पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा\nमैतस्मिन् संवदिष्ठाः । इन्द्रो वैकुण्ठोऽपराजिता सेनेति वा अहमेतमुपास इति । स य\nएतमेवमुपास्ते जिष्णुर् हापराजिष्णुर्भवत्यन्यतस्त्याजयी ॥ ६ ॥",
+          "translation": "Gārgya disse: «Quell'essere che risiede nel vento, esso io contemplo come\nBrahman». Ajātaśatru rispose: «No, non parlarmi di esso! Io lo contemplo come\nIndra, l'irresistibile, l'armata invincibile. Chi lo contempla in tal modo\ndiviene vittorioso, invincibile e trionfatore su ogni nemico».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.6"
+        },
+        {
+          "id": "bu-2-1-7",
+          "original": "स होवाच\nगार्ग्यः य एवायमग्नौ पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा\nमैतस्मिन्संवदिष्ठाः । विषासहिरिति वा अहमेतमुपास इति । स य एतमेवमुपास्ते\nविषासहिर्ह भवति । विषासहिर्हास्य प्रजा भवति ॥ ७ ॥",
+          "translation": "Gārgya\ndisse: «Quell'essere che risiede nel fuoco, esso io contemplo come Brahman».\nAjātaśatru rispose: «No, non parlarmi di esso! Io lo contemplo come colui che\ntutto abbatte e sopporta. Chi lo contempla in tal modo diviene dominatore, e\ndominatrice diviene la sua progenie».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.1.7"
+        },
+        {
+          "id": "bu-2-1-8",
+          "original": "स होवाच गार्ग्यः य\nएवायमप्सु पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा\nमैतस्मिन्संवदिष्ठाः । प्रतिरूप इति वा अहमेतमुपास इति । स य एतमेवमुपास्ते\nप्रतिरूपं हैवैनमुपगच्छति नाप्रतिरूपम् । अथो प्रतिरूपोऽस्माज्जायते ॥ ८ ॥",
+          "translation": "Gārgya disse: «Quell'essere che risiede nelle acque, esso io\ncontemplo come Brahman». Ajātaśatru rispose: «No, non parlarmi di esso! Io lo\ncontemplo come l'immagine speculare conforme (pratirūpa). Chi lo contempla in\ntal modo ottiene soltanto ciò che gli è conforme e gradevole, mai ciò che gli è\navverso, e da lui nasce una prole a lui conforme».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.1.8"
+        },
+        {
+          "id": "bu-2-1-9",
+          "original": "स होवाच गार्ग्यः य\nएवायमादर्शे पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा मैतस्मिन्\nसंवदिष्ठाः । रोचिष्णुरिति वा अहमेतमुपास इति । स य एतमेवमुपास्ते रोचिष्णुर्ह भवति\n। रोचिष्णुर्हास्य प्रजा भवति । अथो यैः संनिगच्छति । सर्वांस्तानतिरोचते ॥ ९ ॥",
+          "translation": "Gārgya disse: «Quell'essere che risiede nello specchio, esso io\ncontemplo come Brahman». Ajātaśatru rispose: «No, non parlarmi di esso! Io lo\ncontemplo come il radioso. Chi lo contempla in tal modo diviene splendente,\nsplendente diviene la sua discendenza, ed egli supera in fulgore chiunque\nincontri».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.9"
+        },
+        {
+          "id": "bu-2-1-10",
+          "original": "स होवाच गार्ग्यः य एवायं यन्तं पश्चाच्छब्दोऽनूदेत्येतमेवाहं\nब्रह्मोपास इति । स होवाचाजातशत्रुर्मा मैतस्मिन् संवदिष्ठाः । असुरिति वा\nअहमेतमुपास इति । स य एतमेवमुपास्ते सर्वं हैवास्मिँल्लोक आयुरेति । नैनं पुरा\nकालात्प्राणो जहाति ॥ १० ॥",
+          "translation": "Gārgya disse: «Quel suono che segue\nl'uomo mentre cammina, esso io contemplo come Brahman». Ajātaśatru rispose: «No,\nnon parlarmi di esso! Io lo contemplo come la forza vitale (asu). Chi lo\ncontempla in tal modo compie per intero la durata della propria vita in questo\nmondo, e il soffio non lo abbandona prima del tempo».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.1.10"
+        },
+        {
+          "id": "bu-2-1-11",
+          "original": "स होवाच गार्ग्यः य एवायं\nदिक्षु पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठाः\n। द्वितीयोऽनपग इति वा अहमेतमुपास इति । स य एतमेवमुपास्ते द्वितीयवान् ह भवति ।\nनास्माद्गणश्छिद्यते ॥ ११ ॥",
+          "translation": "Gārgya disse: «Quell'essere che\nrisiede nelle direzioni dello spazio, esso io contemplo come Brahman».\nAjātaśatru rispose: «No, non parlarmi di esso! Io lo contemplo come il compagno\ninseparabile. Chi lo contempla in tal modo ha sempre compagni fidati al suo\nfianco, e il suo seguito non si disperde mai».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.1.11"
+        },
+        {
+          "id": "bu-2-1-12",
+          "original": "स होवाच गार्ग्यः य एवायं\nछायामयः पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठाः\n। मृत्युरिति वा अहमेतमुपास इति । स य एतमेवमुपास्ते सर्वं हैवास्मिँल्लोक आयुरेति\n। नैनं पुरा कालान्मृत्युरागच्छति ॥ १२ ॥",
+          "translation": "Gārgya disse:\n«Quell'essere che consiste nell'ombra, esso io contemplo come Brahman».\nAjātaśatru rispose: «No, non parlarmi di esso! Io lo contemplo come la Morte.\nChi lo contempla in tal modo compie per intero la vita in questo mondo, e la\nmorte non lo coglie prima del tempo debito».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.1.12"
+        },
+        {
+          "id": "bu-2-1-13",
+          "original": "स होवाच गार्ग्यः य\nएवायमात्मनि पुरुष एतमेवाहं ब्रह्मोपास इति । स होवाचाजातशत्रुर्मा मैतस्मिन्\nसंवदिष्ठाः । आत्मन्वीति वा अहमेतमुपास इति । स य एतमेवमुपास्त आत्मन्वी ह भवति ।\nआत्मन्विनी हास्य प्रजा भवति । स ह तूष्णीमास गार्ग्यः ॥ १३ ॥",
+          "translation": "Gārgya disse: «Quell'essere che risiede nel corpo individuale (ātman), esso io\ncontemplo come Brahman». Ajātaśatru rispose: «No, non parlarmi di esso! Io lo\ncontemplo come l'essere dotato di individualità corporea (ātmanvin). Chi lo\ncontempla in tal modo diviene dotato di un corpo vigoroso, e vigorosa di corpo\ndiviene la sua discendenza». A quel punto Gārgya rimase in silenzio.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.13"
+        },
+        {
+          "id": "bu-2-1-14",
+          "original": "स\nहोवाचाजातशत्रुः एतावन्नू३ इति । एतावद्धीति । नैतावता विदितं भवतीति । स होवाच\nगार्ग्यः उप त्वायानीति ॥ १४ ॥",
+          "translation": "Ajātaśatru chiese: «È tutto\nqui?». Gārgya rispose: «Sì, è tutto qui». Il re concluse: «Con questo soltanto\nnon è conosciuto Brahman!». Allora Gārgya disse: «Voglio venire a te come\ndiscepolo».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.14"
+        },
+        {
+          "id": "bu-2-1-15",
+          "original": "स होवाचाजातशत्रुः प्रतिलोमं चैतद्यद्ब्राह्मणः\nक्षत्रियमुपेयाद्ब्रह्म मे वक्ष्यतीति । व्येव त्वा ज्ञपयिष्यामीति । तं\nपाणावादायोत्तस्थौ । तौ ह पुरुषं सुप्तमाजग्मतुः । तमेतैर्नामभिरामन्त्रयां चक्रे\nबृहन् पाण्डरवासः सोम राजन्निति । स नोत्तस्थौ । तं पाणिनापेषं बोधयां चकार । स\nहोत्तस्थौ ॥ १५ ॥",
+          "translation": "Ajātaśatru disse: «È contrario alla\nconsuetudine tradizionale che un brāhmaṇa si accosti a uno kṣatriya pensando:\n'Egli mi insegnerà il Brahman'. Tuttavia io te lo farò comprendere chiaramente».\nPresolo per mano, si alzò; ed entrambi si recarono presso un uomo addormentato.\nIl re lo interpellò con questi nomi: «O vasto re Soma, vestito di candide\nvesti!». Ma l'uomo non si svegliò. Allora il re lo scosse ripetutamente con la\nmano, e quegli si svegliò.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.15"
+        },
+        {
+          "id": "bu-2-1-16",
+          "original": "स होवाचाजातशत्रुः यत्रैष एतत्सुप्तोऽभूद्य एष\nविज्ञानमयः पुरुषः क्वैष तदाभूत्कुत एतदागादिति । तदु ह न मेने गार्ग्यः ॥ १६ ॥",
+          "translation": "Ajātaśatru domandò: «Quando quest'uomo dormiva profondamente,\nquesto essere fatto di pura conoscenza (vijñānamayaḥ puruṣaḥ), dove si trovava\nallora? E da dove è ritornato ora [al momento del risveglio]?». Ma Gārgya non\nseppe rispondere.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.16"
+        },
+        {
+          "id": "bu-2-1-17",
+          "original": "स होवाचाजातशत्रुः यत्रैष एतत्सुप्तोऽभूद्य एष\nविज्ञानमयः पुरुषस्तदेषां प्राणानां विज्ञानेन विज्ञानमादाय य एषोऽन्तर्हृदय\nआकाशस्तस्मिञ्छेते । तानि यदा गृह्णाति । अथ हैतत्पुरुषः स्वपिति नाम । तद्गृहीत एव\nप्राणो भवति । गृहीता वाग् । गृहीतं चक्षुर् । गृहीतं श्रोत्रम् । गृहीतं मनः ॥ १७\n॥",
+          "translation": "Ajātaśatru disse: «Quando questo essere costituito di\nconoscenza era immerso nel sonno profondo, avendo ritirato in sé, mediante la\npropria facoltà conoscitiva, la coscienza degli organi di senso (prāṇa),\nriposava nello spazio etereo che è all'interno del cuore. Quando riassorbe in sé\nqueste facoltà, allora si dice che l'uomo dorme (svapiti, 'è entrato nel proprio\nSé'). Allora il respiro è riassorbito, la parola è riassorbita, l'occhio è\nriassorbito, l'udito è riassorbito, la mente è riassorbita».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.17"
+        },
+        {
+          "id": "bu-2-1-18",
+          "original": "स\nयत्रैतत्स्वप्न्यया चरति ते हास्य लोकाः । तदुतेव महाराजो भवत्युतेव महाब्राह्मणः ।\nउतेवोच्चावचं निगच्छति । स यथा महाराजो जानपदान् गृहीत्वा स्वे जनपदे यथाकामं\nपरिवर्तेतैवमेवैष एतत्प्राणान् गृहीत्वा स्वे शरीरे यथाकामं परिवर्तते ॥ १८ ॥",
+          "translation": "«E quando egli si muove nello stato di sogno, quelli sono i suoi\npropri mondi: allora egli diviene, per così dire, un grande sovrano, oppure un\nvenerando brāhmaṇa, o discende in condizioni elevate o infime. Come un grande\nre, radunati i propri sudditi, si muove a piacimento nel proprio reame,\nesattamente così questo essere, assunte con sé le facoltà vitali, si muove a\nproprio piacimento entro il proprio corpo [di sogno]».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.18"
+        },
+        {
+          "id": "bu-2-1-19",
+          "original": "अथ यदा\nसुषुप्तो भवति । यदा न कस्य चन वेद । हिता नाम नाड्यो द्वासप्ततिः सहस्राणि\nहृदयात्पुरीततमभिप्रतिष्ठन्ते । ताभिः प्रत्यवसृप्य पुरीतति शेते । स यथा कुमारो वा\nमहाराजो वा महाब्राह्मणो वाऽतिघ्नीमानन्दस्य गत्वा शयीत । एवमेवैष एतच्छेते ॥ १९\n॥",
+          "translation": "«Ma quando egli entra nel sonno profondo (suṣupti), allorché\nnon ha coscienza di alcun oggetto esterno: settantaduemila canali sottili\nchiamati hitā si diramano dal cuore verso il pericardio; ritirandosi attraverso\ndi essi, egli riposa nel pericardio e nel cuore. Come un fanciullo innocente, o\nun grande sovrano, o un venerato maestro, avendo raggiunto il vertice supremo\ndella beatitudine (ānanda), riposa in pace, esattamente così questo essere\nriposa nel sonno profondo».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.19"
+        },
+        {
+          "id": "bu-2-1-20",
+          "original": "स यथोर्णनाभिस्तन्तुनोच्चरेद्यथा अग्नेः क्षुद्रा\nविष्फुलिङ्गा व्युच्चरन्त्येवमेवास्मादात्मनः सर्वे प्राणाः सर्वे लोकाः सर्वे\nदेवाः सर्वाणि भूतानि व्युच्चरन्ति । तस्योपनिषत्सत्यस्य सत्यमिति । प्राणा वै\nसत्यं तेषामेष सत्यम् ॥ २० ॥",
+          "translation": "«Come il ragno emette la tela dal\nproprio corpo e come dal fuoco ardente scaturiscono innumerevoli minuscole\nscintille, esattamente così da questo Sé emanano tutti i soffi vitali, tutti i\nmondi, tutti gli dèi e tutte le creature. Il suo insegnamento segreto (upaniṣad)\nè: 'La Verità della verità' (Satyasya Satyam). I soffi vitali e le\nmanifestazioni empiriche sono la verità; e di essi questo Sé è la Verità\nultima».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.1.20"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.2",
+      "section_title": "Śiśu-brāhmaṇa: Il\nmistero del Prāṇa come vitello, la coppa rovesciata del capo e i sette saggi\ninteriori",
+      "passages": [
+        {
+          "id": "bu-2-2-1",
+          "original": "यो ह वै शिशुं साधानं\nसप्रत्याधानं सस्थूणं सदामं वेद सप्त ह द्विषतो भ्रातृव्यानवरुणद्धि । अयं वाव\nशिशुर्योऽयं मध्यमः प्राणः । तस्येदमेवाधानमिदं प्रत्याधानं प्राणः स्थूणाऽन्नं दाम\n॥ १ ॥",
+          "translation": "Chi conosce il vitellino appena nato (śiśu) insieme alla\nsua dimora, al suo contrafforte, al suo palo d'attracco e alla sua corda di\nlegame, tiene lontani da sé i sette nemici avversi. Questo vitellino è in verità\nil Soffio vitale centrale (madhyama prāṇa); questo corpo fisico è la sua dimora,\nil capo è il suo contrafforte, il respiro vitale è il palo d'attracco e il cibo\nè la corda che lo tiene legato.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.2.1"
+        },
+        {
+          "id": "bu-2-2-2",
+          "original": "तमेताः सप्ताक्षितय उपतिष्ठन्ते । तद्या इमा\nअक्षँल्लोहिन्यो राजयस्ताभिरेनं रुद्रोऽन्वायत्तः । अथ या अक्षन्नापस्ताभिः\nपर्जन्यः । या कनीनका तयाऽऽदित्यः । यत्कृष्णं तेनाग्निः । यच्छुक्लं तेनेन्द्रः ।\nअधरयैनं वर्तन्या पृथिव्यन्वायत्ता । द्यौरुत्तरया । नास्यानं क्षीयते य एवं वेद ॥\n२ ॥",
+          "translation": "Sette divinità inesauste (akṣiti) fanno corona attorno ad\nesso nell'occhio. Mediante le linee rosse presenti nell'occhio, Rudra è\ncollegato ad esso; mediante le acque dell'umor vitreo, Parjanya; mediante la\npupilla, Āditya; mediante l'iride nera, Agni; mediante la parte bianca, Indra;\nmediante la palpebra inferiore, la Terra è congiunta ad esso; mediante la\npalpebra superiore, il Cielo. Non viene mai meno il nutrimento di colui che\npossiede tale conoscenza.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.2.2"
+        },
+        {
+          "id": "bu-2-2-3",
+          "original": "तदेष श्लोको भवति — अर्वाग्बिलश्चमस\nऊर्ध्वबुध्नस्तस्मिन्यशो निहितं विश्वरूपम् । तस्यासत ऋषयः सप्त तीरे वागष्टमी\nब्रह्मणा संविदानेति । अर्वाग्बिलश्चमस ऊर्ध्वबुध्न इति । इदं तच्छरीरम् । एष\nह्यर्वाग्बिलश्चमस ऊर्ध्वबुध्नः । तस्मिन्यशो निहितं विश्वरूपमिति । प्राणा वै यशो\nविश्वरूपम् । प्राणानतदाह । तस्यासत ऋषयः सप्त तीर इति । प्राणा वा ऋषयः ।\nप्राणानतदाह । वागष्टमी ब्रह्मणा संविदानेति । वाग्घ्यष्टमी ब्रह्मणा संवित्ते ॥ ३\n॥",
+          "translation": "A questo proposito vi è il seguente verso sacro: «Vi è una\ncoppa con l'apertura rivolta verso il basso e il fondo verso l'alto; in essa è\nriposta una gloria multiforme. Lungo il suo orlo siedono i sette saggi (ṛṣi), e\nl'ottava è la Parola che conversa con il Verbo (Brahman)». «Una coppa con\nl'apertura in basso e il fondo in alto»: questo è il capo umano, poiché il capo\nè una coppa che si apre in basso ed è arrotondata in alto. «In essa è riposta\nuna gloria multiforme»: i soffi vitali sensoriali sono la gloria multiforme; ad\nessi il verso allude. «Lungo il suo orlo siedono i sette saggi»: i soffi\nsensoriali sono i saggi. «E l'ottava è la Parola che conversa con il Verbo»:\nl'ottava facoltà è infatti la voce che comunica con il sacro.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.2.3"
+        },
+        {
+          "id": "bu-2-2-4",
+          "original": "इमावेव\nगोतमभरद्वाजौ । अयमेव गोतमोऽयं भरद्वाजः । इमावेव विश्वामित्रजमदग्नी । अयमेव\nविश्वामित्रोऽयं जमदग्निः । इमावेव वसिष्ठकश्यपौ । अयमेव वसिष्ठोऽयं कश्यपः ।\nवागेवात्रिः । वाचा ह्यन्नमद्यते । अत्तिर्ह वै नामैतद्यदत्रिरिति । सर्वस्यात्ता\nभवति सर्वमस्यान्नं भवति य एवं वेद ॥ ४ ॥",
+          "translation": "Questi due organi sono\nGotama e Bharadvāja: questo orecchio destro è Gotama e questo sinistro è\nBharadvāja. Questi due sono Viśvāmitra e Jamadagni: questo occhio destro è\nViśvāmitra e questo sinistro è Jamadagni. Questi due sono Vasiṣṭha e Kaśyapa:\nquesta narice destra è Vasiṣṭha e questa sinistra è Kaśyapa. La Parola è Atri,\npoiché per mezzo della bocca si consuma il cibo (atti); 'Atri' è invero\nl'espressione segreta per indicare il divoratore (attṛ). Divoratore di tutto\ndiviene e tutto diviene il suo cibo, colui che possiede tale conoscenza.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.2.4"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.3",
+      "section_title": "Mūrtāmūrta-brāhmaṇa: Le due forme di Brahman, la visione delle\nimpressioni sottili e la suprema negazione «Neti neti»",
+      "passages": [
+        {
+          "id": "bu-2-3-1",
+          "original": "द्वे वाव ब्रह्मणो रूपे — मूर्तं चैवामूर्तं च, मर्त्यं\nचामृतं च, स्थितं च यच्च, सच्च त्यं च ॥ १ ॥",
+          "translation": "Due invero sono le\nforme fenomeniche di Brahman: quella corporea (mūrta) e quella incorporea\n(amūrta), la mortale e l'immortale, la fissa e la mobile, la definita (sat) e\nl'indefinita (tyat).",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.3.1"
+        },
+        {
+          "id": "bu-2-3-2",
+          "original": "तदेतन्मूर्तं यदन्यद्वायोश्चान्तरिक्षाच्च । एतन्मर्त्यम्\n। एतत्स्थितम् । एतत्सत् । तस्यैतस्य मूर्तस्यैतस्य मर्त्यस्यैतस्य स्थितस्यैतस्य\nसत एष रसो य एष तपति । सतो ह्येष रसः ॥ २ ॥",
+          "translation": "Ciò che è corporeo è\ntutto ciò che è diverso dall'aria e dallo spazio etereo [ossia la terra, l'acqua\ne il fuoco]. Questo è mortale, questo è fisso, questo è definito (sat). Di\nquesta forma corporea, mortale, fissa e definita, l'essenza luminosa (rasa) è il\nsole che risplende lassù: il sole è infatti l'essenza di ciò che è definito.\nQuesto nell'ordine macrocosmico.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.3.2"
+        },
+        {
+          "id": "bu-2-3-3",
+          "original": "अथामूर्तम् — वायुश्चान्तरिक्षं च । एतदमृतम् ।\nएतद्यत् । एतत्तत् । तस्यैतस्यामूर्तस्यैतस्यामृतस्यैतस्य यत एतस्य त्यस्यैष रसो य\nएष एतस्मिन्मण्डले पुरुषः । त्यस्य ह्येष रसः । इत्यधिदैवतम् ॥ ३ ॥",
+          "translation": "Ora ciò che è incorporeo: sono l'aria e lo spazio etereo. Questo\nè immortale [rispetto agli elementi densi], questo è mobile, questo è indefinito\n(tyat). Di questa forma incorporea, immortale, mobile e indefinita, l'essenza\nluminosa è l'essere che risiede nel disco solare: egli è infatti l'essenza di\nciò che è indefinito. Questo per quanto riguarda la sfera cosmica\n(adhidaivatam).",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.3.3"
+        },
+        {
+          "id": "bu-2-3-4",
+          "original": "अथाध्यात्मम् — इदमेव मूर्तं यदन्यत्प्राणाच्च\nयश्चायमन्तरात्मन्नाकाशः । एतन्मर्त्यम् । एतत्स्थितम् । एतत्सत् । तस्यैतस्य\nमूर्तस्यैतस्य मर्त्यस्यैतस्य स्थितस्यैतस्य सत एष रसो यच्चक्षुः । सतो ह्येष रसः ॥\n४ ॥",
+          "translation": "Ora per quanto riguarda il piano individuale (adhyātmam):\nciò che è corporeo è tutto ciò che è diverso dal soffio vitale e dallo spazio\nche è all'interno del corpo. Questo è mortale, questo è fisso, questo è definito\n(sat). Di questa forma corporea, mortale, fissa e definita, l'essenza è\nl'occhio: l'occhio è infatti l'essenza di ciò che è definito.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.3.4"
+        },
+        {
+          "id": "bu-2-3-5",
+          "original": "अथामूर्तम् —\nप्राणश्च यश्चायमन्तरात्मन्नाकाशः । एतदमृतम् । एतद्यत् । एतत्तत् ।\nतस्यैतस्यामूर्तस्यैतस्यामृतस्यैतस्य यत एतस्य त्यस्यैष रसो योऽयं\nदक्षिणेऽक्षन्पुरुषः । त्यस्य ह्येष रसः ॥ ५ ॥",
+          "translation": "Ora ciò che è\nincorporeo nell'individuo: è il soffio vitale e lo spazio che è all'interno del\ncorpo. Questo è immortale, questo è mobile, questo è indefinito (tyat). Di\nquesta forma incorporea, immortale, mobile e indefinita, l'essenza è l'essere\ncoscienziale che risiede nell'occhio destro: egli è infatti l'essenza di ciò che\nè indefinito.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.3.5"
+        },
+        {
+          "id": "bu-2-3-6",
+          "original": "तस्य हैतस्य पुरुषस्य रूपम् — यथा महारजनं वासो यथा पाण्ड्वाविकं\nयथेन्द्रगोपो यथाग्न्यर्चिर्यथा पुण्डरीकं यथा सकृद्विद्युत्तम् । सकृद्विद्युत्तेव\nह वा अस्य श्रीर्भवति य एवं वेद । अथात आदेशः — नेति नेति । न ह्येतस्मादिति\nनेत्यन्यत्परमस्ति । अथ नामधेयं — सत्यस्य सत्यमिति । प्राणा वै सत्यं तेषामेष\nसत्यम् ॥ ६ ॥",
+          "translation": "La forma fenomenica di questo essere sottile\n[fatto di impressioni latenti] appare come un manto tinto di zafferano, come\ncandida lana d'agnello, come il rosso insetto indragopa, come una vampa di\nfuoco, come un loto bianco, come un improvviso baleno di fulmine. Come un\nfulmine improvviso risplende la gloria spirituale di colui che possiede tale\nconoscenza. Ora ha inizio l'insegnamento per indicare la Realtà suprema: «Non\ncosì, non così» (Neti neti). Non vi è infatti altra indicazione più alta di\nquesta: «Non è questo». E il suo nome sacro è: «La Verità della verità»\n(Satyasya Satyam). I soffi vitali sono la verità; e di essi questo Sé è la\nVerità ultima.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.3.6"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.3",
+      "section_title": "Mūrtāmūrta-brāhmaṇa:\nIl compimento apofatico",
+      "passages": []
+    },
+    {
+      "section_locus": "2.4",
+      "section_title": "Maitreyī-brāhmaṇa: Il dialogo tra\nYājñavalkya e Maitreyī sulla vanità dei beni esteriori e la visione del Sé",
+      "passages": [
+        {
+          "id": "bu-2-4-1",
+          "original": "मैत्रेयीति होवाच याज्ञवल्क्यः,\nउद्यास्यन्वा अरेऽहमस्मात्स्थानादस्मि, हन्त तेऽनया कात्यायन्यान्तं करवाणीति ॥ १\n॥",
+          "translation": "«Maitreyī!», disse Yājñavalkya, «invero sto per allontanarmi\nda questo stato [di capofamiglia per abbracciare la rinuncia]. Orsù, desidero\nspartire i beni tra te e la mia seconda sposa Kātyāyanī».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.1"
+        },
+        {
+          "id": "bu-2-4-2",
+          "original": "सा होवाच\nमैत्रेयी, यन्नु म इयं भगोः सर्वा पृथिवी वित्तेन पूर्णा स्यात्कथं तेनामृता\nस्यामिति । नेति होवाच याज्ञवल्क्यः, यथैवोपकरणवतां जीवितं तथैव ते जीवितं स्यात्,\nअमृतत्वस्य तु नाशास्ति वित्तेनेति ॥ २ ॥",
+          "translation": "Maitreyī rispose: «Mio\nsignore, se anche questa terra intera, ricolma di ricchezze, fosse mia, potrei\nper mezzo di essa conseguire l'immortalità?». «No», replicò Yājñavalkya, «la tua\nvita sarebbe simile a quella di coloro che possiedono molti beni materiali; ma\nnon vi è alcuna speranza di immortalità mediante la ricchezza».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.2"
+        },
+        {
+          "id": "bu-2-4-3",
+          "original": "सा होवाच\nमैत्रेयी, येनाहं नामृता स्यां किमहं तेन कुर्याम्, यदेव भगवान्वेद तदेव मे\nब्रूहीति ॥ ३ ॥",
+          "translation": "Maitreyī disse: «Che cosa dovrei fare di ciò\nche non può rendermi immortale? Ciò che il mio venerabile sposo conosce [sul\nmezzo per conseguire l'immortalità], proprio quello insegnami!».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.3"
+        },
+        {
+          "id": "bu-2-4-4",
+          "original": "स होवाच\nयाज्ञवल्क्यः, प्रिया बतारे नः सती प्रियं भाषसे, एह्यास्व, व्याख्यास्यामि ते,\nव्याचक्षाणस्य तु मे निदिध्यासस्वेति ॥ ४ ॥",
+          "translation": "Yājñavalkya disse:\n«Cara tu mi eri già, e ora pronunzi parole che mi sono sommamente care. Vieni,\nsiediti: io ti esporrò questa verità, e tu medita profondamente sulle mie parole\nmentre parlo».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.4"
+        },
+        {
+          "id": "bu-2-4-5",
+          "original": "स होवाच: न वा अरे पत्युः कामाय पतिः प्रियो\nभवत्यात्मनस्तु कामाय पतिः प्रियो भवति । न वा अरे जायाyai कामाय जाया प्रिया\nभवत्यात्मनस्तु कामाय जाया प्रिया भवति । न वा अरे पुत्राणां कामाय पुत्राः प्रिया\nभवन्त्यात्मनस्तु कामाय पुत्राः प्रिया भवन्ति । न वा अरे वित्तस्य कामाय वित्तं\nप्रियं भवत्यात्मनस्तु कामाय वित्तं प्रियं भवति । न वा अरे ब्रह्मणः कामाय ब्रह्म\nप्रियं भवत्यात्मनस्तु कामाय ब्रह्म प्रियं भवति । न वा अरे क्षत्रस्य कामाय\nक्षत्रं प्रियं भवत्यात्मनस्तु कामाय क्षत्रं प्रियं भवति । न वा अरे लोकानां कामाय\nलोकाः प्रिया भवन्त्यात्मनस्तु कामाय लोकाः प्रिया भवन्ति । न वा अरे देवानां कामाय\nदेवाः प्रिया भवन्त्यात्मनस्तु कामाय देवाः प्रिया भवन्ति । न वा अरे भूतानां कामाय\nभूतानि प्रियाणि भवन्त्यात्मनस्तु कामाय भूतानि प्रियाणि भवन्ति । न वा अरे सर्वस्य\nकामाय सर्वं प्रियं भवत्यात्मनस्तु कामाय सर्वं प्रियं भवति । आत्मा वा अरे\nद्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यो मैत्रेयि, आत्मनो वा अरे दर्शनेन\nश्रवणेन मत्या विज्ञानेनेदं सर्वं विदितम् ॥ ५ ॥",
+          "translation": "Egli disse:\n«Invero, o cara, non per amore dello sposo lo sposo è caro, ma per amore del Sé\n(Ātman) lo sposo è caro. Non per amore della sposa la sposa è cara, ma per amore\ndel Sé la sposa è cara. Non per amore dei figli i figli sono cari, ma per amore\ndel Sé i figli sono cari. Non per amore della ricchezza la ricchezza è cara, ma\nper amore del Sé la ricchezza è cara. Non per amore della condizione sacerdotale\n(brahman) il sacerdozio è caro, ma per amore del Sé il sacerdozio è caro. Non\nper amore della nobiltà sovrana (kṣatra) il potere è caro, ma per amore del Sé\nil potere è caro. Non per amore dei mondi i mondi sono cari, ma per amore del Sé\ni mondi sono cari. Non per amore degli dèi gli dèi sono cari, ma per amore del\nSé gli dèi sono cari. Non per amore degli esseri viventi gli esseri sono cari,\nma per amore del Sé gli esseri sono cari. Non per amore del Tutto il Tutto è\ncaro, ma per amore del Sé il Tutto è caro. Il Sé, invero, o Maitreyī, deve\nessere veduto, ascoltato, meditato e contemplato con persistenza\n(nididhyāsitavya). Attraverso la visione, l'ascolto, la riflessione e la\nconoscenza del Sé, questa totalità diviene pienamente conosciuta».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.5"
+        },
+        {
+          "id": "bu-2-4-6",
+          "original": "ब्रह्म तं\nपरादाद्योऽन्यत्रात्मनो ब्रह्म वेद, क्षत्रं तं परादाद्योऽन्यत्रात्मनः क्षत्रं\nवेद, लोकास्तं परादुर्योऽन्यत्रात्मनो लोकान्वेद, देवास्तं परादुर्योऽन्यत्रात्मनो\nदेवान्वेद, भूतानि तं परादुर्योऽन्यत्रात्मनो भूतानि वेद, सर्वं तं\nपरादाद्योऽन्यत्रात्मनः सर्वं वेद । इदं ब्रह्म, इदं क्षत्रम्, इमे लोकाः, इमे\nदेवाः, इमानि भूतानि, इदं सर्वं यदयमात्मा ॥ ६ ॥",
+          "translation": "«La condizione\nsacerdotale abbandona colui che considera il sacerdozio come distinto dal Sé; il\npotere sovrano abbandona colui che considera il potere sovrano come distinto dal\nSé; i mondi abbandonano colui che considera i mondi come distinti dal Sé; gli\ndèi abbandonano colui che considera gli dèi come distinti dal Sé; gli esseri\nviventi abbandonano colui che considera gli esseri come distinti dal Sé; il\nTutto abbandona colui che considera il Tutto come distinto dal Sé. Questo\nsacerdozio, questo potere, questi mondi, questi dèi, questi esseri viventi e\nquesta totalità non sono altro che questo Sé».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.4.6"
+        },
+        {
+          "id": "bu-2-4-7",
+          "original": "स यथा दुन्दुभेर्हन्यमानस्य\nन बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय, दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा\nशब्दो गृहीतः ॥ ७ ॥",
+          "translation": "«Come quando viene percosso un tamburo non\nsi possono afferrare i singoli suoni particolari che ne scaturiscono al di fuori\ndello strumento, ma afferrando il tamburo o colui che lo percuote il suono viene\ncolto nella sua scaturigine;»",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.7"
+        },
+        {
+          "id": "bu-2-4-8",
+          "original": "स यथा शङ्खस्य धम्यमानस्य न\nबाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय, शङ्खस्य तु ग्रहणेन शङ्खध्मस्य वा शब्दो गृहीतः ॥\n८ ॥",
+          "translation": "«Come quando viene suonata una conchiglia non si possono\nafferrare i singoli suoni particolari al di fuori di essa, ma afferrando la\nconchiglia o il suonatore il suono viene colto;»",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.4.8"
+        },
+        {
+          "id": "bu-2-4-9",
+          "original": "स यथा वीणायै वाद्यमानायै न\nबाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय, वीणायै तु ग्रहणेन वीणावादस्य वा शब्दो गृहीतः ॥\n९ ॥",
+          "translation": "«Come quando viene suonata una vīṇā non si possono\ncogliere le singole note isolate al di fuori dello strumento, ma afferrando la\nvīṇā o colui che la tocca la melodia viene interamente colta; [esattamente così\nogni ente fenomenico è compreso solo conoscendo il Sé originario]».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.9"
+        },
+        {
+          "id": "bu-2-4-10",
+          "original": "स\nयथार्द्रैधाग्नेरभ्याहितात्पृथग्धूमा विनिश्चरन्ति, एवं वा अरेऽस्य महतो भूतस्य\nनिश्श्वसितमेतद्यदृग्वेदो यजुर्वेदः सामवेदोऽथर्वाङ्गिरस इतिहासः पुराणं विद्या\nउपनिषदः श्लोकाः सूत्राण्यनुव्याख्यानानि व्याख्यानानि; अस्यैवैतानि निश्श्वसितानि\n॥ १० ॥",
+          "translation": "«Come da un fuoco acceso con legna umida si sprigionano\nda ogni lato volute di fumo distinte, esattamente così, o cara, da questo\nsupremo Essere primordiale è scaturito come un soffio (niḥśvasita) tutto ciò: il\nṚgveda, lo Yajurveda, il Sāmaveda, gli Atharvāṅgirasa, le narrazioni storiche\n(itihāsa), le antiche cosmologie (purāṇa), le scienze meditative (vidyā), le\nUpaniṣad, i versi sapienziali (śloka), gli aforismi sintetici (sūtra), le\nspiegazioni secondarie e i commentari esegetici. Da Esso solo sono stati esalati\ncome un respiro».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.10"
+        },
+        {
+          "id": "bu-2-4-11",
+          "original": "स यथा सर्वासामपां समुद्र एकायनम्, एवं सर्वेषां\nस्पर्शानां त्वगेकायनम्, एवं सर्वेषां गन्धानां नासिके एकायनम्, एवं सर्वेषां\nरसानां जिह्वैकायनम्, एवं सर्वेषां रूपाणां चक्षुरेकायनम्, एवं सर्वेषां शब्दानां\nश्रोत्रमेकायनम्, एवं सर्वेषां संकल्पानां मन एकायनम्, एवं सर्वासां विद्यानां\nहृदयमेकायनम्, एवं सर्वेषां कर्मणां हस्तावेकायनम्, एवं सर्वेषामानन्दानामुपस्थ\nएकायनम्, एवं सर्वेषां विसर्गाणां पायुरेकायनम्, एवं सर्वेषामध्वनां पादावेकायनम्,\nएवं सर्वेषां वेदानां वागेकायनम् ॥ ११ ॥",
+          "translation": "«Come il mare è il\npunto di convergenza unico (ekāyana) di tutte le acque, così la pelle è il punto\ndi convergenza di tutte le sensazioni tattili; le narici il centro di tutti gli\nodori; la lingua il centro di tutti i sapori; l'occhio il centro di tutte le\nforme visibili; l'orecchio il centro di tutti i suoni; la mente il centro di\ntutti i propositi; il cuore il centro di tutte le scienze; le mani il centro di\ntutte le azioni; l'organo generativo il centro di ogni piacere; l'organo\nescretore il centro di ogni eliminazione; i piedi il centro di ogni\ndeambulazione; la parola il centro di tutti i Veda».",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.4.11"
+        },
+        {
+          "id": "bu-2-4-12",
+          "original": "स यथा सैन्धवखिल्य उदके\nप्रास्त उदकमेवानुविलीयेत, न हास्योद्ग्रहणायेव स्यात्, यतो यतस्त्वाददीत लवणमेव,\nएवं वा अर इदं महद्भूतमनन्तमपारं विज्ञानघन एव; एतेभ्यो भूतेभ्यः समुत्थाय\nतान्येवानुविनश्यति, न प्रेत्य संज्ञास्तीत्यरे ब्रवीमीति होवाच याज्ञवल्क्यः ॥ १२\n॥",
+          "translation": "«Come un blocco di sale gettato nell'acqua si dissolve\nnell'acqua stessa talché nessuno potrebbe più raccoglierlo separatamente, ma da\nqualunque parte si attinga l'acqua essa ha il sapore del sale, esattamente così,\no cara, questo supremo Essere è infinito, sconfinato, una pura massa omogenea di\nconsapevolezza (vijñānaghana). Sorgendo insieme a questi elementi materiali\n[sotto forma di individualità empirica], esso si dissolve con la dissoluzione di\nessi. Dopo la dipartita non vi è più alcuna coscienza oggettiva particolare (na\npretya saṃjñāsti): questo ti dico, o cara». Così parlò Yājñavalkya.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.12"
+        },
+        {
+          "id": "bu-2-4-13",
+          "original": "सा होवाच\nमैत्रेयी, अत्रैव मा भगवानमूमुहन्न प्रेत्य संज्ञास्तीति । स होवाच याज्ञवल्क्यः, न\nवा अरेऽहं मोहं ब्रवीमि, अलं वा अर इदं विज्ञानाय ॥ १३ ॥",
+          "translation": "Maitreyī disse: «In questo punto il mio venerabile sposo mi ha gettata nello\nsconcerto, affermando che dopo la morte non vi è più alcuna coscienza!».\nYājñavalkya rispose: «Invero, o cara, io non dico cosa che debba sconcertare:\nciò che ho enunciato è perfettamente sufficiente per comprendere la Realtà».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.13"
+        },
+        {
+          "id": "bu-2-4-14",
+          "original": "यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति, तदितर इतरं जिघ्रति, तदितर इतरं रसयते,\nतदितर इतरमभिवदति, तदितर इतरं शृणोति, तदितर इतरं मनुते, तदितर इतरं स्पृशति, तदितर\nइतरं विजानाति; यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्, तत्केन कं\nजिघ्रेत्, तत्केन कं रसयेत्, तत्केन कमभिवदेत्, तत्केन कं शृणुयात्, तत्केन कं\nमन्वीत, तत्केन कं स्पृशेत्, तत्केन कं विजानीयात्? येनेदं सर्वं विजानाति तं केन\nविजानीयात्? विज्ञातारमरे केन विजानीयादिति ॥ १४ ॥",
+          "translation": "«Finché vi è\napparenza di dualità (dvaitam iva), allora l'uno vede l'altro, l'uno odora\nl'altro, l'uno gusta l'altro, l'uno parla all'altro, l'uno ode l'altro, l'uno\npensa all'altro, l'uno tocca l'altro, l'uno conosce l'altro. Ma dove per il\nsaggio tutto è divenuto il Sé soltanto, allora per mezzo di che cosa e chi\npotrebbe egli vedere? Con che cosa e chi potrebbe odorare? Con che cosa e chi\npotrebbe gustare? A chi potrebbe parlare? Chi potrebbe udire? A chi potrebbe\npensare? Chi potrebbe toccare? Chi potrebbe conoscere? Colui mediante il quale\nsi conosce questa totalità, con che cosa mai lo si potrebbe conoscere? O cara,\nil Conoscitore supremo (vijñātṛ), attraverso che cosa lo si potrebbe\noggettivamente conoscere?».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.4.14"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.5",
+      "section_title": "Madhu-brāhmaṇa: La\ndottrina dell'interdipendenza cosmica, l'illusione di Māyā e il Mahāvākya «Ayam\nĀtmā Brahma»",
+      "passages": [
+        {
+          "id": "bu-2-5-1",
+          "original": "इयं पृथिवी\nसर्वेषां भूतानां मधु, अस्यै पृथिव्यै सर्वाणि भूतानि मधु; यश्चायमस्यां पृथिव्यां\nतेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं शारीरस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स\nयोऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ १ ॥",
+          "translation": "Questa\nterra è il miele (madhu) per tutti gli esseri viventi, e tutti gli esseri sono\nil miele per questa terra. Quell'essere luminoso e immortale che risiede in\nquesta terra, e quell'essere corporeo, luminoso e immortale che risiede\nnell'individuo (adhyātmam): questi due sono precisamente questo stesso Sé;\nquesto è l'Immortale, questo è Brahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.1"
+        },
+        {
+          "id": "bu-2-5-2",
+          "original": "इमा आपः सर्वेषां भूतानां मधु, आसां अपां सर्वाणि भूतानि मधु; यश्चायमास्वप्सु\nतेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं रैतसस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स\nयोऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ २ ॥",
+          "translation": "Queste\nacque sono il miele per tutti gli esseri viventi, e tutti gli esseri sono il\nmiele per queste acque. Quell'essere luminoso e immortale che risiede in queste\nacque, e quell'essere seminale, luminoso e immortale che risiede nell'individuo:\nquesti due sono precisamente questo stesso Sé; questo è l'Immortale, questo è\nBrahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.5.2"
+        },
+        {
+          "id": "bu-2-5-3",
+          "original": "अयमग्निः सर्वेषां भूतानां\nमधु, अस्याग्नेः सर्वाणि भूतानि मधु; यश्चायमस्मिन्नग्नौ तेजोमयोऽमृतमयः पुरुषः,\nयश्चायमध्यात्मं वाङ्मयस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽयमात्मा, इदममृतम्, इदं\nब्रह्म, इदं सर्वम् ॥ ३ ॥",
+          "translation": "Questo fuoco è il miele per tutti gli\nesseri viventi, e tutti gli esseri sono il miele per questo fuoco. Quell'essere\nluminoso e immortale che risiede in questo fuoco, e quell'essere vocale,\nluminoso e immortale che risiede nell'individuo: questi due sono precisamente\nquesto stesso Sé; questo è l'Immortale, questo è Brahman, questo è la totalità\ndi ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.3"
+        },
+        {
+          "id": "bu-2-5-4",
+          "original": "अयं वायुः सर्वेषां भूतानां मधु, अस्य वायोः सर्वाणि भूतानि मधु;\nयश्चायमस्मिन्वायौ तेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं प्राणस्तेजोमयोऽमृतमयः\nपुरुषः, अयमेव स योऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ ४ ॥",
+          "translation": "Questo vento è il miele per tutti gli esseri viventi, e tutti\ngli esseri sono il miele per questo vento. Quell'essere luminoso e immortale che\nrisiede in questo vento, e quell'essere respiratorio, luminoso e immortale che\nrisiede nell'individuo: questi due sono precisamente questo stesso Sé; questo è\nl'Immortale, questo è Brahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.4"
+        },
+        {
+          "id": "bu-2-5-5",
+          "original": "अयमादित्यः\nसर्वेषां भूतानां मधु, अस्यादित्यस्य सर्वाणि भूतानि मधु; यश्चायमस्मिन्नादित्ये\nतेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं चाक्षुषस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स\nयोऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ ५ ॥",
+          "translation": "Questo sole\nè il miele per tutti gli esseri viventi, e tutti gli esseri sono il miele per\nquesto sole. Quell'essere luminoso e immortale che risiede in questo sole, e\nquell'essere visivo, luminoso e immortale che risiede nell'occhio individuale:\nquesti due sono precisamente questo stesso Sé; questo è l'Immortale, questo è\nBrahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.5.5"
+        },
+        {
+          "id": "bu-2-5-6",
+          "original": "इमा दिशः सर्वेषां भूतानां\nमधु, आसां दिशां सर्वाणि भूतानि मधु; यश्चायमासु दिक्षु तेजोमयोऽमृतमयः पुरुषः,\nयश्चायमध्यात्मं श्रौत्रस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽयमात्मा, इदममृतम्,\nइदं ब्रह्म, इदं सर्वम् ॥ ६ ॥",
+          "translation": "Queste direzioni dello spazio\nsono il miele per tutti gli esseri viventi, e tutti gli esseri sono il miele per\nqueste direzioni. Quell'essere luminoso e immortale che risiede nelle direzioni,\ne quell'essere auditivo, luminoso e immortale che risiede nell'orecchio\nindividuale: questi due sono precisamente questo stesso Sé; questo è\nl'Immortale, questo è Brahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.6"
+        },
+        {
+          "id": "bu-2-5-7",
+          "original": "अयं चन्द्रः\nसर्वेषां भूतानां मधु, अस्य चन्द्रस्य सर्वाणि भूतानि मधु; यश्चायमस्मिंश्चन्द्रे\nतेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं मानसस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स\nयोऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ ७ ॥",
+          "translation": "Questa luna\nè il miele per tutti gli esseri viventi, e tutti gli esseri sono il miele per\nquesta luna. Quell'essere luminoso e immortale che risiede in questa luna, e\nquell'essere mentale, luminoso e immortale che risiede nella mente individuale:\nquesti due sono precisamente questo stesso Sé; questo è l'Immortale, questo è\nBrahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.5.7"
+        },
+        {
+          "id": "bu-2-5-8",
+          "original": "इयं विद्युत्सर्वेषां\nभूतानां मधु, अस्यै विद्युतः सर्वाणि भूतानि मधु; यश्चायमस्यां विद्युति\nतेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं तैजसस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स\nयोऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ ८ ॥",
+          "translation": "Questo\nfulmine è il miele per tutti gli esseri viventi, e tutti gli esseri sono il\nmiele per questo fulmine. Quell'essere luminoso e immortale che risiede nel\nfulmine, e quell'essere di puro splendore interiore, luminoso e immortale che\nrisiede nell'individuo: questi due sono precisamente questo stesso Sé; questo è\nl'Immortale, questo è Brahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.8"
+        },
+        {
+          "id": "bu-2-5-9",
+          "original": "अयं\nस्तनयित्नुः सर्वेषां भूतानां मधु, अस्य स्तनयित्नोः सर्वाणि भूतानि मधु;\nयश्चायमस्मिन्स्तनयित्नौ तेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं शाब्दः\nसौस्वरस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं\nसर्वम् ॥ ९ ॥",
+          "translation": "Questo tuono cosmico è il miele per tutti gli\nesseri viventi, e tutti gli esseri sono il miele per questo tuono. Quell'essere\nluminoso e immortale che risiede nel tuono, e quell'essere sonoro e timbrico,\nluminoso e immortale che risiede nella voce individuale: questi due sono\nprecisamente questo stesso Sé; questo è l'Immortale, questo è Brahman, questo è\nla totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.9"
+        },
+        {
+          "id": "bu-2-5-10",
+          "original": "अयमाकाशः सर्वेषां भूतानां मधु, अस्याकाशस्य सर्वाणि\nभूतानि मधु; यश्चायमस्मिन्नाकाशे तेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं\nहृद्याकाशस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं\nसर्वम् ॥ १० ॥",
+          "translation": "Questo spazio etereo è il miele per tutti gli\nesseri viventi, e tutti gli esseri sono il miele per questo spazio etereo.\nQuell'essere luminoso e immortale che risiede nello spazio etereo cosmico, e\nquell'essere luminoso e immortale che risiede nello spazio etereo del cuore:\nquesti due sono precisamente questo stesso Sé; questo è l'Immortale, questo è\nBrahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.5.10"
+        },
+        {
+          "id": "bu-2-5-11",
+          "original": "अयं धर्मः सर्वेषां\nभूतानां मधु, अस्य धर्मस्य सर्वाणि भूतानि मधु; यश्चायमस्मिन्धर्मे तेजोमयोऽमृतमयः\nपुरुषः, यश्चायमध्यात्मं धार्मिकस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽयमात्मा,\nइदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ ११ ॥",
+          "translation": "Questo Dharma è il\nmiele per tutti gli esseri viventi, e tutti gli esseri sono il miele per questo\nDharma. Quell'essere luminoso e immortale che risiede nel Dharma universale, e\nquell'essere che risiede nella retta condotta conforme al Dharma nell'individuo:\nquesti due sono precisamente questo stesso Sé; questo è l'Immortale, questo è\nBrahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.5.11"
+        },
+        {
+          "id": "bu-2-5-12",
+          "original": "इदं सत्यं सर्वेषां\nभूतानां मधु, अस्य सत्यस्य सर्वाणि भूतानि मधु; यश्चायमस्मिन्सत्ये तेजोमयोऽमृतमयः\nपुरुषः, यश्चायमध्यात्मं सत्यस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽयमात्मा,\nइदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ १२ ॥",
+          "translation": "Questa Verità (Satya)\nè il miele per tutti gli esseri viventi, e tutti gli esseri sono il miele per\nquesta Verità. Quell'essere luminoso e immortale che risiede nella Verità\ncosmica, e quell'essere veritiero, luminoso e immortale che risiede\nnell'individuo: questi due sono precisamente questo stesso Sé; questo è\nl'Immortale, questo è Brahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.12"
+        },
+        {
+          "id": "bu-2-5-13",
+          "original": "इदं मानुषं\nसर्वेषां भूतानां मधु, अस्य मानुषस्य सर्वाणि भूतानि मधु; यश्चायमस्मिन्मानुषे\nतेजोमयोऽमृतमयः पुरुषः, यश्चायमध्यात्मं मानुषस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स\nयोऽयमात्मा, इदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ १३ ॥",
+          "translation": "Questo\ngenere umano è il miele per tutti gli esseri viventi, e tutti gli esseri sono il\nmiele per il genere umano. Quell'essere luminoso e immortale che risiede\nnell'umanità universale, e quell'essere che risiede nella persona umana\nindividuale: questi due sono precisamente questo stesso Sé; questo è\nl'Immortale, questo è Brahman, questo è la totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.13"
+        },
+        {
+          "id": "bu-2-5-14",
+          "original": "अयमात्मा\nसर्वेषां भूतानां मधु, अस्यात्मनः सर्वाणि भूतानि मधु; यश्चायमस्मिन्नात्मनि\nतेजोमयोऽमृतमयः पुरुषः, यश्चायमात्मा तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽयमात्मा,\nइदममृतम्, इदं ब्रह्म, इदं सर्वम् ॥ १४ ॥",
+          "translation": "Questo Sé è il miele\nper tutti gli esseri viventi, e tutti gli esseri sono il miele per questo Sé.\nQuell'essere luminoso e immortale che risiede in questo Sé cosmico, e questo\nstesso Sé luminoso e immortale che risiede nell'intimo: questi due sono\nprecisamente questo stesso Sé; questo è l'Immortale, questo è Brahman, questo è\nla totalità di ogni cosa.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.14"
+        },
+        {
+          "id": "bu-2-5-15",
+          "original": "स वा अयमात्मा सर्वेषां भूतानामधिपतिः, सर्वेषां\nभूतानां राजा; तद्यथा रथनाभौ च रथप्रधौ चाराः सर्वे समर्पिताः, एवमेवास्मिन्नात्मनि\nसर्वाणि भूतानि, सर्वे देवाः, सर्वे लोकाः, सर्वे प्राणाः, सर्व एत आत्मानः\nसमर्पिताः ॥ १५ ॥",
+          "translation": "Invero questo Sé è il supremo Sovrano di\ntutti gli esseri, il Re di tutte le creature. Come tutti i raggi sono fissati\nsaldamente tra il mozzo centrale e il cerchione esterno della ruota di un carro,\nesattamente così in questo Sé supremo sono fissati e radicati tutti gli esseri\nviventi, tutte le divinità, tutti i mondi, tutti i soffi vitali e tutti questi\nsé individuali.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.15"
+        },
+        {
+          "id": "bu-2-5-16",
+          "original": "इदं वै तन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच; तदेतदृषिः\nपश्यन्नवोचत्: तद्वां नरा सनये दंस उग्रमाविष्कृणोमि तन्यतुर्न वृष्टिम्, दध्यङ् ह\nयन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाचेति ॥ १६ ॥",
+          "translation": "Questa dottrina del Miele fu annunciata da Dadhyañc Ātharvaṇa ai due gemelli\nAśvin. Scorgendo appunto questa verità, il saggio cantò: «O divini protettori\nAśvin, io rendo palese a voi quel vostro prodigioso e audace portento come il\ntuono annuncia la pioggia: quando il venerabile Dadhyañc Ātharvaṇa rivelò a voi\nla dottrina del Miele attraverso la testa di cavallo».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.16"
+        },
+        {
+          "id": "bu-2-5-17",
+          "original": "इदं वै\nतन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच; तदेतदृषिः पश्यन्नवोचत्: आथर्वणायाश्विना\nदधीचेऽश्व्यं शिरः प्रत्यैरयतम्, स वां मधु प्र वोचदृतायन्त्वाष्ट्रं\nयद्दस्रावपिकक्ष्यं वामिति ॥ १७ ॥",
+          "translation": "Questa medesima dottrina del\nMiele Dadhyañc Ātharvaṇa rivelò ai due Aśvin. Scorgendo ciò, il veggente cantò:\n«Voi, o divini Aśvin operatori di prodigi, poneste sul saggio Dadhyañc Ātharvaṇa\nun capo di cavallo; ed egli, fedele al sacro giuramento, vi rivelò la sapienza\ndel Miele che Tvaṣṭṛ gli aveva comunicato come segreto supremo».",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.17"
+        },
+        {
+          "id": "bu-2-5-18",
+          "original": "पुरश्चक्रे\nद्विपदः, पुरश्चक्रे चतुष्पदः; पुरः स पक्षी भूत्वा पुरः पुरुष आविशत् । स वा अयं\nपुरुषः सर्वासु पूर्षु पुरिशयः, नैनena किंचन नानावृतम्, नैनena किंचनासंवृतम् ।\nरूपं रूपं प्रतिरूपो बभूव, तदस्य रूपं प्रतिचक्षणाय; इन्द्रो मायाभिः पुरुरूप ईयते,\nयुक्ता ह्यस्य हरयः शता दश । अयं वै हरयः, अयं वै दश च सहस्राणि बहूनि चानन्तानि च;\nतदेतद्ब्रह्मापूर्वमनपरमनन्तरमबाह्यम्, अयमात्मा ब्रह्म सर्वानुभूः, इत्यनुशासनम् ॥\n१८ ॥",
+          "translation": "Egli formò le dimore corporee a due piedi, formò le\ndimore a quattro piedi; facendosi alato come un uccello [il soffio\ncoscienziale], il Puruṣa entrò entro queste dimore. Questo stesso Puruṣa è colui\nche risiede all'interno di tutte le dimore corporee (puriśaya); non vi è\nalcunché da cui egli sia escluso o che non sia da lui pervaso e rivestito. Egli\nsi fece forma conforme a ciascuna forma; e ciò avvenne affinché la sua natura\npotesse rendersi manifesta. Il Signore supremo (Indra), mediante le sue potenze\nd'illusione cosmica (māyā), appare multiforme; poiché a lui sono aggiogati\ncentinaia e migliaia di destrieri [gli organi sensoriali]. Egli stesso è questi\ndestrieri; egli è le decine, le migliaia, i molti e gli infiniti esseri.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.18"
+        },
+        {
+          "id": "bu-2-5-19",
+          "original": "तदेतद्ब्रह्मापूर्वमनपरमनन्तरमबाह्यम्, अयमात्मा ब्रह्म सर्वानुभूः, इत्यनुशासनम्\n॥ १९ ॥",
+          "translation": "Questo è Brahman: privo di prima (apūrva) [ossia senza\ncausa precedente], privo di poi (anapara) [ossia privo di effetto successivo],\nprivo di interno (anantara) e privo di esterno (abāhya). Questo Sé è Brahman\n(Ayam Ātmā Brahma), che fa immediata esperienza di tutto (sarvānubhūḥ). Tale è\nl'insegnamento tradizionale.",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.5.19"
+        }
+      ]
+    },
+    {
+      "section_locus": "2.6",
+      "section_title": "Vaṃśa-brāhmaṇa: Il lignaggio\ntradizionale dei maestri della dottrina del Miele",
+      "passages": [
+        {
+          "id": "bu-2-6-1",
+          "original": "अथ वंशः — पौतिमाष्यो गौपवनात्, गौपवनः पौतिमाष्यात्,\nपौतिमाष्यो गौपवनात्, गौपवनः कौशिकात्, कौशिकः कौण्डिन्यात्, कौण्डिन्यः\nशाण्डिल्यात्, शाण्डिल्यः कौशिकाच्च गौतमाच्च, गौतमः ॥ १ ॥",
+          "translation": "Ora\nla genealogia spirituale dei maestri (vaṃśa): Pautimāṣya la apprese da\nGaupavana; Gaupavana da un altro Pautimāṣya; Pautimāṣya da Gaupavana; Gaupavana\nda Kauśika; Kauśika da Kauṇḍinya; Kauṇḍinya da Śāṇḍilya; Śāṇḍilya da Kauśika e\nda Gautama; Gautama [da Āgniveśya]...",
+          "source": "Bṛhadāraṇyaka\nUpaniṣad, 2.6.1"
+        },
+        {
+          "id": "bu-2-6-2",
+          "original": "आग्निवेश्यात्, आग्निवेश्यः\nगार्ग्यात्, गार्ग्यः गार्ग्यात्, गार्ग्यः गौतमात्, गौतमः सैतवात्, सैतवः\nपाराशर्यायणात्, पाराशर्यायणः गार्ग्यायणात्, गार्ग्यायणः औद्दालकायनात्,\nऔद्दालकायनः जाबालायनात्, जाबालायनः माध्यन्दिनायनात्, माध्यन्दिनायनः सौकरायणात्,\nसौकरायणः काषायणात्, काषायणः सायकायनात्, सायकायनः कौशिकायानेः, कौशिकायानिः ॥ २\n॥",
+          "translation": "...Āgniveśya la apprese da Gārgya; Gārgya da un altro\nGārgya; questi da Gautama; Gautama da Saitava; Saitava da Pārāśaryāyaṇa;\nPārāśaryāyaṇa da Gārgyāyaṇa; Gārgyāyaṇa da Auddālakāyana; Auddālakāyana da\nJābālāyana; Jābālāyana da Mādhyandināyana; Mādhyandināyana da Saukarāyaṇa;\nSaukarāyaṇa da Kāṣāyaṇa; Kāṣāyaṇa da Sāyakāyana; Sāyakāyana da Kauśikāyāni;\nKauśikāyāni...",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.6.2"
+        },
+        {
+          "id": "bu-2-6-3",
+          "original": "घृतकौशिकात्, घृतकौशिकः पाराशर्यायणात्, पाराशर्यायणः\nपाराशर्यात्, पाराशर्यो जातूकर्ण्यात्, जातूकर्ण्य आसुरायणाच्च यास्काच्च,\nआसुरायणस्त्रैवयेः, त्रैवनिस्तौल्वलेः, तौल्वलिर्जतुकर्ण्यात्, जतुकर्ण्य आसुरेरथ\nभारद्वाजात्, भारद्वाज आत्रेयात्, आत्रेयो माण्टेः, माण्टिर्गौतमात्, गौतमो\nगौतमात्, गौतमो वात्स्यात्, वात्स्यः शाण्डिल्यात्, शाण्डिल्यः\nकैशोऱ्यात्काप्यात्, कैशोर्यः काप्यः कुमारहारितात्, कुमारहारितो गालवात्, गालवो\nविदर्भीकौण्डिन्यात्, विदर्भीकौण्डिन्यो वत्सनपातो बाभ्रवात्, वत्सनपाद्बाभ्रवः\nपन्थाः सौभरात्, पन्थाः सौभरोऽयास्यादाङ्गिरसात्, अयास्य आङ्गिरस\nआभूतेस्त्वाष्ट्रात्, आभूतिस्त्वाष्ट्रो विश्वरूपात्त्वाष्ट्रात्,\nविश्वरूपस्त्वाष्ट्रोऽश्विभ्याम्, अश्विनौ दधीच आथर्वणात्, दध्यङ्‍ङाथर्वणो दैवात्,\nदेवो मृत्योः प्राध्वंसनात्, मृत्युः प्राध्वंसनः प्रध्वंसनात्, प्रध्वंसन एकर्षेः,\nएकर्षिर्विप्रचित्तेः, विप्रचित्तिर्व्यष्टेः, व्यष्टिः सनारोः, सनारुः सनातनात्,\nसनातनः सनगात्, सनगः परमेष्ठिनः, परमेष्ठी ब्रह्मणः; ब्रह्म स्वयम्भु; ब्रह्मणे नमः\n॥ ३ ॥",
+          "translation": "...da Ghṛtakauśika; Ghṛtakauśika da Pārāśaryāyaṇa;\nPārāśaryāyaṇa da Pārāśarya; Pārāśarya da Jātūkarṇya; Jātūkarṇya da Āsurāyaṇa e\nda Yāska; Āsurāyaṇa da Traivaṇi; Traivaṇi da Taulvali; Taulvali da Jātūkarṇya;\nJātūkarṇya da Āsuri e da Bhāradvāja; Bhāradvāja da Ātreya; Ātreya da Māṇṭi;\nMāṇṭi da Gautama; Gautama da un altro Gautama; questi da Vātsya; Vātsya da\nŚāṇḍilya; Śāṇḍilya da Kaiśorya Kāpya; Kaiśorya Kāpya da Kumārahārita;\nKumārahārita da Gālava; Gālava da Vidarbhīkauṇḍinya; Vidarbhīkauṇḍinya da\nVatsanapāt Bābhrava; questi da Panthās Saubhara; Panthās Saubhara da Ayāsya\nĀṅgirasa; Ayāsya Āṅgirasa da Ābhūti Tvāṣṭra; Ābhūti Tvāṣṭra da Viśvarūpa\nTvāṣṭra; Viśvarūpa Tvāṣṭra dai gemelli Aśvin; gli Aśvin dal saggio Dadhyañc\nĀtharvaṇa; Dadhyañc Ātharvaṇa da Daiva; Daiva da Mṛtyu Prādhvaṃsana; Mṛtyu\nPrādhvaṃsana da Pradhvaṃsana; Pradhvaṃsana da Ekarṣi; Ekarṣi da Vipracitti;\nVipracitti da Vyaṣṭi; Vyaṣṭi da Sanāru; Sanāru da Sanātana; Sanātana da Sanaga;\nSanaga da Parameṣṭhin (il Demiurgo ordinatore); Parameṣṭhin da Brahman. Brahman\nè l'Autosussistente increato (svayambhū). Omaggio a Brahman!",
+          "source": "Bṛhadāraṇyaka Upaniṣad, 2.6.3"
+        }
+      ]
+    }
+  ]
+}

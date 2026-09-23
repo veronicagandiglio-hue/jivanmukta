@@ -1,0 +1,20 @@
+{
+  "id": "q-bu-natura-sacrificio-cosmico",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato della trasposizione cosmica\ndel rito dell'Aśvamedha?",
+  "problem": "Il testo allontana la comprensione\ndell'atto sacrificale dalla sua esecuzione esteriore, imponendo una visione\ninteriore in cui il cosmo intero è riconosciuto come l'unico vero corpo\nsacrificale.",
+  "concepts": [
+    "ashvamedha",
+    "upasana",
+    "prajapati"
+  ],
+  "passages": [
+    "bu-1-1-1",
+    "bu-1-1-2",
+    "bu-1-2-7"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

@@ -1,4 +1,23 @@
 {
+  "abhaya": {
+    "id": "abhaya",
+    "name": "Abhaya",
+    "transliteration": "abhaya",
+    "gloss": "La totale Assenza di\nPaura: stato metafisico supremo coincidente con la Liberazione e la\nrealizzazione non-duale di Brahman. Poiché il timore presuppone l'illusione di\nuna seconda realtà esterna minacciosa, la dissoluzione della dualità estingue\nper sempre ogni paura.",
+    "passages": [
+      "bu-4-2-4",
+      "bu-4-4-25"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "neti-neti"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/abhaya.json"
+  },
   "acarya": {
     "id": "acarya",
     "name": "Ācārya",
@@ -53,6 +72,59 @@
     ],
     "source_file": "concepts/adhyatma-yoga.json"
   },
+  "adrsto-drasta": {
+    "id": "adrsto-drasta",
+    "name": "Adṛṣṭo Draṣṭā",
+    "transliteration": "adṛṣṭo draṣṭā",
+    "gloss": "«L'Invisibile\nVeggente»: la qualifica suprema della Coscienza pura che, pur essendo il\nsoggetto testimoniale assoluto di ogni atto cognitivo, non può in alcun modo\nessere oggettivata o percepita da facoltà esterne.",
+    "passages": [
+      "bu-3-7-23",
+      "bu-3-8-11"
+    ],
+    "related_concepts": [
+      "atman",
+      "antaryamin"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/adrsto-drasta.json"
+  },
+  "advaita-drashta": {
+    "id": "advaita-drashta",
+    "name": "Advaita Draṣṭā",
+    "transliteration": "advaita draṣṭā",
+    "gloss": "Il Veggente non-duale: la\ncondizione assoluta in cui l'Ātman risplende nella sua solitudine oceanica e\nlimpida, privo di alterità oggettiva, coincidente con la beatitudine di\nBrahman.",
+    "passages": [
+      "bu-4-3-32"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "parama-ananda"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/advaita-drashta.json"
+  },
+  "aham-brahmasmi": {
+    "id": "aham-brahmasmi",
+    "name": "Aham Brahmāsmi",
+    "transliteration": "aham brahmāsmi",
+    "gloss": "«Io sono Brahman»: la grande sentenza upaniṣadica (mahāvākya) che\nesprime l'identità metafisica immediata e assoluta tra il Sé interiore e la\nRealtà trascendente universale.",
+    "passages": [
+      "bu-1-4-10"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/aham-brahmasmi.json"
+  },
   "ahara-suddhi": {
     "id": "ahara-suddhi",
     "name": "Āhāra-śuddhi",
@@ -67,6 +139,23 @@
     ],
     "authors": [],
     "source_file": "concepts/ahara-suddhi.json"
+  },
+  "ahinirlvayani": {
+    "id": "ahinirlvayani",
+    "name": "Ahinirlvayanī",
+    "transliteration": "ahinirlvayanī",
+    "gloss": "La spoglia o muta\ndel serpente: classica analogia upaniṣadica per descrivere il corpo fisico\nabbandonato dal liberato, che rimane distaccato dalla materia e risplende come\npura Luce incorporea.",
+    "passages": [
+      "bu-4-4-7"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahmaiva-san-brahmapyeti"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/ahinirlvayani.json"
   },
   "akasa": {
     "id": "akasa",
@@ -119,6 +208,27 @@
     "authors": [],
     "source_file": "concepts/alpa.json"
   },
+  "amrtatva": {
+    "id": "amrtatva",
+    "name": "Amṛtatva",
+    "transliteration": "amṛtatva",
+    "gloss": "L'immortalità o liberazione incondizionata, stato metafisico che non può essere\nacquistato né prodotto mediante la ricchezza terrena o le azioni rituali\n(karma), ma scaturisce esclusivamente dalla retta conoscenza del Sé.",
+    "passages": [
+      "bu-2-4-2",
+      "bu-2-4-3",
+      "bu-4-5-3",
+      "bu-4-5-4",
+      "bu-4-5-15"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/amrtatva.json"
+  },
   "animan": {
     "id": "animan",
     "name": "Aṇiman (L'Essenza sottilissima)",
@@ -153,6 +263,30 @@
     "authors": [],
     "source_file": "concepts/annamaya-manas.json"
   },
+  "antaryamin": {
+    "id": "antaryamin",
+    "name": "Antaryāmin",
+    "transliteration": "antaryāmin",
+    "gloss": "L'Ordinatore intimo o Reggitore interno: l'Ātman supremo\nche dimora all'interno di tutti gli elementi cosmici e delle facoltà individuali\nconsiderandoli come proprio corpo ma rimanendone assolutamente trascendente e\nincorrotto.",
+    "passages": [
+      "bu-3-7-1",
+      "bu-3-7-2",
+      "bu-3-7-3",
+      "bu-3-7-14",
+      "bu-3-7-15",
+      "bu-3-7-22",
+      "bu-3-7-23"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "sutratman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/antaryamin.json"
+  },
   "apaddharma": {
     "id": "apaddharma",
     "name": "Āpaddharma",
@@ -168,6 +302,25 @@
     "authors": [],
     "source_file": "concepts/apaddharma.json"
   },
+  "asanga-purusa": {
+    "id": "asanga-purusa",
+    "name": "Asaṅga",
+    "transliteration": "asaṅga",
+    "gloss": "La totale libertà o assenza di adesione ontologica: il\nPuruṣa sperimenta la veglia, il sogno e il sonno senza che alcuna impressione o\nazione fenomenica possa intaccare la sua purezza originaria.",
+    "passages": [
+      "bu-4-3-14",
+      "bu-4-3-15",
+      "bu-4-3-17",
+      "bu-4-3-18"
+    ],
+    "related_concepts": [
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/asanga-purusa.json"
+  },
   "asariira": {
     "id": "asariira",
     "name": "Aśarīra (L'Incorporeo)",
@@ -182,6 +335,25 @@
     ],
     "authors": [],
     "source_file": "concepts/asariira.json"
+  },
+  "ashvamedha": {
+    "id": "ashvamedha",
+    "name": "Aśvamedha",
+    "transliteration": "aśvamedha",
+    "gloss": "Il\nsupremo sacrificio vedico del cavallo, interpretato dalla dottrina iniziatica\ncome offerta e riassorbimento dell'intera totalità fenomenica nel suo principio\ncausale.",
+    "passages": [
+      "bu-1-1-1",
+      "bu-1-1-2",
+      "bu-1-2-7"
+    ],
+    "related_concepts": [
+      "upasana",
+      "prajapati"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/ashvamedha.json"
   },
   "asura-vidya": {
     "id": "asura-vidya",
@@ -245,6 +417,26 @@
     "authors": [],
     "source_file": "concepts/ativadin.json"
   },
+  "ativimukti": {
+    "id": "ativimukti",
+    "name": "Ativimukti",
+    "transliteration": "ativimukti",
+    "gloss": "La suprema liberazione\noltre i vincoli temporali del rito, della morte biologica e dell'alternanza\ngiorno-notte, attuata mediante l'interiorizzazione meditativa del sacrificio\ncosmico.",
+    "passages": [
+      "bu-3-1-3",
+      "bu-3-1-4",
+      "bu-3-1-5",
+      "bu-3-1-6"
+    ],
+    "related_concepts": [
+      "mrtyu",
+      "upasana"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/ativimukti.json"
+  },
   "atma-han": {
     "id": "atma-han",
     "name": "Ātmahan",
@@ -289,6 +481,43 @@
     ],
     "source_file": "concepts/atman.json"
   },
+  "ato-nyad-artam": {
+    "id": "ato-nyad-artam",
+    "name": "Ato 'nyad\nĀrtam",
+    "transliteration": "ato 'nyad ārtam",
+    "gloss": "«Tutto ciò che è diverso\nda Esso è perituro e sofferenza»: formula cardinale dell'ontologia non-duale che\ndecreta l'inconsistenza, la natura effimera e la fallacia di qualunque realtà\noggettiva esteriore al Sé.",
+    "passages": [
+      "bu-3-4-2",
+      "bu-3-5-1",
+      "bu-3-7-23"
+    ],
+    "related_concepts": [
+      "atman",
+      "mrtyu"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/ato-nyad-artam.json"
+  },
+  "aupanisada-purusa": {
+    "id": "aupanisada-purusa",
+    "name": "Aupaniṣada\nPuruṣa",
+    "transliteration": "aupaniṣada puruṣa",
+    "gloss": "L'Essere o Sé\ntrascendente che può essere conosciuto esclusivamente mediante la rivelazione\ninteriore delle Upaniṣad, sorgente e riassorbimento di tutte le manifestazioni\ncosmiche e individuali.",
+    "passages": [
+      "bu-3-9-26"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman",
+      "neti-neti"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/aupanisada-purusa.json"
+  },
   "avasthatraya": {
     "id": "avasthatraya",
     "name": "Avasthātraya (L'esame dei tre stati)",
@@ -328,6 +557,74 @@
       "adi-shankara"
     ],
     "source_file": "concepts/avidya.json"
+  },
+  "avinashi-anucchitti": {
+    "id": "avinashi-anucchitti",
+    "name": "Avināśī Anucchittidharmā",
+    "transliteration": "avināśī anucchittidharmā",
+    "gloss": "«Indistruttibile e di natura\nincorruttibile»: la solenne qualificazione dell'Ātman che dissipa lo smarrimento\ndi Maitreyī, provando che la cessazione della coscienza oggettuale dopo la morte\nnon è annientamento del Sé, bensì il disvelamento della sua natura imperitura.",
+    "passages": [
+      "bu-4-5-14"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "vijnanaghana"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/avinashi-anucchitti.json"
+  },
+  "ayam-atma-brahma": {
+    "id": "ayam-atma-brahma",
+    "name": "Ayam Ātmā Brahma",
+    "transliteration": "ayam ātmā brahma",
+    "gloss": "«Questo Sé è Brahman»: la\ngrande sentenza upaniṣadica (mahāvākya) che stabilisce senza alcuna mediazione\nesteriore l'identità assoluta tra il Sé interiore immediato e l'Assoluto\ntrascendente.",
+    "passages": [
+      "bu-2-5-19"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/ayam-atma-brahma.json"
+  },
+  "balya-panditya-mauna": {
+    "id": "balya-panditya-mauna",
+    "name": "Bālya, Pāṇḍitya e\nMauna",
+    "transliteration": "bālya-pāṇḍitya-mauna",
+    "gloss": "La disciplina\nprogressiva della realizzazione: il superamento dell'erudizione accademica\n(pāṇḍitya), l'approdo alla purezza spontanea priva di vanità (bālya), e il\nsilenzio contemplativo meditativo (mauna) che culmina nello stato di vero\nbrāhmaṇa.",
+    "passages": [
+      "bu-3-5-1"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/balya-panditya-mauna.json"
+  },
+  "bhaya": {
+    "id": "bhaya",
+    "name": "Bhaya",
+    "transliteration": "bhaya",
+    "gloss": "Il timore ontologico che nasce\ndall'illusione della dualità; non può esservi paura dove non è concepita\nl'esistenza di un altro da sé.",
+    "passages": [
+      "bu-1-4-2"
+    ],
+    "related_concepts": [
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/bhaya.json"
   },
   "bhuman": {
     "id": "bhuman",
@@ -387,6 +684,24 @@
       "adi-shankara"
     ],
     "source_file": "concepts/brahma-vidya.json"
+  },
+  "brahmaiva-san-brahmapyeti": {
+    "id": "brahmaiva-san-brahmapyeti",
+    "name": "Brahmaiva San Brahmāpyeti",
+    "transliteration": "brahmaiva san\nbrahmāpyeti",
+    "gloss": "«Essendo già Brahman, egli accede a Brahman»: il\nprincipio advaitico fondamentale per cui la liberazione (mokṣa) non è una nuova\nacquisizione temporale né un mutamento di stato, ma la pura riscoperta della\npropria identità eterna sempre presente, non appena cadono i desideri\nindividualizzanti.",
+    "passages": [
+      "bu-4-4-6"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "abhaya"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/brahmaiva-san-brahmapyeti.json"
   },
   "brahman": {
     "id": "brahman",
@@ -516,6 +831,24 @@
     "authors": [],
     "source_file": "concepts/dahara-vidya.json"
   },
+  "dama-dana-daya": {
+    "id": "dama-dana-daya",
+    "name": "Dama, Dāna e Dayā",
+    "transliteration": "dama-dāna-dayā",
+    "gloss": "La triplice\nradice dell'etica tradizionale vedica: autocontrollo interiore per le tendenze\nsuperiori divine esposte all'ebbrezza, dono generoso per la bramosia umana, e\ncompassione misericordiosa per la violenza demoniaca.",
+    "passages": [
+      "bu-5-2-1",
+      "bu-5-2-2",
+      "bu-5-2-3"
+    ],
+    "related_concepts": [
+      "dharma"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/dama-dana-daya.json"
+  },
   "deva-abhimana": {
     "id": "deva-abhimana",
     "name": "Devābhimāna",
@@ -553,6 +886,24 @@
     "authors": [],
     "source_file": "concepts/devayana.json"
   },
+  "dharma": {
+    "id": "dharma",
+    "name": "Dharma",
+    "transliteration": "dharma",
+    "gloss": "L'ordine normativo universale, principio\ndi giustizia e verità oggettiva che regge il cosmo e la società, sovrano su ogni\nautorità contingente e identico a Satya.",
+    "passages": [
+      "bu-1-4-14",
+      "bu-2-5-11"
+    ],
+    "related_concepts": [
+      "sat-asat",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/dharma.json"
+  },
   "dharmaskandha": {
     "id": "dharmaskandha",
     "name": "Dharmaskandha",
@@ -581,6 +932,42 @@
     ],
     "authors": [],
     "source_file": "concepts/dhyana.json"
+  },
+  "dristeh-drasta": {
+    "id": "dristeh-drasta",
+    "name": "Dṛṣṭer Draṣṭā",
+    "transliteration": "dṛṣṭer draṣṭā",
+    "gloss": "«Il Veggente della vista»: il\nprincipio coscienziale immutabile che illumina e rende possibile l'atto visivo\nempirico, ma che non può mai divenire un oggetto percepibile dalla vista.",
+    "passages": [
+      "bu-3-4-2"
+    ],
+    "related_concepts": [
+      "atman",
+      "sarvantara"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/dristeh-drasta.json"
+  },
+  "dristir-avinashini": {
+    "id": "dristir-avinashini",
+    "name": "Dṛṣṭer Avināśitvam",
+    "transliteration": "dṛṣṭer\navināśitvam",
+    "gloss": "L'imperituro atto del vedere: la natura intrinseca della\nCoscienza testimoniale che non viene mai meno neppure nel sonno profondo;\nl'apparente assenza di visione è dovuta unicamente all'assenza di un secondo\noggetto esteriore da percepire.",
+    "passages": [
+      "bu-4-3-23",
+      "bu-4-3-30",
+      "bu-4-3-31"
+    ],
+    "related_concepts": [
+      "atman",
+      "advaita-drashta"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/dristir-avinashini.json"
   },
   "dva-suparna": {
     "id": "dva-suparna",
@@ -618,6 +1005,28 @@
     "authors": [],
     "source_file": "concepts/ekamevadvitiyam.json"
   },
+  "ekapad-brahma": {
+    "id": "ekapad-brahma",
+    "name": "Ekapād Brahma",
+    "transliteration": "ekapād brahma",
+    "gloss": "La concezione parziale o 'con un solo piede' di Brahman: comprensione\nprovvisoria che identifica l'Assoluto con una singola facoltà empirica (parola,\nrespiro, vista, udito, mente, cuore) ignorandone la dimora, il fondamento\nuniversale e la trascendenza.",
+    "passages": [
+      "bu-4-1-2",
+      "bu-4-1-3",
+      "bu-4-1-4",
+      "bu-4-1-5",
+      "bu-4-1-6",
+      "bu-4-1-7"
+    ],
+    "related_concepts": [
+      "brahman",
+      "neti-neti"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/ekapad-brahma.json"
+  },
   "ekatva": {
     "id": "ekatva",
     "name": "Ekatva",
@@ -637,6 +1046,106 @@
       "adi-shankara"
     ],
     "source_file": "concepts/ekatva.json"
+  },
+  "esana-traya": {
+    "id": "esana-traya",
+    "name": "Eṣaṇā-traya",
+    "transliteration": "eṣaṇā-traya",
+    "gloss": "La triplice bramosia mondana che incatena l'individuo: desiderio di\nprole (putraiṣaṇā), di ricchezza (vittaiṣaṇā) e di esistenze celesti\n(lokaiṣaṇā), superata unicamente dalla rinuncia interiore (saṃnyāsa).",
+    "passages": [
+      "bu-3-5-1"
+    ],
+    "related_concepts": [
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/esana-traya.json"
+  },
+  "graha-atigraha": {
+    "id": "graha-atigraha",
+    "name": "Graha e\nAtigraha",
+    "transliteration": "graha-atigraha",
+    "gloss": "La struttura del\nvincolo fenomenico: gli otto organi recettori e motori ('graha', ciò che\nafferra) e i rispettivi stimoli od oggetti esterni ('atigraha', ciò che domina e\ntiene avvinto l'organo), generatori della catena del saṃsāra.",
+    "passages": [
+      "bu-3-2-1",
+      "bu-3-2-2",
+      "bu-3-2-3",
+      "bu-3-2-4",
+      "bu-3-2-5",
+      "bu-3-2-6",
+      "bu-3-2-7",
+      "bu-3-2-8",
+      "bu-3-2-9"
+    ],
+    "related_concepts": [
+      "karma-legge",
+      "mrtyu"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/graha-atigraha.json"
+  },
+  "hiranmaya-patra": {
+    "id": "hiranmaya-patra",
+    "name": "Hiraṇmaya-pātra",
+    "transliteration": "hiraṇmaya-pātra",
+    "gloss": "Il velo o coppa d'oro abbagliante: il disco solare\nsensibile che con il suo splendore fenomenico nasconde il volto trascendente\ndella Verità suprema agli occhi dell'uomo ordinario.",
+    "passages": [
+      "bu-5-15-1"
+    ],
+    "related_concepts": [
+      "satya-brahman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/hiranmaya-patra.json"
+  },
+  "hita-nadis": {
+    "id": "hita-nadis",
+    "name": "Hitā Nāḍī",
+    "transliteration": "hitā nāḍī",
+    "gloss": "La rete dei settantaduemila canali\nsottili che congiungono il centro del cuore al pericardio e alla periferia\ncorporea, veicoli di circolazione del prāṇa e della mente tra veglia e sonno.",
+    "passages": [
+      "bu-2-1-19"
+    ],
+    "related_concepts": [
+      "susupti",
+      "prana"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/hita-nadis.json"
+  },
+  "hrdaya-centro": {
+    "id": "hrdaya-centro",
+    "name": "Hṛdaya",
+    "transliteration": "hṛdaya",
+    "gloss": "Il centro coscienziale intimo (il Cuore) in cui convergono, trovano radice e si\nunificano tutte le coordinate dello spazio, le funzioni percettive, le divinità\ne la verità etico-religiosa.",
+    "passages": [
+      "bu-3-9-19",
+      "bu-3-9-20",
+      "bu-3-9-21",
+      "bu-3-9-22",
+      "bu-3-9-23",
+      "bu-3-9-24",
+      "bu-4-1-7",
+      "bu-4-2-3",
+      "bu-5-3-1",
+      "bu-5-6-1"
+    ],
+    "related_concepts": [
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/hrdaya-centro.json"
   },
   "hridaya-granthi": {
     "id": "hridaya-granthi",
@@ -681,6 +1190,24 @@
     ],
     "source_file": "concepts/hridaya-guha.json"
   },
+  "indha-viraj": {
+    "id": "indha-viraj",
+    "name": "Indha e Virāj",
+    "transliteration": "indha-virāj",
+    "gloss": "La duplice polarità coscienziale immanente negli organi visivi (la\ncoscienza radiante dell'occhio destro e la manifestazione riflessa dell'occhio\nsinistro), che si ricongiunge nell'etere interiore del cuore nello stato\nsottile.",
+    "passages": [
+      "bu-4-2-2",
+      "bu-4-2-3"
+    ],
+    "related_concepts": [
+      "atman",
+      "hrdaya-centro"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/indha-viraj.json"
+  },
   "isha": {
     "id": "isha",
     "name": "Īśa",
@@ -700,6 +1227,24 @@
       "adi-shankara"
     ],
     "source_file": "concepts/isha.json"
+  },
+  "jatakarma": {
+    "id": "jatakarma",
+    "name": "Jātakarma",
+    "transliteration": "jātakarma",
+    "gloss": "Il rito sacro di\naccoglienza del neonato: il padre accoglie il bambino sul grembo, offre\noblazioni al fuoco, gli fa assaggiare la goccia d'oro con miele e burro e gli\nsussurra il nome segreto 'Tu sei il Veda'.",
+    "passages": [
+      "bu-6-4-24",
+      "bu-6-4-25",
+      "bu-6-4-26"
+    ],
+    "related_concepts": [
+      "putramantha"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/jatakarma.json"
   },
   "jivanmukti": {
     "id": "jivanmukti",
@@ -737,6 +1282,23 @@
     "authors": [],
     "source_file": "concepts/jyotis-interiore.json"
   },
+  "jyotis-tamas": {
+    "id": "jyotis-tamas",
+    "name": "Jyotis e Tamas",
+    "transliteration": "jyotis-tamas",
+    "gloss": "Luce metafisica della coscienza e della conoscenza liberatrice\n(jyotis) in contrapposizione all'oscurità interiore dell'ignoranza e della\nservitù fenomenica (tamas).",
+    "passages": [
+      "bu-1-3-28"
+    ],
+    "related_concepts": [
+      "sat-asat",
+      "mrtyu"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/jyotis-tamas.json"
+  },
   "jyotis-uttama": {
     "id": "jyotis-uttama",
     "name": "Suprema Luce (Jyotir uttamam)",
@@ -767,6 +1329,29 @@
     "authors": [],
     "source_file": "concepts/ka-kham.json"
   },
+  "kama": {
+    "id": "kama",
+    "name": "Kāma",
+    "transliteration": "kāma",
+    "gloss": "Il desiderio o tensione volitiva originaria\nche determina l'uscita dalla condizione causale indifferenziata verso la\nproiezione e l'articolazione di corpi, mondi e oggetti.",
+    "passages": [
+      "bu-1-2-1",
+      "bu-1-2-4",
+      "bu-1-2-6",
+      "bu-1-2-7",
+      "bu-1-4-3",
+      "bu-1-4-15",
+      "bu-1-4-17"
+    ],
+    "related_concepts": [
+      "mrtyu",
+      "prajapati"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/kama.json"
+  },
   "karma-e-sacrificio": {
     "id": "karma-e-sacrificio",
     "name": "Karma e Yajña",
@@ -786,6 +1371,26 @@
       "angiras"
     ],
     "source_file": "concepts/karma-e-sacrificio.json"
+  },
+  "karma-legge": {
+    "id": "karma-legge",
+    "name": "Karma",
+    "transliteration": "karma",
+    "gloss": "La legge universale e\nimpersonale di causa-effetto etico-ontologico che regge le reincarnazioni\ndell'anima empirica finché non interviene la conoscenza liberatrice\ndell'Ātman.",
+    "passages": [
+      "bu-3-2-13",
+      "bu-4-4-2",
+      "bu-4-4-5",
+      "bu-4-4-6"
+    ],
+    "related_concepts": [
+      "graha-atigraha",
+      "punar-mrtyu"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/karma-legge.json"
   },
   "karman": {
     "id": "karman",
@@ -807,6 +1412,23 @@
     ],
     "source_file": "concepts/karman.json"
   },
+  "kripana": {
+    "id": "kripana",
+    "name": "Kṛpaṇa",
+    "transliteration": "kṛpaṇa",
+    "gloss": "«Il\nmeschino» o indigente spirituale: colui che consuma la propria esistenza\nnell'accumulo di meriti rituali ed esteriori transitori, giungendo alla morte\nsenza aver risvegliato la conoscenza liberatrice dell'Imperituro.",
+    "passages": [
+      "bu-3-8-10"
+    ],
+    "related_concepts": [
+      "aksara",
+      "mrtyu"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/kripana.json"
+  },
   "liberazione": {
     "id": "liberazione",
     "passages": [
@@ -815,6 +1437,28 @@
       "aitareya-3-1-4"
     ],
     "source_file": "concepts/liberazione.json"
+  },
+  "madhu-vidya": {
+    "id": "madhu-vidya",
+    "name": "Madhu-vidyā",
+    "transliteration": "madhu-vidyā",
+    "gloss": "La contemplazione\nmetafisica del Miele, secondo cui ciascuna realtà macrocosmica e microcosmica si\ntrova in uno stato di cooperazione organica, nutrimento scambievole e\ncoincidenza non-duale nel Sé universale.",
+    "passages": [
+      "bu-2-5-1",
+      "bu-2-5-14",
+      "bu-2-5-15",
+      "bu-2-5-16",
+      "bu-2-5-17"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "ayam-atma-brahma"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/madhu-vidya.json"
   },
   "madhuvidya": {
     "id": "madhuvidya",
@@ -881,6 +1525,23 @@
     "authors": [],
     "source_file": "concepts/mantravid-vs-atmavid.json"
   },
+  "maya": {
+    "id": "maya",
+    "name": "Māyā",
+    "transliteration": "māyā",
+    "gloss": "La potenza\ncausale d'infinita proiezione e differenziazione attraverso cui l'unico\nPrincipio coscienziale, pur rimanendo immutato e indiviso, appare moltiplicato\nnella pluralità innumerevole delle forme fenomeniche.",
+    "passages": [
+      "bu-2-5-18"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/maya.json"
+  },
   "moksha-amritatva": {
     "id": "moksha-amritatva",
     "name": "Mokṣa e Amṛtatva",
@@ -902,6 +1563,75 @@
       "yama"
     ],
     "source_file": "concepts/moksha-amritatva.json"
+  },
+  "mrtyu": {
+    "id": "mrtyu",
+    "name": "Mṛtyu",
+    "transliteration": "mṛtyu",
+    "gloss": "Il\nprincipio di finitezza, dissoluzione e fame insaziabile (aśanāyā) che\ncaratterizza la condizione causale non ancora manifestata della molteplicità e\nl'inevitabile perit космиicità delle forme.",
+    "passages": [
+      "bu-1-2-1",
+      "bu-1-2-4",
+      "bu-1-2-5",
+      "bu-1-2-7",
+      "bu-1-3-7",
+      "bu-1-3-9",
+      "bu-1-3-10",
+      "bu-1-3-11",
+      "bu-1-3-12",
+      "bu-1-3-13",
+      "bu-1-3-14",
+      "bu-1-3-15",
+      "bu-1-3-16",
+      "bu-1-3-28",
+      "bu-1-5-2",
+      "bu-1-5-21",
+      "bu-1-5-23",
+      "bu-2-3-1",
+      "bu-2-3-2",
+      "bu-2-3-4",
+      "bu-3-1-3",
+      "bu-3-2-10",
+      "bu-3-3-2",
+      "bu-3-5-1",
+      "bu-3-9-14",
+      "bu-3-9-28",
+      "bu-5-5-2",
+      "bu-5-9-1",
+      "bu-5-10-1",
+      "bu-5-11-1",
+      "bu-5-15-3"
+    ],
+    "related_concepts": [
+      "prajapati",
+      "kama"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/mrtyu.json"
+  },
+  "murta-amurta": {
+    "id": "murta-amurta",
+    "name": "Mūrta e Amūrta",
+    "transliteration": "mūrta-amūrta",
+    "gloss": "La duplice modalità fenomenica\n(corporea/densa e incorporea/sottile) con cui l'Assoluto appare condizionato\nattraverso la sovrapposizione universale degli elementi cosmici grossolani e\nsottili.",
+    "passages": [
+      "bu-2-3-1",
+      "bu-2-3-2",
+      "bu-2-3-3",
+      "bu-2-3-4",
+      "bu-2-3-5"
+    ],
+    "related_concepts": [
+      "brahman",
+      "neti-neti",
+      "sat-asat"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/murta-amurta.json"
   },
   "nadi": {
     "id": "nadi",
@@ -934,6 +1664,65 @@
     ],
     "authors": [],
     "source_file": "concepts/namarupa-nirvahita.json"
+  },
+  "namarupa": {
+    "id": "namarupa",
+    "name": "Nāmarūpa",
+    "transliteration": "nāmarūpa",
+    "gloss": "«Nome e forma»: il principio di individuazione e di determinazione fenomenica\nattraverso cui l'indifferenziato primordiale si esprime nella molteplicità\nintelligibile e visibile.",
+    "passages": [
+      "bu-1-4-7",
+      "bu-1-6-1",
+      "bu-1-6-2",
+      "bu-1-6-3"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/namarupa.json"
+  },
+  "neha-nanasti-kimcana": {
+    "id": "neha-nanasti-kimcana",
+    "name": "Neha Nānāsti Kiṃcana",
+    "transliteration": "neha\nnānāsti kiṃcana",
+    "gloss": "«Qui non sussiste alcuna molteplicità»: la recisa\nnegazione ontologica di qualsiasi frammentazione, pluralità o alterità reale\nnell'Assoluto; chi percepisce la molteplicità come reale è condannato a\nperpetuare il ciclo della morte.",
+    "passages": [
+      "bu-4-4-19"
+    ],
+    "related_concepts": [
+      "brahman",
+      "neti-neti"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/neha-nanasti-kimcana.json"
+  },
+  "neti-neti": {
+    "id": "neti-neti",
+    "name": "Neti Neti",
+    "transliteration": "neti neti",
+    "gloss": "«Non così, non così»: la suprema\nistruzione apofatica del Vedānta che, negando ogni sovrapposizione formale,\nattributo concettuale o determinazione finita (sia mūrta che amūrta), dischiude\nintuitivamente l'essenza incondizionata del Sé.",
+    "passages": [
+      "bu-2-3-6",
+      "bu-3-9-26",
+      "bu-4-2-4",
+      "bu-4-4-22",
+      "bu-4-5-15"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman",
+      "satyasya-satyam"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/neti-neti.json"
   },
   "om-pranava": {
     "id": "om-pranava",
@@ -989,6 +1778,28 @@
     "authors": [],
     "source_file": "concepts/pancagni-vidya.json"
   },
+  "papman": {
+    "id": "papman",
+    "name": "Pāpman",
+    "transliteration": "pāpman",
+    "gloss": "Il male\nmetafisico inteso come inclinazione egoica individuale (rāga e dveṣa), derivante\ndall'ignoranza fondamentale che spinge gli organi percettivi a ricercare il\nproprio compiacimento separato.",
+    "passages": [
+      "bu-1-3-2",
+      "bu-1-3-3",
+      "bu-1-3-4",
+      "bu-1-3-5",
+      "bu-1-3-6",
+      "bu-1-3-7",
+      "bu-1-3-10"
+    ],
+    "related_concepts": [
+      "mrtyu"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/papman.json"
+  },
   "para-e-apara-vidya": {
     "id": "para-e-apara-vidya",
     "name": "Parā e Aparā Vidyā",
@@ -1010,6 +1821,65 @@
     ],
     "source_file": "concepts/para-e-apara-vidya.json"
   },
+  "parama-ananda": {
+    "id": "parama-ananda",
+    "name": "Parama Ānanda",
+    "transliteration": "parama ānanda",
+    "gloss": "La Beatitudine suprema incondizionata: l'oceano infinito di pienezza\nproprio di Brahman di cui tutti i piaceri umani, ancestrali e celesti\ncostituiscono unicamente particelle frammentarie (mātrā).",
+    "passages": [
+      "bu-4-3-32",
+      "bu-4-3-33"
+    ],
+    "related_concepts": [
+      "brahman",
+      "advaita-drashta"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/parama-ananda.json"
+  },
+  "parama-tapas": {
+    "id": "parama-tapas",
+    "name": "Paramaṃ Tapaḥ",
+    "transliteration": "paramaṃ tapaḥ",
+    "gloss": "L'ascesi suprema:\nla trasmutazione spirituale che assume la sofferenza della malattia corporea, il\ncorteo funebre e la consumazione della pira come atti coscienti di purificazione\nsacrificale, spogliando la morte della sua fatalità passiva.",
+    "passages": [
+      "bu-5-11-1"
+    ],
+    "related_concepts": [
+      "mrtyu"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/parama-tapas.json"
+  },
+  "parampara": {
+    "id": "parampara",
+    "name": "Paramparā",
+    "transliteration": "paramparā",
+    "gloss": "La catena ininterrotta di\ntrasmissione tradizionale della conoscenza salvifica (guruparamparā), che ancora\nla dottrina non all'opinione individuale ma alla rivelazione originaria\ndell'Assoluto autosussistente (Brahman Svayambhū).",
+    "passages": [
+      "bu-2-6-1",
+      "bu-2-6-2",
+      "bu-2-6-3",
+      "bu-4-6-1",
+      "bu-4-6-2",
+      "bu-4-6-3",
+      "bu-6-5-1",
+      "bu-6-5-2",
+      "bu-6-5-3",
+      "bu-6-5-4"
+    ],
+    "related_concepts": [
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/parampara.json"
+  },
   "pitriyana-e-devayana": {
     "id": "pitriyana-e-devayana",
     "name": "Pitṛyāṇa e Devayāna",
@@ -1028,6 +1898,24 @@
       "pippalada"
     ],
     "source_file": "concepts/pitriyana-e-devayana.json"
+  },
+  "pitriyana": {
+    "id": "pitriyana",
+    "name": "Pitṛyāna",
+    "transliteration": "pitṛyāna",
+    "gloss": "La Via dei padri o sentiero lunare del fumo: il percorso\nciclico post-mortem percorso da chi compie sacrifici e meriti esteriori; una\nvolta consumato il frutto del karma nelle sfere lunari, l'anima ridiscende sulla\nterra per una nuova incarnazione.",
+    "passages": [
+      "bu-6-2-2",
+      "bu-6-2-16"
+    ],
+    "related_concepts": [
+      "karma-legge",
+      "devayana"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/pitriyana.json"
   },
   "pitryana": {
     "id": "pitryana",
@@ -1101,6 +1989,25 @@
     "authors": [],
     "source_file": "concepts/prana-samvada.json"
   },
+  "prana-vidya": {
+    "id": "prana-vidya",
+    "name": "Prāṇa-vidyā",
+    "transliteration": "prāṇa-vidyā",
+    "gloss": "La dottrina e\ncontemplazione dell'energia vitale primordiale (Prāṇa) come principio supremo\ncapace di rigenerare e far rifiorire persino la materia disseccata, ristabilendo\nla pienezza ontologica nel microcosmo e nel macrocosmo.",
+    "passages": [
+      "bu-6-3-4",
+      "bu-6-3-7",
+      "bu-6-3-12"
+    ],
+    "related_concepts": [
+      "prana",
+      "mantha"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/prana-vidya.json"
+  },
   "prana": {
     "id": "prana",
     "name": "Prāṇa",
@@ -1164,6 +2071,23 @@
     ],
     "source_file": "concepts/pranava.json"
   },
+  "prasasana": {
+    "id": "prasasana",
+    "name": "Praśāsana",
+    "transliteration": "praśāsana",
+    "gloss": "L'ordinamento sovrano, legge metafisica immutabile sotto\nla cui silenziosa presenza le costanti cosmiche, i cicli temporali e i doveri\netici conservano la propria perfetta regolarità.",
+    "passages": [
+      "bu-3-8-9"
+    ],
+    "related_concepts": [
+      "aksara",
+      "dharma"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/prasasana.json"
+  },
   "pratistha": {
     "id": "pratistha",
     "name": "Pratiṣṭhā",
@@ -1180,6 +2104,23 @@
       "vedic-rishis"
     ],
     "source_file": "concepts/pratistha.json"
+  },
+  "punar-mrtyu": {
+    "id": "punar-mrtyu",
+    "name": "Punarmṛtyu",
+    "transliteration": "punarmṛtyu",
+    "gloss": "La 'morte ripetuta': la condizione perenne di caducità e\nreincarnazione a cui soggiace chiunque operi nell'ignoranza metafisica\nall'interno del saṃsāra.",
+    "passages": [
+      "bu-3-2-10"
+    ],
+    "related_concepts": [
+      "mrtyu",
+      "karma-legge"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/punar-mrtyu.json"
   },
   "purna": {
     "id": "purna",
@@ -1200,6 +2141,23 @@
       "adi-shankara"
     ],
     "source_file": "concepts/purna.json"
+  },
+  "purnam": {
+    "id": "purnam",
+    "name": "Pūrṇam",
+    "transliteration": "pūrṇam",
+    "gloss": "La Pienezza\nassoluta, infinita e priva di parti: la natura essenziale di Brahman che non si\nriduce, non si frammenta né perde pienezza allorché emana da sé l'universo\nfenomenico.",
+    "passages": [
+      "bu-5-1-1"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/purnam.json"
   },
   "purusa-yajna": {
     "id": "purusa-yajna",
@@ -1257,6 +2215,28 @@
     ],
     "source_file": "concepts/purusha.json"
   },
+  "putramantha": {
+    "id": "putramantha",
+    "name": "Putramantha",
+    "transliteration": "putramantha",
+    "gloss": "Il rito tradizionale\ndi sacralizzazione della procreazione e della nascita: l'unione coniugale viene\nsottratta all'impulso puramente profano e trasposta sul piano del sacrificio\nuniversale per trasmettere la dignità spirituale alla discendenza.",
+    "passages": [
+      "bu-6-4-1",
+      "bu-6-4-2",
+      "bu-6-4-3",
+      "bu-6-4-14",
+      "bu-6-4-17",
+      "bu-6-4-18"
+    ],
+    "related_concepts": [
+      "stri-yajna",
+      "jatakarma"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/putramantha.json"
+  },
   "rayi": {
     "id": "rayi",
     "name": "Rayi",
@@ -1280,6 +2260,23 @@
     ],
     "source_file": "concepts/rayi.json"
   },
+  "sadhana-catushtaya": {
+    "id": "sadhana-catushtaya",
+    "name": "I requisiti della conoscenza (Śānto\nDāntaḥ...)",
+    "transliteration": "śama-dama-ādi",
+    "gloss": "Le cinque attitudini\ninteriori necessarie per scorgere il Sé: pace mentale (śama), padronanza\nsensoriale (dama), distacco dal frastuono mondano (uparati), sopportazione\nserena delle dualità (titikṣā) e concentrazione stabile della coscienza\n(samādhāna).",
+    "passages": [
+      "bu-4-4-23"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sadhana-catushtaya.json"
+  },
   "sakrd-diva": {
     "id": "sakrd-diva",
     "name": "Giorno eterno (Sakṛd-divā)",
@@ -1296,6 +2293,26 @@
     ],
     "authors": [],
     "source_file": "concepts/sakrd-diva.json"
+  },
+  "sakshad-aparokshat": {
+    "id": "sakshad-aparokshat",
+    "name": "Sākṣād Aparokṣāt",
+    "transliteration": "sākṣād aparokṣāt",
+    "gloss": "«Diretto e\nimmediato»: la natura di Brahman che non dipende da mediazioni concettuali,\npercezioni oggettive o deduzioni logiche, ma è evidente di per se stesso come\npura Coscienza immediata.",
+    "passages": [
+      "bu-3-4-1",
+      "bu-3-4-2",
+      "bu-3-5-1"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman",
+      "sarvantara"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sakshad-aparokshat.json"
   },
   "sakshin": {
     "id": "sakshin",
@@ -1375,6 +2392,22 @@
     ],
     "source_file": "concepts/samnyasa-yoga.json"
   },
+  "sampratti": {
+    "id": "sampratti",
+    "name": "Sampratti",
+    "transliteration": "sampratti",
+    "gloss": "Il solenne rito tradizionale di trasmissione mediante cui\nil padre in punto di morte trasferisce nel figlio il carico spirituale dei\ndoveri vedici, dei sacrifici e della presenza mondana.",
+    "passages": [
+      "bu-1-5-17"
+    ],
+    "related_concepts": [
+      "dharma"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sampratti.json"
+  },
   "samvarga": {
     "id": "samvarga",
     "name": "Saṁvarga",
@@ -1392,6 +2425,24 @@
     ],
     "authors": [],
     "source_file": "concepts/samvarga.json"
+  },
+  "sandhya-sthana": {
+    "id": "sandhya-sthana",
+    "name": "Sandhya-sthāna",
+    "transliteration": "sandhya-sthāna",
+    "gloss": "La\nsoglia intermedia del sogno: stato liminale in cui il Sé, libero dai vincoli\nfisici della veglia ma non ancora immerso nella quiete del sonno profondo,\nsperimenta la propria virtù creatrice autonoma.",
+    "passages": [
+      "bu-4-3-8",
+      "bu-4-3-9"
+    ],
+    "related_concepts": [
+      "svapna",
+      "svayam-jyotis"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sandhya-sthana.json"
   },
   "sandilya-vidya": {
     "id": "sandilya-vidya",
@@ -1412,6 +2463,62 @@
     "authors": [],
     "source_file": "concepts/sandilya-vidya.json"
   },
+  "sapta-rsayah": {
+    "id": "sapta-rsayah",
+    "name": "Sapta Ṛṣayaḥ",
+    "transliteration": "sapta ṛṣayaḥ",
+    "gloss": "I sette saggi primordiali della\ntradizione vedica interiorizzati come gli organi percettivi situati nel capo\numano (due orecchie, due occhi, due narici e la lingua), veicoli della\nconsapevolezza corporea.",
+    "passages": [
+      "bu-2-2-3",
+      "bu-2-2-4"
+    ],
+    "related_concepts": [
+      "prana",
+      "upasana"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sapta-rsayah.json"
+  },
+  "saptanna": {
+    "id": "saptanna",
+    "name": "Saptānna",
+    "transliteration": "saptānna",
+    "gloss": "La dottrina dei sette nutrimenti manifestati da Prajāpati mediante conoscenza e\nazione, che riassume l'intera compagine degli oggetti godibili e degli strumenti\ndell'esistenza nel cosmo fenomenico.",
+    "passages": [
+      "bu-1-5-1",
+      "bu-1-5-2",
+      "bu-1-5-3"
+    ],
+    "related_concepts": [
+      "prana",
+      "namarupa"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/saptanna.json"
+  },
+  "sarvantara": {
+    "id": "sarvantara",
+    "name": "Sarvāntara",
+    "transliteration": "sarvāntara",
+    "gloss": "«L'intimo di ogni cosa»: l'Ātman in\nquanto nucleo coscienziale supremo e testimone trascendente che risiede\nall'interno di tutti i corpi, sensi e involucri fenomenici, senza esserne\ncontaminato.",
+    "passages": [
+      "bu-3-4-1",
+      "bu-3-4-2",
+      "bu-3-5-1"
+    ],
+    "related_concepts": [
+      "atman",
+      "sakshad-aparokshat"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sarvantara.json"
+  },
   "sarvatmabhava": {
     "id": "sarvatmabhava",
     "name": "Sarvātma-bhāva",
@@ -1429,6 +2536,31 @@
     "authors": [],
     "source_file": "concepts/sarvatmabhava.json"
   },
+  "sat-asat": {
+    "id": "sat-asat",
+    "name": "Sat e Asat",
+    "transliteration": "sat-asat",
+    "gloss": "La\npolarità metafisica tra ciò che è Reale, immutabile ed eterno (sat) e ciò che è\nirreale, perituro, mortale e transitorio (asat).",
+    "passages": [
+      "bu-1-3-28",
+      "bu-1-4-14",
+      "bu-1-6-3",
+      "bu-2-1-20",
+      "bu-2-3-1",
+      "bu-2-3-2",
+      "bu-2-3-4",
+      "bu-2-3-6",
+      "bu-2-5-12",
+      "bu-3-8-8"
+    ],
+    "related_concepts": [
+      "mrtyu"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sat-asat.json"
+  },
   "sat": {
     "id": "sat",
     "name": "Sat (L'Essere puro)",
@@ -1445,6 +2577,25 @@
     ],
     "authors": [],
     "source_file": "concepts/sat.json"
+  },
+  "satya-brahman": {
+    "id": "satya-brahman",
+    "name": "Satyam\nBrahma",
+    "transliteration": "satyam brahma",
+    "gloss": "La Verità come Essere e\nPrincipio supremo: il Primogenito incausato che sussiste per propria virtù,\navvolgendo e superando l'apparenza della non-verità contingente (anṛta).",
+    "passages": [
+      "bu-5-4-1",
+      "bu-5-5-1",
+      "bu-5-5-2"
+    ],
+    "related_concepts": [
+      "brahman",
+      "sat-asat"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/satya-brahman.json"
   },
   "satya": {
     "id": "satya",
@@ -1500,6 +2651,25 @@
     "authors": [],
     "source_file": "concepts/satyasankalpa.json"
   },
+  "satyasya-satyam": {
+    "id": "satyasya-satyam",
+    "name": "Satyasya Satyam",
+    "transliteration": "satyasya\nsatyam",
+    "gloss": "«La Verità della verità»: la formula iniziatica che designa\nBrahman come il fondamento immutabile e reale sotteso alla realtà empirica\n(satya) costituita dagli elementi e dalle forme fenomeniche.",
+    "passages": [
+      "bu-2-1-20",
+      "bu-2-3-6"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman",
+      "sat-asat"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/satyasya-satyam.json"
+  },
   "savana": {
     "id": "savana",
     "name": "Savana",
@@ -1531,6 +2701,40 @@
     ],
     "authors": [],
     "source_file": "concepts/setu.json"
+  },
+  "shishu-prana": {
+    "id": "shishu-prana",
+    "name": "Śiśu",
+    "transliteration": "śiśu",
+    "gloss": "La\ndesignazione simbolica del Prāṇa sottile come vitellino neonato che entra nel\ncorpo all'origine della vita individuale, ancorato al supporto corporeo per\nmezzo del cibo.",
+    "passages": [
+      "bu-2-2-1"
+    ],
+    "related_concepts": [
+      "prana"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/shishu-prana.json"
+  },
+  "shravana-manana-nididhyasana": {
+    "id": "shravana-manana-nididhyasana",
+    "name": "Śravaṇa, Manana e Nididhyāsana",
+    "transliteration": "śravaṇa-manana-nididhyāsana",
+    "gloss": "Il triplice metodo\nmetodologico del Vedānta per la realizzazione dell'Ātman: l'ascolto autoritativo\ndei testi sacri dal maestro (śravaṇa), la riflessione logica e discriminante per\nsciogliere i dubbi (manana) e la meditazione profonda e costante (nididhyāsana)\nche culmina nell'intuizione diretta.",
+    "passages": [
+      "bu-2-4-5",
+      "bu-4-5-6"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/shravana-manana-nididhyasana.json"
   },
   "sodasa-kala": {
     "id": "sodasa-kala",
@@ -1572,6 +2776,25 @@
     ],
     "source_file": "concepts/soham.json"
   },
+  "sokantara": {
+    "id": "sokantara",
+    "name": "Śokāntara",
+    "transliteration": "śokāntara",
+    "gloss": "Il superamento integrale\ndi ogni afflizione emotiva e morale: la condizione non-duale del sonno profondo\ne della liberazione in cui crollano le categorie di virtù, colpa e identità\nmondana.",
+    "passages": [
+      "bu-4-3-21",
+      "bu-4-3-22"
+    ],
+    "related_concepts": [
+      "susupti",
+      "atman",
+      "abhaya"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sokantara.json"
+  },
   "sreyas-e-preyas": {
     "id": "sreyas-e-preyas",
     "name": "Śreyas e Preyas",
@@ -1610,6 +2833,23 @@
     "authors": [],
     "source_file": "concepts/stobha.json"
   },
+  "stri-yajna": {
+    "id": "stri-yajna",
+    "name": "La Donna come Altare del Fuoco",
+    "transliteration": "strī-yajña",
+    "gloss": "La contemplazione liturgica del\nprincipio femminile: il grembo materno è compreso come l'altare sacrificale\n(vedi) e l'atto generativo come l'oblazione da cui scaturisce l'essere\ncosciente.",
+    "passages": [
+      "bu-6-4-2",
+      "bu-6-4-3"
+    ],
+    "related_concepts": [
+      "putramantha"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/stri-yajna.json"
+  },
   "sukha": {
     "id": "sukha",
     "name": "Sukha (Beatitudine)",
@@ -1642,6 +2882,24 @@
     "authors": [],
     "source_file": "concepts/susupti.json"
   },
+  "sutratman": {
+    "id": "sutratman",
+    "name": "Sūtrātman",
+    "transliteration": "sūtrātman",
+    "gloss": "«Il Sé come Filo\nconnettivo»: l'Anima universale della manifestazione (personificata da Vāyu o\nHiraṇyagarbha) che attraversa, sostiene e unifica tutti i mondi, i tempi e le\nesistenze individuali come un filo invisibile tiene legate le perle.",
+    "passages": [
+      "bu-3-7-1",
+      "bu-3-7-2"
+    ],
+    "related_concepts": [
+      "prana",
+      "antaryamin"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/sutratman.json"
+  },
   "svapna-e-susupti": {
     "id": "svapna-e-susupti",
     "name": "Svapna e Suṣupti",
@@ -1662,6 +2920,23 @@
     ],
     "source_file": "concepts/svapna-e-susupti.json"
   },
+  "svapna": {
+    "id": "svapna",
+    "name": "Svapna",
+    "transliteration": "svapna",
+    "gloss": "Lo stato di sogno in cui il principio coscienziale ritira i\nsensi dal mondo esteriore e proietta interiormente forme, spazi e azioni fondati\nsulle impressioni latenti della mente.",
+    "passages": [
+      "bu-2-1-18"
+    ],
+    "related_concepts": [
+      "susupti",
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/svapna.json"
+  },
   "svarajya": {
     "id": "svarajya",
     "name": "Svārājya (Sovranità autonoma)",
@@ -1676,6 +2951,26 @@
     ],
     "authors": [],
     "source_file": "concepts/svarajya.json"
+  },
+  "svayam-jyotis": {
+    "id": "svayam-jyotis",
+    "name": "Svayaṃ-jyotis",
+    "transliteration": "svayaṃ-jyotis",
+    "gloss": "La pura Luce autonoma e\nauto-luminosa: l'Ātman che risplende di propria virtù senza dipendere da astri\nfisici o strumenti empirici, illuminando ogni stato di coscienza.",
+    "passages": [
+      "bu-4-3-5",
+      "bu-4-3-6",
+      "bu-4-3-8",
+      "bu-4-3-13"
+    ],
+    "related_concepts": [
+      "atman",
+      "brahman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/svayam-jyotis.json"
   },
   "tadvana": {
     "id": "tadvana",
@@ -1733,6 +3028,25 @@
     "authors": [],
     "source_file": "concepts/tat-tvam-asi.json"
   },
+  "traya-rupa": {
+    "id": "traya-rupa",
+    "name": "Trirūpa",
+    "transliteration": "trirūpa",
+    "gloss": "La triplice struttura fenomenica dell'universo empirico,\ninteramente circoscritta nelle categorie di Nome (nāma), Forma (rūpa) e Azione\n(karma).",
+    "passages": [
+      "bu-1-6-1",
+      "bu-1-6-2",
+      "bu-1-6-3"
+    ],
+    "related_concepts": [
+      "namarupa",
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/traya-rupa.json"
+  },
   "trivrtkarana": {
     "id": "trivrtkarana",
     "name": "Trivṛtkaraṇa (Triplicazione cosmica)",
@@ -1748,6 +3062,25 @@
     ],
     "authors": [],
     "source_file": "concepts/trivrtkarana.json"
+  },
+  "turiya-pada-gayatri": {
+    "id": "turiya-pada-gayatri",
+    "name": "Turīya-pada",
+    "transliteration": "turīya-pada",
+    "gloss": "Il quarto piede trascendente della Gāyatrī: la\ndimensione dell'Assoluto che risplende al di là di ogni contaminazione e\npassionalità fenomenica (parorajas), inaccessibile a qualsiasi scambio o\ncompenso mondano.",
+    "passages": [
+      "bu-5-14-4",
+      "bu-5-14-7",
+      "bu-5-14-8"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/turiya-pada-gayatri.json"
   },
   "turiya": {
     "id": "turiya",
@@ -1845,6 +3178,25 @@
     ],
     "authors": [],
     "source_file": "concepts/upasana.json"
+  },
+  "utkranti": {
+    "id": "utkranti",
+    "name": "Utkrānti",
+    "transliteration": "utkrānti",
+    "gloss": "Il processo della disincarnazione o\ndipartita: il distacco naturale del Sé dal veicolo corporeo al sopraggiungere\ndella morte, paragonato al frutto maturo che cade dal ramo o al sovrano scortato\ndai suoi dignitari.",
+    "passages": [
+      "bu-4-3-35",
+      "bu-4-3-36",
+      "bu-4-3-38"
+    ],
+    "related_concepts": [
+      "prana",
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/utkranti.json"
   },
   "uttama-purusa": {
     "id": "uttama-purusa",
@@ -1985,6 +3337,59 @@
     ],
     "source_file": "concepts/vidya.json"
   },
+  "vijnanaghana": {
+    "id": "vijnanaghana",
+    "name": "Vijñānaghana",
+    "transliteration": "vijñānaghana",
+    "gloss": "«Massa omogenea di\npura consapevolezza»: la natura essenziale del Sé supremo, priva di\ndifferenziazioni interiori o esteriori, paragonata a un blocco di sale la cui\nsalsedine è uniforme in ogni punto.",
+    "passages": [
+      "bu-2-4-12"
+    ],
+    "related_concepts": [
+      "atman",
+      "vijnatar"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/vijnanaghana.json"
+  },
+  "vijnanam-anandam-brahma": {
+    "id": "vijnanam-anandam-brahma",
+    "name": "Vijñānam Ānandaṃ Brahma",
+    "transliteration": "vijñānam ānandaṃ brahma",
+    "gloss": "«Brahman è Coscienza pura e Beatitudine\nincondizionata»: definizione conclusiva del terzo capitolo che compendia la\nnatura sostanziale e non-duale dell'Assoluto.",
+    "passages": [
+      "bu-3-9-28"
+    ],
+    "related_concepts": [
+      "brahman",
+      "atman"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/vijnanam-anandam-brahma.json"
+  },
+  "vijnanamaya-purusa": {
+    "id": "vijnanamaya-purusa",
+    "name": "Vijñānamaya Puruṣa",
+    "transliteration": "vijñānamaya puruṣa",
+    "gloss": "L'essere coscienziale empirico identificato con\nla facoltà discriminativa dell'intelletto (buddhi), che fa esperienza della\nveglia e del sogno e si riassorbe nel Sé trascendente durante il sonno\nprofondo.",
+    "passages": [
+      "bu-2-1-16",
+      "bu-2-1-17"
+    ],
+    "related_concepts": [
+      "atman",
+      "susupti",
+      "svapna"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/vijnanamaya-purusa.json"
+  },
   "vijnanatman": {
     "id": "vijnanatman",
     "name": "Vijñānātman",
@@ -2003,6 +3408,23 @@
       "sauryayani"
     ],
     "source_file": "concepts/vijnanatman.json"
+  },
+  "vijnatar": {
+    "id": "vijnatar",
+    "name": "Vijñātṛ",
+    "transliteration": "vijñātṛ",
+    "gloss": "Il\nConoscitore ultimo o Testimone coscienziale trascendente: principio eterno che\nrende possibile ogni atto conoscitivo empirico ma che non può mai essere\nconvertito in oggetto di conoscenza.",
+    "passages": [
+      "bu-2-4-14"
+    ],
+    "related_concepts": [
+      "atman",
+      "neti-neti"
+    ],
+    "authors": [
+      "yajnavalkya"
+    ],
+    "source_file": "concepts/vijnatar.json"
   },
   "vrata": {
     "id": "vrata",

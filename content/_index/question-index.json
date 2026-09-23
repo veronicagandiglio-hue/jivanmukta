@@ -81,6 +81,1278 @@
     "related_questions": [],
     "source_file": "questions/q-azione-senza-vincolo.json"
   },
+  "q-bu-aksara-apofasi-negazioni": {
+    "id": "q-bu-aksara-apofasi-negazioni",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per quale ragione l'Imperituro (Akṣara) viene definito\nmediante una rigorosa sequenza di negazioni privative?",
+    "problem": "Poiché\nqualunque nozione affermativa presuppone dimensioni temporali, estensioni\nspaziali o determinazioni sensibili che appartengono al dominio fenomenico,\nl'Assoluto può essere preservato dalla contaminazione concettuale solo negando\nmetodicamente ogni attributo grossolano e sottile.",
+    "concepts": [
+      "aksara",
+      "brahman",
+      "sat-asat"
+    ],
+    "passages": [
+      "bu-3-8-8"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-aksara-apofasi-negazioni.json"
+  },
+  "q-bu-albero-radice-rinascita": {
+    "id": "q-bu-albero-radice-rinascita",
+    "scope": "local",
+    "type": "specific",
+    "text": "Cosa dimostra la parabola dell'albero\nriguardo alla radice originaria dell'essere umano?",
+    "problem": "Mentre un\nalbero abbattuto rigenera fronde dal tronco e dalle radici terrene, l'uomo\nfalciato dalla morte non può rinascere da cause biologiche transitorie: la sua\nscaturigine permanente è l'Assoluto incorruttibile, Coscienza e Beatitudine\neterna (Vijñānam Ānandam Brahma).",
+    "concepts": [
+      "vijnanam-anandam-brahma",
+      "brahman",
+      "mrtyu"
+    ],
+    "passages": [
+      "bu-3-9-28"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-albero-radice-rinascita.json"
+  },
+  "q-bu-amore-del-se-atmanastu-kamaya": {
+    "id": "q-bu-amore-del-se-atmanastu-kamaya",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché ogni oggetto e affetto\numano è amato unicamente «per amore del Sé»?",
+    "problem": "Yājñavalkya disvela\nla radice ultima del desiderio e dell'affetto: nessun ente (sposo, prole,\nricchezza, dèi) possiede valore assoluto di per se stesso; essi sono amati\nperché riflettono temporaneamente la pienezza e la beatitudine intrinseca\ndell'Ātman, che è il solo bene incondizionato.",
+    "concepts": [
+      "atman"
+    ],
+    "passages": [
+      "bu-2-4-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-amore-del-se-atmanastu-kamaya.json"
+  },
+  "q-bu-amrta-satyena-channam": {
+    "id": "q-bu-amrta-satyena-channam",
+    "scope": "local",
+    "type": "specific",
+    "text": "Cosa significa che «l'Immortale è velato\ndal reale»?",
+    "problem": "Nel linguaggio tecnico dell'Upaniṣad, satya indica la\nrealtà empirica provvisoria dei nomi e delle forme visibili, mentre amṛta è il\nprincipio coscienziale e vitale imperituro. La molteplicità fenomenica oggettiva\nocculta e riveste la luce del Sé trascendente.",
+    "concepts": [
+      "sat-asat",
+      "atman",
+      "prana"
+    ],
+    "passages": [
+      "bu-1-6-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-amrta-satyena-channam.json"
+  },
+  "q-bu-animale-degli-dei": {
+    "id": "q-bu-animale-degli-dei",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché\nl'uomo che adora una divinità ritenendosi separato da essa è paragonato a un\nanimale da soma?",
+    "problem": "Finché un individuo si considera diverso dalla\ndivinità adorata, egli rimane imprigionato nel dualismo sacrificale, operando\ncome un fornitore di tributi ed energie liturgiche per i poteri cosmici, anziché\nemanciparsi attraverso la retta conoscenza della propria identità con Brahman.",
+    "concepts": [
+      "brahman",
+      "atman",
+      "aham-brahmasmi"
+    ],
+    "passages": [
+      "bu-1-4-10"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-animale-degli-dei.json"
+  },
+  "q-bu-antaryamin-governo-interiore": {
+    "id": "q-bu-antaryamin-governo-interiore",
+    "scope": "local",
+    "type": "specific",
+    "text": "Come si concilia la trascendenza\nassoluta dell'Ātman con la sua funzione di Reggitore intimo (Antaryāmin)?",
+    "problem": "L'Ordinatore intimo governa gli elementi cosmici e le facoltà umane\ndall'interno senza compiere alcuno sforzo fisico o mentale: la sua pura presenza\ncoscienziale immutabile agisce come causa prima e sovrana, mentre le entità\ngovernate ignorano la presenza del loro stesso Sostrato.",
+    "concepts": [
+      "antaryamin",
+      "atman"
+    ],
+    "passages": [
+      "bu-3-7-3",
+      "bu-3-7-15",
+      "bu-3-7-22"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-antaryamin-governo-interiore.json"
+  },
+  "q-bu-asato-ma-sadgamaya": {
+    "id": "q-bu-asato-ma-sadgamaya",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è\nil significato metafisico della formula «Asato mā sad gamaya»?",
+    "problem": "L'Upaniṣad definisce esplicitamente i tre termini: l'irreale (asat), l'oscurità\n(tamas) e la morte (mṛtyu) esprimono la condizione fenomenica soggetta ad\navidyā; il Reale (sat), la Luce (jyotis) e l'Immortalità (amṛta) esprimono lo\nstato ontologico dell'Assoluto riscoperto mediante la retta conoscenza.",
+    "concepts": [
+      "sat-asat",
+      "jyotis-tamas",
+      "mrtyu"
+    ],
+    "passages": [
+      "bu-1-3-28"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-asato-ma-sadgamaya.json"
+  },
+  "q-bu-atman-caro-preyah": {
+    "id": "q-bu-atman-caro-preyah",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché\nl'Ātman è dichiarato più caro di qualsiasi bene o legame esteriore?",
+    "problem": "Ogni ente (figli, ricchezze, mondi) è amato non di per se stesso, ma per il\nriverbero di pienezza che l'Ātman proietta su di esso. Essendo la sorgente\nprimaria di ogni valore e la realtà più intima dell'essere, il Sé è il solo\namore incondizionato e incorruttibile.",
+    "concepts": [
+      "atman",
+      "upasana"
+    ],
+    "passages": [
+      "bu-1-4-8"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-atman-caro-preyah.json"
+  },
+  "q-bu-aupanisada-purusa-definizione": {
+    "id": "q-bu-aupanisada-purusa-definizione",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è la natura dell'Aupaniṣada Puruṣa la cui ignoranza determina la\ncaduta del capo di Śākalya?",
+    "problem": "Śākalya conosceva le determinazioni\noggettive del divino nelle otto dimore empiriche, ma ignorava il Principio\nsupremo trascendente che le genera e le trascende tutte: il Sé inoggettivabile\nsvelato unicamente dalla sapienza segreta delle Upaniṣad.",
+    "concepts": [
+      "aupanisada-purusa",
+      "neti-neti",
+      "brahman"
+    ],
+    "passages": [
+      "bu-3-9-26"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-aupanisada-purusa-definizione.json"
+  },
+  "q-bu-ayam-atma-brahma-significato": {
+    "id": "q-bu-ayam-atma-brahma-significato",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è la portata ontologica del\nMahāvākya «Ayam Ātmā Brahma»?",
+    "problem": "La proposizione definisce l'identità\ntra l'Ātman intimamente presente nel testimone coscienziale e il Brahman\nonnipresente, privo di antecedente, di conseguente, di interno e di esterno, che\ntutto illumina come coscienza totale (sarvānubhūḥ).",
+    "concepts": [
+      "ayam-atma-brahma",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "bu-2-5-19"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-ayam-atma-brahma-significato.json"
+  },
+  "q-bu-critica-ekapad-brahma": {
+    "id": "q-bu-critica-ekapad-brahma",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per\nquale motivo Yājñavalkya qualifica come «a un solo piede» (ekapad) le sei\ndottrine teologiche esposte a Janaka?",
+    "problem": "Identificare l'Assoluto\nesclusivamente con una determinazione psicofisica (la voce, l'occhio, il respiro\no la mente) senza coglierne il fondamento trascendente nello Spazio etereo e la\nnatura coscienziale pura riduce Brahman a un idolo empirico frammentario.",
+    "concepts": [
+      "ekapad-brahma",
+      "brahman"
+    ],
+    "passages": [
+      "bu-4-1-2",
+      "bu-4-1-7"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-critica-ekapad-brahma.json"
+  },
+  "q-bu-devayana-pitriyana-differenza": {
+    "id": "q-bu-devayana-pitriyana-differenza",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il discrimine ontologico tra la Via degli Dèi (Devayāna) e la\nVia dei Padri (Pitṛyāna)?",
+    "problem": "Chi persegue la conoscenza interiore e\nla Verità trascendente ascende lungo il sentiero della luce solare verso\nl'emancipazione definitiva senza ritorno; chi si affida unicamente ai riti\ncerimoniali esteriori e alle opere pie sale alla sfera lunare transitoria del\nfumo, esaurendo i propri meriti per poi ripiombare nella ruota delle rinascite\nterrene.",
+    "concepts": [
+      "devayana",
+      "pitriyana",
+      "karma-legge"
+    ],
+    "passages": [
+      "bu-6-2-16"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-devayana-pitriyana-differenza.json"
+  },
+  "q-bu-dinamica-trapasso-frutto": {
+    "id": "q-bu-dinamica-trapasso-frutto",
+    "scope": "local",
+    "type": "specific",
+    "text": "Cosa accade ai soffi vitali e alla coscienza durante l'agonia e il distacco\ncorporeo?",
+    "problem": "L'Upaniṣad ricorre a potenti metafore per descrivere\nl'esaurimento biologico: il carro stracarico che geme, il frutto che si stacca\ndal ramo e la scorta dei sensi che fa cerchio attorno al Sé nell'atto di\nabbandonare l'involucro mortale.",
+    "concepts": [
+      "utkranti",
+      "prana",
+      "atman"
+    ],
+    "passages": [
+      "bu-4-3-35",
+      "bu-4-3-36",
+      "bu-4-3-38"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-dinamica-trapasso-frutto.json"
+  },
+  "q-bu-disciplina-interiore-shanto-dantah": {
+    "id": "q-bu-disciplina-interiore-shanto-dantah",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il ruolo delle virtù interiori (calma, dominio dei sensi,\nsilenzio) nella visione dell'Ātman?",
+    "problem": "Il Sé non può essere colto\nmediante la pura speculazione dialettica o l'accumulo di parole. La mente deve\nprima placare le onde dell'agitazione sensoriale ed emotiva (śānta, dānta,\nuparata) per diventare uno specchio terso in cui la luce del Testimone rifulge\nsenza rifrazioni.",
+    "concepts": [
+      "sadhana-catushtaya",
+      "atman"
+    ],
+    "passages": [
+      "bu-4-4-23"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-disciplina-interiore-shanto-dantah.json"
+  },
+  "q-bu-due-forme-brahman-murta-amurta": {
+    "id": "q-bu-due-forme-brahman-murta-amurta",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché l'Upaniṣad attribuisce a Brahman due forme (mūrta e amūrta) se\nl'Assoluto è privo di forma?",
+    "problem": "L'insegnamento adotta il metodo\npedagogico della sovrapposizione e della rimozione (adhyāropa-apavāda): prima\nraccoglie l'intera fenomenalità nelle categorie del denso (terra, acqua, fuoco)\ne del sottile (aria, etere), per poi revocare entrambe le determinazioni dinanzi\nalla pura Realtà non-duale.",
+    "concepts": [
+      "murta-amurta",
+      "brahman",
+      "sat-asat"
+    ],
+    "passages": [
+      "bu-2-3-1",
+      "bu-2-3-2",
+      "bu-2-3-3",
+      "bu-2-3-6"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-due-forme-brahman-murta-amurta.json"
+  },
+  "q-bu-estinzione-desideri-brahma-apyeiti": {
+    "id": "q-bu-estinzione-desideri-brahma-apyeiti",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'estinzione del\ndesiderio (niṣkāma) rivela l'identità immediata «Brahmaiva san brahmāpyeti»?",
+    "problem": "Finché vi è attaccamento a mete esterne, i soffi vitali migrano\nverso nuove rinascite dettate dal karma. Quando l'essere riconosce che il Sé è\nl'unico vero bene desiderabile (ātmakāma), la spinta verso l'esterno cessa e si\ndisvela la verità perenne: l'anima non deve 'diventare' Brahman, perché è già\nBrahman.",
+    "concepts": [
+      "brahmaiva-san-brahmapyeti",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "bu-4-4-6",
+      "bu-4-4-7"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-estinzione-desideri-brahma-apyeiti.json"
+  },
+  "q-bu-figlia-sapiente-rito": {
+    "id": "q-bu-figlia-sapiente-rito",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual\nè il rilievo dottrinale della specifica preghiera per ottenere la nascita di una\nfiglia sapiente (paṇḍitā)?",
+    "problem": "In una società antica spesso orientata\nalla discendenza maschile per ragioni rituali, l'Upaniṣad prescrive\nesplicitamente un rito per concepire una figlia dotata di alta erudizione e\nsaggezza (paṇḍitā), attestando l'altissima considerazione riservata alla\nsapienza femminile (esemplificata da figure come Gārgī e Maitreyī).",
+    "concepts": [
+      "putramantha"
+    ],
+    "passages": [
+      "bu-6-4-17"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-figlia-sapiente-rito.json"
+  },
+  "q-bu-gerarchia-ananda-goccia": {
+    "id": "q-bu-gerarchia-ananda-goccia",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il rapporto tra i piaceri mondani e\nla Beatitudine suprema (Parama Ānanda) di Brahman?",
+    "problem": "Il testo\nistituisce un rigido calcolo proporzionale: nessun godimento carnale o celeste è\nautosufficiente; essi non sono che gocce infinitesimali o riflessi frammentari\ndella Beatitudine infinita di Brahman, che appartiene integralmente a chi ha\nestinto il desiderio.",
+    "concepts": [
+      "parama-ananda",
+      "brahman"
+    ],
+    "passages": [
+      "bu-4-3-32",
+      "bu-4-3-33"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-gerarchia-ananda-goccia.json"
+  },
+  "q-bu-graha-atigraha-legame": {
+    "id": "q-bu-graha-atigraha-legame",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo la polarità tra graha\ne atigraha costituisce la trama della schiavitù empirica?",
+    "problem": "L'essere\numano non è prigioniero del mondo in sé, ma del dispositivo cognitivo: i sensi\nsono 'organi di presa' (graha) che si lanciano verso l'esterno, ma vengono a\nloro volta catturati e dominati dagli oggetti desiderati ('atigraha', gli\nafferratori superiori), mantenendo l'individuo avvinto alla ruota del saṃsāra.",
+    "concepts": [
+      "graha-atigraha",
+      "mrtyu"
+    ],
+    "passages": [
+      "bu-3-2-1",
+      "bu-3-2-9"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-graha-atigraha-legame.json"
+  },
+  "q-bu-hrdaya-radice-direzioni": {
+    "id": "q-bu-hrdaya-radice-direzioni",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché le direzioni dello spazio, gli astri e i valori rituali convergono nel\nCuore (Hṛdaya)?",
+    "problem": "L'esterno non sussiste separato dalla coscienza\nche lo sperimenta: l'estensione geografica e cosmica poggia sui sensi, i sensi\nsulle impressioni e queste ultime nel centro intuitivo del Cuore, che a sua\nvolta è fondato unicamente nell'Ātman vitale.",
+    "concepts": [
+      "hrdaya-centro",
+      "atman"
+    ],
+    "passages": [
+      "bu-3-9-19",
+      "bu-3-9-23",
+      "bu-3-9-24"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-hrdaya-radice-direzioni.json"
+  },
+  "q-bu-illusione-molteplicita-morte": {
+    "id": "q-bu-illusione-molteplicita-morte",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché il testo dichiara che «di morte in morte precipita\ncolui che crede di scorgere qui una molteplicità»?",
+    "problem": "La convinzione\nche la molteplicità degli enti fenomenici possieda una sussistenza autonoma\nrispetto all'unico Sostrato coscienziale genera l'illusione della frammentazione\ne della separazione, rinnovando all'infinito il ciclo delle rinascite nel\nsaṃsāra.",
+    "concepts": [
+      "neha-nanasti-kimcana",
+      "mrtyu"
+    ],
+    "passages": [
+      "bu-4-4-19"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-illusione-molteplicita-morte.json"
+  },
+  "q-bu-inconoscibilita-del-conoscitore": {
+    "id": "q-bu-inconoscibilita-del-conoscitore",
+    "scope": "local",
+    "type": "specific",
+    "text": "Come si risolve il paradosso per cui il Conoscitore supremo non può\nessere conosciuto?",
+    "problem": "Il Sé è il soggetto assoluto di ogni esperienza\ne non un oggetto tra gli oggetti. Pretendere di conoscerlo mediante i sensi o la\nmente ordinaria significherebbe degradarlo a dato oggettivo esterno. Esso può\nessere realizzato solo come pura identità coscienziale immediata, allorché\ndecade l'apparenza della dualità.",
+    "concepts": [
+      "vijnatar",
+      "atman",
+      "neti-neti"
+    ],
+    "passages": [
+      "bu-2-4-14"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-inconoscibilita-del-conoscitore.json"
+  },
+  "q-bu-incontaminabilita-asanga": {
+    "id": "q-bu-incontaminabilita-asanga",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per quale ragione il Puruṣa è definito ontologicamente privo di aderenza\n(asaṅga) rispetto alle vicende del sogno e della veglia?",
+    "problem": "Le azioni\nbuone o turpi e le gioie o i terrori sperimentati negli stati di veglia e di\nsogno appartengono alle modificazioni mentali e corporee. Il Sé testimone le\nillumina senza legarsi ad esse, mantenendo intatta la propria immutabilità\nsovrana.",
+    "concepts": [
+      "asanga-purusa",
+      "atman"
+    ],
+    "passages": [
+      "bu-4-3-14",
+      "bu-4-3-18"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-incontaminabilita-asanga.json"
+  },
+  "q-bu-invisibile-veggente-solitudine": {
+    "id": "q-bu-invisibile-veggente-solitudine",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato della\ndichiarazione «non vi è alcun altro veggente all'infuori di Questo»?",
+    "problem": "L'Advaita vi ravvisa la negazione totale della pluralità dei\nsoggetti coscienti: non esistono molteplici anime individuali autonome (jīva);\nvi è un unico Testimone immortale che risplende attraverso innumerevoli organi\npercettivi corporei.",
+    "concepts": [
+      "adrsto-drasta",
+      "atman",
+      "antaryamin"
+    ],
+    "passages": [
+      "bu-3-7-23"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-invisibile-veggente-solitudine.json"
+  },
+  "q-bu-kripana-brahmana-distinzione": {
+    "id": "q-bu-kripana-brahmana-distinzione",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il discrimine metafisico tra il 'kṛpaṇa' e il vero 'brāhmaṇa'\nall'atto della morte?",
+    "problem": "Il valore dell'esistenza non è misurato\ndalla quantità di riti celebrati o dalla durata delle pratiche ascetiche, bensì\ndal conseguimento della conoscenza dell'Eterno: chi muore identificato con le\nopere temporali rimane un mendicante ontologico esposto al ciclo del divenire,\nmentre chi muore conoscendo l'Akṣara si emancipa nella pienezza.",
+    "concepts": [
+      "kripana",
+      "aksara"
+    ],
+    "passages": [
+      "bu-3-8-10"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-kripana-brahmana-distinzione.json"
+  },
+  "q-bu-limite-indagine-gargi": {
+    "id": "q-bu-limite-indagine-gargi",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché Yājñavalkya intima a Gārgī di non spingere\nl'interrogazione logica oltre il principio ultimo?",
+    "problem": "La mente\ndiscorsiva tenta di applicare la relazione causale (la trama e l'ordito)\nall'infinito; ma Brahman è la Causa prima non causata. Domandare su che cosa sia\ntessuto l'Assoluto significa voler oggettivare ciò che trascende la logica\nrelazionale, incorrendo nell'errore filosofico del regresso all'infinito\n(anavasthā).",
+    "concepts": [
+      "brahman"
+    ],
+    "passages": [
+      "bu-3-6-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-limite-indagine-gargi.json"
+  },
+  "q-bu-madhu-vidya-interdipendenza": {
+    "id": "q-bu-madhu-vidya-interdipendenza",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico\ndella reciprocità universale per cui ogni elemento è «miele» per tutti gli\nesseri?",
+    "problem": "L'insegnamento del Miele smantella l'illusione di una\nmateria cieca e separata: il cosmo non è un aggregato casuale di sostanze\neterogenee, ma una totalità in cui macrocosmo e microcosmo cooperano come membra\ndi un unico organismo vivente, unificato dal medesimo Sé immortale.",
+    "concepts": [
+      "madhu-vidya",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "bu-2-5-1",
+      "bu-2-5-14"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-madhu-vidya-interdipendenza.json"
+  },
+  "q-bu-maitreyi-seconda-versione-differenza": {
+    "id": "q-bu-maitreyi-seconda-versione-differenza",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il progresso dottrinale che caratterizza la seconda\nversione del dialogo con Maitreyī in 4.5 rispetto a 2.4?",
+    "problem": "Mentre\nin 2.4 la spiegazione sull'assenza di coscienza particolare (na pretya\nsaṃjñāsti) lasciava aperta la dialettica sulla fine dell'esperienza empirica,\nin 4.5 Yājñavalkya interviene con l'affermazione perentoria «avināśī vā are 'yam\nātmānucchittidharmā» e integra direttamente il metodo del «Neti neti» come\nfondamento dell'immortalità prima di abbandonare definitivamente il mondo.",
+    "concepts": [
+      "avinashi-anucchitti",
+      "neti-neti",
+      "atman"
+    ],
+    "passages": [
+      "bu-4-5-14",
+      "bu-4-5-15"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-maitreyi-seconda-versione-differenza.json"
+  },
+  "q-bu-malattia-morte-ascesi": {
+    "id": "q-bu-malattia-morte-ascesi",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo la malattia e la\ndecomposizione funebre possono costituire la «suprema ascesi» (paramaṃ tapaḥ)?",
+    "problem": "Il dolore fisico e la morte biologica sono solitamente subiti come\nuna condanna inerte della carne. L'insegnamento upaniṣadico rovescia la\npassività del male: accogliendo la febbre, il distacco dai congiunti e la\ncombustione del cadavere come offerta deliberata, il morente trasmuta la morte\nin un atto liberatorio di purificazione sacrificale.",
+    "concepts": [
+      "parama-tapas",
+      "mrtyu"
+    ],
+    "passages": [
+      "bu-5-11-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-malattia-morte-ascesi.json"
+  },
+  "q-bu-mantha-significato-metafisico": {
+    "id": "q-bu-mantha-significato-metafisico",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico dell'iperbole tradizionale\nsecondo cui il Mantha farebbe germogliare persino un tronco secco?",
+    "problem": "L'insegnamento del Mantha non è una formula magica materiale, ma la\ntrasposizione operativa della dottrina di Prāṇa: la vita primordiale è la\nmatrice inesausta di ogni forma biologica, talché la sua assimilazione cosciente\npossiede la virtù ontologica di restituire freschezza, fecondità e grandezza a\nqualunque supporto inaridito.",
+    "concepts": [
+      "prana-vidya",
+      "mantha",
+      "prana"
+    ],
+    "passages": [
+      "bu-6-3-4",
+      "bu-6-3-7",
+      "bu-6-3-12"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-mantha-significato-metafisico.json"
+  },
+  "q-bu-morte-del-liberato-prana": {
+    "id": "q-bu-morte-del-liberato-prana",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il destino dei soffi vitali alla morte di chi ha realizzato la\nconoscenza metafisica?",
+    "problem": "A differenza dell'uomo comune i cui soffi\ntrasmigrano verso nuovi corpi secondo il karma, i soffi del liberato non si\nallontanano nello spazio né si proiettano altrove: essi si dissolvono e si\nfondono istantaneamente nel Brahman supremo proprio lì dove si trovano.",
+    "concepts": [
+      "prana",
+      "atman",
+      "brahman"
+    ],
+    "passages": [
+      "bu-3-2-11"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-morte-del-liberato-prana.json"
+  },
+  "q-bu-mrtyu-origine-manifestazione": {
+    "id": "q-bu-mrtyu-origine-manifestazione",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che senso l'origine della\nmanifestazione coincide con la Morte (Mṛtyu) e con la Fame (Aśanāyā)?",
+    "problem": "Prima dell'esplicitazione formale dei nomi e delle forme, lo stato\ncosmico primordiale è qualificato come Fame e Morte perché è carenza ontologica\nche tende incessantemente a divorare e produrre oggetti per sussistere.",
+    "concepts": [
+      "mrtyu",
+      "kama",
+      "prajapati"
+    ],
+    "passages": [
+      "bu-1-2-1",
+      "bu-1-2-4",
+      "bu-1-2-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-mrtyu-origine-manifestazione.json"
+  },
+  "q-bu-namarupa-avyakrita": {
+    "id": "q-bu-namarupa-avyakrita",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'indifferenziato diviene\ncosmo intelligibile attraverso il nome e la forma?",
+    "problem": "Prima della\nmanifestazione, l'universo è privo di coordinate distinguibili (avyākṛta).\nL'ingresso nel dominio empirico si compie esclusivamente con l'applicazione di\nnāma (l'aspetto intelligibile/linguistico) e rūpa (l'aspetto\nformale/spaziale).",
+    "concepts": [
+      "namarupa",
+      "atman"
+    ],
+    "passages": [
+      "bu-1-4-7"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-namarupa-avyakrita.json"
+  },
+  "q-bu-natura-luce-autonoma": {
+    "id": "q-bu-natura-luce-autonoma",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'Ātman si rivela come la luce primaria dell'essere umano quando\ntutti i bagliori cosmici si estinguono?",
+    "problem": "Il sole, la luna, il fuoco\ne persino il linguaggio sono luci esteriori secondarie; quando la percezione\nsensibile e verbale decade nell'oscurità, il soggetto continua a operare e ad\navere consapevolezza grazie al Sé, che è Luce di natura incondizionata.",
+    "concepts": [
+      "svayam-jyotis",
+      "atman"
+    ],
+    "passages": [
+      "bu-4-3-1",
+      "bu-4-3-5"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-natura-luce-autonoma.json"
+  },
+  "q-bu-natura-sacrificio-cosmico": {
+    "id": "q-bu-natura-sacrificio-cosmico",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato della trasposizione cosmica\ndel rito dell'Aśvamedha?",
+    "problem": "Il testo allontana la comprensione\ndell'atto sacrificale dalla sua esecuzione esteriore, imponendo una visione\ninteriore in cui il cosmo intero è riconosciuto come l'unico vero corpo\nsacrificale.",
+    "concepts": [
+      "ashvamedha",
+      "upasana",
+      "prajapati"
+    ],
+    "passages": [
+      "bu-1-1-1",
+      "bu-1-1-2",
+      "bu-1-2-7"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-natura-sacrificio-cosmico.json"
+  },
+  "q-bu-neti-neti-apofasi": {
+    "id": "q-bu-neti-neti-apofasi",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'indicazione apofatica «Neti\nneti» conduce alla realizzazione dell'Assoluto?",
+    "problem": "Poiché qualsiasi\nconcetto, predicato o nome appartiene all'ambito degli oggetti limitati\n(nāmarūpa), Brahman non può essere colto come un oggetto oggettivabile. La\nnegazione radicale di ogni alterità oggettiva dissolve l'ignoranza sovrapposta,\nlasciando risplendere il Testimone puro come Verità della verità.",
+    "concepts": [
+      "neti-neti",
+      "satyasya-satyam",
+      "brahman",
+      "atman"
+    ],
+    "passages": [
+      "bu-2-3-6"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-neti-neti-apofasi.json"
+  },
+  "q-bu-origine-paura-dualita": {
+    "id": "q-bu-origine-paura-dualita",
+    "scope": "local",
+    "type": "specific",
+    "text": "Da\ndove ha origine la paura e come viene superata secondo l'Upaniṣad?",
+    "problem": "Il testo stabilisce con rigore metafisico che il timore presuppone\nontologicamente la credenza in un secondo (dvitīya), cioè in un oggetto separato\ned esterno suscettibile di minacciare l'individuo. La paura svanisce nel momento\nin cui l'intelletto riconosce che non vi è nulla al di fuori del Sé.",
+    "concepts": [
+      "bhaya",
+      "atman"
+    ],
+    "passages": [
+      "bu-1-4-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-origine-paura-dualita.json"
+  },
+  "q-bu-pancagni-cinque-fuochi": {
+    "id": "q-bu-pancagni-cinque-fuochi",
+    "scope": "local",
+    "type": "specific",
+    "text": "Cosa rivela la dottrina dei Cinque Fuochi\nriguardo al ciclo dell'incarnazione umana?",
+    "problem": "La generazione\nbiologica non è un fatto meramente carnale o casuale, ma il culmine di un\nsacrificio cosmico a cinque stadi: l'offerta della Fede nel cielo genera la\nrugiada lunare; questa ridiscende come pioggia, nutre le piante della terra, si\ntrasforma in alimento nell'uomo e diviene seme generatore nella donna, fino a\nmanifestare l'essere dotato di parola.",
+    "concepts": [
+      "pancagni-vidya",
+      "karma-legge"
+    ],
+    "passages": [
+      "bu-6-2-12",
+      "bu-6-2-16"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-pancagni-cinque-fuochi.json"
+  },
+  "q-bu-perche-oggetti-non-sono-brahman": {
+    "id": "q-bu-perche-oggetti-non-sono-brahman",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché le dodici meditazioni cosmiche\nproposte da Gārgya non costituiscono la vera conoscenza di Brahman?",
+    "problem": "Gārgya identifica l'Assoluto con manifestazioni parziali e oggettive (sole,\nluna, fulmine, spazio, ombra, ego corporeo), le quali sono realtà condizionate\ndotate di attributi (sopādhika). La contemplazione di oggetti finiti produce\nsoltanto frutti empirici transitori, lasciando inesplorato l'Assoluto\nincondizionato.",
+    "concepts": [
+      "brahman",
+      "upasana"
+    ],
+    "passages": [
+      "bu-2-1-2",
+      "bu-2-1-13",
+      "bu-2-1-14"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-perche-oggetti-non-sono-brahman.json"
+  },
+  "q-bu-permanenza-visione-senza-oggetti": {
+    "id": "q-bu-permanenza-visione-senza-oggetti",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'esperienza del sonno profondo prova che la\nCoscienza non viene mai meno?",
+    "problem": "Si potrebbe obiettare che nel sonno\nprofondo la coscienza sia annientata perché il soggetto non ricorda oggetti\nparticolari. Yājñavalkya dimostra che la facoltà del Testimone non si interrompe\nmai: ciò che manca non è la luce coscienziale, ma un secondo termine oggettivo\nseparato da essa.",
+    "concepts": [
+      "dristir-avinashini",
+      "atman"
+    ],
+    "passages": [
+      "bu-4-3-23",
+      "bu-4-3-30",
+      "bu-4-3-31"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-permanenza-visione-senza-oggetti.json"
+  },
+  "q-bu-prana-asura-vittoria": {
+    "id": "q-bu-prana-asura-vittoria",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché il soffio centrale (mukhya-prāṇa) non può essere contaminato dal male a\ndifferenza degli organi di senso?",
+    "problem": "Gli organi specifici (parola,\nvista, udito, mente) operano con attaccamento egoico al proprio oggetto\nparticolare (piacere separato), offrendo appiglio al male. Il soffio vitale\nprimario non persegue alcun godimento individualizzato ma sostiene\nuniversalmente la vita, infrangendo la presa della finitudine.",
+    "concepts": [
+      "prana",
+      "papman",
+      "mrtyu"
+    ],
+    "passages": [
+      "bu-1-3-2",
+      "bu-1-3-6",
+      "bu-1-3-7"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-prana-asura-vittoria.json"
+  },
+  "q-bu-prasasana-ordine-cosmico": {
+    "id": "q-bu-prasasana-ordine-cosmico",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'universo sussiste sotto il\n'governo sovrano' (praśāsana) dell'Imperituro se Brahman è privo di azione?",
+    "problem": "L'ordine cosmico non deriva da un atto volitivo antropomorfo o da\nuno sforzo contingente, bensì dalla pura presenza immutabile dell'Assoluto, che\nfunge da fondamento e norma oggettiva in virtù della quale gli elementi\nconservano i propri limiti naturali.",
+    "concepts": [
+      "prasasana",
+      "aksara"
+    ],
+    "passages": [
+      "bu-3-8-9"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-prasasana-ordine-cosmico.json"
+  },
+  "q-bu-primato-prana-disputa": {
+    "id": "q-bu-primato-prana-disputa",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per quale ragione il Soffio vitale (Prāṇa)\ntrionfa in modo incontrastato nella disputa tra le facoltà corporee?",
+    "problem": "Mentre l'organismo può continuare a sussistere privato della vista,\ndell'udito, della parola, della mente o della capacità generativa (vivendo come\ncieco, muto o stolto), il ritrarsi del Soffio vitale provoca l'immediato\nsradicamento e il collasso mortale di tutte le altre facoltà, provando che esso\ncostituisce il fondamento immanente della vita.",
+    "concepts": [
+      "prana"
+    ],
+    "passages": [
+      "bu-6-1-7",
+      "bu-6-1-12",
+      "bu-6-1-13"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-primato-prana-disputa.json"
+  },
+  "q-bu-prova-uomo-addormentato": {
+    "id": "q-bu-prova-uomo-addormentato",
+    "scope": "local",
+    "type": "specific",
+    "text": "Che cosa dimostra metafisicamente l'esperimento dell'uomo addormentato compiuto\nda Ajātaśatru?",
+    "problem": "Il dormiente continua a respirare, eppure non ode\nle invocazioni dirette al Prāṇa: ciò dimostra in modo inconfutabile che il\nprincipio coscienziale testimone (il soggetto conoscente) non coincide con il\nsoffio vitale biologico né con gli organi sensoriali, ma è una realtà\ntrascendente che li illumina dall'interno.",
+    "concepts": [
+      "vijnanamaya-purusa",
+      "prana",
+      "atman"
+    ],
+    "passages": [
+      "bu-2-1-15",
+      "bu-2-1-16",
+      "bu-2-1-17"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-prova-uomo-addormentato.json"
+  },
+  "q-bu-purnam-invarianza-assoluto": {
+    "id": "q-bu-purnam-invarianza-assoluto",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'invocazione «Pūrṇam adaḥ pūrṇam idam»\nesclude qualsiasi mutamento reale nell'Assoluto?",
+    "problem": "L'emanazione del\nmondo dal principio trascendente non comporta una diminuzione o frammentazione\nmateriale di Brahman: l'Assoluto rimane Pienezza infinita e invariata sia prima\nsia durante sia dopo la manifestazione fenomenica.",
+    "concepts": [
+      "purnam",
+      "brahman"
+    ],
+    "passages": [
+      "bu-5-1-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-purnam-invarianza-assoluto.json"
+  },
+  "q-bu-quarto-piede-gayatri-parorajas": {
+    "id": "q-bu-quarto-piede-gayatri-parorajas",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato metafisico\ndel quarto piede (turīya) della Gāyatrī qualificato come «al di là della\npolvere» (parorajas)?",
+    "problem": "I primi tre piedi abbracciano la totalità\ndel cosmo fenomenico: i tre mondi fisici, i tre Veda rituali e i tre soffi\nvitali corporei. Il quarto piede trascende ogni contingenza: esso coincide con\nla pura Coscienza che risplende immacolata al di sopra della passionalità e\ndell'agitazione (rajas) dell'universo.",
+    "concepts": [
+      "turiya-pada-gayatri",
+      "brahman"
+    ],
+    "passages": [
+      "bu-5-14-4",
+      "bu-5-14-7"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-quarto-piede-gayatri-parorajas.json"
+  },
+  "q-bu-radice-metafisica-abhaya": {
+    "id": "q-bu-radice-metafisica-abhaya",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo la realizzazione apofatica del «Neti neti» conferisce lo stato di\nTotale Assenza di Paura (Abhaya)?",
+    "problem": "Il timore ontologico ha origine\nunicamente dall'ammissione della dualità, cioè dalla credenza in un'alterità\nesterna oggettiva che possa minacciare l'ente. Riconoscendo che il Sé\ninafferrabile e incorruttibile non ha un secondo al di fuori di sé, ogni radice\ndi angoscia viene definitivamente recisa.",
+    "concepts": [
+      "abhaya",
+      "neti-neti",
+      "atman"
+    ],
+    "passages": [
+      "bu-4-2-4"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-radice-metafisica-abhaya.json"
+  },
+  "q-bu-riduzione-dei-molteplici-all-uno": {
+    "id": "q-bu-riduzione-dei-molteplici-all-uno",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'apparente moltitudine delle divinità vediche\nsi riduce metafisicamente all'Unico?",
+    "problem": "Il pantheon delle 3306\ndivinità non esprime un politeismo frammentario, ma una gerarchia di potenze\ncosmiche che si risolve prima nelle 33 funzioni primarie, poi nelle sfere degli\nelementi, fino a ricondursi all'unico Soffio universale (Prāṇa) che coincide con\nBrahman.",
+    "concepts": [
+      "brahman",
+      "prana"
+    ],
+    "passages": [
+      "bu-3-9-1",
+      "bu-3-9-2",
+      "bu-3-9-9"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-riduzione-dei-molteplici-all-uno.json"
+  },
+  "q-bu-ruolo-maya-molteplicita": {
+    "id": "q-bu-ruolo-maya-molteplicita",
+    "scope": "local",
+    "type": "specific",
+    "text": "Come opera Māyā nel far apparire multiforme l'unica Realtà immutabile?",
+    "problem": "Il passo fondamentale «Indro māyābhiḥ pururūpa īyate» attesta che la\ndiversificazione del Signore nei corpi e negli organi non comporta una\nmodificazione reale (pariṇāma) della Sua essenza, bensì un'apparenza proiettiva\ndeterminata dalle potenze illusorie della manifestazione.",
+    "concepts": [
+      "maya",
+      "brahman"
+    ],
+    "passages": [
+      "bu-2-5-18"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-ruolo-maya-molteplicita.json"
+  },
+  "q-bu-sacralizzazione-generazione": {
+    "id": "q-bu-sacralizzazione-generazione",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo l'Upaniṣad trasforma l'unione coniugale da atto istintivo\nin sacrificio cosmico?",
+    "problem": "La generazione umana non è considerata un\nfatto biologico profano, ma la distillazione suprema degli elementi (terra,\nacqua, piante, fiori, frutti, uomo, seme). Contemplare il grembo come altare\nsacrificale permette di purificare il desiderio e di integrare la continuità\ndella vita nell'ordine universale del Dharma.",
+    "concepts": [
+      "putramantha",
+      "stri-yajna"
+    ],
+    "passages": [
+      "bu-6-4-1",
+      "bu-6-4-2",
+      "bu-6-4-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-sacralizzazione-generazione.json"
+  },
+  "q-bu-sakshad-aparokshad-brahma": {
+    "id": "q-bu-sakshad-aparokshad-brahma",
+    "scope": "local",
+    "type": "specific",
+    "text": "Che cosa esprime la designazione di Brahman come «immediato ed evidente»\n(sākṣād aparokṣāt)?",
+    "problem": "Brahman non è una deduzione speculativa\nlontana né un oggetto percepito per il tramite di strumenti esterni (come un\nsasso o un albero). Esso è 'aparokṣa' perché coincide con la coscienza\ntestimoniale stessa, intimamente presente a ciascuno come fondamento innegabile\ndell'esperienza.",
+    "concepts": [
+      "sakshad-aparokshat",
+      "sarvantara",
+      "atman"
+    ],
+    "passages": [
+      "bu-3-4-1",
+      "bu-3-4-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-sakshad-aparokshad-brahma.json"
+  },
+  "q-bu-saptanna-significato": {
+    "id": "q-bu-saptanna-significato",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual\nè il significato metafisico della produzione dei sette nutrimenti?",
+    "problem": "Il testo sintetizza l'intero ciclo della manifestazione come interscambio\nvitale tra il soggetto mangiatore e il cibo oggettivo. L'uomo stesso ricrea\nincessantemente l'universo mediante il proprio desiderio (kāma) e la propria\nattività operativa (karma).",
+    "concepts": [
+      "saptanna",
+      "prana"
+    ],
+    "passages": [
+      "bu-1-5-1",
+      "bu-1-5-2",
+      "bu-1-5-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-saptanna-significato.json"
+  },
+  "q-bu-satya-anrta-inclusione": {
+    "id": "q-bu-satya-anrta-inclusione",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché il nome segreto di Satya racchiude la non-verità\n(anṛta) tra due sillabe di verità?",
+    "problem": "L'errore empirico e l'illusione\nfenomenica non possiedono un'esistenza autonoma opposta al Vero: essi sono\navvolti, contenuti e riassorbiti dall'Essere (Sat), partecipando della\nconsistenza dell'unico Sostrato immutabile.",
+    "concepts": [
+      "satya-brahman",
+      "brahman"
+    ],
+    "passages": [
+      "bu-5-5-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-satya-anrta-inclusione.json"
+  },
+  "q-bu-satyasya-satyam-ragno-scintille": {
+    "id": "q-bu-satyasya-satyam-ragno-scintille",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che senso l'Ātman è definito «la Verità della verità» (Satyasya\nSatyam)?",
+    "problem": "Le entità del cosmo e gli organi vitali possiedono una\nrealtà fenomenica provvisoria (satya); l'Ātman è il fondamento immutabile che\nconferisce loro esistenza e intelligibilità, risultando ontologicamente la\nVerità sovraordinata alla realtà dei fenomeni.",
+    "concepts": [
+      "satyasya-satyam",
+      "brahman",
+      "atman",
+      "sat-asat"
+    ],
+    "passages": [
+      "bu-2-1-20"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-satyasya-satyam-ragno-scintille.json"
+  },
+  "q-bu-segreto-del-karma": {
+    "id": "q-bu-segreto-del-karma",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché\nla dottrina del karma viene discussa in segreto tra Yājñavalkya e Ārtabhāga?",
+    "problem": "L'insegnamento che la sorte post-mortem dipende unicamente\ndall'azione morale e volitiva (karma) e non dai meri automatismi cerimoniali\nesteriori costituiva una dottrina esoterica e rivoluzionaria, che richiedeva\nriservatezza per non disorientare la società legata ai riti.",
+    "concepts": [
+      "karma-legge",
+      "punar-mrtyu"
+    ],
+    "passages": [
+      "bu-3-2-13"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-segreto-del-karma.json"
+  },
+  "q-bu-shishu-camasa-simbolismo": {
+    "id": "q-bu-shishu-camasa-simbolismo",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato della coppa rovesciata e dei sette saggi insediati nel\ncapo?",
+    "problem": "Il testo traspone la cosmologia sacrificale\nnell'architettura del corpo umano: il capo è la coppa liturgica (camasa) che\ncontiene la pienezza delle funzioni vitali, mentre i sette grandi rishi del\ncanone vedico operano come i canali percettivi (occhi, orecchie, narici, lingua)\nche mediano il rapporto tra il Sé e il mondo.",
+    "concepts": [
+      "sapta-rsayah",
+      "prana",
+      "shishu-prana"
+    ],
+    "passages": [
+      "bu-2-2-3",
+      "bu-2-2-4"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-shishu-camasa-simbolismo.json"
+  },
+  "q-bu-stato-sonno-profondo-susupti": {
+    "id": "q-bu-stato-sonno-profondo-susupti",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è la condizione del Sé nello stato di sonno profondo (suṣupti)?",
+    "problem": "Nel sonno senza sogni cessa ogni dualità di soggetto e oggetto: le\nfacoltà percettive e la mente vengono riassorbite nello spazio del cuore.\nL'assenza di percezioni oggettive non è annientamento del Sé, bensì immersione\nnella beatitudine incondizionata della propria pura natura.",
+    "concepts": [
+      "susupti",
+      "atman",
+      "hita-nadis"
+    ],
+    "passages": [
+      "bu-2-1-17",
+      "bu-2-1-19"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-stato-sonno-profondo-susupti.json"
+  },
+  "q-bu-superamento-sei-onde-esana": {
+    "id": "q-bu-superamento-sei-onde-esana",
+    "scope": "local",
+    "type": "specific",
+    "text": "In che modo la conoscenza del Sé conduce al distacco dalle tre bramosie\n(eṣaṇā-traya)?",
+    "problem": "Fame, sete, decadimento e morte appartengono al\ncorpo; afflizione e delusione appartengono alla mente. Realizzando che l'Ātman\ntrascende radicalmente queste alterazioni fenomeniche, il saggio riconosce\nl'inanità dei desideri di prole, possesso o gloria celeste, dimorando nella\npienezza autosufficiente del Sé.",
+    "concepts": [
+      "esana-traya",
+      "balya-panditya-mauna",
+      "atman"
+    ],
+    "passages": [
+      "bu-3-5-1"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-superamento-sei-onde-esana.json"
+  },
+  "q-bu-sutratman-filo-cosmico": {
+    "id": "q-bu-sutratman-filo-cosmico",
+    "scope": "local",
+    "type": "specific",
+    "text": "In quale prospettiva Vāyu è designato come\nil Filo (Sūtra) che unifica il cosmo?",
+    "problem": "La molteplicità dei corpi e\ndei mondi non collassa nel caos perché è attraversata da un'energia cosmica\nvivente e ordinatrice (Sūtrātman) che ne garantisce l'armonia d'insieme, e che\nsi dissolve solo allorché l'aggregato corporeo perisce.",
+    "concepts": [
+      "sutratman",
+      "prana"
+    ],
+    "passages": [
+      "bu-3-7-1",
+      "bu-3-7-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-sutratman-filo-cosmico.json"
+  },
+  "q-bu-trascendenza-sonno-profondo-sokantara": {
+    "id": "q-bu-trascendenza-sonno-profondo-sokantara",
+    "scope": "local",
+    "type": "specific",
+    "text": "Come si spiega che nel sonno profondo le determinazioni\netiche e sociali vengano interamente annullate?",
+    "problem": "Padre, madre,\nladro o asceta sono ruoli condizionati generati dalla sovrapposizione dell'ego\nvegliante. Allorché la dualità soggetto-oggetto cessa nell'abbraccio con il\nPrājña Ātman, cade ogni demarcazione morale provvisoria e risplende la pace\nlibera da colpa.",
+    "concepts": [
+      "sokantara",
+      "susupti",
+      "atman"
+    ],
+    "passages": [
+      "bu-4-3-21",
+      "bu-4-3-22"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-trascendenza-sonno-profondo-sokantara.json"
+  },
+  "q-bu-trayam-nama-rupa-karma": {
+    "id": "q-bu-trayam-nama-rupa-karma",
+    "scope": "local",
+    "type": "specific",
+    "text": "Come si articola la totalità del mondo manifestato nella triade Nome, Forma e\nAzione?",
+    "problem": "L'universo sensibile e mentale non contiene alcun elemento\neccedente le tre categorie di nāma (l'intelligibile/linguistico espresso dalla\nparola), rūpa (il visibile/formale colto dall'occhio) e karma (il dinamismo\ntransitivo espresso dal corpo), tutti unificati dal Sé che ne costituisce il\nfondamento reale.",
+    "concepts": [
+      "traya-rupa",
+      "namarupa",
+      "atman"
+    ],
+    "passages": [
+      "bu-1-6-1",
+      "bu-1-6-2",
+      "bu-1-6-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-trayam-nama-rupa-karma.json"
+  },
+  "q-bu-triplice-da-etica-metafisica": {
+    "id": "q-bu-triplice-da-etica-metafisica",
+    "scope": "local",
+    "type": "specific",
+    "text": "Qual è il significato interiore della triplice sillaba\n«Da-Da-Da» pronunciata da Prajāpati?",
+    "problem": "Dèi, uomini e asura\nsimboleggiano le tre tendenze che albergano nella medesima natura umana:\nl'orgoglio dei poteri superiori esige il dominio di sé (dama), l'avidità di\npossesso esige il distacco del dono (dāna), la crudeltà distruttiva esige la\npietà (dayā).",
+    "concepts": [
+      "dama-dana-daya"
+    ],
+    "passages": [
+      "bu-5-2-1",
+      "bu-5-2-2",
+      "bu-5-2-3"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-triplice-da-etica-metafisica.json"
+  },
+  "q-bu-vamsa-materno-significato": {
+    "id": "q-bu-vamsa-materno-significato",
+    "scope": "local",
+    "type": "specific",
+    "text": "Per quale motivo la genealogia conclusiva dell'intera opera viene tracciata\nattraverso i nomi delle madri?",
+    "problem": "A differenza dei lignaggi\npatrilineari dei primi capitoli, la chiusa solenne della Bṛhadāraṇyaka numera i\nmaestri in base alla loro discendenza materna (figlio di Gautamī, figlio di\nBhāradvājī, ecc.), rendendo sacro omaggio al grembo femminile come custode e\nprima matrice della trasmissione spirituale della stirpe vedica.",
+    "concepts": [
+      "parampara",
+      "brahman"
+    ],
+    "passages": [
+      "bu-6-5-1",
+      "bu-6-5-4"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-vamsa-materno-significato.json"
+  },
+  "q-bu-veggente-della-vista": {
+    "id": "q-bu-veggente-della-vista",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché non è possibile «vedere il Veggente della vista né conoscere il\nConoscitore della conoscenza»?",
+    "problem": "La vista corporea è una facoltà\ntransitiva che oggettiva ciò che le sta dinanzi; il Sé è il Soggetto assoluto\nche rende possibile la visione stessa. Pretendere di cogliere il Sé attraverso\nun atto di visione oggettiva è un'impossibilità ontologica, equiparabile al\npretendere che l'occhio veda se stesso.",
+    "concepts": [
+      "dristeh-drasta",
+      "atman",
+      "ato-nyad-artam"
+    ],
+    "passages": [
+      "bu-3-4-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-veggente-della-vista.json"
+  },
+  "q-bu-velo-aureo-verita-soham": {
+    "id": "q-bu-velo-aureo-verita-soham",
+    "scope": "local",
+    "type": "specific",
+    "text": "Cosa rappresenta il «vaso aureo» che vela la Verità e come si compie il\nriconoscimento «So 'ham asmi»?",
+    "problem": "La luce abbagliante delle forme\ncosmiche solari agisce come uno schermo splendente che occulta la Verità\nassoluta allo sguardo comune. Il devoto prega affinché i raggi si plachino,\nconsentendogli di riconoscere che la Coscienza che dimora nel centro del Sole è\nidentica al proprio Sé interiore.",
+    "concepts": [
+      "hiranmaya-patra",
+      "soham",
+      "atman"
+    ],
+    "passages": [
+      "bu-5-15-1",
+      "bu-5-15-2"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-velo-aureo-verita-soham.json"
+  },
+  "q-bu-vrata-prana": {
+    "id": "q-bu-vrata-prana",
+    "scope": "local",
+    "type": "specific",
+    "text": "Perché il solo voto che non\ndecade è l'identificazione con il Prāṇa?",
+    "problem": "Tutti gli organi\nspecifici (vista, udito, parola) vengono ghermiti dalla Morte sotto forma di\nstanchezza a causa della loro discontinuità. Solo il soffio vitale opera\nincessantemente senza stancarsi, rendendo l'identificazione con esso l'unico\nmezzo per superare la caducità.",
+    "concepts": [
+      "vrata",
+      "prana",
+      "mrtyu"
+    ],
+    "passages": [
+      "bu-1-5-21",
+      "bu-1-5-22",
+      "bu-1-5-23"
+    ],
+    "commentaries": [],
+    "related_questions": [],
+    "specific_questions": [],
+    "source_file": "questions/q-bu-vrata-prana.json"
+  },
   "q-chandogya-ahara-suddhi-granthi": {
     "id": "q-chandogya-ahara-suddhi-granthi",
     "scope": "local",

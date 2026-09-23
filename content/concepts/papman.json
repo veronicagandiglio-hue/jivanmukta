@@ -1,0 +1,21 @@
+{
+  "id": "papman",
+  "name": "Pāpman",
+  "transliteration": "pāpman",
+  "gloss": "Il male\nmetafisico inteso come inclinazione egoica individuale (rāga e dveṣa), derivante\ndall'ignoranza fondamentale che spinge gli organi percettivi a ricercare il\nproprio compiacimento separato.",
+  "passages": [
+    "bu-1-3-2",
+    "bu-1-3-3",
+    "bu-1-3-4",
+    "bu-1-3-5",
+    "bu-1-3-6",
+    "bu-1-3-7",
+    "bu-1-3-10"
+  ],
+  "related_concepts": [
+    "mrtyu"
+  ],
+  "authors": [
+    "yajnavalkya"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "q-bu-shishu-camasa-simbolismo",
+  "scope": "local",
+  "type": "specific",
+  "text": "Qual è il significato della coppa rovesciata e dei sette saggi insediati nel\ncapo?",
+  "problem": "Il testo traspone la cosmologia sacrificale\nnell'architettura del corpo umano: il capo è la coppa liturgica (camasa) che\ncontiene la pienezza delle funzioni vitali, mentre i sette grandi rishi del\ncanone vedico operano come i canali percettivi (occhi, orecchie, narici, lingua)\nche mediano il rapporto tra il Sé e il mondo.",
+  "concepts": [
+    "sapta-rsayah",
+    "prana",
+    "shishu-prana"
+  ],
+  "passages": [
+    "bu-2-2-3",
+    "bu-2-2-4"
+  ],
+  "commentaries": [],
+  "related_questions": [],
+  "specific_questions": []
+}

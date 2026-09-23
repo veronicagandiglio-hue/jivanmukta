@@ -242,6 +242,12 @@
     "related_authors": [],
     "source_file": "authors/vedic-rishis.json"
   },
+  "yajnavalkya": {
+    "id": "yajnavalkya",
+    "name": "Yājñavalkya",
+    "role": "author",
+    "source_file": "authors/yajnavalkya.json"
+  },
   "yama": {
     "id": "yama",
     "name": "Yama",

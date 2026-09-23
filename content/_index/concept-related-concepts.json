@@ -1,4 +1,183 @@
 {
+  "abhaya": [
+    "atman",
+    "brahman",
+    "neti-neti",
+    "brahmaiva-san-brahmapyeti",
+    "sokantara"
+  ],
+  "atman": [
+    "abhaya",
+    "adhyatma-yoga",
+    "adrsto-drasta",
+    "advaita-drashta",
+    "aham-brahmasmi",
+    "ahinirlvayani",
+    "akasa",
+    "amrtatva",
+    "annamaya-manas",
+    "antaryamin",
+    "asanga-purusa",
+    "asariira",
+    "atma-han",
+    "purna",
+    "isha",
+    "ekatva",
+    "soham",
+    "ato-nyad-artam",
+    "aupanisada-purusa",
+    "avasthatraya",
+    "avinashi-anucchitti",
+    "ayam-atma-brahma",
+    "balya-panditya-mauna",
+    "bhaya",
+    "bhuman",
+    "brahmaiva-san-brahmapyeti",
+    "brahmavid-brahmaiva-bhavati",
+    "buddhi-intelletto",
+    "dahara-vidya",
+    "dristeh-drasta",
+    "dristir-avinashini",
+    "dva-suparna",
+    "esana-traya",
+    "hrdaya-centro",
+    "hridaya-guha",
+    "indha-viraj",
+    "jivanmukti",
+    "jyotis-interiore",
+    "madhu-vidya",
+    "mahavakya",
+    "mantravid-vs-atmavid",
+    "maya",
+    "namarupa",
+    "neti-neti",
+    "prajnana",
+    "prana-samvada",
+    "prana",
+    "pranava",
+    "purnam",
+    "purusa",
+    "purusha",
+    "sadhana-catushtaya",
+    "sakshad-aparokshat",
+    "sandilya-vidya",
+    "sarvantara",
+    "sarvatmabhava",
+    "sat",
+    "satya",
+    "satyasankalpa",
+    "satyasya-satyam",
+    "setu",
+    "shravana-manana-nididhyasana",
+    "sokantara",
+    "susupti",
+    "svapna-e-susupti",
+    "svapna",
+    "svarajya",
+    "svayam-jyotis",
+    "tat-tvam-asi",
+    "traya-rupa",
+    "turiya-pada-gayatri",
+    "turiya",
+    "utkranti",
+    "uttama-purusa",
+    "vaisvanara",
+    "vijnanaghana",
+    "vijnanam-anandam-brahma",
+    "vijnanamaya-purusa",
+    "vijnanatman",
+    "vijnatar"
+  ],
+  "brahman": [
+    "abhaya",
+    "advaita-drashta",
+    "aham-brahmasmi",
+    "akasa",
+    "aksara",
+    "amrtatva",
+    "animan",
+    "antaryamin",
+    "asvattha-albero-cosmico",
+    "aupanisada-purusa",
+    "avinashi-anucchitti",
+    "ayam-atma-brahma",
+    "balya-panditya-mauna",
+    "bhuman",
+    "brahma-vidya",
+    "brahmaiva-san-brahmapyeti",
+    "sakshin",
+    "vidita-avidita",
+    "upadhi-upasana",
+    "tadvana",
+    "brahmasamstha",
+    "brahmavid-brahmaiva-bhavati",
+    "dahara-vidya",
+    "deva-abhimana",
+    "devayana",
+    "dharma",
+    "ekamevadvitiyam",
+    "ekapad-brahma",
+    "hiranmaya-patra",
+    "hridaya-granthi",
+    "jyotis-interiore",
+    "jyotis-uttama",
+    "ka-kham",
+    "madhu-vidya",
+    "madhuvidya",
+    "mahavakya",
+    "maya",
+    "moksha-amritatva",
+    "murta-amurta",
+    "namarupa-nirvahita",
+    "namarupa",
+    "neha-nanasti-kimcana",
+    "neti-neti",
+    "om-pranava",
+    "om",
+    "para-e-apara-vidya",
+    "parama-ananda",
+    "parampara",
+    "pitriyana-e-devayana",
+    "prajnana",
+    "pranava",
+    "purnam",
+    "purusa",
+    "purusha",
+    "sadhana-catushtaya",
+    "sakrd-diva",
+    "sakshad-aparokshat",
+    "samvarga",
+    "sandilya-vidya",
+    "sarvatmabhava",
+    "sat",
+    "satya-brahman",
+    "satyam-eva-jayate",
+    "satyasya-satyam",
+    "setu",
+    "shravana-manana-nididhyasana",
+    "sukha",
+    "svayam-jyotis",
+    "tajjalan",
+    "tat-tvam-asi",
+    "turiya-pada-gayatri",
+    "turiya",
+    "uttama-purusa",
+    "vacarambhana",
+    "vaisvanara",
+    "vidya-e-avidya",
+    "vijnanam-anandam-brahma"
+  ],
+  "neti-neti": [
+    "abhaya",
+    "aupanisada-purusa",
+    "ekapad-brahma",
+    "murta-amurta",
+    "neha-nanasti-kimcana",
+    "brahman",
+    "atman",
+    "satyasya-satyam",
+    "vijnatar"
+  ],
   "acarya": [
     "conoscenza",
     "acaryavan-puruso-veda"
@@ -49,114 +228,59 @@
     "adhyatma-yoga",
     "atman"
   ],
-  "atman": [
-    "adhyatma-yoga",
-    "akasa",
-    "annamaya-manas",
-    "asariira",
-    "atma-han",
-    "purna",
-    "isha",
-    "ekatva",
-    "soham",
-    "avasthatraya",
-    "bhuman",
-    "brahmavid-brahmaiva-bhavati",
-    "buddhi-intelletto",
-    "dahara-vidya",
-    "dva-suparna",
-    "hridaya-guha",
-    "jivanmukti",
-    "jyotis-interiore",
-    "mahavakya",
-    "mantravid-vs-atmavid",
-    "prajnana",
-    "prana-samvada",
-    "prana",
-    "pranava",
-    "purusa",
-    "purusha",
-    "sandilya-vidya",
-    "sarvatmabhava",
-    "sat",
-    "satya",
-    "satyasankalpa",
-    "setu",
-    "susupti",
-    "svapna-e-susupti",
-    "svarajya",
-    "tat-tvam-asi",
-    "turiya",
-    "uttama-purusa",
-    "vaisvanara",
-    "vijnanatman"
-  ],
   "jivanmukti": [
     "adhyatma-yoga",
     "moksha-amritatva",
     "atman"
   ],
+  "adrsto-drasta": [
+    "atman",
+    "antaryamin"
+  ],
+  "antaryamin": [
+    "adrsto-drasta",
+    "atman",
+    "brahman",
+    "sutratman"
+  ],
+  "advaita-drashta": [
+    "atman",
+    "brahman",
+    "parama-ananda",
+    "dristir-avinashini"
+  ],
+  "parama-ananda": [
+    "advaita-drashta",
+    "brahman"
+  ],
+  "aham-brahmasmi": [
+    "atman",
+    "brahman"
+  ],
   "ahara-suddhi": [
     "conoscenza",
     "liberazione"
+  ],
+  "ahinirlvayani": [
+    "atman",
+    "brahmaiva-san-brahmapyeti"
+  ],
+  "brahmaiva-san-brahmapyeti": [
+    "ahinirlvayani",
+    "atman",
+    "brahman",
+    "abhaya"
   ],
   "akasa": [
     "brahman",
     "atman"
   ],
-  "brahman": [
-    "akasa",
-    "aksara",
-    "animan",
-    "asvattha-albero-cosmico",
-    "bhuman",
-    "brahma-vidya",
-    "sakshin",
-    "vidita-avidita",
-    "upadhi-upasana",
-    "tadvana",
-    "brahmasamstha",
-    "brahmavid-brahmaiva-bhavati",
-    "dahara-vidya",
-    "deva-abhimana",
-    "devayana",
-    "ekamevadvitiyam",
-    "hridaya-granthi",
-    "jyotis-interiore",
-    "jyotis-uttama",
-    "ka-kham",
-    "madhuvidya",
-    "mahavakya",
-    "moksha-amritatva",
-    "namarupa-nirvahita",
-    "om-pranava",
-    "om",
-    "para-e-apara-vidya",
-    "pitriyana-e-devayana",
-    "prajnana",
-    "pranava",
-    "purusa",
-    "purusha",
-    "sakrd-diva",
-    "samvarga",
-    "sandilya-vidya",
-    "sarvatmabhava",
-    "sat",
-    "satyam-eva-jayate",
-    "setu",
-    "sukha",
-    "tajjalan",
-    "tat-tvam-asi",
-    "turiya",
-    "uttama-purusa",
-    "vacarambhana",
-    "vaisvanara",
-    "vidya-e-avidya"
-  ],
   "aksara": [
     "brahman",
     "purusha",
+    "kripana",
     "para-e-apara-vidya",
+    "prasasana",
     "vijnanatman"
   ],
   "purusha": [
@@ -177,6 +301,10 @@
     "atman",
     "sukha"
   ],
+  "amrtatva": [
+    "atman",
+    "brahman"
+  ],
   "animan": [
     "sat",
     "brahman"
@@ -196,12 +324,52 @@
     "atman",
     "conoscenza"
   ],
+  "sutratman": [
+    "antaryamin",
+    "prana"
+  ],
   "apaddharma": [
     "conoscenza"
+  ],
+  "asanga-purusa": [
+    "atman"
   ],
   "asariira": [
     "atman",
     "liberazione"
+  ],
+  "ashvamedha": [
+    "upasana",
+    "prajapati"
+  ],
+  "upasana": [
+    "ashvamedha",
+    "ativimukti",
+    "brahma-rtvik",
+    "chandas",
+    "dahara-vidya",
+    "dhyana",
+    "madhuvidya",
+    "mantha",
+    "om",
+    "pranagnihotra",
+    "purusa-yajna",
+    "saman",
+    "sandilya-vidya",
+    "sapta-rsayah",
+    "sarvatmabhava",
+    "savana",
+    "stobha",
+    "udgitha",
+    "conoscenza",
+    "vrata"
+  ],
+  "prajapati": [
+    "ashvamedha",
+    "kama",
+    "mrtyu",
+    "prana",
+    "rayi"
   ],
   "asura-vidya": [
     "vidya-avidya"
@@ -223,14 +391,38 @@
   ],
   "prana": [
     "ativadin",
+    "hita-nadis",
     "mantha",
     "pitriyana-e-devayana",
     "prajapati",
     "prana-samvada",
+    "prana-vidya",
     "rayi",
     "atman",
     "sodasa-kala",
-    "samvarga"
+    "samvarga",
+    "sapta-rsayah",
+    "saptanna",
+    "shishu-prana",
+    "sutratman",
+    "utkranti"
+  ],
+  "ativimukti": [
+    "mrtyu",
+    "upasana"
+  ],
+  "mrtyu": [
+    "ativimukti",
+    "ato-nyad-artam",
+    "graha-atigraha",
+    "jyotis-tamas",
+    "kama",
+    "kripana",
+    "prajapati",
+    "papman",
+    "parama-tapas",
+    "punar-mrtyu",
+    "sat-asat"
   ],
   "atma-han": [
     "atman",
@@ -272,6 +464,15 @@
     "ekatva",
     "purna"
   ],
+  "ato-nyad-artam": [
+    "atman",
+    "mrtyu"
+  ],
+  "aupanisada-purusa": [
+    "brahman",
+    "atman",
+    "neti-neti"
+  ],
   "avasthatraya": [
     "atman",
     "conoscenza"
@@ -280,6 +481,28 @@
     "avidya",
     "sambhuti-asambhuti"
   ],
+  "avinashi-anucchitti": [
+    "atman",
+    "brahman",
+    "vijnanaghana"
+  ],
+  "vijnanaghana": [
+    "avinashi-anucchitti",
+    "atman",
+    "vijnatar"
+  ],
+  "ayam-atma-brahma": [
+    "atman",
+    "brahman",
+    "madhu-vidya"
+  ],
+  "balya-panditya-mauna": [
+    "atman",
+    "brahman"
+  ],
+  "bhaya": [
+    "atman"
+  ],
   "sukha": [
     "bhuman",
     "brahman"
@@ -287,25 +510,6 @@
   "brahma-rtvik": [
     "upasana",
     "conoscenza"
-  ],
-  "upasana": [
-    "brahma-rtvik",
-    "chandas",
-    "dahara-vidya",
-    "dhyana",
-    "madhuvidya",
-    "mantha",
-    "om",
-    "pranagnihotra",
-    "purusa-yajna",
-    "saman",
-    "sandilya-vidya",
-    "sarvatmabhava",
-    "savana",
-    "stobha",
-    "udgitha",
-    "conoscenza",
-    "vrata"
   ],
   "brahma-vidya": [
     "brahman",
@@ -360,11 +564,30 @@
     "upasana",
     "nadi"
   ],
+  "dama-dana-daya": [
+    "dharma"
+  ],
+  "dharma": [
+    "dama-dana-daya",
+    "sat-asat",
+    "brahman",
+    "prasasana",
+    "sampratti"
+  ],
   "devayana": [
     "liberazione",
     "brahman",
     "pancagni-vidya",
+    "pitriyana",
     "pitryana"
+  ],
+  "sat-asat": [
+    "dharma",
+    "jyotis-tamas",
+    "murta-amurta",
+    "mrtyu",
+    "satya-brahman",
+    "satyasya-satyam"
   ],
   "dharmaskandha": [
     "brahmasamstha",
@@ -372,6 +595,19 @@
   ],
   "dhyana": [
     "upasana"
+  ],
+  "dristeh-drasta": [
+    "atman",
+    "sarvantara"
+  ],
+  "sarvantara": [
+    "dristeh-drasta",
+    "sakshad-aparokshat",
+    "atman"
+  ],
+  "dristir-avinashini": [
+    "atman",
+    "advaita-drashta"
   ],
   "dva-suparna": [
     "atman",
@@ -381,10 +617,51 @@
     "sat",
     "brahman"
   ],
+  "ekapad-brahma": [
+    "brahman",
+    "neti-neti"
+  ],
   "tyaga": [
     "ekatva",
     "isha",
     "karman"
+  ],
+  "esana-traya": [
+    "atman"
+  ],
+  "graha-atigraha": [
+    "karma-legge",
+    "mrtyu"
+  ],
+  "karma-legge": [
+    "graha-atigraha",
+    "punar-mrtyu",
+    "pitriyana"
+  ],
+  "hiranmaya-patra": [
+    "satya-brahman",
+    "brahman"
+  ],
+  "satya-brahman": [
+    "hiranmaya-patra",
+    "brahman",
+    "sat-asat"
+  ],
+  "hita-nadis": [
+    "susupti",
+    "prana"
+  ],
+  "susupti": [
+    "hita-nadis",
+    "sokantara",
+    "sat",
+    "atman",
+    "svapna",
+    "vijnanamaya-purusa"
+  ],
+  "hrdaya-centro": [
+    "atman",
+    "indha-viraj"
   ],
   "hridaya-granthi": [
     "brahman",
@@ -399,6 +676,17 @@
     "atman",
     "purusha"
   ],
+  "indha-viraj": [
+    "atman",
+    "hrdaya-centro"
+  ],
+  "jatakarma": [
+    "putramantha"
+  ],
+  "putramantha": [
+    "jatakarma",
+    "stri-yajna"
+  ],
   "moksha-amritatva": [
     "jivanmukti",
     "brahman",
@@ -408,12 +696,20 @@
     "brahman",
     "atman"
   ],
+  "jyotis-tamas": [
+    "sat-asat",
+    "mrtyu"
+  ],
   "jyotis-uttama": [
     "brahman",
     "liberazione"
   ],
   "ka-kham": [
     "brahman"
+  ],
+  "kama": [
+    "mrtyu",
+    "prajapati"
   ],
   "karma-e-sacrificio": [
     "para-e-apara-vidya",
@@ -423,6 +719,19 @@
     "karma-e-sacrificio",
     "aksara",
     "brahman"
+  ],
+  "punar-mrtyu": [
+    "karma-legge",
+    "mrtyu"
+  ],
+  "kripana": [
+    "aksara",
+    "mrtyu"
+  ],
+  "madhu-vidya": [
+    "atman",
+    "brahman",
+    "ayam-atma-brahma"
   ],
   "madhuvidya": [
     "brahman",
@@ -441,12 +750,22 @@
   ],
   "mantha": [
     "upasana",
-    "prana"
+    "prana",
+    "prana-vidya"
   ],
   "mantravid-vs-atmavid": [
     "conoscenza",
     "atman",
     "liberazione"
+  ],
+  "maya": [
+    "brahman",
+    "atman"
+  ],
+  "murta-amurta": [
+    "brahman",
+    "neti-neti",
+    "sat-asat"
   ],
   "nadi": [
     "liberazione",
@@ -455,6 +774,22 @@
   "namarupa-nirvahita": [
     "brahman",
     "sat"
+  ],
+  "namarupa": [
+    "atman",
+    "brahman",
+    "saptanna",
+    "traya-rupa"
+  ],
+  "neha-nanasti-kimcana": [
+    "brahman",
+    "neti-neti"
+  ],
+  "satyasya-satyam": [
+    "neti-neti",
+    "brahman",
+    "atman",
+    "sat-asat"
   ],
   "om-pranava": [
     "brahman"
@@ -472,6 +807,15 @@
     "pancagni-vidya",
     "liberazione"
   ],
+  "papman": [
+    "mrtyu"
+  ],
+  "parama-tapas": [
+    "mrtyu"
+  ],
+  "parampara": [
+    "brahman"
+  ],
   "pitriyana-e-devayana": [
     "prana",
     "rayi",
@@ -483,13 +827,17 @@
     "prajapati",
     "prana"
   ],
-  "prajapati": [
-    "prana",
-    "rayi"
+  "pitriyana": [
+    "karma-legge",
+    "devayana"
   ],
   "prana-samvada": [
     "prana",
     "atman"
+  ],
+  "prana-vidya": [
+    "prana",
+    "mantha"
   ],
   "sodasa-kala": [
     "prana",
@@ -509,8 +857,16 @@
     "atman",
     "turiya"
   ],
+  "prasasana": [
+    "aksara",
+    "dharma"
+  ],
   "pratistha": [
     "brahma-vidya"
+  ],
+  "purnam": [
+    "brahman",
+    "atman"
   ],
   "purusa-yajna": [
     "upasana"
@@ -519,9 +875,21 @@
     "atman",
     "brahman"
   ],
+  "stri-yajna": [
+    "putramantha"
+  ],
+  "sadhana-catushtaya": [
+    "atman",
+    "brahman"
+  ],
   "sakrd-diva": [
     "brahman",
     "liberazione"
+  ],
+  "sakshad-aparokshat": [
+    "atman",
+    "brahman",
+    "sarvantara"
   ],
   "saman": [
     "upasana",
@@ -538,15 +906,41 @@
     "avidya",
     "purna"
   ],
+  "sampratti": [
+    "dharma"
+  ],
   "samvarga": [
     "brahman",
     "prana"
+  ],
+  "sandhya-sthana": [
+    "svapna",
+    "svayam-jyotis"
+  ],
+  "svapna": [
+    "sandhya-sthana",
+    "susupti",
+    "atman",
+    "vijnanamaya-purusa"
+  ],
+  "svayam-jyotis": [
+    "sandhya-sthana",
+    "atman",
+    "brahman"
   ],
   "sandilya-vidya": [
     "brahman",
     "atman",
     "upasana",
     "tajjalan"
+  ],
+  "sapta-rsayah": [
+    "prana",
+    "upasana"
+  ],
+  "saptanna": [
+    "prana",
+    "namarupa"
   ],
   "sarvatmabhava": [
     "atman",
@@ -577,6 +971,18 @@
     "brahman",
     "liberazione"
   ],
+  "shishu-prana": [
+    "prana"
+  ],
+  "shravana-manana-nididhyasana": [
+    "atman",
+    "brahman"
+  ],
+  "sokantara": [
+    "susupti",
+    "atman",
+    "abhaya"
+  ],
   "sreyas-e-preyas": [
     "vidya-e-avidya",
     "moksha-amritatva"
@@ -588,10 +994,6 @@
   "stobha": [
     "upasana",
     "udgitha"
-  ],
-  "susupti": [
-    "sat",
-    "atman"
   ],
   "svapna-e-susupti": [
     "atman",
@@ -616,18 +1018,44 @@
     "brahman",
     "mahavakya"
   ],
+  "traya-rupa": [
+    "namarupa",
+    "atman"
+  ],
   "trivrtkarana": [
     "sat"
+  ],
+  "turiya-pada-gayatri": [
+    "brahman",
+    "atman"
   ],
   "turiya": [
     "brahman",
     "atman",
     "pranava"
   ],
+  "utkranti": [
+    "prana",
+    "atman"
+  ],
   "uttama-purusa": [
     "atman",
     "brahman",
     "liberazione"
+  ],
+  "vijnatar": [
+    "vijnanaghana",
+    "atman",
+    "neti-neti"
+  ],
+  "vijnanam-anandam-brahma": [
+    "brahman",
+    "atman"
+  ],
+  "vijnanamaya-purusa": [
+    "atman",
+    "susupti",
+    "svapna"
   ],
   "vrata": [
     "upasana"

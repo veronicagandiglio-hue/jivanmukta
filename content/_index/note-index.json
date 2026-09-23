@@ -103,6 +103,1006 @@
     "editorial_status": "established",
     "source_file": "notes/note-bana.json"
   },
+  "note-bu-abhaya-liberazione": {
+    "id": "note-bu-abhaya-liberazione",
+    "term": "abhayam",
+    "passages": [
+      "bu-4-2-4"
+    ],
+    "text": "Lo stato di 'Totale Assenza di Paura': coincide con la\nmokṣa stessa. Nel commento advaitico, la paura sorge esclusivamente quando vi è\nl'illusione di una seconda realtà oggettiva (dvitīyād vai bhayaṃ bhavati);\nrealizzata l'identità non-duale con Brahman, la paura cessa ontologicamente di\nesistere.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-abhaya-liberazione.json"
+  },
+  "note-bu-abhyaroha": {
+    "id": "note-bu-abhyaroha",
+    "term": "abhyāroha",
+    "passages": [
+      "bu-1-3-28"
+    ],
+    "text": "Ascensione o elevazione liturgica e meditativa in cui il\nsacrificante, attraverso formule rituali precise, si identifica intenzionalmente\ncon la sfera della divinità trascesa la condizione corporea mortale.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-abhyaroha.json"
+  },
+  "note-bu-acamanam": {
+    "id": "note-bu-acamanam",
+    "term": "ācamana",
+    "passages": [
+      "bu-6-1-14"
+    ],
+    "text": "Il\nrito tradizionale di sorseggiare tre sorsi d'acqua prima e dopo i pasti: nel\ncommento di Śaṅkara viene interpretato non come una mera prescrizione igienica,\nma come l'atto sacro con cui il sacrificante 'riveste' il Prāṇa interiore\naffinché l'energia vitale non rimanga spoglia.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-acamanam.json"
+  },
+  "note-bu-aditi": {
+    "id": "note-bu-aditi",
+    "term": "aditi",
+    "passages": [
+      "bu-1-2-5"
+    ],
+    "text": "Tradizionalmente la madre degli dèi e l'indivisibile; qui\nl'Upaniṣad impiega un'etimologia speculativa riconducendola alla radice 'ad'\n(mangiare), facendone il simbolo della materia onnidivoratrice.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-aditi.json"
+  },
+  "note-bu-ahinirlvayani": {
+    "id": "note-bu-ahinirlvayani",
+    "term": "ahinirlvayanī",
+    "passages": [
+      "bu-4-4-7"
+    ],
+    "text": "La spoglia abbandonata dal\nserpente: classica similitudine upaniṣadica per definire il corpo del\njīvanmukta. Il liberato continua ad agire nel mondo finché dura il prārabdha\nkarma, ma considera il proprio involucro fisico con lo stesso totale distacco\ncon cui il rettile guarda la propria muta inerte.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ahinirlvayani.json"
+  },
+  "note-bu-aksara-significato": {
+    "id": "note-bu-aksara-significato",
+    "term": "akṣara",
+    "passages": [
+      "bu-3-8-8"
+    ],
+    "text": "Significa letteralmente 'indistruttibile', 'non\nperituro' (dal privativo 'a-' e dalla radice 'kṣar', dissolversi, deperire).\nDesigna l'Assoluto increato e privo di mutamento, sostrato eterno su cui\npoggiano le matrici cosmiche grossolane e sottili.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-aksara-significato.json"
+  },
+  "note-bu-amrtam-satyena": {
+    "id": "note-bu-amrtam-satyena",
+    "term": "amṛtaṃ satyena channam",
+    "passages": [
+      "bu-1-6-3"
+    ],
+    "text": "Aforisma fondamentale\ndell'ontologia vedica: 'l'Immortale è velato dal reale'. Nel contesto esegetico\ndi Śaṅkara, 'satya' indica l'ordine degli effetti percepibili (nāmarūpa), reale\nin senso empirico (vyāvahārika) ma transitorio rispetto all'amṛta, l'immortalità\nincondizionata del Sé supremo (pāramārthika).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-amrtam-satyena.json"
+  },
+  "note-bu-ananda-mimamsa": {
+    "id": "note-bu-ananda-mimamsa",
+    "term": "ānandasya mātrā",
+    "passages": [
+      "bu-4-3-33"
+    ],
+    "text": "La dottrina della goccia di\nbeatitudine: tutti i piaceri sensibili e mondani scaturiscono dal momentaneo\nacquietamento del desiderio nella mente, che lascia trasparire una frazione\ninfima della beatitudine intrinseca dell'Ātman.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ananda-mimamsa.json"
+  },
+  "note-bu-antaryamin-etimo": {
+    "id": "note-bu-antaryamin-etimo",
+    "term": "antaryāmin",
+    "passages": [
+      "bu-3-7-3"
+    ],
+    "text": "Composto sanscrito formato da 'antar' (all'interno) e 'yāmin'\n(ordinatore/reggitore, dal verbo 'yam', frenare, governare). Designa l'Ātman in\nquanto Signore immanente che presiede dall'interno al funzionamento di tutti gli\nenti cosmici e psicofisici.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-antaryamin-etimo.json"
+  },
+  "note-bu-ardhabrgala": {
+    "id": "note-bu-ardhabrgala",
+    "term": "ardha-bṛgala",
+    "passages": [
+      "bu-1-4-3"
+    ],
+    "text": "Termine tecnico che indica la metà di una porzione\nspaccata in due, come un legume diviso o una valva di conchiglia; descrive\nsimbolicamente l'incompletezza dell'individuo isolato rispetto alla totalità\npolare originaria.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ardhabrgala.json"
+  },
+  "note-bu-arka": {
+    "id": "note-bu-arka",
+    "term": "arka",
+    "passages": [
+      "bu-1-2-1"
+    ],
+    "text": "Arka designa sia la lode rituale, sia il\nfuoco dell'altare, sia l'acqua benefica (facendo leva sull'omofonia con 'kam',\nletizia/acqua); esprime la cooperazione liturgica tra elemento igneo e acque\nprimigenie.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-arka.json"
+  },
+  "note-bu-arvagbila-camasa": {
+    "id": "note-bu-arvagbila-camasa",
+    "term": "arvāgbilaś camasaḥ",
+    "passages": [
+      "bu-2-2-3"
+    ],
+    "text": "La 'coppa con l'apertura\nverso il basso e il fondo in alto': celebre immagine enigmatica dei testi vedici\n(già presente nel Ṛgveda) che l'Upaniṣad applica univocamente al cranio umano\nrovesciato rispetto alla base del tronco.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-arvagbila-camasa.json"
+  },
+  "note-bu-asanaya": {
+    "id": "note-bu-asanaya",
+    "term": "aśanāyā",
+    "passages": [
+      "bu-1-2-1"
+    ],
+    "text": "Termine sanscrito per indicare la\nfame insaziabile o brama vorace di nutrimento. Śaṅkara precisa che la fame è la\ncaratteristica distintiva della morte fenomenica, in quanto spinta incessante al\nconsumo e all'appropriazione.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-asanaya.json"
+  },
+  "note-bu-asanga-purusa": {
+    "id": "note-bu-asanga-purusa",
+    "term": "asaṅga",
+    "passages": [
+      "bu-4-3-14"
+    ],
+    "text": "Formula cardine: 'asaṅgo hy ayaṃ puruṣaḥ' (questo Puruṣa è privo di\naderenza). Nell'esegesi di Śaṅkara dimostra che le azioni, i meriti e le colpe\nnon possono in alcun modo alterare la natura pura del Sé, appartenendo\nunicamente al veicolo mentale.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-asanga-purusa.json"
+  },
+  "note-bu-asanya-prana": {
+    "id": "note-bu-asanya-prana",
+    "term": "āsanya prāṇa",
+    "passages": [
+      "bu-1-3-7"
+    ],
+    "text": "Il soffio presente nella cavità\norale (āsye), identificato nella fisiologia tradizionale con il mukhya prāṇa, la\nforza vitale originaria e non differenziata che presiede alle funzioni\nvegetative generali, distinta dalle correnti secondarie assegnate ai singoli\nsensi percettivi.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-asanya-prana.json"
+  },
+  "note-bu-asat-sat": {
+    "id": "note-bu-asat-sat",
+    "term": "asat e sat",
+    "passages": [
+      "bu-1-3-28"
+    ],
+    "text": "Nel commento di Śaṅkara, 'asat' (non-essere / irreale) definisce le azioni\ndegradanti o l'erronea identificazione con i fattori perituri; 'sat' (essere /\nreale) indica la fedeltà all'ordine immutabile e la riscoperta della natura\nlibera e immortale.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-asat-sat.json"
+  },
+  "note-bu-asokam-ahimam": {
+    "id": "note-bu-asokam-ahimam",
+    "term": "aśokam ahimam",
+    "passages": [
+      "bu-5-10-1"
+    ],
+    "text": "«Libero da afflizione e privo\ndi gelo»: espressione arcaica che qualifica lo stato di immortalità nei mondi\nsuperiori della luce, esente sia dalla sofferenza morale (śoka) sia dalla\nrigidità mortifera della materia sensibile (hima).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-asokam-ahimam.json"
+  },
+  "note-bu-ativimukti": {
+    "id": "note-bu-ativimukti",
+    "term": "ativimukti",
+    "passages": [
+      "bu-3-1-3"
+    ],
+    "text": "La trascendenza\ntotale o liberazione superiore: il processo attraverso cui il sacrificante\nsupera i limiti temporali e mortali dell'azione liturgica identificandosi con le\npotenze cosmiche immortali.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ativimukti.json"
+  },
+  "note-bu-atmanas-tu-kamaya": {
+    "id": "note-bu-atmanas-tu-kamaya",
+    "term": "ātmanas tu kāmāya",
+    "passages": [
+      "bu-2-4-5"
+    ],
+    "text": "Formula centrale dell'assiologia\nvedāntica: 'per amore del Sé soltanto'. Non indica affatto l'egoismo psicologico\nordinario, bensì il riconoscimento che ogni moto d'affetto o di valore verso gli\nenti finiti è in realtà attratto dal riverbero della beatitudine (ānanda)\npropria dell'Ātman universale.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-atmanas-tu-kamaya.json"
+  },
+  "note-bu-ato-nyad-artam": {
+    "id": "note-bu-ato-nyad-artam",
+    "term": "ato 'nyad ārtam",
+    "passages": [
+      "bu-3-4-2"
+    ],
+    "text": "Clausola solenne: 'tutto ciò\nche è diverso da Questo è affetto da caducità e dolore'. Śaṅkara evidenzia che\nogni realtà fenomenica distinta dall'Ātman è per sua natura peritura\n(vinaśvara), illusoria (māyāmaya) e fonte inevitabile di sofferenza (duḥkha).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ato-nyad-artam.json"
+  },
+  "note-bu-atraiva-samavaniyante": {
+    "id": "note-bu-atraiva-samavaniyante",
+    "term": "atraiva samavanīyante",
+    "passages": [
+      "bu-3-2-11"
+    ],
+    "text": "«Proprio qui essi si dissolvono»:\nceleberrima clausola discussa nel Brahmasūtra (IV.2.12-13). Per l'uomo che\nconosce il Sé supremo non vi è uscita dell'anima attraverso le arterie né\ntrasmigrazione: l'illusione dell'individualità si dissolve istantaneamente\nnell'onnipresenza dell'Assoluto.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-atraiva-samavaniyante.json"
+  },
+  "note-bu-aupanisada-purusa": {
+    "id": "note-bu-aupanisada-purusa",
+    "term": "aupaniṣada puruṣa",
+    "passages": [
+      "bu-3-9-26"
+    ],
+    "text": "Termine\ntecnico capitale dell'ortodossia vedāntica: 'l'Essere svelato unicamente dalle\nUpaniṣad'. Śaṅkara vi insiste nei Brahma Sūtra (I.1.4) per provare che Brahman\nnon può essere colto mediante percezione sensoriale né mediante inferenza logica\nautonoma, ma solo attraverso la testimonianza scritturale compresa\ndall'intelletto puro.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-aupanisada-purusa.json"
+  },
+  "note-bu-avinasi-anucchitti": {
+    "id": "note-bu-avinasi-anucchitti",
+    "term": "avināśī...\nanucchittidharmā",
+    "passages": [
+      "bu-4-5-14"
+    ],
+    "text": "Formula esegetica fondamentale: 'avināśī' denota\nl'immutabilità della sostanza del Sé (assenza di distruzione causale);\n'anucchittidharmā' denota l'incorruttibilità perenne dei suoi attributi\nessenziali (la Coscienza non perde mai la propria facoltà conoscitiva).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-avinasi-anucchitti.json"
+  },
+  "note-bu-avyakrita": {
+    "id": "note-bu-avyakrita",
+    "term": "avyākṛta",
+    "passages": [
+      "bu-1-4-7"
+    ],
+    "text": "La condizione causale dell'universo antecedente\nall'esplicitazione dei nomi e delle forme (nāmarūpa); nel pensiero di Śaṅkara\nequivale a māyā o alla natura primordiale in cui gli effetti risiedono in forma\ndi potenza indistinta.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-avyakrita.json"
+  },
+  "note-bu-ayam-atma-brahma-formula": {
+    "id": "note-bu-ayam-atma-brahma-formula",
+    "term": "ayam\nātmā brahma",
+    "passages": [
+      "bu-2-5-19"
+    ],
+    "text": "Uno dei quattro Mahāvākya vedāntici canonici\n(tradizionalmente associato all'Atharvaveda nella Māṇḍūkya e qui espresso nel\ncontesto dello Śukla Yajurveda), sancisce l'assoluta identità ontologica tra il\nSé immanente e il Brahman trascendente.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ayam-atma-brahma-formula.json"
+  },
+  "note-bu-ayasya-angirasa": {
+    "id": "note-bu-ayasya-angirasa",
+    "term": "Ayāsya Āṅgirasa",
+    "passages": [
+      "bu-1-3-8"
+    ],
+    "text": "Nome di un antico ṛṣi del\nṚgveda, qui interpretato etimologicamente come epiteto del Prāṇa: 'colui che è\nnella bocca' (ayāsya) e 'linfa vitale di tutte le membra' (aṅgānāṃ rasaḥ).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ayasya-angirasa.json"
+  },
+  "note-bu-bahudaksina": {
+    "id": "note-bu-bahudaksina",
+    "term": "bahudakṣiṇa",
+    "passages": [
+      "bu-3-1-1"
+    ],
+    "text": "Sacrificio solenne caratterizzato da una distribuzione\nstraordinariamente munifica di doni sacrificali (dakṣiṇā), riservato\ntradizionalmente ai grandi sovrani per celebrare la stabilità spirituale del\nregno.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-bahudaksina.json"
+  },
+  "note-bu-balya-significato": {
+    "id": "note-bu-balya-significato",
+    "term": "bālya",
+    "passages": [
+      "bu-3-5-1"
+    ],
+    "text": "Nel commento di Śaṅkara, 'bālya' (letteralmente 'stato di\nfanciullo') non indica l'infantilismo psicologico o l'ignoranza, ma la\ncondizione interiore dell'anima affrancata dall'arroganza dottrinale, dal\ndesiderio di ostentazione e dalla complessità artificiosa dell'ego.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-balya-significato.json"
+  },
+  "note-bu-brahma-svayambhu": {
+    "id": "note-bu-brahma-svayambhu",
+    "term": "brahma svayambhū",
+    "passages": [
+      "bu-2-6-3"
+    ],
+    "text": "'Brahman\nl'Autosussistente': indica l'origine assoluta e non condizionata della\ntradizione spirituale, attestando che la verità metafisica non dipende da\nopinioni o convenzioni storiche contingenti.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-brahma-svayambhu.json"
+  },
+  "note-bu-brahmaiva-san": {
+    "id": "note-bu-brahmaiva-san",
+    "term": "brahmaiva san brahmāpyeti",
+    "passages": [
+      "bu-4-4-6"
+    ],
+    "text": "Formula cardine dell'Advaita: 'essendo\ngià Brahman, accede a Brahman'. Śaṅkara vi insiste per dimostrare che la\nliberazione (mokṣa) non è il frutto di un'azione (kārya) né un trasferimento\nspaziale verso un paradiso, ma la pura rimozione dell'ignoranza che velava\nl'identità perenne del Sé.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-brahmaiva-san.json"
+  },
+  "note-bu-brahmavadini": {
+    "id": "note-bu-brahmavadini",
+    "term": "brahmavādinī",
+    "passages": [
+      "bu-4-5-1"
+    ],
+    "text": "Titolo tradizionale riservato alle donne sapienti dell'antichità\nvedica che consacravano la propria esistenza allo studio, alla disputa\nfilosofica e alla realizzazione diretta di Brahman, distinte dalle 'sadyovadhū'\ndedite unicamente ai doveri matrimoniali.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-brahmavadini.json"
+  },
+  "note-bu-brahmistha": {
+    "id": "note-bu-brahmistha",
+    "term": "brahmiṣṭha",
+    "passages": [
+      "bu-3-1-2"
+    ],
+    "text": "Superlativo relativo: 'il più eccelso conoscitore di\nBrahman'. Il titolo implica la sintesi perfetta tra l'erudizione scritturale e\nla realizzazione metafisica diretta.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-brahmistha.json"
+  },
+  "note-bu-damyata-datta-dayadhvam": {
+    "id": "note-bu-damyata-datta-dayadhvam",
+    "term": "dāmyata,\ndatta, dayadhvam",
+    "passages": [
+      "bu-5-2-3"
+    ],
+    "text": "La triplice esortazione etica universale: 'dama'\n(freno alle passioni sensibili), 'dāna' (generosità contro l'accumulo egoico),\n'dayā' (compassione misericordiosa contro la sopraffazione), compendio\ndell'intero Dharma pratico dell'umanità.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-damyata-datta-dayadhvam.json"
+  },
+  "note-bu-devayana-pitriyana-distinzione": {
+    "id": "note-bu-devayana-pitriyana-distinzione",
+    "term": "devayāna e pitṛyāna",
+    "passages": [
+      "bu-6-2-16"
+    ],
+    "text": "La grande bipartizione\ndei destini post-mortem: il Devayāna (sentiero della luce solare) conduce alla\nliberazione progressiva (krama-mukti) senza ritorno al saṃsāra; il Pitṛyāna\n(sentiero lunare del fumo) conduce a paradisi temporali commisurati ai meriti\nrituali, seguiti dall'inevitabile reincarnazione terrena.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-devayana-pitriyana-distinzione.json"
+  },
+  "note-bu-driptabalaki": {
+    "id": "note-bu-driptabalaki",
+    "term": "dṛpta-bālāki",
+    "passages": [
+      "bu-2-1-1"
+    ],
+    "text": "Bālāki il superbo: epiteto che nella tradizione\ndenota la condizione di chi possiede un'erudizione liturgica e teologica\ncondizionata, ma presume arrogantemente di conoscere l'Assoluto prima di averne\nrealizzata la natura incondizionata.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-driptabalaki.json"
+  },
+  "note-bu-dristeh-avinashitva": {
+    "id": "note-bu-dristeh-avinashitva",
+    "term": "dṛṣṭer avināśitvam",
+    "passages": [
+      "bu-4-3-23"
+    ],
+    "text": "L'imperituro atto della visione: principio fondamentale dell'epistemologia\nadvaitica. La Coscienza testimoniale (sākṣi-caitanya) è eterna per essenza\n(svarūpa-jñāna) e non cessa di splendere nel sonno profondo; ciò che viene a\nmancare è soltanto la conoscenza empirica modificata (vṛtti-jñāna) diretta verso\noggetti esteriori.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-dristeh-avinashitva.json"
+  },
+  "note-bu-duhitr-pandita": {
+    "id": "note-bu-duhitr-pandita",
+    "term": "duhitā paṇḍitā",
+    "passages": [
+      "bu-6-4-17"
+    ],
+    "text": "«Una figlia sapiente e istruita»: il\ntermine 'paṇḍitā' attesta la piena parità nell'accesso alla cultura sacra e alla\nspeculazione filosofica per le donne qualificate, testimoniata nell'opera stessa\ndai grandiosi dibattiti di Gārgī e Maitreyī.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-duhitr-pandita.json"
+  },
+  "note-bu-dvitayad-bhayam": {
+    "id": "note-bu-dvitayad-bhayam",
+    "term": "dvitīyād vai bhayaṃ bhavati",
+    "passages": [
+      "bu-1-4-2"
+    ],
+    "text": "Aforisma cardine dell'ontologia non-duale: 'dalla dualità nasce la paura'.\nPoiché ogni alterità oggettiva postula un limite e un potenziale conflitto, solo\nil superamento dell'illusione della dualità estingue radicalmente l'angoscia.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-dvitayad-bhayam.json"
+  },
+  "note-bu-ekapad-brahman": {
+    "id": "note-bu-ekapad-brahman",
+    "term": "ekapād brahma",
+    "passages": [
+      "bu-4-1-2"
+    ],
+    "text": "Espressione tecnica per denotare una comprensione unilaterale o\n'zoppa' dell'Assoluto: considerare Brahman coincidente con una singola funzione\nfenomenica (la parola, l'occhio, la mente) senza risalire alla sua sorgente pura\ne incondizionata nello Spazio etereo.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ekapad-brahman.json"
+  },
+  "note-bu-esana-traya-def": {
+    "id": "note-bu-esana-traya-def",
+    "term": "eṣaṇā",
+    "passages": [
+      "bu-3-5-1"
+    ],
+    "text": "Il termine designa la spinta bramosica del desiderio egoico,\narticolata nella triade classica: desiderio di prole (perpetuazione biologica\nnel mondo degli uomini), desiderio di beni materiali (perpetuazione dei riti per\nil mondo degli antenati) e desiderio di cieli (conquista del mondo degli dèi).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-esana-traya-def.json"
+  },
+  "note-bu-gayams-tatre": {
+    "id": "note-bu-gayams-tatre",
+    "term": "gayān tatre",
+    "passages": [
+      "bu-5-14-5"
+    ],
+    "text": "Etimologia tradizionale della Gāyatrī: dal termine\narcaico 'gaya' (i soffi vitali dell'organismo) e dalla radice 'trā' (proteggere,\nsalvare). La Gāyatrī è il metro che preserva ed emancipa l'energia vitale dalla\ndispersione e dalla morte.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-gayams-tatre.json"
+  },
+  "note-bu-graha-atigraha-def": {
+    "id": "note-bu-graha-atigraha-def",
+    "term": "graha e atigraha",
+    "passages": [
+      "bu-3-2-1"
+    ],
+    "text": "'Graha' deriva\ndalla radice 'grah' (afferrare) e denota le facoltà sensoriali in quanto organi\nche afferrano gli stimoli; 'atigraha' indica l'oggetto o contenuto fenomenico\nche, agendo come dominatore superiore, tiene a sua volta catturato l'organo\nstesso.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-graha-atigraha-def.json"
+  },
+  "note-bu-hiranmaya-patra-simbolo": {
+    "id": "note-bu-hiranmaya-patra-simbolo",
+    "term": "hiraṇmayena pātreṇa",
+    "passages": [
+      "bu-5-15-1"
+    ],
+    "text": "Il 'vaso o\ndisco d'oro': simbolo dello splendore della manifestazione formale solare che,\ncon la sua sfolgorante bellezza empirica, agisce come uno schermo velante (māyā)\nche impedisce all'uomo ordinario di penetrare fino al volto nascosto della\nVerità assoluta.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-hiranmaya-patra-simbolo.json"
+  },
+  "note-bu-hita-nadis": {
+    "id": "note-bu-hita-nadis",
+    "term": "hitā nāḍyaḥ",
+    "passages": [
+      "bu-2-1-19"
+    ],
+    "text": "La fitta trama dei\nsettantaduemila condotti sottili che irradiano dal centro del cuore (hṛdaya)\nverso l'involucro protettivo (purītat); nella fisiologia sottile vedāntica\nfungono da vie attraverso cui la coscienza si ritira dagli organi corporei nel\nsonno profondo.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-hita-nadis.json"
+  },
+  "note-bu-huta-prahuta": {
+    "id": "note-bu-huta-prahuta",
+    "term": "huta e prahuta",
+    "passages": [
+      "bu-1-5-2"
+    ],
+    "text": "Classificazione tradizionale delle\noblazioni liturgiche: 'huta' designa l'offerta gettata direttamente nel fuoco\nper gli dèi, mentre 'prahuta' indica la porzione distribuita o consumata dopo la\ncombustione sacrificale.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-huta-prahuta.json"
+  },
+  "note-bu-indra-mayabhih": {
+    "id": "note-bu-indra-mayabhih",
+    "term": "indro māyābhiḥ pururūpa īyate",
+    "passages": [
+      "bu-2-5-18"
+    ],
+    "text": "Aforisma cardine\ndell'Advaita Vedānta (ripreso da Ṛgveda VI.47.18): il Signore (Indra/Īśvara),\nmediante le sue potenze illusorie proiettive (māyā), appare molteplice pur\nconservando la propria immutabile e non-duale unità sostanziale.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-indra-mayabhih.json"
+  },
+  "note-bu-jatakarma-vedo-si": {
+    "id": "note-bu-jatakarma-vedo-si",
+    "term": "vedo 'si",
+    "passages": [
+      "bu-6-4-26"
+    ],
+    "text": "«Tu sei il Veda»: formula pronunciata dal padre all'orecchio del\nneonato nel rito del Jātakarma. Sancisce che l'essere umano che viene alla luce\nè ontologicamente portatore della Verità eterna della Coscienza, prima ancora di\napprendere le lettere convenzionali del linguaggio.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-jatakarma-vedo-si.json"
+  },
+  "note-bu-karmanamani": {
+    "id": "note-bu-karmanamani",
+    "term": "karma-nāmāni",
+    "passages": [
+      "bu-1-4-7"
+    ],
+    "text": "Nomi derivati dall'azione;\ndenotano le facoltà sensoriali e mentali in quanto strumenti operativi (karaṇa),\nche non definiscono la sostanza immutabile del Sé ma ne indicano unicamente le\nfunzioni transitive.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-karmanamani.json"
+  },
+  "note-bu-kripana-etimo": {
+    "id": "note-bu-kripana-etimo",
+    "term": "kṛpaṇa",
+    "passages": [
+      "bu-3-8-10"
+    ],
+    "text": "Letteralmente 'avaro', 'misero' o 'meschino'. Nel\nvocabolario metafisico vedico qualifica colui che dissipa il valore prezioso\ndella nascita umana inseguendo frutti karmici transitori (paradisi celesti,\nprogenie, ricchezze) senza realizzare l'immortalità del Sé prima della morte\nfisica.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-kripana-etimo.json"
+  },
+  "note-bu-ksatrasya-ksatram": {
+    "id": "note-bu-ksatrasya-ksatram",
+    "term": "kṣatrasya kṣatram",
+    "passages": [
+      "bu-1-4-14"
+    ],
+    "text": "Letteralmente 'il potere\nsovrano del potere sovrano', 'il re del re'; formula che sancisce la\ntrascendenza del Dharma e della Verità rispetto a qualsiasi forza politica\ncontingente.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ksatrasya-ksatram.json"
+  },
+  "note-bu-ma-te-murdha": {
+    "id": "note-bu-ma-te-murdha",
+    "term": "mā te mūrdhā\nvyapaptat",
+    "passages": [
+      "bu-3-6-1"
+    ],
+    "text": "«Affinché la tua testa non si spezzi e cada»: severa\nammonizione tradizionale rivolta a chi pretende di sottoporre alla disputa\ndialettica ordinaria realtà sovra-razionali che ammettono soltanto la\ntestimonianza della Rivelazione e la realizzazione intuitiva diretta.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-ma-te-murdha.json"
+  },
+  "note-bu-madhu-significato": {
+    "id": "note-bu-madhu-significato",
+    "term": "madhu",
+    "passages": [
+      "bu-2-5-1"
+    ],
+    "text": "Significa letteralmente 'miele'. Nell'esegesi di Śaṅkara indica\nl'effetto piacevole e il mutuo nutrimento sacrificale che gli elementi cosmici e\ngli esseri viventi si scambiano reciprocamente, operando come membra solidali\ndell'unica Realtà.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-madhu-significato.json"
+  },
+  "note-bu-mahiman": {
+    "id": "note-bu-mahiman",
+    "term": "mahiman",
+    "passages": [
+      "bu-1-1-2"
+    ],
+    "text": "I due mahiman sono due recipienti\nrituali d'oro e d'argento impiegati nel sacrificio del cavallo per offrire\nlibagioni prima e dopo l'immolazione; nel testo simboleggiano le coordinate\ntemporali del giorno e della notte.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-mahiman.json"
+  },
+  "note-bu-mantha-definizione": {
+    "id": "note-bu-mantha-definizione",
+    "term": "mantha",
+    "passages": [
+      "bu-6-3-1"
+    ],
+    "text": "Pozione rituale a base di farina tostata di vari cereali e legumi\nmescolata a latte cagliato, miele e burro fuso. Nel contesto upaniṣadico non è\nuna pratica magica popolare, ma un rito liturgico superiore (Śrīmantha)\ndestinato a reintegrare nel corpo l'energia universale del Prāṇa.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-mantha-definizione.json"
+  },
+  "note-bu-murdha-vipapata": {
+    "id": "note-bu-murdha-vipapata",
+    "term": "mūrdhā vipapāta",
+    "passages": [
+      "bu-3-9-26"
+    ],
+    "text": "«La sua testa cadde»: esito\ndrammatico della sfida iniziatica. L'episodio sancisce l'inviolabilità\ndell'insegnamento metafisico dinanzi all'ostinazione sacrilega di chi pretende\ndi fare dell'Assoluto un trofeo di vanità dialettica.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-murdha-vipapata.json"
+  },
+  "note-bu-murta-amurta-significato": {
+    "id": "note-bu-murta-amurta-significato",
+    "term": "mūrta e\namūrta",
+    "passages": [
+      "bu-2-3-1"
+    ],
+    "text": "'Mūrta' indica ciò che è solido, circoscritto e dotato di\nestensione visibile (terra, acqua, fuoco); 'amūrta' designa ciò che è sottile,\nprivo di forma delimitata e penetrante (aria ed etere). Insieme compendiano la\ntotalità del mondo dei fenomeni (prapañca).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-murta-amurta-significato.json"
+  },
+  "note-bu-na-drster-drastaram": {
+    "id": "note-bu-na-drster-drastaram",
+    "term": "na dṛṣṭer\ndraṣṭāraṃ paśyeḥ",
+    "passages": [
+      "bu-3-4-2"
+    ],
+    "text": "«Non puoi vedere il Veggente della vista»:\nprincipio cardinale della gnoseologia advaitica. La vista empirica (laukika\ndṛṣṭi) è un'attività passeggera che si rivolge all'esterno; il Veggente eterno\n(pāramārthika draṣṭṛ) è il soggetto puro non-oggettivabile che illumina la\nfacoltà visiva stessa.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-na-drster-drastaram.json"
+  },
+  "note-bu-na-pretya-samjna": {
+    "id": "note-bu-na-pretya-samjna",
+    "term": "na pretya saṃjñāsti",
+    "passages": [
+      "bu-2-4-12"
+    ],
+    "text": "'Dopo la\ndipartita non vi è più coscienza particolare'. Śaṅkara chiarisce che ciò non\ndescrive l'annientamento nichilistico del Sé, bensì la cessazione definitiva\ndelle cognizioni oggettive e dualistiche generate dalla sovrapposizione degli\norgani corporei.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-na-pretya-samjna.json"
+  },
+  "note-bu-nanyo-to-sti-drasta": {
+    "id": "note-bu-nanyo-to-sti-drasta",
+    "term": "nānyo 'to 'sti draṣṭā",
+    "passages": [
+      "bu-3-7-23"
+    ],
+    "text": "«Non vi è alcun altro\nveggente all'infuori di Questo»: aforisma capitale della non-dualità,\ncostantemente addotto da Śaṅkarācārya nei Brahma Sūtra (I.2.18-20) per\ndimostrare l'unicità assoluta della Coscienza testimoniale universale.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-nanyo-to-sti-drasta.json"
+  },
+  "note-bu-neha-nanasti": {
+    "id": "note-bu-neha-nanasti",
+    "term": "neha nānāsti\nkiṃcana",
+    "passages": [
+      "bu-4-4-19"
+    ],
+    "text": "«Non vi è qui molteplicità alcuna»: enunciazione recisa\ndella non-dualità metafisica. Qualunque divisione tra soggetto percipiente, atto\npercettivo e oggetto percepito sussiste solo sul piano dell'illusione empirica\n(māyā).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-neha-nanasti.json"
+  },
+  "note-bu-neti-neti-formula": {
+    "id": "note-bu-neti-neti-formula",
+    "term": "neti neti",
+    "passages": [
+      "bu-2-3-6"
+    ],
+    "text": "Contrazione sanscrita di 'na iti, na iti' ('non così, non così'). È\nil canone dell'apofasi vedāntica: poiché l'Assoluto trascende ogni categoria\npredicabile (nāmarūpa), esso può essere indicato nella sua purezza solo negando\ntutte le determinazioni parziali che il pensiero gli sovrappone.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-neti-neti-formula.json"
+  },
+  "note-bu-nihsvasita": {
+    "id": "note-bu-nihsvasita",
+    "term": "niḥśvasita",
+    "passages": [
+      "bu-2-4-10"
+    ],
+    "text": "Letteralmente 'esalato',\n'respirato'. Dottrina fondamentale secondo cui la rivelazione vedica non è\nfrutto di composizione o sforzo volitivo (apauruṣeyatva), ma promana\ndall'Assoluto con la medesima naturalezza e spontaneità con cui il respiro\nfluisce dal vivente.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-nihsvasita.json"
+  },
+  "note-bu-nivid": {
+    "id": "note-bu-nivid",
+    "term": "nivid",
+    "passages": [
+      "bu-3-9-1"
+    ],
+    "text": "Formula o inno liturgico inserito nelle recitazioni dei sacrifici\nsolenni; nel rito Vaiśvadeva elenca tradizionalmente il computo formale\ndelle 3306 divinità cosmiche minori.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-nivid.json"
+  },
+  "note-bu-otam-ca-protam": {
+    "id": "note-bu-otam-ca-protam",
+    "term": "otaṃ ca protaṃ ca",
+    "passages": [
+      "bu-3-8-11"
+    ],
+    "text": "Metafora della tessitura tessile: 'intessuto\nper lungo e per traverso' (ordito e trama). Esprime l'intrinseca e totale\ndipendenza ontologica dell'effetto rispetto alla causa materiale che lo pervade\nin ogni sua parte.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-otam-ca-protam.json"
+  },
+  "note-bu-pancagni-significato": {
+    "id": "note-bu-pancagni-significato",
+    "term": "pañcāgni",
+    "passages": [
+      "bu-6-2-12"
+    ],
+    "text": "I Cinque Fuochi: dottrina cosmologica cardine ripresa\nsistematicamente nei Brahma Sūtra (III.1). Dimostra che l'incarnazione umana non\nè un evento biologico isolato, ma una catena sacrificale universale che collega\nil mondo celeste, la pioggia, le piante, il corpo dell'uomo e il grembo della\ndonna.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-pancagni-significato.json"
+  },
+  "note-bu-pangta-yajna": {
+    "id": "note-bu-pangta-yajna",
+    "term": "pāṅkta yajña",
+    "passages": [
+      "bu-1-4-17"
+    ],
+    "text": "Il sacrificio articolato in cinque membri,\ncorrispondente al metro poetico paṅkti formato da cinque piedi; esprime la\nquintuplicità fondamentale attraverso cui l'ordine cosmico e l'organismo umano\nvengono ricomposti a unità.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-pangta-yajna.json"
+  },
+  "note-bu-paroksapriya": {
+    "id": "note-bu-paroksapriya",
+    "term": "parokṣapriyāḥ",
+    "passages": [
+      "bu-4-2-2"
+    ],
+    "text": "«Gli dèi amano\nl'allusione velata»: celebre principio ermeneutico vedico secondo cui le verità\nsupreme non vengono mai esposte in modo volgare o esteriore, ma richiedono la\ntrasposizione simbolica per proteggere la purezza della dottrina iniziatica.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-paroksapriya.json"
+  },
+  "note-bu-parorajas": {
+    "id": "note-bu-parorajas",
+    "term": "parorajas",
+    "passages": [
+      "bu-5-14-4"
+    ],
+    "text": "Composto indicante 'al di là di\nogni polvere o contaminazione': designa la condizione trascendente dell'Assoluto\nche rifulge immacolata al di sopra del 'rajas', inteso sia come la polvere\ndell'atmosfera terrestre sia come la turbolenza passionale del divenire\ncosmico.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-parorajas.json"
+  },
+  "note-bu-prasasana-significato": {
+    "id": "note-bu-prasasana-significato",
+    "term": "praśāsana",
+    "passages": [
+      "bu-3-8-9"
+    ],
+    "text": "Termine tecnico che indica l'ordinamento sovrano, il comando o la\nsignoria impersonale. Nell'esegesi di Śaṅkara dimostra l'esistenza di Brahman\ncome Intelligenza trascendente: la regolarità delle leggi fisiche e temporali\nnon può scaturire dal caso, ma presuppone il governo costante del Sé\nimmutabile.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-prasasana-significato.json"
+  },
+  "note-bu-purisaya-purusa": {
+    "id": "note-bu-purisaya-purusa",
+    "term": "puriśaya",
+    "passages": [
+      "bu-2-5-18"
+    ],
+    "text": "Etimologia tradizionale del termine\nPuruṣa: 'colui che dimora nella città o fortezza corporea' (puri śete iti\npuruṣaḥ), a indicare la presenza coscienziale immanente dell'Ātman in tutti gli\norganismi.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-purisaya-purusa.json"
+  },
+  "note-bu-purnam-ada": {
+    "id": "note-bu-purnam-ada",
+    "term": "pūrṇam",
+    "passages": [
+      "bu-5-1-1"
+    ],
+    "text": "La 'Pienezza': concetto metafisico cardine che esprime l'infinità\nnon-numerica di Brahman. Nel commento di Śaṅkara dimostra che l'Assoluto non\nsubisce alcuna reale alterazione (pariṇāma) né perdita ontologica nella\nproiezione del mondo, rimanendo integro ed immutabile.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-purnam-ada.json"
+  },
+  "note-bu-purusavidha": {
+    "id": "note-bu-purusavidha",
+    "term": "puruṣavidha",
+    "passages": [
+      "bu-1-4-1"
+    ],
+    "text": "Composto indicante 'avente la configurazione di un\nuomo o persona'; nel commentario di Śaṅkara indica Prajāpati nello stato di\nVirāṭ, prima emissione individuale originata dai frutti delle azioni e delle\nmeditazioni del ciclo cosmico precedente.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-purusavidha.json"
+  },
+  "note-bu-putramantha-natura": {
+    "id": "note-bu-putramantha-natura",
+    "term": "putramantha",
+    "passages": [
+      "bu-6-4-1"
+    ],
+    "text": "Il rito sacro della procreazione: nella visione\nortodossa del Vedānta non è un manuale profano, ma la sacralizzazione della\nsessualità intesa come yajña (sacrificio cosmico), destinata a generare esseri\ncoscienti capaci di custodire e trasmettere la conoscenza liberatrice\ndell'Assoluto.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-putramantha-natura.json"
+  },
+  "note-bu-sakshad-aparokshad": {
+    "id": "note-bu-sakshad-aparokshad",
+    "term": "sākṣād aparokṣāt",
+    "passages": [
+      "bu-3-4-1"
+    ],
+    "text": "Due avverbi\ncongiunti che definiscono la modalità della presenza dell'Assoluto: 'sākṣāt'\nindica l'assenza di intermediari (diretto); 'aparokṣāt' indica la non-lontananza\n(non indiretto/immediato), attestando che l'Ātman non è una conoscenza\ninferenziale ma l'evidenza primaria stessa della coscienza.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-sakshad-aparokshad.json"
+  },
+  "note-bu-salila-advaita": {
+    "id": "note-bu-salila-advaita",
+    "term": "salilaḥ eko draṣṭādvaitaḥ",
+    "passages": [
+      "bu-4-3-32"
+    ],
+    "text": "«Limpido come un\noceano, l'unico Veggente non-duale»: celebre formula metafisica con cui Śaṅkara\nillustra l'omogeneità assoluta di Brahman, privo di parti interne\n(svagata-bheda), di differenze specifiche (sajātīya-bheda) o di alterità esterne\n(vijātīya-bheda).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-salila-advaita.json"
+  },
+  "note-bu-sampratti-formula": {
+    "id": "note-bu-sampratti-formula",
+    "term": "sampratti",
+    "passages": [
+      "bu-1-5-17"
+    ],
+    "text": "La solenne formula di investitura ereditaria e spirituale ('tvaṃ\nbrahma tvaṃ yajñaḥ tvaṃ lokaḥ') attraverso cui l'ordinamento generazionale\ngarantisce la perpetuità del Dharma terreno e libera il morente dai debiti\nsacrificali residui.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-sampratti-formula.json"
+  },
+  "note-bu-sandhya-sthana": {
+    "id": "note-bu-sandhya-sthana",
+    "term": "sandhya-sthāna",
+    "passages": [
+      "bu-4-3-8"
+    ],
+    "text": "Lo 'stato di\ngiuntura o soglia intermedia': designa lo stato di sogno (svapna) che si colloca\ntra l'esperienza empirica della veglia e la quiete non-oggettuale del sonno\nprofondo, rivelando la libertà demiurgica della mente priva di supporti fisici.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-sandhya-sthana.json"
+  },
+  "note-bu-santo-danto": {
+    "id": "note-bu-santo-danto",
+    "term": "śānto dāntaḥ...",
+    "passages": [
+      "bu-4-4-23"
+    ],
+    "text": "I presupposti etici e contemplativi per l'ascolto\ninteriore (vedāntasādhana): śama (tranquillità mentale), dama (padronanza dei\nsensi), uparati (rinuncia alle distrazioni mondane), titikṣā (imperturbabilità\ndinanzi agli opposti) e samādhi (concentrazione unificata).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-santo-danto.json"
+  },
+  "note-bu-saptanna-medha": {
+    "id": "note-bu-saptanna-medha",
+    "term": "medhayā tapasā",
+    "passages": [
+      "bu-1-5-1"
+    ],
+    "text": "Formula che compendia i due\npoli dell'agire vedico: la conoscenza intellettuale o discriminazione spirituale\n(medhā/vidyā) e la concentrazione energetica espressa nell'azione rituale\n(tapas/karma).",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-saptanna-medha.json"
+  },
+  "note-bu-sat-t-yam": {
+    "id": "note-bu-sat-t-yam",
+    "term": "sa-t-yam",
+    "passages": [
+      "bu-5-5-1"
+    ],
+    "text": "Scomposizione\nesoterica della parola Verità: 'Sa' e 'Yam' rappresentano l'immutabile Sat\n(l'Essere), mentre la consonante 'T' denota la natura provvisoria e peritura del\nmondo fenomenico (anṛta), che è reale solo in quanto radicato e circoscritto\ndall'Essere stesso.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-sat-t-yam.json"
+  },
+  "note-bu-sat-tyat": {
+    "id": "note-bu-sat-tyat",
+    "term": "sat e tyat",
+    "passages": [
+      "bu-2-3-1"
+    ],
+    "text": "Etimologia\nfilosofica: 'sat' denota la realtà empirica visibile e determinabile ('questo\nqui'), mentre 'tyat' indica ciò che è remoto, sottile e non percepibile\ndirettamente con la vista ('quello là').",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-sat-tyat.json"
+  },
+  "note-bu-satyasya-satyam": {
+    "id": "note-bu-satyasya-satyam",
+    "term": "satyasya satyam",
+    "passages": [
+      "bu-2-1-20"
+    ],
+    "text": "Formula centrale\ndell'Advaita: 'la Verità della verità'. Śaṅkara precisa che i prāṇa e gli\nelementi costituiscono il reale empirico (satya), mentre Brahman è la loro\nrealtà essenziale e incorruttibile (satyasya satyam), causa prima e sostrato di\nogni apparenza.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-satyasya-satyam.json"
+  },
+  "note-bu-shishu-prana": {
+    "id": "note-bu-shishu-prana",
+    "term": "śiśu",
+    "passages": [
+      "bu-2-2-1"
+    ],
+    "text": "Il\ntermine significa 'neonato' o 'vitellino'; nel simbolismo dell'Upaniṣad\nrappresenta il Prāṇa vitale centrale che, appena incarnato nel grembo e nel\ncorpo, appare privo di difese e legato alla materia nutritizia come un animale\nda latte alla stalla.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-shishu-prana.json"
+  },
+  "note-bu-sodasakala": {
+    "id": "note-bu-sodasakala",
+    "term": "ṣoḍaśakala",
+    "passages": [
+      "bu-1-5-14"
+    ],
+    "text": "Dottrina delle sedici parti\n(kalā) dell'essere, ripartita in quindici frazioni soggette all'alternanza del\ntempo lunare e in una sedicesima parte costante e imperitura (dhruvā), simbolo\ndella continuità immutabile dell'Ātman nel divenire.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-sodasakala.json"
+  },
+  "note-bu-soham-asmi": {
+    "id": "note-bu-soham-asmi",
+    "term": "so 'ham asmi",
+    "passages": [
+      "bu-5-15-2"
+    ],
+    "text": "«Egli sono io»: formula iniziatica\nuniversale che sancisce l'assoluta identità tra il jīva (l'anima cosciente nel\ncorpo) e l'Adityastha Puruṣa (l'Essere universale che risiede nel sole),\ncompendio dell'ontologia non-duale delle Upaniṣad.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-soham-asmi.json"
+  },
+  "note-bu-sokantara": {
+    "id": "note-bu-sokantara",
+    "term": "śokāntara",
+    "passages": [
+      "bu-4-3-21"
+    ],
+    "text": "Composto indicante 'al di là\ndell'angoscia' o 'in cui la sofferenza ha raggiunto la fine'; descrive\nl'emancipazione ontologica in cui ogni dolore cessa per mancanza di un secondo\noggetto da cui temere o desiderare.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-sokantara.json"
+  },
+  "note-bu-suske-sthanau": {
+    "id": "note-bu-suske-sthanau",
+    "term": "śuṣke sthāṇau",
+    "passages": [
+      "bu-6-3-7"
+    ],
+    "text": "«Persino su un tronco secco»: celebre iperbole tradizionale vedica\nvolta a rimarcare l'efficacia inesauribile del principio vitale; se la\nconsapevolezza del Prāṇa potesse essere recepita dal legno inerte, la forza\ndella vita vi farebbe rifiorire la vegetazione.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-suske-sthanau.json"
+  },
+  "note-bu-sutratman-significato": {
+    "id": "note-bu-sutratman-significato",
+    "term": "sūtra",
+    "passages": [
+      "bu-3-7-1"
+    ],
+    "text": "Il 'Filo' connettivo cosmico: dottrina tradizionale che identifica\nl'energia vitale primordiale (Prāṇa universale o Vāyu) con il principio sottile\nche permea e unifica tutti i gradi della manifestazione fenomenica.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-sutratman-significato.json"
+  },
+  "note-bu-svapiti-etimo": {
+    "id": "note-bu-svapiti-etimo",
+    "term": "svapiti",
+    "passages": [
+      "bu-2-1-17"
+    ],
+    "text": "Etimologia filosofica del verbo dormire offerta\ndal Vedānta: 'svaṃ apīto bhavati', 'è riassorbito nel proprio vero Sé',\nattestando che il sonno profondo è il temporaneo dissolversi dell'ego nella\nmatrice non-duale originaria.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-svapiti-etimo.json"
+  },
+  "note-bu-svayam-jyotis": {
+    "id": "note-bu-svayam-jyotis",
+    "term": "svayaṃ-jyotis",
+    "passages": [
+      "bu-4-3-5"
+    ],
+    "text": "Significa letteralmente 'luce a se stesso', 'autoluminoso'. Termine\ntecnico fondamentale con cui l'Advaita stabilisce che la Coscienza dell'Ātman\nnon ha bisogno di prove o strumenti esterni per rivelarsi, essendo la condizione\ntrascendente di ogni conoscenza.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-svayam-jyotis.json"
+  },
+  "note-bu-udumbara-simbolo": {
+    "id": "note-bu-udumbara-simbolo",
+    "term": "audumbara",
+    "passages": [
+      "bu-6-3-12"
+    ],
+    "text": "Il legno dell'albero di Ficus glomerata (udumbara): tradizionalmente\nassociato nella liturgia vedica alla fecondità, alla ricchezza vitale e alla\nforza generativa del dio Prajāpati.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-udumbara-simbolo.json"
+  },
+  "note-bu-utkranti-metafora": {
+    "id": "note-bu-utkranti-metafora",
+    "term": "utkrānti",
+    "passages": [
+      "bu-4-3-36"
+    ],
+    "text": "Il distacco della forza coscienziale dal corpo fisico: descritto non\ncome una distruzione violenta dell'essere, ma come la naturale separazione di un\nfrutto maturo dal suo ramo, in conformità alla maturazione karmica.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-utkranti-metafora.json"
+  },
+  "note-bu-vaisvanara": {
+    "id": "note-bu-vaisvanara",
+    "term": "vaiśvānara",
+    "passages": [
+      "bu-1-1-1"
+    ],
+    "text": "Vaiśvānara indica propriamente il fuoco cosmico o 'comune a tutti\ngli esseri umani', manifestazione esteriore e universale dell'energia ignea,\nsimbolo del principio Virāṭ.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-vaisvanara.json"
+  },
+  "note-bu-vamsa-matronimico": {
+    "id": "note-bu-vamsa-matronimico",
+    "term": "vaṃśa",
+    "passages": [
+      "bu-6-5-1"
+    ],
+    "text": "La genealogia per via matronimica (basata sul nome della madre\nanziché del padre): chiude l'intera opera riconoscendo il ruolo fondamentale e\nsacro della donna come matrice biologica e prima nutrice della virtù spirituale\ndei maestri della tradizione.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-vamsa-matronimico.json"
+  },
+  "note-bu-vijnana-intelletto": {
+    "id": "note-bu-vijnana-intelletto",
+    "term": "vijñāna",
+    "passages": [
+      "bu-3-7-22"
+    ],
+    "text": "Nel testo della\nrecensione Kāṇva, 'vijñāna' indica la facoltà conoscitiva dell'intelletto\n(buddhi) o l'anima individuale che si identifica con essa; nella recensione\nMādhyandina il termine corrisponde ad 'ātman' inteso come corpo o io\nindividuale.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-vijnana-intelletto.json"
+  },
+  "note-bu-vijnanaghana": {
+    "id": "note-bu-vijnanaghana",
+    "term": "vijñānaghana",
+    "passages": [
+      "bu-2-4-12"
+    ],
+    "text": "Composto indicante 'massa\nsolida e omogenea di consapevolezza'; esprime la non-dualità assoluta\ndell'Ātman, in cui non vi è alcuna fessura, parte o alternanza tra soggetto,\natto del conoscere e oggetto conosciuto.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-vijnanaghana.json"
+  },
+  "note-bu-vijnanam-anandam": {
+    "id": "note-bu-vijnanam-anandam",
+    "term": "vijñānam ānandaṃ\nbrahma",
+    "passages": [
+      "bu-3-9-28"
+    ],
+    "text": "Una delle vette definitorie dell'Assoluto nelle Upaniṣad:\n'Brahman è pura Consapevolezza (vijñāna) e Beatitudine assoluta (ānanda)', stato\nontologico non-duale privo di alterità, sofferenza o transitorietà.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-vijnanam-anandam.json"
+  },
+  "note-bu-vijnanamaya": {
+    "id": "note-bu-vijnanamaya",
+    "term": "vijñānamayaḥ puruṣaḥ",
+    "passages": [
+      "bu-2-1-16"
+    ],
+    "text": "L'essere\ncostituito di conoscenza o intelletto (buddhi); designa l'anima individuale\n(jīva) che nella veglia e nel sogno si identifica con gli organi cognitivi e\nnell'esame del sonno profondo viene ricondotta alla sua pura radice testimoniale\nnell'Ātman.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-vijnanamaya.json"
+  },
+  "note-bu-vijnataram-are": {
+    "id": "note-bu-vijnataram-are",
+    "term": "vijñātāram are kena vijānīyāt",
+    "passages": [
+      "bu-2-4-14"
+    ],
+    "text": "«Attraverso\nche cosa si potrebbe conoscere il Conoscitore?». È il principio apofatico ed\nepistemologico insuperabile dell'Advaita: l'occhio non può vedere se stesso né\nla luce può illuminare un'altra luce; il Sé è il Soggetto assoluto che illumina\nogni conoscenza e non può mai divenire oggetto conoscibile.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-vijnataram-are.json"
+  },
+  "note-bu-vijnataram-kena": {
+    "id": "note-bu-vijnataram-kena",
+    "term": "vijñātāram\nare kena vijānīyāt",
+    "passages": [
+      "bu-4-5-15"
+    ],
+    "text": "«Attraverso che cosa si potrebbe conoscere il\nConoscitore?». Principio cardine dell'Advaita Vedānta: il Sé è il Soggetto\nassoluto inoggettivabile che rende possibile ogni atto conoscitivo; pretendere\ndi oggettivarlo mediante i sensi o l'intelletto è una contraddizione ontologica\ninsolubile.",
+    "editorial_status": "draft",
+    "source_file": "notes/note-bu-vijnataram-kena.json"
+  },
   "note-chandogya-1-1-1-udgitha": {
     "id": "note-chandogya-1-1-1-udgitha",
     "passage_id": "chandogya-1-1-1",
