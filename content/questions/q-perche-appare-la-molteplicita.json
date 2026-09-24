@@ -1,8 +1,8 @@
 {
   "id": "q-perche-appare-la-molteplicita",
-  "scope": "global",
+  "scope": "core_path_step",
   "type": "great",
-  "homepage_priority": 8,
+  "homepage_priority": null,
   "text": "Perché appare la molteplicità?",
   "problem": "Comprendere come la molteplicità dei mondi, degli organi e delle funzioni emerga senza intaccare l'unità originaria dell'Ātman, distinguendo tra realtà essenziale e apparenza determinata da nomi e forme (nāmarūpa).",
   "passages": [
@@ -19,5 +19,6 @@
   "related_questions": [
     "q-che-cose-il-mondo",
     "q-bu-ruolo-maya-molteplicita"
-  ]
+  ],
+  "redirect_to_step": "08-perche-appare-la-molteplicita"
 }

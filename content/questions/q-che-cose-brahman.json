@@ -1,8 +1,8 @@
 {
   "id": "q-che-cose-brahman",
-  "scope": "global",
+  "scope": "core_path_step",
   "type": "great",
-  "homepage_priority": 1,
+  "homepage_priority": null,
   "text": "Che cos'è Brahman?",
   "introduction": "Brahman è il nome che la tradizione dell'Advaita Vedānta dà alla Realtà ultima, al Principio supremo e non-duale che è la sorgente, il sostegno e la sostanza di ogni cosa. Non è un dio nel senso corrente della parola: non è una divinità tra le altre, non è una potenza del cosmo, non è un essere che si trova «da qualche parte». Brahman è ciò senza di cui nulla potrebbe esistere, nulla potrebbe essere conosciuto, nulla potrebbe muoversi o agire. Le Upaniṣad non lo descrivono come un oggetto della conoscenza, ma come il Principio che rende possibile ogni conoscenza. Questa è già la prima difficoltà: Brahman non è qualcosa che possiamo afferrare con il pensiero, perché è il pensiero stesso che Brahman illumina e muove. Le domande che seguono esplorano questo paradosso attraverso i testi della tradizione.",
   "problem": "Chiarire che cosa intenda la tradizione dell'Advaita Vedānta con il termine Brahman e perché questo Principio non possa essere compreso come un semplice oggetto di conoscenza.",
@@ -33,5 +33,6 @@
     "q-che-cose-il-se",
     "q-rapporto-se-brahman",
     "q-che-cosa-significa-conoscere"
-  ]
+  ],
+  "redirect_to_step": "06-che-cose-brahman"
 }

@@ -526,7 +526,7 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
 
   if (questionsResult.status === 'ok') {
     const globalQuestions = questionsResult.data
-      .filter(q => q.scope === 'global' && !q.target_core_path_id)
+      .filter(q => q.scope === 'global' && !q.redirect_to_step)
       .sort((a, b) => (a.homepage_priority || 999) - (b.homepage_priority || 999));
 
     if (globalQuestions.length > 0) {
@@ -537,7 +537,7 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
 
         const link = document.createElement('a');
         link.href = UrlRouter.buildContentUrl('domande', q.id);
-        link.textContent = q.title || q.question || q.id;
+        link.textContent = q.text || q.title || q.question || q.id;
 
         item.appendChild(link);
 

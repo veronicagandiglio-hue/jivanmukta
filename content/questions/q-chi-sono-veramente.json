@@ -1,8 +1,8 @@
 {
   "id": "q-chi-sono-veramente",
-  "scope": "global",
+  "scope": "core_path_step",
   "type": "great",
-  "homepage_priority": 2,
+  "homepage_priority": null,
   "text": "Chi sono veramente?",
   "problem": "Indagare la vera identità del soggetto oltre il corpo, le facoltà percettive e la mente, riconoscendo il Sé come pura Coscienza testimone immutabile.",
   "passages": [
@@ -18,5 +18,6 @@
   "related_questions": [
     "q-che-cose-il-se",
     "q-che-cose-l-atman"
-  ]
+  ],
+  "redirect_to_step": "04-chi-sono-veramente"
 }

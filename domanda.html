@@ -1175,6 +1175,11 @@ body{
     const result = await ContentEngine.getQuestion(resolved.id);
     if (result.status !== 'ok') { renderError(result.status, result); return; }
 
+    if (result.data && result.data.redirect_to_step) {
+      window.location.replace(UrlRouter.buildContentUrl('percorso', result.data.redirect_to_step));
+      return;
+    }
+
     try {
       await renderQuestion(result.data);
     } catch (error) {

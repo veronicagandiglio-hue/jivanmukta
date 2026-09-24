@@ -5,5 +5,8 @@
     "chandogya-3-14-4"
   ],
   "type": "great",
-  "text": "Qual è il rapporto tra Ātman e Brahman secondo la Chāndogya Upaniṣad?"
+  "text": "Qual è il rapporto tra Ātman e Brahman secondo la Chāndogya Upaniṣad?",
+  "scope": "core_path_step",
+  "redirect_to_step": "07-che-rapporto-ce-tra-atman-e-brahman",
+  "homepage_priority": null
 }

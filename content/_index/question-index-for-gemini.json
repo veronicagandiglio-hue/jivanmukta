@@ -1635,7 +1635,7 @@
   },
   {
     "id": "q-che-cosa-significa-conoscere",
-    "scope": "global",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Che cosa significa conoscere la realtà?",
     "problem": "Chiarire perché la conoscenza ordinaria (basata sulla dualità soggetto-oggetto) non possa cogliere Brahman e in che senso esista una forma di conoscenza non-oggettiva che è invece adeguata alla natura di Brahman.",
@@ -1664,7 +1664,7 @@
   },
   {
     "id": "q-che-cosa-significa-realta",
-    "scope": "local",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Che cosa significa la realtà nella dottrina della Chāndogya Upaniṣad?",
     "problem": "",
@@ -1689,7 +1689,7 @@
   },
   {
     "id": "q-che-cose-brahman",
-    "scope": "global",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Che cos'è Brahman?",
     "problem": "Chiarire che cosa intenda la tradizione dell'Advaita Vedānta con il termine Brahman e perché questo Principio non possa essere compreso come un semplice oggetto di conoscenza.",
@@ -1747,7 +1747,7 @@
   },
   {
     "id": "q-che-cose-il-se",
-    "scope": "global",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Che cos'è il Sé?",
     "problem": "Identificare la natura dell'Ātman come Principio di coscienza trascendente che permane immutabile attraverso tutti gli stati di esperienza e che è identico, nella sua essenza, a Brahman.",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": "q-che-cose-l-assoluto",
-    "scope": "local",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Che cos'è l'Assoluto secondo la Chāndogya Upaniṣad?",
     "problem": "",
@@ -1794,7 +1794,7 @@
   },
   {
     "id": "q-che-cose-la-liberazione",
-    "scope": "global",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Che cos'è la liberazione?",
     "problem": "Chiarire in che modo la conoscenza del Sé sciolga l'identificazione con il corpo e conduca all'immortalità, senza trasformare la liberazione in una conquista empirica o in uno stato transitorio.",
@@ -1819,7 +1819,7 @@
   },
   {
     "id": "q-che-rapporto-ce-tra-atman-e-brahman",
-    "scope": "local",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Qual è il rapporto tra Ātman e Brahman secondo la Chāndogya Upaniṣad?",
     "problem": "",
@@ -1877,7 +1877,7 @@
   },
   {
     "id": "q-chi-sono-veramente",
-    "scope": "global",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Chi sono veramente?",
     "problem": "Indagare la vera identità del soggetto oltre il corpo, le facoltà percettive e la mente, riconoscendo il Sé come pura Coscienza testimone immutabile.",
@@ -2412,7 +2412,7 @@
   },
   {
     "id": "q-perche-appare-la-molteplicita",
-    "scope": "global",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Perché appare la molteplicità?",
     "problem": "Comprendere come la molteplicità dei mondi, degli organi e delle funzioni emerga senza intaccare l'unità originaria dell'Ātman, distinguendo tra realtà essenziale e apparenza determinata da nomi e forme (nāmarūpa).",
@@ -2549,7 +2549,7 @@
   },
   {
     "id": "q-rapporto-se-brahman",
-    "scope": "global",
+    "scope": "core_path_step",
     "type": "great",
     "text": "Che rapporto c'è tra il Sé e Brahman?",
     "problem": "Comprendere il fondamento dottrinale dell'identità tra Ātman e Brahman e come questa identità si concili con l'esperienza ordinaria della molteplicità e della separazione.",

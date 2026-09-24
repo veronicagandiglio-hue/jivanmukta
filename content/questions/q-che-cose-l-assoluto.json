@@ -5,5 +5,8 @@
     "chandogya-6-2-2"
   ],
   "type": "great",
-  "text": "Che cos'è l'Assoluto secondo la Chāndogya Upaniṣad?"
+  "text": "Che cos'è l'Assoluto secondo la Chāndogya Upaniṣad?",
+  "scope": "core_path_step",
+  "redirect_to_step": "03-che-cose-l-assoluto",
+  "homepage_priority": null
 }

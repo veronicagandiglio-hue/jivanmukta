@@ -1,8 +1,8 @@
 {
   "id": "q-che-cose-la-liberazione",
-  "scope": "global",
+  "scope": "core_path_step",
   "type": "great",
-  "homepage_priority": 6,
+  "homepage_priority": null,
   "text": "Che cos'è la liberazione?",
   "problem": "Chiarire in che modo la conoscenza del Sé sciolga l'identificazione con il corpo e conduca all'immortalità, senza trasformare la liberazione in una conquista empirica o in uno stato transitorio.",
   "introduction": "La liberazione (Mokṣa) nel Vedānta non è il passaggio ad un luogo celeste, né l'acquisizione di poteri straordinari, né una trasformazione dell'io in qualcosa di diverso. È la realizzazione dell'Identità Suprema: il riconoscimento che la nostra vera natura è già da sempre l'Assoluto infinito (Brahman), libero da ogni limite.",
@@ -25,5 +25,6 @@
     "q-come-si-raggiunge-la-liberazione",
     "q-e-possibile-la-liberta",
     "q-qual-e-la-natura-della-liberazione"
-  ]
+  ],
+  "redirect_to_step": "10-che-cose-la-liberazione"
 }

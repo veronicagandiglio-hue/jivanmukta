@@ -37,6 +37,18 @@
 /testi/:slug/:cap/:sez        /unita.html   200
 /testi/:slug/:cap             /unita.html   200
 
+# --- Domande integrate nelle 10 tappe del Percorso Fondamentale -----
+/domande/q-che-cosa-significa-realta            /percorso/02-che-cosa-significa-realta            301
+/domande/q-che-cose-l-assoluto                  /percorso/03-che-cose-l-assoluto                  301
+/domande/q-chi-sono-veramente                   /percorso/04-chi-sono-veramente                   301
+/domande/q-che-cose-il-se                       /percorso/05-che-cose-il-se                       301
+/domande/q-che-cose-brahman                     /percorso/06-che-cose-brahman                     301
+/domande/q-che-rapporto-ce-tra-atman-e-brahman  /percorso/07-che-rapporto-ce-tra-atman-e-brahman  301
+/domande/q-rapporto-se-brahman                  /percorso/07-che-rapporto-ce-tra-atman-e-brahman  301
+/domande/q-perche-appare-la-molteplicita        /percorso/08-perche-appare-la-molteplicita        301
+/domande/q-che-cosa-significa-conoscere         /percorso/09-che-cosa-significa-conoscere         301
+/domande/q-che-cose-la-liberazione              /percorso/10-che-cose-la-liberazione              301
+
 # --- I 5 template dinamici, un prefisso per tipo di entità ----------
 /domande/*     /domanda.html?rif=:splat     200
 /concetti/*    /concetto.html?rif=:splat    200

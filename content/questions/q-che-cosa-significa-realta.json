@@ -5,5 +5,8 @@
     "chandogya-6-2-1"
   ],
   "type": "great",
-  "text": "Che cosa significa la realtà nella dottrina della Chāndogya Upaniṣad?"
+  "text": "Che cosa significa la realtà nella dottrina della Chāndogya Upaniṣad?",
+  "scope": "core_path_step",
+  "redirect_to_step": "02-che-cosa-significa-realta",
+  "homepage_priority": null
 }
