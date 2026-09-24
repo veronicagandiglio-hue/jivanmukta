@@ -252,6 +252,46 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
   line-height: 1.5;
 }
 
+/* Sezione Domande Fondamentali (globali) */
+.great-questions-section{
+  margin-top: var(--sp-7);
+  padding-top: var(--sp-5);
+  border-top: 1px solid var(--color-rule);
+}
+.great-questions-section__title{
+  font-size: var(--fs-h2);
+  font-weight: 400;
+  margin-bottom: var(--sp-2);
+}
+.great-questions-section__desc{
+  font-size: var(--fs-body);
+  color: var(--color-ink-muted);
+  margin-bottom: var(--sp-4);
+}
+.great-questions-list{
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+}
+.great-question-item{
+  padding-block: var(--sp-3);
+  border-top: 1px solid var(--color-rule);
+}
+.great-question-item:last-child{
+  border-bottom: 1px solid var(--color-rule);
+}
+.great-question-item a{
+  font-size: 1.2rem;
+  font-weight: 700;
+  display: block;
+}
+.great-question-item__intro{
+  margin-top: var(--sp-1);
+  font-size: var(--fs-note);
+  color: var(--color-ink-muted);
+  line-height: 1.55;
+}
+
 /* Sezione Fonti Primarie (Upaniṣad) */
 .sources-section{
   margin-top: var(--sp-7);
@@ -387,6 +427,17 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
     </div>
   </section>
 
+  <!-- LE GRANDI DOMANDE FONDAMENTALI -->
+  <section class="great-questions-section measure" id="domande-fondamentali">
+    <h2 class="great-questions-section__title">Le grandi domande</h2>
+    <p class="great-questions-section__desc">
+      Le domande che attraversano l'intero percorso, indipendentemente da qualsiasi singola opera o tappa.
+    </p>
+    <div class="great-questions-list" id="global-questions-container">
+      <!-- Domande globali caricate dinamicamente -->
+    </div>
+  </section>
+
   <!-- LE FONTI TRADOTTE -->
   <section class="sources-section measure">
     <h2 class="sources-section__title">Le fonti della tradizione</h2>
@@ -466,6 +517,43 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
       card.append(link, desc);
       worksContainer.appendChild(card);
     });
+  }
+
+  // 3. Carica le domande globali (scope: "global") ordinate per homepage_priority
+  const globalQContainer = document.getElementById('global-questions-container');
+  const questionsResult = await ContentEngine.getEntities('question');
+
+  if (questionsResult.status === 'ok') {
+    const globalQuestions = questionsResult.data
+      .filter(q => q.scope === 'global')
+      .sort((a, b) => (a.homepage_priority || 999) - (b.homepage_priority || 999));
+
+    if (globalQuestions.length > 0) {
+      globalQContainer.replaceChildren();
+      globalQuestions.forEach((q) => {
+        const item = document.createElement('div');
+        item.className = 'great-question-item';
+
+        const link = document.createElement('a');
+        link.href = UrlRouter.buildContentUrl('domande', q.id);
+        link.textContent = q.title || q.question || q.id;
+
+        item.appendChild(link);
+
+        if (q.introduction) {
+          const intro = document.createElement('p');
+          intro.className = 'great-question-item__intro';
+          intro.textContent = q.introduction;
+          item.appendChild(intro);
+        }
+
+        globalQContainer.appendChild(item);
+      });
+    } else {
+      // Nessuna domanda globale trovata: nascondi la sezione
+      const sec = document.getElementById('domande-fondamentali');
+      if (sec) sec.hidden = true;
+    }
   }
 }());
 </script>
