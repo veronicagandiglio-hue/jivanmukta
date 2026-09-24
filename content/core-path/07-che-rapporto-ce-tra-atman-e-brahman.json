@@ -5,20 +5,11 @@
   "title": "Che rapporto c'è tra Ātman e Brahman?",
   "lead": "Il cuore e il vertice della non-dualità: Ātman = Brahman. L'identità suprema che scardina ogni separazione.",
   "question_text": "Che rapporto c'è tra Ātman e Brahman?",
-  "editorial_response": "Siamo arrivati al cuore assoluto di Jivanmukta e dell'intera tradizione dell'Advaita Vedānta. Questa non è una teoria fra le altre, è la chiave di volta di tutta la metafisica non-duale.\n\nLa risposta alla domanda «che rapporto c'è tra il Sé più intimo dell'uomo (Ātman) e la Realtà Suprema dell'universo (Brahman)?» è sconvolgente nella sua semplicità:\n\nĀtman è Brahman.\n\nNon si tratta di una metafora poetica, né di una promessa di «fusione» futura. La tradizione non dice che la nostra anima è una particella che un giorno salirà al cielo per unirsi a Dio. Dice qualcosa di infinitamente più radicale: la Coscienza silenziosa che in questo momento legge queste parole, e il Principio infinito che regge le galassie, sono rigorosamente la medesima e unica Realtà.\n\nPerché? Riflettiamo con la massima semplicità: se togliamo da Ātman tutto ciò che è passeggero (il corpo con la sua forma, i ricordi, i pensieri, i limiti di tempo e di spazio), che cosa rimane? Rimane pura Coscienza infinita, senza confini. E se togliamo da Brahman ogni forma parziale, che cosa abbiamo? Pura Coscienza infinita, senza confini.\n\nDue cose che non hanno confini né attributi differenti non possono essere due cose diverse. Non c'è un muro, non c'è una frontiera che possa separare l'infinito dall'infinito. La formula sanscrita più celebre delle Upaniṣad lo dice con tre parole essenziali: Tat Tvam Asi («Quello sei tu»).\n\nGuénon spiegava con estrema chiarezza che la realizzazione di questa identità non è la creazione di qualcosa di nuovo (non «diventiamo» Brahman), ma la rimozione di un'illusione ottica: è come scoprire che l'acqua contenuta in una brocca e l'acqua del mare all'esterno sono sempre state semplicemente acqua.",
+  "editorial_response": "L’insegnamento centrale dell’Advaita è l’identità di Ātman e Brahman. Non sono due realtà che debbano incontrarsi: se fossero due, resterebbe una dualità ultima. E non significa che la persona, con il suo corpo e la sua storia, sia diventata l’Assoluto. La persona è una condizione individuale; Ātman indica il Sé al di là di quella limitazione.\n\nQuando un testo dice «Tu sei Quello», non attribuisce l’infinità alla personalità. L’insegnamento invita a discernere che cosa significhi «tu» nella sentenza: non il nome, i ricordi o il senso individuale, ma il Sé. La formula non descrive un passaggio nel tempo, come se prima Ātman e Brahman fossero separati e poi si fondessero.\n\nGuénon, nel capitolo III.14.2, chiarisce la non-dualità distinguendola sia dal dualismo sia dall’idea che Brahman sia semplicemente l’insieme del mondo. La manifestazione non costituisce una realtà indipendente accanto al Principio; ma il Principio non è definito dalle forme manifestate. Questa asimmetria impedisce di ridurre l’Advaita al panteismo.\n\nL’identità Ātman–Brahman è quindi un insegnamento metafisico, non una conclusione ricavata da un’esperienza di unità o da un ragionamento sulle somiglianze tra infinito e finito. L’esperienza può essere un’occasione per interrogarsi; non dimostra la dottrina. Per il Vedānta, la conoscenza non produce l’identità: rimuove l’ignoranza che la nasconde.",
   "sources_used": [
-    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
     "Māṇḍūkya Upaniṣad, 2 (ayam ātmā brahma - questo Sé è Brahman)",
-    "Īśā Upaniṣad, 1.16 (so'ham asmi - Io sono Quello)"
-  ],
-  "guenon_sources": [
-    {
-      "author": "rene-guenon",
-      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-      "chapter": "Capitolo IV",
-      "status": "pending",
-      "note": "Riferimento alla dottrina dell'Identità Suprema (l'assoluta coincidenza non-duale tra Ātman e Brahman)."
-    }
+    "Īśā Upaniṣad, 1.16 (so'ham asmi - Io sono Quello)",
+    "René Guénon, Introduzione generale allo studio delle dottrine indù, 3-14-3"
   ],
   "upanishad_passages": [
     "mandukya-1-2",
@@ -53,6 +44,10 @@
     {
       "passage_id": "chandogya-6-16-3",
       "why": "Enunciazione per eccellenza del Mahāvākya «Tat Tvam Asi» (Quello Tu Sei), che sancisce l'assoluta e indistruttibile identità metafisica tra il Sé interiore e l'Essere supremo."
+    },
+    {
+      "passage_id": "guenon-intro-3-14-3",
+      "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
     }
   ]
 }

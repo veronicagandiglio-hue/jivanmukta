@@ -4,7 +4,7 @@
   "type": "hook",
   "homepage_priority": 102,
   "text": "Perché durante quell'esperienza non esisteva più un io?",
-  "introduction": "Siamo abituati a pensare che essere coscienti significhi essere un 'io' che pensa, sente e percepisce. Quando si verifica uno stato in cui la coscienza rimane viva ma il senso del sé individuale evapora, la mente comune fatica a comprenderlo.",
+  "introduction": "Quando il senso ordinario dell'io si attenua, questo non dimostra automaticamente che il Sé metafisico sia stato conosciuto. «Io» può indicare la personalità, il senso del corpo e la narrazione mentale; Ātman non è semplicemente un io più sottile che resta dopo la loro scomparsa. Guénon osserva che la conoscenza metafisica supera la separazione tra soggetto e oggetto, ma non la descrive come una condizione psicologica o un episodio straordinario. La Kena Upaniṣad aiuta a distinguere il principio conoscente dalle facoltà mentali. I testi possono offrire un linguaggio rigoroso per esaminare ciò che hai vissuto, senza assegnargli un'etichetta definitiva. La domanda non è solo se l'io sia scomparso per un momento, ma quale significato abbia «Sé» nell'insegnamento vedāntico.",
   "problem": "Spiegare la differenza tra l'individualità psicologica contingente (ahamkāra) e la pura Coscienza testimone (Ātman) alla luce della tradizione, senza emettere sentenze sullo stato del singolo individuo.",
   "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
   "target_core_path_id": "04-chi-sono-veramente",
@@ -16,7 +16,8 @@
   ],
   "passages": [
     "kena-1-2",
-    "kena-1-3"
+    "kena-1-3",
+    "guenon-intro-2-10-1"
   ],
   "commentaries": [],
   "related_questions": [

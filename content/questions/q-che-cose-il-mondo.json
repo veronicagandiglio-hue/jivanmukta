@@ -4,7 +4,7 @@
   "type": "great",
   "homepage_priority": 7,
   "text": "Che cos'è il mondo?",
-  "introduction": "Il problema del mondo — della sua realtà, della sua origine, del suo rapporto con il Principio supremo — è al centro di ogni grande metafisica. L'Advaita Vedānta offre una risposta rigorosa e a tratti paradossale: il mondo fenomenico non è una creazione nel senso teologico ordinario del termine (qualcosa che Dio ha fatto dal nulla), né è una pura illusione nel senso della negazione della sua esistenza. È piuttosto una manifestazione che non sottrae nulla alla pienezza dell'Assoluto — come l'immagine riflessa in uno specchio non impoverisce l'oggetto che vi si riflette. La Īśā Upaniṣad apre con un'affermazione che definisce il problema con una precisione straordinaria: «Tutto ciò che esiste nell'universo in movimento è avvolto (o pervaso) dal Signore». Questa non è una dichiarazione di panteismo, ma una tesi metafisica precisa sulla natura della manifestazione.",
+  "introduction": "Il mondo è l'insieme delle forme e delle relazioni che incontriamo nell'esperienza. L'Advaita non lo tratta come un nulla né come una seconda realtà indipendente da Brahman. Le cose esistono nell'ordine in cui appaiono e producono effetti, ma non hanno un'esistenza assoluta separata dal principio. Guénon formula una distinzione asimmetrica: la manifestazione non è fuori dal Principio, ma il Principio non è a sua volta circoscritto dalla manifestazione. Perciò «tutto è Brahman» non va inteso come se ogni oggetto fosse un frammento di una sostanza cosmica. Il mondo può essere studiato e descritto; queste descrizioni restano relative e non dicono che cosa sia Brahman in sé. Una percezione di unità o di irrealtà non basta, da sola, a stabilire la natura metafisica del mondo.",
   "problem": "Chiarire il rapporto tra il mondo fenomenico e l'Assoluto nell'Advaita Vedānta: come il mondo possa essere reale senza che la sua realtà sia indipendente da Brahman, e come l'Infinito rimanga integro attraverso ogni manifestazione.",
   "parent_question": null,
   "specific_questions": [
@@ -21,7 +21,8 @@
     "isha-1-18",
     "isha-1-12",
     "isha-1-13",
-    "isha-1-14"
+    "isha-1-14",
+    "guenon-intro-3-14-3"
   ],
   "commentaries": [],
   "related_questions": [

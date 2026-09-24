@@ -5,7 +5,7 @@
   "homepage_priority": null,
   "text": "Che cos'è la liberazione?",
   "problem": "Chiarire in che modo la conoscenza del Sé sciolga l'identificazione con il corpo e conduca all'immortalità, senza trasformare la liberazione in una conquista empirica o in uno stato transitorio.",
-  "introduction": "La liberazione (Mokṣa) nel Vedānta non è il passaggio ad un luogo celeste, né l'acquisizione di poteri straordinari, né una trasformazione dell'io in qualcosa di diverso. È la realizzazione dell'Identità Suprema: il riconoscimento che la nostra vera natura è già da sempre l'Assoluto infinito (Brahman), libero da ogni limite.",
+  "introduction": "Se Ātman non è mai stato separato da Brahman, liberarsi non può voler dire produrre quell’identità o spostarsi in un luogo dove prima non eravamo. Mokṣa indica la cessazione dell’ignoranza che fa scambiare le condizioni individuali per il Sé. Non è una nuova proprietà acquisita da Brahman.\n\nGuénon affronta direttamente il rapporto tra azione e liberazione nel capitolo III.14.3. Un’azione può produrre un risultato entro l’ordine condizionato: cambiare una situazione, ottenere un frutto o preparare la mente. Non può produrre l’incondizionato, perché ciò che ha inizio per effetto di un’azione avrebbe una causa e sarebbe quindi condizionato. Citando l’Ātmabodha attribuito a Śaṅkara, Guénon distingue la funzione preparatoria dell’azione dalla conoscenza che dissolve l’ignoranza. Questo non significa che riti e discipline siano privi di valore; significa che non sono il risultato ultimo.\n\nLa liberazione non va quindi presentata come un’estasi, una condizione emotiva permanente o il premio per una tecnica. Jīvanmukti designa, nella dottrina tradizionale, la liberazione mentre il corpo è ancora in vita; non è una diagnosi da applicare a chi racconta un’esperienza.\n\nLa spiegazione è semplice, anche se il suo contenuto non è una promessa consolatoria: la realtà non viene resa libera da un’azione; la conoscenza rimuove l’errore circa ciò che il Sé è. Le discipline possono preparare e l’insegnamento può orientare, ma il sito non può certificare la realizzazione di una persona.",
   "passages": [
     "aitareya-2-1-5",
     "aitareya-2-1-6",
@@ -13,7 +13,8 @@
     "chandogya-1-4-4",
     "chandogya-1-4-5",
     "katha-2-3-14",
-    "katha-2-3-15"
+    "katha-2-3-15",
+    "guenon-intro-3-14-5"
   ],
   "concepts": [
     "liberazione",

@@ -6,20 +6,10 @@
     "title": "Che cos'è la metafisica?",
     "lead": "La ricerca di ciò che è permanente e immutabile oltre il continuo fluire delle cose e delle esperienze.",
     "question_text": "Che cos'è la metafisica?",
-    "editorial_response": "La parola «metafisica» può sembrare astratta o intimidatoria, ma in realtà tocca la domanda più semplice e concreta che una persona possa farsi: nella mia vita e nel mondo che mi circonda, c'è qualcosa che non cambia mai?\n\nSe ci guardiamo intorno, tutto ciò che vediamo e sperimentiamo è in continuo movimento. Il nostro corpo cresce, invecchia, muta ogni giorno; le nostre emozioni si accendono e si spengono; i nostri pensieri arrivano, durano qualche istante e poi svaniscono, sostituiti da altri. Persino il mondo esterno — le stagioni, le città, gli oggetti, le persone che amiamo — nasce, dura un certo tempo e prima o poi si trasforma o scompare.\n\nLa metafisica nasce esattamente da questa constatazione. Essa non è una filosofia accademica fatta di teorie complicate o di dispute tra professori, e non è neppure una religione basata su dogmi da accettare per fede. Nel suo senso originario e tradizionale — come ha chiarito in epoca moderna René Guénon — la metafisica è la conoscenza diretta di ciò che è stabile, universale e immutabile: i princìpi primi della realtà.\n\nChiedersi che cos'è la metafisica significa chiedersi: ciò che muta continuamente può avere in se stesso la propria spiegazione? Oppure tutto ciò che cambia poggia su un fondamento silenzioso che non cambia mai? Il Vedānta, una delle tradizioni metafisiche più antiche e rigorose dell'umanità, non ci chiede di credere a una risposta preconfezionata, ma ci invita a un'indagine accurata, partendo dalla nostra stessa esperienza quotidiana.",
+    "editorial_response": "La metafisica non è una teoria su un mondo invisibile né una spiegazione scientifica di ciò che accade. Chiede quale principio renda possibile tutto ciò che nasce, cambia e scompare. Per questo la domanda non è soltanto «che cosa esiste?», ma «che cosa ha realtà in senso assoluto, senza dipendere da altro?».\n\nRené Guénon, nel capitolo II.5 dell’Introduzione generale, chiama metafisica la conoscenza dei principi universali. Per lui non coincide con la filosofia intesa come costruzione di un sistema attraverso ragionamenti. Il ragionamento può chiarire, confrontare e preparare; non può racchiudere l’illimitato in una definizione. La metafisica, dunque, non è un insieme di opinioni da scegliere.\n\nUn’esperienza di unità può rendere urgente questa indagine, ma non basta a risolverla: anche un’esperienza intensa ha un inizio, una durata e una fine, e può essere ricordata e descritta. La domanda metafisica riguarda ciò che è vero indipendentemente dall’intensità di un’esperienza particolare.\n\nNel Vedānta, la ricerca conduce alla Realtà ultima chiamata Brahman e all’insegnamento che Ātman, il Sé, non è distinto da Brahman. Questa identità non è una conclusione ricavata dal sentirsi uniti al mondo. È il principio che i testi insegnano e che lo studio cerca di rendere intelligibile, senza pretendere di trasformare Brahman in una definizione. Guénon aiuta a capire perché la metafisica non sia una speculazione accademica; le Upaniṣad restano la fonte tradizionale del Vedānta.",
     "sources_used": [
-      "René Guénon, Introduzione generale allo studio delle dottrine indù (1921)",
-      "René Guénon, La metafisica orientale (1925)",
-      "Kaṭha Upaniṣad, 1.2.1-2 (la discriminazione tra ciò che è essenziale e ciò che è passeggero)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "la-metafisica-orientale",
-        "chapter": "Parte I",
-        "status": "pending",
-        "note": "Riferimento alla conferenza della Sorbona (1925) sulla natura universale della metafisica pura oltre ogni filosofia speculativa."
-      }
+      "Kaṭha Upaniṣad, 1.2.1-2 (la discriminazione tra ciò che è essenziale e ciò che è passeggero)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-5-1"
     ],
     "upanishad_passages": [
       "katha-1-2-1",
@@ -39,6 +29,10 @@
       {
         "passage_id": "chandogya-7-1-4",
         "why": "Dichiara che tutte le scienze particolari, le arti e le discipline storiche sono meri 'nomi' convenzionali (nāmaivaitat), subordinati alla conoscenza metafisica del Principio immutabile."
+      },
+      {
+        "passage_id": "guenon-intro-2-5-1",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/01-che-cose-la-metafisica.json"
@@ -50,20 +44,11 @@
     "title": "Che cosa significa «realtà»?",
     "lead": "Ciò che appare ai sensi è necessariamente ciò che è in senso ultimo? La distinzione tra apparenza e fondamento.",
     "question_text": "Che cosa significa «realtà»?",
-    "editorial_response": "Nel linguaggio comune diciamo che è «reale» tutto ciò che possiamo vedere, toccare o percepire: un tavolo di legno, un dolore al ginocchio, la pioggia che cade. Ma se ci fermiamo a riflettere, questa è la realtà delle nostre percezioni immediate, non necessariamente la realtà in senso ultimo e duraturo.\n\nLa metafisica tradizionale introduce una distinzione chiarissima tra due livelli:\n1. Il piano di ciò che appare (il piano fenomenico): tutto ciò che ha un inizio e una fine, che dipende da condizioni esterne, che si trasforma continuamente.\n2. Il piano di ciò che è in modo assoluto: ciò che non dipende da null'altro per esistere, non nasce, non perisce e rimane sempre identico a se stesso.\n\nQuesto non significa affatto sostenere che il mondo che ci circonda «non esista» o sia un'invenzione ingannevole. Guénon spiegava con grande lucidità che il mondo visibile possiede una sua realtà, ma si tratta di una realtà relativa e derivata. È come l'immagine di un albero riflessa in uno specchio d'acqua: l'immagine c'è, la possiamo vedere e descrivere chiaramente, ma la sua consistenza dipende interamente dall'albero reale sulla riva e dalla superficie dell'acqua che la riflette. Se l'acqua si increspa, l'immagine trema; se l'albero non ci fosse, l'immagine non esisterebbe affatto.\n\nAllo stesso modo, il mondo delle cose mutevoli esiste, ma non possiede la realtà in senso assoluto: dipende in ogni istante da un Principio che non si vede, ma che rende possibile ogni visibilità.",
+    "editorial_response": "Nel parlare comune chiamiamo reale ciò che vediamo, tocchiamo o sperimentiamo. Questa accezione è utile nella vita ordinaria: il dolore fa male, il fuoco brucia, le azioni hanno conseguenze. La metafisica pone però una domanda più radicale: ciò che dipende da condizioni e muta può essere la Realtà ultima?\n\nL’Advaita distingue ciò che appare nel mondo condizionato dalla Realtà assoluta. Non sta dicendo che il mondo sia un sogno personale o che nulla conti. Sta dicendo che nomi e forme non hanno in sé un’esistenza indipendente: cambiano e dipendono da condizioni. Brahman, al contrario, non dipende dal mondo e non è una cosa al suo interno.\n\nGuénon formula questa asimmetria nel capitolo III.14.2: la manifestazione non è una seconda realtà fuori da Brahman, ma Brahman non è a sua volta limitato o definito dal mondo. È importante non tradurre questo in «tutto è Brahman» come se ogni oggetto fosse una porzione dell’Assoluto. La relazione tra il condizionato e l’incondizionato non è quella tra due oggetti sullo stesso piano.\n\nQuesta distinzione serve anche a leggere un’esperienza non ordinaria: che il mondo sia apparso uno o irreale non dimostra da solo quale sia la sua natura ultima. La metafisica confronta ogni apparenza con il principio che non dipende da essa. Nel percorso, «realtà relativa» indica proprio questo: ciò che vale nel proprio ordine, ma non costituisce l’Assoluto.",
     "sources_used": [
-      "René Guénon, Gli stati molteplici dell'essere (1932)",
       "Īśā Upaniṣad, 1.1 (il mondo mutevole avvolto dal Signore)",
-      "Kaṭha Upaniṣad, 2.2.13 (l'Eterno tra i perituri)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "gli-stati-molteplici-dell-essere",
-        "chapter": "Capitolo III",
-        "status": "pending",
-        "note": "Riferimento alla distinzione tra realtà assoluta del Principio e realtà relativa delle condizioni manifestate."
-      }
+      "Kaṭha Upaniṣad, 2.2.13 (l'Eterno tra i perituri)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 3-14-3"
     ],
     "upanishad_passages": [
       "isha-1-1",
@@ -83,6 +68,10 @@
       {
         "passage_id": "chandogya-6-1-4",
         "why": "Formula il principio metafisico essenziale del Vācārambhaṇa: la distinzione tra la realtà ontologica immutabile della sostanza (l'argilla) e la transitorietà puramente nominale delle forme modificate (i vasi)."
+      },
+      {
+        "passage_id": "guenon-intro-3-14-3",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/02-che-cosa-significa-realta.json"
@@ -94,20 +83,11 @@
     "title": "Che cos'è l'Assoluto?",
     "lead": "Ciò che non dipende da null'altro e non è un oggetto tra gli altri oggetti.",
     "question_text": "Che cos'è l'Assoluto?",
-    "editorial_response": "La parola «assoluto» deriva dal latino e significa letteralmente «sciolto da ogni legame», cioè indipendente, incondizionato, privo di limiti.\n\nNella nostra vita quotidiana, ogni singola cosa è condizionata. Il nostro respiro dipende dall'aria; il nostro corpo dipende dal cibo e dalla gravità; le nostre idee dipendono dal linguaggio e dalla memoria; una pianta dipende dalla luce e dalla terra. Se risaliamo passo dopo passo questa catena ininterrotta di cose che dipendono da altre cose, ci troviamo davanti a un bivio: o la catena prosegue all'infinito nel vuoto senza alcun senso, oppure all'origine di tutto vi è una Realtà che non dipende da niente altro, ma da cui tutto il resto dipende.\n\nQuesto Principio incondizionato è ciò che la metafisica chiama l'Assoluto.\n\nGuénon richiamava l'attenzione su un errore facilissimo in cui cade spesso la mente moderna: pensare all'Assoluto come alla «somma di tutte le cose esistenti» (una sorta di gigantesco contenitore cosmico o panteismo). Ma l'Assoluto non è la somma delle parti, perché qualsiasi somma è ancora limitata e quantitativa. L'Assoluto non è una cosa enorme, né un super-oggetto posto in cielo. È la Sorgente indivisa dell'Essere: non ha contorni, non ha inizio né fine, e non può essere limitato da nessuna definizione particolare.\n\nNon possiamo vederlo come vediamo un oggetto esterno, perché non è un oggetto. È il fondamento invisibile e silenzioso che rende possibile l'esistenza stessa di ogni oggetto.",
+    "editorial_response": "Dire «Assoluto» significa indicare ciò che non è condizionato da altro e non ha un limite che lo contenga. Non è la cosa più grande dell’universo, la somma di tutte le cose o un essere collocato in un luogo nascosto. Ognuna di queste immagini lo renderebbe ancora una realtà delimitata.\n\nGuénon insiste che i principi supremi non possono essere definiti come si definisce un oggetto. Una definizione separa ciò che nomina da ciò che non nomina; così facendo, stabilisce un confine. Nel capitolo II.8.4 spiega perché la metafisica ricorra spesso a formule negative: dire che l’Assoluto non è limitato da una qualità non significa negarne l’esistenza, ma impedire che una descrizione parziale venga scambiata per la totalità.\n\nNel Vedānta, Brahman è la Realtà suprema. Guénon distingue inoltre l’Essere, già pensabile come principio universale, da ciò che è oltre ogni determinazione, compresa quella dell’Essere. Questo non aggiunge un secondo assoluto: segnala quanto sia inadeguato trattare Brahman come un concetto delimitato.\n\nPossiamo quindi parlare dell’Assoluto solo con cautela: usando parole, negazioni e simboli che orientano il pensiero, senza supporre che lo esauriscano. La risposta più rigorosa non è una descrizione completa di Brahman, ma la comprensione del limite di ogni descrizione. Questa cautela è centrale per tutto il sito: nessuna esperienza, immagine o teoria può essere identificata senza residui con l’Assoluto.",
     "sources_used": [
-      "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
       "Īśā Upaniṣad, Invocazione di pace (Śānti-pāṭha - la pienezza incorruttibile di Pūrṇa)",
-      "Muṇḍaka Upaniṣad, 1.1.6 (l'Immutabile invisibile e inafferrabile)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-        "chapter": "Capitolo I",
-        "status": "pending",
-        "note": "Riferimento alla definizione dell'Assoluto privo di ogni dualità o determinazione condizionante."
-      }
+      "Muṇḍaka Upaniṣad, 1.1.6 (l'Immutabile invisibile e inafferrabile)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-8-8"
     ],
     "upanishad_passages": [
       "isha-1-shanti",
@@ -143,6 +123,10 @@
       {
         "passage_id": "chandogya-7-24-1",
         "why": "Rivela la natura dell'Assoluto come Bhūman (la Pienezza Infinita): dimensione non duale in cui non si vede né conosce altro da sé, sola sorgente di vera beatitudine immortale."
+      },
+      {
+        "passage_id": "guenon-intro-2-8-8",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/03-che-cose-l-assoluto.json"
@@ -154,20 +138,11 @@
     "title": "Chi sono veramente?",
     "lead": "Dall'identità ordinaria alla ricerca del testimone: ciò che cambia continuamente può essere la mia realtà ultima?",
     "question_text": "Chi sono veramente?",
-    "editorial_response": "Se chiediamo a chiunque «chi sei?», la prima risposta fa riferimento al nome, al ruolo sociale, alla storia personale e al corpo: «Sono Mario, ho quarant'anni, faccio questo lavoro, ho questo corpo alto o basso, bruno o biondo». Ma basta un attimo di attenzione per accorgersi che questa è una risposta provvisoria.\n\nOsserviamo da vicino i diversi livelli di ciò che chiamiamo «io»:\n- Il corpo: le cellule del corpo si rinnovano costantemente; il corpo di oggi non è lo stesso di quando avevamo cinque anni. Se il corpo cambia in continuazione, possiamo dire che noi siamo soltanto quel corpo?\n- Le sensazioni: il caldo, il freddo, la fame, il piacere, il dolore arrivano, durano qualche minuto o ora e poi svaniscono. Noi rimaniamo anche quando la sensazione è passata.\n- Le emozioni e gli stati d'animo: la gioia, la rabbia, la tristezza, l'entusiasmo si alternano come nuvole nel cielo. Noi siamo presenti prima che l'emozione nasca, mentre si manifesta, e dopo che è svanita.\n- I pensieri: i pensieri sorgono uno dopo l'altro nella mente. Possiamo osservare un pensiero che arriva, e possiamo osservarlo mentre se ne va. Ma chi è che osserva il pensiero?\n\nQui si apre l'indagine metafisica del Vedānta: ciò che può essere osservato (il corpo, le sensazioni, le emozioni, i pensieri) è un oggetto di percezione. Ma chi osserva tutto questo? Il soggetto che vede non può coincidere con ciò che viene visto. C'è una Presenza cosciente, silenziosa e costante, che fa da testimone a tutti i mutamenti senza mai mutare insieme a loro. La domanda «chi sono veramente?» comincia a trovare orientamento proprio qui.",
+    "editorial_response": "La domanda «chi sono?» di solito riceve risposte legate al corpo, al nome, alla storia e al carattere. Questi aspetti descrivono la persona nella vita quotidiana, ma cambiano: il corpo cresce e invecchia, i pensieri e gli stati d’animo si alternano. L’indagine vedāntica chiede se ciò che cambia possa essere l’identità ultima.\n\nUn primo esercizio consiste nel distinguere ciò che è osservato da ciò che osserva: posso accorgermi di una sensazione o di un pensiero. Questa distinzione non prova però che dentro di me ci sia un piccolo osservatore, una coscienza personale nascosta dietro la mente. Se trasformassimo il testimone in un oggetto sottile, avremmo soltanto aggiunto un altro elemento all’elenco delle cose osservate.\n\nIl termine Ātman indica il Sé che non è riducibile al corpo o alla personalità. Ma non va inteso come una seconda persona più pura. La distinzione tra osservatore e osservato è un aiuto iniziale; l’Advaita la porta fino alla questione decisiva: il Sé non è un individuo separato che possiede la coscienza.\n\nGuénon, nel capitolo II.10.1, collega la conoscenza metafisica al superamento della separazione ordinaria tra soggetto e oggetto. Non sta parlando di una sensazione di fusione né di uno stato alterato. La domanda «chi sono veramente?» resta quindi aperta finché l’io empirico non viene scambiato per Ātman e il testimone non viene trasformato in una nuova entità. L’insegnamento completo è l’identità del Sé con Brahman, sviluppata nelle tappe successive.",
     "sources_used": [
-      "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
       "Kaṭha Upaniṣad, 1.3.3-4 (l'analogia del carro: corpo, sensi, mente e intelletto)",
-      "Taittirīya Upaniṣad, 2.1.1 (la progressione attraverso gli involucri dell'essere)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-        "chapter": "Capitolo II",
-        "status": "pending",
-        "note": "Riferimento alla distinzione tra l'individualità transitoria (l'io empirico) e la natura universale della personalità autentica."
-      }
+      "Taittirīya Upaniṣad, 2.1.1 (la progressione attraverso gli involucri dell'essere)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-10-1"
     ],
     "upanishad_passages": [
       "katha-1-3-3",
@@ -243,6 +218,10 @@
       {
         "passage_id": "chandogya-8-12-5",
         "why": "Spoglia l'identità autentica dell'uomo da ogni strumento percettivo: l'occhio, l'udito, la parola e la mente non sono il Sé, ma semplici strumenti al servizio del Testimone cosciente incorporeo."
+      },
+      {
+        "passage_id": "guenon-intro-2-10-1",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/04-chi-sono-veramente.json"
@@ -254,20 +233,11 @@
     "title": "Che cos'è il Sé?",
     "lead": "L'introduzione progressiva di Ātman: non l'ego psicologico, ma la Coscienza pura e immutabile che tutto illumina.",
     "question_text": "Che cos'è il Sé?",
-    "editorial_response": "Dopo aver compreso che non siamo semplicemente il corpo né il flusso mutevole dei pensieri, possiamo introdurre il termine fondamentale con cui la tradizione vedāntica indica la nostra vera identità: Ātman, il Sé.\n\nÈ indispensabile chiarire un malinteso molto diffuso in Occidente: il Sé non è il «sé psicologico», non è il carattere, non è l'autostima, non è la nostra personalità individuale con le sue preferenze e le sue ferite. Quella è ancora l'individualità (il piccolo «io»), un insieme di abitudini e condizionamenti mentali.\n\nIl Sé (Ātman) è il principio stesso della Coscienza: quella luce interiore grazie alla quale siamo consapevoli di esistere in ogni istante. Usiamo una similitudine chiarissima: la luce del sole illumina una stanza. Se nella stanza entra una persona cara o un ladro, se c'è un vaso di fiori freschi o un mucchio di polvere, la luce li illumina entrambi con la stessa purezza, senza essere sporcata dalla polvere né profumata dai fiori. Quando gli oggetti vengono portati via, la luce rimane intatta.\n\nAllo stesso modo, Ātman è la pura Coscienza testimone (Sākṣin): illumina i pensieri felici e i pensieri dolorosi, la veglia, il sogno e persino il sonno profondo, ma non viene mai macchiata, toccata o alterata da ciò che illumina.\n\nGuénon sottolineava un punto decisivo: il Sé non è qualcosa che «dobbiamo fabbricare» o «raggiungere» attraverso sforzi titanici. È ciò che siamo già adesso, in questo esatto istante. L'unico ostacolo è che la nostra attenzione è costantemente ipnotizzata dagli oggetti illuminati, dimenticandosi della Luce che li rende visibili.",
+    "editorial_response": "Ātman è la parola con cui le Upaniṣad indicano il Sé. Non significa la personalità ideale, un’anima individuale più raffinata o una voce interiore. Corpo, sensi, ricordi, emozioni e pensieri appartengono alla vita individuale e sono soggetti a mutamento; il Sé non è una di queste condizioni.\n\nA volte si parla di Ātman come «testimone» dei mutamenti. È un modo utile per non identificare immediatamente il Sé con ciò che si osserva, ma non è una descrizione definitiva. Se il testimone fosse un soggetto separato che guarda dall’interno gli oggetti mentali, resterebbe ancora una dualità. Nell’Advaita, l’indagine non si ferma a un osservatore sottile.\n\nGuénon, nel capitolo II.10.2, presenta conoscere ed essere come inseparabili al livello metafisico. Questo non vuol dire che i nostri pensieri producano ciò che siamo, né che ogni opinione personale sia vera. Vuol dire che la conoscenza ultima non consiste nell’accumulare informazioni su Ātman come su un oggetto: riguarda ciò che il Sé è.\n\nIl Vedānta non invita a fabbricare o migliorare Ātman. La disciplina e l’insegnamento possono rimuovere confusioni e preparare la comprensione; non producono il Sé. La formulazione più completa di questa dottrina verrà con l’identità Ātman–Brahman. Fino ad allora, «testimone» e «coscienza» vanno letti come indicazioni dottrinali, non come nomi di una speciale esperienza interiore.",
     "sources_used": [
-      "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
       "Kena Upaniṣad, 1.2 (il principio animatore: l'orecchio dell'orecchio, la mente della mente)",
-      "Muṇḍaka Upaniṣad, 3.1.1 (l'allegoria dei due uccelli: colui che agisce e colui che osserva senza agire)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-        "chapter": "Capitolo III",
-        "status": "pending",
-        "note": "Riferimento alla nozione fondamentale di Ātman come Principio trascendente non riducibile ad alcun fenomeno psichico."
-      }
+      "Muṇḍaka Upaniṣad, 3.1.1 (l'allegoria dei due uccelli: colui che agisce e colui che osserva senza agire)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-10-2"
     ],
     "upanishad_passages": [
       "kena-1-2",
@@ -304,6 +274,10 @@
       {
         "passage_id": "chandogya-8-7-1",
         "why": "Enuncia la celebre definizione del Sé immacolato proclamata da Prajāpati: immune dal peccato, libero da vecchiaia, morte, dolore, fame e sete, la cui volontà è la Verità."
+      },
+      {
+        "passage_id": "guenon-intro-2-10-2",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/05-che-cose-il-se.json"
@@ -315,20 +289,11 @@
     "title": "Che cos'è Brahman?",
     "lead": "Il termine fondamentale della metafisica vedāntica: la Realtà assoluta, infinita, senza secondo.",
     "question_text": "Che cos'è Brahman?",
-    "editorial_response": "Se il termine Ātman risponde alla domanda su chi siamo noi nella nostra intimità più profonda, la parola Brahman è la risposta della tradizione vedāntica alla domanda su che cosa sia la Realtà universale nel suo complesso.\n\nAttenzione a non fare confusione con parole simili: Brahman non è il dio Brahmā (la divinità personificata della mitologia), e non è neppure il sacerdote (brahmino). La parola Brahman deriva da una radice sanscrita (bṛh) che significa «crescere, espandersi, essere immenso, non avere confini».\n\nBrahman è la Realtà Suprema: infinita, senza inizio, senza fine e senza un secondo principio al di fuori di sé (da cui il nome Advaita, che significa «non-due», non-dualità). Non è un individuo cosmico che crea le cose come un falegname fabbrica un tavolo; non è un re seduto su un trono nei cieli; non è un'entità che ha pensieri, preferenze, simpatie o antipatie.\n\nBrahman è sia trascendente (al di là di qualsiasi forma o nome concepibile) sia immanente (la sostanza stessa che costituisce ogni cosa).\n\nLe Upaniṣad usano una formula celeberrima per indicare la sua natura: Sat-Cit-Ānanda (Esistenza pura, Coscienza pura, Beatitudine infinita). Non sono tre proprietà separate, ma tre aspetti della medesima Realtà:\n- È l'Esistenza stessa, perché nulla può esistere al di fuori di Essa;\n- È la Coscienza stessa, perché è la luce che rende possibile ogni conoscenza;\n- È la Pienezza e la Beatitudine, perché non le manca nulla e non desidera nulla.\n\nCome chiariva Guénon, Brahman non può essere compreso dalla mente ordinaria come si comprende un concetto scientifico, perché la mente funziona dividendo e misurando. Ma ciò che è infinito e indiviso non può essere misurato.",
+    "editorial_response": "Brahman è il nome vedāntico della Realtà ultima. Non è una divinità particolare, un oggetto cosmico o una coscienza universale che si possa immaginare diffusa nello spazio. Qualunque immagine o qualità positiva circoscriverebbe ciò che, per definizione metafisica, non è circoscritto.\n\nGuénon affronta questo problema nel capitolo II.8.4. Spiega che il linguaggio può indicare i principi supremi soprattutto rimuovendo limiti: «infinito» non vuol dire una quantità enorme, ma ciò che non è finito né contenuto entro confini. Le parole aiutano a non confondere Brahman con una cosa; non consegnano una rappresentazione completa di Brahman.\n\nPer questo occorre essere prudenti con formule come «energia», «universo», «coscienza cosmica» o «sostanza di tutto». Possono sembrare accessibili, ma rischiano di trasformare il principio in un fenomeno o in un oggetto mentale. Anche i termini tradizionali, come sat, cit o ānanda, non sono tre proprietà che possiamo osservare in Brahman; vanno spiegati attraverso le fonti e il loro contesto, non presentati come una fotografia dell’Assoluto.\n\nLe Upaniṣad indicano Brahman anche attraverso la negazione e il paradosso: non ciò che la mente pensa come un oggetto, ma ciò grazie a cui il pensiero è possibile. Guénon aiuta a chiarire il limite concettuale; il contenuto dottrinale va letto nelle Upaniṣad e nei commentari tradizionali. La risposta accessibile è dunque precisa ma non pretende di esaurire: Brahman è la Realtà assoluta, e nessuna descrizione finita può contenerlo.",
     "sources_used": [
-      "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
       "Kena Upaniṣad, 1.4-5 (ciò che non può essere detto con parole né pensato con la mente)",
-      "Taittirīya Upaniṣad, 2.1.1 (satyaṃ jñānam anantaṃ brahma)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-        "chapter": "Capitolo I",
-        "status": "pending",
-        "note": "Riferimento alla nozione dottrinale di Brahman come Infinito metafisico privo di ogni determinazione esclusiva."
-      }
+      "Taittirīya Upaniṣad, 2.1.1 (satyaṃ jñānam anantaṃ brahma)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-8-8"
     ],
     "upanishad_passages": [
       "kena-1-4",
@@ -402,6 +367,10 @@
       {
         "passage_id": "chandogya-8-1-3",
         "why": "Rivela la natura di Brahman nel cuore: l'infinità dello spazio interiore che accoglie e trascende la totalità del cosmo, del cielo e della terra."
+      },
+      {
+        "passage_id": "guenon-intro-2-8-8",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/06-che-cose-brahman.json"
@@ -413,20 +382,11 @@
     "title": "Che rapporto c'è tra Ātman e Brahman?",
     "lead": "Il cuore e il vertice della non-dualità: Ātman = Brahman. L'identità suprema che scardina ogni separazione.",
     "question_text": "Che rapporto c'è tra Ātman e Brahman?",
-    "editorial_response": "Siamo arrivati al cuore assoluto di Jivanmukta e dell'intera tradizione dell'Advaita Vedānta. Questa non è una teoria fra le altre, è la chiave di volta di tutta la metafisica non-duale.\n\nLa risposta alla domanda «che rapporto c'è tra il Sé più intimo dell'uomo (Ātman) e la Realtà Suprema dell'universo (Brahman)?» è sconvolgente nella sua semplicità:\n\nĀtman è Brahman.\n\nNon si tratta di una metafora poetica, né di una promessa di «fusione» futura. La tradizione non dice che la nostra anima è una particella che un giorno salirà al cielo per unirsi a Dio. Dice qualcosa di infinitamente più radicale: la Coscienza silenziosa che in questo momento legge queste parole, e il Principio infinito che regge le galassie, sono rigorosamente la medesima e unica Realtà.\n\nPerché? Riflettiamo con la massima semplicità: se togliamo da Ātman tutto ciò che è passeggero (il corpo con la sua forma, i ricordi, i pensieri, i limiti di tempo e di spazio), che cosa rimane? Rimane pura Coscienza infinita, senza confini. E se togliamo da Brahman ogni forma parziale, che cosa abbiamo? Pura Coscienza infinita, senza confini.\n\nDue cose che non hanno confini né attributi differenti non possono essere due cose diverse. Non c'è un muro, non c'è una frontiera che possa separare l'infinito dall'infinito. La formula sanscrita più celebre delle Upaniṣad lo dice con tre parole essenziali: Tat Tvam Asi («Quello sei tu»).\n\nGuénon spiegava con estrema chiarezza che la realizzazione di questa identità non è la creazione di qualcosa di nuovo (non «diventiamo» Brahman), ma la rimozione di un'illusione ottica: è come scoprire che l'acqua contenuta in una brocca e l'acqua del mare all'esterno sono sempre state semplicemente acqua.",
+    "editorial_response": "L’insegnamento centrale dell’Advaita è l’identità di Ātman e Brahman. Non sono due realtà che debbano incontrarsi: se fossero due, resterebbe una dualità ultima. E non significa che la persona, con il suo corpo e la sua storia, sia diventata l’Assoluto. La persona è una condizione individuale; Ātman indica il Sé al di là di quella limitazione.\n\nQuando un testo dice «Tu sei Quello», non attribuisce l’infinità alla personalità. L’insegnamento invita a discernere che cosa significhi «tu» nella sentenza: non il nome, i ricordi o il senso individuale, ma il Sé. La formula non descrive un passaggio nel tempo, come se prima Ātman e Brahman fossero separati e poi si fondessero.\n\nGuénon, nel capitolo III.14.2, chiarisce la non-dualità distinguendola sia dal dualismo sia dall’idea che Brahman sia semplicemente l’insieme del mondo. La manifestazione non costituisce una realtà indipendente accanto al Principio; ma il Principio non è definito dalle forme manifestate. Questa asimmetria impedisce di ridurre l’Advaita al panteismo.\n\nL’identità Ātman–Brahman è quindi un insegnamento metafisico, non una conclusione ricavata da un’esperienza di unità o da un ragionamento sulle somiglianze tra infinito e finito. L’esperienza può essere un’occasione per interrogarsi; non dimostra la dottrina. Per il Vedānta, la conoscenza non produce l’identità: rimuove l’ignoranza che la nasconde.",
     "sources_used": [
-      "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
       "Māṇḍūkya Upaniṣad, 2 (ayam ātmā brahma - questo Sé è Brahman)",
-      "Īśā Upaniṣad, 1.16 (so'ham asmi - Io sono Quello)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-        "chapter": "Capitolo IV",
-        "status": "pending",
-        "note": "Riferimento alla dottrina dell'Identità Suprema (l'assoluta coincidenza non-duale tra Ātman e Brahman)."
-      }
+      "Īśā Upaniṣad, 1.16 (so'ham asmi - Io sono Quello)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 3-14-3"
     ],
     "upanishad_passages": [
       "mandukya-1-2",
@@ -461,6 +421,10 @@
       {
         "passage_id": "chandogya-6-16-3",
         "why": "Enunciazione per eccellenza del Mahāvākya «Tat Tvam Asi» (Quello Tu Sei), che sancisce l'assoluta e indistruttibile identità metafisica tra il Sé interiore e l'Essere supremo."
+      },
+      {
+        "passage_id": "guenon-intro-3-14-3",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/07-che-rapporto-ce-tra-atman-e-brahman.json"
@@ -472,21 +436,12 @@
     "title": "Perché allora appare un mondo molteplice?",
     "lead": "Il mistero della manifestazione: Māyā, nomi e forme (nāmarūpa), e la sovrimpressione che fa apparire l'Uno come molti.",
     "question_text": "Perché allora appare un mondo molteplice?",
-    "editorial_response": "A questo punto sorge spontanea l'obiezione più forte che chiunque possa sollevare: «Se la Realtà è una sola e indivisa, perché io vedo miliardi di esseri separati, montagne, città, conflitti, dolore e diversità? Da dove nasce tutta questa molteplicità?»\n\nPer rispondere a questa domanda senza cadere in contraddizione, il Vedānta introduce il concetto di Māyā.\n\nSpesso la parola Māyā viene tradotta sbrigativamente come «illusione», portando molti a credere che il Vedānta consideri il mondo come una favola inesistente o una truffa della mente. René Guénon ha corretto questo errore con grande puntualità: Māyā è l'arte universale con cui l'Infinito manifesta le proprie infinite possibilità di forma, nome e relazione.\n\nPrendiamo un'analogia chiarissima: l'oro e i gioielli. In una gioielleria vediamo anelli, bracciali, catenine e spille. Ognuno ha un nome diverso («anello», «bracciale»), una forma diversa e un prezzo diverso. Ma se andiamo alla sostanza reale, che cosa sono tutti quanti? Sono esclusivamente oro. Il bracciale non aggiunge un solo grammo di peso all'oro di cui è fatto. Se lo fondiamo, la forma del bracciale sparisce, ma l'oro rimane intatto.\n\nAllo stesso modo, la molteplicità dell'universo è fatta di «nomi e forme» (nāmarūpa) che si manifestano sull'unica Sostanza reale, che è Brahman. La molteplicità non è una realtà separata dall'Uno, ma è il modo in cui l'Uno si esprime e si rende visibile nelle coordinate dello spazio e del tempo.\n\nIl problema non è la molteplicità in sé; il problema nasce quando dimentichiamo l'Oro e ci identifichiamo ciecamente con la sola forma del singolo anello, temendo di essere distrutti quando la forma muta. Questo scambio tra la forma passeggera e la sostanza eterna è ciò che la tradizione chiama ignoranza metafisica (avidyā).",
+    "editorial_response": "Se Brahman è senza secondo, perché appaiono persone, oggetti, differenze e cambiamenti? La domanda è legittima, ma bisogna notare che «perché» spesso cerca una causa: ogni causa e ogni effetto appartengono già all’ordine manifestato. Una causa ultima collocata accanto a Brahman introdurrebbe un secondo principio.\n\nL’Advaita usa il linguaggio di māyā, nāma e rūpa — potere di manifestazione, nome e forma — per discutere come il mondo sia esperito come molteplice. Questi termini non vanno tradotti in «il mondo non esiste» né in «Brahman si trasforma materialmente nel mondo». Le spiegazioni cosmologiche appartengono al livello dell’insegnamento sulla manifestazione; non sono una definizione dell’Assoluto.\n\nNel capitolo III.14.2 Guénon insiste sull’asimmetria: il mondo non è una realtà separata da Brahman, ma Brahman non è limitato dal mondo. Non dobbiamo immaginare una sostanza assoluta che si divida in frammenti, o una persona cosmica che cambi forma. La molteplicità è trattata dal punto di vista condizionato; non può spiegare l’incondizionato come se fosse un evento all’inizio del tempo.\n\nPerciò il Vedānta non offre una spiegazione causale di Brahman. Le immagini e le dottrine della manifestazione possono orientare la comprensione, ma restano subordinate al punto essenziale: le forme non costituiscono una seconda Realtà ultima. Il limite della risposta non è una lacuna da colmare con una cosmologia sempre più dettagliata; è parte della distinzione tra ciò che è manifestato e ciò che non è condizionato.",
     "sources_used": [
-      "René Guénon, Gli stati molteplici dell'essere (1932)",
       "Praśna Upaniṣad, 1.4 (la polarità fondamentale di Prāṇa e Rayi)",
       "Muṇḍaka Upaniṣad, 2.1.1 (come dal fuoco scaturiscono miriadi di scintille)",
-      "Kaṭha Upaniṣad, 2.2.9 (il fuoco unico che entra nel mondo assumendo forme diverse)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "gli-stati-molteplici-dell-essere",
-        "chapter": "Capitolo V",
-        "status": "pending",
-        "note": "Riferimento alla nozione di Māyā come principio della manifestazione universale e non come pura illusione negativa."
-      }
+      "Kaṭha Upaniṣad, 2.2.9 (il fuoco unico che entra nel mondo assumendo forme diverse)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 3-14-3"
     ],
     "upanishad_passages": [
       "prashna-1-4",
@@ -512,6 +467,10 @@
       {
         "passage_id": "chandogya-6-3-2",
         "why": "Chiarisce che la molteplicità dei nomi e delle forme sorge dall'ingresso dell'unico Principio (Sat) sotto forma di Jīvātman nella trama dei principi cosmici."
+      },
+      {
+        "passage_id": "guenon-intro-3-14-3",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/08-perche-appare-la-molteplicita.json"
@@ -523,20 +482,11 @@
     "title": "Che cosa significa conoscere?",
     "lead": "Distinguere informazione, speculazione mentale, esperienza passeggera e Conoscenza metafisica effettiva.",
     "question_text": "Che cosa significa conoscere?",
-    "editorial_response": "Questa tappa è cruciale, specialmente per chi giunge a questo sito dopo aver vissuto un'esperienza inconsueta o sconvolgente.\n\nNel mondo moderno chiamiamo «conoscenza» una raccolta di nozioni: sappiamo come funziona un motore, abbiamo letto la storia antica, conosciamo una formula matematica. Ma questo tipo di sapere (che il Vedānta chiama aparā vidyā, conoscenza inferiore o relativa) lascia sempre una distanza incolmabile tra chi conosce (il soggetto) e ciò che è conosciuto (l'oggetto).\n\nEsiste poi un secondo piano: quello dell'esperienza diretta. Una persona può vivere un momento di grazia, un'estasi meditativa, o un'improvvisa alterazione della percezione in cui il senso del tempo o dell'io svanisce. Queste esperienze possono essere potenti e bellissime, ma hanno una caratteristica inevitabile: accadono nel tempo. Cominciano a un certo minuto e finiscono qualche minuto o ora dopo. Quando finiscono, la persona si ritrova al punto di partenza, spesso con il tormento di aver «perso qualcosa».\n\nRené Guénon e i maestri dell'Advaita hanno insistito su una distinzione fondamentale: un'esperienza straordinaria non è ancora la Conoscenza metafisica (Jñāna).\n\nLa Conoscenza metafisica autentica non è uno stato mentale passeggero; non è un'emozione mistica e non è una transe. È un'intuizione intellettuale pura in cui si riconosce la propria vera natura immutabile. È come svegliarsi da un sogno: quando ti svegli, non hai «vissuto un'esperienza speciale» dentro il sogno; hai semplicemente riconosciuto chi eri prima, durante e dopo il sogno.\n\nPer questo le Upaniṣad affermano il paradosso della Kenopaniṣad: chi crede di aver «afferrato» il Brahman come un oggetto speciale non lo conosce; ma chi riconosce la Coscienza come la luce permanente dietro ogni singolo pensiero ordinario, quello possiede la vera Conoscenza.",
+    "editorial_response": "Conoscere normalmente significa apprendere qualcosa: un soggetto raccoglie informazioni su un oggetto. Questo sapere è indispensabile nelle attività ordinarie, ma non basta per conoscere Brahman come si conosce un fenomeno. Brahman non è un oggetto che la mente possa collocare davanti a sé e descrivere da fuori.\n\nGuénon, nei capitoli II.10.1–2, distingue il ragionamento discorsivo dalla conoscenza metafisica e collega quest’ultima all’identità tra conoscere ed essere. «Intuizione intellettuale», nel suo uso tradizionale, non significa una sensazione improvvisa, una fantasia o un presentimento. Indica una conoscenza immediata che non dipende dalla costruzione di un’immagine o di un concetto individuale. È un’affermazione dottrinale, non il nome di uno stato emozionale.\n\nLa distinzione tra para-vidyā e aparā-vidyā, nella Muṇḍaka Upaniṣad, aiuta a non confondere lo studio delle discipline e dei testi con la conoscenza dell’Imperituro. Lo studio resta utile: fornisce le parole, le distinzioni e l’insegnamento. Ma sapere descrivere Brahman non equivale a conoscere la Realtà a cui la descrizione rinvia.\n\nAnche un’esperienza intensa resta qualcosa che può essere ricordato come accaduto e poi cessato. Non va svalutata né identificata automaticamente con la conoscenza liberatrice. La domanda decisiva non è quanto l’esperienza sia stata straordinaria, ma se la comprensione dell’identità del Sé con Brahman sia stata effettivamente stabilita secondo l’insegnamento tradizionale.",
     "sources_used": [
-      "René Guénon, La metafisica orientale (1925)",
       "Kena Upaniṣad, 2.3-4 (il paradosso della conoscenza e il pratibodha-viditam)",
-      "Muṇḍaka Upaniṣad, 1.1.4-5 (la distinzione tra conoscenza suprema e conoscenza inferiore)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "la-metafisica-orientale",
-        "chapter": "Parte II",
-        "status": "pending",
-        "note": "Riferimento alla distinzione capitale tra intuizione intellettuale sovra-razionale ed esperienza mistica/psichica passiva."
-      }
+      "Muṇḍaka Upaniṣad, 1.1.4-5 (la distinzione tra conoscenza suprema e conoscenza inferiore)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-10-1"
     ],
     "upanishad_passages": [
       "kena-2-3",
@@ -578,6 +528,10 @@
       {
         "passage_id": "chandogya-7-1-3",
         "why": "Fissa la celeberrima massima «tarati śokam ātmavit» (il conoscitore del Sé oltrepassa il dolore), distinguendo la mera erudizione testuale (mantravid) dalla conoscenza liberatrice del Sé."
+      },
+      {
+        "passage_id": "guenon-intro-2-10-1",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/09-che-cosa-significa-conoscere.json"
@@ -588,20 +542,11 @@
     "step_number": 10,
     "title": "Che cos'è la liberazione?",
     "lead": "Mokṣa e Jīvanmukti: se siamo già sempre stati il Sé immortale, cosa significa liberarsi mentre si è ancora in vita?",
-    "editorial_response": "Se la realtà ultima è non-duale e la natura propria dell'individuo è già identica all'Assoluto (Brahman), che cosa significa «liberarsi»?\n\nLa metafisica dell'Advaita Vedānta risponde chiarendo innanzitutto che cosa la liberazione (mokṣa) non è:\n— Non è il conseguimento di un luogo celeste o di uno stato post-mortem (frutto transitorio dell'azione meritoria).\n— Non è la produzione di uno stato nuovo dell'essere, né una trasformazione dell'individuo in qualcosa di diverso da ciò che è.\n— Non è un'esperienza straordinaria da raggiungere, né uno stato alterato o psicologico della coscienza.\n\nPoiché l'increato non può essere generato da ciò che è creato (nāsty akṛtaḥ kṛtena, Muṇḍaka Upaniṣad 1.2.12), la liberazione non può essere il risultato causale di un'azione né il premio di una tecnica. L'azione appartiene all'ambito del divenire: può produrre, modificare, raggiungere o purificare; ma non può stabilire l'immutabile.\n\nLa liberazione è dunque compresa unicamente come rimozione dell'ignoranza metafisica (avidyā-nivṛtti). La limitazione non è una condizione ontologica reale dell'Ātman, bensì una sovraimposizione (adhyāsa) dovuta all'errore fondamentale che attribuisce al Sé i mutamenti del corpo, dei sensi e dell'io empirico. Quando sorge la retta conoscenza (jñāna, vidyā) dell'identità Ātman-Brahman, l'ignoranza cessa: non perché la realtà sia mutata, ma perché si riconosce ciò che è sempre stato.\n\nIn questa prospettiva si comprende la jīvanmukti, la «liberazione in vita»: il risveglio alla verità non richiede la soppressione del corpo né la fuga dal mondo empirico. Come la scoperta che un miraggio non è acqua non ne cancella l'apparenza visiva ma ne dissolve interamente l'illusione di realtà, così il jīvanmukta continua a muoversi nel dominio dei fenomeni, ma stabilito irrevocabilmente nella certezza del Sé, al di là di ogni timore e di ogni divisione.",
+    "editorial_response": "Se Ātman non è mai stato separato da Brahman, liberarsi non può voler dire produrre quell’identità o spostarsi in un luogo dove prima non eravamo. Mokṣa indica la cessazione dell’ignoranza che fa scambiare le condizioni individuali per il Sé. Non è una nuova proprietà acquisita da Brahman.\n\nGuénon affronta direttamente il rapporto tra azione e liberazione nel capitolo III.14.3. Un’azione può produrre un risultato entro l’ordine condizionato: cambiare una situazione, ottenere un frutto o preparare la mente. Non può produrre l’incondizionato, perché ciò che ha inizio per effetto di un’azione avrebbe una causa e sarebbe quindi condizionato. Citando l’Ātmabodha attribuito a Śaṅkara, Guénon distingue la funzione preparatoria dell’azione dalla conoscenza che dissolve l’ignoranza. Questo non significa che riti e discipline siano privi di valore; significa che non sono il risultato ultimo.\n\nLa liberazione non va quindi presentata come un’estasi, una condizione emotiva permanente o il premio per una tecnica. Jīvanmukti designa, nella dottrina tradizionale, la liberazione mentre il corpo è ancora in vita; non è una diagnosi da applicare a chi racconta un’esperienza.\n\nLa spiegazione è semplice, anche se il suo contenuto non è una promessa consolatoria: la realtà non viene resa libera da un’azione; la conoscenza rimuove l’errore circa ciò che il Sé è. Le discipline possono preparare e l’insegnamento può orientare, ma il sito non può certificare la realizzazione di una persona.",
     "sources_used": [
-      "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
       "Īśā Upaniṣad, 1.6-7 (colui che vede tutti gli esseri nel Sé non prova più ripugnanza né dolore)",
-      "Muṇḍaka Upaniṣad, 3.2.8-9 (i fiumi che sfociano nell'oceano; chi conosce Brahman diventa Brahman)"
-    ],
-    "guenon_sources": [
-      {
-        "author": "rene-guenon",
-        "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-        "chapter": "Capitolo XXIII (La Liberazione finale)",
-        "status": "pending",
-        "note": "Riferimento alla definizione rigorosa della Liberazione (Mokṣa) come realizzazione effettiva dell'Identità Suprema e non come evento temporale o psicologico."
-      }
+      "Muṇḍaka Upaniṣad, 3.2.8-9 (i fiumi che sfociano nell'oceano; chi conosce Brahman diventa Brahman)",
+      "René Guénon, Introduzione generale allo studio delle dottrine indù, 3-14-5"
     ],
     "upanishad_passages": [
       "isha-1-6",
@@ -684,6 +629,10 @@
       {
         "passage_id": "chandogya-8-15-1",
         "why": "Descrive il risveglio finale dell'anima nella propria forma autentica (svena rūpeṇa) e sancisce la solenne conclusione dell'Upaniṣad: il conseguimento del mondo di Brahman e il non-ritorno al ciclo della morte."
+      },
+      {
+        "passage_id": "guenon-intro-3-14-5",
+        "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
       }
     ],
     "source_file": "core-path/10-che-cose-la-liberazione.json"

@@ -15375,6 +15375,132 @@
     "editorial_status": "draft",
     "source_file": "explanations/expl-chandogya-santi-1.json"
   },
+  "expl-guenon-intro-2-10-1": {
+    "id": "expl-guenon-intro-2-10-1",
+    "target_type": "passage",
+    "target_id": "guenon-intro-2-10-1",
+    "title": "Conoscere Brahman non è osservare un oggetto",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Nel conoscere ordinario distinguiamo chi conosce e ciò che è conosciuto. Guénon sostiene che la conoscenza metafisica non resta entro questa separazione. «Intuizione intellettuale» qui non significa un'emozione, una fantasia o un presentimento: è il termine con cui descrive una conoscenza immediata, non costruita come un'immagine mentale."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-2-10-1.json"
+  },
+  "expl-guenon-intro-2-10-2": {
+    "id": "expl-guenon-intro-2-10-2",
+    "target_type": "passage",
+    "target_id": "guenon-intro-2-10-2",
+    "title": "Conoscenza ed essere",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Guénon afferma che, sul piano metafisico, conoscere ed essere non sono due realtà indipendenti. Non sta dicendo che i pensieri individuali creino il mondo o che ogni opinione sia vera. Il punto è che la conoscenza ultima non si limita ad accumulare informazioni su Brahman: riguarda il Sé e la Realtà stessa."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-2-10-2.json"
+  },
+  "expl-guenon-intro-2-5-1": {
+    "id": "expl-guenon-intro-2-5-1",
+    "target_type": "passage",
+    "target_id": "guenon-intro-2-5-1",
+    "title": "Che cosa Guénon chiama metafisica",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Guénon usa «metafisica» per la conoscenza dei principi universali, non per una teoria accademica o un sistema filosofico. La ragione e lo studio possono chiarire i termini e preparare la comprensione; una definizione limitata, però, non può contenere ciò che è illimitato. Questa è la tesi di Guénon, da distinguere dalle formulazioni proprie delle Upaniṣad."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-2-5-1.json"
+  },
+  "expl-guenon-intro-2-8-8": {
+    "id": "expl-guenon-intro-2-8-8",
+    "target_type": "passage",
+    "target_id": "guenon-intro-2-8-8",
+    "title": "Perché il linguaggio ricorre alla negazione",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Una qualità positiva può far sembrare Brahman una cosa con caratteristiche delimitate. Guénon spiega che formule come «infinito» servono a negare ogni confine, non a descrivere un oggetto enorme o invisibile. Il linguaggio orienta la comprensione, ma non esaurisce la Realtà ultima."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-2-8-8.json"
+  },
+  "expl-guenon-intro-3-14-1": {
+    "id": "expl-guenon-intro-3-14-1",
+    "target_type": "passage",
+    "target_id": "guenon-intro-3-14-1",
+    "title": "Il posto delle Upaniṣad nel Vedānta",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Guénon presenta le Upaniṣad come fondamento del Vedānta e distingue la conoscenza metafisica dalle sue applicazioni secondarie. Questa è la sua lettura moderna della tradizione. Per sapere che cosa insegna una singola Upaniṣad occorre comunque leggere il suo testo e distinguere il commentario tradizionale dall'esposizione di Guénon."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-3-14-1.json"
+  },
+  "expl-guenon-intro-3-14-2": {
+    "id": "expl-guenon-intro-3-14-2",
+    "target_type": "passage",
+    "target_id": "guenon-intro-3-14-2",
+    "title": "Dallo studio alla conoscenza",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Guénon distingue la comprensione teorica dalla realizzazione metafisica. Un commento può spiegare una dottrina, ma non può assimilarla al posto di chi legge. Qui «realizzazione» non va confusa con l'intensità di una sensazione o con un'esperienza straordinaria: il termine è usato in un senso dottrinale preciso."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-3-14-2.json"
+  },
+  "expl-guenon-intro-3-14-3": {
+    "id": "expl-guenon-intro-3-14-3",
+    "target_type": "passage",
+    "target_id": "guenon-intro-3-14-3",
+    "title": "Non-dualità e manifestazione",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Guénon cerca di evitare due equivoci: che il mondo sia una realtà separata accanto a Brahman, oppure che Brahman sia soltanto la somma delle cose. La manifestazione non limita il Principio, e il Principio non è una forma del mondo. È una distinzione difficile; per questo il passo va letto come la tesi di Guénon sulla non-dualità, insieme alle fonti vedāntiche, non come una descrizione letterale di una sostanza cosmica."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-3-14-3.json"
+  },
+  "expl-guenon-intro-3-14-4": {
+    "id": "expl-guenon-intro-3-14-4",
+    "target_type": "passage",
+    "target_id": "guenon-intro-3-14-4",
+    "title": "Che cosa significa mokṣa",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Guénon descrive mokṣa come liberazione dai limiti dell'esistenza condizionata, non come il passaggio a un altro stato individuale. Il termine «identificazione» non indica che una persona si fonda con una realtà esterna: la dottrina riguarda il riconoscimento dell'identità metafisica. È l'esposizione di Guénon, da confrontare con le Upaniṣad e i commentari tradizionali."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-3-14-4.json"
+  },
+  "expl-guenon-intro-3-14-5": {
+    "id": "expl-guenon-intro-3-14-5",
+    "target_type": "passage",
+    "target_id": "guenon-intro-3-14-5",
+    "title": "Azione e conoscenza liberatrice",
+    "sections": [
+      {
+        "heading": "Spiegazione accessibile",
+        "text": "Guénon distingue gli effetti dell'azione, che appartengono all'ordine condizionato, dalla liberazione metafisica. L'azione può preparare o produrre risultati relativi; non rende assoluto ciò che prima non lo era. Richiamando l'Ātmabodha attribuito a Śaṅkara, sostiene che è la conoscenza a rimuovere l'ignoranza. Questo non significa che ogni rito sia inutile: significa che rito e liberazione non hanno lo stesso fine."
+      }
+    ],
+    "editorial_status": "draft",
+    "source_file": "explanations/expl-guenon-intro-3-14-5.json"
+  },
   "expl-isha-1-1": {
     "id": "expl-isha-1-1",
     "target_type": "passage",

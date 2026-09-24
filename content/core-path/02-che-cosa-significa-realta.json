@@ -5,20 +5,11 @@
   "title": "Che cosa significa «realtà»?",
   "lead": "Ciò che appare ai sensi è necessariamente ciò che è in senso ultimo? La distinzione tra apparenza e fondamento.",
   "question_text": "Che cosa significa «realtà»?",
-  "editorial_response": "Nel linguaggio comune diciamo che è «reale» tutto ciò che possiamo vedere, toccare o percepire: un tavolo di legno, un dolore al ginocchio, la pioggia che cade. Ma se ci fermiamo a riflettere, questa è la realtà delle nostre percezioni immediate, non necessariamente la realtà in senso ultimo e duraturo.\n\nLa metafisica tradizionale introduce una distinzione chiarissima tra due livelli:\n1. Il piano di ciò che appare (il piano fenomenico): tutto ciò che ha un inizio e una fine, che dipende da condizioni esterne, che si trasforma continuamente.\n2. Il piano di ciò che è in modo assoluto: ciò che non dipende da null'altro per esistere, non nasce, non perisce e rimane sempre identico a se stesso.\n\nQuesto non significa affatto sostenere che il mondo che ci circonda «non esista» o sia un'invenzione ingannevole. Guénon spiegava con grande lucidità che il mondo visibile possiede una sua realtà, ma si tratta di una realtà relativa e derivata. È come l'immagine di un albero riflessa in uno specchio d'acqua: l'immagine c'è, la possiamo vedere e descrivere chiaramente, ma la sua consistenza dipende interamente dall'albero reale sulla riva e dalla superficie dell'acqua che la riflette. Se l'acqua si increspa, l'immagine trema; se l'albero non ci fosse, l'immagine non esisterebbe affatto.\n\nAllo stesso modo, il mondo delle cose mutevoli esiste, ma non possiede la realtà in senso assoluto: dipende in ogni istante da un Principio che non si vede, ma che rende possibile ogni visibilità.",
+  "editorial_response": "Nel parlare comune chiamiamo reale ciò che vediamo, tocchiamo o sperimentiamo. Questa accezione è utile nella vita ordinaria: il dolore fa male, il fuoco brucia, le azioni hanno conseguenze. La metafisica pone però una domanda più radicale: ciò che dipende da condizioni e muta può essere la Realtà ultima?\n\nL’Advaita distingue ciò che appare nel mondo condizionato dalla Realtà assoluta. Non sta dicendo che il mondo sia un sogno personale o che nulla conti. Sta dicendo che nomi e forme non hanno in sé un’esistenza indipendente: cambiano e dipendono da condizioni. Brahman, al contrario, non dipende dal mondo e non è una cosa al suo interno.\n\nGuénon formula questa asimmetria nel capitolo III.14.2: la manifestazione non è una seconda realtà fuori da Brahman, ma Brahman non è a sua volta limitato o definito dal mondo. È importante non tradurre questo in «tutto è Brahman» come se ogni oggetto fosse una porzione dell’Assoluto. La relazione tra il condizionato e l’incondizionato non è quella tra due oggetti sullo stesso piano.\n\nQuesta distinzione serve anche a leggere un’esperienza non ordinaria: che il mondo sia apparso uno o irreale non dimostra da solo quale sia la sua natura ultima. La metafisica confronta ogni apparenza con il principio che non dipende da essa. Nel percorso, «realtà relativa» indica proprio questo: ciò che vale nel proprio ordine, ma non costituisce l’Assoluto.",
   "sources_used": [
-    "René Guénon, Gli stati molteplici dell'essere (1932)",
     "Īśā Upaniṣad, 1.1 (il mondo mutevole avvolto dal Signore)",
-    "Kaṭha Upaniṣad, 2.2.13 (l'Eterno tra i perituri)"
-  ],
-  "guenon_sources": [
-    {
-      "author": "rene-guenon",
-      "work": "gli-stati-molteplici-dell-essere",
-      "chapter": "Capitolo III",
-      "status": "pending",
-      "note": "Riferimento alla distinzione tra realtà assoluta del Principio e realtà relativa delle condizioni manifestate."
-    }
+    "Kaṭha Upaniṣad, 2.2.13 (l'Eterno tra i perituri)",
+    "René Guénon, Introduzione generale allo studio delle dottrine indù, 3-14-3"
   ],
   "upanishad_passages": [
     "isha-1-1",
@@ -38,6 +29,10 @@
     {
       "passage_id": "chandogya-6-1-4",
       "why": "Formula il principio metafisico essenziale del Vācārambhaṇa: la distinzione tra la realtà ontologica immutabile della sostanza (l'argilla) e la transitorietà puramente nominale delle forme modificate (i vasi)."
+    },
+    {
+      "passage_id": "guenon-intro-3-14-3",
+      "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
     }
   ]
 }

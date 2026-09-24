@@ -144,6 +144,16 @@
     ],
     "source_file": "authors/pippalada.json"
   },
+  "rene-guenon": {
+    "id": "rene-guenon",
+    "name": "René Guénon",
+    "role": "autore",
+    "role_description": "Autore tradizionalista moderno",
+    "context": "Autore di opere moderne di interpretazione metafisica e tradizionale; le sue esposizioni vanno distinte dalle fonti śruti e dai bhāṣya tradizionali.",
+    "concepts": [],
+    "related_authors": [],
+    "source_file": "authors/rene-guenon.json"
+  },
   "satyakama": {
     "id": "satyakama",
     "name": "Śaibya Satyakāma",

@@ -4,7 +4,7 @@
   "type": "hook",
   "homepage_priority": 104,
   "text": "Perché quell'esperienza è finita?",
-  "introduction": "Uno dei tratti più dolorosi o sconcertanti di queste esperienze è che svaniscono. Ci si ritrova di colpo nella normalità, con i vecchi pensieri, le preoccupazioni e la sensazione di separazione. Ci si chiede allora se si sia 'perso' qualcosa.",
+  "introduction": "Un'esperienza che inizia e poi finisce appartiene alla successione del tempo, anche se durante il suo svolgimento il tempo sembrava assente. La sua fine non dimostra che tu abbia perso Brahman o che la Realtà ultima sia scomparsa: dimostra soltanto che quella modalità di esperienza non è rimasta. Guénon distingue gli stati condizionati dalla liberazione metafisica, che non consiste nel trattenere per sempre una particolare esperienza. La Kena Upaniṣad invita a non scambiare il Principio con un oggetto momentaneamente percepito. Questo non consente di diagnosticare l'episodio, ma aiuta a porre una domanda più precisa: la verità del Sé dipende da uno stato che va e viene, oppure il Vedānta indica qualcosa che non nasce insieme all'esperienza e non cessa con essa?",
   "problem": "Distinguere nettamente tra un'esperienza nel tempo (che ha un inizio e una fine) e la Conoscenza metafisica permanente che non appartiene al dominio degli stati transitori.",
   "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
   "target_core_path_id": "09-che-cosa-significa-conoscere",
@@ -16,7 +16,9 @@
   ],
   "passages": [
     "kena-2-3",
-    "kena-2-4"
+    "kena-2-4",
+    "guenon-intro-2-10-1",
+    "guenon-intro-3-14-4"
   ],
   "commentaries": [],
   "related_questions": [

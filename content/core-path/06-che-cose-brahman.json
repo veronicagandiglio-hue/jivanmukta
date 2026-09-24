@@ -5,20 +5,11 @@
   "title": "Che cos'è Brahman?",
   "lead": "Il termine fondamentale della metafisica vedāntica: la Realtà assoluta, infinita, senza secondo.",
   "question_text": "Che cos'è Brahman?",
-  "editorial_response": "Se il termine Ātman risponde alla domanda su chi siamo noi nella nostra intimità più profonda, la parola Brahman è la risposta della tradizione vedāntica alla domanda su che cosa sia la Realtà universale nel suo complesso.\n\nAttenzione a non fare confusione con parole simili: Brahman non è il dio Brahmā (la divinità personificata della mitologia), e non è neppure il sacerdote (brahmino). La parola Brahman deriva da una radice sanscrita (bṛh) che significa «crescere, espandersi, essere immenso, non avere confini».\n\nBrahman è la Realtà Suprema: infinita, senza inizio, senza fine e senza un secondo principio al di fuori di sé (da cui il nome Advaita, che significa «non-due», non-dualità). Non è un individuo cosmico che crea le cose come un falegname fabbrica un tavolo; non è un re seduto su un trono nei cieli; non è un'entità che ha pensieri, preferenze, simpatie o antipatie.\n\nBrahman è sia trascendente (al di là di qualsiasi forma o nome concepibile) sia immanente (la sostanza stessa che costituisce ogni cosa).\n\nLe Upaniṣad usano una formula celeberrima per indicare la sua natura: Sat-Cit-Ānanda (Esistenza pura, Coscienza pura, Beatitudine infinita). Non sono tre proprietà separate, ma tre aspetti della medesima Realtà:\n- È l'Esistenza stessa, perché nulla può esistere al di fuori di Essa;\n- È la Coscienza stessa, perché è la luce che rende possibile ogni conoscenza;\n- È la Pienezza e la Beatitudine, perché non le manca nulla e non desidera nulla.\n\nCome chiariva Guénon, Brahman non può essere compreso dalla mente ordinaria come si comprende un concetto scientifico, perché la mente funziona dividendo e misurando. Ma ciò che è infinito e indiviso non può essere misurato.",
+  "editorial_response": "Brahman è il nome vedāntico della Realtà ultima. Non è una divinità particolare, un oggetto cosmico o una coscienza universale che si possa immaginare diffusa nello spazio. Qualunque immagine o qualità positiva circoscriverebbe ciò che, per definizione metafisica, non è circoscritto.\n\nGuénon affronta questo problema nel capitolo II.8.4. Spiega che il linguaggio può indicare i principi supremi soprattutto rimuovendo limiti: «infinito» non vuol dire una quantità enorme, ma ciò che non è finito né contenuto entro confini. Le parole aiutano a non confondere Brahman con una cosa; non consegnano una rappresentazione completa di Brahman.\n\nPer questo occorre essere prudenti con formule come «energia», «universo», «coscienza cosmica» o «sostanza di tutto». Possono sembrare accessibili, ma rischiano di trasformare il principio in un fenomeno o in un oggetto mentale. Anche i termini tradizionali, come sat, cit o ānanda, non sono tre proprietà che possiamo osservare in Brahman; vanno spiegati attraverso le fonti e il loro contesto, non presentati come una fotografia dell’Assoluto.\n\nLe Upaniṣad indicano Brahman anche attraverso la negazione e il paradosso: non ciò che la mente pensa come un oggetto, ma ciò grazie a cui il pensiero è possibile. Guénon aiuta a chiarire il limite concettuale; il contenuto dottrinale va letto nelle Upaniṣad e nei commentari tradizionali. La risposta accessibile è dunque precisa ma non pretende di esaurire: Brahman è la Realtà assoluta, e nessuna descrizione finita può contenerlo.",
   "sources_used": [
-    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
     "Kena Upaniṣad, 1.4-5 (ciò che non può essere detto con parole né pensato con la mente)",
-    "Taittirīya Upaniṣad, 2.1.1 (satyaṃ jñānam anantaṃ brahma)"
-  ],
-  "guenon_sources": [
-    {
-      "author": "rene-guenon",
-      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-      "chapter": "Capitolo I",
-      "status": "pending",
-      "note": "Riferimento alla nozione dottrinale di Brahman come Infinito metafisico privo di ogni determinazione esclusiva."
-    }
+    "Taittirīya Upaniṣad, 2.1.1 (satyaṃ jñānam anantaṃ brahma)",
+    "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-8-8"
   ],
   "upanishad_passages": [
     "kena-1-4",
@@ -92,6 +83,10 @@
     {
       "passage_id": "chandogya-8-1-3",
       "why": "Rivela la natura di Brahman nel cuore: l'infinità dello spazio interiore che accoglie e trascende la totalità del cosmo, del cielo e della terra."
+    },
+    {
+      "passage_id": "guenon-intro-2-8-8",
+      "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
     }
   ]
 }

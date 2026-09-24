@@ -5,21 +5,12 @@
   "title": "Perché allora appare un mondo molteplice?",
   "lead": "Il mistero della manifestazione: Māyā, nomi e forme (nāmarūpa), e la sovrimpressione che fa apparire l'Uno come molti.",
   "question_text": "Perché allora appare un mondo molteplice?",
-  "editorial_response": "A questo punto sorge spontanea l'obiezione più forte che chiunque possa sollevare: «Se la Realtà è una sola e indivisa, perché io vedo miliardi di esseri separati, montagne, città, conflitti, dolore e diversità? Da dove nasce tutta questa molteplicità?»\n\nPer rispondere a questa domanda senza cadere in contraddizione, il Vedānta introduce il concetto di Māyā.\n\nSpesso la parola Māyā viene tradotta sbrigativamente come «illusione», portando molti a credere che il Vedānta consideri il mondo come una favola inesistente o una truffa della mente. René Guénon ha corretto questo errore con grande puntualità: Māyā è l'arte universale con cui l'Infinito manifesta le proprie infinite possibilità di forma, nome e relazione.\n\nPrendiamo un'analogia chiarissima: l'oro e i gioielli. In una gioielleria vediamo anelli, bracciali, catenine e spille. Ognuno ha un nome diverso («anello», «bracciale»), una forma diversa e un prezzo diverso. Ma se andiamo alla sostanza reale, che cosa sono tutti quanti? Sono esclusivamente oro. Il bracciale non aggiunge un solo grammo di peso all'oro di cui è fatto. Se lo fondiamo, la forma del bracciale sparisce, ma l'oro rimane intatto.\n\nAllo stesso modo, la molteplicità dell'universo è fatta di «nomi e forme» (nāmarūpa) che si manifestano sull'unica Sostanza reale, che è Brahman. La molteplicità non è una realtà separata dall'Uno, ma è il modo in cui l'Uno si esprime e si rende visibile nelle coordinate dello spazio e del tempo.\n\nIl problema non è la molteplicità in sé; il problema nasce quando dimentichiamo l'Oro e ci identifichiamo ciecamente con la sola forma del singolo anello, temendo di essere distrutti quando la forma muta. Questo scambio tra la forma passeggera e la sostanza eterna è ciò che la tradizione chiama ignoranza metafisica (avidyā).",
+  "editorial_response": "Se Brahman è senza secondo, perché appaiono persone, oggetti, differenze e cambiamenti? La domanda è legittima, ma bisogna notare che «perché» spesso cerca una causa: ogni causa e ogni effetto appartengono già all’ordine manifestato. Una causa ultima collocata accanto a Brahman introdurrebbe un secondo principio.\n\nL’Advaita usa il linguaggio di māyā, nāma e rūpa — potere di manifestazione, nome e forma — per discutere come il mondo sia esperito come molteplice. Questi termini non vanno tradotti in «il mondo non esiste» né in «Brahman si trasforma materialmente nel mondo». Le spiegazioni cosmologiche appartengono al livello dell’insegnamento sulla manifestazione; non sono una definizione dell’Assoluto.\n\nNel capitolo III.14.2 Guénon insiste sull’asimmetria: il mondo non è una realtà separata da Brahman, ma Brahman non è limitato dal mondo. Non dobbiamo immaginare una sostanza assoluta che si divida in frammenti, o una persona cosmica che cambi forma. La molteplicità è trattata dal punto di vista condizionato; non può spiegare l’incondizionato come se fosse un evento all’inizio del tempo.\n\nPerciò il Vedānta non offre una spiegazione causale di Brahman. Le immagini e le dottrine della manifestazione possono orientare la comprensione, ma restano subordinate al punto essenziale: le forme non costituiscono una seconda Realtà ultima. Il limite della risposta non è una lacuna da colmare con una cosmologia sempre più dettagliata; è parte della distinzione tra ciò che è manifestato e ciò che non è condizionato.",
   "sources_used": [
-    "René Guénon, Gli stati molteplici dell'essere (1932)",
     "Praśna Upaniṣad, 1.4 (la polarità fondamentale di Prāṇa e Rayi)",
     "Muṇḍaka Upaniṣad, 2.1.1 (come dal fuoco scaturiscono miriadi di scintille)",
-    "Kaṭha Upaniṣad, 2.2.9 (il fuoco unico che entra nel mondo assumendo forme diverse)"
-  ],
-  "guenon_sources": [
-    {
-      "author": "rene-guenon",
-      "work": "gli-stati-molteplici-dell-essere",
-      "chapter": "Capitolo V",
-      "status": "pending",
-      "note": "Riferimento alla nozione di Māyā come principio della manifestazione universale e non come pura illusione negativa."
-    }
+    "Kaṭha Upaniṣad, 2.2.9 (il fuoco unico che entra nel mondo assumendo forme diverse)",
+    "René Guénon, Introduzione generale allo studio delle dottrine indù, 3-14-3"
   ],
   "upanishad_passages": [
     "prashna-1-4",
@@ -45,6 +36,10 @@
     {
       "passage_id": "chandogya-6-3-2",
       "why": "Chiarisce che la molteplicità dei nomi e delle forme sorge dall'ingresso dell'unico Principio (Sat) sotto forma di Jīvātman nella trama dei principi cosmici."
+    },
+    {
+      "passage_id": "guenon-intro-3-14-3",
+      "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
     }
   ]
 }

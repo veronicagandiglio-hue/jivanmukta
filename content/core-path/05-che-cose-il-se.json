@@ -5,20 +5,11 @@
   "title": "Che cos'è il Sé?",
   "lead": "L'introduzione progressiva di Ātman: non l'ego psicologico, ma la Coscienza pura e immutabile che tutto illumina.",
   "question_text": "Che cos'è il Sé?",
-  "editorial_response": "Dopo aver compreso che non siamo semplicemente il corpo né il flusso mutevole dei pensieri, possiamo introdurre il termine fondamentale con cui la tradizione vedāntica indica la nostra vera identità: Ātman, il Sé.\n\nÈ indispensabile chiarire un malinteso molto diffuso in Occidente: il Sé non è il «sé psicologico», non è il carattere, non è l'autostima, non è la nostra personalità individuale con le sue preferenze e le sue ferite. Quella è ancora l'individualità (il piccolo «io»), un insieme di abitudini e condizionamenti mentali.\n\nIl Sé (Ātman) è il principio stesso della Coscienza: quella luce interiore grazie alla quale siamo consapevoli di esistere in ogni istante. Usiamo una similitudine chiarissima: la luce del sole illumina una stanza. Se nella stanza entra una persona cara o un ladro, se c'è un vaso di fiori freschi o un mucchio di polvere, la luce li illumina entrambi con la stessa purezza, senza essere sporcata dalla polvere né profumata dai fiori. Quando gli oggetti vengono portati via, la luce rimane intatta.\n\nAllo stesso modo, Ātman è la pura Coscienza testimone (Sākṣin): illumina i pensieri felici e i pensieri dolorosi, la veglia, il sogno e persino il sonno profondo, ma non viene mai macchiata, toccata o alterata da ciò che illumina.\n\nGuénon sottolineava un punto decisivo: il Sé non è qualcosa che «dobbiamo fabbricare» o «raggiungere» attraverso sforzi titanici. È ciò che siamo già adesso, in questo esatto istante. L'unico ostacolo è che la nostra attenzione è costantemente ipnotizzata dagli oggetti illuminati, dimenticandosi della Luce che li rende visibili.",
+  "editorial_response": "Ātman è la parola con cui le Upaniṣad indicano il Sé. Non significa la personalità ideale, un’anima individuale più raffinata o una voce interiore. Corpo, sensi, ricordi, emozioni e pensieri appartengono alla vita individuale e sono soggetti a mutamento; il Sé non è una di queste condizioni.\n\nA volte si parla di Ātman come «testimone» dei mutamenti. È un modo utile per non identificare immediatamente il Sé con ciò che si osserva, ma non è una descrizione definitiva. Se il testimone fosse un soggetto separato che guarda dall’interno gli oggetti mentali, resterebbe ancora una dualità. Nell’Advaita, l’indagine non si ferma a un osservatore sottile.\n\nGuénon, nel capitolo II.10.2, presenta conoscere ed essere come inseparabili al livello metafisico. Questo non vuol dire che i nostri pensieri producano ciò che siamo, né che ogni opinione personale sia vera. Vuol dire che la conoscenza ultima non consiste nell’accumulare informazioni su Ātman come su un oggetto: riguarda ciò che il Sé è.\n\nIl Vedānta non invita a fabbricare o migliorare Ātman. La disciplina e l’insegnamento possono rimuovere confusioni e preparare la comprensione; non producono il Sé. La formulazione più completa di questa dottrina verrà con l’identità Ātman–Brahman. Fino ad allora, «testimone» e «coscienza» vanno letti come indicazioni dottrinali, non come nomi di una speciale esperienza interiore.",
   "sources_used": [
-    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
     "Kena Upaniṣad, 1.2 (il principio animatore: l'orecchio dell'orecchio, la mente della mente)",
-    "Muṇḍaka Upaniṣad, 3.1.1 (l'allegoria dei due uccelli: colui che agisce e colui che osserva senza agire)"
-  ],
-  "guenon_sources": [
-    {
-      "author": "rene-guenon",
-      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-      "chapter": "Capitolo III",
-      "status": "pending",
-      "note": "Riferimento alla nozione fondamentale di Ātman come Principio trascendente non riducibile ad alcun fenomeno psichico."
-    }
+    "Muṇḍaka Upaniṣad, 3.1.1 (l'allegoria dei due uccelli: colui che agisce e colui che osserva senza agire)",
+    "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-10-2"
   ],
   "upanishad_passages": [
     "kena-1-2",
@@ -55,6 +46,10 @@
     {
       "passage_id": "chandogya-8-7-1",
       "why": "Enuncia la celebre definizione del Sé immacolato proclamata da Prajāpati: immune dal peccato, libero da vecchiaia, morte, dolore, fame e sete, la cui volontà è la Verità."
+    },
+    {
+      "passage_id": "guenon-intro-2-10-2",
+      "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
     }
   ]
 }

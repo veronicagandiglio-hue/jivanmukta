@@ -4,20 +4,11 @@
   "step_number": 10,
   "title": "Che cos'è la liberazione?",
   "lead": "Mokṣa e Jīvanmukti: se siamo già sempre stati il Sé immortale, cosa significa liberarsi mentre si è ancora in vita?",
-  "editorial_response": "Se la realtà ultima è non-duale e la natura propria dell'individuo è già identica all'Assoluto (Brahman), che cosa significa «liberarsi»?\n\nLa metafisica dell'Advaita Vedānta risponde chiarendo innanzitutto che cosa la liberazione (mokṣa) non è:\n— Non è il conseguimento di un luogo celeste o di uno stato post-mortem (frutto transitorio dell'azione meritoria).\n— Non è la produzione di uno stato nuovo dell'essere, né una trasformazione dell'individuo in qualcosa di diverso da ciò che è.\n— Non è un'esperienza straordinaria da raggiungere, né uno stato alterato o psicologico della coscienza.\n\nPoiché l'increato non può essere generato da ciò che è creato (nāsty akṛtaḥ kṛtena, Muṇḍaka Upaniṣad 1.2.12), la liberazione non può essere il risultato causale di un'azione né il premio di una tecnica. L'azione appartiene all'ambito del divenire: può produrre, modificare, raggiungere o purificare; ma non può stabilire l'immutabile.\n\nLa liberazione è dunque compresa unicamente come rimozione dell'ignoranza metafisica (avidyā-nivṛtti). La limitazione non è una condizione ontologica reale dell'Ātman, bensì una sovraimposizione (adhyāsa) dovuta all'errore fondamentale che attribuisce al Sé i mutamenti del corpo, dei sensi e dell'io empirico. Quando sorge la retta conoscenza (jñāna, vidyā) dell'identità Ātman-Brahman, l'ignoranza cessa: non perché la realtà sia mutata, ma perché si riconosce ciò che è sempre stato.\n\nIn questa prospettiva si comprende la jīvanmukti, la «liberazione in vita»: il risveglio alla verità non richiede la soppressione del corpo né la fuga dal mondo empirico. Come la scoperta che un miraggio non è acqua non ne cancella l'apparenza visiva ma ne dissolve interamente l'illusione di realtà, così il jīvanmukta continua a muoversi nel dominio dei fenomeni, ma stabilito irrevocabilmente nella certezza del Sé, al di là di ogni timore e di ogni divisione.",
+  "editorial_response": "Se Ātman non è mai stato separato da Brahman, liberarsi non può voler dire produrre quell’identità o spostarsi in un luogo dove prima non eravamo. Mokṣa indica la cessazione dell’ignoranza che fa scambiare le condizioni individuali per il Sé. Non è una nuova proprietà acquisita da Brahman.\n\nGuénon affronta direttamente il rapporto tra azione e liberazione nel capitolo III.14.3. Un’azione può produrre un risultato entro l’ordine condizionato: cambiare una situazione, ottenere un frutto o preparare la mente. Non può produrre l’incondizionato, perché ciò che ha inizio per effetto di un’azione avrebbe una causa e sarebbe quindi condizionato. Citando l’Ātmabodha attribuito a Śaṅkara, Guénon distingue la funzione preparatoria dell’azione dalla conoscenza che dissolve l’ignoranza. Questo non significa che riti e discipline siano privi di valore; significa che non sono il risultato ultimo.\n\nLa liberazione non va quindi presentata come un’estasi, una condizione emotiva permanente o il premio per una tecnica. Jīvanmukti designa, nella dottrina tradizionale, la liberazione mentre il corpo è ancora in vita; non è una diagnosi da applicare a chi racconta un’esperienza.\n\nLa spiegazione è semplice, anche se il suo contenuto non è una promessa consolatoria: la realtà non viene resa libera da un’azione; la conoscenza rimuove l’errore circa ciò che il Sé è. Le discipline possono preparare e l’insegnamento può orientare, ma il sito non può certificare la realizzazione di una persona.",
   "sources_used": [
-    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
     "Īśā Upaniṣad, 1.6-7 (colui che vede tutti gli esseri nel Sé non prova più ripugnanza né dolore)",
-    "Muṇḍaka Upaniṣad, 3.2.8-9 (i fiumi che sfociano nell'oceano; chi conosce Brahman diventa Brahman)"
-  ],
-  "guenon_sources": [
-    {
-      "author": "rene-guenon",
-      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-      "chapter": "Capitolo XXIII (La Liberazione finale)",
-      "status": "pending",
-      "note": "Riferimento alla definizione rigorosa della Liberazione (Mokṣa) come realizzazione effettiva dell'Identità Suprema e non come evento temporale o psicologico."
-    }
+    "Muṇḍaka Upaniṣad, 3.2.8-9 (i fiumi che sfociano nell'oceano; chi conosce Brahman diventa Brahman)",
+    "René Guénon, Introduzione generale allo studio delle dottrine indù, 3-14-5"
   ],
   "upanishad_passages": [
     "isha-1-6",
@@ -100,6 +91,10 @@
     {
       "passage_id": "chandogya-8-15-1",
       "why": "Descrive il risveglio finale dell'anima nella propria forma autentica (svena rūpeṇa) e sancisce la solenne conclusione dell'Upaniṣad: il conseguimento del mondo di Brahman e il non-ritorno al ciclo della morte."
+    },
+    {
+      "passage_id": "guenon-intro-3-14-5",
+      "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
     }
   ]
 }

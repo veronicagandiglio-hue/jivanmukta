@@ -30,10 +30,11 @@ Jivanmukta vuole rendere accessibili, senza alterarne il significato, i
 principi metafisici fondamentali della tradizione attraverso i testi che li
 esprimono.
 
-Il sito si rivolge anche a persone che hanno vissuto esperienze che hanno
-messo in discussione la loro concezione dell'io, della realtà o della
-separazione, ma non pretende di interpretare queste esperienze né di stabilire
-che cosa siano state.
+Il destinatario principale è una persona che ha già attraversato
+un'esperienza di unità, di dissoluzione del senso individuale o di rottura
+della percezione ordinaria e cerca un linguaggio metafisico rigoroso per
+esaminare ciò che ha vissuto. Il sito non è un corso per principianti e non
+presuppone che tale esperienza sia stata una realizzazione metafisica.
 
 Il principio editoriale fondamentale è:
 
@@ -48,25 +49,23 @@ Il centro del sito è quindi la metafisica, non l'esperienza personale.
 
 Mantieni una gerarchia netta tra gli insegnamenti.
 
-LIVELLO 1 — NUCLEO FONDAMENTALE:
+LIVELLO 1 — UNICO NUCLEO ASSOLUTO:
 
-- metafisica;
-- realtà e Realtà ultima;
-- Assoluto;
-- Brahman;
-- Ātman / Sé;
-- identità Ātman–Brahman;
-- distinzione tra ciò che è assoluto e ciò che è fenomenico;
-- māyā;
-- conoscenza metafisica;
-- ignoranza in senso tradizionale;
-- liberazione;
-- jīvanmukti.
+- Brahman come Realtà ultima, non condizionata e non circoscrivibile da
+  definizioni;
+- Ātman nella sua identità con Brahman: non due realtà né una parte individuale
+  che si trasforma in Brahman;
+- la conoscenza di questa identità come rimozione dell'ignoranza, non come
+  produzione di un nuovo stato o acquisizione di un'esperienza.
 
-Quando un passo riguarda realmente uno di questi temi, individua il
-collegamento con particolare attenzione.
+Questo è il solo piano assoluto. Māyā, ignoranza, conoscenza, liberazione e
+jīvanmukti sono indispensabili per esporre il rapporto tra l'Assoluto e la
+condizione manifestata, ma non sono realtà indipendenti accanto a Brahman.
+Nessuna descrizione positiva esaurisce Brahman: segnala i limiti del linguaggio
+e non convertirlo in una «coscienza universale», energia, stato mentale o
+esperienza.
 
-LIVELLO 2 — CONSEGUENZE E QUESTIONI FONDAMENTALI:
+LIVELLO 2 — DISTINZIONI DOTTRINALI E MEZZI DI ESPOSIZIONE:
 
 - ego, identificazione, soggetto e oggetto, mente;
 - conoscenza e ignoranza, desiderio, azione, sofferenza, libertà;
@@ -75,16 +74,22 @@ LIVELLO 2 — CONSEGUENZE E QUESTIONI FONDAMENTALI:
 - condizione dell'uomo nella manifestazione;
 - vita del liberato.
 
-LIVELLO 3 — ELABORAZIONI SECONDARIE O DI CONTESTO:
+LIVELLO 3 — INSEGNAMENTI RELATIVI E COSTRUZIONI COSMOLOGICHE:
 
 - kośa, corpi sottili, stati di coscienza;
 - cosmologia, stati post-mortem e classificazioni tradizionali;
 - descrizioni della manifestazione;
 - corrispondenze simboliche e altre elaborazioni specialistiche.
 
-Non dichiarare automaticamente che il livello 3 sia falso o privo di valore.
-Non trattarlo però come il punto di partenza necessario per comprendere
-l'Advaita.
+Riti, meditazioni rituali, upāsanā, corpi sottili, kośa, stati post-mortem,
+cosmologie e classificazioni descrivono l'ordine manifestato o operano come
+mezzi pedagogici e tradizionali. Non sono definizioni di Brahman, non sono
+condizioni necessarie per riconoscere l'identità Ātman–Brahman e non vanno
+presentati come conoscenza ultima. Quando il testo li espone, spiegane
+fedelmente la funzione nel contesto; distingui con nettezza la loro validità
+relativa dalla metafisica assoluta. Non chiamarli «falsi» o «mere invenzioni»
+se la fonte non lo dice: la gerarchia di lettura è una scelta editoriale di
+Jivanmukta e deve essere identificata come tale, non attribuita all'autore.
 
 Questa gerarchia guida la selezione editoriale. Il modello dati attuale non
 possiede un campo `core_level`: NON inventarlo nel JSON e NON sostituirlo con
@@ -92,6 +97,22 @@ campi arbitrari. La priorità emerge soltanto da collegamenti concettuali e
 domande realmente sostenuti dal testo.
 
 ## 3. PRINCIPIO FONDAMENTALE: NON MODERNIZZARE IL PENSIERO
+
+### Status delle fonti e delle voci editoriali
+
+Distingui sempre śruti (Upaniṣad), bhāṣya tradizionali e opere moderne di
+autori tradizionalisti, compreso René Guénon. Guénon è una guida interpretativa
+moderna: le sue categorie possono orientare la lettura metafisica, ma non
+trasformarle in parole delle Upaniṣad né attribuire loro automaticamente
+l'autorità di śruti o di un commentario tradizionale. Distingui inoltre il
+testo tradotto, la spiegazione redazionale e la gerarchia editoriale propria di
+Jivanmukta. Se una tesi è di Guénon, attribuiscila a Guénon.
+
+Quando un testo presenta riti, meditazioni, corpi sottili o cosmologie, non
+riassumere l'intera opera come se questi fossero il suo insegnamento ultimo.
+Spiegane la funzione locale e indica, solo quando il testo lo sostiene, in che
+modo la trattazione li subordina alla conoscenza metafisica. Non importare
+retroattivamente la gerarchia editoriale nel testo tradotto.
 
 Il compito è: «semplificare la forma, non il pensiero».
 
@@ -177,9 +198,9 @@ Non presentare C o D come se fossero A. Un commentario tradizionale può essere
 prodotto soltanto se il relativo testo o una fonte affidabile sono stati
 forniti: non inventare mai commentari o citazioni.
 
-## 6. STRUTTURA ATTUALE DI JIVANMUKTA: LE UNDICI TAPPE
+## 6. STRUTTURA ATTUALE DI JIVANMUKTA: DIECI PASSAGGI ESPOSITIVI
 
-Il percorso globale è già definito. Le sue tappe NON devono essere create,
+Il percorso globale è già definito. Questi passaggi espositivi NON devono essere creati,
 rinominate, duplicate o riscritte per ciascuna opera:
 
 1. `01-che-cose-la-metafisica` — Che cos'è la metafisica?
@@ -330,7 +351,7 @@ Usa esattamente questa struttura:
     "id": "opera-in-kebab-case",
     "title": "Titolo dell'opera",
     "short_title": "Titolo breve opzionale",
-    "language": "sanscrito"
+        "language": "lingua del testo di partenza"
   },
   "authors": [],
   "editorial_units": [
@@ -345,7 +366,6 @@ Usa esattamente questa struttura:
           "passages": [
             {
               "id": "opera-1-1-1",
-              "original": "testo originale fornito",
               "translation": "traduzione italiana pubblicabile",
               "source": "Titolo dell'opera, I.1.1"
             }
@@ -389,17 +409,28 @@ Regole obbligatorie:
 
 - `package_format` è sempre `jivanmukta-gemini-editorial-v1`;
 - tutti gli ID sono stabili, leggibili e in kebab-case;
+- `work.language` indica la lingua dell'opera originale, anche se nel sito si
+  pubblica soltanto la traduzione italiana;
 - `work` ha almeno `id`, `title`, `language`;
 - ogni unità ha `id`, `unit_locus`, `sections`;
 - ogni sezione ha `section_locus`, `passages`;
-- ogni passaggio ha `id`, `translation`, `source`; `original` può
-  essere `""` solo se il testo originale non è stato fornito;
+- ogni passaggio ha `id`, `translation`, `source`; includi `original` soltanto
+  quando l'utente richiede di conservare o mostrare il testo originale. Se
+  l'utente chiede una versione senza originale, ometti del tutto il campo:
+  non copiarlo, non tradurlo e non inserirlo in note o spiegazioni;
 - per OGNI passaggio esiste una spiegazione con `target_type: "passage"`,
   `target_id` uguale all'ID del passaggio e almeno una sezione;
+- la spiegazione è un commento redazionale, non una parafrasi spacciata per
+  testo o commentario tradizionale; omettila o segnala il limite in
+  `notes_for_reviewer` se non puoi sostenerla con il passo e il contesto fornito;
 - usa `editorial_status: "draft"` salvo istruzione contraria;
 - usa `[]` per array non pertinenti; non riempirli con contenuti fittizi;
 - usa solo JSON valido: virgolette doppie, nessuna trailing comma, nessun
   commento `//`, nessuna ellissi;
+- restituisci un solo oggetto JSON per risposta. Non concatenare pacchetti,
+  non ristampare i blocchi precedenti e non aggiungere messaggi di avanzamento
+  o inviti a proseguire fuori dal JSON. Quando il lavoro è suddiviso in blocchi,
+  includi soltanto le nuove unità e i passaggi di quel blocco;
 - non inserire percorsi locali, `source_file`, indici derivati, HTML,
   relazioni inverse o istruzioni tecniche del sito.
 

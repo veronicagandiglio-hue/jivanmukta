@@ -8,6 +8,9 @@
   "chandogya-7-1-4": [
     "01-che-cose-la-metafisica"
   ],
+  "guenon-intro-2-5-1": [
+    "01-che-cose-la-metafisica"
+  ],
   "isha-1-1": [
     "02-che-cosa-significa-realta"
   ],
@@ -16,6 +19,11 @@
   ],
   "chandogya-6-1-4": [
     "02-che-cosa-significa-realta"
+  ],
+  "guenon-intro-3-14-3": [
+    "02-che-cosa-significa-realta",
+    "07-che-rapporto-ce-tra-atman-e-brahman",
+    "08-perche-appare-la-molteplicita"
   ],
   "isha-1-shanti": [
     "03-che-cose-l-assoluto"
@@ -37,6 +45,10 @@
   ],
   "chandogya-7-24-1": [
     "03-che-cose-l-assoluto"
+  ],
+  "guenon-intro-2-8-8": [
+    "03-che-cose-l-assoluto",
+    "06-che-cose-brahman"
   ],
   "katha-1-3-3": [
     "04-chi-sono-veramente"
@@ -89,6 +101,10 @@
   "chandogya-8-12-5": [
     "04-chi-sono-veramente"
   ],
+  "guenon-intro-2-10-1": [
+    "04-chi-sono-veramente",
+    "09-che-cosa-significa-conoscere"
+  ],
   "kena-1-2": [
     "05-che-cose-il-se"
   ],
@@ -108,6 +124,9 @@
     "05-che-cose-il-se"
   ],
   "chandogya-8-7-1": [
+    "05-che-cose-il-se"
+  ],
+  "guenon-intro-2-10-2": [
     "05-che-cose-il-se"
   ],
   "kena-1-4": [
@@ -267,6 +286,9 @@
     "10-che-cose-la-liberazione"
   ],
   "chandogya-8-15-1": [
+    "10-che-cose-la-liberazione"
+  ],
+  "guenon-intro-3-14-5": [
     "10-che-cose-la-liberazione"
   ]
 }

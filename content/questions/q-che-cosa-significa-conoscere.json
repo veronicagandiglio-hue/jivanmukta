@@ -4,7 +4,7 @@
   "type": "great",
   "homepage_priority": null,
   "text": "Che cosa significa conoscere la realtà?",
-  "introduction": "Nella nostra esperienza ordinaria, conoscere qualcosa significa avere di fronte un oggetto — una cosa, un fatto, un'idea — e rapportarci ad esso come soggetti conoscenti. Conoscere un tavolo, una persona, una legge fisica: in tutti questi casi c'è sempre un io che conosce e un qualcosa che viene conosciuto. Ma che cosa accade quando l'oggetto della conoscenza è la Realtà stessa? Quando ciò che vogliamo conoscere è il Principio che rende possibile ogni conoscenza? La tradizione dell'Advaita Vedānta sostiene che la conoscenza ordinaria — basata sul rapporto soggetto-oggetto — è inadeguata per cogliere Brahman. Questo non significa che Brahman sia inconoscibile, ma che la sua conoscenza è di un tipo radicalmente diverso. La Kena Upaniṣad affronta questo problema con una precisione straordinaria.",
+  "introduction": "Conoscere normalmente significa apprendere qualcosa: un soggetto raccoglie informazioni su un oggetto. Questo sapere è indispensabile nelle attività ordinarie, ma non basta per conoscere Brahman come si conosce un fenomeno. Brahman non è un oggetto che la mente possa collocare davanti a sé e descrivere da fuori.\n\nGuénon, nei capitoli II.10.1–2, distingue il ragionamento discorsivo dalla conoscenza metafisica e collega quest’ultima all’identità tra conoscere ed essere. «Intuizione intellettuale», nel suo uso tradizionale, non significa una sensazione improvvisa, una fantasia o un presentimento. Indica una conoscenza immediata che non dipende dalla costruzione di un’immagine o di un concetto individuale. È un’affermazione dottrinale, non il nome di uno stato emozionale.\n\nLa distinzione tra para-vidyā e aparā-vidyā, nella Muṇḍaka Upaniṣad, aiuta a non confondere lo studio delle discipline e dei testi con la conoscenza dell’Imperituro. Lo studio resta utile: fornisce le parole, le distinzioni e l’insegnamento. Ma sapere descrivere Brahman non equivale a conoscere la Realtà a cui la descrizione rinvia.\n\nAnche un’esperienza intensa resta qualcosa che può essere ricordato come accaduto e poi cessato. Non va svalutata né identificata automaticamente con la conoscenza liberatrice. La domanda decisiva non è quanto l’esperienza sia stata straordinaria, ma se la comprensione dell’identità del Sé con Brahman sia stata effettivamente stabilita secondo l’insegnamento tradizionale.",
   "problem": "Chiarire perché la conoscenza ordinaria (basata sulla dualità soggetto-oggetto) non possa cogliere Brahman e in che senso esista una forma di conoscenza non-oggettiva che è invece adeguata alla natura di Brahman.",
   "parent_question": null,
   "specific_questions": [
@@ -27,7 +27,9 @@
     "kena-2-5",
     "kena-1-3",
     "kena-1-4",
-    "chandogya-1-1-10"
+    "chandogya-1-1-10",
+    "guenon-intro-2-10-1",
+    "guenon-intro-2-10-2"
   ],
   "commentaries": [
     "comm-kena-soggetto-trascendente",

@@ -4,7 +4,7 @@
   "type": "hook",
   "homepage_priority": 105,
   "text": "Ho avuto un'esperienza non-duale: era il Brahman?",
-  "introduction": "Chi legge o scopre concetti orientali dopo un evento trasformativo tende spesso ad applicarvi subito etichette sacre o assolute: 'Ho visto Dio', 'Ero il Brahman', 'Ho toccato l'Infinito'.",
+  "introduction": "Non è possibile identificare con certezza un'esperienza con Brahman soltanto dalla sua intensità, dalla sensazione di unità o dalla scomparsa dell'io. La metafisica non definisce Brahman come un particolare stato che comincia e poi termina. La Kena Upaniṣad avverte che Brahman non è un oggetto afferrato dalla mente; Guénon, discutendo il linguaggio dell'Infinito, mostra perché nessuna immagine finita possa esaurirlo. Questi riferimenti non sminuiscono ciò che hai vissuto e non stabiliscono che cosa sia stato. Offrono un criterio: distinguere l'esperienza, che può essere descritta, dalla conoscenza metafisica e dall'identità Ātman–Brahman insegnata dalla tradizione. Il sito può chiarire i testi e i concetti, non pronunciare un giudizio sulla tua realizzazione.",
   "problem": "Spiegare perché il Brahman non è uno stato mentale né un oggetto contemplato dalla mente o dai sensi, ma la sorgente trascendente e immanente della Realtà.",
   "editorial_stance": "Non possiamo stabilire dal solo racconto che cosa sia stata un'esperienza personale. Possiamo però esaminare il problema alla luce della metafisica e della tradizione vedāntica, distinguendo ciò che è essenziale da ciò che appartiene al piano fenomenico.",
   "target_core_path_id": "06-che-cose-brahman",
@@ -16,7 +16,9 @@
   ],
   "passages": [
     "kena-1-4",
-    "kena-1-5"
+    "kena-1-5",
+    "guenon-intro-2-8-8",
+    "guenon-intro-3-14-3"
   ],
   "commentaries": [],
   "related_questions": [

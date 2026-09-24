@@ -4,7 +4,7 @@
   "type": "great",
   "homepage_priority": null,
   "text": "Che rapporto c'è tra il Sé e Brahman?",
-  "introduction": "Una delle affermazioni più radicali dell'Advaita Vedānta è contenuta in quattro grandi sentenze (mahāvākya) della tradizione upaniṣadica, la più nota delle quali è «Tat tvam asi» — «Tu sei Quello». Il Sé individuale (Ātman) e la Realtà suprema (Brahman) non sono due realtà distinte che si incontrano o si avvicinano: sono, nella loro natura più profonda, un'unica e identica realtà. Questa non è un'affermazione poetica né mistica nel senso vago del termine: è una tesi metafisica precisa, con una struttura argomentativa rigorosa. Capire come sia possibile che l'infinito e il finito siano identici — senza che questa identità collassi in un panteismo o in un nichilismo — è uno degli obiettivi principali dello studio dell'Advaita.",
+  "introduction": "L’insegnamento centrale dell’Advaita è l’identità di Ātman e Brahman. Non sono due realtà che debbano incontrarsi: se fossero due, resterebbe una dualità ultima. E non significa che la persona, con il suo corpo e la sua storia, sia diventata l’Assoluto. La persona è una condizione individuale; Ātman indica il Sé al di là di quella limitazione.\n\nQuando un testo dice «Tu sei Quello», non attribuisce l’infinità alla personalità. L’insegnamento invita a discernere che cosa significhi «tu» nella sentenza: non il nome, i ricordi o il senso individuale, ma il Sé. La formula non descrive un passaggio nel tempo, come se prima Ātman e Brahman fossero separati e poi si fondessero.\n\nGuénon, nel capitolo III.14.2, chiarisce la non-dualità distinguendola sia dal dualismo sia dall’idea che Brahman sia semplicemente l’insieme del mondo. La manifestazione non costituisce una realtà indipendente accanto al Principio; ma il Principio non è definito dalle forme manifestate. Questa asimmetria impedisce di ridurre l’Advaita al panteismo.\n\nL’identità Ātman–Brahman è quindi un insegnamento metafisico, non una conclusione ricavata da un’esperienza di unità o da un ragionamento sulle somiglianze tra infinito e finito. L’esperienza può essere un’occasione per interrogarsi; non dimostra la dottrina. Per il Vedānta, la conoscenza non produce l’identità: rimuove l’ignoranza che la nasconde.",
   "problem": "Comprendere il fondamento dottrinale dell'identità tra Ātman e Brahman e come questa identità si concili con l'esperienza ordinaria della molteplicità e della separazione.",
   "parent_question": null,
   "specific_questions": [
@@ -21,7 +21,9 @@
     "kena-4-4",
     "kena-4-5",
     "isha-1-6",
-    "isha-1-7"
+    "isha-1-7",
+    "guenon-intro-3-14-3",
+    "guenon-intro-2-10-2"
   ],
   "commentaries": [],
   "related_questions": [

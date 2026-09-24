@@ -4,7 +4,7 @@
   "type": "great",
   "homepage_priority": null,
   "text": "Che cos'è Brahman?",
-  "introduction": "Brahman è il nome che la tradizione dell'Advaita Vedānta dà alla Realtà ultima, al Principio supremo e non-duale che è la sorgente, il sostegno e la sostanza di ogni cosa. Non è un dio nel senso corrente della parola: non è una divinità tra le altre, non è una potenza del cosmo, non è un essere che si trova «da qualche parte». Brahman è ciò senza di cui nulla potrebbe esistere, nulla potrebbe essere conosciuto, nulla potrebbe muoversi o agire. Le Upaniṣad non lo descrivono come un oggetto della conoscenza, ma come il Principio che rende possibile ogni conoscenza. Questa è già la prima difficoltà: Brahman non è qualcosa che possiamo afferrare con il pensiero, perché è il pensiero stesso che Brahman illumina e muove. Le domande che seguono esplorano questo paradosso attraverso i testi della tradizione.",
+  "introduction": "Brahman è il nome vedāntico della Realtà ultima. Non è una divinità particolare, un oggetto cosmico o una coscienza universale che si possa immaginare diffusa nello spazio. Qualunque immagine o qualità positiva circoscriverebbe ciò che, per definizione metafisica, non è circoscritto.\n\nGuénon affronta questo problema nel capitolo II.8.4. Spiega che il linguaggio può indicare i principi supremi soprattutto rimuovendo limiti: «infinito» non vuol dire una quantità enorme, ma ciò che non è finito né contenuto entro confini. Le parole aiutano a non confondere Brahman con una cosa; non consegnano una rappresentazione completa di Brahman.\n\nPer questo occorre essere prudenti con formule come «energia», «universo», «coscienza cosmica» o «sostanza di tutto». Possono sembrare accessibili, ma rischiano di trasformare il principio in un fenomeno o in un oggetto mentale. Anche i termini tradizionali, come sat, cit o ānanda, non sono tre proprietà che possiamo osservare in Brahman; vanno spiegati attraverso le fonti e il loro contesto, non presentati come una fotografia dell’Assoluto.\n\nLe Upaniṣad indicano Brahman anche attraverso la negazione e il paradosso: non ciò che la mente pensa come un oggetto, ma ciò grazie a cui il pensiero è possibile. Guénon aiuta a chiarire il limite concettuale; il contenuto dottrinale va letto nelle Upaniṣad e nei commentari tradizionali. La risposta accessibile è dunque precisa ma non pretende di esaurire: Brahman è la Realtà assoluta, e nessuna descrizione finita può contenerlo.",
   "problem": "Chiarire che cosa intenda la tradizione dell'Advaita Vedānta con il termine Brahman e perché questo Principio non possa essere compreso come un semplice oggetto di conoscenza.",
   "parent_question": null,
   "specific_questions": [
@@ -26,7 +26,9 @@
     "isha-1-shanti",
     "isha-1-18",
     "aitareya-3-1-3",
-    "chandogya-1-9-1"
+    "chandogya-1-9-1",
+    "guenon-intro-2-8-8",
+    "guenon-intro-3-14-3"
   ],
   "commentaries": [],
   "related_questions": [

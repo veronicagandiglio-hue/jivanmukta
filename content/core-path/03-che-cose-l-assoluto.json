@@ -5,20 +5,11 @@
   "title": "Che cos'è l'Assoluto?",
   "lead": "Ciò che non dipende da null'altro e non è un oggetto tra gli altri oggetti.",
   "question_text": "Che cos'è l'Assoluto?",
-  "editorial_response": "La parola «assoluto» deriva dal latino e significa letteralmente «sciolto da ogni legame», cioè indipendente, incondizionato, privo di limiti.\n\nNella nostra vita quotidiana, ogni singola cosa è condizionata. Il nostro respiro dipende dall'aria; il nostro corpo dipende dal cibo e dalla gravità; le nostre idee dipendono dal linguaggio e dalla memoria; una pianta dipende dalla luce e dalla terra. Se risaliamo passo dopo passo questa catena ininterrotta di cose che dipendono da altre cose, ci troviamo davanti a un bivio: o la catena prosegue all'infinito nel vuoto senza alcun senso, oppure all'origine di tutto vi è una Realtà che non dipende da niente altro, ma da cui tutto il resto dipende.\n\nQuesto Principio incondizionato è ciò che la metafisica chiama l'Assoluto.\n\nGuénon richiamava l'attenzione su un errore facilissimo in cui cade spesso la mente moderna: pensare all'Assoluto come alla «somma di tutte le cose esistenti» (una sorta di gigantesco contenitore cosmico o panteismo). Ma l'Assoluto non è la somma delle parti, perché qualsiasi somma è ancora limitata e quantitativa. L'Assoluto non è una cosa enorme, né un super-oggetto posto in cielo. È la Sorgente indivisa dell'Essere: non ha contorni, non ha inizio né fine, e non può essere limitato da nessuna definizione particolare.\n\nNon possiamo vederlo come vediamo un oggetto esterno, perché non è un oggetto. È il fondamento invisibile e silenzioso che rende possibile l'esistenza stessa di ogni oggetto.",
+  "editorial_response": "Dire «Assoluto» significa indicare ciò che non è condizionato da altro e non ha un limite che lo contenga. Non è la cosa più grande dell’universo, la somma di tutte le cose o un essere collocato in un luogo nascosto. Ognuna di queste immagini lo renderebbe ancora una realtà delimitata.\n\nGuénon insiste che i principi supremi non possono essere definiti come si definisce un oggetto. Una definizione separa ciò che nomina da ciò che non nomina; così facendo, stabilisce un confine. Nel capitolo II.8.4 spiega perché la metafisica ricorra spesso a formule negative: dire che l’Assoluto non è limitato da una qualità non significa negarne l’esistenza, ma impedire che una descrizione parziale venga scambiata per la totalità.\n\nNel Vedānta, Brahman è la Realtà suprema. Guénon distingue inoltre l’Essere, già pensabile come principio universale, da ciò che è oltre ogni determinazione, compresa quella dell’Essere. Questo non aggiunge un secondo assoluto: segnala quanto sia inadeguato trattare Brahman come un concetto delimitato.\n\nPossiamo quindi parlare dell’Assoluto solo con cautela: usando parole, negazioni e simboli che orientano il pensiero, senza supporre che lo esauriscano. La risposta più rigorosa non è una descrizione completa di Brahman, ma la comprensione del limite di ogni descrizione. Questa cautela è centrale per tutto il sito: nessuna esperienza, immagine o teoria può essere identificata senza residui con l’Assoluto.",
   "sources_used": [
-    "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
     "Īśā Upaniṣad, Invocazione di pace (Śānti-pāṭha - la pienezza incorruttibile di Pūrṇa)",
-    "Muṇḍaka Upaniṣad, 1.1.6 (l'Immutabile invisibile e inafferrabile)"
-  ],
-  "guenon_sources": [
-    {
-      "author": "rene-guenon",
-      "work": "l-uomo-e-il-suo-divenire-secondo-il-vedanta",
-      "chapter": "Capitolo I",
-      "status": "pending",
-      "note": "Riferimento alla definizione dell'Assoluto privo di ogni dualità o determinazione condizionante."
-    }
+    "Muṇḍaka Upaniṣad, 1.1.6 (l'Immutabile invisibile e inafferrabile)",
+    "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-8-8"
   ],
   "upanishad_passages": [
     "isha-1-shanti",
@@ -54,6 +45,10 @@
     {
       "passage_id": "chandogya-7-24-1",
       "why": "Rivela la natura dell'Assoluto come Bhūman (la Pienezza Infinita): dimensione non duale in cui non si vede né conosce altro da sé, sola sorgente di vera beatitudine immortale."
+    },
+    {
+      "passage_id": "guenon-intro-2-8-8",
+      "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
     }
   ]
 }

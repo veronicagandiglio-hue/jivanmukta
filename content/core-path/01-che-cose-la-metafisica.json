@@ -5,20 +5,10 @@
   "title": "Che cos'è la metafisica?",
   "lead": "La ricerca di ciò che è permanente e immutabile oltre il continuo fluire delle cose e delle esperienze.",
   "question_text": "Che cos'è la metafisica?",
-  "editorial_response": "La parola «metafisica» può sembrare astratta o intimidatoria, ma in realtà tocca la domanda più semplice e concreta che una persona possa farsi: nella mia vita e nel mondo che mi circonda, c'è qualcosa che non cambia mai?\n\nSe ci guardiamo intorno, tutto ciò che vediamo e sperimentiamo è in continuo movimento. Il nostro corpo cresce, invecchia, muta ogni giorno; le nostre emozioni si accendono e si spengono; i nostri pensieri arrivano, durano qualche istante e poi svaniscono, sostituiti da altri. Persino il mondo esterno — le stagioni, le città, gli oggetti, le persone che amiamo — nasce, dura un certo tempo e prima o poi si trasforma o scompare.\n\nLa metafisica nasce esattamente da questa constatazione. Essa non è una filosofia accademica fatta di teorie complicate o di dispute tra professori, e non è neppure una religione basata su dogmi da accettare per fede. Nel suo senso originario e tradizionale — come ha chiarito in epoca moderna René Guénon — la metafisica è la conoscenza diretta di ciò che è stabile, universale e immutabile: i princìpi primi della realtà.\n\nChiedersi che cos'è la metafisica significa chiedersi: ciò che muta continuamente può avere in se stesso la propria spiegazione? Oppure tutto ciò che cambia poggia su un fondamento silenzioso che non cambia mai? Il Vedānta, una delle tradizioni metafisiche più antiche e rigorose dell'umanità, non ci chiede di credere a una risposta preconfezionata, ma ci invita a un'indagine accurata, partendo dalla nostra stessa esperienza quotidiana.",
+  "editorial_response": "La metafisica non è una teoria su un mondo invisibile né una spiegazione scientifica di ciò che accade. Chiede quale principio renda possibile tutto ciò che nasce, cambia e scompare. Per questo la domanda non è soltanto «che cosa esiste?», ma «che cosa ha realtà in senso assoluto, senza dipendere da altro?».\n\nRené Guénon, nel capitolo II.5 dell’Introduzione generale, chiama metafisica la conoscenza dei principi universali. Per lui non coincide con la filosofia intesa come costruzione di un sistema attraverso ragionamenti. Il ragionamento può chiarire, confrontare e preparare; non può racchiudere l’illimitato in una definizione. La metafisica, dunque, non è un insieme di opinioni da scegliere.\n\nUn’esperienza di unità può rendere urgente questa indagine, ma non basta a risolverla: anche un’esperienza intensa ha un inizio, una durata e una fine, e può essere ricordata e descritta. La domanda metafisica riguarda ciò che è vero indipendentemente dall’intensità di un’esperienza particolare.\n\nNel Vedānta, la ricerca conduce alla Realtà ultima chiamata Brahman e all’insegnamento che Ātman, il Sé, non è distinto da Brahman. Questa identità non è una conclusione ricavata dal sentirsi uniti al mondo. È il principio che i testi insegnano e che lo studio cerca di rendere intelligibile, senza pretendere di trasformare Brahman in una definizione. Guénon aiuta a capire perché la metafisica non sia una speculazione accademica; le Upaniṣad restano la fonte tradizionale del Vedānta.",
   "sources_used": [
-    "René Guénon, Introduzione generale allo studio delle dottrine indù (1921)",
-    "René Guénon, La metafisica orientale (1925)",
-    "Kaṭha Upaniṣad, 1.2.1-2 (la discriminazione tra ciò che è essenziale e ciò che è passeggero)"
-  ],
-  "guenon_sources": [
-    {
-      "author": "rene-guenon",
-      "work": "la-metafisica-orientale",
-      "chapter": "Parte I",
-      "status": "pending",
-      "note": "Riferimento alla conferenza della Sorbona (1925) sulla natura universale della metafisica pura oltre ogni filosofia speculativa."
-    }
+    "Kaṭha Upaniṣad, 1.2.1-2 (la discriminazione tra ciò che è essenziale e ciò che è passeggero)",
+    "René Guénon, Introduzione generale allo studio delle dottrine indù, 2-5-1"
   ],
   "upanishad_passages": [
     "katha-1-2-1",
@@ -38,6 +28,10 @@
     {
       "passage_id": "chandogya-7-1-4",
       "why": "Dichiara che tutte le scienze particolari, le arti e le discipline storiche sono meri 'nomi' convenzionali (nāmaivaitat), subordinati alla conoscenza metafisica del Principio immutabile."
+    },
+    {
+      "passage_id": "guenon-intro-2-5-1",
+      "why": "Passaggio di Guénon che chiarisce il rapporto tra il tema della tappa e la conoscenza metafisica; la formulazione resta attribuita all'autore."
     }
   ]
 }

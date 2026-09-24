@@ -4,7 +4,7 @@
   "type": "great",
   "homepage_priority": null,
   "text": "Che cos'è il Sé?",
-  "introduction": "Nella tradizione dell'Advaita Vedānta, il Sé — in sanscrito Ātman — non è la personalità, non è il carattere individuale, non è la mente né il corpo. È il Principio di coscienza pura che testimonia ogni esperienza senza mai essere modificato da essa. Quando guardiamo qualcosa, vediamo; quando pensiamo, sappiamo; quando dormiamo senza sogni, ignoriamo. Dietro questi tre stati — veglia, sogno, sonno profondo — la tradizione indica un Testimone costante che non dipende da nessuno di essi. Questo Testimone è l'Ātman. La domanda «che cos'è il Sé?» non è quindi una domanda psicologica sull'identità personale: è una domanda metafisica sulla natura di ciò che è più intimo e insieme più universale in ogni essere.",
+  "introduction": "Ātman è la parola con cui le Upaniṣad indicano il Sé. Non significa la personalità ideale, un’anima individuale più raffinata o una voce interiore. Corpo, sensi, ricordi, emozioni e pensieri appartengono alla vita individuale e sono soggetti a mutamento; il Sé non è una di queste condizioni.\n\nA volte si parla di Ātman come «testimone» dei mutamenti. È un modo utile per non identificare immediatamente il Sé con ciò che si osserva, ma non è una descrizione definitiva. Se il testimone fosse un soggetto separato che guarda dall’interno gli oggetti mentali, resterebbe ancora una dualità. Nell’Advaita, l’indagine non si ferma a un osservatore sottile.\n\nGuénon, nel capitolo II.10.2, presenta conoscere ed essere come inseparabili al livello metafisico. Questo non vuol dire che i nostri pensieri producano ciò che siamo, né che ogni opinione personale sia vera. Vuol dire che la conoscenza ultima non consiste nell’accumulare informazioni su Ātman come su un oggetto: riguarda ciò che il Sé è.\n\nIl Vedānta non invita a fabbricare o migliorare Ātman. La disciplina e l’insegnamento possono rimuovere confusioni e preparare la comprensione; non producono il Sé. La formulazione più completa di questa dottrina verrà con l’identità Ātman–Brahman. Fino ad allora, «testimone» e «coscienza» vanno letti come indicazioni dottrinali, non come nomi di una speciale esperienza interiore.",
   "problem": "Identificare la natura dell'Ātman come Principio di coscienza trascendente che permane immutabile attraverso tutti gli stati di esperienza e che è identico, nella sua essenza, a Brahman.",
   "parent_question": null,
   "specific_questions": [
@@ -27,7 +27,8 @@
     "aitareya-1-1-1",
     "aitareya-3-1-2",
     "chandogya-1-6-7",
-    "chandogya-1-7-5"
+    "chandogya-1-7-5",
+    "guenon-intro-2-10-2"
   ],
   "commentaries": [],
   "related_questions": [
