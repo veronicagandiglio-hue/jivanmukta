@@ -129,7 +129,7 @@
     "id": "ahara-suddhi",
     "name": "Āhāra-śuddhi",
     "transliteration": "āhāra-śuddhi",
-    "gloss": "La purificazione dell'assimilazione (non solo del cibo biologico, ma dell'insieme delle impressioni sensoriali e mentali accolte dall'esterno); conduce alla limpidezza della coscienza interiore (sattva-śuddhi), da cui scaturisce la memoria perenne del Sé e lo scioglimento totale di tutti i nodi dell'ignoranza nel cuore.",
+    "gloss": "La purificazione di ciò che si assimila: cibo, impressioni e pensieri. Nella Chāndogya è collegata alla chiarezza della mente; è una disciplina preparatoria, non la conoscenza stessa di Brahman.",
     "passages": [
       "chandogya-7-26-2"
     ],
@@ -291,7 +291,7 @@
     "id": "apaddharma",
     "name": "Āpaddharma",
     "transliteration": "āpaddharma",
-    "gloss": "Norma tradizionale che consente deroghe eccezionali ai divieti rituali e alimentari in condizioni di estremo pericolo di vita (āpad), allo scopo di preservare l'organismo corporeo quale veicolo indispensabile per il compimento dei doveri sacri e la ricerca della conoscenza.",
+    "gloss": "Regola tradizionale per le situazioni di grave pericolo, in cui alcuni divieti rituali o alimentari possono essere sospesi. Riguarda il comportamento e non descrive la Realtà ultima.",
     "passages": [
       "chandogya-1-10-3",
       "chandogya-1-10-4"
@@ -325,7 +325,7 @@
     "id": "asariira",
     "name": "Aśarīra (L'Incorporeo)",
     "transliteration": "aśarīra",
-    "gloss": "La condizione ontologica essenziale dell'Ātman, priva di qualsiasi rivestimento corporeo grossolano o sottile; quando si realizza la natura incorporea del Sé, le oscillazioni mondane di piacere empirico e dolore (priyāpriye) non possono più toccare la coscienza.",
+    "gloss": "Aśarīra significa «incorporeo». Il passo indica che il Sé non è il corpo e non è toccato dalle esperienze di piacere e dolore.",
     "passages": [
       "chandogya-8-12-1"
     ],
@@ -522,7 +522,7 @@
     "id": "avasthatraya",
     "name": "Avasthātraya (L'esame dei tre stati)",
     "transliteration": "avasthātraya",
-    "gloss": "L'analisi dialettica progressiva dei tre stati empirici (veglia/riflesso corporeo, sogno, sonno profondo) compiuta da Indra sotto la guida di Prajāpati, volta a discriminare il Testimone incorporeo assoluto (Turīya/Uttamapuruṣa) che permane immutabile al di là di ciascuno di essi.",
+    "gloss": "I tre stati dell’esperienza: veglia, sogno e sonno profondo. La loro analisi nelle Upaniṣad aiuta a distinguere il Sé dagli stati che cambiano; non trasforma il Sé in un quarto stato ordinario.",
     "passages": [
       "chandogya-8-8-1",
       "chandogya-8-9-1",
@@ -562,7 +562,7 @@
     "id": "avinashi-anucchitti",
     "name": "Avināśī Anucchittidharmā",
     "transliteration": "avināśī anucchittidharmā",
-    "gloss": "«Indistruttibile e di natura\nincorruttibile»: la solenne qualificazione dell'Ātman che dissipa lo smarrimento\ndi Maitreyī, provando che la cessazione della coscienza oggettuale dopo la morte\nnon è annientamento del Sé, bensì il disvelamento della sua natura imperitura.",
+    "gloss": "«Indistruttibile»: il testo usa questa parola per indicare che il Sé non è un oggetto che nasce e muore. Non è una prova empirica di una vita individuale dopo la morte.",
     "passages": [
       "bu-4-5-14"
     ],
@@ -630,7 +630,7 @@
     "id": "bhuman",
     "name": "Bhūman",
     "transliteration": "bhūman",
-    "gloss": "La Pienezza Infinita, l'Incondizionato e l'Immenso; la Realtà suprema non duale in cui non sussiste alcuna divisione tra soggetto percipiente, atto percettivo e oggetto percepito («dove non si vede altro, non si ode altro, non si conosce altro»), coincidente con la sola vera Beatitudine immortale.",
+    "gloss": "Bhūman significa «pienezza» o «immensità». Nella Chāndogya indica ciò in cui non si incontra un secondo; il passo lo oppone alla limitatezza, senza farne un oggetto descrivibile.",
     "passages": [
       "chandogya-7-23-1",
       "chandogya-7-24-1",
@@ -689,7 +689,7 @@
     "id": "brahmaiva-san-brahmapyeti",
     "name": "Brahmaiva San Brahmāpyeti",
     "transliteration": "brahmaiva san\nbrahmāpyeti",
-    "gloss": "«Essendo già Brahman, egli accede a Brahman»: il\nprincipio advaitico fondamentale per cui la liberazione (mokṣa) non è una nuova\nacquisizione temporale né un mutamento di stato, ma la pura riscoperta della\npropria identità eterna sempre presente, non appena cadono i desideri\nindividualizzanti.",
+    "gloss": "«Essendo Brahman, va a Brahman»: la formula indica che la liberazione non produce una nuova identità, ma riconosce ciò che il Sé è sempre stato.",
     "passages": [
       "bu-4-4-6"
     ],
@@ -736,7 +736,7 @@
     "id": "brahmasamstha",
     "name": "Brahmasaṁstha",
     "transliteration": "brahmasaṁstha",
-    "gloss": "Colui la cui coscienza è unicamente e stabilmente fondata in Brahman. Nell'esegesi advaitica ortodossa (Śaṅkara) qualifica il rinunciante (saṁnyāsin) che, abbandonata ogni identificazione con i doveri rituali e la dualità delle opere, dimora senza distrazione nella conoscenza non duale del Sé, conseguendo la liberazione immortale (amṛtatva).",
+    "gloss": "«Stabilito in Brahman»: espressione della Chāndogya per chi dimora nella conoscenza di Brahman. Il passo la distingue dai risultati limitati delle pratiche e dei doveri rituali.",
     "passages": [
       "chandogya-2-23-1"
     ],
@@ -811,6 +811,7 @@
       "chandogya-6-1-3",
       "chandogya-6-1-4"
     ],
+    "gloss": "Conoscenza indica qui il riconoscimento del Sé e della sua identità con Brahman. Non è un insieme di informazioni né un’esperienza sensoriale particolare.",
     "source_file": "concepts/conoscenza.json"
   },
   "dahara-vidya": {
@@ -874,7 +875,7 @@
     "id": "devayana",
     "name": "Devayāna",
     "transliteration": "devayāna",
-    "gloss": "La Via degli Dèi o cammino solare ascendente attraverso cui l'anima del conoscitore di Brahman con attributi (saguṇa) ascende oltre le sfere cosmiche, guidata da un essere sovrumano verso la liberazione progressiva (kramamukti), senza più ricadere nel ciclo delle rinascite umane.",
+    "gloss": "«Via degli dèi»: percorso cosmologico descritto in alcuni testi per chi segue determinate pratiche e meditazioni. Appartiene all’insegnamento sui destini dopo la morte, non alla conoscenza assoluta di Brahman.",
     "passages": [
       "chandogya-4-15-5",
       "chandogya-4-15-6"
@@ -908,7 +909,7 @@
     "id": "dharmaskandha",
     "name": "Dharmaskandha",
     "transliteration": "dharmaskandha",
-    "gloss": "I tre rami o ordini del dovere sacro basati sull'azione (sacrificio e carità del capofamiglia, ascesi dell'eremita, discepolato continuo). L'Upaniṣad stabilisce che essi fruttano unicamente mondi meritori finiti (puṇyaloka), contrapposti all'immortalità incondizionata che appartiene in via esclusiva al Brahmasaṁstha.",
+    "gloss": "I tre ambiti del dovere descritti nella Chāndogya: riti e carità, ascesi e vita dello studente. Il testo ne riconosce i frutti, ma li distingue dalla conoscenza di Brahman.",
     "passages": [
       "chandogya-2-23-1"
     ],
@@ -1318,7 +1319,7 @@
     "id": "ka-kham",
     "name": "Ka e Kha",
     "transliteration": "kaṁ-kham",
-    "gloss": "L'enunciazione sintetica della natura di Brahman data dai fuochi a Upakosala: 'Ka' (la pura beatitudine priva di contingenza mondana) e 'Kha' (lo spazio incorporeo, illimitato e spirituale). Qualificandosi a vicenda, escludono il piacere sensorio ordinario e lo spazio fisico materiale.",
+    "gloss": "Nella Chāndogya, «ka» (beatitudine) e «kha» (spazio) sono accostati come supporti di contemplazione. Sono immagini e parole indicative, non una definizione letterale di Brahman.",
     "passages": [
       "chandogya-4-10-4",
       "chandogya-4-10-5"
@@ -1436,6 +1437,7 @@
       "aitareya-2-1-6",
       "aitareya-3-1-4"
     ],
+    "gloss": "Liberazione è la conoscenza che il Sé non è un individuo separato o limitato. Non è un luogo, un premio o uno stato temporaneo prodotto da una pratica.",
     "source_file": "concepts/liberazione.json"
   },
   "madhu-vidya": {
@@ -1513,7 +1515,7 @@
     "id": "mantravid-vs-atmavid",
     "name": "Mantravid e Ātmavid",
     "transliteration": "mantravid-ātmavid",
-    "gloss": "La distinzione capitale formulata da Nārada: il conoscitore di formule, testi e scienze empiriche (mantravid) rimane confinato al dominio dei nomi e immerso nel dolore (śoka), mentre solo colui che realizza il Sé (ātmavid) attraversa l'oceano della sofferenza (tarati śokam ātmavit).",
+    "gloss": "Distinzione della Chāndogya tra chi conosce formule e discipline e chi conosce il Sé. Il sapere sui nomi e sulle cose non equivale alla conoscenza liberatrice del Sé.",
     "passages": [
       "chandogya-7-1-3"
     ],
@@ -1637,7 +1639,7 @@
     "id": "nadi",
     "name": "Nāḍī (Canali sottili del cuore)",
     "transliteration": "nāḍī",
-    "gloss": "La fitta rete di canali energetici sottili che collegano il centro del cuore con i raggi del sole macrocosmico; tra di essi, la centounesima nāḍī ascendente (suṣumnā) conduce alla sommità del capo (brahmarandhra) consentendo l'uscita liberatoria verso l'immortalità.",
+    "gloss": "Nāḍī significa «canale»; alcuni testi descrivono così le vie sottili del corpo. La nāḍī che sale al capo compare in una spiegazione cosmologica tradizionale, non in una descrizione del Sé assoluto.",
     "passages": [
       "chandogya-8-6-1",
       "chandogya-8-6-2",
@@ -1921,7 +1923,7 @@
     "id": "pitryana",
     "name": "Pitṛyāna",
     "transliteration": "pitṛyāna",
-    "gloss": "La «Via dei Padri» o cammino del fumo, percorso post-mortem riservato a coloro che compiono riti sacrificali, opere pie e carità esteriore; conduce alla sfera lunare ove si gode il frutto meritorio per poi ridiscendere nella rinascita terrena una volta esaurito il karma.",
+    "gloss": "«Via dei Padri»: itinerario dopo la morte descritto nei testi vedici per chi compie riti e opere meritorie. È una cosmologia tradizionale, distinta dalla conoscenza liberatrice di Brahman.",
     "passages": [
       "chandogya-5-3-2",
       "chandogya-5-10-3",
@@ -2722,7 +2724,7 @@
     "id": "shravana-manana-nididhyasana",
     "name": "Śravaṇa, Manana e Nididhyāsana",
     "transliteration": "śravaṇa-manana-nididhyāsana",
-    "gloss": "Il triplice metodo\nmetodologico del Vedānta per la realizzazione dell'Ātman: l'ascolto autoritativo\ndei testi sacri dal maestro (śravaṇa), la riflessione logica e discriminante per\nsciogliere i dubbi (manana) e la meditazione profonda e costante (nididhyāsana)\nche culmina nell'intuizione diretta.",
+    "gloss": "Tre momenti dell’insegnamento vedāntico: ascoltare il testo da un maestro, riflettere sul suo significato e tornarvi con attenzione. Sono modi di rimuovere i dubbi, non azioni che producono Brahman.",
     "passages": [
       "bu-2-4-5",
       "bu-4-5-6"
@@ -2870,7 +2872,7 @@
     "id": "susupti",
     "name": "Suṣupti (Sonno profondo)",
     "transliteration": "suṣupti",
-    "gloss": "Lo stato di sonno profondo privo di sogni (svapnānta) in cui ogni attività mentale ed egoica si acquieta e l'individuo sperimenta un riassorbimento temporaneo naturale nell'Essere puro (svam apīto bhavati), sebbene ancora velato dall'ignoranza causale (avidyā).",
+    "gloss": "Sonno profondo senza sogni. Le Upaniṣad lo usano per distinguere l’esperienza di veglia e sogno, ma il sonno non è di per sé la conoscenza liberatrice del Sé.",
     "passages": [
       "chandogya-6-8-1",
       "chandogya-6-8-2"
@@ -3007,7 +3009,7 @@
     "id": "tat-tvam-asi",
     "name": "Tat Tvam Asi (Quello Tu Sei)",
     "transliteration": "tat tvam asi",
-    "gloss": "Il supremo Mahāvākya del Sāmaveda enunciato nove volte da Uddālaka ad Śvetaketu; stabilisce l'assoluta identità ontologica non duale tra 'Tat' (Brahman/Sat, la Realtà suprema non condizionata) e 'Tvam' (l'Ātman autentico, il Testimone incorporeo dell'individuo spogliato degli upādhi corporei e mentali).",
+    "gloss": "«Tu sei Quello»: formula della Chāndogya con cui Uddālaka insegna a Śvetaketu l’identità del Sé con la Realtà ultima. «Tu» qui non indica la personalità individuale.",
     "passages": [
       "chandogya-6-8-7",
       "chandogya-6-9-4",
