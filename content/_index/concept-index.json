@@ -3,7 +3,7 @@
     "id": "abhaya",
     "name": "Abhaya",
     "transliteration": "abhaya",
-    "gloss": "La totale Assenza di\nPaura: stato metafisico supremo coincidente con la Liberazione e la\nrealizzazione non-duale di Brahman. Poiché il timore presuppone l'illusione di\nuna seconda realtà esterna minacciosa, la dissoluzione della dualità estingue\nper sempre ogni paura.",
+    "gloss": "Assenza di paura. Nelle Upaniṣad può indicare la libertà dal timore legata alla conoscenza del Sé.",
     "passages": [
       "bu-4-2-4",
       "bu-4-4-25"
@@ -22,7 +22,7 @@
     "id": "acarya",
     "name": "Ācārya",
     "transliteration": "ācārya",
-    "gloss": "Il maestro spirituale autentico che incarna la tradizione; nell'epistemologia tradizionale la conoscenza metafisica trasmessa oralmente e vivente nella relazione maestro-discepolo è la sola dotata di piena efficacia liberatoria (sādhiṣṭham).",
+    "gloss": "Maestro della tradizione, che insegna secondo una trasmissione ricevuta e condivisa.",
     "passages": [
       "chandogya-4-4-3",
       "chandogya-4-9-2",
@@ -38,7 +38,7 @@
     "id": "acaryavan-puruso-veda",
     "name": "Ācāryavān Puruṣo Veda",
     "transliteration": "ācāryavān puruṣo veda",
-    "gloss": "«L'uomo che ha un maestro conosce la Verità»: principio metodologico primario dell'Advaita Vedānta secondo cui la liberazione dal velo dell'illusione cosmica richiede la guida vivente di un Ācārya qualificato, come l'uomo bendato di Gandhāra necessita che qualcuno gli tolga la benda.",
+    "gloss": "«Chi ha un maestro conosce»: il passo presenta l’insegnamento ricevuto come guida alla conoscenza.",
     "passages": [
       "chandogya-6-14-2"
     ],
@@ -161,7 +161,7 @@
     "id": "akasa",
     "name": "Ākāśa",
     "transliteration": "ākāśa",
-    "gloss": "Lo Spazio o Etere cosmico; nel contesto metafisico primario dell'Advaita designa il Brahman stesso in quanto Principio incorporeo, infinito e onnipervadente dal quale ogni essere scaturisce e nel quale ogni essere si riassorbe.",
+    "gloss": "Ākāśa significa spazio o etere. Il senso preciso dipende dal passo: talvolta indica un elemento cosmico, talvolta è usato come immagine del Brahman.",
     "passages": [
       "chandogya-1-9-1"
     ],
@@ -306,7 +306,7 @@
     "id": "asanga-purusa",
     "name": "Asaṅga",
     "transliteration": "asaṅga",
-    "gloss": "La totale libertà o assenza di adesione ontologica: il\nPuruṣa sperimenta la veglia, il sogno e il sonno senza che alcuna impressione o\nazione fenomenica possa intaccare la sua purezza originaria.",
+    "gloss": "Il Puruṣa non è toccato dagli stati che appaiono nell’esperienza. Il termine e la sua interpretazione variano secondo il contesto.",
     "passages": [
       "bu-4-3-14",
       "bu-4-3-15",
@@ -359,7 +359,7 @@
     "id": "asura-vidya",
     "name": "Asura-vidyā (La concezione materialistica del corpo come Sé)",
     "transliteration": "asura-vidyā",
-    "gloss": "L'illusione perversa, incarnata da Virocana, che identifica l'Ātman con l'involucro corporeo mortale e visibile (deha-ātma-vāda), riducendo la vita all'abbellimento, al nutrimento e alla glorificazione della materia transitoria.",
+    "gloss": "Nel racconto di Chāndogya 8, è l’interpretazione di Virocana, che scambia il corpo visibile per il Sé.",
     "passages": [
       "chandogya-8-8-4",
       "chandogya-8-8-5"
@@ -460,7 +460,7 @@
     "id": "atman",
     "name": "Ātman",
     "transliteration": "ātman",
-    "gloss": "Il Sé assoluto, universale, impassibile, incorporeo, Testimone cosciente identico a Brahman e trascendente la mente e i sensi.",
+    "gloss": "Il Sé. Nell’insegnamento non-duale, il Sé nella sua realtà ultima non è diverso da Brahman; non è la personalità o il corpo.",
     "passages": [
       "isha-1-4",
       "isha-1-5",
@@ -541,7 +541,7 @@
     "id": "avidya",
     "name": "Avidyā",
     "transliteration": "avidyā",
-    "gloss": "La non-conoscenza metafisica; nel contesto dei mantra 9-11 designa l'azione rituale pura priva di meditazione interiore, avente efficacia purificatoria e protettiva temporanea.",
+    "gloss": "Non-conoscenza: scambiare ciò che è limitato e mutevole per il Sé. In alcuni passi il termine indica anche un sapere o una pratica rituale di ordine relativo.",
     "passages": [
       "isha-1-9",
       "isha-1-10",
@@ -667,7 +667,7 @@
     "id": "brahma-vidya",
     "name": "Brahma-vidyā",
     "transliteration": "brahma-vidyā",
-    "gloss": "La Conoscenza liberatrice non-duale personificata da Umā Haimavatī, che estingue la presunzione delle facoltà individuali e dischiude l'immortalità.",
+    "gloss": "Conoscenza di Brahman. Qui indica l’insegnamento che porta a riconoscere la Realtà ultima, non un sapere ordinario.",
     "passages": [
       "kena-2-4",
       "kena-3-12",
@@ -707,7 +707,7 @@
     "id": "brahman",
     "name": "Brahman",
     "transliteration": "brahman",
-    "gloss": "La Realtà suprema non-duale, Principio animatore e trascendente di mente, parola e sensi, radicalmente Altro sia dal noto (manifesto) sia dall'ignoto (non-manifesto).",
+    "gloss": "La Realtà ultima, senza secondo. Le Upaniṣad indicano Brahman, ma non lo trasformano in un oggetto che mente e parole possano descrivere.",
     "passages": [
       "kena-1-2",
       "kena-1-4",
@@ -772,7 +772,7 @@
     "id": "buddhi-intelletto",
     "name": "Buddhi",
     "transliteration": "Buddhi",
-    "gloss": "L'Intelletto puro e sovrarazionale, auriga del carro corporeo e facoltà intuitiva capace di cogliere la Realtà sottile.",
+    "gloss": "Buddhi è la facoltà di discernimento, distinta dalla mente che raccoglie impressioni e pensieri. Resta una facoltà individuale, non Brahman.",
     "passages": [
       "katha-1-3-3",
       "katha-1-3-9",
@@ -817,7 +817,7 @@
     "id": "dahara-vidya",
     "name": "Dahara-vidyā",
     "transliteration": "dahara-vidyā",
-    "gloss": "La contemplazione metafisica dello spazio sottile incorporeo che risiede nel loto del cuore (dahara ākāśa), rivelato come identico all'infinità di Brahman, libero da vecchiaia, morte e dolore, custode dei desideri conformi al Vero.",
+    "gloss": "La contemplazione dello spazio nel cuore, presentata nella Chāndogya come insegnamento simbolico. Non è una descrizione letterale di Brahman.",
     "passages": [
       "chandogya-8-1-1",
       "chandogya-8-1-3",
@@ -1092,7 +1092,7 @@
     "id": "hiranmaya-patra",
     "name": "Hiraṇmaya-pātra",
     "transliteration": "hiraṇmaya-pātra",
-    "gloss": "Il velo o coppa d'oro abbagliante: il disco solare\nsensibile che con il suo splendore fenomenico nasconde il volto trascendente\ndella Verità suprema agli occhi dell'uomo ordinario.",
+    "gloss": "«Disco d’oro»: immagine upaniṣadica di ciò che vela la Verità e di cui si chiede la rimozione.",
     "passages": [
       "bu-5-15-1"
     ],
@@ -1250,7 +1250,7 @@
     "id": "jivanmukti",
     "name": "Jīvanmukti",
     "transliteration": "Jīvanmukti",
-    "gloss": "Lo stato del vivente liberato che, pur dimorando nel corpo, ha sciolto ogni identificazione ignorante con la carne.",
+    "gloss": "Liberazione mentre si è ancora in vita: indica la conoscenza stabile di non essere un individuo separato dal Sé.",
     "passages": [
       "katha-2-2-1",
       "katha-2-3-14",
@@ -1442,7 +1442,7 @@
     "id": "madhu-vidya",
     "name": "Madhu-vidyā",
     "transliteration": "madhu-vidyā",
-    "gloss": "La contemplazione\nmetafisica del Miele, secondo cui ciascuna realtà macrocosmica e microcosmica si\ntrova in uno stato di cooperazione organica, nutrimento scambievole e\ncoincidenza non-duale nel Sé universale.",
+    "gloss": "«Dottrina del miele»: meditazione upaniṣadica sulle corrispondenze tra elementi del cosmo e dell’essere umano. È un insegnamento simbolico, non la definizione di Brahman.",
     "passages": [
       "bu-2-5-1",
       "bu-2-5-14",
@@ -1464,7 +1464,7 @@
     "id": "madhuvidya",
     "name": "Madhuvidyā",
     "transliteration": "madhuvidyā",
-    "gloss": "La «dottrina del miele»: contemplazione simbolica del Sole come arnia cosmica e miele degli dèi, le cui diverse direzioni condensano i Veda fino a risolversi nel Sole eterno di Brahman immobile al centro.",
+    "gloss": "«Dottrina del miele»: meditazione simbolica della Bṛhadāraṇyaka sulle relazioni tra il cosmo e gli esseri.",
     "passages": [
       "chandogya-3-1-1",
       "chandogya-3-5-4",
@@ -1529,7 +1529,7 @@
     "id": "maya",
     "name": "Māyā",
     "transliteration": "māyā",
-    "gloss": "La potenza\ncausale d'infinita proiezione e differenziazione attraverso cui l'unico\nPrincipio coscienziale, pur rimanendo immutato e indiviso, appare moltiplicato\nnella pluralità innumerevole delle forme fenomeniche.",
+    "gloss": "Māyā indica il modo in cui la molteplicità appare senza costituire una seconda Realtà indipendente da Brahman. Le scuole ne precisano il senso in modi diversi.",
     "passages": [
       "bu-2-5-18"
     ],
@@ -1546,7 +1546,7 @@
     "id": "moksha-amritatva",
     "name": "Mokṣa e Amṛtatva",
     "transliteration": "Mokṣa e Amṛtatva",
-    "gloss": "La Liberazione incondizionata e l'Immortalità ontologica conseguite con la recisione radicale dei desideri egoici.",
+    "gloss": "Liberazione o immortalità: non vivere per sempre come individuo, ma conoscere la Realtà che non nasce né muore.",
     "passages": [
       "katha-1-2-8",
       "katha-1-3-8",
@@ -1706,7 +1706,7 @@
     "id": "neti-neti",
     "name": "Neti Neti",
     "transliteration": "neti neti",
-    "gloss": "«Non così, non così»: la suprema\nistruzione apofatica del Vedānta che, negando ogni sovrapposizione formale,\nattributo concettuale o determinazione finita (sia mūrta che amūrta), dischiude\nintuitivamente l'essenza incondizionata del Sé.",
+    "gloss": "«Non questo, non questo»: formula che esclude dal Sé ogni cosa limitata che si possa indicare o descrivere.",
     "passages": [
       "bu-2-3-6",
       "bu-3-9-26",
@@ -1728,7 +1728,7 @@
     "id": "om-pranava",
     "name": "Praṇava Oṃ",
     "transliteration": "Praṇava Oṃ",
-    "gloss": "La sillaba sacra imperitura, sintesi fonica primordiale e supporto simbolico eminente del Brahman sommo e manifesto.",
+    "gloss": "Oṃ, sillaba sacra usata come simbolo e supporto di meditazione. Il simbolo non esaurisce ciò a cui rimanda.",
     "passages": [
       "katha-1-2-15",
       "katha-1-2-16",
@@ -1764,7 +1764,7 @@
     "id": "pancagni-vidya",
     "name": "Pañcāgni-vidyā",
     "transliteration": "pañcāgni-vidyā",
-    "gloss": "La «dottrina dei cinque fuochi» (mondo celeste, pioggia, terra, uomo, donna): esposizione cosmologica tradizionale che descrive il ciclo delle transmigrazioni dell'anima e l'incorporazione delle acque sottili nell'essere umano, finalizzata a suscitare il distacco (vairāgya) dal divenire.",
+    "gloss": "«Dottrina dei cinque fuochi»: insegnamento cosmologico della Chāndogya sul ciclo delle nascite. Appartiene all’esposizione tradizionale, non alla descrizione di Brahman.",
     "passages": [
       "chandogya-5-4-1",
       "chandogya-5-9-1",
@@ -1804,7 +1804,7 @@
     "id": "para-e-apara-vidya",
     "name": "Parā e Aparā Vidyā",
     "transliteration": "Parā-Aparā Vidyā",
-    "gloss": "Distinzione fondamentale tra la Conoscenza Suprema, che attinge l'Assoluto, e la Conoscenza Inferiore, volta al mondo del divenire.",
+    "gloss": "Distinzione tra conoscenza suprema, rivolta a Brahman, e conoscenze inferiori, comprese quelle dei testi e dei riti.",
     "passages": [
       "mundaka-1-1-4",
       "mundaka-1-1-5",
@@ -1825,7 +1825,7 @@
     "id": "parama-ananda",
     "name": "Parama Ānanda",
     "transliteration": "parama ānanda",
-    "gloss": "La Beatitudine suprema incondizionata: l'oceano infinito di pienezza\nproprio di Brahman di cui tutti i piaceri umani, ancestrali e celesti\ncostituiscono unicamente particelle frammentarie (mātrā).",
+    "gloss": "Beatitudine suprema: parola che indica per contrasto la pienezza di Brahman, non un piacere o uno stato emotivo.",
     "passages": [
       "bu-4-3-32",
       "bu-4-3-33"
@@ -1976,7 +1976,7 @@
     "id": "prana-samvada",
     "name": "Prāṇa-saṁvāda",
     "transliteration": "prāṇa-saṁvāda",
-    "gloss": "La celebre contesa dialogica tra gli organi di senso e il soffio vitale primario presente nelle principali Upaniṣad; allegoria metafisica che dimostra l'assoluta subordinazione di tutte le facoltà psicofisiche al Principio vitale che le anima.",
+    "gloss": "Racconto in cui le facoltà e il soffio vitale discutono la loro importanza. È un insegnamento figurato, non una prova che il respiro sia Brahman.",
     "passages": [
       "chandogya-5-1-6",
       "chandogya-5-1-12",
@@ -1993,7 +1993,7 @@
     "id": "prana-vidya",
     "name": "Prāṇa-vidyā",
     "transliteration": "prāṇa-vidyā",
-    "gloss": "La dottrina e\ncontemplazione dell'energia vitale primordiale (Prāṇa) come principio supremo\ncapace di rigenerare e far rifiorire persino la materia disseccata, ristabilendo\nla pienezza ontologica nel microcosmo e nel macrocosmo.",
+    "gloss": "Contemplazione del soffio vitale come principio centrale della vita. È un insegnamento meditativo di ordine relativo, non la conoscenza ultima di Brahman.",
     "passages": [
       "bu-6-3-4",
       "bu-6-3-7",
@@ -2012,7 +2012,7 @@
     "id": "prana",
     "name": "Prāṇa",
     "transliteration": "Prāṇa",
-    "gloss": "Il Soffio vitale primordiale, principio cosmico attivo, solare e formatore, perno universale sul quale riposano tutti gli esseri e le facoltà.",
+    "gloss": "Soffio vitale, legato alle funzioni della vita individuale. Non va confuso con Brahman, anche quando un passo lo usa come simbolo.",
     "passages": [
       "prashna-1-4",
       "prashna-1-5",
@@ -2055,7 +2055,7 @@
     "id": "pranava",
     "name": "Praṇava",
     "transliteration": "Praṇava",
-    "gloss": "Il monosillabo sacro Oṃ, simbolo del canale di concentrazione che unisce l'Ātman al Brahman.",
+    "gloss": "Oṃ, sillaba sacra assunta come supporto di meditazione e simbolo del rapporto tra il Sé e Brahman.",
     "passages": [
       "mundaka-2-2-3",
       "mundaka-2-2-4",
@@ -2179,7 +2179,7 @@
     "id": "purusa",
     "name": "Puruṣa",
     "transliteration": "puruṣa",
-    "gloss": "L'Uomo primordiale e principio spirituale che media tra l'Assoluto indifferenziato e la molteplicità dei piani cosmici e corporei.",
+    "gloss": "Puruṣa significa «persona» o «essere». In questi passi indica una figura o un principio cosmico; il senso non è identico in tutte le Upaniṣad.",
     "passages": [
       "aitareya-1-1-3",
       "aitareya-1-1-4",
@@ -2197,7 +2197,7 @@
     "id": "purusha",
     "name": "Puruṣa",
     "transliteration": "Puruṣa",
-    "gloss": "La Persona metafisica suprema, Coscienza incondizionata che segna il culmine ontologico oltre cui non vi è alcunché.",
+    "gloss": "Puruṣa significa «persona» o «essere». In questi passi indica il principio supremo descritto dal testo; non è una definizione che esaurisce Brahman.",
     "passages": [
       "katha-1-3-11",
       "katha-2-1-12",
@@ -2318,7 +2318,7 @@
     "id": "sakshin",
     "name": "Sākṣin / Pratibodha",
     "transliteration": "sākṣin / pratibodha",
-    "gloss": "Il Testimone cosciente immanente che illumina ogni singolo moto di coscienza (pratibodha-viditam) senza mai divenire oggetto o subire modificazione.",
+    "gloss": "Testimone: nome dato al Sé in quanto non è uno degli oggetti dell’esperienza. È un’indicazione, non un secondo principio separato da Brahman.",
     "passages": [
       "kena-1-2",
       "kena-2-4"
@@ -2448,7 +2448,7 @@
     "id": "sandilya-vidya",
     "name": "Śāṇḍilya-vidyā",
     "transliteration": "śāṇḍilya-vidyā",
-    "gloss": "Fondamentale dottrina metafisica upaniṣadica (Chāndogya 3.14) che rivela la totale identità tra Brahman («Sarvaṁ khalvidaṁ brahma»), la causa prima universale (tajjalān) e l'Ātman interiore che risiede nel segreto del cuore.",
+    "gloss": "Insegnamento della Chāndogya che accosta Brahman e il Sé nel cuore attraverso immagini e formule di meditazione.",
     "passages": [
       "chandogya-3-14-1",
       "chandogya-3-14-2",
@@ -2540,7 +2540,7 @@
     "id": "sat-asat",
     "name": "Sat e Asat",
     "transliteration": "sat-asat",
-    "gloss": "La\npolarità metafisica tra ciò che è Reale, immutabile ed eterno (sat) e ciò che è\nirreale, perituro, mortale e transitorio (asat).",
+    "gloss": "Sat e asat: «reale» e «non-reale» o «non manifesto», secondo il passo. La distinzione non va ridotta automaticamente a esistente contro inesistente.",
     "passages": [
       "bu-1-3-28",
       "bu-1-4-14",
@@ -2565,7 +2565,7 @@
     "id": "sat",
     "name": "Sat (L'Essere puro)",
     "transliteration": "sat",
-    "gloss": "La Realtà ultima non duale, assoluta ed eterna, anteriore a qualsiasi determinazione di nome e forma («Sadeva somyedam agra āsīd ekam evādvitīyam»); fondamento e sostanza immutabile di ogni apparenza manifestata.",
+    "gloss": "Sat significa «essere» o «reale». In questo contesto indica la Realtà ultima, non una cosa tra le altre.",
     "passages": [
       "chandogya-6-2-1",
       "chandogya-6-2-2"
@@ -2601,7 +2601,7 @@
     "id": "satya",
     "name": "Satya",
     "transliteration": "satya",
-    "gloss": "La Verità metafisica eterna, il cui volto intimo è celato dall'abbagliante disco aureo delle apparenze solari formali.",
+    "gloss": "Verità o realtà. Il significato preciso dipende dal passo; qui rimanda a ciò che non è una semplice apparenza mutevole.",
     "passages": [
       "isha-1-15"
     ],
@@ -3086,7 +3086,7 @@
     "id": "turiya",
     "name": "Turīya",
     "transliteration": "Turīya",
-    "gloss": "Il Quarto, stato incondizionato, inoggettivabile, privo di misura e non-duale.",
+    "gloss": "«Il quarto»: nome upaniṣadico per ciò che non è uno stato ordinario di coscienza e non è separato dal Sé.",
     "passages": [
       "mandukya-1-7",
       "mandukya-1-8",
@@ -3143,7 +3143,7 @@
     "id": "upadhi-upasana",
     "name": "Upādhi-upāsanā",
     "transliteration": "upādhi-upāsanā",
-    "gloss": "La venerazione devozionale o teurgica rivolta a enti formali o divinità intese come esteriori al Sé (nedam yad idam upāsate), categoricamente distinta dalla gnosi di Brahman.",
+    "gloss": "Meditazione su un supporto o una forma divina. Può avere un valore tradizionale, ma resta distinta dalla conoscenza non-duale di Brahman.",
     "passages": [
       "kena-1-5",
       "kena-1-6",
@@ -3320,7 +3320,7 @@
     "id": "vidya-avidya",
     "name": "Vidyā e Avidyā",
     "transliteration": "vidyā-avidyā",
-    "gloss": "La polarità fondamentale tra conoscenza metafisica / comprensione del significato interiore e ignoranza / mera esecuzione meccanica dell'atto esteriore.",
+    "gloss": "Vidya e avidya: termini il cui senso cambia nei diversi passi. Possono indicare conoscenza e non-conoscenza, oppure forme di sapere e pratica di ordine relativo.",
     "passages": [
       "chandogya-1-1-10"
     ],
@@ -3335,7 +3335,7 @@
     "id": "vidya-e-avidya",
     "name": "Vidyā e Avidyā",
     "transliteration": "Vidyā e Avidyā",
-    "gloss": "La Conoscenza metafisica dell'Assoluto contrapposta all'ignoranza originaria che perpetua l'illusione della molteplicità.",
+    "gloss": "Conoscenza e non-conoscenza. In questi passi la distinzione riguarda modi diversi di sapere e agire, non due realtà assolute.",
     "passages": [
       "katha-1-2-4",
       "katha-1-2-5",
@@ -3354,7 +3354,7 @@
     "id": "vidya",
     "name": "Vidyā",
     "transliteration": "vidyā",
-    "gloss": "Nel contesto dei versi 9-11, non la gnosi assoluta di Brahman, bensì la contemplazione formale delle divinità (upāsanā), che produce uno stato sovraindividuale relativo.",
+    "gloss": "Conoscenza o meditazione; il significato cambia secondo il testo. Nella Chāndogya 1.1 indica una meditazione rituale, non la conoscenza assoluta di Brahman.",
     "passages": [
       "isha-1-9",
       "isha-1-10",
@@ -3391,7 +3391,7 @@
     "id": "vijnanam-anandam-brahma",
     "name": "Vijñānam Ānandaṃ Brahma",
     "transliteration": "vijñānam ānandaṃ brahma",
-    "gloss": "«Brahman è Coscienza pura e Beatitudine\nincondizionata»: definizione conclusiva del terzo capitolo che compendia la\nnatura sostanziale e non-duale dell'Assoluto.",
+    "gloss": "«Brahman è conoscenza e beatitudine»: formula che indica Brahman per mezzo di parole, senza farne un oggetto definibile.",
     "passages": [
       "bu-3-9-28"
     ],
@@ -3408,7 +3408,7 @@
     "id": "vijnanamaya-purusa",
     "name": "Vijñānamaya Puruṣa",
     "transliteration": "vijñānamaya puruṣa",
-    "gloss": "L'essere coscienziale empirico identificato con\nla facoltà discriminativa dell'intelletto (buddhi), che fa esperienza della\nveglia e del sogno e si riassorbe nel Sé trascendente durante il sonno\nprofondo.",
+    "gloss": "Il «sé fatto di conoscenza» nella descrizione a strati della Taittirīya. È una tappa dell’esposizione, non il Sé ultimo.",
     "passages": [
       "bu-2-1-16",
       "bu-2-1-17"
@@ -3427,7 +3427,7 @@
     "id": "vijnanatman",
     "name": "Vijñānātman",
     "transliteration": "Vijñānātman",
-    "gloss": "Il Sé conoscente o intelligenza individuale (jīva), soggetto dell'esperienza e dell'azione che poggia sul Sé Supremo e Imperituro.",
+    "gloss": "Il sé individuale in quanto conosce e agisce. La distinzione dall’Ātman assoluto appartiene al piano dell’esperienza individuale.",
     "passages": [
       "prashna-4-9",
       "prashna-4-11"
