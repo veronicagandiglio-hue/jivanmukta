@@ -2482,14 +2482,29 @@
     "id": "q-che-cose-la-liberazione",
     "scope": "global",
     "type": "great",
-    "text": "Che cos'e la liberazione?",
-    "problem": "Chiarire in che modo la conoscenza del Se sciolga l'identificazione con il corpo e conduca all'immortalita.",
+    "homepage_priority": 6,
+    "text": "Che cos'è la liberazione?",
+    "problem": "Chiarire in che modo la conoscenza del Sé sciolga l'identificazione con il corpo e conduca all'immortalità, senza trasformare la liberazione in una conquista empirica o in uno stato transitorio.",
+    "introduction": "La liberazione (Mokṣa) nel Vedānta non è il passaggio ad un luogo celeste, né l'acquisizione di poteri straordinari, né una trasformazione dell'io in qualcosa di diverso. È la realizzazione dell'Identità Suprema: il riconoscimento che la nostra vera natura è già da sempre l'Assoluto infinito (Brahman), libero da ogni limite.",
     "passages": [
       "aitareya-2-1-5",
       "aitareya-2-1-6",
       "aitareya-3-1-4",
       "chandogya-1-4-4",
-      "chandogya-1-4-5"
+      "chandogya-1-4-5",
+      "katha-2-3-14",
+      "katha-2-3-15"
+    ],
+    "concepts": [
+      "liberazione",
+      "moksha-amritatva",
+      "jivanmukti",
+      "brahman"
+    ],
+    "related_questions": [
+      "q-come-si-raggiunge-la-liberazione",
+      "q-e-possibile-la-liberta",
+      "q-qual-e-la-natura-della-liberazione"
     ],
     "source_file": "questions/q-che-cose-la-liberazione.json"
   },
@@ -2569,13 +2584,22 @@
     "id": "q-chi-sono-veramente",
     "scope": "global",
     "type": "great",
+    "homepage_priority": 2,
     "text": "Chi sono veramente?",
-    "problem": "Indagare la vera identita del soggetto oltre il corpo, le facolta percettive e la mente, riconoscendo il Se come pura Coscienza.",
+    "problem": "Indagare la vera identità del soggetto oltre il corpo, le facoltà percettive e la mente, riconoscendo il Sé come pura Coscienza testimone immutabile.",
     "passages": [
       "aitareya-1-3-11",
       "aitareya-3-1-1",
       "chandogya-1-2-7",
       "chandogya-1-2-9"
+    ],
+    "concepts": [
+      "atman",
+      "sakshin"
+    ],
+    "related_questions": [
+      "q-che-cose-il-se",
+      "q-che-cose-l-atman"
     ],
     "source_file": "questions/q-chi-sono-veramente.json"
   },
@@ -2621,6 +2645,49 @@
     "commentaries": [],
     "related_questions": [],
     "source_file": "questions/q-come-si-conosce-il-tutto.json"
+  },
+  "q-come-si-raggiunge-la-liberazione": {
+    "id": "q-come-si-raggiunge-la-liberazione",
+    "scope": "global",
+    "type": "great",
+    "homepage_priority": 5,
+    "text": "Come si raggiunge la liberazione?",
+    "problem": "Comprendere il rapporto tra l'uomo, la preparazione interiore e la conoscenza liberatrice: distinguere i mezzi che preparano alla discriminazione dalla conoscenza che costituisce la liberazione stessa, senza ridurre la realizzazione a una tecnica o a un premio.",
+    "introduction": "La domanda su come si raggiunge la liberazione non è una questione tecnica o pratica separata dalla metafisica. Alla luce dell'identità tra Ātman e Brahman, la liberazione non può essere l'acquisizione di uno stato nuovo che prima non esisteva, né il frutto di un'azione contingente: l'Incondizionato non può essere prodotto dal tempo o dallo sforzo individuale. La tradizione esamina quindi con rigore il rapporto tra la disciplina preparatoria (distacco, discriminazione, silenzio interiore), l'insegnamento tradizionale e l'insorgere della retta conoscenza, la sola che dissolve l'ignoranza e svela la libertà già eternamente presente.",
+    "editorial_stance": "Non presentiamo la liberazione come una tecnica empirica, un'esperienza straordinaria da ottenere, uno stato alterato di coscienza o un premio per l'individuo. La tradizione vedāntica insegna che la liberazione è il risveglio alla propria natura eterna mediante la dissoluzione dell'ignoranza metafisica. È fondamentale distinguere con chiarezza ciò che prepara alla conoscenza da ciò che costituisce la conoscenza liberatrice stessa.",
+    "target_core_path_id": "10-che-cose-la-liberazione",
+    "parent_question": null,
+    "concepts": [
+      "via-alla-liberazione",
+      "liberazione",
+      "moksha-amritatva",
+      "conoscenza",
+      "avidya",
+      "sadhana-catushtaya",
+      "brahma-vidya"
+    ],
+    "passages": [
+      "mundaka-1-2-12",
+      "katha-1-2-1",
+      "katha-1-2-2",
+      "katha-2-3-14",
+      "katha-2-3-15",
+      "chandogya-6-14-1",
+      "chandogya-6-14-2",
+      "chandogya-7-26-2",
+      "bu-4-4-23",
+      "isha-1-11"
+    ],
+    "commentaries": [],
+    "related_questions": [
+      "q-che-cose-la-liberazione",
+      "q-che-cosa-significa-conoscere",
+      "q-l-increato-non-e-prodotto-dall-azione",
+      "q-distinzione-tra-sreyas-e-preyas",
+      "q-lazione-vincola"
+    ],
+    "specific_questions": [],
+    "source_file": "questions/q-come-si-raggiunge-la-liberazione.json"
   },
   "q-cosa-accade-dopo-la-morte": {
     "id": "q-cosa-accade-dopo-la-morte",
@@ -3338,13 +3405,23 @@
     "id": "q-perche-appare-la-molteplicita",
     "scope": "global",
     "type": "great",
-    "text": "Perche appare la molteplicita?",
-    "problem": "Comprendere come la molteplicita dei mondi, degli organi e delle funzioni emerga senza intaccare l'unita originaria dell'Atman.",
+    "homepage_priority": 8,
+    "text": "Perché appare la molteplicità?",
+    "problem": "Comprendere come la molteplicità dei mondi, degli organi e delle funzioni emerga senza intaccare l'unità originaria dell'Ātman, distinguendo tra realtà essenziale e apparenza determinata da nomi e forme (nāmarūpa).",
     "passages": [
       "aitareya-1-1-2",
       "aitareya-1-2-4",
       "chandogya-6-2-3",
       "chandogya-6-3-2"
+    ],
+    "concepts": [
+      "namarupa",
+      "maya",
+      "sat"
+    ],
+    "related_questions": [
+      "q-che-cose-il-mondo",
+      "q-bu-ruolo-maya-molteplicita"
     ],
     "source_file": "questions/q-perche-appare-la-molteplicita.json"
   },

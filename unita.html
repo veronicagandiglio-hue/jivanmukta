@@ -271,6 +271,9 @@ a.related{ text-decoration-color: var(--color-rule); }
 }
 
 .verse__num{
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-2);
   font-size: var(--fs-caption);
   color: var(--color-ink-faint);
 }
@@ -279,6 +282,42 @@ a.related{ text-decoration-color: var(--color-rule); }
 }
 .verse__num a:hover, .verse__num a:focus-visible{
   text-decoration-color: currentColor;
+}
+
+.verse__tier-badge{
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  padding: 1px 6px;
+  border-radius: 2px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.verse__tier-badge--core{
+  color: #7E3B20;
+  background: rgba(126, 59, 32, 0.08);
+}
+.verse__tier-badge--clarification{
+  color: var(--color-ink-muted);
+  background: var(--color-bg-raised);
+}
+.verse__tier-badge--context{
+  color: var(--color-ink-faint);
+  background: transparent;
+  font-style: italic;
+  text-transform: none;
+  border: 1px solid var(--color-rule);
+}
+.verse__tier-badge--secondary{
+  color: var(--color-ink-faint);
+  background: transparent;
+  font-style: italic;
+  text-transform: none;
+  border: 1px dotted var(--color-rule);
+}
+
+.verse[data-tier="context"] .verse__text,
+.verse[data-tier="secondary"] .verse__text{
+  color: var(--color-ink-muted);
 }
 
 .verse__original{
@@ -640,12 +679,13 @@ a.related{ text-decoration-color: var(--color-rule); }
 
   /** Raccoglie, per ogni passaggio di un'unità, note/commenti/domande/spiegazioni/percorso. */
   async function buildPassageDetails(passageId) {
-    const [notesRes, commRes, qRes, expRes, cpRes] = await Promise.all([
+    const [notesRes, commRes, qRes, expRes, cpRes, tierRes] = await Promise.all([
       ContentEngine.getPassageNotes(passageId),
       ContentEngine.getPassageCommentaries(passageId),
       ContentEngine.getPassageQuestions(passageId),
       ContentEngine.getPassageExplanations(passageId),
-      ContentEngine.getPassageCorePath(passageId)
+      ContentEngine.getPassageCorePath(passageId),
+      ContentEngine.getPassageTier(passageId)
     ]);
 
     const notes = [];
@@ -688,7 +728,9 @@ a.related{ text-decoration-color: var(--color-rule); }
       }
     }
 
-    return { notes, commentaries, questions, explanations, corePathSteps };
+    const tier = (tierRes && tierRes.status === 'ok') ? tierRes.data : null;
+
+    return { notes, commentaries, questions, explanations, corePathSteps, tier };
   }
 
   // ============================================================
@@ -732,9 +774,25 @@ a.related{ text-decoration-color: var(--color-rule); }
     article.id = 'passage-' + passage.id;
     article.dataset.passageId = passage.id;
 
+    const tier = (passage && passage.editorial_tier) || (details && details.tier);
+    if (tier) {
+      article.dataset.tier = tier.key;
+      article.dataset.tierLevel = String(tier.level);
+    }
+
     const num = createEl('p', { class: 'verse__num' });
     num.id = passage.id;
     num.append(createEl('a', { href: '#' + passage.id, text: passage.locus || passage.section_locus || String(index + 1) }));
+
+    if (tier) {
+      const tierBadge = createEl('span', {
+        class: 'verse__tier-badge verse__tier-badge--' + tier.key,
+        text: tier.label
+      });
+      tierBadge.title = 'Livello ' + tier.level + ': ' + tier.label;
+      num.append(tierBadge);
+    }
+
     article.append(num);
 
     if (passage.original) {

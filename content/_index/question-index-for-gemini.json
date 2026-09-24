@@ -1796,9 +1796,9 @@
     "id": "q-che-cose-la-liberazione",
     "scope": "global",
     "type": "great",
-    "text": "Che cos'e la liberazione?",
-    "problem": "Chiarire in che modo la conoscenza del Se sciolga l'identificazione con il corpo e conduca all'immortalita.",
-    "introduction": null,
+    "text": "Che cos'è la liberazione?",
+    "problem": "Chiarire in che modo la conoscenza del Sé sciolga l'identificazione con il corpo e conduca all'immortalità, senza trasformare la liberazione in una conquista empirica o in uno stato transitorio.",
+    "introduction": "La liberazione (Mokṣa) nel Vedānta non è il passaggio ad un luogo celeste, né l'acquisizione di poteri straordinari, né una trasformazione dell'io in qualcosa di diverso. È la realizzazione dell'Identità Suprema: il riconoscimento che la nostra vera natura è già da sempre l'Assoluto infinito (Brahman), libero da ogni limite.",
     "parent_question": null,
     "child_questions": [
       "q-chandogya-ahara-suddhi-granthi",
@@ -1810,7 +1810,12 @@
       "q-chandogya-setu-ponte",
       "q-chandogya-superamento-morte-om"
     ],
-    "concepts": []
+    "concepts": [
+      "liberazione",
+      "moksha-amritatva",
+      "jivanmukti",
+      "brahman"
+    ]
   },
   {
     "id": "q-che-rapporto-ce-tra-atman-e-brahman",
@@ -1875,7 +1880,7 @@
     "scope": "global",
     "type": "great",
     "text": "Chi sono veramente?",
-    "problem": "Indagare la vera identita del soggetto oltre il corpo, le facolta percettive e la mente, riconoscendo il Se come pura Coscienza.",
+    "problem": "Indagare la vera identità del soggetto oltre il corpo, le facoltà percettive e la mente, riconoscendo il Sé come pura Coscienza testimone immutabile.",
     "introduction": null,
     "parent_question": null,
     "child_questions": [
@@ -1893,7 +1898,10 @@
       "q-chandogya-susupti-sat",
       "q-chandogya-svarajya-atmarati"
     ],
-    "concepts": []
+    "concepts": [
+      "atman",
+      "sakshin"
+    ]
   },
   {
     "id": "q-come-si-conosce-il-brahman",
@@ -1923,6 +1931,25 @@
       "brahman",
       "aksara",
       "para-e-apara-vidya"
+    ]
+  },
+  {
+    "id": "q-come-si-raggiunge-la-liberazione",
+    "scope": "global",
+    "type": "great",
+    "text": "Come si raggiunge la liberazione?",
+    "problem": "Comprendere il rapporto tra l'uomo, la preparazione interiore e la conoscenza liberatrice: distinguere i mezzi che preparano alla discriminazione dalla conoscenza che costituisce la liberazione stessa, senza ridurre la realizzazione a una tecnica o a un premio.",
+    "introduction": "La domanda su come si raggiunge la liberazione non è una questione tecnica o pratica separata dalla metafisica. Alla luce dell'identità tra Ātman e Brahman, la liberazione non può essere l'acquisizione di uno stato nuovo che prima non esisteva, né il frutto di un'azione contingente: l'Incondizionato non può essere prodotto dal tempo o dallo sforzo individuale. La tradizione esamina quindi con rigore il rapporto tra la disciplina preparatoria (distacco, discriminazione, silenzio interiore), l'insegnamento tradizionale e l'insorgere della retta conoscenza, la sola che dissolve l'ignoranza e svela la libertà già eternamente presente.",
+    "parent_question": null,
+    "child_questions": [],
+    "concepts": [
+      "via-alla-liberazione",
+      "liberazione",
+      "moksha-amritatva",
+      "conoscenza",
+      "avidya",
+      "sadhana-catushtaya",
+      "brahma-vidya"
     ]
   },
   {
@@ -2387,12 +2414,16 @@
     "id": "q-perche-appare-la-molteplicita",
     "scope": "global",
     "type": "great",
-    "text": "Perche appare la molteplicita?",
-    "problem": "Comprendere come la molteplicita dei mondi, degli organi e delle funzioni emerga senza intaccare l'unita originaria dell'Atman.",
+    "text": "Perché appare la molteplicità?",
+    "problem": "Comprendere come la molteplicità dei mondi, degli organi e delle funzioni emerga senza intaccare l'unità originaria dell'Ātman, distinguendo tra realtà essenziale e apparenza determinata da nomi e forme (nāmarūpa).",
     "introduction": null,
     "parent_question": null,
     "child_questions": [],
-    "concepts": []
+    "concepts": [
+      "namarupa",
+      "maya",
+      "sat"
+    ]
   },
   {
     "id": "q-perche-soffriamo",

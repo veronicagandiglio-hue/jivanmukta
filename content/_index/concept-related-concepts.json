@@ -194,6 +194,7 @@
     "brahmasamstha",
     "mantravid-vs-atmavid",
     "upasana",
+    "via-alla-liberazione",
     "vidya-avidya"
   ],
   "acaryavan-puruso-veda": [
@@ -217,7 +218,8 @@
     "setu",
     "svarajya",
     "uttama-purusa",
-    "vairagya"
+    "vairagya",
+    "via-alla-liberazione"
   ],
   "adhyatma-yoga": [
     "buddhi-intelletto",
@@ -231,7 +233,8 @@
   "jivanmukti": [
     "adhyatma-yoga",
     "moksha-amritatva",
-    "atman"
+    "atman",
+    "via-alla-liberazione"
   ],
   "adrsto-drasta": [
     "atman",
@@ -515,7 +518,8 @@
     "brahman",
     "sakshin",
     "deva-abhimana",
-    "pratistha"
+    "pratistha",
+    "via-alla-liberazione"
   ],
   "sakshin": [
     "brahma-vidya",
@@ -690,7 +694,8 @@
   "moksha-amritatva": [
     "jivanmukti",
     "brahman",
-    "sreyas-e-preyas"
+    "sreyas-e-preyas",
+    "via-alla-liberazione"
   ],
   "jyotis-interiore": [
     "brahman",
@@ -880,7 +885,8 @@
   ],
   "sadhana-catushtaya": [
     "atman",
-    "brahman"
+    "brahman",
+    "via-alla-liberazione"
   ],
   "sakrd-diva": [
     "brahman",
@@ -1042,6 +1048,14 @@
     "atman",
     "brahman",
     "liberazione"
+  ],
+  "via-alla-liberazione": [
+    "liberazione",
+    "moksha-amritatva",
+    "sadhana-catushtaya",
+    "conoscenza",
+    "brahma-vidya",
+    "jivanmukti"
   ],
   "vijnatar": [
     "vijnanaghana",

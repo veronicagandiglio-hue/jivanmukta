@@ -55,6 +55,7 @@
     "q-chi-e-il-purusha-delle-sedici-parti",
     "q-chi-e-l-om-nella-mandukya",
     "q-chi-sono-i-due-uccelli-sullo-stesso-albero",
+    "q-chi-sono-veramente",
     "q-cosa-accade-dopo-la-morte",
     "q-e-possibile-la-liberta",
     "q-esperienza-fine-io",
@@ -116,6 +117,7 @@
     "q-che-cose-brahman",
     "q-che-cose-il-mondo",
     "q-che-cose-l-atman",
+    "q-che-cose-la-liberazione",
     "q-chi-e-l-om-nella-mandukya",
     "q-come-si-conosce-il-brahman",
     "q-come-si-conosce-il-tutto",
@@ -151,6 +153,8 @@
   ],
   "moksha-amritatva": [
     "q-azione-rituale-versus-conoscenza",
+    "q-che-cose-la-liberazione",
+    "q-come-si-raggiunge-la-liberazione",
     "q-cosa-accade-dopo-la-morte",
     "q-esperienza-ritorno-persona",
     "q-qual-e-la-natura-della-liberazione"
@@ -273,7 +277,8 @@
     "q-bu-dinamica-trapasso-frutto"
   ],
   "sadhana-catushtaya": [
-    "q-bu-disciplina-interiore-shanto-dantah"
+    "q-bu-disciplina-interiore-shanto-dantah",
+    "q-come-si-raggiunge-la-liberazione"
   ],
   "murta-amurta": [
     "q-bu-due-forme-brahman-murta-amurta"
@@ -335,7 +340,8 @@
   ],
   "namarupa": [
     "q-bu-namarupa-avyakrita",
-    "q-bu-trayam-nama-rupa-karma"
+    "q-bu-trayam-nama-rupa-karma",
+    "q-perche-appare-la-molteplicita"
   ],
   "svayam-jyotis": [
     "q-bu-natura-luce-autonoma"
@@ -376,7 +382,8 @@
     "q-bu-radice-metafisica-abhaya"
   ],
   "maya": [
-    "q-bu-ruolo-maya-molteplicita"
+    "q-bu-ruolo-maya-molteplicita",
+    "q-perche-appare-la-molteplicita"
   ],
   "stri-yajna": [
     "q-bu-sacralizzazione-generazione"
@@ -458,7 +465,8 @@
     "q-chandogya-gandhara-acarya",
     "q-chandogya-rito-senza-conoscenza",
     "q-chandogya-scala-sanatkumara",
-    "q-chandogya-tarati-sokam-atmavid"
+    "q-chandogya-tarati-sokam-atmavid",
+    "q-come-si-raggiunge-la-liberazione"
   ],
   "liberazione": [
     "q-chandogya-ahara-suddhi-granthi",
@@ -470,7 +478,9 @@
     "q-chandogya-jyotis-uttama",
     "q-chandogya-setu-ponte",
     "q-chandogya-superamento-morte-om",
-    "q-chandogya-svarajya-atmarati"
+    "q-chandogya-svarajya-atmarati",
+    "q-che-cose-la-liberazione",
+    "q-come-si-raggiunge-la-liberazione"
   ],
   "akasa": [
     "q-chandogya-akasa-brahman"
@@ -510,7 +520,8 @@
     "q-chandogya-conoscenza-dell-uno",
     "q-chandogya-sat-origine-non-essere",
     "q-chandogya-susupti-sat",
-    "q-chandogya-tat-tvam-asi"
+    "q-chandogya-tat-tvam-asi",
+    "q-perche-appare-la-molteplicita"
   ],
   "dahara-vidya": [
     "q-chandogya-dahara-akasa"
@@ -612,6 +623,7 @@
   ],
   "brahma-vidya": [
     "q-che-cosa-significa-conoscere",
+    "q-come-si-raggiunge-la-liberazione",
     "q-e-possibile-la-liberta",
     "q-kena-allegoria-yaksha",
     "q-kena-funzione-uma",
@@ -622,6 +634,7 @@
   "sakshin": [
     "q-che-cosa-significa-conoscere",
     "q-che-cose-il-se",
+    "q-chi-sono-veramente",
     "q-esperienza-fine-io",
     "q-kena-analogie-adhidaivata-adhyatma",
     "q-kena-pratibodha-viditam",
@@ -647,6 +660,11 @@
     "q-metodo-dello-yoga-metafisico-nel-vedanta",
     "q-qual-e-il-valore-della-sillaba-om"
   ],
+  "jivanmukti": [
+    "q-che-cose-la-liberazione",
+    "q-esperienza-ritorno-persona",
+    "q-qual-e-la-natura-della-liberazione"
+  ],
   "sodasa-kala": [
     "q-chi-e-il-purusha-delle-sedici-parti",
     "q-dissoluzione-delle-parti-nell-oceano-del-se"
@@ -670,6 +688,18 @@
     "q-come-si-conosce-il-tutto",
     "q-qual-e-la-differenza-tra-para-e-apara-vidya"
   ],
+  "via-alla-liberazione": [
+    "q-come-si-raggiunge-la-liberazione",
+    "q-che-cose-la-liberazione"
+  ],
+  "avidya": [
+    "q-come-si-raggiunge-la-liberazione",
+    "q-dialettica-vidya-avidya",
+    "q-esperienza-perche-finita",
+    "q-lazione-vincola",
+    "q-perche-soffriamo",
+    "q-uccisori-del-se"
+  ],
   "rayi": [
     "q-da-dove-ha-origine-il-cosmo",
     "q-polarita-primordiale-prana-rayi"
@@ -679,21 +709,10 @@
     "q-esperienza-perche-finita",
     "q-lazione-vincola"
   ],
-  "avidya": [
-    "q-dialettica-vidya-avidya",
-    "q-esperienza-perche-finita",
-    "q-lazione-vincola",
-    "q-perche-soffriamo",
-    "q-uccisori-del-se"
-  ],
   "ekatva": [
     "q-esperienza-mondo-uno",
     "q-esperienza-unita",
     "q-frutto-realizzazione-unita"
-  ],
-  "jivanmukti": [
-    "q-esperienza-ritorno-persona",
-    "q-qual-e-la-natura-della-liberazione"
   ],
   "brahmavid-brahmaiva-bhavati": [
     "q-in-che-senso-il-conoscitore-diviene-brahman"

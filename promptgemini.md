@@ -177,7 +177,7 @@ Non presentare C o D come se fossero A. Un commentario tradizionale può essere
 prodotto soltanto se il relativo testo o una fonte affidabile sono stati
 forniti: non inventare mai commentari o citazioni.
 
-## 6. STRUTTURA ATTUALE DI JIVANMUKTA: LE DIECI TAPPE
+## 6. STRUTTURA ATTUALE DI JIVANMUKTA: LE UNDICI TAPPE
 
 Il percorso globale è già definito. Le sue tappe NON devono essere create,
 rinominate, duplicate o riscritte per ciascuna opera:
@@ -193,13 +193,20 @@ rinominate, duplicate o riscritte per ciascuna opera:
 9. `09-che-cosa-significa-conoscere` — Che cosa significa conoscere?
 10. `10-che-cose-la-liberazione` — Che cos'è la liberazione?
 
+La domanda globale `q-come-si-raggiunge-la-liberazione` si colloca tra la
+tappa 9 («conoscere») e la tappa 10 («liberazione»). Non è una tappa del
+core-path, ma è la domanda che articola il passaggio dalla comprensione
+dell'ignoranza alla comprensione della liberazione. Collegala quando il testo
+tratta esplicitamente il rapporto tra preparazione (sādhana) e conoscenza
+liberatrice, oppure tra l'azione rituale/etica e la realizzazione del Sé.
+
 Queste tappe sono una mappa globale, non una gabbia. Identifica quali passi le
 illuminano naturalmente attraverso le domande già esistenti. Non forzare
 l'opera dentro la mappa e non inventare il collegamento se non è giustificato
 dal testo. Un'opera può trattare soprattutto una questione secondaria e deve
 essere rappresentata fedelmente.
 
-NON creare record `core_path`, `step` o `target_step`: le dieci tappe
+NON creare record `core_path`, `step` o `target_step`: le tappe del percorso
 sono gestite dal sito. Puoi però proporre contributi curati alle tappe mediante
 `core_path_contributions`, secondo le regole della sezione sul JSON.
 
@@ -239,6 +246,37 @@ ricava le figlie dal campo `parent_question`.
 Se emerge una possibile nuova domanda globale, non crearla automaticamente:
 inseriscila in `candidate_questions` con `type: "great"`, i concetti e i
 passaggi che la sostengono, più una motivazione in `notes_for_reviewer`.
+
+Le domande globali principali del percorso includono (tra le altre):
+
+- `q-che-cose-brahman` — Che cos'è Brahman?
+- `q-chi-sono-veramente` — Chi sono veramente?
+- `q-che-cose-atman` — Che cos'è l'Ātman?
+- `q-che-cose-maya` — Che cos'è māyā?
+- `q-perche-appare-la-molteplicita` — Perché appare la molteplicità?
+- `q-che-cosa-significa-conoscere` — Che cosa significa conoscere?
+- `q-come-si-raggiunge-la-liberazione` — Come si raggiunge la liberazione?
+- `q-che-cose-la-liberazione` — Che cos'è la liberazione?
+- `q-che-cosa-significa-jivanmukti` — Che cosa significa jīvanmukti?
+
+**Regole speciali per `q-come-si-raggiunge-la-liberazione`**
+
+Questa domanda articola il nesso tra mezzo (sādhana) e fine (conoscenza
+liberatrice). Collegala a un passo soltanto quando il testo:
+
+a) distingue esplicitamente tra l'azione o il rito (che purificano o
+   preparano) e la conoscenza (jñāna, vidyā) che libera;
+b) afferma che la liberazione non è un prodotto dell'azione ma la
+   comprensione di una realtà già presente;
+c) tratta il rapporto tra ignoranza (avidyā) e conoscenza (vidyā) in
+   relazione alla liberazione.
+
+Non collegare questo ID a passi che descrivono semplicemente pratiche
+ascetiche, rituali o yogici senza mettere in questione la natura stessa
+della liberazione. Non presentare mai la liberazione come un'esperienza
+straordinaria da raggiungere, uno stato psicologico permanente, un livello
+superiore dell'io, un premio ottenuto con una tecnica o una trasformazione
+dell'individuo in qualcosa di diverso da ciò che è.
 
 Esistono inoltre sei domande iniziali legate all'esperienza:
 

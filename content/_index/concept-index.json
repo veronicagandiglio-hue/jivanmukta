@@ -3265,6 +3265,39 @@
     "authors": [],
     "source_file": "concepts/vaisvanara.json"
   },
+  "via-alla-liberazione": {
+    "id": "via-alla-liberazione",
+    "name": "Via alla Liberazione",
+    "transliteration": "Mokṣa-mārga / Sādhana",
+    "gloss": "L'itinerario tradizionale di discernimento (viveka), distacco (vairāgya) e assimilazione metafisica attraverso cui l'ignoranza viene dissolta e l'identità suprema realizzata.",
+    "passages": [
+      "mundaka-1-2-12",
+      "katha-1-2-1",
+      "katha-1-2-2",
+      "katha-2-3-14",
+      "chandogya-6-14-1",
+      "chandogya-6-14-2",
+      "chandogya-7-26-2",
+      "bu-4-4-23"
+    ],
+    "related_concepts": [
+      "liberazione",
+      "moksha-amritatva",
+      "sadhana-catushtaya",
+      "conoscenza",
+      "brahma-vidya",
+      "jivanmukti"
+    ],
+    "authors": [
+      "adi-shankara",
+      "yama"
+    ],
+    "questions": [
+      "q-come-si-raggiunge-la-liberazione",
+      "q-che-cose-la-liberazione"
+    ],
+    "source_file": "concepts/via-alla-liberazione.json"
+  },
   "vidita-avidita": {
     "id": "vidita-avidita",
     "name": "Vidita e Avidita",

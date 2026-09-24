@@ -4,8 +4,7 @@
   "step_number": 10,
   "title": "Che cos'è la liberazione?",
   "lead": "Mokṣa e Jīvanmukti: se siamo già sempre stati il Sé immortale, cosa significa liberarsi mentre si è ancora in vita?",
-  "question_text": "Che cos'è la liberazione?",
-  "editorial_response": "Se la nostra vera natura è già l'Assoluto infinito (Brahman), e non c'è mai stata una reale separazione tra noi e la Sorgente della vita, allora che cosa significa veramente «liberarsi»?\n\nLa risposta del Vedānta capovolge la prospettiva comune: la Liberazione (Mokṣa) non è un viaggio verso un altro pianeta o un paradiso celeste dopo la morte, e non è neppure l'acquisto di super-poteri spirituali. La liberazione non aggiunge nulla che non fosse già presente fin dall'inizio.\n\nLiberarsi significa semplicemente smettere di credere di essere ciò che non siamo mai stati.\n\nImmaginiamo una persona che indossa occhiali con lenti blu scuro. Fin da bambina vede il mondo blu, e si convince che la realtà sia fredda, scura e bluastra. Si affanna a cercare una luce più calda, compie sforzi enormi, fino al momento in cui qualcuno le dice: «Guarda che hai degli occhiali davanti agli occhi». La persona toglie gli occhiali: il mondo non è cambiato di una virgola, gli alberi e il cielo sono gli stessi di prima, ma la visione è improvvisamente chiara, radiosa, libera dall'inganno.\n\nQuesta è la Jīvanmukti: la «liberazione in vita», il nome stesso di questo progetto. Il saggio liberato (il Jīvanmukta) continua a camminare per strada, mangia, dorme, si prende cura del proprio corpo e delle persone che lo circondano, prova sensazioni fisiche. Ma non è più prigioniero dell'illusione di essere un individuo isolato e vulnerabile, in balia della paura della morte. Ha compreso che la sua vera dimora è la Vita stessa, eterna e incorruttibile, che anima tutti gli esseri.\n\nLa liberazione non allontana dal mondo: restituisce al mondo la sua vera bellezza, vissuta nella pace incrollabile di chi sa chi è veramente.",
+  "editorial_response": "Se la realtà ultima è non-duale e la natura propria dell'individuo è già identica all'Assoluto (Brahman), che cosa significa «liberarsi»?\n\nLa metafisica dell'Advaita Vedānta risponde chiarendo innanzitutto che cosa la liberazione (mokṣa) non è:\n— Non è il conseguimento di un luogo celeste o di uno stato post-mortem (frutto transitorio dell'azione meritoria).\n— Non è la produzione di uno stato nuovo dell'essere, né una trasformazione dell'individuo in qualcosa di diverso da ciò che è.\n— Non è un'esperienza straordinaria da raggiungere, né uno stato alterato o psicologico della coscienza.\n\nPoiché l'increato non può essere generato da ciò che è creato (nāsty akṛtaḥ kṛtena, Muṇḍaka Upaniṣad 1.2.12), la liberazione non può essere il risultato causale di un'azione né il premio di una tecnica. L'azione appartiene all'ambito del divenire: può produrre, modificare, raggiungere o purificare; ma non può stabilire l'immutabile.\n\nLa liberazione è dunque compresa unicamente come rimozione dell'ignoranza metafisica (avidyā-nivṛtti). La limitazione non è una condizione ontologica reale dell'Ātman, bensì una sovraimposizione (adhyāsa) dovuta all'errore fondamentale che attribuisce al Sé i mutamenti del corpo, dei sensi e dell'io empirico. Quando sorge la retta conoscenza (jñāna, vidyā) dell'identità Ātman-Brahman, l'ignoranza cessa: non perché la realtà sia mutata, ma perché si riconosce ciò che è sempre stato.\n\nIn questa prospettiva si comprende la jīvanmukti, la «liberazione in vita»: il risveglio alla verità non richiede la soppressione del corpo né la fuga dal mondo empirico. Come la scoperta che un miraggio non è acqua non ne cancella l'apparenza visiva ma ne dissolve interamente l'illusione di realtà, così il jīvanmukta continua a muoversi nel dominio dei fenomeni, ma stabilito irrevocabilmente nella certezza del Sé, al di là di ogni timore e di ogni divisione.",
   "sources_used": [
     "René Guénon, L'uomo e il suo divenire secondo il Vedānta (1925)",
     "Īśā Upaniṣad, 1.6-7 (colui che vede tutti gli esseri nel Sé non prova più ripugnanza né dolore)",
@@ -28,11 +27,13 @@
   ],
   "commentary_passages": [],
   "related_concepts": [
+    "via-alla-liberazione",
     "moksha-amritatva",
     "jivanmukti",
     "brahmavid-brahmaiva-bhavati"
   ],
   "related_questions": [
+    "q-come-si-raggiunge-la-liberazione",
     "q-qual-e-la-natura-della-liberazione",
     "q-e-possibile-la-liberta",
     "q-frutto-realizzazione-unita"

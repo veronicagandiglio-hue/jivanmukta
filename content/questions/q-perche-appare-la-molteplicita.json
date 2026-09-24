@@ -2,12 +2,22 @@
   "id": "q-perche-appare-la-molteplicita",
   "scope": "global",
   "type": "great",
-  "text": "Perche appare la molteplicita?",
-  "problem": "Comprendere come la molteplicita dei mondi, degli organi e delle funzioni emerga senza intaccare l'unita originaria dell'Atman.",
+  "homepage_priority": 8,
+  "text": "Perché appare la molteplicità?",
+  "problem": "Comprendere come la molteplicità dei mondi, degli organi e delle funzioni emerga senza intaccare l'unità originaria dell'Ātman, distinguendo tra realtà essenziale e apparenza determinata da nomi e forme (nāmarūpa).",
   "passages": [
     "aitareya-1-1-2",
     "aitareya-1-2-4",
     "chandogya-6-2-3",
     "chandogya-6-3-2"
+  ],
+  "concepts": [
+    "namarupa",
+    "maya",
+    "sat"
+  ],
+  "related_questions": [
+    "q-che-cose-il-mondo",
+    "q-bu-ruolo-maya-molteplicita"
   ]
 }

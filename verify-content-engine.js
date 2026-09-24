@@ -77,55 +77,55 @@ async function main() {
 
   console.log('\n=== 1. Entità richieste dal Vertical Slice ===\n');
 
-  const question = await ContentEngine.getQuestion('che-cose-brahman');
-  printResult('getQuestion("che-cose-brahman")', question);
+  const question = await ContentEngine.getQuestion('q-che-cose-brahman');
+  printResult('getQuestion("q-che-cose-brahman")', question);
   check(question.status === 'ok' && question.data.text === "Che cos'è Brahman?", 'testo della domanda corretto');
 
   const concept = await ContentEngine.getConcept('brahman');
   printResult('getConcept("brahman")', concept);
   check(concept.status === 'ok' && concept.data.name === 'Brahman', 'nome del concetto corretto');
 
-  const work = await ContentEngine.getWork('brhadaranyaka-upanishad');
-  printResult('getWork("brhadaranyaka-upanishad")', work);
-  check(work.status === 'ok' && work.data.title === 'Bṛhadāraṇyaka Upaniṣad', 'titolo dell\'opera corretto');
+  const work = await ContentEngine.getWork('kena-upanishad');
+  printResult('getWork("kena-upanishad")', work);
+  check(work.status === 'ok' && work.data.title === 'Kenopaniṣad', 'titolo dell\'opera corretto');
 
-  const passage = await ContentEngine.getPassage('brhad-1-4-1');
-  printResult('getPassage("brhad-1-4-1")', passage);
-  check(passage.status === 'ok' && passage.data.work_id === 'brhadaranyaka-upanishad', 'passaggio collegato all\'opera corretta');
+  const passage = await ContentEngine.getPassage('kena-1-2');
+  printResult('getPassage("kena-1-2")', passage);
+  check(passage.status === 'ok' && passage.data.work_id === 'kena-upanishad', 'passaggio collegato all\'opera corretta');
 
-  console.log('\n=== 2. Relazioni inverse del passaggio brhad-1-4-1 ===\n');
+  console.log('\n=== 2. Relazioni inverse del passaggio kena-1-2 ===\n');
 
-  const pQuestions = await ContentEngine.getPassageQuestions('brhad-1-4-1');
-  printResult('getPassageQuestions("brhad-1-4-1")', pQuestions);
-  check(pQuestions.status === 'ok' && pQuestions.data.includes('che-cose-brahman'), 'la domanda che-cose-brahman è tra le relazioni inverse');
+  const pQuestions = await ContentEngine.getPassageQuestions('kena-1-2');
+  printResult('getPassageQuestions("kena-1-2")', pQuestions);
+  check(pQuestions.status === 'ok' && pQuestions.data.includes('q-che-cose-brahman'), 'la domanda q-che-cose-brahman è tra le relazioni inverse');
 
-  const pConcepts = await ContentEngine.getPassageConcepts('brhad-1-4-1');
-  printResult('getPassageConcepts("brhad-1-4-1")', pConcepts);
-  check(pConcepts.status === 'ok' && pConcepts.data.includes('brahman') && pConcepts.data.includes('atman'), 'brahman e atman sono tra i concetti collegati');
+  const pConcepts = await ContentEngine.getPassageConcepts('kena-1-2');
+  printResult('getPassageConcepts("kena-1-2")', pConcepts);
+  check(pConcepts.status === 'ok' && pConcepts.data.includes('brahman'), 'brahman è tra i concetti collegati');
 
-  const pCommentaries = await ContentEngine.getPassageCommentaries('brhad-1-4-1');
-  printResult('getPassageCommentaries("brhad-1-4-1")', pCommentaries);
-  check(pCommentaries.status === 'ok' && pCommentaries.data.includes('shankara-su-brhad-1-4-1'), 'il commentario di Śaṅkara è collegato');
+  const pCommentaries = await ContentEngine.getPassageCommentaries('kena-1-2');
+  printResult('getPassageCommentaries("kena-1-2")', pCommentaries);
+  check(pCommentaries.status === 'ok' && pCommentaries.data.includes('comm-kena-soggetto-trascendente'), 'il commentario è collegato');
 
-  const pNotes = await ContentEngine.getPassageNotes('brhad-1-4-1');
-  printResult('getPassageNotes("brhad-1-4-1")', pNotes);
-  check(pNotes.status === 'ok' && pNotes.data.includes('nota-purushavidhah'), 'la nota purushavidhah è collegata');
+  const pNotes = await ContentEngine.getPassageNotes('kena-1-2');
+  printResult('getPassageNotes("kena-1-2")', pNotes);
+  check(pNotes.status === 'ok' && pNotes.data.includes('note-srotrasya-srotram'), 'la nota terminologica è collegata');
 
   console.log('\n=== 3. Altre relazioni (a scopo dimostrativo) ===\n');
 
   const conceptQuestions = await ContentEngine.getConceptQuestions('brahman');
   printResult('getConceptQuestions("brahman")', conceptQuestions);
 
-  const workPassages = await ContentEngine.getWorkPassages('brhadaranyaka-upanishad');
-  printResult('getWorkPassages("brhadaranyaka-upanishad")', workPassages);
+  const workPassages = await ContentEngine.getWorkPassages('kena-upanishad');
+  printResult('getWorkPassages("kena-upanishad")', workPassages);
 
-  const relatedQuestions = await ContentEngine.getRelatedQuestions('che-cose-brahman');
+  const relatedQuestions = await ContentEngine.getRelatedQuestions('q-che-cose-brahman');
   if (relatedQuestions.status === 'ok') {
     relatedQuestions.data.forEach((r) => {
-      console.log(`  OK           getRelatedQuestions("che-cose-brahman") → ${r.id} (${r.why}) risolta: ${r.question.status}`);
+      console.log(`  OK           getRelatedQuestions("q-che-cose-brahman") → ${r.id} (${r.why}) risolta: ${r.question.status}`);
     });
   } else {
-    printResult('getRelatedQuestions("che-cose-brahman")', relatedQuestions);
+    printResult('getRelatedQuestions("q-che-cose-brahman")', relatedQuestions);
   }
 
   console.log('\n=== 4. Distinzione inesistente / non disponibile ===\n');
@@ -136,19 +136,19 @@ async function main() {
 
   ContentEngine.clearCache();
   ContentEngine.configure({ basePath: `http://127.0.0.1:${port}/percorso-inesistente/` });
-  const unavailableResult = await ContentEngine.getQuestion('che-cose-brahman');
-  printResult('getQuestion("che-cose-brahman") con basePath errato', unavailableResult);
+  const unavailableResult = await ContentEngine.getQuestion('q-che-cose-brahman');
+  printResult('getQuestion("q-che-cose-brahman") con basePath errato', unavailableResult);
   check(unavailableResult.status === 'unavailable', 'indice non caricabile riconosciuto come unavailable, non confuso con not-found');
 
-  server.close();
-
-  console.log('');
-  if (failures > 0) {
-    console.log(`Verifica FALLITA: ${failures} controlli non superati.\n`);
-    process.exit(1);
-  } else {
-    console.log('Verifica COMPLETATA: tutti i controlli superati.\n');
-  }
+  server.close(() => {
+    console.log('');
+    if (failures > 0) {
+      console.log(`Verifica FALLITA: ${failures} controlli non superati.\n`);
+      process.exit(1);
+    } else {
+      console.log('Verifica COMPLETATA: tutti i controlli superati.\n');
+    }
+  });
 }
 
 main().catch((err) => {

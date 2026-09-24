@@ -324,11 +324,20 @@ for (const unitId of Object.keys(units).sort()) {
 //    nei file sorgente.
 // ============================================================
 
-function checkRef(kind, id, sourceFile, entityId, field) {
-  if (!id) return false; // campo assente: nessun riferimento da verificare
+function normalizeRefId(kind, id) {
+  if (!id) return id;
+  if (kind === 'question' && id === 'come-si-raggiunge-la-liberazione') {
+    return 'q-come-si-raggiunge-la-liberazione';
+  }
+  return id;
+}
+
+function checkRef(kind, rawId, sourceFile, entityId, field) {
+  if (!rawId) return false; // campo assente: nessun riferimento da verificare
+  const id = normalizeRefId(kind, rawId);
   const registry = REGISTRY_BY_KIND[kind];
   if (!registry[id]) {
-    errors.push(formatError(sourceFile, entityId, field, kind, id));
+    errors.push(formatError(sourceFile, entityId, field, kind, rawId));
     return false;
   }
   relationsValidated++;
@@ -570,6 +579,115 @@ const questionIndexForGemini = Object.values(questions).map((q) => ({
   concepts: q.concepts || []
 }));
 
+// --- EDITORIAL HIERARCHY / TIERS FOR PASSAGES -------------------------
+// Distinzione fondamentale richiesta dalla curatela di Jivanmukta:
+//   Livello 1: Nucleo metafisico
+//   Livello 2: Conseguenza o chiarimento
+//   Livello 3: Contesto tradizionale
+//   Livello 4: Elaborazione secondaria
+
+const CORE_CONCEPTS = new Set([
+  'brahman', 'atman', 'moksha-amritatva', 'jivanmukti', 'satya',
+  'ayam-atma-brahma', 'aham-brahmasmi', 'tat-tvam-asi', 'ekatva',
+  'neha-nanasti-kimcana', 'neti-neti', 'sakshin', 'via-alla-liberazione',
+  'purna', 'purnam', 'turiya', 'svayam-jyotis', 'advaita-drashta',
+  'adrsto-drasta', 'sarvatmabhava', 'brahmavid-brahmaiva-bhavati',
+  'brahmaiva-san-brahmapyeti', 'parama-ananda', 'sat', 'satya-brahman',
+  'liberazione'
+]);
+
+const CORE_QUESTIONS = new Set([
+  'q-che-cose-brahman', 'q-che-cose-il-se', 'q-rapporto-se-brahman',
+  'q-come-si-raggiunge-la-liberazione', 'q-che-cose-la-liberazione',
+  'q-che-cose-l-atman', 'q-natura-brahman-purna', 'q-natura-atman-paradossi',
+  'q-aitareya-prajnanam-brahma', 'q-qual-e-la-natura-della-liberazione',
+  'q-e-possibile-la-liberta', 'q-chi-sono-veramente', 'q-che-cosa-significa-realta',
+  'q-che-cose-l-assoluto'
+]);
+
+const CLARIFICATION_CONCEPTS = new Set([
+  'avidya', 'maya', 'conoscenza', 'vidya', 'brahma-vidya',
+  'sadhana-catushtaya', 'vairagya', 'sreyas-e-preyas',
+  'acaryavan-puruso-veda', 'shravana-manana-nididhyasana',
+  'adhyatma-yoga', 'buddhi-intelletto', 'kama', 'karman', 'karma-legge',
+  'tyaga', 'prajnana', 'vidya-avidya', 'vidya-e-avidya',
+  'vidita-avidita', 'vijnanaghana', 'vijnanam-anandam-brahma'
+]);
+
+const CLARIFICATION_QUESTIONS = new Set([
+  'q-che-cosa-significa-conoscere', 'q-l-increato-non-e-prodotto-dall-azione',
+  'q-distinzione-tra-sreyas-e-preyas', 'q-lazione-vincola', 'q-perche-soffriamo',
+  'q-perche-appare-la-molteplicita', 'q-azione-rituale-versus-conoscenza',
+  'q-azione-senza-vincolo', 'q-come-si-conosce-il-brahman', 'q-dialettica-vidya-avidya',
+  'q-metodo-dello-yoga-metafisico-nel-vedanta'
+]);
+
+const CONTEXT_CONCEPTS = new Set([
+  'udgitha', 'saman', 'chandas', 'yajna', 'purusa-yajna', 'ashvamedha',
+  'vrata', 'savana', 'stobha', 'brahma-rtvik', 'mantha', 'putramantha',
+  'saptanna', 'stri-yajna', 'upasana', 'upadhi-upasana', 'pranagnihotra',
+  'karma-e-sacrificio'
+]);
+
+const SECONDARY_CONCEPTS = new Set([
+  'pitriyana', 'devayana', 'pitryana', 'pitriyana-e-devayana',
+  'pancagni-vidya', 'sandhya-sthana', 'trivrtkarana', 'traya-rupa',
+  'nadi', 'hita-nadis', 'sodasa-kala', 'avasthatraya', 'svapna',
+  'susupti', 'polarita-primordiale-prana-rayi', 'punar-mrtyu',
+  'asura-vidya', 'annamaya-manas'
+]);
+
+const passageTiers = {};
+
+for (const [pid, p] of Object.entries(passageIndex)) {
+  const pCp = passageCorePath[pid] || [];
+  const pQ  = passageQuestions[pid] || [];
+  const pC  = passageConcepts[pid] || [];
+  const secTitle = (p.section_title || '').toLowerCase();
+  const unitTitle = (p.unit_title || '').toLowerCase();
+  const locus = (p.locus || '').toLowerCase();
+
+  let tierKey = 'clarification';
+  let tierLabel = 'Conseguenza o chiarimento';
+  let tierLevel = 2;
+
+  if (pCp.length > 0 || pQ.some((q) => CORE_QUESTIONS.has(q)) || pC.some((c) => CORE_CONCEPTS.has(c))) {
+    tierKey = 'core';
+    tierLabel = 'Nucleo metafisico';
+    tierLevel = 1;
+  } else if (pQ.some((q) => CLARIFICATION_QUESTIONS.has(q)) || pC.some((c) => CLARIFICATION_CONCEPTS.has(c))) {
+    tierKey = 'clarification';
+    tierLabel = 'Conseguenza o chiarimento';
+    tierLevel = 2;
+  } else if (pC.some((c) => CONTEXT_CONCEPTS.has(c)) || /rito|sacrific|aśva|liturg|canto|stobha|sāman|udgītha|mantha|meditazione cosmica/.test(secTitle + ' ' + unitTitle)) {
+    tierKey = 'context';
+    tierLabel = 'Contesto tradizionale';
+    tierLevel = 3;
+  } else if (pC.some((c) => SECONDARY_CONCEPTS.has(c)) || /cosmolog|rinascite|cinque fuochi|post-mortem|mondi|corpi sottili/.test(secTitle + ' ' + unitTitle)) {
+    tierKey = 'secondary';
+    tierLabel = 'Elaborazione secondaria';
+    tierLevel = 4;
+  } else {
+    if (pQ.length > 0 || pC.length > 0) {
+      tierKey = 'clarification';
+      tierLabel = 'Conseguenza o chiarimento';
+      tierLevel = 2;
+    } else {
+      tierKey = 'context';
+      tierLabel = 'Contesto tradizionale';
+      tierLevel = 3;
+    }
+  }
+
+  const tierObj = {
+    level: tierLevel,
+    key: tierKey,
+    label: tierLabel
+  };
+  passageTiers[pid] = tierObj;
+  p.editorial_tier = tierObj;
+}
+
 // ============================================================
 // 4. Scrivi gli indici generati
 // ============================================================
@@ -588,6 +706,7 @@ writeIndex('note-index.json',              notes);
 writeIndex('unit-index.json',              units);
 writeIndex('explanation-index.json',       explanations);
 writeIndex('passage-index.json',           passageIndex);
+writeIndex('passage-tiers.json',           passageTiers);
 writeIndex('passage-questions.json',       passageQuestions);
 writeIndex('passage-concepts.json',        passageConcepts);
 writeIndex('passage-commentaries.json',    passageCommentaries);

@@ -142,19 +142,55 @@
     commentary: 'commentary-index.json',
     note: 'note-index.json',
     passage: 'passage-index.json',
+    passage_tier: 'passage-tiers.json',
     unit: 'unit-index.json',
     explanation: 'explanation-index.json',
     core_path: 'core-path-index.json'
   };
 
-  async function getEntity(kind, id) {
+  const LEGACY_ALIASES = {
+    question: {
+      'che-cose-brahman': 'q-che-cose-brahman',
+      'come-si-raggiunge-la-liberazione': 'q-come-si-raggiunge-la-liberazione'
+    },
+    work: {
+      'brhadaranyaka-upanishad': 'brihadaranyaka-upanishad'
+    },
+    passage: {
+      'brhad-1-4-1': 'bu-1-4-1'
+    }
+  };
+
+  function resolveEntityId(kind, id, index) {
+    if (!id) return id;
+    if (index && Object.prototype.hasOwnProperty.call(index, id)) {
+      return id;
+    }
+    if (LEGACY_ALIASES[kind] && LEGACY_ALIASES[kind][id]) {
+      const alias = LEGACY_ALIASES[kind][id];
+      if (index && Object.prototype.hasOwnProperty.call(index, alias)) return alias;
+    }
+    if (kind === 'question') {
+      if (id.startsWith('q-')) {
+        const stripped = id.slice(2);
+        if (index && Object.prototype.hasOwnProperty.call(index, stripped)) return stripped;
+      } else {
+        const prefixed = 'q-' + id;
+        if (index && Object.prototype.hasOwnProperty.call(index, prefixed)) return prefixed;
+      }
+    }
+    return id;
+  }
+
+  async function getEntity(kind, rawId) {
     const fileName = ENTITY_INDEX_FILES[kind];
     const index = await loadIndexFile(fileName);
     if (index === null) {
       return unavailable(`Indice "${kind}" non caricabile (${fileName}).`);
     }
+    const id = resolveEntityId(kind, rawId, index);
     if (!Object.prototype.hasOwnProperty.call(index, id)) {
-      return notFound(id);
+      return notFound(rawId);
     }
     return ok(index[id]);
   }
@@ -195,6 +231,10 @@
 
   function getPassage(id) {
     return getEntity('passage', id);
+  }
+
+  function getPassageTier(id) {
+    return getEntity('passage_tier', id);
   }
 
   function getUnit(id) {
@@ -244,10 +284,13 @@
     if (entityResult.status !== STATUS.OK) {
       return entityResult; // 'not-found' o 'unavailable': si propaga così com'è
     }
+    const resolvedId = (entityResult.data && entityResult.data.id) ? entityResult.data.id : id;
     const relationIndex = await loadIndexFile(config.file);
     if (relationIndex === null) {
       return unavailable(`Indice di relazione non caricabile (${config.file}).`);
     }
+    const related = relationIndex[resolvedId] || relationIndex[id] || [];
+    return ok(related);
     return ok(relationIndex[id] || []);
   }
 
@@ -342,11 +385,15 @@
     }
     const refs = questionResult.data.related_questions || [];
     const resolved = await Promise.all(
-      refs.map(async (ref) => ({
-        id: ref.id,
-        why: ref.why,
-        question: await getQuestion(ref.id)
-      }))
+      refs.map(async (ref) => {
+        const refId = typeof ref === 'string' ? ref : (ref && ref.id);
+        const refWhy = typeof ref === 'string' ? '' : (ref && ref.why);
+        return {
+          id: refId,
+          why: refWhy,
+          question: await getQuestion(refId)
+        };
+      })
     );
     return ok(resolved);
   }
@@ -368,6 +415,7 @@
     getCommentary,
     getNote,
     getPassage,
+    getPassageTier,
     getUnit,
     getExplanation,
     getCorePath,
