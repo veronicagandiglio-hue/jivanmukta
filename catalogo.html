@@ -71,21 +71,21 @@ h1,p{margin:0}
       kind: 'work',
       title: 'I testi',
       description: 'Le opere attraverso cui si articola lo studio delle fonti.',
-      label: function (item) { return item.title; },
+      label: function (item) { return item.title || item.name || item.id; },
       url: function (item) { return UrlRouter.buildContentUrl('testi', item.id); }
     },
     autori: {
       kind: 'author',
       title: 'Gli autori',
       description: 'Gli autori e le figure della tradizione presenti nel corpus.',
-      label: function (item) { return item.name; },
+      label: function (item) { return item.name || item.title || item.id; },
       url: function (item) { return UrlRouter.buildContentUrl('autori', item.id); }
     },
     concetti: {
       kind: 'concept',
       title: 'I concetti',
       description: 'I concetti dottrinali che orientano la lettura delle fonti.',
-      label: function (item) { return item.name; },
+      label: function (item) { return item.name || item.title || item.id; },
       url: function (item) { return UrlRouter.buildContentUrl('concetti', item.id); }
     }
   };
