@@ -121,6 +121,24 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
   color: var(--color-ink-muted);
 }
 
+.doctrine-core{
+  margin-top: var(--sp-5);
+  padding: var(--sp-4) var(--sp-5);
+  background: var(--color-bg-raised);
+  border-left: 4px solid var(--color-accent);
+}
+.doctrine-core__eyebrow{
+  color: var(--color-accent);
+  font-size: var(--fs-caption);
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.doctrine-core h2{font-size:var(--fs-h2);font-weight:400;line-height:var(--lh-tight);margin-top:var(--sp-1)}
+.doctrine-core p{margin-top:var(--sp-2)}
+.doctrine-core__distinction{padding-top:var(--sp-3);border-top:1px solid var(--color-rule);color:var(--color-ink-muted)}
+.doctrine-core__link{display:inline-block;margin-top:var(--sp-3);font-weight:700}
+
 /* Due Ingressi */
 .portals{
   margin-top: var(--sp-7);
@@ -308,6 +326,12 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
   grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
   gap: var(--sp-3);
 }
+.source-group + .source-group{margin-top:var(--sp-5);padding-top:var(--sp-4);border-top:1px solid var(--color-rule)}
+.source-group__title{font-size:var(--fs-h3);font-weight:700;color:var(--color-ink-muted)}
+.source-group__desc{margin-top:var(--sp-1);max-width:65ch;color:var(--color-ink-faint);font-size:var(--fs-note)}
+.source-group__list{margin-top:var(--sp-3);display:grid;grid-template-columns:repeat(auto-fill,minmax(16rem,1fr));gap:var(--sp-3)}
+.source-group__empty{margin-top:var(--sp-2);font-size:var(--fs-note);color:var(--color-ink-faint)}
+.source-group__link{display:inline-block;margin-top:var(--sp-2)}
 .source-card{
   background: var(--color-bg-raised);
   padding: var(--sp-3);
@@ -353,6 +377,7 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
     <span class="masthead__mark">Jivanmukta</span>
     <nav class="masthead__nav">
       <a href="#percorso-indice">Percorso di esposizione</a>
+      <a href="#nucleo-dottrina">Nucleo della dottrina</a>
       <a href="#domande-fondamentali">Le grandi domande</a>
       <a href="/catalogo.html?tipo=testi">I Testi Tradotti</a>
       <a href="/catalogo.html?tipo=concetti">Concetti</a>
@@ -367,6 +392,14 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
       dissoluzione del senso individuale e cerca di comprenderla alla luce
       dell'Advaita Vedānta tradizionale.
     </p>
+  </section>
+
+  <section class="doctrine-core measure" id="nucleo-dottrina" aria-labelledby="doctrine-core-title">
+    <span class="doctrine-core__eyebrow">Il punto essenziale</span>
+    <h2 id="doctrine-core-title">Brahman è la Realtà ultima; Ātman non è altro da Brahman.</h2>
+    <p>Questa identità è il nucleo dell’Advaita Vedānta. Brahman non è un oggetto, uno stato mentale o qualcosa che si possa spiegare con una definizione: le parole indicano il principio, ma non lo contengono.</p>
+    <p class="doctrine-core__distinction"><strong>Il resto va letto al suo livello.</strong> I riti, le meditazioni rituali, i corpi sottili e le descrizioni dei mondi o dei destini dopo la morte sono insegnamenti e schemi tradizionali riferiti all’esistenza manifestata. Possono avere un significato nel loro contesto, ma non sono il nucleo assoluto né aggiungono altre realtà ultime accanto a Brahman.</p>
+    <a class="doctrine-core__link" href="/percorso/06-che-cose-brahman">Vai alla tappa su Brahman →</a>
   </section>
 
   <!-- I DUE INGRESSI -->
@@ -439,19 +472,31 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
     </div>
   </section>
 
-  <!-- LE FONTI TRADOTTE -->
+  <!-- FONTI E TESTI SEPARATI PER TIPO -->
   <section class="sources-section measure">
-    <h2 class="sources-section__title">Le fonti della tradizione</h2>
-    <p class="path-section__desc">
-      Le fonti sono lette secondo una gerarchia esplicita. <strong>Brahman e l'identità Ātman–Brahman costituiscono il solo piano assoluto.</strong> Riti, meditazioni rituali e dottrine di corpi sottili, stati e cosmologie appartengono all'esposizione dell'ordine manifestato: possono avere una funzione tradizionale o pedagogica, ma non definiscono Brahman né aggiungono una seconda realtà ultima. Le opere moderne, come quelle di Guénon, sono distinte dalle Upaniṣad e dai commentari tradizionali.
-    </p>
-    <p class="path-section__desc">
-      Per l'orientamento generale di Guénon: <a href="/testi/introduzione-generale-allo-studio-delle-dottrine-indu">Introduzione generale allo studio delle dottrine indù →</a>
-    </p>
-
-    <div class="sources-list" id="works-container">
-      <!-- Opere caricate dinamicamente -->
-    </div>
+    <h2 class="sources-section__title">Testi e commenti</h2>
+    <p class="path-section__desc">Sono presentati in sezioni diverse per rendere chiara la loro natura e funzione: le Upaniṣad sono fonti della tradizione vedica; Guénon è un autore moderno; i commenti di Śaṅkara sono interpretazioni tradizionali collegate ai testi.</p>
+    <section class="source-group" aria-labelledby="upanishad-heading">
+      <h3 class="source-group__title" id="upanishad-heading">Upaniṣad — fonti primarie</h3>
+      <p class="source-group__desc">I testi vedici a cui si riferisce l’esposizione del Vedānta. Al loro interno compaiono anche insegnamenti rituali, cosmologici e meditativi, da distinguere dal principio assoluto.</p>
+      <div class="source-group__list" id="upanishad-works"></div>
+    </section>
+    <section class="source-group" aria-labelledby="commentary-heading">
+      <h3 class="source-group__title" id="commentary-heading">Commenti tradizionali — Śaṅkara</h3>
+      <p class="source-group__desc">I commenti spiegano come leggere le Upaniṣad secondo la tradizione Advaita. Le selezioni presenti nel sito accompagnano i passi; non sono un’edizione integrale dei commentari.</p>
+      <div class="source-group__list" id="commentary-works"></div>
+      <a class="source-group__link" href="/autori/adi-shankara">Śaṅkara e i commenti selezionati →</a>
+    </section>
+    <section class="source-group" aria-labelledby="modern-heading">
+      <h3 class="source-group__title" id="modern-heading">Studi moderni — René Guénon</h3>
+      <p class="source-group__desc">Un’esposizione moderna utile per l’orientamento metafisico, distinta dalle fonti upaniṣadiche e dai commentari tradizionali.</p>
+      <div class="source-group__list" id="modern-works"></div>
+    </section>
+    <section class="source-group" id="other-sources" hidden>
+      <h3 class="source-group__title">Altri testi</h3>
+      <p class="source-group__desc">Altri materiali presenti nel catalogo, presentati separatamente dalle fonti primarie.</p>
+      <div class="source-group__list" id="other-works"></div>
+    </section>
   </section>
 
   <footer class="footer measure">
@@ -500,13 +545,20 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
     });
   }
 
-  // 2. Carica le opere (Upaniṣad) tradotte
-  const worksContainer = document.getElementById('works-container');
+  // 2. Separa le Upaniṣad dagli studi moderni.
   const worksResult = await ContentEngine.getEntities('work');
 
   if (worksResult.status === 'ok') {
-    worksContainer.replaceChildren();
+    const targets = {
+      upanishad: document.getElementById('upanishad-works'),
+      modern_study: document.getElementById('modern-works'),
+      traditional_commentary: document.getElementById('commentary-works'),
+      other: document.getElementById('other-works')
+    };
+    Object.values(targets).forEach((container) => container.replaceChildren());
     worksResult.data.forEach((work) => {
+      const sourceType = work.source_type || (/upanishad|upanisad/i.test(work.id) ? 'upanishad' : 'other');
+      const target = targets[sourceType] || targets.other;
       const card = document.createElement('div');
       card.className = 'source-card';
 
@@ -516,11 +568,18 @@ button{ font: inherit; color: inherit; background: none; border: 0; padding: 0; 
 
       const desc = document.createElement('div');
       desc.className = 'source-card__desc';
-      desc.textContent = work.author_attribution || 'Testo upaniṣadico della tradizione vedica';
+      desc.textContent = sourceType === 'modern_study'
+        ? (work.attribution || 'Studio moderno')
+        : sourceType === 'traditional_commentary'
+          ? 'Commentario tradizionale'
+          : sourceType === 'upanishad'
+            ? (work.attribution || 'Fonte primaria upaniṣadica')
+            : (work.attribution || 'Testo di approfondimento');
 
       card.append(link, desc);
-      worksContainer.appendChild(card);
+      target.appendChild(card);
     });
+    document.getElementById('other-sources').hidden = !targets.other.children.length;
   }
 
   // 3. Carica le domande globali (scope: "global") ordinate per homepage_priority

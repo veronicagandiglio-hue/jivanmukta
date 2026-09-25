@@ -38,6 +38,12 @@ h1,p{margin:0}
 .catalog__item:hover,.catalog__item:focus-visible{color:var(--color-accent)}
 .catalog__name{font-size:2rem;line-height:1.25}
 .catalog__meta{margin-top:.25rem;color:var(--color-ink-faint);font-size:.95rem}
+.catalog-group + .catalog-group{margin-top:4rem;padding-top:2.5rem;border-top:1px solid var(--color-rule)}
+.catalog-group h2{font-size:1.65rem;font-weight:400;line-height:1.3}
+.catalog-group__desc{margin-top:.5rem;max-width:62ch;color:var(--color-ink-muted);font-size:1rem}
+.catalog-group__items{margin-top:1.5rem;border-top:1px solid var(--color-rule)}
+.catalog-group__note{margin-top:1rem;color:var(--color-ink-muted);font-size:1rem}
+.catalog-group__link{display:inline-block;margin-top:.75rem}
 .status{padding-block:1.25rem;color:var(--color-ink-muted);font-style:italic}
 @media(max-width:640px){
   .page{padding:2rem 1.25rem 5rem}
@@ -109,7 +115,7 @@ h1,p{margin:0}
     }
 
     const items = result.data.slice().sort(function (left, right) {
-      return current.label(left).localeCompare(current.label(right), 'it');
+      return String(current.label(left)).localeCompare(String(current.label(right)), 'it');
     });
 
     if (!items.length) {
@@ -117,7 +123,7 @@ h1,p{margin:0}
       return;
     }
 
-    items.forEach(function (item) {
+    function makeItem(item) {
       const link = document.createElement('a');
       link.className = 'catalog__item';
       link.href = current.url(item);
@@ -131,8 +137,54 @@ h1,p{margin:0}
       meta.className = 'catalog__meta';
       meta.textContent = item.short_title || item.transliteration || item.id;
       link.append(meta);
-      catalog.append(link);
-    });
+      return link;
+    }
+
+    if (type === 'testi') {
+      catalog.replaceChildren();
+      function appendGroup(titleText, descriptionText, groupItems, emptyText) {
+        const section = document.createElement('section');
+        section.className = 'catalog-group';
+        const heading = document.createElement('h2');
+        heading.textContent = titleText;
+        section.append(heading);
+        const intro = document.createElement('p');
+        intro.className = 'catalog-group__desc';
+        intro.textContent = descriptionText;
+        section.append(intro);
+        const list = document.createElement('div');
+        list.className = 'catalog-group__items';
+        groupItems.forEach((item) => list.append(makeItem(item)));
+        if (!groupItems.length && emptyText) {
+          const note = document.createElement('p');
+          note.className = 'catalog-group__note';
+          note.textContent = emptyText;
+          list.append(note);
+        }
+        section.append(list);
+        catalog.append(section);
+        return section;
+      }
+
+      const typeOf = (item) => item.source_type || (item.id === 'introduzione-generale-allo-studio-delle-dottrine-indu' ? 'modern_study' : /upanishad|upanisad/i.test(item.id) ? 'upanishad' : 'other');
+      const upanishads = items.filter((item) => typeOf(item) === 'upanishad');
+      const commentaries = items.filter((item) => typeOf(item) === 'traditional_commentary');
+      const studies = items.filter((item) => typeOf(item) === 'modern_study');
+      const other = items.filter((item) => !['upanishad', 'traditional_commentary', 'modern_study'].includes(typeOf(item)));
+
+      appendGroup('Upaniṣad — fonti primarie', 'I testi vedici alla base dell’insegnamento del Vedānta. I riti, le meditazioni e le descrizioni cosmologiche che vi compaiono vanno letti nel loro contesto: non sono un secondo nucleo assoluto accanto a Brahman.', upanishads);
+      const commentarySection = appendGroup('Commenti tradizionali — Śaṅkara', 'Interpretazioni tradizionali dei testi upaniṣadici, distinte sia dalle fonti commentate sia dagli studi moderni.', commentaries, 'I commenti selezionati di Śaṅkara sono associati ai passi delle Upaniṣad; non è ancora presente un’edizione integrale autonoma.');
+      const authorLink = document.createElement('a');
+      authorLink.className = 'catalog-group__link';
+      authorLink.href = '/autori/adi-shankara';
+      authorLink.textContent = 'Vedi Śaṅkara e i commenti selezionati →';
+      commentarySection.append(authorLink);
+      appendGroup('Studi moderni — René Guénon', 'Testi moderni di orientamento metafisico. Sono contributi interpretativi e non Upaniṣad né commentari tradizionali.', studies);
+      if (other.length) appendGroup('Altri testi', 'Altri materiali presenti nel catalogo.', other);
+      return;
+    }
+
+    items.forEach(function (item) { catalog.append(makeItem(item)); });
   }).catch(function () {
     catalog.textContent = 'Il catalogo non è momentaneamente disponibile.';
   });

@@ -147,6 +147,7 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
   font-size: var(--fs-note);
   color: var(--color-ink-muted);
 }
+.work-type{margin-top:var(--sp-2);font-size:var(--fs-caption);letter-spacing:.06em;text-transform:uppercase;color:var(--color-accent)}
 
 .contents{ display: flex; flex-direction: column; }
 .contents li{ border-top: 1px solid var(--color-rule); }
@@ -214,6 +215,7 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
   <section class="block measure">
     <h1 class="work-title" id="work-title"></h1>
     <p class="work-attribution" id="work-attribution"></p>
+    <p class="work-type" id="work-type"></p>
   </section>
 
   <!-- NOTA EDITORIALE -->
@@ -317,6 +319,7 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
     document.title = m.title + ' — Advaita Vedānta';
     byId('work-title').textContent = m.title;
     byId('work-attribution').textContent = m.attribution;
+    byId('work-type').textContent = '';
     byId('section-editorial').hidden = true;
     byId('section-contents').hidden = true;
     byId('footer-name').textContent = m.title;
@@ -326,6 +329,12 @@ a:focus-visible{ outline: 1px solid var(--color-accent); outline-offset: 3px; }
     document.title = work.title + ' — Advaita Vedānta';
     byId('work-title').textContent = work.title;
     byId('work-attribution').textContent = work.attribution || '';
+    const typeLabels = {
+      upanishad: 'Fonte primaria · Upaniṣad',
+      traditional_commentary: 'Commentario tradizionale · Śaṅkara',
+      modern_study: 'Studio moderno · René Guénon'
+    };
+    byId('work-type').textContent = typeLabels[work.source_type] || 'Testo di approfondimento';
     byId('footer-name').textContent = work.title;
 
     // Nota editoriale

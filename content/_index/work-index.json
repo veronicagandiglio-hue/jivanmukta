@@ -1,6 +1,7 @@
 {
   "aitareya-upanisad": {
     "id": "aitareya-upanisad",
+    "source_type": "upanishad",
     "title": "Aitareya Upaniṣad",
     "short_title": "Aitareya",
     "language": "sanscrito",
@@ -14,6 +15,7 @@
   },
   "brihadaranyaka-upanishad": {
     "id": "brihadaranyaka-upanishad",
+    "source_type": "upanishad",
     "title": "Bṛhadāraṇyaka Upaniṣad",
     "short_title": "Bṛhadāraṇyaka",
     "language": "sa",
@@ -35,6 +37,7 @@
   },
   "chandogya-upanisad": {
     "id": "chandogya-upanisad",
+    "source_type": "upanishad",
     "title": "Chāndogya Upaniṣad",
     "short_title": "Chāndogya",
     "language": "sanscrito",
@@ -54,6 +57,7 @@
   },
   "introduzione-generale-allo-studio-delle-dottrine-indu": {
     "id": "introduzione-generale-allo-studio-delle-dottrine-indu",
+    "source_type": "modern_study",
     "title": "Introduzione generale allo studio delle dottrine indù",
     "short_title": "Dottrine indù",
     "language": "francese (traduzione italiana)",
@@ -108,6 +112,7 @@
   },
   "isha-upanishad": {
     "id": "isha-upanishad",
+    "source_type": "upanishad",
     "title": "Īśāvāsyopaniṣad",
     "short_title": "Īśā",
     "language": "sa",
@@ -123,6 +128,7 @@
   },
   "katha-upanishad": {
     "id": "katha-upanishad",
+    "source_type": "upanishad",
     "title": "Kaṭhopaniṣad",
     "short_title": "Katha",
     "language": "sa",
@@ -144,6 +150,7 @@
   },
   "kena-upanishad": {
     "id": "kena-upanishad",
+    "source_type": "upanishad",
     "title": "Kenopaniṣad",
     "short_title": "Kena",
     "language": "sa",
@@ -162,6 +169,7 @@
   },
   "mandukya-upanishad": {
     "id": "mandukya-upanishad",
+    "source_type": "upanishad",
     "title": "Māṇḍūkya Upaniṣad",
     "short_title": "Māṇḍūkya",
     "language": "sa",
@@ -178,6 +186,7 @@
   },
   "mundaka-upanishad": {
     "id": "mundaka-upanishad",
+    "source_type": "upanishad",
     "title": "Muṇḍakopaniṣad",
     "short_title": "Mundaka",
     "language": "sa",
@@ -199,6 +208,7 @@
   },
   "prashna-upanishad": {
     "id": "prashna-upanishad",
+    "source_type": "upanishad",
     "title": "Praśnopaniṣad",
     "short_title": "Prashna",
     "language": "sa",
@@ -220,6 +230,7 @@
   },
   "taittiriya-upanishad": {
     "id": "taittiriya-upanishad",
+    "source_type": "upanishad",
     "title": "Taittirīyopaniṣad",
     "short_title": "Taittirīya",
     "language": "sa",
