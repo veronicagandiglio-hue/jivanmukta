@@ -2,6 +2,7 @@
   "id": "q-dissoluzione-delle-parti-nell-oceano-del-se",
   "type": "great",
   "text": "Come si compie il riassorbimento finale dei nomi e delle forme (nāmarūpa) nel Puruṣa incondizionato?",
+  "introduction": "La Praśna Upaniṣad paragona la dissoluzione delle forme ai fiumi che, raggiunto l’oceano, non si distinguono più per nome e forma. È un’immagine cosmologica del testo, non il racconto di Brahman che cambia o di un individuo che diventa assoluto compiendo un’azione. Va distinta dal raccoglimento interiore di sensi e mente descritto nella Kaṭha; nessuna di queste descrizioni aggiunge un secondo principio alla realtà ultima.",
   "problem": "Spiegare la scomparsa ontologica delle sedici parti senza residuo duale all'atto della reintegrazione liberatrice.",
   "concepts": [
     "sodasa-kala",
@@ -12,6 +13,6 @@
     "prashna-6-5",
     "prashna-6-6"
   ],
-  "scope": "global",
+  "scope": "local",
   "homepage_priority": 11
 }

@@ -2828,6 +2828,7 @@
     "id": "q-dissoluzione-delle-parti-nell-oceano-del-se",
     "type": "great",
     "text": "Come si compie il riassorbimento finale dei nomi e delle forme (nāmarūpa) nel Puruṣa incondizionato?",
+    "introduction": "La Praśna Upaniṣad paragona la dissoluzione delle forme ai fiumi che, raggiunto l’oceano, non si distinguono più per nome e forma. È un’immagine cosmologica del testo, non il racconto di Brahman che cambia o di un individuo che diventa assoluto compiendo un’azione. Va distinta dal raccoglimento interiore di sensi e mente descritto nella Kaṭha; nessuna di queste descrizioni aggiunge un secondo principio alla realtà ultima.",
     "problem": "Spiegare la scomparsa ontologica delle sedici parti senza residuo duale all'atto della reintegrazione liberatrice.",
     "concepts": [
       "sodasa-kala",
@@ -2838,7 +2839,7 @@
       "prashna-6-5",
       "prashna-6-6"
     ],
-    "scope": "global",
+    "scope": "local",
     "homepage_priority": 11,
     "source_file": "questions/q-dissoluzione-delle-parti-nell-oceano-del-se.json"
   },
@@ -3334,6 +3335,7 @@
     "id": "q-l-arco-del-pranava-e-il-bersaglio-di-brahman",
     "type": "great",
     "text": "Come si attua la perfetta fusione fra la freccia del Sé e il bersaglio del Brahman mediante Oṃ?",
+    "introduction": "La Muṇḍaka usa l’arco, la freccia e il bersaglio come immagine meditativa: Oṃ è il supporto, mentre la freccia rappresenta l’attenzione rivolta a Brahman. Non si tratta della fusione di due realtà che prima esistevano separate, perché l’insegnamento culmina nell’identità del Sé con Brahman. L’immagine ha valore contemplativo, ma non aggiunge una spiegazione ulteriore della Realtà ultima.",
     "problem": "L'analogia dell'arco del Praṇava riguarda la disciplina della concentrazione e della fusione.",
     "concepts": [
       "pranava",
@@ -3344,7 +3346,7 @@
       "mundaka-2-2-3",
       "mundaka-2-2-4"
     ],
-    "scope": "global",
+    "scope": "local",
     "homepage_priority": 12,
     "source_file": "questions/q-l-arco-del-pranava-e-il-bersaglio-di-brahman.json"
   },
@@ -3352,6 +3354,7 @@
     "id": "q-l-increato-non-e-prodotto-dall-azione",
     "type": "great",
     "text": "Per quale ragione metafisica l'Incondizionato non può essere prodotto dall'azione contingente?",
+    "introduction": "Un’azione può produrre un risultato che prima non c’era; perciò il suo effetto dipende da cause e condizioni. Brahman, invece, è indicato come incondizionato: non può essere creato né ottenuto come un nuovo oggetto. Nel passo della Muṇḍaka, la conoscenza distingue ciò che è prodotto dall’azione da ciò che non nasce. Le azioni possono avere il loro valore nel mondo e nella preparazione, ma non producono l’identità Ātman–Brahman.",
     "problem": "Il versetto fondamentale sulla natura del non-fatto rispetto al fatto.",
     "concepts": [
       "karma-e-sacrificio"
@@ -3402,7 +3405,8 @@
   "q-metodo-dello-yoga-metafisico-nel-vedanta": {
     "id": "q-metodo-dello-yoga-metafisico-nel-vedanta",
     "type": "great",
-    "text": "Come si attua il riassorbimento graduale delle facoltà individuali (laya) nel Sé?",
+    "text": "Che cosa significa raccogliere i sensi e la mente nel Sé?",
+    "introduction": "Nella Kaṭha Upaniṣad questa immagine indica un raccoglimento progressivo: i sensi non trascinano più la mente verso gli oggetti, la mente si acquieta e l’intelletto si orienta al Sé. È un insegnamento sulla disciplina interiore e sui diversi livelli dell’esperienza. Non descrive una trasformazione di Brahman e non significa che una pratica produca il Sé. La Praśna Upaniṣad presenta invece immagini cosmologiche della dissoluzione delle forme: è un tema distinto, qui lasciato come approfondimento.",
     "problem": "Definire la disciplina dello Yoga della Kaṭha Upaniṣad non come ginnastica o psicologia, ma come raccoglimento dell'essere nella pura Coscienza.",
     "concepts": [
       "adhyatma-yoga",

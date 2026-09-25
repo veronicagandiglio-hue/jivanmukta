@@ -2,6 +2,7 @@
   "id": "q-l-arco-del-pranava-e-il-bersaglio-di-brahman",
   "type": "great",
   "text": "Come si attua la perfetta fusione fra la freccia del Sé e il bersaglio del Brahman mediante Oṃ?",
+  "introduction": "La Muṇḍaka usa l’arco, la freccia e il bersaglio come immagine meditativa: Oṃ è il supporto, mentre la freccia rappresenta l’attenzione rivolta a Brahman. Non si tratta della fusione di due realtà che prima esistevano separate, perché l’insegnamento culmina nell’identità del Sé con Brahman. L’immagine ha valore contemplativo, ma non aggiunge una spiegazione ulteriore della Realtà ultima.",
   "problem": "L'analogia dell'arco del Praṇava riguarda la disciplina della concentrazione e della fusione.",
   "concepts": [
     "pranava",
@@ -12,6 +13,6 @@
     "mundaka-2-2-3",
     "mundaka-2-2-4"
   ],
-  "scope": "global",
+  "scope": "local",
   "homepage_priority": 12
 }
