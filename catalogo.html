@@ -90,7 +90,9 @@ h1,p{margin:0}
     }
   };
 
-  const type = new URLSearchParams(window.location.search).get('tipo') || 'testi';
+  const path = window.location.pathname.replace(/\/+$/, '');
+  const pathType = path === '/concetti' ? 'concetti' : path === '/autori' ? 'autori' : path === '/testi' ? 'testi' : null;
+  const type = pathType || new URLSearchParams(window.location.search).get('tipo') || 'testi';
   const current = config[type] || config.testi;
   const title = document.getElementById('catalog-title');
   const description = document.getElementById('catalog-description');
@@ -102,7 +104,7 @@ h1,p{margin:0}
 
   ContentEngine.getEntities(current.kind).then(function (result) {
     if (result.status !== 'ok') {
-      catalog.textContent = 'Il catalogo non e momentaneamente disponibile.';
+      catalog.textContent = 'Il catalogo non è momentaneamente disponibile.';
       return;
     }
 
@@ -132,7 +134,7 @@ h1,p{margin:0}
       catalog.append(link);
     });
   }).catch(function () {
-    catalog.textContent = 'Il catalogo non e momentaneamente disponibile.';
+    catalog.textContent = 'Il catalogo non è momentaneamente disponibile.';
   });
 }());
 </script>

@@ -7,7 +7,7 @@
   const norm = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('it');
   const excluded = 'script,style,noscript,textarea,input,select,option,button,a,code,pre,[data-no-glossary],[data-translation],.translation,.verse__text,.verse__original,.passage__text,.passage__original,.passage-card__translation,.passage-card__original,.glossary-dialog';
   const style = document.createElement('style');
-  style.textContent = '.glossary-term{font:inherit;color:inherit;background:none;border:0;border-bottom:1px dotted currentColor;padding:0;cursor:help}.glossary-dialog{max-width:min(38rem,calc(100vw - 2rem));max-height:80vh;overflow:auto;border:1px solid #c9c2b4;border-radius:.5rem;padding:1.5rem;background:#fffdf8;color:#201f1c;font:1.05rem/1.6 Georgia,serif;box-shadow:0 1rem 3rem #0003}.glossary-dialog::backdrop{background:#16140fcc}.glossary-dialog h2{font-size:1.4rem;margin:0 2.5rem .75rem 0}.glossary-dialog p{margin:.5rem 0 1rem}.glossary-dialog ul{padding-left:1.3rem}.glossary-dialog li+li{margin-top:.8rem}.glossary-dialog a{color:#354565}.glossary-close{float:right;border:1px solid #aaa;border-radius:.25rem;background:white;padding:.25rem .65rem;font:inherit;cursor:pointer}.glossary-open{font-size:.9em;white-space:nowrap}';
+  style.textContent = '.glossary-term{position:relative;font:inherit;color:inherit;background:none;border:0;border-bottom:1px dotted currentColor;padding:0;cursor:help}.glossary-term::after{content:attr(data-gloss);display:none;position:absolute;z-index:20;left:0;bottom:calc(100% + .4rem);width:min(24rem,80vw);padding:.8rem 1rem;border:1px solid #c9c2b4;border-radius:.35rem;background:#fffdf8;color:#201f1c;text-align:left;white-space:normal;font:1rem/1.45 Georgia,serif;box-shadow:0 .35rem 1.3rem #0003}.glossary-term:hover::after,.glossary-term:focus-visible::after{display:block}.glossary-dialog{max-width:min(38rem,calc(100vw - 2rem));max-height:80vh;overflow:auto;border:1px solid #c9c2b4;border-radius:.5rem;padding:1.5rem;background:#fffdf8;color:#201f1c;font:1.05rem/1.6 Georgia,serif;box-shadow:0 1rem 3rem #0003}.glossary-dialog::backdrop{background:#16140fcc}.glossary-dialog h2{font-size:1.4rem;margin:0 2.5rem .75rem 0}.glossary-dialog p{margin:.5rem 0 1rem}.glossary-dialog ul{padding-left:1.3rem}.glossary-dialog li+li{margin-top:.8rem}.glossary-dialog a{color:#354565}.glossary-close{float:right;border:1px solid #aaa;border-radius:.25rem;background:white;padding:.25rem .65rem;font:inherit;cursor:pointer}.glossary-open{font-size:.9em;white-space:nowrap}';
   document.head.appendChild(style);
 
   const dialog = document.createElement('dialog');
@@ -77,9 +77,13 @@
       if (match.index > from) frag.appendChild(document.createTextNode(source.slice(from, match.index)));
       if (match[1]) frag.appendChild(document.createTextNode(match[1]));
       const btn = document.createElement('button');
-      btn.type = 'button'; btn.className = 'glossary-term'; btn.textContent = match[2];
-      btn.setAttribute('aria-label', 'Spiegazione del termine ' + match[2]);
-      btn.addEventListener('click', () => open(match[2], entries, btn));
+      const matchedText = match[2];
+      btn.type = 'button'; btn.className = 'glossary-term'; btn.textContent = matchedText;
+      const explanation = entries.map((entry) => (entries.length > 1 ? (entry.name || entry.id) + ': ' : '') + (entry.gloss || 'Voce del glossario senza spiegazione disponibile.')).join(' ');
+      btn.dataset.gloss = explanation;
+      btn.title = explanation;
+      btn.setAttribute('aria-label', 'Spiegazione del termine ' + matchedText);
+      btn.addEventListener('click', () => open(matchedText, entries, btn));
       frag.appendChild(btn);
       from = match.index + match[0].length;
       found = true;
